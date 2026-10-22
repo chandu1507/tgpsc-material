@@ -45,7 +45,7 @@ topics=[]
 for pdf in sorted(pdfs):
     folder=pdf.rpartition("/")[0]
     raw=files[folder+"/source/detailed-notes.md"].decode()
-    match=re.search(r"^#\\s+(.+)$",raw,re.MULTILINE)
+    match=re.search(r"^#\s+(.+)$",raw,re.MULTILINE)
     title=match.group(1).strip() if match else folder.split("/")[-1]
     parts=[];links=[]
     for slug,label in sections:
