@@ -1,15 +1,17 @@
 # TGPSC Group 1 Study Atlas
 
-A public, work-in-progress study portal for TGPSC Group I Mains, Papers II–VI.
+Public website framework for TGPSC Group I Mains, Papers II–VI. Designed for use on phones, tablets and desktops.
 
-**Progress:** 75 planned topic pages; 3 expanded topic drafts, 2 foundation drafts; 0 chapters fully approved. Official PYQs and remaining syllabus title subdivisions must be independently verified.
+## Status
 
-## Website
+75 navigable topic pages (5 papers × 3 units × 5 topics); three preliminary topic extracts online. The longer three expanded and two foundation PDF drafts still await transfer from the previous project ZIP. **No topic is academically approved.** Sixty-five topic headings have not been checked against the official syllabus clauses yet, and remain explicitly marked.
 
-After enabling GitHub Pages, the site will be at https://chandu1507.github.io/tgpsc-material/.
+## Enable GitHub Pages
 
-### GitHub Pages setup
+In repository Settings → Pages → Build and deployment → Source: **Deploy from a branch**, Branch: **main**, Folder: **/(root)**. Save. The resulting URL should be https://chandu1507.github.io/tgpsc-material/ once GitHub publishes it.
 
-Repository Settings → Pages → Build and deployment → Deploy from a branch → `main` → `/(root)` → Save.
+There is no build step or external dependency. GitHub Pages can host this static HTML/CSS/JavaScript site from the root.
 
-This is an independent educational resource, not affiliated with the commission.
+For development, open `index.html` or run a static file server.
+
+*Independent educational project, not affiliated with TGPSC.*
