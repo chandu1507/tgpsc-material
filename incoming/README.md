@@ -2,6 +2,22 @@
 
 **Required filename (keep exact):** `TGPSC_PAPER_II_15_TOPICS_REVISED_DRAFT.zip`
 
+## Missing-upload recovery
+
+The failed run on 22 October 2026 expected
+`incoming/TGPSC_PAPER_II_15_TOPICS_REVISED_DRAFT.zip` relative to the repository root.
+The workflow and importer already agree on this path. The source archive is not
+currently committed; changing Python or rendering dependencies will not resolve it.
+
+Upload the actual validated 15-topic checkpoint using the instructions below.
+Do not rename `downloads/TGPSC_GITHUB_PUBLICATION_SNAPSHOT.zip` as the source:
+it is a publication backup, not the required checkpoint with 15 PDFs and source notes.
+
+Committing the ZIP at the exact path to `main` starts a **new** import run automatically.
+Alternatively, after the ZIP is committed, open **Actions → Import Paper II Full Notes →
+Run workflow**, select `main`, and start a new run. Do not use **Re-run jobs** on
+the old failure: it checks out the original commit, which lacks the upload.
+
 ## One-time GitHub upload
 
 1. Download the checkpoint supplied in the TGPSC chat.
