@@ -1,13 +1,3 @@
-# Paper III · Unit III · Topic 5 — Ethics and Administrative Reforms
+# P3-U3-T5 expanded draft
 
-**Expanded draft, not academically approved.** Produced 23 October 2026.
-
-- Full 31-page PDF: [complete-notes.pdf](complete-notes.pdf)
-- Full offline chapter: [index.html](index.html)
-- Editable complete manuscript: [source/complete-notes.md](source/complete-notes.md)
-- Original 25 MCQs and 6 question-specific mains models (221–246 words each).
-- 18 substantial concept chapters, 3 diagrams, 22 official-source register entries.
-- Official TGPSC question paper provenance: **zero verified PYQs**. All questions are original practice.
-- Syllabus wording checked against public reproduction of Notification 02/2024; official PDF access and independent academic review remain open.
-
-The project has 75 slots. This publication adds exactly one new draft; older work is preserved.
+31-page complete PDF, full offline HTML, editable Markdown, 3 original diagrams, 25 original explained MCQs, 6 complete mains model answers and 22-source audit. No official PYQs claimed. Not academically approved.
