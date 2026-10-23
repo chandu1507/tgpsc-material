@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 38,
-  "slots_without_published_pdf": 37,
+  "published_draft_pdf_topics": 39,
+  "slots_without_published_pdf": 36,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 38,
-    "last_reported_topic": "4-2-3",
-    "remaining_without_first_draft": 37,
+    "sequential_drafts_indicated": 39,
+    "last_reported_topic": "4-2-4",
+    "remaining_without_first_draft": 36,
     "independently_verified_as_complete_master": false,
-    "note": "38 PDF/chapter draft pairs present after publication; older shallow drafts and full academic audits remain outstanding."
+    "note": "39 PDF/chapter draft pairs published after this run; older shallow drafts remain below final academic standard."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -395,13 +395,13 @@
     },
     {
       "id": "4-2-4",
-      "title": "Topic 4 — official subtopic heading pending verification",
+      "title": "Agriculture and Allied Sectors: Crops, Irrigation, Credit and Producer Institutions",
       "path": "Paper 4/Unit 2 - Telangana Economy/Topic 4",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "pending_independent_academic_audit",
+      "notes": "Expanded original 28-page PDF, 12,625-word manuscript, 30 explained original MCQs, six 200–250-word mains models, three diagrams, 23-source register; 2026 SEO full-PDF audit pending."
     },
     {
       "id": "4-2-5",
@@ -769,6 +769,6 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "4-2-1",
-  "next_new_topic": "4-2-1"
+  "next_sequential_topic": "4-2-5",
+  "next_new_topic": "4-2-5 — Industry and Service Sectors: Industrial development, MSMEs, sick industries, power, industrial policy, service-sector growth, employment and ICT policy"
 }

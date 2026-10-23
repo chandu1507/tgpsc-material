@@ -1,0 +1,48 @@
+{
+  "id": "4-2-4",
+  "title": "Agriculture and Allied Sectors: GSVA, Landholdings, Irrigation, Drylands, Crops, Credit, Extension, Marketing and Producer Institutions",
+  "syllabus": "Agriculture and Allied sectors: Trends in share of crop and allied sectors in GSDP; Distribution of land holdings; Trends in Irrigation ; Problems of dry land Agriculture; Dependence on Agriculture; Cropping pattern Trends ; Trends in productivity; Agricultural Credit, Extension and Marketing; Cooperatives and Producer Companies",
+  "status": "expanded_draft_not_academically_approved",
+  "topic_word_count": 12625,
+  "detailed_word_count": 7047,
+  "detailed_sections": 17,
+  "pdf_pages": 28,
+  "original_mcqs": 30,
+  "original_mains_models": 6,
+  "mains_model_word_counts": [
+    202,
+    224,
+    208,
+    207,
+    216,
+    210
+  ],
+  "visuals": 3,
+  "source_entries": 23,
+  "official_pyqs_verified": 0,
+  "academic_status": "not_approved",
+  "date": "2026-10-24",
+  "source_exceptions": [
+    "Full official Telangana SEO 2026 PDF direct-text audit pending due to file size",
+    "Current district landholding and crop-area tables require primary extraction",
+    "Scheme expenditure and exact disbursement are not equated with budget estimates",
+    "No official PYQ source paper and question number verified"
+  ],
+  "file_sha256": {
+    "index.html": "e82a7f16b3888121c1c3fb82096795865cebce9a2733de40296b3cef1580199d",
+    "complete-notes.pdf": "92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147",
+    "visuals/market-institutions.png": "9886c831a52081d4b55d0fe3e724029a46ccf964c6fef766d865957ddcc1d28f",
+    "visuals/sector-accounting.png": "a58e6a6649b2ae39259a24a8e1d3b8c5eb9211d843aed66508bcc4e2f86eb691",
+    "visuals/water-energy-crop.png": "b13ce59226fd2ffae081bda120ae811b85da1f117c39cfc86a8af2dbfeeb34bd",
+    "source/verified-pyqs.md": "4372ad5302a60e9b8eec97a5bc812e428bf908fe26ca865f705fbc11afe2a394",
+    "source/complete-notes.md": "bd7c29740dadd46fa2960692e21e14d05cf2d368dab703df3d347a031d11a6c4",
+    "source/syllabus-and-summary.md": "ccf4f6cde825bcbaf8e482a97a38c1fbabcca72376971b152dce59c24c655476",
+    "source/mains-model-answers.md": "85577d02ba7bff93b0b7a6a65c002c46eb790c49800385b62a8bab7f04c6550e",
+    "source/sources-and-audit.md": "76b93344e8d0579ed9e05c53c937933152c6f71eaf8f45687449d6008cce7c7e",
+    "source/original-mcqs.md": "344da878f06cb259163b3d6db8b376fc65332e1725ac4b52f494725ce9903415",
+    "source/detailed-notes.md": "ab0aaa6d99217700785699de0441437d93a8c7b72fe45b3bde9edf4c53d03c29",
+    "source/answer-blueprints.md": "6c6ecab6423c05a5d1924c96a62d517cfdada741f41f45d4ab1c32a95036f7db",
+    "source/visual-learning.md": "4fc6e829d8336020f915e94d78c6e50073902a15441b6f03f07c43807b8a4969",
+    "source/quick-revision.md": "c7041a490f2498e9e83ce27aa6c2b866c2d36f317234814ae0dcda1e1ae07338"
+  }
+}
