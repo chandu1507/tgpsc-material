@@ -1,0 +1,100 @@
+{
+  "id": "4-1-5",
+  "paper": 4,
+  "unit": 1,
+  "topic": 5,
+  "title": "Planning in the Indian Economy: Five-Year Plans, Twelfth Plan Inclusive Growth, NITI Aayog and LPG",
+  "syllabus_provenance": "Public reproduction corroborated; original Notification 02/2024 PDF direct authentication pending",
+  "production_status": "expanded_draft_not_academically_approved",
+  "academic_status": "not_approved",
+  "word_count_complete_markdown": 11732,
+  "word_count_detailed_notes": 6958,
+  "pdf_pages": 34,
+  "original_explained_mcqs": 25,
+  "original_mains_model_answers": 6,
+  "original_diagrams": 3,
+  "verified_official_pyqs": 0,
+  "source_register_entries": 17,
+  "pdf_complete": true,
+  "offline_html_complete": true,
+  "editable_source_complete": true,
+  "qa": {
+    "pdf_rendered_and_pages_visually_inspected": [
+      1,
+      18,
+      22,
+      34
+    ],
+    "pdf_text_contains_all_sections": true,
+    "html_visual_links_checked": true,
+    "zip_crc": "to_be_checked",
+    "sha256_manifest": true,
+    "independent_academic_audit": false
+  },
+  "files": {
+    "complete-notes.pdf": {
+      "bytes": 381561,
+      "sha256": "01f2cfa032761978ef783941b01b7085511ffda76dd4d77a616ee5f94d189ad4"
+    },
+    "index.html": {
+      "bytes": 100217,
+      "sha256": "039108aecc36499a9ada4ae21d6263a21163fa47b97c8bf6f748f87c163c2f00"
+    },
+    "README.md": {
+      "bytes": 944,
+      "sha256": "ef20f5f33629c8e090cf84f75e340ef9d99e96a9c2551808249ec3688bcbc5fe"
+    },
+    "visuals/planning-timeline.png": {
+      "bytes": 83099,
+      "sha256": "c23fcc0add89aacbeeacd2fe3e780830badee5cb4932fd2a4bc3c15647fa9063"
+    },
+    "visuals/institutions-and-accountability.png": {
+      "bytes": 66442,
+      "sha256": "103f03143147838b81cb00edc5253c14bdad768f79a9812720ae07ea5cc9c997"
+    },
+    "visuals/lpg-policy-map.png": {
+      "bytes": 69629,
+      "sha256": "8e2ac6e39c9c24ed7d64d27ef66df7da53f49565bef101b34dea50eeed1dfb2a"
+    },
+    "source/original-mcqs.md": {
+      "bytes": 9389,
+      "sha256": "ae1883ec92559803563b8d7db535674fa2930f413b516388d41c6a9f09e07a8a"
+    },
+    "source/complete-notes.md": {
+      "bytes": 92298,
+      "sha256": "5a49b8a253472fd71af9eb6fe083887bd49744ba1fdf94636e2ad2c1cf54af16"
+    },
+    "source/syllabus-and-summary.md": {
+      "bytes": 3795,
+      "sha256": "6e5de999b897163f1733e335f2dee49087a16d073818edf99b5acba24ff8ec68"
+    },
+    "source/quick-revision.md": {
+      "bytes": 4431,
+      "sha256": "88cb400f6924e479b51c07abfd4208bb1c81d350e7e16859c2f88bc498476a98"
+    },
+    "source/sources-and-audit.md": {
+      "bytes": 7013,
+      "sha256": "9bbadc4bf4930f7ac33a59962e76c4e85db8f21f646faeae6b2654c05278fe0f"
+    },
+    "source/answer-blueprints.md": {
+      "bytes": 1274,
+      "sha256": "4c3d07d8c54095d8e544f6c91687f14f26a05e397d911a917353228a45514087"
+    },
+    "source/visual-learning.md": {
+      "bytes": 1083,
+      "sha256": "7f85d326d56007fa686b9a80520724ad0d845a0bc37ae2ca6bfc1552180c0db3"
+    },
+    "source/detailed-notes.md": {
+      "bytes": 53658,
+      "sha256": "e481207ba2bafbf84996b787a3d5530152631a0bf68de8b2859759d1aa7b0c25"
+    },
+    "source/mains-model-answers.md": {
+      "bytes": 11006,
+      "sha256": "bcc1335c0a663d358c045f709a7a14ee1a64fd5f6998d900ac2bc32ba63882d6"
+    },
+    "source/verified-pyqs.md": {
+      "bytes": 585,
+      "sha256": "b76d04daf71aad1e91688abe222f04498b69e9a9801ea341ad4e1e13ac40450b"
+    }
+  }
+}

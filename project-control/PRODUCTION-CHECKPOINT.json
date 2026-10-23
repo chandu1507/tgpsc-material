@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 34,
-  "slots_without_published_pdf": 41,
+  "published_draft_pdf_topics": 35,
+  "slots_without_published_pdf": 40,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 34,
-    "last_reported_topic": "4-1-4",
-    "remaining_without_first_draft": 41,
+    "sequential_drafts_indicated": 35,
+    "last_reported_topic": "4-1-5",
+    "remaining_without_first_draft": 40,
     "independently_verified_as_complete_master": false,
-    "note": "Paper IV Unit I Topic 4 expanded draft authored with 21-page PDF, HTML, Markdown, three diagrams, original practice; academic audit pending."
+    "note": "New 4-1-5 expanded draft with full PDF/HTML/Markdown; academic audit pending; older Paper II shallow drafts require expansion."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -355,13 +355,13 @@
     },
     {
       "id": "4-1-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Planning in the Indian Economy: Five-Year Plans, Twelfth Plan Inclusive Growth, NITI Aayog and LPG",
       "path": "Paper 4/Unit 1 - Indian Economy/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
+      "notes": "11,732-word complete Markdown; 34-page PDF; 14 substantive sections; 25 explained original MCQs; six 200–250-word mains answers; three diagrams; 17-source register. Direct official syllabus PDF authentication and independent academic audit pending."
     },
     {
       "id": "4-2-1",
@@ -769,6 +769,6 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "4-1-5",
-  "next_new_topic": "4-1-5"
+  "next_sequential_topic": "4-2-1",
+  "next_new_topic": "4-2-1"
 }
