@@ -1,0 +1,47 @@
+{
+  "topic_id": "P3-U3-T4",
+  "paper": 3,
+  "unit": 3,
+  "topic": 4,
+  "title": "Debates on Development and Development Processes; State and Market; Civil Society, CBOs, NGOs, SHGs, Charities, PPP and CSR",
+  "academic_status": "expanded draft; not independently approved",
+  "production_date": "2026-10-23",
+  "manuscript_words": 13745,
+  "detailed_concept_chapters": 14,
+  "original_explained_mcqs": 25,
+  "original_mains_models": 6,
+  "mains_answer_word_counts": [
+    218,
+    222,
+    218,
+    220,
+    223,
+    229
+  ],
+  "pdf_pages": 35,
+  "diagrams": 3,
+  "source_register_count": 21,
+  "official_pyqs_verified": 0,
+  "source_gaps": [
+    "Original official Notification 02/2024 PDF full text not retrievable; syllabus wording checked against public reproduction",
+    "No verified original official question paper plus question number",
+    "No independent academic audit"
+  ],
+  "files_sha256": {
+    "complete-notes.pdf": "0d4fb8463bbced10bc1f481020e9b2350f77ae646f1c0dcdd910781a33a98a63",
+    "index.html": "405ca86f1e7c558942587991278e8783ce45f22a3ed28e8a1b938d5f1a690327",
+    "visuals/ppp-lifecycle.png": "4f4a8f589d60c8718485a464796c2dafb7d98650dc7d19ccb94fc30c65bfe226",
+    "visuals/development-governance.png": "f18cdf6f75d3d330486377017ccbd98cdb2a6e861442b70a9cad01776ddf7e45",
+    "visuals/shg-pathway.png": "2fdac50a24c750f9a21dcef4950c3e404cc3ad37f08672e97fede0adc2c28e5d",
+    "source/mains-model-answers.md": "0746406035b4bb82906c35f97cb11d3b5a726fc780c78e4a4c3d04071474e692",
+    "source/visual-learning.md": "209cf9597cfac3f524a9a9cfd3d55d20a13a79e3929e754c12ce2ace91ac62be",
+    "source/build_diagrams.py": "f684e30b05ee1b9392ece58503bcda24a3d45cc4db13cfb922e13e4719f179a2",
+    "source/sources-and-audit.md": "79cbf4edf872603f9dc71b9abb5e6646da7d1d9edc0ff20c7f9e8f1f7e1206b0",
+    "source/quick-revision.md": "a88d4bd8173f55aea7e49c130a6870ea0a46f37a4fa91a78215918bed1a2ed88",
+    "source/detailed-notes.md": "ee56bb7039d6e7ff18ec2d37f0bf1577c6b38d3379ab0c69916ef897c2abaf30",
+    "source/build_topic.py": "6667c0903082774b175c2fefe89d17d1a44a7ec3eb731e6b26bc46a77917ef1a",
+    "source/complete-notes.md": "8c4fdfd6973a0ef36ea3ceb8a9100342af951cc27506f84e32ac81b0fa8280b5",
+    "source/syllabus-and-summary.md": "4053a405d146ecfe1910084f3ac3a4541682ad74d5481b07c5ff58ed95ca64fa",
+    "source/original-mcqs.md": "84fbf012d6edb6975e76c2726c61d7a114f26f568507888d11ae20a425493b5e"
+  }
+}

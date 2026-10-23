@@ -4,14 +4,16 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 **Website:** https://chandu1507.github.io/tgpsc-material/
 
-## Verified publication - 23 October 2026
+## Reconciled publication and production — 23 October 2026
 
-- **25 published draft chapter/PDF pairs:** all 15 Paper II topics, all five Paper III Indian Society topics, and all five Paper III Constitution topics.
-- **50 slots lack a published full PDF.** The production task has reported additional drafts; consult its latest result and verify the actual files before counting them as published.
-- **0 academically approved.** Draft publication does not certify completeness, factual accuracy or official PYQ provenance. Some recovered supporting sections need further work; see the recovery report.
-- Ten recovered Paper III PDFs contain 288 pages. Existing source notes were preserved and archive placeholders excluded.
+- **26 draft chapter/PDF pairs published on `main` after this update:** 15 Paper II, 5 Paper III Unit I, 5 Paper III Unit II, and new Paper III Unit III Topic 4.
+- **9 byte-verified topics in a local cumulative subset:** Paper III Unit II Topics 1–5 and Unit III Topics 1–4. Unit III Topics 1–3 are accessible in the local ZIP but **not yet published on GitHub**.
+- **29 distinct draft manuscripts accessible** across GitHub and the local subset, with **46 remaining to a first draft**. Several older drafts are shallow or have missing supporting deliverables. Accessibility does **not** imply textbook-grade completion.
+- **0 academically approved.** Independent factual, syllabus and official-question provenance audits remain open.
+- **New topic:** [Paper III / Unit III / Topic 4 — Development Debates, State and Market, Civil Society, SHGs, PPP and CSR](Paper%203/Unit%203%20-%20Governance/Topic%204/index.html) ([full PDF](Paper%203/Unit%203%20-%20Governance/Topic%204/complete-notes.pdf)).
+- **Next:** Paper III / Unit III / Topic 5 — Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms.
 
-See [STATUS.md](STATUS.md), the [per-topic checkpoint](project-control/PRODUCTION-CHECKPOINT.json), and [Paper III recovery details](project-control/PAPER3-RECOVERY-REPORT.json).
+See [the per-topic checkpoint](project-control/PRODUCTION-CHECKPOINT.json) and [the Paper III recovery report](project-control/PAPER3-RECOVERY-REPORT.json).
 
 ## Downloads
 
