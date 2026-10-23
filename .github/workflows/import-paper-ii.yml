@@ -18,6 +18,16 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+      - name: Check Paper II source upload
+        shell: bash
+        run: |
+          archive='incoming/TGPSC_PAPER_II_15_TOPICS_REVISED_DRAFT.zip'
+          if [[ ! -f "$archive" ]]; then
+            echo "::error file=$archive::Missing Paper II source ZIP. Upload the validated 15-topic checkpoint to this exact path on main. See incoming/README.md."
+            echo 'Available repository ZIP files:'
+            find . -type f -name '*.zip' -print
+            exit 1
+          fi
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
