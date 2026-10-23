@@ -1,7 +1,7 @@
 name: Publish TGPSC Study Atlas
 on:
-  push:
-    branches: [main]
+  # Automatic publication uses the repository's main-branch Pages deployment.
+  # Keep this workflow as a manual fallback to avoid competing deployments.
   workflow_dispatch:
 permissions:
   contents: read
