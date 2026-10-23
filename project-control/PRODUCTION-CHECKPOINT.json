@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-23",
   "total_topics": 75,
-  "published_draft_pdf_topics": 31,
-  "slots_without_published_pdf": 44,
+  "published_draft_pdf_topics": 32,
+  "slots_without_published_pdf": 43,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 31,
-    "last_reported_topic": "4-1-1",
-    "remaining_without_first_draft": 44,
+    "sequential_drafts_indicated": 32,
+    "last_reported_topic": "4-1-2",
+    "remaining_without_first_draft": 43,
     "independently_verified_as_complete_master": false,
-    "note": "31 accessible draft manuscripts, all 31 now published as PDF/chapter pairs. 1 newly authored topic P4-U1-T1; 3 previously authored P3-U3-T1–3 recovered. Academic approvals zero."
+    "note": "Paper IV Unit I Topic 2 published as full PDF/HTML/Markdown/diagrams in guarded GitHub commit. 32 published draft PDF/chapter pairs; 43 without first draft; 0 academically approved."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -325,13 +325,13 @@
     },
     {
       "id": "4-1-2",
-      "title": "Topic 2 — official subtopic heading pending verification",
+      "title": "Poverty and Unemployment: Income/Non-income Poverty, Capability and HPI, Measurement and Trends",
       "path": "Paper 4/Unit 1 - Indian Economy/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
+      "notes": "12,339 words; 27-page PDF; 13 detailed sections; 25 original explained MCQs; six mains models 235–243 words; 3 diagrams. Official primary syllabus and independent academic audit pending."
     },
     {
       "id": "4-1-3",

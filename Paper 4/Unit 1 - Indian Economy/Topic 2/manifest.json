@@ -1,0 +1,48 @@
+{
+  "id": "4-1-2",
+  "title": "Poverty and Unemployment: Income/Non-income Poverty, Capability and HPI, Measurement and Trends, Unemployment Concepts and Trends",
+  "status": "expanded_draft_not_academically_approved",
+  "date": "2026-10-23",
+  "source_syllabus": "Notification 02/2024, Paper IV, Unit I, Topic 2; direct official annexure audit pending",
+  "counts": {
+    "words": 12339,
+    "detailed_sections": 13,
+    "original_mcqs": 25,
+    "mains_models": 6,
+    "mains_words": [
+      238,
+      242,
+      243,
+      243,
+      235,
+      242
+    ],
+    "diagrams": 3,
+    "pdf_pages": 27
+  },
+  "official_pyqs_verified": 0,
+  "notes": "All 25 MCQs and six mains prompts are original practice; historical ratios are method-dependent. No official PYQ asserted.",
+  "files": {
+    "README.md": "370c4d6ecd4ed9f9d16abf22d83edc1ddb4fbdac141090cf8ff29731ef04dcf6",
+    "complete-notes.pdf": "b0f7d5d74e1f1c4b7804b939bfc1fa1f0d2a93490365282819c46d1dda4e3318",
+    "index.html": "9aa4706027e2e03200fafa34539cf6d8d23e5d0dac099abcbf7d59bbdb681ce9",
+    "source/answer-blueprints.md": "ef9253128461b96ce1ccf47850d9f1502023eb92496c1c9f7479f79524e9d4a7",
+    "source/complete-notes.md": "b68512395cef58bbeebd6a8454717d3af4e9485c1e9f9c9a16fef3ebf3cb2d71",
+    "source/detailed-notes.md": "542bf855b9fd205d29e291980b19b13471b4b443ebfd1e691e0c9e7bb3e918e7",
+    "source/mains-model-answers.md": "9cf1f93127565a46ba0d63ca0011ae28309fd35853cb1d3136df39cae1cad7f7",
+    "source/original-mcqs.md": "c87683ee9d20817f5b6e40a87cc581a32494cb745ffd64d538820c5834ee9ebf",
+    "source/quick-revision.md": "db5698cdd8ef134ff5eef1f129e3353d61ac290bc60d7f0b70bcd841c67f0672",
+    "source/sources-and-audit.md": "97480737e9b1606270ea80b56b33658e660b89b24045cfc5011fa87ff218ed94",
+    "source/syllabus-and-summary.md": "1290908963a6e662b6189abfcb5a7ce1aa6118fb6b3bb6aa52cb2dbc3bfc88c9",
+    "source/visual-learning.md": "395e1ae498559e0910e1c49786aee8d1145e78696bb9d7151358ff41010af607",
+    "visuals/labour-force-flow.png": "8bb09c194e1216b7923f2083b01b4a27911acc9f1015482e059d8843de6135f1",
+    "visuals/poverty-measurement.png": "e5ecb8226a632af366f14d7695ffebd373219a7a128c51bb4e492082c686b75f",
+    "visuals/telangana-policy.png": "6c25476fdb75d0a44886796c9cbf596ea60c093ac234064fb4b5cbc7683680fc"
+  },
+  "source_gaps": [
+    "Original commission PDF annexure not fully retrievable",
+    "No source-verified official PYQs",
+    "Independent academic and legal audit pending",
+    "No direct verified 2026 Telangana PLFS district statistics"
+  ]
+}
