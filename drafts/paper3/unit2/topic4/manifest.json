@@ -1,0 +1,168 @@
+{
+  "project": "TGPSC Group I 75-topic study library",
+  "topic_id": "P3-U2-T4",
+  "title": "Judicial System in India: Supreme Court, High Courts, Administrative Tribunals, Subordinate Judiciary, Judicial Review, Judicial Activism, Judicial Independence and Accountability",
+  "syllabus": "TGPSC Group I Notification 02/2024 Annexure II, Paper III, II, item 4",
+  "research_cutoff": "2026-10-23",
+  "new_topics_in_this_run": 1,
+  "previous_drafts_indicated": 23,
+  "drafts_indicated_after_run": 24,
+  "remaining_indicated_after_run": 51,
+  "academically_approved": 0,
+  "master_archive_byte_verified": false,
+  "is_full_cumulative_24_topic_archive": false,
+  "verified_official_pyqs": 0,
+  "original_mcqs": 25,
+  "mains_answers": 6,
+  "mains_answer_body_words": [
+    220,
+    228,
+    208,
+    211,
+    212,
+    208
+  ],
+  "major_concept_chapters": 11,
+  "concept_chapter_words": [
+    {
+      "number": 1,
+      "title": "Constitutional architecture: an integrated judiciary and the rule of law",
+      "words": 822
+    },
+    {
+      "number": 2,
+      "title": "Supreme Court: composition, jurisdiction, precedent and remedies",
+      "words": 751
+    },
+    {
+      "number": 3,
+      "title": "High Courts: the constitutional bridge between citizens and the State",
+      "words": 728
+    },
+    {
+      "number": 4,
+      "title": "Administrative tribunals: expertise, speed and the limits of substitution",
+      "words": 899
+    },
+    {
+      "number": 5,
+      "title": "Subordinate judiciary: the first contact with justice",
+      "words": 879
+    },
+    {
+      "number": 6,
+      "title": "Judicial review: constitutionality, administrative legality and basic structure",
+      "words": 839
+    },
+    {
+      "number": 7,
+      "title": "Judicial activism, public-interest litigation and the boundary of governance",
+      "words": 724
+    },
+    {
+      "number": 8,
+      "title": "Judicial independence and appointments: constitutional safeguards and democratic legitimacy",
+      "words": 744
+    },
+    {
+      "number": 9,
+      "title": "Judicial accountability: ethics, removal, disclosure and public trust",
+      "words": 758
+    },
+    {
+      "number": 10,
+      "title": "Access to justice, Lok Adalats and the Telangana institutional ecosystem",
+      "words": 783
+    },
+    {
+      "number": 11,
+      "title": "Reform agenda: reducing delay without sacrificing due process",
+      "words": 595
+    }
+  ],
+  "detailed_notes_words": 8665,
+  "complete_notes_words": 14011,
+  "pdf_pages": 42,
+  "pdf_text_characters": 104435,
+  "visual_diagrams": 2,
+  "markdown_tables": 4,
+  "source_entries": 16,
+  "status": "Expanded working draft; independent academic audit outstanding",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 643,
+      "sha256": "3353c4decadb696367b06e94856fcbf0245aebee42baaa02625b6b2d71fbb7e8"
+    },
+    {
+      "path": "complete-notes.pdf",
+      "bytes": 292181,
+      "sha256": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 123910,
+      "sha256": "e0bc9461215db1663d864c74d21568ea0d9da96ed3ffa68bfdafcc396b29d196"
+    },
+    {
+      "path": "source/complete-notes.md",
+      "bytes": 102011,
+      "sha256": "2ecbeb9287464cabdfffdd7f4dc1067e3df7142040ff31188e20909eafabc84e"
+    },
+    {
+      "path": "source/detailed-notes.md",
+      "bytes": 62399,
+      "sha256": "858f81fa543bc6513fc3656c0e323ab38b497e35588193fa27c0baa124ca2852"
+    },
+    {
+      "path": "source/mains-model-answers.md",
+      "bytes": 11012,
+      "sha256": "ec9882325e3fa36233e02f04f0a6e85e75cc7cfbe4fbe1274ac2b667423f2963"
+    },
+    {
+      "path": "source/original-mcqs.md",
+      "bytes": 9086,
+      "sha256": "becb189d23f8c4ee7aee736401818dcd64340c1fceabb82729449c75ca082e43"
+    },
+    {
+      "path": "source/quick-revision.md",
+      "bytes": 4907,
+      "sha256": "8dbf0eb5cee49ac569fa2cdd993ae980a8c0c2cec9e87573091582d1e6c98149"
+    },
+    {
+      "path": "source/sources-and-audit.md",
+      "bytes": 7171,
+      "sha256": "8af700cbee59fc90f943f8501bb9d1f2a3a2dade6df2f372871c991ccd40026a"
+    },
+    {
+      "path": "source/syllabus-and-summary.md",
+      "bytes": 3717,
+      "sha256": "fc1b4d7b043929fd1f059f0848695ec76c7bee37e73353bf2a963694ae51754e"
+    },
+    {
+      "path": "source/visual-learning.md",
+      "bytes": 3144,
+      "sha256": "ddb8b6af10041249b5a111b701acc4f5a5f9188796beb6d86b86969e25a9992e"
+    },
+    {
+      "path": "visuals/independence-accountability.png",
+      "bytes": 71381,
+      "sha256": "6392418ab3e5084d61cd0d9142da89e48df102e372ef71116b021beefb455fb7"
+    },
+    {
+      "path": "visuals/independence-accountability.svg",
+      "bytes": 1795,
+      "sha256": "610e4ce365469bf9c08f354c2fe9074421697602249c377e232613069929317d"
+    },
+    {
+      "path": "visuals/judicial-hierarchy.png",
+      "bytes": 66660,
+      "sha256": "82e476c780aed678fd9157d3b21aa2c2c3e437ffde03f4cdf5269b626fbfd0c1"
+    },
+    {
+      "path": "visuals/judicial-hierarchy.svg",
+      "bytes": 2651,
+      "sha256": "11d5bc6f2926d8a65effeae36b087ca32aab0239ceff54d2afa90955526c100c"
+    }
+  ]
+}
