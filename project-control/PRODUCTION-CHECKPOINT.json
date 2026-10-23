@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 37,
-  "slots_without_published_pdf": 38,
+  "published_draft_pdf_topics": 38,
+  "slots_without_published_pdf": 37,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 37,
-    "last_reported_topic": "4-2-2",
-    "remaining_without_first_draft": 38,
+    "sequential_drafts_indicated": 38,
+    "last_reported_topic": "4-2-3",
+    "remaining_without_first_draft": 37,
     "independently_verified_as_complete_master": false,
-    "note": "Paper IV Unit II Topic 2 complete 28-page expanded draft PDF/HTML/Markdown with original questions; direct commission PDF and NFHS-6 full table academic audits outstanding. Older drafts remain unapproved."
+    "note": "38 PDF/chapter draft pairs present after publication; older shallow drafts and full academic audits remain outstanding."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -385,13 +385,13 @@
     },
     {
       "id": "4-2-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Land Reforms: First and Second Generations, Intermediary Abolition, Tenancy, Ceilings and Scheduled Areas",
       "path": "Paper 4/Unit 2 - Telangana Economy/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "pending_independent_academic_audit",
+      "notes": "Expanded original 28-page PDF, 13,401-word Markdown, 30 explained MCQs, six 200–250-word mains models, three diagrams; original syllabus PDF, historical Jagir full text, and district-level outcomes require direct audit."
     },
     {
       "id": "4-2-4",
