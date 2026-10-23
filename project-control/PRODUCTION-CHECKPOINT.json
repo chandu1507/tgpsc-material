@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-23",
   "total_topics": 75,
-  "published_draft_pdf_topics": 28,
-  "slots_without_published_pdf": 47,
+  "published_draft_pdf_topics": 31,
+  "slots_without_published_pdf": 44,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 31,
     "last_reported_topic": "4-1-1",
     "remaining_without_first_draft": 44,
     "independently_verified_as_complete_master": false,
-    "note": "31 distinct accessible draft manuscripts: 28 published PDF/chapter pairs including P4-U1-T1, plus 3 byte-accessible unpublished P3-U3-T1–3. Academic approvals zero."
+    "note": "31 accessible draft manuscripts, all 31 now published as PDF/chapter pairs. 1 newly authored topic P4-U1-T1; 3 previously authored P3-U3-T1–3 recovered. Academic approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -265,33 +265,33 @@
     },
     {
       "id": "3-3-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Governance and Good Governance; E-Governance, Union Institutions and Parliamentary Committees",
       "path": "Paper 3/Unit 3 - Governance/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending."
     },
     {
       "id": "3-3-2",
-      "title": "Topic 2 — official subtopic heading pending verification",
+      "title": "Governance at State and District Levels; Local Institutions and Administrative Controls",
       "path": "Paper 3/Unit 3 - Governance/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending."
     },
     {
       "id": "3-3-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Urban and Rural Development, Participation, Poverty Alleviation and Social Rights",
       "path": "Paper 3/Unit 3 - Governance/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending."
     },
     {
       "id": "3-3-4",
