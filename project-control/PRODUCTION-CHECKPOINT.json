@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 35,
-  "slots_without_published_pdf": 40,
+  "published_draft_pdf_topics": 36,
+  "slots_without_published_pdf": 39,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 35,
-    "last_reported_topic": "4-1-5",
-    "remaining_without_first_draft": 40,
+    "sequential_drafts_indicated": 36,
+    "last_reported_topic": "4-2-1",
+    "remaining_without_first_draft": 39,
     "independently_verified_as_complete_master": false,
-    "note": "New 4-1-5 expanded draft with full PDF/HTML/Markdown; academic audit pending; older Paper II shallow drafts require expansion."
+    "note": "4-2-1 expanded draft produced and visually inspected; direct 2026 Outlook complete-PDF and original TGPSC notification PDF academic audit outstanding. Older shallow drafts remain unapproved."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -365,13 +365,13 @@
     },
     {
       "id": "4-2-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Telangana Economy: Hyderabad State, United AP, Growth, Inequality and Poverty",
       "path": "Paper 4/Unit 2 - Telangana Economy/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Expanded 11,623-word draft with 23-page PDF, 27 original MCQs, six mains models; original 2026 SEO full-PDF audit pending."
     },
     {
       "id": "4-2-2",
