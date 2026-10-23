@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-23",
   "total_topics": 75,
-  "published_draft_pdf_topics": 27,
-  "slots_without_published_pdf": 48,
+  "published_draft_pdf_topics": 28,
+  "slots_without_published_pdf": 47,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 30,
-    "last_reported_topic": "3-3-5",
-    "remaining_without_first_draft": 45,
+    "sequential_drafts_indicated": 31,
+    "last_reported_topic": "4-1-1",
+    "remaining_without_first_draft": 44,
     "independently_verified_as_complete_master": false,
-    "note": "30 distinct accessible draft manuscripts; 27 published PDF/chapter pairs after this commit, plus 3 unpublished but byte-accessible P3-U3-T1–3 in local 10-topic subset. Academic approvals zero."
+    "note": "31 distinct accessible draft manuscripts: 28 published PDF/chapter pairs including P4-U1-T1, plus 3 byte-accessible unpublished P3-U3-T1–3. Academic approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -315,13 +315,13 @@
     },
     {
       "id": "4-1-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "National Income: Concepts, Measurement, Nominal and Real Income, Indian Economic Structure and Sectoral Growth",
       "path": "Paper 4/Unit 1 - Indian Economy/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "2026-10-23 expanded 11,211-word draft; 26-page PDF, original practice only; syllabus and Telangana PDF primary audit pending."
     },
     {
       "id": "4-1-2",
@@ -765,21 +765,10 @@
     }
   ],
   "local_accessible_subset": {
-    "topic_count": 9,
-    "coverage": [
-      "3-2-1",
-      "3-2-2",
-      "3-2-3",
-      "3-2-4",
-      "3-2-5",
-      "3-3-1",
-      "3-3-2",
-      "3-3-3",
-      "3-3-4"
-    ],
-    "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_9_TOPICS.zip",
-    "not_all_published_on_github": true
+    "topic_count": 10,
+    "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
+    "is_full_master": false
   },
-  "next_sequential_topic": "3-3-5",
-  "next_new_topic": "4-1-1"
+  "next_sequential_topic": "4-1-2",
+  "next_new_topic": "4-1-2"
 }

@@ -1,0 +1,87 @@
+{
+  "id": "4-1-1",
+  "paper": 4,
+  "unit": 1,
+  "topic": 1,
+  "title": "National Income: Concepts, Measurement, Nominal and Real Income, Indian Economic Structure and Sectoral Growth",
+  "syllabus_source": "Notification 02/2024 Annexure-II; reproduction cross-checked; direct official PDF pending",
+  "date": "2026-10-23",
+  "academic_status": "not_approved",
+  "production_status": "expanded_draft_internal_validation",
+  "source_quality_gaps": [
+    "Direct TGPSC official PDF full-text verification",
+    "Telangana Socio-Economic Outlook 2026 original PDF numerical-table verification",
+    "Independent academic audit",
+    "Authenticated official PYQs not sourced"
+  ],
+  "original_mcqs": 25,
+  "original_mains_models": 6,
+  "verified_official_pyqs": 0,
+  "words": 11211,
+  "files": {
+    "index.html": {
+      "sha256": "fbbe1a026899f047f2993c4ebb5b444420797cec8707a42dd3894b2990887ab5",
+      "bytes": 101132
+    },
+    "README.md": {
+      "sha256": "478077c1fa5719b2028c944a4e566ad8b6e0144d362eac216fe490c0085aa381",
+      "bytes": 233
+    },
+    "complete-notes.pdf": {
+      "sha256": "e0a70eca79be03d11a2d92bfd30c544050d9110b11625c718eb63e7366adec34",
+      "bytes": 235532
+    },
+    "manifest.json": {
+      "sha256": "46ac89b5927c6c344a92af9a6b84db17cfae178e54e6d13e1428a1ddfb4d1e8e",
+      "bytes": 2840
+    },
+    "source/detailed-notes.md": {
+      "sha256": "2184cbb1beb773f929fb45dc7529b6905ae33174604fb1b9cfc71fa381f43bc0",
+      "bytes": 46052
+    },
+    "source/quick-revision.md": {
+      "sha256": "a740ede1bb053223c2cad51138b8ee8ec8540e68be722db51931659ebfd75eae",
+      "bytes": 4556
+    },
+    "source/syllabus-and-summary.md": {
+      "sha256": "8b5b1081a0c3f17cf9df07eeb72cbe1191c3080b1bc8aaa1316f8a439f0219d4",
+      "bytes": 2262
+    },
+    "source/answer-blueprints.md": {
+      "sha256": "a53f2ee012d5ccafc5995d14a4f49b28902c055a5d493c6f03c6350204753182",
+      "bytes": 1565
+    },
+    "source/complete-notes.md": {
+      "sha256": "f43b3f47be57dd3da70f47b324a3afd15b7116f2452c1bac09e21e255126f473",
+      "bytes": 81828
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "46f3de9f96d025d5db24a3ec8a6971a89b6c3b387d7ffd4a3aaddfe26d8d4df3",
+      "bytes": 10722
+    },
+    "source/original-mcqs.md": {
+      "sha256": "298eca9cdb281ecbec9918dac6fc2e1d0509fb2489a8d365b20f2bac82a771f9",
+      "bytes": 8928
+    },
+    "source/visual-learning.md": {
+      "sha256": "1a3078015efd6236e2b608d1bef3c261d2912b52a469b745932b890d4063245a",
+      "bytes": 2225
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "a5a7c1b3169cbf13ea77c5a173589396b5a4dd2dedd4024b3f4e5831a8becb51",
+      "bytes": 5469
+    },
+    "visuals/identity-ladder.png": {
+      "sha256": "851c8d3d1baa8cf33188d61b17f7d43c9e20cb71ca4542cb3d2a0aa7aab183ef",
+      "bytes": 31340
+    },
+    "visuals/sector-shares.png": {
+      "sha256": "d9367daa5bb8af9052cef62e2d18b59356f07707aa70310bfe61fd99de7d22b4",
+      "bytes": 36478
+    },
+    "visuals/three-approaches.png": {
+      "sha256": "fc653ef0feb5cba2665b6b29a1fe2b605e65165627c18555e86e918ceb3fc21c",
+      "bytes": 32306
+    }
+  }
+}
