@@ -5,8 +5,8 @@
 ## Count
 - 18 expanded drafts exist in the latest consolidated checkpoint (15 Paper II + 3 Paper III).
 - 0 academically approved.
-- 2 chapters have targeted deep-concept revisions: Paper II / Unit II / Topic 2 (Kakatiya architecture and ruler/monument associations) and Paper II / Unit I / Topic 3 (Mysore/Maratha/Sikh treaties and analytical mains answers). The corrected PDF and Markdown are in the downloadable new checkpoint and **are not yet synchronized as binary content to this repository**.
-- 16 chapters still await systematic depth revision.
+- 3 chapters have targeted deep-concept revisions: Paper II / Unit II / Topic 2 (Kakatiya architecture and ruler/monument associations) and Paper II / Unit I / Topic 3 (Mysore/Maratha/Sikh treaties and analytical mains answers). The corrected PDF and Markdown are in the downloadable new checkpoint and **are not yet synchronized as binary content to this repository**.
+- 15 chapters still await systematic depth revision.
 - No new numbered syllabus topic is to be drafted until these 18 have been revised.
 
 ## Minimum acceptance criteria for each existing topic
@@ -29,3 +29,7 @@ GitHub currently hosts the pre-revision 18-topic portal content. The newest loca
 ## 23 October — second revision checkpoint
 
 Paper II / Unit I / Topic 3 was expanded with six explanatory historical-economic sections, a treaty matrix, and four professionally headed original mains models. Revised 14-page chapter PDF and full Markdown are available in `TGPSC_18_TOPIC_REVISION_CHECKPOINT_02_COLONIAL_TREATIES.zip`. A substantial revision excerpt was committed to the topic directory. No academic approvals yet; full revised PDF not in GitHub.
+
+## Checkpoint 03 — Ancient India deep-concept addition
+
+Paper II Unit I Topic 1 was revised locally: Harappan urbanism with named Dholavira/Mohenjo-daro/Lothal contrasts and archaeological interpretation cautions; Early–Later Vedic social, political and religious transformations with source criticism; and Ashokan dhamma, Sanchi architectural layers and Buddhist art. Three additional original mains model answers now use distinct Introduction/Background, evidence, Critical Assessment and Conclusion headings. Separate summary and quick revision were generated. Revised PDF (10 pages), HTML and Markdown are preserved in `TGPSC_18_TOPIC_REVISION_CHECKPOINT_03_ANCIENT_INDIA.zip` outside GitHub; **not** all 16 remaining chapters were completed. Progress: 3/18 targeted revision passes; 15/18 pending full rework; 0 academically approved. The entire chapter still requires substantial depth expansion before academic approval.
