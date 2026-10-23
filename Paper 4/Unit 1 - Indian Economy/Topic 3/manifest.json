@@ -1,0 +1,88 @@
+{
+  "topic_id": "4-1-3",
+  "paper": 4,
+  "unit": 1,
+  "topic": 3,
+  "title": "Money and Banking",
+  "academic_status": "not_approved",
+  "production_status": "expanded_draft",
+  "syllabus_verification": "corroborated_secondary_original_pdf_pending",
+  "word_count": 10984,
+  "pdf_pages": 27,
+  "detailed_sections": 15,
+  "original_mcqs": 25,
+  "original_mains_answers": 6,
+  "mains_answer_word_counts": [
+    208,
+    219,
+    211,
+    207,
+    216,
+    202
+  ],
+  "diagrams": 3,
+  "sources": 18,
+  "official_pyqs_verified": 0,
+  "files": {
+    "complete-notes.pdf": {
+      "bytes": 323450,
+      "sha256": "2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0"
+    },
+    "index.html": {
+      "bytes": 95849,
+      "sha256": "65b28e8a2f30e09186c1b7b3d9847c7f543e2736e388b72d45abaa94d86952f6"
+    },
+    "source/answer-blueprints.md": {
+      "bytes": 1843,
+      "sha256": "1e8aa76bb46b2e25ad40ac85371aae6a9fe175f872c620efcc4300322f378b81"
+    },
+    "source/complete-notes.md": {
+      "bytes": 82635,
+      "sha256": "f3f8211573660477ec871ab6a7937f5c560fdf5d8de4c602bc2cb80bdb0660f7"
+    },
+    "source/detailed-notes.md": {
+      "bytes": 45151,
+      "sha256": "2d02cd0ce39ee646f6d6f6fd0a7ff7cd61b0b2edc18765571bec8ce1ab97333b"
+    },
+    "source/mains-model-answers.md": {
+      "bytes": 10790,
+      "sha256": "b6888e37f14204196d732d3a3dbd444bbd32c5497af205def54ced10c47d9cc1"
+    },
+    "source/original-mcqs.md": {
+      "bytes": 8717,
+      "sha256": "479df08ce3d4796a2fb7bfed96af0dac3d0bd2dd2df05e293085b4d72b34bccc"
+    },
+    "source/quick-revision.md": {
+      "bytes": 5929,
+      "sha256": "abe5fe6ec29da7e263f6dffa78f88db98145830614bb618772e4d68e866927e2"
+    },
+    "source/sources-and-audit.md": {
+      "bytes": 5314,
+      "sha256": "573a444d263f3815c49997a100bb1855efe575335a2a63ea8050968e7e8b5357"
+    },
+    "source/syllabus-and-summary.md": {
+      "bytes": 2503,
+      "sha256": "f10b4edd856632680da52cdb78170b2932b8aeec1280f8fe04fbb03d06328507"
+    },
+    "source/visual-learning.md": {
+      "bytes": 2061,
+      "sha256": "e5c18fb5b11ec01a9e7667731a2de89dc4b66a6e09bda9156b28ecfd101339a8"
+    },
+    "visuals/credit-creation.png": {
+      "bytes": 84292,
+      "sha256": "687c74591bb2f980a5a92ae51880b4d82b9c5771df37be0f355f336de46801dd"
+    },
+    "visuals/financial-system.png": {
+      "bytes": 65152,
+      "sha256": "2ba9b8b0622428e2f9546c5c3fc09c5b44e380119246d21440bb7cbf21efd92b"
+    },
+    "visuals/policy-transmission.png": {
+      "bytes": 77132,
+      "sha256": "2c303ad9f61e010a8e961e7941b606d65ff836f5b1622e9abb0e00368a3d22d2"
+    },
+    "README.md": {
+      "bytes": 259,
+      "sha256": "2af45ef9cca5e91d8bf9c678864ed85d62c28b33f9832c036e243f1068b119d9"
+    }
+  }
+}

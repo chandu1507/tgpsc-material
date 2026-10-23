@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-23",
   "total_topics": 75,
-  "published_draft_pdf_topics": 32,
-  "slots_without_published_pdf": 43,
+  "published_draft_pdf_topics": 33,
+  "slots_without_published_pdf": 42,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 32,
-    "last_reported_topic": "4-1-2",
-    "remaining_without_first_draft": 43,
+    "sequential_drafts_indicated": 33,
+    "last_reported_topic": "4-1-3",
+    "remaining_without_first_draft": 42,
     "independently_verified_as_complete_master": false,
-    "note": "Paper IV Unit I Topic 2 published as full PDF/HTML/Markdown/diagrams in guarded GitHub commit. 32 published draft PDF/chapter pairs; 43 without first draft; 0 academically approved."
+    "note": "Paper IV Unit I Topic 3 expanded draft authored with complete 27-page PDF, HTML, Markdown and diagrams. Publication commit contains 33 PDF/chapter pairs when verified. Academic audit pending."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -335,13 +335,13 @@
     },
     {
       "id": "4-1-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Money and Banking: Money Supply, Indian Banking and NBFC Structure, Banking Reforms and RBI Credit Regulation",
       "path": "Paper 4/Unit 1 - Indian Economy/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
+      "notes": "10,984-word expanded draft; 27-page complete PDF; 15 substantive sections, 25 original explained MCQs, six mains answers (202–219 words), three diagrams; 18-source audit. Original notification PDF and independent academic audit outstanding."
     },
     {
       "id": "4-1-4",
@@ -769,6 +769,6 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "4-1-2",
-  "next_new_topic": "4-1-2"
+  "next_sequential_topic": "4-1-4",
+  "next_new_topic": "4-1-4"
 }
