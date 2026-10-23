@@ -1,0 +1,46 @@
+{
+  "id": "4-2-2",
+  "title": "Human Resources: Demographic Transition, Demographic Dividend, Literacy, Occupations, Education and Health",
+  "syllabus": "Human resources: Demographic Structure and Transition , Demographic dividend , (sex ratio, fertility rate, mortality rates) ; Literacy and Occupation structure: Social Sector – Education and Health",
+  "status": "expanded_draft_not_academically_approved",
+  "source_audit": "internal_only",
+  "topic_word_count": 11028,
+  "detailed_sections": 14,
+  "pdf_pages": 28,
+  "original_mcqs": 30,
+  "original_mains_models": 6,
+  "mains_model_word_counts": [
+    222,
+    214,
+    219,
+    225,
+    218,
+    211
+  ],
+  "visuals": 3,
+  "source_entries": 19,
+  "official_pyqs_verified": 0,
+  "file_sha256": {
+    "complete-notes.pdf": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
+    "index.html": "f545323b262fe8e557649127c6099bb2bbf267d92a9cdc0c32cdccd229269f0a",
+    "source/original-mcqs.md": "33b0046907eada6a2e282fd768b68d8263108af10ae7de57bb90ca7dc28d93ae",
+    "source/mains-model-answers.md": "368b0f414f983d63b17ae4641b23648cd1ea9586307257e6d57e745e8b4a1df7",
+    "source/detailed-notes.md": "2d8dbafadf6883a313d6566644150ee4a1514aa64afc816131df0e4f5e06996e",
+    "source/visual-learning.md": "99692d685da275127f4f0f7b665147e98abd9ce4a533b62c618c3b321c89e9cb",
+    "source/quick-revision.md": "90cfde70a984764287f881fa4503683ec976fcead2637031a6afe3bb45112b44",
+    "source/sources-and-audit.md": "12d015bdcf0321ba0fa80720407fb60c670f953c4601d1855d61f34ff43e5b44",
+    "source/complete-notes.md": "3bd66eaad6ba5c6a58833e331b805657fa7767a5d5f2e818dae31fbb21e10ab8",
+    "source/syllabus-and-summary.md": "e5f3d8a00220151908d0832814a34e7a504722a43cd51c618f9e554f15dc379d",
+    "source/verified-pyqs.md": "1986506dbfdcda27e298684b6a5ff43eef76ecd3d9c156b960fb2c22c1e8ecd5",
+    "source/answer-blueprints.md": "b01354c18de63b2c935b2cac9ed746ef5837c14274616ffd9fcb5d55da7681b0",
+    "visuals/census-literacy-2011.png": "3b4054977a0fc32042c2b0edc1f6bbb26e375690ddf21bb65186577df0107ed2",
+    "visuals/dividend-mechanism.png": "10f5e72be7084e3f8d3154b3a2414f23ba179138a0ae83124df11b5abb54cec2",
+    "visuals/census-occupation-2011.png": "4c5dac8d19f822bfb0bfd5fcad9494cf5d31f99cfdae9a5d2587ef2177ed2d9d"
+  },
+  "source_exceptions": [
+    "original TGPSC PDF not directly authenticated",
+    "NFHS-6 full compendium not directly inspected",
+    "latest UDISE+ 2025-26 detailed state tables not audited"
+  ],
+  "date": "2026-10-24"
+}

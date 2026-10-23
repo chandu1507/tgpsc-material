@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 36,
-  "slots_without_published_pdf": 39,
+  "published_draft_pdf_topics": 37,
+  "slots_without_published_pdf": 38,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 36,
-    "last_reported_topic": "4-2-1",
-    "remaining_without_first_draft": 39,
+    "sequential_drafts_indicated": 37,
+    "last_reported_topic": "4-2-2",
+    "remaining_without_first_draft": 38,
     "independently_verified_as_complete_master": false,
-    "note": "4-2-1 expanded draft produced and visually inspected; direct 2026 Outlook complete-PDF and original TGPSC notification PDF academic audit outstanding. Older shallow drafts remain unapproved."
+    "note": "Paper IV Unit II Topic 2 complete 28-page expanded draft PDF/HTML/Markdown with original questions; direct commission PDF and NFHS-6 full table academic audits outstanding. Older drafts remain unapproved."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -375,13 +375,13 @@
     },
     {
       "id": "4-2-2",
-      "title": "Topic 2 — official subtopic heading pending verification",
+      "title": "Human Resources: Demography, Literacy, Occupations, Education and Health",
       "path": "Paper 4/Unit 2 - Telangana Economy/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Expanded 28-page human resources draft, 14 detailed sections, 30 original explained MCQs, six original mains models, three diagrams; full academic audit pending."
     },
     {
       "id": "4-2-3",
