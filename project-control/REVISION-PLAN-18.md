@@ -5,8 +5,8 @@
 ## Count
 - 18 expanded drafts exist in the latest consolidated checkpoint (15 Paper II + 3 Paper III).
 - 0 academically approved.
-- 1 chapter has a new targeted deep-concept revision: Paper II / Unit II / Topic 2, Kakatiya architecture and ruler/monument associations. The corrected PDF and Markdown are in the downloadable new checkpoint and **are not yet synchronized as binary content to this repository**.
-- 17 chapters still await systematic depth revision.
+- 2 chapters have targeted deep-concept revisions: Paper II / Unit II / Topic 2 (Kakatiya architecture and ruler/monument associations) and Paper II / Unit I / Topic 3 (Mysore/Maratha/Sikh treaties and analytical mains answers). The corrected PDF and Markdown are in the downloadable new checkpoint and **are not yet synchronized as binary content to this repository**.
+- 16 chapters still await systematic depth revision.
 - No new numbered syllabus topic is to be drafted until these 18 have been revised.
 
 ## Minimum acceptance criteria for each existing topic
@@ -25,3 +25,7 @@ Begin with weakest short-draft chapters in Paper II, then review Paper III. Prio
 
 ## Commit/ZIP distinction
 GitHub currently hosts the pre-revision 18-topic portal content. The newest locally corrected chapter resides in the dated revision ZIP checkpoint; it must not be described as GitHub-published until imported.
+
+## 23 October — second revision checkpoint
+
+Paper II / Unit I / Topic 3 was expanded with six explanatory historical-economic sections, a treaty matrix, and four professionally headed original mains models. Revised 14-page chapter PDF and full Markdown are available in `TGPSC_18_TOPIC_REVISION_CHECKPOINT_02_COLONIAL_TREATIES.zip`. A substantial revision excerpt was committed to the topic directory. No academic approvals yet; full revised PDF not in GitHub.
