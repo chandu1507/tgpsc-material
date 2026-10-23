@@ -25,7 +25,7 @@ note = (
     "that have not been uploaded to GitHub are absent.\n"
     "The 18 expanded-draft tags in the site navigation do not imply final approval.\n"
     "Academically approved topics: 0 of 75.\n"
-    f"GitHub source commit: {os.environ.get('GITHUB_SHA', 'local')}\n"
+    f"GitHub source commit: {subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()}\n"
 )
 with zipfile.ZipFile(OUT, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=7) as z:
     z.writestr("PUBLICATION_SCOPE.txt", note)

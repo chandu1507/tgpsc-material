@@ -8,16 +8,16 @@
 | Latest master checkpoint in Project Library | `TGPSC_GROUP1_PAPER3_UNIT1_TOPIC4_DEEP_DRAFT.zip` — 19 drafts reported |
 | Latest master ZIP raw-byte access in this run | **Denied by Project file materialization service** |
 | Academically approved | **0** |
-| Full PDF archive uploaded to GitHub | **No** |
+| Paper II checkpoint uploaded and imported | **Yes — 15 PDFs, 15 HTML chapters and 192 Markdown files** |
 | Next numbered study topic | Paper III, Unit I, Topic 5, after Topic 4 master recovery |
 
 ## Publication scope and preservation
 
-**The master ZIP and GitHub are not identical.** The most recent 19-topic Project Library ZIP could not be materialized. The GitHub portal currently lists 18 drafts: 15 for Paper II and 3 for Paper III Unit I. These draft flags do not mean 18 full manuscripts or PDFs are published on GitHub. Some reading pages are excerpts.
+**The master ZIP and GitHub are not identical.** The most recent 19-topic Project Library ZIP could not be materialized. The GitHub portal currently lists 18 drafts: 15 for Paper II and 3 for Paper III Unit I. These draft flags do not mean 18 full manuscripts or PDFs are published on GitHub. Paper II full chapter pages and PDFs were imported successfully on 23 October 2026; this does not change their draft academic status.
 
 The previously available seven-topic local archive is **older**. It must not be used to replace more recent GitHub content.
 
-`.github/workflows/package-publication.yml` packages **the files tracked on GitHub**, not the inaccessible 19-topic master. The ZIP will be committed under `downloads/` only if GitHub Actions runs and has write access. The repository's standard ZIP of `main` remains downloadable irrespective of the workflow.
+`.github/workflows/package-publication.yml` packages **the files tracked on GitHub**, not the inaccessible 19-topic master. After a successful Paper II import, the packaging workflow rebuilds from current `main` and commits the ZIP under `downloads/`. Concurrent updates cause a bounded rebuild/retry rather than publishing a stale archive. The repository's standard ZIP of `main` remains downloadable irrespective of the workflow.
 
 ## Content quality gate
 

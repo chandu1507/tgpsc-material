@@ -4,6 +4,11 @@ on:
     branches: [main]
     paths-ignore:
       - 'downloads/**'
+      - 'incoming/**'
+  workflow_run:
+    workflows: ['Import Paper II Full Notes']
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: write
@@ -12,30 +17,45 @@ concurrency:
   cancel-in-progress: false
 jobs:
   package:
+    if: >-
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_repository.full_name == github.repository)
     runs-on: ubuntu-latest
     steps:
-      - name: Check out GitHub-published source
+      - name: Check out latest main
         uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: true
-      - name: Create integrity-checked publication ZIP
-        run: python3 scripts/package_publication.py
-      - name: Preserve ZIP as downloadable workflow artifact
+      - name: Build and commit current publication ZIP
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            # This disposable checkout contains only generated workflow changes.
+            # Rebuild after a rejected push so the ZIP includes concurrent imports.
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/package_publication.py
+            git add -- downloads/TGPSC_GITHUB_PUBLICATION_SNAPSHOT.zip
+            if git diff --cached --quiet; then
+              echo 'Download is already up to date.'
+              exit 0
+            fi
+            git commit -m 'Update ZIP of published TGPSC website sources'
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected on attempt $attempt; rebuilding from latest main."
+          done
+          echo '::error::Could not publish ZIP after three attempts.'
+          exit 1
+      - name: Preserve committed ZIP as downloadable workflow artifact
         uses: actions/upload-artifact@v4
         with:
           name: tgpsc-github-publication-snapshot
           path: downloads/TGPSC_GITHUB_PUBLICATION_SNAPSHOT.zip
           if-no-files-found: error
           retention-days: 90
-      - name: Commit download to website and repository
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- downloads/TGPSC_GITHUB_PUBLICATION_SNAPSHOT.zip
-          if git diff --cached --quiet; then
-            echo 'Download is already up to date.'
-          else
-            git commit -m 'Update ZIP of published TGPSC website sources'
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
