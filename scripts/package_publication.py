@@ -20,10 +20,11 @@ for name in paths:
     safe.append((name, path))
 note = (
     "TGPSC GROUP I — GITHUB PUBLICATION SNAPSHOT\n"
-    "This is a ZIP of the files that are published in GitHub, NOT the full 19-topic\n"
-    "master checkpoint held in the Project Library. PDFs and editable source files\n"
-    "that have not been uploaded to GitHub are absent.\n"
-    "The 18 expanded-draft tags in the site navigation do not imply final approval.\n"
+    "This ZIP contains the files tracked in GitHub at the source commit below.\n"
+    "It is not a claim that all 75 topic manuscripts are complete.\n"
+    "Unpublished PDFs and editable sources are absent.\n"
+    f"Published topic PDFs: {sum(name.startswith('Paper ') and name.endswith('/complete-notes.pdf') for name, _ in safe)} of 75.\n"
+    "Published drafts and navigation tags do not imply final academic approval.\n"
     "Academically approved topics: 0 of 75.\n"
     f"GitHub source commit: {subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()}\n"
 )
