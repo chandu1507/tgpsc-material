@@ -1,0 +1,21 @@
+# Standalone quick revision — Public Finance
+
+**Five-minute core:** Government allocates public goods, redistributes income and stabilises demand. Taxes are compulsory payments; their *economic incidence* depends on elasticities, not simply on who remits them. Direct taxes commonly target income/profits; indirect taxes commonly target consumption. Union and states have distinct constitutional powers, while GST combines CGST/SGST for intrastate and IGST for interstate supplies. The Finance Commission addresses fiscal transfers; the GST Council recommends GST coordination. State VAT continues for specified petroleum products; state excise continues for alcoholic liquor for human consumption.
+
+**Accounts:** Revenue receipts neither normally create debt nor sell assets. Capital receipts include borrowing, loan recovery and disinvestment. Revenue expenditure includes salaries, interest, pensions, subsidies and most maintenance. Capital expenditure includes asset creation, equity and loans; debt repayment is a capital disbursement but often excluded from the headline 'expenditure excluding debt repayment'. A hospital needs capital construction **and** recurring staff/medicine. Union *effective capex* = direct capital expenditure + grants for creation of capital assets.
+
+**Deficits:** Revenue deficit = revenue expenditure − revenue receipts. Fiscal deficit = total expenditure − non-debt receipts. Primary deficit = fiscal deficit − interest payments. Effective revenue deficit = revenue deficit − grants for creation of capital assets. Fiscal deficit is a flow; public debt is a stock. A revenue surplus and a fiscal deficit can coexist. BE ≠ RE ≠ Actuals. FRBM frameworks seek medium-term fiscal discipline but allow policy debate over shocks and flexibility.
+
+**Debt:** Internal debt includes domestic government securities and SDLs; external debt introduces residency/foreign-source considerations and potentially currency risks. Guarantees are contingent liabilities, not automatically direct debt. Debt/GDP, interest/revenue, maturity, primary balance and growth–interest differential are more informative together than any single number. Ways and Means Advances address short-term cash mismatches.
+
+**Policy:** Fiscal instruments are tax, spending, transfers and borrowing. RBI monetary instruments include repo/liquidity operations and reserve requirements. Fiscal stimulus can crowd in investment through infrastructure or crowd it out through borrowing costs. Inflation, spare capacity, transmission and execution quality determine outcomes.
+
+**Union Budget 2026–27 BE:** Total expenditure ₹53,47,315 crore; direct capital expenditure ₹12,21,821 crore; effective capital expenditure ₹17,14,523 crore; fiscal deficit ₹16,95,768 crore (4.3% GDP); revenue deficit ₹5,92,344 crore (1.5% GDP); interest ₹14,03,972 crore. These are budget estimates [S02].
+
+**Telangana 2026–27 BE:** Total expenditure including debt repayment ₹3,24,234 crore; net expenditure excluding debt repayment ₹3,01,209 crore; revenue expenditure ₹2,34,406 crore; capital outlay ₹47,267 crore; revenue surplus approximately ₹6,858 crore; fiscal deficit approximately ₹58,459 crore (3.0% GSDP). Do not mix totals with different debt-repayment treatment [S04, S11].
+
+**Current affairs:** September 2025 GST rate rationalisation; 8 October 2026 GST Council procedural *recommendations*, not automatically operative statutes. October 2026 recommendations include easier registration, refunds and revised enforcement rules; verify later legal notifications before claiming implementation [S06, S07].
+
+**Mains formula:** State the economic problem → explain constitutional/legal instrument → show transmission and who benefits/pays → add Union/Telangana evidence with BE/RE/Actuals label → weigh trade-offs → conclude with measurable accountability.
+
+**Traps:** (1) A fiscal deficit is not the same as public debt. (2) GST Council recommendations are not enacted legislation. (3) Gross Union tax ≠ divisible pool ≠ net tax to Centre. (4) Higher capex does not prove completed assets. (5) State own tax ≠ devolution. (6) Borrowing is a capital receipt, not ordinary revenue. (7) A budget announcement is not a realised outcome.
