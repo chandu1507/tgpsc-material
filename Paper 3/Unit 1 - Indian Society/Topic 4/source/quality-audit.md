@@ -1,0 +1,1 @@
+Expanded local draft: 3832 words of core notes, 6 headed mains original practice answers, independent concept sections, summary and quick revision. PDF and ZIP integrity checked; academic approval pending; official PYQs not authenticated.

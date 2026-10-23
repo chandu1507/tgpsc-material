@@ -1,0 +1,178 @@
+{
+  "recovered_topics": 10,
+  "newly_authored_topics": 0,
+  "pdfs": [
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 1/complete-notes.pdf",
+      "pages": 30,
+      "sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a"
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 2/complete-notes.pdf",
+      "pages": 27,
+      "sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921"
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 3/complete-notes.pdf",
+      "pages": 38,
+      "sha256": "4232d13cc97da86bafcef526f7a3f86b951c96444b569dae00e8f444e0a0a5ef"
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4/complete-notes.pdf",
+      "pages": 14,
+      "sha256": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3"
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/complete-notes.pdf",
+      "pages": 16,
+      "sha256": "01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01"
+    },
+    {
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 1/complete-notes.pdf",
+      "pages": 25,
+      "sha256": "15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21"
+    },
+    {
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 2/complete-notes.pdf",
+      "pages": 28,
+      "sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d"
+    },
+    {
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 3/complete-notes.pdf",
+      "pages": 36,
+      "sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24"
+    },
+    {
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 4/complete-notes.pdf",
+      "pages": 42,
+      "sha256": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f"
+    },
+    {
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 5/complete-notes.pdf",
+      "pages": 32,
+      "sha256": "44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15"
+    }
+  ],
+  "sources": {
+    "Paper 3/Unit 1 - Indian Society/Topic 1": {
+      "archive": "TGPSC_GROUP1_PAPER3_UNIT1_TOPIC5_SOCIAL_POLICIES_DRAFT.zip",
+      "source_words": 4319
+    },
+    "Paper 3/Unit 1 - Indian Society/Topic 2": {
+      "archive": "TGPSC_GROUP1_PAPER3_UNIT1_TOPIC5_SOCIAL_POLICIES_DRAFT.zip",
+      "source_words": 5392
+    },
+    "Paper 3/Unit 1 - Indian Society/Topic 3": {
+      "archive": "TGPSC_GROUP1_PAPER3_UNIT1_TOPIC5_SOCIAL_POLICIES_DRAFT.zip",
+      "source_words": 4960
+    },
+    "Paper 3/Unit 1 - Indian Society/Topic 4": {
+      "archive": "TGPSC_GROUP1_PAPER3_UNIT1_TOPIC5_SOCIAL_POLICIES_DRAFT.zip",
+      "source_words": 3832
+    },
+    "Paper 3/Unit 1 - Indian Society/Topic 5": {
+      "archive": "TGPSC_GROUP1_PAPER3_UNIT1_TOPIC5_SOCIAL_POLICIES_DRAFT.zip",
+      "source_words": 4245
+    },
+    "Paper 3/Unit 2 - Constitution of India/Topic 1": {
+      "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_5_TOPICS.zip",
+      "source_words": 9552
+    },
+    "Paper 3/Unit 2 - Constitution of India/Topic 2": {
+      "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_5_TOPICS.zip",
+      "source_words": 13231
+    },
+    "Paper 3/Unit 2 - Constitution of India/Topic 3": {
+      "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_5_TOPICS.zip",
+      "source_words": 14346
+    },
+    "Paper 3/Unit 2 - Constitution of India/Topic 4": {
+      "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_5_TOPICS.zip",
+      "source_words": 14011
+    },
+    "Paper 3/Unit 2 - Constitution of India/Topic 5": {
+      "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_5_TOPICS.zip",
+      "source_words": 11073
+    }
+  },
+  "excluded_placeholders": [
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 1/source/references.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 3/source/references.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/original-practice.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/current-affairs.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/answer-blueprints.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/visual-learning.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/verified-mcqs.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/original-practice.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/syllabus-index.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/quick-revision.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/complete-model-answers.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/current-affairs.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/detailed-notes.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/quality-audit.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/verified-mains-pyqs.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/answer-blueprints.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/visual-learning.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/verified-mcqs.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    },
+    {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5/source/references.md",
+      "issue": "Archive contains a placeholder; not published as completed notes."
+    }
+  ],
+  "academic_approvals": 0,
+  "notes": "Recovered artifacts are drafts; restoring their files is not an independent content audit."
+}

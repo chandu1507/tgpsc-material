@@ -1,0 +1,76 @@
+{
+  "project": "TGPSC Group I 75-topic study project",
+  "topic_id": "P3-U2-T2",
+  "title": "Fundamental Rights: Nature and Scope; Expanding horizons; Enforceability; Welfare State and Distributive Justice; DPSPs; Rule of Law and Fundamental Duties",
+  "official_syllabus": "TGPSC Notification 02/2024, Annexure II, Paper III, Section II, item 2",
+  "topic_count_in_this_zip": 1,
+  "previous_drafts_indicated_not_byte_verified": 21,
+  "new_indicated_draft_count": 22,
+  "remaining_indicated": 53,
+  "academically_approved": 0,
+  "status": "expanded working draft \u2014 academic audit outstanding",
+  "cumulative_archive_verified": false,
+  "is_cumulative_zip": false,
+  "original_mcqs": 25,
+  "official_verified_pyqs": 0,
+  "mains_answers": 6,
+  "mains_answer_word_counts": [
+    231,
+    223,
+    209,
+    217,
+    213,
+    219
+  ],
+  "markdown_words": 13231,
+  "major_concept_chapters": 7,
+  "sources_primary_and_secondary": 9,
+  "publication_state": "local delta only; GitHub publication unconfirmed",
+  "included_files": [
+    {
+      "path": "complete-notes.pdf",
+      "bytes": 90579,
+      "sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 108751,
+      "sha256": "1237755b91b960a634b35296cc78ca392263c53285ab56dbd977c926a3ffc2d1"
+    },
+    {
+      "path": "source/complete-notes.md",
+      "bytes": 98605,
+      "sha256": "59b05f329dcc3959166adc1b50407af8d1c010b1ddb823487ceb9f750f5d8389"
+    },
+    {
+      "path": "source/detailed-notes.md",
+      "bytes": 62110,
+      "sha256": "556d0e4a5441c5e22873f12cf62c10e348cb31b669a0614895df00b39652f28f"
+    },
+    {
+      "path": "source/mains-model-answers.md",
+      "bytes": 11016,
+      "sha256": "10e9599ff547a3fe82c8f031204f114660ed6c9df749cb793bd34508d305d44f"
+    },
+    {
+      "path": "source/original-mcqs.md",
+      "bytes": 11158,
+      "sha256": "6e690f3f60de6b6e748191e3a3a36b60b783c8dad4f2081dcdc515ee7d517273"
+    },
+    {
+      "path": "source/quick-revision.md",
+      "bytes": 4336,
+      "sha256": "6d975b0500b22a6331d1a27af70cfa386379c6e4586e484342e387941cb7c5d5"
+    },
+    {
+      "path": "source/sources-and-audit.md",
+      "bytes": 3436,
+      "sha256": "e938519d7252a973b107401c32f746b866678af04ae5f9c7112f936bd047a93c"
+    },
+    {
+      "path": "source/syllabus-and-summary.md",
+      "bytes": 1103,
+      "sha256": "18f26a226ed416cfdc88af3d11b386d65740f9e8a9bc8844e67c2108d4956bd0"
+    }
+  ]
+}

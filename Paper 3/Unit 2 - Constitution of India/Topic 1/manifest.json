@@ -1,0 +1,86 @@
+{
+  "chapter_id": "P03-U02-T01",
+  "paper": 3,
+  "unit": 2,
+  "topic": 1,
+  "title": "Evolution of Indian Constitution: Role of Drafting Committee, Philosophy and Preamble, Salient Features, Basic Structure and Amendments",
+  "official_notification": "02/2024",
+  "academic_status": "expanded_draft_not_approved",
+  "is_official_PYQ_claimed": false,
+  "scope": "ONE_NEW_TOPIC_DELTA_ONLY",
+  "included_draft_topic_count": 1,
+  "existing_topic_drafts_preserved_in_this_archive": 0,
+  "previous_library_checkpoint": "TGPSC_GROUP1_PAPER3_UNIT1_TOPIC5_SOCIAL_POLICIES_DRAFT.zip (located, raw bytes inaccessible)",
+  "cumulative_archive_complete": false,
+  "notes_word_count": 9318,
+  "major_concept_count": 7,
+  "original_mcq_count": 20,
+  "original_mains_model_answer_count": 6,
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 88099,
+      "sha256": "d941a2cfc28345dfc3c5b33e5b1d3f929b4b24d992f90f9d7f1433f7e2c9fd80"
+    },
+    {
+      "path": "complete-notes.pdf",
+      "bytes": 217301,
+      "sha256": "15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21"
+    },
+    {
+      "path": "source/quick-revision.md",
+      "bytes": 3482,
+      "sha256": "88fcedccb743de19b440d08696c2a195c5a1ef7d0cd9d30c57ef536fff1740d0"
+    },
+    {
+      "path": "source/complete-notes.md",
+      "bytes": 72220,
+      "sha256": "f9f7a8f099fc2dd1d2c2161b3f99e73ab396a22b1f247b55e28e024fc018a1f3"
+    },
+    {
+      "path": "source/syllabus-and-summary.md",
+      "bytes": 3205,
+      "sha256": "d18a84c9f2d60da81c9968a60af36c9125e7df2225735789f8c7b464f6373003"
+    },
+    {
+      "path": "source/visual-learning.md",
+      "bytes": 3721,
+      "sha256": "b5a023696834056144fcc1b4d484260aa3f60a19f950501598bb05f2e7eafccc"
+    },
+    {
+      "path": "source/sources-and-audit.md",
+      "bytes": 4158,
+      "sha256": "f8b42e0a2f339a0b504bf1e5ae7f3be01437423fec803c5c9a50f964d2baac68"
+    },
+    {
+      "path": "source/detailed-notes.md",
+      "bytes": 39701,
+      "sha256": "f707b527cfb711d008f24dc239789bdec4eb9e5b948cfe7691af2d7e14d0b422"
+    },
+    {
+      "path": "source/original-mcqs.md",
+      "bytes": 5856,
+      "sha256": "ccff2d9a8f84dadbdac0d40d4b4f22a27abba8422784933485aab9139287bb42"
+    },
+    {
+      "path": "source/mains-model-answers.md",
+      "bytes": 11814,
+      "sha256": "ef9bdc6522ff9eed6dccaed772657bab4b945b0f780f7268fe1b079f8dafe17f"
+    },
+    {
+      "path": "visuals/constitution-making-flow.png",
+      "bytes": 56359,
+      "sha256": "91d27d2d2157bd351735ec9d581b7ec191a5a76290c51ea68316a4d1cad1b0e3"
+    },
+    {
+      "path": "visuals/amendment-gates.png",
+      "bytes": 49978,
+      "sha256": "e9890bb4c0fa10d27f167344843f70525f34fec18566213cb0156fb611910e44"
+    },
+    {
+      "path": "README.md",
+      "bytes": 881,
+      "sha256": "e48ee042f30676c84a5e9ad6e1e70ae1762095627450c01d4514f1fa7cd9cb8d"
+    }
+  ]
+}

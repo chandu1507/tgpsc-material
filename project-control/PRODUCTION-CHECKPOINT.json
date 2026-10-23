@@ -1,0 +1,766 @@
+{
+  "updated": "2026-10-23",
+  "total_topics": 75,
+  "published_draft_pdf_topics": 25,
+  "slots_without_published_pdf": 50,
+  "academically_approved": 0,
+  "reported_automation_checkpoint": {
+    "sequential_drafts_indicated": 28,
+    "last_reported_topic": "3-3-3",
+    "independently_verified_as_complete_master": false,
+    "note": "Historical task report; refresh the automation result and actual files before choosing next topic."
+  },
+  "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
+  "topics": [
+    {
+      "id": "2-1-1",
+      "title": "Early Indian Civilizations, Religious Movements and Classical Culture",
+      "path": "Paper 2/Unit 1 - Indian History and Culture/Topic 1",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-1-2",
+      "title": "Islam, Bhakti–Sufi Traditions and Composite Culture",
+      "path": "Paper 2/Unit 1 - Indian History and Culture/Topic 2",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-1-3",
+      "title": "British Colonial Expansion and Economic Transformation",
+      "path": "Paper 2/Unit 1 - Indian History and Culture/Topic 3",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-1-4",
+      "title": "Anti-British Uprisings, Nationalism and Social Reform",
+      "path": "Paper 2/Unit 1 - Indian History and Culture/Topic 4",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-1-5",
+      "title": "Indian National Movement: Negotiations, Mass Politics and Partition",
+      "path": "Paper 2/Unit 1 - Indian History and Culture/Topic 5",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-2-1",
+      "title": "Ancient Telangana: Satavahanas, Ikshvakus and Vishnukundins",
+      "path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-2-2",
+      "title": "Medieval Telangana: Kakatiyas, Velama Kingdoms and Qutb Shahis",
+      "path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-2-3",
+      "title": "Asaf Jahi State: Reforms, Land Tenure and Modernisation",
+      "path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-2-4",
+      "title": "Socio-Cultural Awakening in Telangana",
+      "path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-2-5",
+      "title": "People's Movement against Nizam's Rule",
+      "path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 5",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-3-1",
+      "title": "Physical Geography of India: Monsoon, Resources and Water",
+      "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-3-2",
+      "title": "India: Agriculture, Industry, Population and Urbanisation",
+      "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-3-3",
+      "title": "Telangana: Physical Geography, Rivers, Forests and Minerals",
+      "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-3-4",
+      "title": "Telangana: Agriculture, Irrigation, Industry and Population",
+      "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 4",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "2-3-5",
+      "title": "Telangana Urbanisation and the Hyderabad Megapolis",
+      "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-1-1",
+      "title": "Indian Society: Unity in Diversity, Family, Marriage, Kinship, Caste, Tribe, Religion and Language",
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 1",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-1-2",
+      "title": "Social Exclusion and Vulnerable Groups: SCs, STs, Backward Classes, Minorities, Women, Children, Aged and Disabled",
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 2",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-1-3",
+      "title": "Social Issues: Poverty, Unemployment, Child Labour, Social Conflict, Agrarian Distress and Migration",
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 3",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-1-4",
+      "title": "Social Issues and Social Movements in Telangana",
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-1-5",
+      "title": "Social Policies and Programmes in India and Telangana",
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 5",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-2-1",
+      "title": "Evolution of Indian Constitution: Drafting, Philosophy, Preamble, Basic Structure and Amendments",
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 1",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-2-2",
+      "title": "Fundamental Rights, Directive Principles, Rule of Law and Fundamental Duties",
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 2",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-2-3",
+      "title": "System of Government: Parliament, Union and State Executives and Legislatures",
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 3",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-2-4",
+      "title": "Judicial System: Courts, Tribunals, Judicial Review, Independence and Accountability",
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 4",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-2-5",
+      "title": "Federal System: Centre-State Relations, Local Government and Water Disputes",
+      "path": "Paper 3/Unit 2 - Constitution of India/Topic 5",
+      "chapter_published": true,
+      "pdf_published": true,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+    },
+    {
+      "id": "3-3-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 3/Unit 3 - Governance/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "3-3-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 3/Unit 3 - Governance/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "3-3-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 3/Unit 3 - Governance/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "3-3-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 3/Unit 3 - Governance/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "3-3-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 3/Unit 3 - Governance/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-1-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 1 - Indian Economy/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-1-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 1 - Indian Economy/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-1-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 1 - Indian Economy/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-1-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 1 - Indian Economy/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-1-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 1 - Indian Economy/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-2-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 2 - Telangana Economy/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-2-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 2 - Telangana Economy/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-2-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 2 - Telangana Economy/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-2-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 2 - Telangana Economy/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-2-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 2 - Telangana Economy/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-3-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-3-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-3-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-3-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "4-3-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-1-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-1-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-1-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-1-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-1-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-2-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-2-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-2-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-2-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-2-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-3-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-3-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-3-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-3-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "5-3-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-1-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-1-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-1-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-1-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-1-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-2-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-2-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-2-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-2-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-2-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-3-1",
+      "title": "Topic 1 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 1",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-3-2",
+      "title": "Topic 2 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 2",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-3-3",
+      "title": "Topic 3 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 3",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-3-4",
+      "title": "Topic 4 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 4",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    },
+    {
+      "id": "6-3-5",
+      "title": "Topic 5 — official subtopic heading pending verification",
+      "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 5",
+      "chapter_published": false,
+      "pdf_published": false,
+      "academic_status": "not_approved",
+      "production_review": "pending",
+      "notes": "Reserved slot; complete published PDF not present."
+    }
+  ]
+}

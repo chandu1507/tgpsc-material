@@ -1,28 +1,27 @@
-# Verified TGPSC publication and checkpoint status — 23 October 2026
+# TGPSC production and publication status - 23 October 2026
 
-| Measure | Verified / reported state |
+| Measure | Verified publication state |
 |---|---|
-| Planned study topics | 75 |
-| Draft-tagged topics in GitHub `assets/site.js` | 18 |
-| GitHub pending topic slots | 57 |
-| Latest master checkpoint in Project Library | `TGPSC_GROUP1_PAPER3_UNIT1_TOPIC4_DEEP_DRAFT.zip` — 19 drafts reported |
-| Latest master ZIP raw-byte access in this run | **Denied by Project file materialization service** |
-| Academically approved | **0** |
-| Paper II checkpoint uploaded and imported | **Yes — 15 PDFs, 15 HTML chapters and 192 Markdown files** |
-| Next numbered study topic | Paper III, Unit I, Topic 5, after Topic 4 master recovery |
+| Planned syllabus topics | 75 |
+| Published draft chapter/PDF pairs | 25 |
+| Paper II | 15 chapter/PDF pairs |
+| Paper III Unit I - Indian Society | 5 chapter/PDF pairs |
+| Paper III Unit II - Constitution of India | 5 chapter/PDF pairs |
+| Slots without a published full PDF | 50 |
+| Academically approved | 0 |
 
-## Publication scope and preservation
+## What changed
 
-**The master ZIP and GitHub are not identical.** The most recent 19-topic Project Library ZIP could not be materialized. The GitHub portal currently lists 18 drafts: 15 for Paper II and 3 for Paper III Unit I. These draft flags do not mean 18 full manuscripts or PDFs are published on GitHub. Paper II full chapter pages and PDFs were imported successfully on 23 October 2026; this does not change their draft academic status.
+The original Paper II checkpoint was restored and imported. Ten existing Paper III drafts were then recovered from the Social Policies cumulative checkpoint and the five-topic Constitution subset. Their ten PDFs contain 288 pages in total. Existing Indian Society source notes were preserved; archive placeholders were excluded and recorded in [the recovery report](project-control/PAPER3-RECOVERY-REPORT.json).
 
-The previously available seven-topic local archive is **older**. It must not be used to replace more recent GitHub content.
+## Production continues
 
-`.github/workflows/package-publication.yml` packages **the files tracked on GitHub**, not the inaccessible 19-topic master. After a successful Paper II import, the packaging workflow rebuilds from current `main` and commits the ZIP under `downloads/`. Concurrent updates cause a bounded rebuild/retry rather than publishing a stale archive. The repository's standard ZIP of `main` remains downloadable irrespective of the workflow.
+The hourly task is enabled. Its most recent completed result available when this checkpoint was prepared reported 28 sequential drafts, through Paper III Unit III Topic 3; that is a reported writing milestone, not a verified complete 28-topic publication. An immediate continuation was recorded as in progress. Refresh the automation result, Library files and GitHub state before selecting a new topic; do not restart from stale Topic 5 instructions.
 
-## Content quality gate
+First recover any unpublished newer files, then continue one new topic per production run. Also repair incomplete supporting sections and deepen older drafts before treating all 75 topics as production-complete. Published artifacts and academic approval are distinct. Official PYQs require the original paper and question number.
 
-Each topic requires independent historical/civic/source verification, official syllabus alignment, verified question provenance, substantive model answers and diagram/image/PDF inspection. Zero topics have met all gates.
+## Downloads and coverage
 
-## Next production blocker
+The [publication ZIP](downloads/TGPSC_GITHUB_PUBLICATION_SNAPSHOT.zip) packages current GitHub files after its workflow succeeds. It must not be described as a complete 75-topic master. The [per-topic checkpoint](project-control/PRODUCTION-CHECKPOINT.json) records exactly which topic PDFs are present; [the repository ZIP](https://github.com/chandu1507/tgpsc-material/archive/refs/heads/main.zip) always reflects current tracked files.
 
-Recover the latest 19-topic master ZIP either by attaching it directly to the conversation or uploading it as an input file under `incoming/`. Then continue with **one** topic, Paper III Unit I Topic 5, while maintaining all existing topic assets.
+Do not overwrite newer content with an older archive. Paper III Governance and Papers IV-VI still require publication and/or production. All published manuscripts remain academically unapproved drafts, and recovering them is not a fresh subject-matter audit.

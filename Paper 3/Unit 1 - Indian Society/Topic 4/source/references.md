@@ -1,0 +1,1 @@
+Official Group-I syllabus, Annexure II; Telangana Devadasis (Prohibition of Dedication) Act 1988, India Code; Child and Adolescent Labour Act as amended 2016, India Code; Prohibition of Child Marriage Act 2006; Bonded Labour System (Abolition) Act 1976; WHO fluoride guidelines; relevant historical research on Telangana agrarian struggle. Source-level audit pending.
