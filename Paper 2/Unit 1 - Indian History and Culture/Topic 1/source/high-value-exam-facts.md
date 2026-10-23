@@ -1,0 +1,7 @@
+# High-value syllabus revision and named evidence
+
+## Evidence-rich revision: what a top-scoring answer must not omit
+**Harappan archaeology:** Distinguish Harappa and Mohenjo-daro as urban sites from the Dholavira water-management landscape and Lothal's debated dockyard identification. Cite Great Bath at Mohenjo-daro, Dholavira's reservoir system, standardized weights and undeciphered script, but do not infer a named emperor or fixed political constitution from archaeology. **Vedic period:** Distinguish Early Vedic pastoral lineages and ritual networks from Later Vedic agrarian expansion, iron use in some regions and the emergence of territorial polities. **Jainism:** Mahavira, anekantavada, syadvada, ahimsa and the triratna; do not mistake Jain triratna for Buddhism's Triple Gem. **Buddhism:** Four Noble Truths, Eightfold Path, dependent origination, Ashokan patronage and monastic transmission. **Three schools of sculpture:** Gandhara (schist/grey stone, drapery traditions), Mathura (red sandstone, regional iconography), and Amaravati (limestone narrative panels). **Mauryan evidence:** Ashokan rock and pillar inscriptions; **Gupta evidence:** Allahabad pillar inscription of Samudragupta and material culture. Exam distinction: royal panegyric is a political claim, not neutral ethnography.
+
+
+**Verification gate:** a primary-source or scholarly page-level audit is still required before these educational summaries can be marked approved.

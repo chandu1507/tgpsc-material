@@ -1,0 +1,7 @@
+# High-value syllabus revision and named evidence
+
+## Evidence-rich nationalist chronology and decisive instruments
+**Congress founded 1885:** early constitutional agitation and economic critique; **Partition of Bengal 1905** and Swadeshi/boycott; **Surat split 1907**, **Lucknow Pact 1916** (Congress–League cooperation, with separate-electorate concessions), **Montagu Declaration 1917** and **Government of India Act 1919** (dyarchy in provinces). **Rowlatt Act 1919** and Jallianwala Bagh drove distrust; **Non-Cooperation 1920–22** ended after Chauri Chaura; **Simon Commission 1927**, **Nehru Report 1928**, **Lahore Congress 1929** and complete-independence resolution; **Dandi March 1930**, **Gandhi–Irwin Pact 1931** (specific concessions amid continuing repression), **Poona Pact 1932** (separate electoral issue concerning Depressed Classes; Ambedkar–Gandhi negotiation), **Government of India Act 1935** (provincial autonomy); **August Offer 1940**, **Cripps Mission 1942**, **Quit India 1942**, **Cabinet Mission 1946**, **Indian Independence Act 1947**. **Kisan Sabha (1936), trade-union movement, left currents and women's political participation** need their own material consequences, not mere mentions. Evaluate the transfer of power alongside communal violence, refugee displacement and competing constitutional visions.
+
+
+**Verification gate:** a primary-source or scholarly page-level audit is still required before these educational summaries can be marked approved.

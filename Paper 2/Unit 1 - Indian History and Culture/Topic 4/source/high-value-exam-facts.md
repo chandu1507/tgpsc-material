@@ -1,0 +1,7 @@
+# High-value syllabus revision and named evidence
+
+## High-value examples omitted by generic revision
+**Santhal Hul (1855–56):** leadership associated with Sidhu and Kanhu, land alienation and moneylender–zamindar exploitation in the Damin-i-Koh context; distinguish it from **Birsa Munda's Ulgulan (1899–1900)** against alienation and colonial governance. **Indigo Revolt (1859–60):** planter contracts and coercion, with Bengali public mobilisation; **Deccan Riots (1875):** credit and cotton-market distress. **1857:** distinguish sepoy grievances (greased-cartridge controversy and service concerns) from annexation, taluqdari and landed discontent; name Meerut, Delhi, Kanpur, Lucknow and Jhansi, leaders Bahadur Shah Zafar, Nana Sahib, Begum Hazrat Mahal and Rani Lakshmibai, and regional differences. **Aftermath:** 1858 Crown takeover, end of Company's rule, army reorganisation and changed princely-state policy. **Social reform:** Raja Ram Mohan Roy and the 1829 sati abolition regulation, Ishwar Chandra Vidyasagar and Widow Remarriage Act 1856, Jyotirao and Savitribai Phule's education and anti-caste work, Narayana Guru and Ambedkar's later critique. Always link a named action/institution to the problem being addressed; labels like 'reform for women' earn little explanatory weight.
+
+
+**Verification gate:** a primary-source or scholarly page-level audit is still required before these educational summaries can be marked approved.
