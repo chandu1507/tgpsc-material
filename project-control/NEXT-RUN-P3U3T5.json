@@ -1,0 +1,41 @@
+{
+  "updated": "2026-10-23",
+  "latest_new_topic": "3-3-5",
+  "next_new_topic": "4-1-1",
+  "total_slots": 75,
+  "distinct_accessible_manuscripts": 30,
+  "without_first_draft": 45,
+  "published_pdf_chapter_pairs_after_commit": 27,
+  "academically_approved": 0,
+  "local_subset": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
+  "local_subset_byte_verified": 10,
+  "unpublished_existing_drafts": [
+    "3-3-1",
+    "3-3-2",
+    "3-3-3"
+  ],
+  "new_topic": {
+    "id": "3-3-5",
+    "pdf_pages": 31,
+    "words": 13821,
+    "original_mcqs": 25,
+    "mains_models": 6,
+    "model_answer_words": [
+      221,
+      231,
+      235,
+      222,
+      228,
+      246
+    ],
+    "primary_sources": 22,
+    "academic_status": "not_approved"
+  },
+  "open_gaps": [
+    "Primary official TGPSC Notification 02/2024 PDF direct retrieval",
+    "Independent subject/legal academic audit",
+    "Verified official PYQ paper and question numbers",
+    "Recover and publish P3-U3-T1–3 without overwriting newer assets"
+  ],
+  "publication_note": "Full HTML, source, diagrams and PDF are committed through GitHub app Git data API; inspect final commit and packaging workflow artifact."
+}

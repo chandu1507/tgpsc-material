@@ -1,0 +1,62 @@
+{
+  "topic_id": "P3-U3-T5",
+  "paper": 3,
+  "unit": 3,
+  "topic": 5,
+  "title": "Ethics and Values of Administration; Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms",
+  "research_date": "2026-10-23",
+  "academic_status": "expanded draft, not academically approved",
+  "source_status": "official syllabus PDF not downloaded; exact wording cross-checked with public reproduction",
+  "new_topics_this_run": 1,
+  "previous_distinct_accessible_drafts": 29,
+  "accessible_distinct_drafts_after_run": 30,
+  "remaining_without_first_draft": 45,
+  "original_mcqs": 25,
+  "verified_official_pyqs": 0,
+  "mains_answers": 6,
+  "mains_answer_word_counts": [
+    221,
+    231,
+    235,
+    222,
+    228,
+    246
+  ],
+  "detailed_concept_chapters": 18,
+  "total_manuscript_words": 13821,
+  "pdf_pages": 31,
+  "original_diagrams": 3,
+  "primary_source_register": 22,
+  "publication": {
+    "github_published": true,
+    "pdf_published": true,
+    "github_commit": "refer to project-control/PRODUCTION-CHECKPOINT.json and Git history",
+    "publication_verification": "pending post-commit fetch"
+  },
+  "open_audit_items": [
+    "Primary TGPSC-hosted Notification 02/2024 PDF access",
+    "Official question paper and question-number provenance",
+    "Independent academic/legal review",
+    "Recheck state service rules and dynamic commission roster"
+  ],
+  "files_sha256": {
+    "README.md": "1c05bd02f366b026e2f73a3f5d1c896adca420a630899fc692aa7ecbe80defd0",
+    "complete-notes.pdf": "e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825",
+    "index.html": "477a5e5ee6eb6390daff51ba7314596d1b7864b659f539bd676120ba0280efde",
+    "source/complete-notes.md": "ad5f9684c6e9df08b6042bdfb65156087a2523d7585e7076b5ebbd8997de1fbf",
+    "source/detailed-notes.md": "9196f1b617538a820be5b427fc53d3fbeedd554bd7f02bdaa320148ee5973b3f",
+    "source/mains-model-answers.md": "b3482b823b0492a6fe9f714b715e0368cdb29adcbe0c0cf03827a807d667f4bf",
+    "source/original-mcqs.md": "ac521fc8b276d6974835603ee50c16d7bfcc7a2431bf0b914af018735b705b12",
+    "source/quick-revision.md": "a6a3037480c9f85b84fba831ec756621bb603774297147ed5c9851b6b84ddcfc",
+    "source/sources-and-audit.md": "e794a54cfc44f916ce7917a7f3268dc0d9646f01ded80e9e5fb722d6fba0825f",
+    "source/syllabus-and-summary.md": "87d68b81322b579c562894c229e32d71610296e477ade4e4d836034a00151421",
+    "source/visual-learning.md": "afa274fc0df848d9c7fb546e83dc8e5b4401613074a1449fcdc0c372811e6215",
+    "visuals/ethical-decision.png": "fd87331198ab8282eedf23fa9a858925a0f0642579b65d61b2a11854170c8a23",
+    "visuals/ethical-decision.svg": "8fd375907ae3e7dadc6bb7080a378084772bbe5cd07e2214b8690703b57dd758",
+    "visuals/forum-routing.png": "cd29cf7b1e65f7dfeee67d266b5ad82404ce004ca7a308231df5f20129856b14",
+    "visuals/forum-routing.svg": "ab0dadafa0298af829cf982069d2c33987efc4fce3e46a98a0bd0a6c38265a42",
+    "visuals/reform-loop.png": "dc9d4b5f0491acf1ece9fa8eba2e1fa80c7a75ca35d957d38dc702f8aae19278",
+    "visuals/reform-loop.svg": "d317162ca71744f407f7e8931d421d27da57650e5705635992029490e46694f0"
+  },
+  "is_complete_75_topic_master": false
+}

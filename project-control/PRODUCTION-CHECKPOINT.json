@@ -1,14 +1,15 @@
 {
   "updated": "2026-10-23",
   "total_topics": 75,
-  "published_draft_pdf_topics": 26,
-  "slots_without_published_pdf": 49,
+  "published_draft_pdf_topics": 27,
+  "slots_without_published_pdf": 48,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 29,
-    "last_reported_topic": "3-3-4",
+    "sequential_drafts_indicated": 30,
+    "last_reported_topic": "3-3-5",
+    "remaining_without_first_draft": 45,
     "independently_verified_as_complete_master": false,
-    "note": "29 accessible draft manuscripts across 26 GitHub published pairs plus local nine-topic subset; older chapters vary in completeness and require repair."
+    "note": "30 distinct accessible draft manuscripts; 27 published PDF/chapter pairs after this commit, plus 3 unpublished but byte-accessible P3-U3-T1–3 in local 10-topic subset. Academic approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -304,13 +305,13 @@
     },
     {
       "id": "3-3-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms",
       "path": "Paper 3/Unit 3 - Governance/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Expanded 13,821-word draft, 31-page PDF, 25 original explained MCQs, six 200–250-word mains answers, 22 primary-source register entries; direct primary syllabus PDF and independent academic audit remain outstanding."
     },
     {
       "id": "4-1-1",
@@ -779,5 +780,6 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_9_TOPICS.zip",
     "not_all_published_on_github": true
   },
-  "next_sequential_topic": "3-3-5"
+  "next_sequential_topic": "3-3-5",
+  "next_new_topic": "4-1-1"
 }
