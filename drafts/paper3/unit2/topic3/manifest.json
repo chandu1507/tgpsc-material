@@ -1,0 +1,118 @@
+{
+  "project": "TGPSC Group I 75-topic study library",
+  "topic_id": "P3-U2-T3",
+  "title": "System of Government: Parliamentary System, Union and State Executives, Parliament, State Legislature and Legislative Privileges",
+  "official_syllabus": "TGPSC Notification 02/2024, Annexure II, Paper III, Section II, item 3",
+  "research_cutoff": "2026-10-23",
+  "topic_count_in_this_delta": 1,
+  "prior_drafts_indicated_not_byte_verified": 22,
+  "new_indicated_draft_count": 23,
+  "remaining_indicated": 52,
+  "academically_approved": 0,
+  "cumulative_master_raw_bytes_accessible": false,
+  "cumulative_archive_verified": false,
+  "is_cumulative_zip": false,
+  "major_concept_chapters": 10,
+  "concept_chapter_word_counts": [
+    1010,
+    1046,
+    879,
+    880,
+    762,
+    904,
+    806,
+    831,
+    873,
+    746
+  ],
+  "detailed_notes_words": 8636,
+  "complete_markdown_words": 14346,
+  "original_mcqs": 25,
+  "verified_official_pyqs": 0,
+  "mains_answers": 6,
+  "mains_answer_body_word_counts": [
+    243,
+    246,
+    236,
+    234,
+    234,
+    247
+  ],
+  "pdf_pages": 36,
+  "pdf_extracted_characters": 102639,
+  "pdf_diagrams": 2,
+  "markdown_tables": 5,
+  "sources": 12,
+  "academic_status": "expanded draft, academic audit outstanding",
+  "publication_state": "GitHub branch topic-archive/p3-u2-t3-20261023, HTML and full editable Markdown; PDF is NOT in GitHub and remains in downloadable ZIP",
+  "included_files": [
+    {
+      "path": "README.md",
+      "bytes": 855,
+      "sha256": "1f392f2a1557e57ba781d03715169edee069f8ecfa8ef1d5fdcdbdcdd1c5e08c"
+    },
+    {
+      "path": "complete-notes.pdf",
+      "bytes": 268535,
+      "sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24"
+    },
+    {
+      "path": "index.html",
+      "bytes": 123086,
+      "sha256": "a18b521bfaeb45ce5b168b1eaa041b268d2a70ab09eebff6c1947f670b8bdd46"
+    },
+    {
+      "path": "source/complete-notes.md",
+      "bytes": 103120,
+      "sha256": "34a1a6dc1cb6bb3dd96f91635b20659f1cf3f6ec366cb0646b06fbefd76159b4"
+    },
+    {
+      "path": "source/detailed-notes.md",
+      "bytes": 61835,
+      "sha256": "6fec0f6b7facf98f61cf9e0813a827e7c7fedd3586c64cfd8df35f36c42a3862"
+    },
+    {
+      "path": "source/mains-model-answers.md",
+      "bytes": 11969,
+      "sha256": "b1ba527598c1c6b58b1c8a3f170bb56095d5952e411a61ca370cc3b8a3f81f12"
+    },
+    {
+      "path": "source/original-mcqs.md",
+      "bytes": 10914,
+      "sha256": "ad25cf43015c43e6ce128dcbae59e2a2c88fb42aec654dbd0657affc9f06df3f"
+    },
+    {
+      "path": "source/quick-revision.md",
+      "bytes": 5441,
+      "sha256": "24d5c864c356b222fa735ad92928f3ffaa6b740c71d2be3f7d52d9a49b4a2be8"
+    },
+    {
+      "path": "source/sources-and-audit.md",
+      "bytes": 6405,
+      "sha256": "c07d9b9591a7a9634e6cef2cb8ef32e44878a333ec8e097a1787ed43772f7cbc"
+    },
+    {
+      "path": "source/syllabus-and-summary.md",
+      "bytes": 3622,
+      "sha256": "a9f79a802a0e56ae6f578961f9fb1c384a6445205800393bb09ad366312d0a71"
+    },
+    {
+      "path": "source/visual-learning.md",
+      "bytes": 2898,
+      "sha256": "9f821bf7561296d755bcede7c1e91bed75deab5dc91d2fec0e7bc7b8414efbec"
+    },
+    {
+      "path": "visuals/bill-classification.png",
+      "bytes": 67039,
+      "sha256": "d619a108ffe138aeb3c8e02c4397b5874ab0c33eb0516ebefcef38a968186a3d"
+    },
+    {
+      "path": "visuals/responsible-government.png",
+      "bytes": 46149,
+      "sha256": "9f7c9369c93ff0e9f77440bc5b852d23b05b766a66d3daf62c237882b6f14476"
+    }
+  ],
+  "github_branch": "topic-archive/p3-u2-t3-20261023",
+  "github_path": "drafts/paper3/unit2/topic3",
+  "github_full_pdf_included": false
+}
