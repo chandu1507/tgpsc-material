@@ -1,0 +1,22 @@
+{
+  "id": "5-3-3",
+  "title": "Quantitative Aptitude",
+  "source_word_count": 10026,
+  "mcq_count": 30,
+  "mains_count": 6,
+  "diagram_count": 3,
+  "academically_approved": false,
+  "files_sha256": {
+    "index.html": "1d799c208dea3716f64a2d6b87f974b2aca03e0d3b62af8b3b6b4475203162e3",
+    "complete-notes.pdf": "3a4de15932eabf615bd62c4e5f99d15ef6b65a8517014cc81c753a81c9aacf29",
+    "README.md": "36083887c4f430c94648d3bb2544e7ecd92c34d2ef3fc06e321adb7a10ab97b1",
+    "diagrams/weighted_average.png": "1f3adcf4e66205f86f53a976c9825507807766089f587d3367fa808d84b42143",
+    "diagrams/profit_discount.png": "4970a483c961061a2d96a8490aa2c995c132ad2242bd606e7ebe1ca14918e118",
+    "diagrams/ap_vs_gp.png": "c1583f4ff9acdbf3a483e15548c3105388ee2f2879c497673216c16eb0193a07",
+    "source/complete-notes.md": "09f39e6f382b4f6d237ad77a12363be5b5ab5cbb9e3a549127af1d2b48cbd13a",
+    "source/original-practice.md": "8630b81d7b7cdfcac2edf7dc817b16941e0d5d615ba446467bccf2be78ca8ce1",
+    "source/complete-model-answers.md": "f95b0bbaf1cf0a5aba4467eab3091e50bb4c601189650213d8cd63caf4cf358e",
+    "source/quick-revision.md": "c171e1910de2d55dfdd20aa826eb20743292c619e906d03ef1c54992e7a1309a",
+    "source/source-audit.md": "ac71ae7d932a1db1ac0badf507958a046471eeb244367066b11b6a3bc2f6335b"
+  }
+}

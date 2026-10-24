@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 57,
-  "slots_without_published_pdf": 18,
+  "published_draft_pdf_topics": 58,
+  "slots_without_published_pdf": 17,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 57,
-    "last_reported_topic": "5-3-2",
-    "remaining_without_first_draft": 18,
+    "sequential_drafts_indicated": 58,
+    "last_reported_topic": "5-3-3",
+    "remaining_without_first_draft": 17,
     "independently_verified_as_complete_master": false,
-    "note": "57 published draft PDF/chapter pairs; zero academic approvals; 19 older editable Markdown masters missing and shallow Paper II drafts require repair."
+    "note": "58 published draft pairs; zero academic approvals; 18 older consolidated Markdown masters missing after two recoveries. Paper II depth repairs pending."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -587,13 +587,13 @@
     },
     {
       "id": "5-3-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Quantitative Aptitude — Number Sequences, Series, Averages, Number Systems, Ratio and Proportion, Profit and Loss",
       "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "10,026-word original draft, 18-page PDF, 30 explained original MCQs, six structured 200–250-word model answers, three original illustrative diagrams. Independent academic review pending."
     },
     {
       "id": "5-3-4",
