@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 24 October 2026
 
-**51/75 published draft PDF/chapter pairs; 24 slots without a first published PDF; 0 academically approved.** Latest complete draft: [Paper V / Unit II / Topic 1 — Crop Science in India](Paper%205/Unit%202%20-%20Modern%20Applications%20of%20Science/Topic%201/index.html). All 30 MCQs and six mains questions are original practice; none is an official PYQ. Earlier Paper II chapters need substantive expansion and independent review. The JSON checkpoint is authoritative over historical summaries below.
+**52/75 published draft PDF/chapter pairs; 23 slots without a first published PDF; 0 academically approved.** Latest complete draft: [Paper V / Unit II / Topic 2 — Biotechnology, Genetic Engineering and Stem Cells](Paper%205/Unit%202%20-%20Modern%20Applications%20of%20Science/Topic%202/index.html). 30 MCQs and six mains answers are original practice, not official PYQs. Older Paper II shallow chapters still require substantive expansion and independent review. The JSON checkpoint is authoritative over historical summaries below.
 
 ---
 

@@ -3,6 +3,22 @@
 | Measure | Reconciled state |
 |---|---:|
 | Planned topic slots | 75 |
+| Published draft PDF/chapter pairs | **52** |
+| Slots without first PDF | **23** |
+| Independently academically approved | **0** |
+
+Latest new topic: **Paper V / Unit II / Topic 2 — Biotechnology, Genetic Engineering, Stem Cell Research, Agriculture and Environmental Cleanup**. 30 original explained MCQs, six complete mains models, three original diagrams and 24 primary-source register entries. No official PYQ claimed. Previous Paper II shallow drafts still require expansion and independent audit.
+
+---|---:|
+| Planned topic slots | 75 |
+| Published draft PDF/chapter pairs | **52** |
+| Slots without first PDF | **23** |
+| Independently academically approved | **0** |
+
+Latest new topic: **Paper V / Unit II / Topic 2 — Biotechnology, Genetic Engineering, Stem Cell Research, Agriculture and Environmental Cleanup**. 30 original explained MCQs, six complete mains models, three original diagrams and 24 primary-source register entries. No official PYQ claimed. Previous Paper II shallow drafts still require expansion and independent audit.
+
+---|---:|
+| Planned topic slots | 75 |
 | Published draft PDF/chapter pairs | **51** |
 | Slots without first PDF | **24** |
 | Independently academically approved | **0** |

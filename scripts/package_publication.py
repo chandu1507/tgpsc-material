@@ -12,7 +12,7 @@ tracked = subprocess.check_output(["git", "ls-files", "-z"], cwd=ROOT).split(b"\
 paths = sorted({os.fsdecode(x) for x in tracked if x})
 safe = []
 for name in paths:
-    if name.startswith(("downloads/", ".git/")):
+    if name == "PUBLICATION_SCOPE.txt" or name.startswith(("downloads/", ".git/")):
         continue
     path = (ROOT / name).resolve()
     if not path.is_file() or not path.is_relative_to(ROOT):

@@ -1,0 +1,48 @@
+{
+  "topic_id": "5-2-2",
+  "title": "Biotechnology, Genetic Engineering, Stem Cell Research and Agricultural and Environmental Applications",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "official_syllabus_authenticated": true,
+  "metrics": {
+    "words": 11005,
+    "pdf_pages": 25,
+    "sections": 17,
+    "mcqs": 30,
+    "mains": 6,
+    "mains_answer_word_counts": [
+      201,
+      206,
+      203,
+      204,
+      210,
+      200
+    ],
+    "diagrams": 3,
+    "source_register": 24,
+    "academic_approvals": 0
+  },
+  "files": {
+    "README.md": "e607477f9db6164f1666f6ada996a7af81c3f43cda70164d6883b3c22183aef2",
+    "complete-notes.pdf": "fb8424ad637d2513697ebe88b33a92d87489849e0d40cde9c972a5b50b128c38",
+    "diagrams/01-evidence-chain.png": "8cf0f206065f4cb6a10a99a045dcb1a1b211af5c8c5fc43a3678cc7c469d9695",
+    "diagrams/02-geac-biosafety.png": "9a09d81340fa45019a90c7f24a96512ee2193418e643232c10ec4b9ab688b2e3",
+    "diagrams/03-remediation-pathways.png": "8ff92096f48ef551daa195f91a6b4c1af849e995d2844159cada237ea9c3a49f",
+    "index.html": "bbb2e6390ad5ab49e3a27f2138cdd5cafcfb10807776c3ae629ee63d83155c38",
+    "source/answer-blueprints.md": "911ab7cffd92f4b1cc7107369b767ae17069fc6355ea2519f194b7304f6270b5",
+    "source/complete-notes.md": "28dab8241a6937cc0e11f7738a8090515e3889a9da7c64f7815c94f9f44a6d82",
+    "source/core.md": "35b3e343ea91eeaffb60bc3c3aed27c21cdd58dda3e152fe51fc2f402c304bb6",
+    "source/mains-model-answers.md": "0c1fafa2d355b6ad78a2608cc7834afd350528851a175eb8d7a1011b3eb3f7ad",
+    "source/original-mcqs.md": "775cfe584cdc093e8b476097ad2ec87ddfcc1f94802ce4690da46a2322d2b7bc",
+    "source/sources-and-audit.md": "6661845bd7bb3c47699971923128a09265871a71472d6931615ef45cd66ef01f",
+    "source/syllabus-and-summary.md": "4fc8390d1b84cbbf5fc21bfad3e7ad258a11c107fca8cff7578286de2cb39d1d",
+    "source/verified-pyqs.md": "1d0ae75bd2ddbef3b55404320344670a903581e0af0dcf41c72a38a380d8ac36",
+    "source/visual-learning.md": "8c411962ca8ca1aed6b6294ce0421932afdd8d9ebb4318edd3e1e8e8b76d746f"
+  },
+  "verification": {
+    "official_pyqs_claimed": 0,
+    "source_page_number_citations_in_student_text": 0,
+    "all_pdf_pages_rendered": true,
+    "independent_academic_review": false
+  }
+}
