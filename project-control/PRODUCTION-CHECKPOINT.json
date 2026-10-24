@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 61,
-  "slots_without_published_pdf": 14,
+  "published_draft_pdf_topics": 62,
+  "slots_without_published_pdf": 13,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 61,
-    "last_reported_topic": "6-1-1",
-    "remaining_without_first_draft": 14,
+    "sequential_drafts_indicated": 62,
+    "last_reported_topic": "6-1-2",
+    "remaining_without_first_draft": 13,
     "independently_verified_as_complete_master": false,
-    "note": "61 published draft PDF/chapter pairs; zero academic approvals; next topic Paper VI Unit I Topic 2 pending fresh verification."
+    "note": "62 published drafts; academic approval zero; older Paper II repairs incomplete; next topic P6 U1 T3 pending fresh verification."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -627,13 +627,13 @@
     },
     {
       "id": "6-1-2",
-      "title": "Topic 2 — official subtopic heading pending verification",
+      "title": "Hyderabad State in Independent India: Mulki Agitation, SRC and Smaller States",
       "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 10,944-word draft, 23-page PDF, 23 textbook sections, 30 explained original MCQs, six complete 200–250-word mains models, three original diagrams, 11-source audit; direct syllabus PDF re-open 502, original inquiry uninspected."
     },
     {
       "id": "6-1-3",
@@ -771,28 +771,19 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "6-1-2",
-  "next_new_topic": "6-1-2",
+  "next_sequential_topic": "6-1-3",
+  "next_new_topic": "6-1-3",
   "latest_verified_publication": {
-    "topic_id": "6-1-1",
-    "topic_title": "Historical Background: Telangana Identity, Salar Jung Reforms and the Mulki Question",
+    "topic_id": "6-1-2",
+    "topic_title": "Hyderabad State in Independent India: Mulki Agitation, SRC and Smaller States",
     "date": "2026-10-25",
-    "publication_status": "github_published_packaging_and_pages_verified",
-    "source_audit": "11 dated institutional and legal-source entries; original notification authenticated",
+    "publication_status": "locally_prepared_awaiting_remote_verification",
+    "source_audit": "11 sources; original TGPSC PDF direct re-open 502; primary SRC report opened; original Jagan Mohan Reddy report unavailable",
     "academic_status": "not_approved",
-    "publication_commit": "373a7e6238fc8d5cb255f4c1e439f0d05e28b569",
-    "pdf_blob_sha": "23d57a27f5a0a5efa49e7226e9da5c22c0ae9e1d",
-    "pages_status": "success",
-    "packaging_status": "success",
-    "pdf_sha256": "add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94",
-    "packaging_run_id": 40136526756,
-    "artifact_id": 12577110427,
-    "pages_run_id": 40136543402,
-    "independent_live_browser_status": "unverified_web_tool_inaccessible",
-    "outer_inner_crc": "passed",
-    "unique_archive_entries": 1020,
-    "published_pdf_pairs": 61,
+    "pdf_sha256": "2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11",
+    "published_pdf_pairs": 62,
     "html_slots": 75,
-    "previous_pdfs_preserved": 60
+    "previous_pdfs_preserved": 61,
+    "independent_live_browser_status": "pending"
   }
 }

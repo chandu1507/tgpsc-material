@@ -1,3 +1,7 @@
+## Production update — 25 October 2026
+
+62/75 published draft PDF/chapter pairs; 13 first PDFs pending; 0 independently academically approved. Paper VI Unit I Topic 2 complete locally and queued for guarded publication. Older Paper II Unit II Topic 5 has a new original 1,235-word partial depth repair and consolidated editable master; original PDF preserved. Original 1952 inquiry report still not inspected.
+
 # TGPSC Group I publication status — 25 October 2026
 
 | Measure | Reconciled state |
