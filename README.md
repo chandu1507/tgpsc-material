@@ -6,9 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**60/75 published draft PDF/chapter pairs; 15 slots without first published PDF; 0 academically approved.** Latest new topic: [Paper V / Unit III / Topic 5 — Decision Making and Problem Solving](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%205/index.html). Original 11,154-word manuscript, 18 substantive sections, twelve original administrative case studies, 30 original explained MCQs, six 200–250-word mains models, three diagrams, ten primary-source register entries and 25-page PDF. All case scenarios are constructed teaching examples. [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) tracks per-topic state.
-
-**Older-depth work:** Paper II Unit II Topic 4 retains its 2,140-word supplementary Vetti/Jogini/Devadasi repair from the previous run. The older primary PDF is unchanged; the chapter is not yet textbook-depth complete. **18 older consolidated Markdown masters remain missing.** All published chapters require independent academic review.
+**61/75 published draft PDF/chapter pairs; 14 slots without first published PDF; 0 academically approved.** Latest new topic: [Paper VI / Unit I / Topic 1 — Historical Background and Mulki Question](Paper%206/Unit%201%20-%20Idea%20of%20Telangana%20%281948%E2%80%931970%29/Topic%201/index.html). Original 12,769-word manuscript, 29-page PDF, 23 substantive sections, 30 explained original MCQs, six structured mains models, three original diagrams and eleven institutional source-register entries. All older PDFs retained; academic audit remains pending. Publication workflow verification remains separate from local structural QA.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

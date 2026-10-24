@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 60,
-  "slots_without_published_pdf": 15,
+  "published_draft_pdf_topics": 61,
+  "slots_without_published_pdf": 14,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 60,
-    "last_reported_topic": "5-3-5",
-    "remaining_without_first_draft": 15,
+    "sequential_drafts_indicated": 61,
+    "last_reported_topic": "6-1-1",
+    "remaining_without_first_draft": 14,
     "independently_verified_as_complete_master": false,
-    "note": "60 published draft PDF/chapter pairs; zero academic approvals; previous 59 PDFs preserved. Next new topic subject to fresh verification: Paper VI Unit I Topic 1."
+    "note": "61 published draft PDF/chapter pairs; zero academic approvals; next topic Paper VI Unit I Topic 2 pending fresh verification."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -617,13 +617,13 @@
     },
     {
       "id": "6-1-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Historical Background: Telangana Identity, Salar Jung Reforms and the Mulki Question",
       "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 12,769-word English draft, 29-page PDF, 23 explanatory sections, 30 explained MCQs, six 200–250-word mains models, three original diagrams, 11-source register. Academic audit pending."
     },
     {
       "id": "6-1-2",
@@ -771,17 +771,17 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "5-1-4",
-  "next_new_topic": "5-1-4",
+  "next_sequential_topic": "6-1-2",
+  "next_new_topic": "6-1-2",
   "latest_verified_publication": {
-    "topic_id": "5-1-3",
-    "topic_title": "Space Programme in India: INSAT, IRS, EDUSAT, Chandrayaan-1 and Developmental Applications",
-    "date": "2026-10-24",
-    "publication_status": "github_published_packaging_pending",
-    "source_audit": "22 official institutional entries",
+    "topic_id": "6-1-1",
+    "topic_title": "Historical Background: Telangana Identity, Salar Jung Reforms and the Mulki Question",
+    "date": "2026-10-25",
+    "publication_status": "local_qa_passed_github_publication_pending",
+    "source_audit": "11 dated institutional and legal-source entries; original notification authenticated",
     "academic_status": "not_approved",
-    "publication_commit": "b6407f3b9aa172a84f1d01464a4b0e26aa5ab3ac",
-    "pdf_blob_sha": "486c68aa450a20d9b16ac1f06b32eb469542b766",
+    "publication_commit": null,
+    "pdf_blob_sha": null,
     "pages_status": "pending",
     "packaging_status": "pending"
   }
