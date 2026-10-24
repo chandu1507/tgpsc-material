@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 42,
-  "slots_without_published_pdf": 33,
+  "published_draft_pdf_topics": 43,
+  "slots_without_published_pdf": 32,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 42,
-    "last_reported_topic": "4-3-2",
-    "remaining_without_first_draft": 33,
+    "sequential_drafts_indicated": 43,
+    "last_reported_topic": "4-3-3",
+    "remaining_without_first_draft": 32,
     "independently_verified_as_complete_master": false,
-    "note": "42 published PDF/chapter draft pairs; independent academic approval remains zero."
+    "note": "43 published draft pairs; zero independent academic approvals; older shallow drafts still require review."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -437,13 +437,13 @@
     },
     {
       "id": "4-3-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Eco systems and Bio-diversity",
       "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "10,324-word original full draft, 21-page PDF, 30 explained MCQs, six mains answers, three diagrams; official syllabus verified; independent audit pending."
     },
     {
       "id": "4-3-4",
