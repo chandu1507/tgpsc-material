@@ -1,0 +1,45 @@
+{
+  "topic_id": "5-1-2",
+  "title": "National Policy of Science and Technology: Policy Evolution, Technology Missions, ICT, Robotics, Nanotechnology and Communication",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "syllabus_indexed_original_verified": true,
+  "syllabus_direct_host_access": "HTTP 403; independent recheck pending",
+  "metrics": {
+    "words": 10396,
+    "pdf_pages": 23,
+    "sections": 16,
+    "mcqs": 30,
+    "mains": 6,
+    "mains_answer_word_counts": [
+      246,
+      243,
+      240,
+      233,
+      236,
+      243
+    ],
+    "diagrams": 3,
+    "source_register": 22,
+    "academic_approvals": 0
+  },
+  "files": {
+    "README.md": "c65f1e98268aed075f94ee77851653f8fde1724f456632764e3463b7eb65b604",
+    "complete-notes.pdf": "6e5ee2729de1e67775c07747c8b1f916c55ca82ca61a9688f4b98255b2fd6bff",
+    "diagrams/01-policy-evolution.png": "23006122c71933ae07531ef70d7f6ba6fe9a3572b3f5ea8d7bb5250af8aaf074",
+    "diagrams/02-mission-results-chain.png": "b60db2003fe748b0dbd0edd38ad7a346e1948100b34a9d512f70e793ae77c5e9",
+    "diagrams/03-socio-technical-stack.png": "52efb13620a84b0ed963c3d97573cb4353ef00567e62460d95d56ef4ef185279",
+    "index.html": "134637da3889aedf4b165b67e5d02a5fd749b802044979c80d70a2bd80f745ee",
+    "render-metrics.json": "63718a0f8c28653bc71ab9d24578d428b1d9c269919b0b92ef3fecf12ed32dcd",
+    "source/answer-blueprints.md": "8e94204cb8c7bc69438de43e5bff37ed81f9b61fb97ef02a1538603cfaf197dc",
+    "source/complete-notes.md": "c27dc9c916ef5b071f0c48ed5350994787c63643b5db801978f609aa27ae4f35",
+    "source/core.md": "cb1e9889fdc9531038906ea981a3196f3ff2e9bec607b0b0aa654e98d902be9b",
+    "source/mains-model-answers.md": "f7fa54614b874be23945657d349185a349edfb48c467aaeaf6cce047ce9d3242",
+    "source/original-mcqs.md": "bdb8303f0437e9196aa50cd34c39851ea678c9e9a13c7298b8eb80825e359118",
+    "source/quick-revision.md": "6d0f2afc4c9520ff2ab4e2162d4bb976f414981dc3b45be00d47a87c3d3795e5",
+    "source/sources-and-audit.md": "6c1e99d701279ad9b2d20e030e84eb8449ee3a0199d65346ce50c3d8b442b499",
+    "source/syllabus-and-summary.md": "a69e8c111ea74b45fa1ffaa37463d5bb60ca94f202fa0e09aa7db40f5a9313c6",
+    "source/verified-pyqs.md": "c46102d1a00e0533019c1db1ac4e4bd1a927366d6a0bb7f1e536f2b7b44a5b4a",
+    "source/worked-applications.md": "85e115922e94a44fee259694daa744a8a80c5f88801a1e54a2c88034387e5fd6"
+  }
+}
