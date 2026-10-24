@@ -1,0 +1,33 @@
+{
+  "id": "5-3-4",
+  "title": "Time and Work, Speed–Time–Distance, Simple Interest, Analytical and Critical Reasoning",
+  "syllabus_quote": "Time and Work, Speed -Time – Distance, Simple Interest, Analytical and Critical reasoning.",
+  "source_word_count": 11431,
+  "mcq_count": 30,
+  "worked_drills": 20,
+  "mains_count": 6,
+  "mains_word_counts": [
+    204,
+    223,
+    209,
+    208,
+    222,
+    221
+  ],
+  "diagram_count": 3,
+  "pdf_pages": 20,
+  "academically_approved": false,
+  "files_sha256": {
+    "README.md": "e729a51b720ca9326bb1491f1d53abeb17b077b78ac8cd666b5de94e07d5ebea",
+    "complete-notes.pdf": "564061e2c2e121aa0184c7bb465da5889bef10c7b45773aecc8ba70194bf2fc8",
+    "diagrams/critical_reasoning.png": "65588886e77aeeca62c18f283a046fd289e64e932b14b345d13a351f201fc2c4",
+    "diagrams/distance_time.png": "cf65641b199be3ac6e0f3738364ba342f53e8dc62c007767d72a77d1ab855e3e",
+    "diagrams/work_rate.png": "e47196bf0bdac23d2d78fa7145db758494e358f272138fda935b9c9720f351f3",
+    "index.html": "34dd91c75714084fb3c10fda32e14d62a5096784214586cfd0d05718d6aa8bc8",
+    "source/complete-model-answers.md": "2183c347bd3fee7a2dd9a3e59c6288008da3fb241196e1b604d09edf564daa03",
+    "source/complete-notes.md": "0a1cea5eeef725b219daaf083a5621392e8a7feedf5c47cce79622ee14498f90",
+    "source/original-practice.md": "45ff962cc95d1987bbdb5695e9decb627afc7d8ff732629be534b38ef3c3d7cb",
+    "source/quick-revision.md": "7b3e4b2d63991b6ca83d95248fff13866c9741880ee5385b495729fe641c696e",
+    "source/source-audit.md": "6c03109be5467ea263f99885a65513dbd42424e09b9e23f589308b6e453fa428"
+  }
+}

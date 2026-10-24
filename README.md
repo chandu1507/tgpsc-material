@@ -4,9 +4,11 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 **Website:** https://chandu1507.github.io/tgpsc-material/
 
-## Current publication checkpoint — 24 October 2026
+## Current publication checkpoint — 25 October 2026
 
-**58/75 published draft PDF/chapter pairs; 17 slots without first published PDF; 0 academically approved.** Latest draft: [Paper V / Unit III / Topic 1 — Data Analysis and Statistical Interpretation](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%201/index.html). Original 12,353-word manuscript with 30 explained MCQs, six complete 200–250-word mains models and three illustrative diagrams; 25-page PDF. The [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) records per-topic state; all academic reviews remain pending. The charts are explicitly synthetic teaching examples, not official Telangana datasets.
+**59/75 published draft PDF/chapter pairs; 16 slots without first published PDF; 0 academically approved.** Latest new topic: [Paper V / Unit III / Topic 4 — Time and Work, Speed–Time–Distance, Simple Interest, Analytical and Critical Reasoning](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%204/index.html). Original 11,431-word manuscript, 30 explained original MCQs, 20 worked drills, six complete 200–250-word mains answers, three diagrams and a 20-page PDF. All numerical teaching cases are synthetic. [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) records per-topic state.
+
+**Older-depth repair:** [Paper II / Unit II / Topic 4 — Vetti, Jogini and Devadasi supplement](Paper%202/Unit%202%20-%20Telangana%20History%20and%20Cultural%20Heritage/Topic%204/source/depth-repair-vetti-jogini-devadasi.html) (2,140 words, four-page supplemental PDF). The original Paper II PDF remains unchanged; this does not complete its independent academic review. **18 older consolidated Markdown masters remain missing.**
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

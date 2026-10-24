@@ -3,8 +3,10 @@
 | Measure | Reconciled state |
 |---|---:|
 | Planned topic slots | 75 |
-| Published draft PDF/chapter pairs | **58** |
-| Slots without first PDF | **17** |
+| Published draft PDF/chapter pairs | **59** |
+| Slots without first published PDF | **16** |
 | Independently academically approved | **0** |
 
-Latest new topic: **Paper V / Unit III / Topic 3 — Quantitative Aptitude**. Original 10,026-word manuscript; 18-page PDF; 30 original explained MCQs, six complete 200–250-word structured mains answers and three original diagrams. All previous 57 PDFs preserved. Original commission-hosted Notification 02/2024 PDF directly reopened and syllabus line authenticated on 25 October 2026. Older Paper II Unit I Topic 1 editable source master recovered by consolidation only (old PDF unchanged). **18 older masters still missing.** No older textbook-depth rewrite or independent academic approval claimed.
+Latest new topic: **Paper V / Unit III / Topic 4 — Time and Work, Speed–Time–Distance, Simple Interest, Analytical and Critical Reasoning**. Original 11,431-word Markdown manuscript; 20-page PDF; 30 original explained MCQs, 20 extended worked drills, six complete structured mains answers (204/223/209/208/222/221 words), three original diagrams. Original commission-hosted Notification 02/2024 wording directly verified on 25 October 2026.
+
+Substantive partial repair: **Paper II / Unit II / Topic 4** gained an original **2,140-word**, four-page PDF/HTML/Markdown supplement on Vetti, Jogini, Devadasi, Bhagyareddy Varma and the library movement. The older main PDF remains unchanged; this is **not** a complete chapter rewrite. Eighteen older consolidated Markdown masters still missing. All 59 published chapters remain unapproved pending independent academic review. All previous 58 main chapter PDFs must be preserved byte-identically in publication packaging.
