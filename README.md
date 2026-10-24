@@ -6,9 +6,9 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**59/75 published draft PDF/chapter pairs; 16 slots without first published PDF; 0 academically approved.** Latest new topic: [Paper V / Unit III / Topic 4 — Time and Work, Speed–Time–Distance, Simple Interest, Analytical and Critical Reasoning](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%204/index.html). Original 11,431-word manuscript, 30 explained original MCQs, 20 worked drills, six complete 200–250-word mains answers, three diagrams and a 20-page PDF. All numerical teaching cases are synthetic. [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) records per-topic state.
+**60/75 published draft PDF/chapter pairs; 15 slots without first published PDF; 0 academically approved.** Latest new topic: [Paper V / Unit III / Topic 5 — Decision Making and Problem Solving](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%205/index.html). Original 11,154-word manuscript, 18 substantive sections, twelve original administrative case studies, 30 original explained MCQs, six 200–250-word mains models, three diagrams, ten primary-source register entries and 25-page PDF. All case scenarios are constructed teaching examples. [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) tracks per-topic state.
 
-**Older-depth repair:** [Paper II / Unit II / Topic 4 — Vetti, Jogini and Devadasi supplement](Paper%202/Unit%202%20-%20Telangana%20History%20and%20Cultural%20Heritage/Topic%204/source/depth-repair-vetti-jogini-devadasi.html) (2,140 words, four-page supplemental PDF). The original Paper II PDF remains unchanged; this does not complete its independent academic review. **18 older consolidated Markdown masters remain missing.**
+**Older-depth work:** Paper II Unit II Topic 4 retains its 2,140-word supplementary Vetti/Jogini/Devadasi repair from the previous run. The older primary PDF is unchanged; the chapter is not yet textbook-depth complete. **18 older consolidated Markdown masters remain missing.** All published chapters require independent academic review.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 
