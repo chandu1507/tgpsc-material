@@ -1,0 +1,43 @@
+{
+  "topic_id": "4-3-4",
+  "topic_title": "Environmental Pollution and Solid Waste Management: Generation, Impacts, Recycling and Reuse",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "syllabus_primary_verified": true,
+  "word_count": 11849,
+  "pdf_pages": 23,
+  "original_explained_mcqs": 30,
+  "structured_mains_answers": 6,
+  "mains_answer_word_counts": [
+    225,
+    229,
+    216,
+    224,
+    227,
+    218
+  ],
+  "original_diagrams": 3,
+  "source_register_count": 21,
+  "files": {
+    "README.md": "3e91b8c4da4425ebee31fb8e0a0a482744ed91ad863d968f8c1298352bad25e0",
+    "complete-notes.pdf": "1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159",
+    "index.html": "db67488b49a438c2050e0b1bda6b48e570d3945a043659866d256243879e04f6",
+    "source/answer-blueprints.md": "41366b92a40b1e7f8a44bf343ed073c499e77cacbb3c737e1284a23c5f82c3f7",
+    "source/complete-notes.md": "15d2435acaad2cdfd2150e6d40d7c260093b1231d58a2ef98208b3eb7d2e9377",
+    "source/core.md": "907e0aa5049105b1de9bb41275f31f0cbd3caecd5bc0f7117836aba3bbb6b0b0",
+    "source/mains-model-answers.md": "a4fc222bf13ec90e01d2e1d22d2f2bbc95e56ccd4c83f7cfa0be5bf7e3d1d5a0",
+    "source/original-mcqs.md": "ca6bfcfed3ab404bac2052d37bde45211d5386504c9d84761bea5b770690b1b4",
+    "source/quick-revision.md": "d9522efb06ec5d8ec680c780fd7a5f5a4daeb9ef0ec6252dfb3ea9d65ab81d4f",
+    "source/sources-and-audit.md": "a3781f698cf4850e9d1e8dd7ce275938c180c729e87a2635c96870197651dbbe",
+    "source/summary.md": "a258cfe90416df5e93fd81a41595fe471d933bb62de9e496d2ebc2ed45fca688",
+    "source/syllabus-and-summary.md": "7192d626a3b071249e34678a490a5113dc35374ca4ed0757127a5d7ae6fca9fa",
+    "source/verified-pyqs.md": "370ef0044d8a70dac22b0a3268a1ab35801d743e956e059abe87a8d4df8a0011",
+    "source/visual-learning.md": "a8c06f730c912ddddaa6fd967be1b7d449b9a69880b504ec958f4ee43a5f03f6",
+    "visuals/four-streams.png": "f751aa235a72ab4f2082ef32b2c9e11d41ead2919bad4bb6bf3f6945a9d8bb3d",
+    "visuals/four-streams.svg": "a3c952f74fdb9957cceb62a12f43464317990508eb900b7132fbfd2d2222a71f",
+    "visuals/mass-balance.png": "c6b0a90f67cc98e9c590fca6d61c97547f20ffbebb6c03833290618fd4f159db",
+    "visuals/mass-balance.svg": "2c95617adcb0c25dac465a1cb759e770954ebe54a43638894e70ea72345d907d",
+    "visuals/waste-hierarchy.png": "5508707ef333d1ce4086066896b3aec89489d13cce01acb9ceae9dadd2142dd8",
+    "visuals/waste-hierarchy.svg": "cb87436993f5e4f39a736d2837afab6990f5f3189ea413824e95c2a4f7eba634"
+  }
+}
