@@ -777,8 +777,12 @@
     "topic_id": "5-1-3",
     "topic_title": "Space Programme in India: INSAT, IRS, EDUSAT, Chandrayaan-1 and Developmental Applications",
     "date": "2026-10-24",
-    "publication_status": "local_complete_github_pending",
+    "publication_status": "github_published_packaging_pending",
     "source_audit": "22 official institutional entries",
-    "academic_status": "not_approved"
+    "academic_status": "not_approved",
+    "publication_commit": "b6407f3b9aa172a84f1d01464a4b0e26aa5ab3ac",
+    "pdf_blob_sha": "486c68aa450a20d9b16ac1f06b32eb469542b766",
+    "pages_status": "pending",
+    "packaging_status": "pending"
   }
 }
