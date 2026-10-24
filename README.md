@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 24 October 2026
 
-**55/75 published draft PDF/chapter pairs; 20 slots without first published PDF; 0 academically approved.** Latest draft: [Paper V / Unit II / Topic 5 — Vaccines: Immunity, DPT, Rabies and Hepatitis B](Paper%205/Unit%202%20-%20Modern%20Applications%20of%20Science/Topic%205/index.html). This original 11,222-word manuscript includes 30 explained practice MCQs, six complete 200–250-word mains models and three diagrams. The [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) is the authoritative per-topic state; independent academic review remains outstanding.
+**56/75 published draft PDF/chapter pairs; 19 slots without first published PDF; 0 academically approved.** Latest draft: [Paper V / Unit III / Topic 1 — Data Analysis and Statistical Interpretation](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%201/index.html). Original 12,353-word manuscript with 30 explained MCQs, six complete 200–250-word mains models and three illustrative diagrams; 25-page PDF. The [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) records per-topic state; all academic reviews remain pending. The charts are explicitly synthetic teaching examples, not official Telangana datasets.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

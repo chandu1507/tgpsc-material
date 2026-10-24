@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 55,
-  "slots_without_published_pdf": 20,
+  "published_draft_pdf_topics": 56,
+  "slots_without_published_pdf": 19,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 55,
-    "last_reported_topic": "5-2-5",
-    "remaining_without_first_draft": 20,
+    "sequential_drafts_indicated": 56,
+    "last_reported_topic": "5-3-1",
+    "remaining_without_first_draft": 19,
     "independently_verified_as_complete_master": false,
-    "note": "55 published draft PDF/chapter pairs; zero independent academic approvals; older Paper II shallow drafts need expansion; older source recovery remains pending."
+    "note": "56 published draft PDF/chapter pairs; zero independently academically approved; older Paper II shallow drafts and 20 missing Markdown sources require recovery."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -567,13 +567,13 @@
     },
     {
       "id": "5-3-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Data Analysis: Statistical Interpretation, Bar Graphs, Line Graphs, Pie Charts and Conclusions",
       "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 12,353-word independent draft, 25-page PDF, 30 explained MCQs, six structured mains models, three original diagrams. Synthetic datasets clearly labelled. Independent academic audit pending."
     },
     {
       "id": "5-3-2",

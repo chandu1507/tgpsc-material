@@ -1,0 +1,38 @@
+{
+  "topic_id": "5-3-1",
+  "title": "Data Analysis: Statistical Interpretation, Bar Graphs, Line Graphs, Pie Charts and Conclusions",
+  "created": "24 October 2026",
+  "academic_status": "not_approved",
+  "original_mcqs": 30,
+  "original_mains_models": 6,
+  "mains_word_counts": [
+    245,
+    233,
+    242,
+    238,
+    248,
+    236
+  ],
+  "primary_source_entries": 16,
+  "manuscript_words": 12353,
+  "pdf_pages": 25,
+  "synthetic_data_notice": "All chart datasets and numeric practice questions are illustrative, not official Telangana statistics.",
+  "files": {
+    "complete-notes.pdf": "59baba90b51e46c3baba60a0d2a3f6c9117f4cf94118aa5972318a5c08d4efcc",
+    "index.html": "ac5a4c0c7a4ea8f3077731ddb2583e56920bf722e40d022daeea9c61bcad4d00",
+    "README.md": "95e31430199d015b3ab50a0c3ddf1f1f003bfd7c37a434f6d8da3f8b2e65824a",
+    "source/syllabus-and-summary.md": "f7f224a4c01c58ef5038fe02afc87a1685def23d6180c0b553efe45e0b241c20",
+    "source/mains-model-answers.md": "05f5516c94d01ec4a2d57dd104d3782a7e25560ff81b674866255dd1ab78752c",
+    "source/sources-and-audit.md": "b93e4d1c3d1dbe9f7d45849ecc8785a0b22e8f784c39eb4709876d5e3f340e4b",
+    "source/complete-notes.md": "752242954ac2f735ff099bc5fac8c9773d124205464f2aaf735f9037f08ecf52",
+    "source/answer-blueprints.md": "d5ec8bf5b7fcda131f1dd6c0621ae1e80313a14ae9b6e5301c922113f088c9da",
+    "source/original-mcqs.md": "7e8c537c9e8cf64c0f25d0cc964ebbeee256dc7353616a22804a7cb320759f9d",
+    "source/core.md": "4b524c490726cc1c365fbff8813c027fef04817974e83c53f87b2126792000a0",
+    "source/quick-revision.md": "174014b1b4c14bf0c229d08b86fdfe238a1e145cf2a3973fc10bc16ff6b6366d",
+    "source/visual-learning.md": "15b1622de25e3aac0d15a5a421206abe339070e8d132b76e02ffcf1a72192f06",
+    "source/verified-pyqs.md": "2df6adf30041cd0b997067b802187cccc547596290d32e701d9bdc4a6c24e88d",
+    "diagrams/01-grouped-bars.png": "b4cca41878f5fc3abf7d7945995d739a09307e3afa737585b0c3c8ee4598c9aa",
+    "diagrams/03-pie-budget.png": "2d04794083e4b83027aa511da08888bf9c7e526cedb40d6a5aabbca755f4529e",
+    "diagrams/02-line-seasonality.png": "40be857fda77656c371ce02570f036d534bf9a79c9dc298ede6074b218f9255d"
+  }
+}
