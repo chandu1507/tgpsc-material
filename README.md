@@ -6,12 +6,9 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 24 October 2026
 
-**53/75 published draft PDF/chapter pairs; 22 slots without first published PDF; 0 academically approved.** Latest complete draft: [Paper V / Unit II / Topic 3 — Food Biotechnology, Food Safety, Organic Farming, Mechanisation and Water](Paper%205/Unit%202%20-%20Modern%20Applications%20of%20Science/Topic%203/index.html). Original practice: 30 explained MCQs and six complete mains answers. Academic review outstanding. The JSON checkpoint is authoritative.
+**55/75 published draft PDF/chapter pairs; 20 slots without first published PDF; 0 academically approved.** Latest draft: [Paper V / Unit II / Topic 5 — Vaccines: Immunity, DPT, Rabies and Hepatitis B](Paper%205/Unit%202%20-%20Modern%20Applications%20of%20Science/Topic%205/index.html). This original 11,222-word manuscript includes 30 explained practice MCQs, six complete 200–250-word mains models and three diagrams. The [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) is the authoritative per-topic state; independent academic review remains outstanding.
 
----
-
-
-## Reconciled publication and production — 23 October 2026
+## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 
 - **26 draft chapter/PDF pairs published on `main` after this update:** 15 Paper II, 5 Paper III Unit I, 5 Paper III Unit II, and new Paper III Unit III Topic 4.
 - **9 byte-verified topics in a local cumulative subset:** Paper III Unit II Topics 1–5 and Unit III Topics 1–4. Unit III Topics 1–3 are accessible in the local ZIP but **not yet published on GitHub**.

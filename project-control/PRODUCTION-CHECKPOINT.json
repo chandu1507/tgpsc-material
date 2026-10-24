@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 54,
-  "slots_without_published_pdf": 21,
+  "published_draft_pdf_topics": 55,
+  "slots_without_published_pdf": 20,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 54,
-    "last_reported_topic": "5-2-4",
-    "remaining_without_first_draft": 21,
+    "sequential_drafts_indicated": 55,
+    "last_reported_topic": "5-2-5",
+    "remaining_without_first_draft": 20,
     "independently_verified_as_complete_master": false,
-    "note": "54 published draft pairs; zero independent academic approvals; older Paper II shallow drafts need expansion; 20 older chapters lack editable Markdown."
+    "note": "55 published draft PDF/chapter pairs; zero independent academic approvals; older Paper II shallow drafts need expansion; older source recovery remains pending."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -557,13 +557,13 @@
     },
     {
       "id": "5-2-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Vaccines: Immunity, DPT and Rabies Production, and Recombinant Hepatitis B Vaccines",
       "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending."
     },
     {
       "id": "5-3-1",
