@@ -777,12 +777,22 @@
     "topic_id": "6-1-1",
     "topic_title": "Historical Background: Telangana Identity, Salar Jung Reforms and the Mulki Question",
     "date": "2026-10-25",
-    "publication_status": "local_qa_passed_github_publication_pending",
+    "publication_status": "github_published_packaging_and_pages_verified",
     "source_audit": "11 dated institutional and legal-source entries; original notification authenticated",
     "academic_status": "not_approved",
-    "publication_commit": null,
-    "pdf_blob_sha": null,
-    "pages_status": "pending",
-    "packaging_status": "pending"
+    "publication_commit": "373a7e6238fc8d5cb255f4c1e439f0d05e28b569",
+    "pdf_blob_sha": "23d57a27f5a0a5efa49e7226e9da5c22c0ae9e1d",
+    "pages_status": "success",
+    "packaging_status": "success",
+    "pdf_sha256": "add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94",
+    "packaging_run_id": 40136526756,
+    "artifact_id": 12577110427,
+    "pages_run_id": 40136543402,
+    "independent_live_browser_status": "unverified_web_tool_inaccessible",
+    "outer_inner_crc": "passed",
+    "unique_archive_entries": 1020,
+    "published_pdf_pairs": 61,
+    "html_slots": 75,
+    "previous_pdfs_preserved": 60
   }
 }

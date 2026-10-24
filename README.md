@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**61/75 published draft PDF/chapter pairs; 14 slots without first published PDF; 0 academically approved.** Latest new topic: [Paper VI / Unit I / Topic 1 — Historical Background and Mulki Question](Paper%206/Unit%201%20-%20Idea%20of%20Telangana%20%281948%E2%80%931970%29/Topic%201/index.html). Original 12,769-word manuscript, 29-page PDF, 23 substantive sections, 30 explained original MCQs, six structured mains models, three original diagrams and eleven institutional source-register entries. All older PDFs retained; academic audit remains pending. Publication workflow verification remains separate from local structural QA.
+**61/75 published draft PDF/chapter pairs; 14 slots without first published PDF; 0 academically approved.** Latest new topic: [Paper VI / Unit I / Topic 1 — Historical Background and Mulki Question](Paper%206/Unit%201%20-%20Idea%20of%20Telangana%20%281948%E2%80%931970%29/Topic%201/index.html). Original 12,769-word manuscript, 29-page PDF, 23 substantive sections, 30 explained original MCQs, six structured mains models, three original diagrams and eleven institutional source-register entries. All older PDFs retained; academic audit remains pending. GitHub publication and actual packaging artifact were verified; follow-up Pages deployment succeeded. Independent live-browser check remains unavailable.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

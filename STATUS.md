@@ -11,4 +11,4 @@ Latest draft: **Paper VI / Unit I / Topic 1 — Historical Background: Telangana
 
 All older published PDFs preserved. The 75-slot portal remains navigable. No draft is academically approved. Older Paper II drafts remain shallow, and one older source master recovered and a 1,437-word original repair added; independent content audits remain open.
 
-**Publication verification:** local QA passed; GitHub publication, packaging artifact and Pages verification must be checked independently before marking successful.
+**Publication verification:** guarded GitHub publication succeeded; remote PDF blob verified; packaging workflow 40136526756 and actual artifact 12577110427 verified (1020 unique files, 61 PDF pairs, 75 HTML slots, all previous 60 PDFs unchanged); follow-up Pages workflow 40136543402 succeeded. Independent live-browser check remains unavailable.
