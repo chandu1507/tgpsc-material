@@ -772,19 +772,27 @@
     "is_full_master": false
   },
   "next_sequential_topic": "5-1-3",
-  "next_new_topic": "Paper V Unit I Topic 3 — authenticate exact commission-hosted syllabus wording before authoring.",
+  "next_new_topic": "Paper V Unit I Topic 3 — Space programme in India and applications: industrial, agricultural and rural development; INSAT, IRS, EDUSAT, Chandrayaan-1 and future programme (commission indexed original PDF wording authenticated 24 Oct 2026).",
   "latest_verified_publication": {
     "topic_id": "5-1-2",
     "topic_title": "National Policy of Science and Technology: Policy Evolution, Technology Missions, ICT, Robotics, Nanotechnology and Communication",
     "topic_pdf_sha256": "6e5ee2729de1e67775c07747c8b1f916c55ca82ca61a9688f4b98255b2fd6bff",
-    "publication_commit": "pending GitHub guarded publication",
-    "packaging_workflow": "pending",
-    "pages_workflow": "pending",
+    "publication_commit": "efc4bb9cd9b5694563117d702425f2b003977423",
+    "packaging_workflow": 40076499490,
+    "pages_workflow": 40076513997,
     "previous_verified_pairs": 46,
     "target_pairs": 47,
     "academic_approvals": 0,
     "published_pdf_pairs": 47,
     "html_slots": 75,
-    "prior_46_pdfs_preservation": "must verify against actual workflow artifact"
+    "prior_46_pdfs_preservation": "verified_byte_identical",
+    "remote_pdf_git_blob_sha": "ab3de89591ddedf55426d152d80e9c42b77153e1",
+    "packaging_artifact_id": 12553123404,
+    "packaging_file_count": 806,
+    "packaging_zip_crc": "passed_outer_and_inner",
+    "new_topic_18_files": "verified_byte_identical",
+    "pages_workflow_status": "success",
+    "packaging_bot_commit": "2039b8d67e607c187a7e59b9106d226f6b01dd55",
+    "independent_live_browser_verification": false
   }
 }
