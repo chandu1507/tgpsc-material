@@ -1,0 +1,43 @@
+{
+  "topic_id": "5-1-5",
+  "title": "Energy Resources: Indian Demand, Conventional and Renewable Sources, Energy Security and Biofuels",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "official_syllabus_authenticated": true,
+  "metrics": {
+    "words": 12798,
+    "pdf_pages": 27,
+    "sections": 16,
+    "mcqs": 30,
+    "mains": 6,
+    "mains_answer_word_counts": [
+      227,
+      230,
+      236,
+      235,
+      229,
+      229
+    ],
+    "diagrams": 3,
+    "source_register": 24,
+    "academic_approvals": 0
+  },
+  "files": {
+    "README.md": "b9b34a40c5a5c7f78da38c27076f253768af9ab09bfeff91ab8c20b843831cb7",
+    "complete-notes.pdf": "37979c47cdc2f4e1593aa5664df10bec3ef8446890fa762385c22154da4e2ecf",
+    "diagrams/01-energy-from-resource-to-service.png": "c8ceeeebf2fb08631258b37c511cac32eb793f6b040f4f2f42dbe0878e793d70",
+    "diagrams/02-grid-reliability-portfolio.png": "4ae7cc5a93234f7fc94453017f99575292704a7aa29b502bc5c499f5d047ce8b",
+    "diagrams/03-biofuel-lifecycle.png": "97d130009528201b5434a1fdde493459eb794b0d09a6e7e92f94dbee46bf3213",
+    "index.html": "04a3b3c83ef726d2e9f3124cd50e6dab67917f23c829ce1da29b0259a539a1ae",
+    "source/answer-blueprints.md": "eba4306c9383d0138c0dfc08490e0aa52e74d4d6086c37884162c9d50cad834c",
+    "source/complete-notes.md": "b50cb49cad0849403d16f8dff9f3c21b9be0090f95716823f17f6b8fd860cdd1",
+    "source/core.md": "d1fb98b62ac625dac0359f83a709d06593883e01752fb6b62231f7c7989d4a9d",
+    "source/mains-model-answers.md": "beb78e648ee8af22769caa62e119e8fbd9d0b091f383aa63f105b76d419dd706",
+    "source/original-mcqs.md": "97a3f60fbfaf36a44036141506511c223d9aa4d2c4f785134e18583dc99838a6",
+    "source/quick-revision.md": "3a2c501623091c0519825699772b863c772efe7f9d12c4c85619c99bf630c93a",
+    "source/sources-and-audit.md": "eb50c757aad7542ff3e500cefa8a89f19251aa4c4dfb426cf109ebdd229bcd76",
+    "source/syllabus-and-summary.md": "5ae34896f89d52561713c9fa46ae80cb7f9dc0ba4f81b3faaf2e91679c391538",
+    "source/verified-pyqs.md": "717760c6ea50c49e10fbc95aa612d43b092d8d0e695829ed009ac079e6ad58a5",
+    "source/visual-learning.md": "6ad7e2a8725360241f0875ec45888021dd2636376cb853ca4c8a7d5afbbde131"
+  }
+}

@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 49,
-  "slots_without_published_pdf": 26,
+  "published_draft_pdf_topics": 50,
+  "slots_without_published_pdf": 25,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 49,
-    "last_reported_topic": "5-1-4",
-    "remaining_without_first_draft": 26,
+    "sequential_drafts_indicated": 50,
+    "last_reported_topic": "5-1-5",
+    "remaining_without_first_draft": 25,
     "independently_verified_as_complete_master": false,
-    "note": "49 published draft pairs, zero academic approvals; Paper II shallow drafts require expansion."
+    "note": "50 published draft pairs, zero academic approvals; older Paper II shallow drafts still require expansion."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -507,13 +507,13 @@
     },
     {
       "id": "5-1-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Energy Resources: Indian Demand, Conventional and Renewable Sources, Energy Security and Biofuels",
       "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Complete 27-page published learning draft with 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 24-source audit. Independent academic review pending."
     },
     {
       "id": "5-2-1",

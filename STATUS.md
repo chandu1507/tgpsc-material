@@ -1,3 +1,18 @@
+# TGPSC Group I publication status — 24 October 2026 (current)
+
+| Measure | Reconciled state |
+|---|---:|
+| Planned topic slots (Papers II–VI) | 75 |
+| Published draft chapter/PDF pairs | **50** |
+| Slots without first published PDF | **25** |
+| Independently academically approved | **0** |
+
+Latest new topic: **Paper V / Unit I / Topic 5 — Energy Resources**. Complete draft PDF, HTML, Markdown, 30 original explained MCQs, six 200–250-word mains models, three diagrams and 24 dated primary-source entries. This is a published draft, not an academically approved chapter.
+
+The earlier historical publication notes below are preserved for provenance; their counts are superseded by the current checkpoint in `project-control/PRODUCTION-CHECKPOINT.json`.
+
+---
+
 # TGPSC production and publication status - 23 October 2026
 
 | Measure | Verified publication state |
