@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 56,
-  "slots_without_published_pdf": 19,
+  "published_draft_pdf_topics": 57,
+  "slots_without_published_pdf": 18,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 56,
-    "last_reported_topic": "5-3-1",
-    "remaining_without_first_draft": 19,
+    "sequential_drafts_indicated": 57,
+    "last_reported_topic": "5-3-2",
+    "remaining_without_first_draft": 18,
     "independently_verified_as_complete_master": false,
-    "note": "56 published draft PDF/chapter pairs; zero independently academically approved; older Paper II shallow drafts and 20 missing Markdown sources require recovery."
+    "note": "57 published draft PDF/chapter pairs; zero academic approvals; 20 older editable Markdown masters missing and shallow Paper II drafts require repair."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -577,13 +577,13 @@
     },
     {
       "id": "5-3-2",
-      "title": "Topic 2 — official subtopic heading pending verification",
+      "title": "Tabular and Diagrammatic Data, Probability, Logical Reasoning and Mental Ability",
       "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
+      "notes": "11,326-word original draft; 22-page PDF; 18 concept sections, 30 explained original MCQs, 6 structured 200–250-word mains answers, 3 original diagrams; original 2024 commission PDF direct retrieval 502; academic audit pending."
     },
     {
       "id": "5-3-3",

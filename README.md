@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 24 October 2026
 
-**56/75 published draft PDF/chapter pairs; 19 slots without first published PDF; 0 academically approved.** Latest draft: [Paper V / Unit III / Topic 1 — Data Analysis and Statistical Interpretation](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%201/index.html). Original 12,353-word manuscript with 30 explained MCQs, six complete 200–250-word mains models and three illustrative diagrams; 25-page PDF. The [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) records per-topic state; all academic reviews remain pending. The charts are explicitly synthetic teaching examples, not official Telangana datasets.
+**57/75 published draft PDF/chapter pairs; 18 slots without first published PDF; 0 academically approved.** Latest draft: [Paper V / Unit III / Topic 1 — Data Analysis and Statistical Interpretation](Paper%205/Unit%203%20-%20Data%20Interpretation%20and%20Problem%20Solving/Topic%201/index.html). Original 12,353-word manuscript with 30 explained MCQs, six complete 200–250-word mains models and three illustrative diagrams; 25-page PDF. The [JSON checkpoint](project-control/PRODUCTION-CHECKPOINT.json) records per-topic state; all academic reviews remain pending. The charts are explicitly synthetic teaching examples, not official Telangana datasets.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

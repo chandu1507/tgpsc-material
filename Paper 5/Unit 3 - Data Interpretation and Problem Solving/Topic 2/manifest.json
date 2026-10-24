@@ -1,0 +1,41 @@
+{
+  "topic_id": "5-3-2",
+  "title": "Tabular and Diagrammatic Data, Probability, Logical Reasoning and Mental Ability",
+  "created": "24 October 2026",
+  "academic_status": "not_approved",
+  "manuscript_words": 11326,
+  "pdf_pages": 22,
+  "original_mcqs": 30,
+  "original_mains_models": 6,
+  "mains_word_counts": [
+    227,
+    229,
+    215,
+    226,
+    231,
+    237
+  ],
+  "substantive_sections": 18,
+  "worked_problems": 30,
+  "primary_source_entries": 10,
+  "synthetic_data_notice": "All exercise data and diagrams are illustrative; the dated DES dashboard reading is explicitly sourced.",
+  "syllabus_provenance": "2024 commission-indexed original and 2022 commission syllabus; full PDF direct retrieval HTTP 502",
+  "files": {
+    "README.md": "c09bebbba6b05afc3bc3dc6603d6ab761ee4923fe56c59f6fb8ea6a6ddd7ab6d",
+    "complete-notes.pdf": "3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5",
+    "diagrams/01-table-to-chart.png": "f0a79f9c8510bb34ad99bafaa5b22a78990c941338a1fafce80604242bcfecb4",
+    "diagrams/02-venn-regions.png": "b2546ddb7f8512fcb28570d18667f06709bbd4c2754b9a4d9fa38e6eda62a8df",
+    "diagrams/03-bayes-base-rate.png": "c60da722e6dfd4a555e428ac24c470a4a7de20caff50495ae2321a4ea2cc0582",
+    "index.html": "459842dbe6a32ff5c731a9e53b2902f101c39ba893dfd6307e5d23e9002efe03",
+    "source/answer-blueprints.md": "6fdfb7c3094bd515a4e7bfa2bb847eed51daf499a0bbb5a659930225895dc066",
+    "source/complete-notes.md": "910918e699e91ff419eabb8618b98aecf624f1a33621f28f585e413b683082da",
+    "source/core.md": "462772d864b7dbc38464fd1d70f114674badbc90439fc773d7529544f576049a",
+    "source/mains-model-answers.md": "7bb19e1a9483ede47fd1d43d48783cd98202dd78e5d0a7e286e49eafbc3d699a",
+    "source/original-mcqs.md": "d4e32ca4dcd826150090bfd4b3a536853efb06db4a3f6d7220a41d45a34f275b",
+    "source/quick-revision.md": "23385e4afd8657fab3361343b18706496600f9f82ee15c7c30e9f04067cd63c0",
+    "source/sources-and-audit.md": "f0a71d3e14ef2c4766fadd68d910a5d7443f2dce1faca7bb72c4899dab12341f",
+    "source/syllabus-and-summary.md": "dceabaef1ae1e48fa1790d255be661cfd3cb937048d452a7f028e8b412a96d63",
+    "source/verified-pyqs.md": "bbe8d93a5fc4de9ade1869df0ec75e37526e09e938d1dbf3e8dd0acb28697cc7",
+    "source/visual-learning.md": "1f7d7cc229d51f20ac9651b7014dc9cef6c5fa59216a4c0655b9ccce2b21bb85"
+  }
+}
