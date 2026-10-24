@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 41,
-  "slots_without_published_pdf": 34,
+  "published_draft_pdf_topics": 42,
+  "slots_without_published_pdf": 33,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 41,
-    "last_reported_topic": "4-3-1",
-    "remaining_without_first_draft": 34,
+    "sequential_drafts_indicated": 42,
+    "last_reported_topic": "4-3-2",
+    "remaining_without_first_draft": 33,
     "independently_verified_as_complete_master": false,
-    "note": "41 published PDF/chapter draft pairs. Older shallow drafts require academic expansion and independent review."
+    "note": "42 published PDF/chapter draft pairs; independent academic approval remains zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -427,13 +427,13 @@
     },
     {
       "id": "4-3-2",
-      "title": "Topic 2 — official subtopic heading pending verification",
+      "title": "Natural Resources: Forests, Water, Land and Minerals",
       "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "pending_independent_audit",
+      "notes": "Expanded 10k+ word original draft, 21-page PDF, 30 explained original MCQs, six 200–250 word mains answers, three diagrams; primary-source audit incomplete for exact official syllabus and district groundwater tables."
     },
     {
       "id": "4-3-3",
@@ -771,20 +771,17 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "4-2-5",
-  "next_new_topic": "4-2-5 — Industry and Service Sectors: Industrial development, MSMEs, sick industries, power, industrial policy, service-sector growth, employment and ICT policy",
+  "next_sequential_topic": "4-3-3",
+  "next_new_topic": "Paper IV Unit III Topic 3 — official commission wording must be verified before authoring",
   "latest_verified_publication": {
-    "topic_id": "4-3-1",
-    "topic_commit": "006485feb2495805077841957532ab42ac00e7ac",
-    "packaging_commit": "4f2af22a1993859619d24e7f7a134f44ba9edef6",
-    "packaging_run_id": 40052586671,
-    "artifact_id": 12543862060,
-    "pages_run_id": 40052600165,
-    "verified_pdf_chapter_pairs": 41,
-    "topic_html_slots": 75,
-    "snapshot_files": 693,
-    "prior_pdf_bytes_preserved": true,
-    "academic_approvals": 0,
-    "verified_on": "2026-10-24"
+    "topic_id": "4-3-2",
+    "topic_title": "Natural Resources",
+    "topic_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
+    "publication_commit": "pending",
+    "packaging_workflow": "pending",
+    "pages_workflow": "pending",
+    "previous_verified_pairs": 41,
+    "target_pairs": 42,
+    "academic_approvals": 0
   }
 }

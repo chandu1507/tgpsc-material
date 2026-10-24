@@ -1,0 +1,72 @@
+{
+  "topic_id": "4-3-2",
+  "topic_title": "Natural Resources",
+  "created": "2026-10-24",
+  "status": "expanded_draft_not_approved",
+  "official_pyq_count": 0,
+  "original_mcqs": 30,
+  "mains_answers": 6,
+  "diagrams": 3,
+  "files": {
+    "complete-notes.pdf": {
+      "sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
+      "bytes": 293282
+    },
+    "index.html": {
+      "sha256": "b96bb3954d0fbc532871dc0023ccd4207e74006e731cfda2cc9513f12cfd43a0",
+      "bytes": 84975
+    },
+    "source/answer-blueprints.md": {
+      "sha256": "e2550f9110221899d7b7576823e743ef37bbe93d2a405b81759b75d292409023",
+      "bytes": 1490
+    },
+    "source/complete-notes.md": {
+      "sha256": "88156d82e8841caf4c7dd26c98782395bfada7a77559e01d063f7d531edc7eb2",
+      "bytes": 79086
+    },
+    "source/core.md": {
+      "sha256": "87877a8dd02f3c68add7dbc0fdc4c774b58de3b1bf62f8858597ee7fecae5caa",
+      "bytes": 39954
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "0a51ae49da93bf05b63becde0c588d590243edc21e061fb946b1909727a909a2",
+      "bytes": 11054
+    },
+    "source/original-mcqs.md": {
+      "sha256": "e43c2c02d66f6e3957f27ef3f6d238f38e0e8a49419cc05e7457e3e2c386d608",
+      "bytes": 9916
+    },
+    "source/quick-revision.md": {
+      "sha256": "9efa92129116eac9a618cfe50b167525090fbff3f665fabd8b954a602c564213",
+      "bytes": 4998
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "a40aa87d8d10c19402c8a68c4ab83e4dd86fcf6a05cb8e15b28163b8d981dee1",
+      "bytes": 6697
+    },
+    "source/syllabus-and-summary.md": {
+      "sha256": "0c5d3a6d85b68b7751d8b6a3ffcf54e27ef1d2204e628bc05918e43e024d6c7e",
+      "bytes": 3021
+    },
+    "source/verified-pyqs.md": {
+      "sha256": "18ca934913f67e21e3972ff35c8041dddf89fe8a229a16ab02f9ebf85bec05cc",
+      "bytes": 539
+    },
+    "source/visual-learning.md": {
+      "sha256": "21d87cee4f544a2b0729a1c6c56da9e887c9cebed65b75b05182d757a5b9192b",
+      "bytes": 738
+    },
+    "visuals/forest-rights-and-clearances.png": {
+      "sha256": "819189e870ad610b2a3775d9bf98a8505b82192ed270f424810adbf9c76d6c1c",
+      "bytes": 56061
+    },
+    "visuals/mining-lifecycle.png": {
+      "sha256": "9856cf710510ec499a07c7ac2e18437834a1437199b53b57a1f03966825c716c",
+      "bytes": 52616
+    },
+    "visuals/surface-groundwater-budget.png": {
+      "sha256": "a2b4e174beab780b7f2d54abadab1da3c1a854f5c118930f9f5644b975460b4e",
+      "bytes": 49346
+    }
+  }
+}
