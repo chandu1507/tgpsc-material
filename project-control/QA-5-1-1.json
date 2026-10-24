@@ -1,0 +1,25 @@
+{
+  "status": "structural_pass_academic_review_pending",
+  "topic": "5-1-1",
+  "word_count": 11828,
+  "pdf_pages": 27,
+  "mcqs": 30,
+  "mains_answer_word_counts": [
+    224,
+    240,
+    243,
+    214,
+    227,
+    233
+  ],
+  "diagrams": 3,
+  "primary_sources": 22,
+  "html_links_valid": true,
+  "zip_crc_pass": true,
+  "portal_topic_slots": 75,
+  "published_draft_pairs": 46,
+  "academically_approved": 0,
+  "baseline_pdf_count": 45,
+  "topic_files": 22,
+  "pdf_sha256": "d19428bc6a21a5cd5722e3aff26acbb895e97a97e6b1d71b138fbd5e9c1ed63f"
+}

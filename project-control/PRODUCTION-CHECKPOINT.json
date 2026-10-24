@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 45,
-  "slots_without_published_pdf": 30,
+  "published_draft_pdf_topics": 46,
+  "slots_without_published_pdf": 29,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 45,
-    "last_reported_topic": "4-3-5",
-    "remaining_without_first_draft": 30,
+    "sequential_drafts_indicated": 46,
+    "last_reported_topic": "5-1-1",
+    "remaining_without_first_draft": 29,
     "independently_verified_as_complete_master": false,
-    "note": "45 published drafts; zero academic approvals. Older shallow drafts require repair."
+    "note": "46 published drafts; zero academic approvals; prior Paper II drafts still shallow."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -467,13 +467,13 @@
     },
     {
       "id": "5-1-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Classical and Emerging Areas of Science and Technology: Value Addition, National Development, Industrialisation and Urbanisation",
       "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original commission syllabus authenticated 24 Oct 2026; 11,828-word manuscript, 27-page PDF, 30 original explained MCQs, 6 structured mains answers, 3 diagrams; structural checks passed, independent academic audit pending."
     },
     {
       "id": "5-1-2",
