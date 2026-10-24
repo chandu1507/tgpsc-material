@@ -777,11 +777,18 @@
     "topic_id": "4-3-2",
     "topic_title": "Natural Resources",
     "topic_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
-    "publication_commit": "pending",
-    "packaging_workflow": "pending",
-    "pages_workflow": "pending",
+    "publication_commit": "31968a7febd0a03ef417b9aaa38042e833c8b07f",
+    "packaging_workflow": 40056293748,
+    "pages_workflow": 40056309238,
     "previous_verified_pairs": 41,
     "target_pairs": 42,
-    "academic_approvals": 0
+    "academic_approvals": 0,
+    "packaging_artifact_id": 12545277184,
+    "packaging_zip_crc": "passed_outer_and_inner",
+    "packaging_file_count": 710,
+    "published_pdf_pairs": 42,
+    "html_slots": 75,
+    "prior_41_pdfs_byte_preserved": true,
+    "pages_status_at_checkpoint": "success"
   }
 }
