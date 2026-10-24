@@ -2,14 +2,12 @@
 
 | Measure | Reconciled state |
 |---|---:|
-| Planned topic slots (Papers II–VI) | 75 |
-| Published draft chapter/PDF pairs | **50** |
-| Slots without first published PDF | **25** |
+| Planned topic slots | 75 |
+| Published draft PDF/chapter pairs | **51** |
+| Slots without first PDF | **24** |
 | Independently academically approved | **0** |
 
-Latest new topic: **Paper V / Unit I / Topic 5 — Energy Resources**. Complete draft PDF, HTML, Markdown, 30 original explained MCQs, six 200–250-word mains models, three diagrams and 24 dated primary-source entries. This is a published draft, not an academically approved chapter.
-
-The earlier historical publication notes below are preserved for provenance; their counts are superseded by the current checkpoint in `project-control/PRODUCTION-CHECKPOINT.json`.
+Latest new topic: **Paper V / Unit II / Topic 1 — Crop Science in India**. Complete original textbook draft, 30 explained MCQs, six complete mains models, three original diagrams and 24 dated source-register entries. No official PYQ claimed. Previous Paper II shallow drafts still require expansion and independent audit.
 
 ---
 

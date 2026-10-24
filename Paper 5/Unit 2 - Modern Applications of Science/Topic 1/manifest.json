@@ -1,0 +1,42 @@
+{
+  "topic_id": "5-2-1",
+  "title": "Crop Science in India: Crop Plants, Forest Species, Medicinal and Aromatic Plants, Useful and Harmful Plants",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "official_syllabus_authenticated": true,
+  "metrics": {
+    "words": 12195,
+    "pdf_pages": 23,
+    "sections": 16,
+    "mcqs": 30,
+    "mains": 6,
+    "mains_answer_word_counts": [
+      229,
+      224,
+      241,
+      241,
+      234,
+      241
+    ],
+    "diagrams": 3,
+    "source_register": 24,
+    "academic_approvals": 0
+  },
+  "files": {
+    "README.md": "cb1a9b157e0087ed16ac60cc54f7aa1b3f160a7f9d94238ca8319c44a026ade2",
+    "complete-notes.pdf": "87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025",
+    "diagrams/01-crop-science-evidence-chain.png": "143bd17f4d8d5ee269809e65dee7c6a62968b53426fad1c42325dc572fc9a999",
+    "diagrams/02-plant-use-classification.png": "357fabba57c56036ea973ebbbda2b95ea1adf024816e8afb05726120fd81786f",
+    "diagrams/03-parthenium-integrated-management.png": "a381d2f5570a3ab753af29366458ce8d8fec4d8c05a5caccfbd90ccb7c98038d",
+    "index.html": "857f7b6d10baf107700917e2092de120a12396a5ea10ef9b05f20f7a22493b71",
+    "source/answer-blueprints.md": "9089cbc8c20f05a52de40ec8c3e9fea44f5b8f47d7de6282ba17e1c15c621d8e",
+    "source/complete-notes.md": "72704f0676a304b78758ba6165b6b3810c8ea70c8a21bbdba30df15fac470a71",
+    "source/core.md": "badd67750c9954132900b23c9263e23e76fac174c96154302ae6c03aa961487f",
+    "source/mains-model-answers.md": "4c791d2d9c087c3bbe8d797d8238b4d4a6b23867d73914b0a14eb57d6a08d49a",
+    "source/original-mcqs.md": "1d6f1dc2fc0ed95b0f2fb008752d4565d2d5916e3533bdfc252e3adc7b15ab4c",
+    "source/sources-and-audit.md": "bd88920b481ebc166061f132c31531bb69c284dc4bfeef35d2d83fa53bace87f",
+    "source/syllabus-and-summary.md": "51c430fe79b29476e500d262729be1f8029d23e3042db230f87b64e8df1db099",
+    "source/verified-pyqs.md": "a692a3c01b87b4143af1cf9e4d7d89c58adc55fdb3af82a20aa2ac3cb739ac4d",
+    "source/visual-learning.md": "2bf4945a61bd8eaa894153f8568b7854e6706e5cc394b7d2e60e3debc71968ba"
+  }
+}

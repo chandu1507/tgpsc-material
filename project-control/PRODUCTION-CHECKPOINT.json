@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 50,
-  "slots_without_published_pdf": 25,
+  "published_draft_pdf_topics": 51,
+  "slots_without_published_pdf": 24,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 50,
-    "last_reported_topic": "5-1-5",
-    "remaining_without_first_draft": 25,
+    "sequential_drafts_indicated": 51,
+    "last_reported_topic": "5-2-1",
+    "remaining_without_first_draft": 24,
     "independently_verified_as_complete_master": false,
-    "note": "50 published draft pairs, zero academic approvals; older Paper II shallow drafts still require expansion."
+    "note": "51 published draft pairs; no academic approvals; older Paper II shallow drafts need expansion."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -517,13 +517,13 @@
     },
     {
       "id": "5-2-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Crop Science in India: Crop Plants, Forest Species, Medicinal and Aromatic Plants",
       "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 12k-word draft with full PDF, 30 original MCQs, six structured mains models, three diagrams and 24-source register; independent academic audit pending."
     },
     {
       "id": "5-2-2",
