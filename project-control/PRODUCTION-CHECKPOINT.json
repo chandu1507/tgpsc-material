@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 53,
-  "slots_without_published_pdf": 22,
+  "published_draft_pdf_topics": 54,
+  "slots_without_published_pdf": 21,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 53,
-    "last_reported_topic": "5-2-3",
-    "remaining_without_first_draft": 22,
+    "sequential_drafts_indicated": 54,
+    "last_reported_topic": "5-2-4",
+    "remaining_without_first_draft": 21,
     "independently_verified_as_complete_master": false,
-    "note": "53 published draft pairs; zero independent academic approvals; older Paper II shallow drafts require expansion; 20 older chapters lack editable Markdown."
+    "note": "54 published draft pairs; zero independent academic approvals; older Paper II shallow drafts need expansion; 20 older chapters lack editable Markdown."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -547,13 +547,13 @@
     },
     {
       "id": "5-2-4",
-      "title": "Topic 4 — official subtopic heading pending verification",
+      "title": "Microbial Infections: Pathogens, Disease Patterns and Outbreak Prevention",
       "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 4",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original full manuscript, 30 explained MCQs and six structured mains models; independent academic audit pending."
     },
     {
       "id": "5-2-5",

@@ -1,0 +1,37 @@
+{
+  "topic_id": "5-2-4",
+  "title": "Microbial Infections: Pathogens, Disease Patterns and Outbreak Prevention",
+  "created": "24 October 2026",
+  "academic_status": "not_approved",
+  "original_mcqs": 30,
+  "original_mains_models": 6,
+  "mains_word_counts": [
+    206,
+    224,
+    220,
+    236,
+    222,
+    229
+  ],
+  "sources": 20,
+  "manuscript_words": 10479,
+  "pdf_pages": 22,
+  "files": {
+    "README.md": "d90a3c387a8494c403af744acef853c276882cb5db6ebf9d3109604a0c6d2232",
+    "complete-notes.pdf": "9d436dd18564d1cd49d494752127160b6781db794a3caf08e98f4bdb3e5b02f6",
+    "diagrams/01-infection-chain.png": "4492822a4b6774550696b40add5c0c72d02989331d8ce4bf8b0f0dc9e346becd",
+    "diagrams/02-enteric-outbreak.png": "c945354c9bc84b6d805c12f4177ff107930210e8eb2cf93668ffd2a282029a25",
+    "diagrams/03-pathogen-vector-comparison.png": "33bc88f3168f2dca5ceb6273f11f49221fca6f66485a9d79615b3ce88103e614",
+    "index.html": "4db220c38a3cbae4702c4ac71b572b92470943486ccc3f6160a95aedc91104c1",
+    "source/answer-blueprints.md": "4a6ae17bf0b3e40c92af14c6b0f20b6a5414547be90b86519bb849a52e4c63e8",
+    "source/complete-notes.md": "5ed529935b0940fe549f6d7dafa5afbdb041359cecc1254b0a5c36f940c1112f",
+    "source/core.md": "db84caef784d54ba8756c2461edae041e43acb94453343aa7a4e7c6919b1ad33",
+    "source/mains-model-answers.md": "7f53917d6af7336cae3a61254aef7abe4ec1e648953e320a7a4bae1a6a07b1f3",
+    "source/original-mcqs.md": "e2ccfd953f119f7889e119d85c76c9c5e2cb62deb183ed29c819aad5221036f6",
+    "source/quick-revision.md": "950748b7824a9fab0307510fc695b1150098b63d9c2389770228e719274345f0",
+    "source/sources-and-audit.md": "e00f4cdffe3786b9adc4284281411ebfbbeae4edaa07811ab3edca4d0e9cb6bc",
+    "source/syllabus-and-summary.md": "43c731afbd49ec88847da6051316c0e9864c6749ff517e422ec7ef869b77e1a5",
+    "source/verified-pyqs.md": "902e5d30139727d13616b48e39f9b206e9b2f5c59074b4ed1f871ae7878e0cd7",
+    "source/visual-learning.md": "7686eae1bf0891f12c193b25ba943cb9dbffe8d63c2fa5cd76e7294f666a6e36"
+  }
+}
