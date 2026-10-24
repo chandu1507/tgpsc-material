@@ -420,8 +420,10 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Expanded 11,207-word original draft; 27-page PDF, 30 explained original MCQs, six complete mains answers, three diagrams, 21-source audit. Structural QA passed; independent academic review pending."
+      "production_review": "structural_pass_academic_pending",
+      "notes": "Expanded 11,207-word original draft; 27-page PDF, 30 explained original MCQs, six complete mains answers, three diagrams, 21-source audit. Structural QA passed; independent academic review pending.",
+      "published_commit": "006485feb2495805077841957532ab42ac00e7ac",
+      "pdf_blob_sha": "a12453c4b8d9cd4789afdcc837a9a80eb321d41a"
     },
     {
       "id": "4-3-2",
@@ -770,5 +772,19 @@
     "is_full_master": false
   },
   "next_sequential_topic": "4-2-5",
-  "next_new_topic": "4-2-5 — Industry and Service Sectors: Industrial development, MSMEs, sick industries, power, industrial policy, service-sector growth, employment and ICT policy"
+  "next_new_topic": "4-2-5 — Industry and Service Sectors: Industrial development, MSMEs, sick industries, power, industrial policy, service-sector growth, employment and ICT policy",
+  "latest_verified_publication": {
+    "topic_id": "4-3-1",
+    "topic_commit": "006485feb2495805077841957532ab42ac00e7ac",
+    "packaging_commit": "4f2af22a1993859619d24e7f7a134f44ba9edef6",
+    "packaging_run_id": 40052586671,
+    "artifact_id": 12543862060,
+    "pages_run_id": 40052600165,
+    "verified_pdf_chapter_pairs": 41,
+    "topic_html_slots": 75,
+    "snapshot_files": 693,
+    "prior_pdf_bytes_preserved": true,
+    "academic_approvals": 0,
+    "verified_on": "2026-10-24"
+  }
 }
