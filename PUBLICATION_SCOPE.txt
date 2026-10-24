@@ -1,0 +1,8 @@
+TGPSC GROUP I — GITHUB PUBLICATION SNAPSHOT
+This ZIP contains the files tracked in GitHub at the source commit below.
+It is not a claim that all 75 topic manuscripts are complete.
+Unpublished PDFs and editable sources are absent.
+Published topic PDFs: 44 of 75.
+Published drafts and navigation tags do not imply final academic approval.
+Academically approved topics: 0 of 75.
+GitHub source commit: bee9fc38bfcbb3d5cc92fe371aa51f3e8ea2ec4a

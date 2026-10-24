@@ -1,0 +1,43 @@
+{
+  "topic_id": "4-3-5",
+  "topic_title": "Global Environmental Issues: Climate Change, Global Warming, Impacts and Sustainable Development",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "syllabus_primary_verified": false,
+  "syllabus_corrob_public_reproduction": true,
+  "word_count": 11816,
+  "pdf_pages": 25,
+  "substantive_sections": 16,
+  "original_explained_mcqs": 30,
+  "structured_mains_answers": 6,
+  "mains_answer_word_counts": [
+    207,
+    211,
+    221,
+    205,
+    209,
+    215
+  ],
+  "original_diagrams": 3,
+  "source_register_count": 22,
+  "files": {
+    "complete-notes.pdf": "7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7",
+    "README.md": "f8b883e8c958986c23056196644389e948362a1eb3f3980f6dac72301c07f292",
+    "index.html": "9e557a36e5fb366f31eb8292871530bf54be976e44964dac97b452a11dac3fab",
+    "source/worked-applications.md": "4f65281802f3f010716a825cb22c7c7e0609ffff0b4c276ed3eafcdb6cc67cc0",
+    "source/verified-pyqs.md": "bdf3e0a019902b553d9e21ef4b263cb7a87f7058e8d12b2e8c7821c5403546b9",
+    "source/mains-model-answers.md": "edad565d22f0f1bdff5439febf7b7a5aa37f5d6023338c892b607b1961d830b5",
+    "source/core.md": "9208cebfad3dd8775e00dc8fb4842f1da397b0ee472d468b4870742179ba8108",
+    "source/sources-and-audit.md": "f1a0b720c57cd057172b3baf8ea9f4737d9e6fe4a96c447ebc53e5b172e2d2af",
+    "source/complete-notes.md": "546efe63e9baf1109e8023777e05e21b5e3064a1644a4e5d5e9c5b37b5907f90",
+    "source/quick-revision.md": "6748b9e7390e48f52c4f626bb5d79bb6078f27c581a97d2de39ebe9cb4e6f677",
+    "source/syllabus-and-summary.md": "53f1670e0c1e851f3dc5483e38f42535ba987333b8f9dc641dedb944e760fb95",
+    "source/case-studies.md": "960131451573e170dce988d2e69c2d9b930f7e70e0846d05ecda00d13797da96",
+    "source/original-mcqs.md": "80f881bba86f11a441868b4f9dda9ed25b605c00e81dcf1f9d288c487847876a",
+    "source/answer-blueprints.md": "03231d9e97a0a62c4a7eaec0b758fa995b4514e23f33952732b5d446734c82e4",
+    "source/visual-learning.md": "75b78b340c3de8a4331894ddb6ff4b5a3c2c5876e2124cd74526959fca31cf1c",
+    "diagrams/01-climate-causal-chain.png": "ce0f2f469535d9e6ef63fbff60e0d4285db99eee267d8c7e5caed3deb2658827",
+    "diagrams/02-policy-response.png": "3699f591afe33bdbe0ecb6058a9453be1edca388b512b82dcb8186e3e8803157",
+    "diagrams/03-commitments-metrics.png": "40d7ce59f2da2ad735bb916edec5a7c6ab3909fdb295e8902e417a4c4bce85c5"
+  }
+}

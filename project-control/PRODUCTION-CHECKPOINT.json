@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 44,
-  "slots_without_published_pdf": 31,
+  "published_draft_pdf_topics": 45,
+  "slots_without_published_pdf": 30,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 44,
-    "last_reported_topic": "4-3-4",
-    "remaining_without_first_draft": 31,
+    "sequential_drafts_indicated": 45,
+    "last_reported_topic": "4-3-5",
+    "remaining_without_first_draft": 30,
     "independently_verified_as_complete_master": false,
-    "note": "44 published drafts; zero independent academic approvals. Older shallow drafts need repair."
+    "note": "45 published drafts; zero academic approvals. Older shallow drafts require repair."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -457,13 +457,13 @@
     },
     {
       "id": "4-3-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Global Environmental Issues: Climate Change, Global Warming, Impacts and Sustainable Development",
       "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Published original full draft with 30 original MCQs and six structured mains models; independent academic review pending."
     },
     {
       "id": "5-1-1",
