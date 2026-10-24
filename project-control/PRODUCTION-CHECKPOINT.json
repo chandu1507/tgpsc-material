@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 39,
-  "slots_without_published_pdf": 36,
+  "published_draft_pdf_topics": 40,
+  "slots_without_published_pdf": 35,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 39,
-    "last_reported_topic": "4-2-4",
-    "remaining_without_first_draft": 36,
+    "sequential_drafts_indicated": 40,
+    "last_reported_topic": "4-2-5",
+    "remaining_without_first_draft": 35,
     "independently_verified_as_complete_master": false,
-    "note": "39 PDF/chapter draft pairs published after this run; older shallow drafts remain below final academic standard."
+    "note": "40 published PDF/chapter draft pairs. Older shallow drafts require academic expansion and independent review."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -405,17 +405,17 @@
     },
     {
       "id": "4-2-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Industry and Service Sectors: Industrial Development, MSMEs, Services, Employment and ICT Policy",
       "path": "Paper 4/Unit 2 - Telangana Economy/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
+      "notes": "11,589-word complete Markdown, 25-page PDF, 16 substantive sections, 30 explained original MCQs, six 200–250-word structured mains models, three diagrams, 20-source audit; independent academic audit pending."
     },
     {
       "id": "4-3-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Environment vs Development: Environmentalism, Protection Policy and Policy Instruments",
       "path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 1",
       "chapter_published": false,
       "pdf_published": false,

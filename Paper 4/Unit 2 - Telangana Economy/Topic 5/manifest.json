@@ -1,0 +1,84 @@
+{
+  "topic_id": "4-2-5",
+  "title": "Industry and Service Sectors",
+  "production_status": "expanded_draft_academic_audit_pending",
+  "academic_approved": false,
+  "manuscript_words": 11589,
+  "mcqs_original": 30,
+  "mains_original": 6,
+  "official_pyqs_verified": 0,
+  "visuals": 3,
+  "files": {
+    "index.html": {
+      "sha256": "8834dc3eba5cbe9d26471aedede4877fa5f71ce3bb7887435c0ee911363a34d4",
+      "bytes": 97287
+    },
+    "complete-notes.pdf": {
+      "sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
+      "bytes": 284046
+    },
+    "source/answer-blueprints.md": {
+      "sha256": "e0e4656addaafa29da6e0f5cce6fb4466ff52822b4e384b189f1ee24d4004c62",
+      "bytes": 1777
+    },
+    "source/verified-pyqs.md": {
+      "sha256": "47b91d3feecd0cd3e30bed35830cd40d0be2d545d8588c99b5afcf6697ae12f9",
+      "bytes": 456
+    },
+    "source/quick-revision.md": {
+      "sha256": "0383c71eb53954bba8f0eeab48206250f24afbb59c5bbf20e1b8294ff5068cc9",
+      "bytes": 4561
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "8ccc475abea5d738735861837b9d07566fb85f8c5d27756ab1ca7aa65a5f2924",
+      "bytes": 11764
+    },
+    "source/detailed-notes.md": {
+      "sha256": "810aa89c73ebfd8caa3927b2eaa05f186d395a684969050515384bdf4f3b5e48",
+      "bytes": 48909
+    },
+    "source/visual-learning.md": {
+      "sha256": "edfc632227b9967261922f4f7e9269def12f7dd87cf203c83c9a844a9f94c5bf",
+      "bytes": 1447
+    },
+    "source/syllabus-and-summary.md": {
+      "sha256": "3de15b006c77f98bb73482cd4b97d25b8d650cade661ede95c14c0e589df712a",
+      "bytes": 3597
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "e9ab9d7ef6f9f18edb8be14b3e2d84c60a4988bf861aafdb0ee62fceebe9d30a",
+      "bytes": 5893
+    },
+    "source/original-mcqs.md": {
+      "sha256": "bb923b71ea1b4cbf40db365c6ec0cb6d4a0f94dbfc8db1bf90b2ba672a1298ba",
+      "bytes": 11058
+    },
+    "source/complete-notes.md": {
+      "sha256": "95762c9161df1d3dbbe0649044b5a9926ef527cd3eda8abc6a76e93d0117a000",
+      "bytes": 89518
+    },
+    "visuals/msme-policy-cycle.png": {
+      "sha256": "d17deee3b375a3136d740bce6d5cd7b6a2a1b0b652d777af2f2ffff3baecb889",
+      "bytes": 63593
+    },
+    "visuals/outcome-evaluation.png": {
+      "sha256": "52e2768ba24b15268d620a8045c2b4330dd159e1623a000eb2e4fbed3a4e048b",
+      "bytes": 56951
+    },
+    "visuals/industry-services-linkage.png": {
+      "sha256": "4fa6fa4c6a64051b1920bcc65de123858784d68112d77755a1ff195a2c0a0454",
+      "bytes": 63336
+    }
+  },
+  "pdf_pages": 25,
+  "detailed_sections": 16,
+  "source_register_entries": 20,
+  "mains_answer_word_counts": [
+    210,
+    212,
+    201,
+    214,
+    205,
+    216
+  ]
+}
