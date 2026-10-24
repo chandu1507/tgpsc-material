@@ -1,0 +1,26 @@
+# Standalone Quick Revision
+
+**Environment (legal and scientific).** Section 2(a) of the Environment (Protection) Act, 1986 includes water, air, land and their interrelationships with human beings, other living creatures, plants, microorganisms and property. Ecology studies relationships between organisms and surroundings; an ecosystem comprises interacting biotic and abiotic components. Ecosystem services are provisioning, regulating, cultural and supporting functions, though categories overlap in practice.
+
+**Environment-development relationship.** Economic activity uses natural inputs, land and sinks for waste. When a firm discharges untreated effluent, its accounts omit health, farming and downstream treatment costs. This is a negative externality. Environmental policy attempts to internalise such costs, prevent irreversible losses and ensure minimum rights. Distinguish *growth* (output), *development* (human capabilities and distribution), *sustainability* (intergenerational ecological viability) and *greenwashing* (unsupported claims).
+
+**Sustainability concepts.** Brundtland Report (1987): present needs without undermining future generations' ability to meet theirs. Weak sustainability permits some substitution between natural and manufactured capital; strong sustainability protects critical natural capital that cannot readily be replaced. Precaution addresses uncertain but potentially serious harm; prevention addresses reasonably known harm. Polluter-pays allocates costs, but does not grant permission to destroy an irreplaceable ecosystem.
+
+**Environmentalism.** Conservation (wise use), preservation (protecting areas/species from exploitation), environmental justice (unequal exposure and participation), ecological modernisation (technology and institutions), deep ecology (intrinsic ecological value), and livelihood-based environmentalism (forests, water and commons) differ in moral emphasis. Indian examples include Chipko and the Silent Valley campaign; do not confuse a protest movement with a binding statute.
+
+**Constitutional anchors.** Article 48A: state shall endeavour to protect/improve environment and safeguard forests and wildlife. Article 51A(g): citizen's fundamental duty to protect/improve natural environment. Article 21 has been judicially interpreted to include a healthy environment. Article 253 enables Parliament to implement international obligations. Article 48A is a Directive Principle, not itself an individually enforceable fundamental right.
+
+**Main Indian laws.** Water Act 1974; Air Act 1981; Environment (Protection) Act 1986 (umbrella powers); Wildlife (Protection) Act 1972; Biological Diversity Act 2002 as amended; National Green Tribunal Act 2010; forest conservation framework under the 1980 statute as amended. Verify current subordinate rules and amendments; legal names and commencement dates matter.
+
+**EIA sequence.** Screening where applicable → scoping/terms of reference → baseline and alternatives → impact prediction → public consultation where required → expert appraisal → decision with conditions → compliance monitoring. EIA Notification 2006 remains a central reference with amendments; a 2020 draft was a *draft*, not automatically a final replacement. A pollution-board CFE/CFO is not the same instrument as prior environmental clearance.
+
+**Instruments.** Standards and permits set enforceable boundaries; taxes/charges change prices; tradable credits set accounting incentives; subsidy/green procurement accelerate cleaner alternatives; public disclosure changes reputation and monitoring; EPR assigns producer responsibility for end-of-life products; liability and restoration seek to repair damage. Each fails without credible measurement, enforcement and fairness.
+
+**Telangana institutions.** Telangana Pollution Control Board (TGPCB) implements relevant Water/Air Act consent and other rules; CFE is generally before establishment, CFO before operation. Telangana's environment department, forest department, biodiversity institutions, urban local bodies and EPTRI perform different functions. A state industrial single window does not waive environmental compliance.
+
+**Current, dated facts.** Solid Waste Management Rules 2026 were notified 27 January 2026 and commenced 1 April 2026, replacing the 2016 general SWM rules (with savings for prior actions). India's April 2026 NDC for 2031–35 targets 47% lower GDP emissions intensity than 2005, about 60% non-fossil *installed electric capacity* and a 3.5–4.0 billion-tonne CO2e forest/tree carbon sink by 2035. These are targets, not achieved 2026 values; do not mistake installed capacity for electricity generated.
+
+**Mains evaluation frame.** Define the conflict → identify the affected ecological service and vulnerable groups → cite law/institution → compare at least two alternatives → choose a combination of enforceable standards, transparent participation and cost-effective incentives → propose measurable monitoring → conclude with intergenerational equity. The best answer avoids both 'all industry is harmful' and 'environmental clearance is a formality'.
+
+---
+

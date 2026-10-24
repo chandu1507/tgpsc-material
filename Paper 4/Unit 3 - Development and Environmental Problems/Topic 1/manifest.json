@@ -1,0 +1,91 @@
+{
+  "topic_id": "4-3-1",
+  "syllabus_label": "Environment vs Development: Definition of Environment, Environmentalism; Environmental Protection Policy; Environmental Policy Instruments",
+  "produced_on": "2026-10-24",
+  "production_status": "draft_structurally_validated",
+  "academic_approval": "not_approved",
+  "verified_official_mcq_pyqs": 0,
+  "verified_official_mains_pyqs": 0,
+  "original_mcqs": 30,
+  "mains_models": 6,
+  "detailed_sections": 16,
+  "diagram_count": 3,
+  "pdf_pages": 27,
+  "manuscript_words": 11207,
+  "files": {
+    "index.html": {
+      "sha256": "db49acda79838f16aea10f60e917d9879ba75576888c7b2ed7fbf8408cb2d794",
+      "bytes": 96586
+    },
+    "complete-notes.pdf": {
+      "sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
+      "bytes": 454256
+    },
+    "README.md": {
+      "sha256": "07c3114257503eec458691a468ed8177998907a1c0caf10db6edaa1bfa4be851",
+      "bytes": 274
+    },
+    "visuals/policy-instruments.png": {
+      "sha256": "bc2138e1c1eeaf2f61cc7d6ac16f86efadf482153e56bb4fa2809cb581ca3883",
+      "bytes": 107151
+    },
+    "visuals/environment-pressure-response.png": {
+      "sha256": "6560299075122e4712b4bb8913410ace228efc18d026e3b801380a0153b940f2",
+      "bytes": 111687
+    },
+    "visuals/clearance-pathway.png": {
+      "sha256": "f46ab73c16d95d8085a5cd2c605802ab7ad41a07d042ec77fb5c4c1eee54c4de",
+      "bytes": 119424
+    },
+    "source/quick-revision.md": {
+      "sha256": "9b5fe0e01db82f501f93fe54eafe14186b79706b928a47adff6de342fc781deb",
+      "bytes": 5160
+    },
+    "source/complete-notes.md": {
+      "sha256": "81719935dc0079796f9b96f9eb28acd791f292aa764afa1807eefc2ea345b428",
+      "bytes": 86505
+    },
+    "source/answer-blueprints.md": {
+      "sha256": "5545471e493dc3b19741a20e63d8ae6e35cfb33d224e71ad69f6969cf2c33617",
+      "bytes": 1797
+    },
+    "source/core.md": {
+      "sha256": "8d419f075b6a148b3592382921fef39a01771e6766224491544fa056e466a1ad",
+      "bytes": 53026
+    },
+    "source/verified-pyqs.md": {
+      "sha256": "958c72b52d28cba073a651a2d458cdd9445c3a8bb6b4f170670d38f2e3b6d3a1",
+      "bytes": 636
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "ca86a60e6a38b92af93a78da58108872fd0208482b193aee45e885518175922d",
+      "bytes": 11520
+    },
+    "source/original-mcqs.md": {
+      "sha256": "39e3eaa90861f60a9708423bb7520319231ec9cb44dc8f0b10d10371136fd0be",
+      "bytes": 11202
+    },
+    "source/syllabus-and-summary.md": {
+      "sha256": "4c27bac2f6dfd8c4d6610338b2b2ebe2d3863e17308a57989debaf0aebff0dc1",
+      "bytes": 3289
+    },
+    "source/detailed-notes.md": {
+      "sha256": "ec1c9931b725c5145bb62a97f64c47163a0226f67b6cf31d1fc627437f25edbf",
+      "bytes": 42598
+    },
+    "source/visual-learning.md": {
+      "sha256": "9e5ba8e70a263658ec2c623d728981e3e490e0213f14316b295c1551a1839985",
+      "bytes": 643
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "8430eb7894e040b29d0bf7963ac7d2525b3ec9f651f1709f4091a889536b8b76",
+      "bytes": 8289
+    }
+  },
+  "known_gaps": [
+    "Academic independent approval pending",
+    "Original TGPSC PYQs not verified",
+    "Commission Notification 02/2024 full line-by-line audit pending",
+    "Individual legal amendments/court orders need ongoing update"
+  ]
+}
