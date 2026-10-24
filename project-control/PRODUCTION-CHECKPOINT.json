@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 47,
-  "slots_without_published_pdf": 28,
+  "published_draft_pdf_topics": 48,
+  "slots_without_published_pdf": 27,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 47,
-    "last_reported_topic": "5-1-2",
-    "remaining_without_first_draft": 28,
+    "sequential_drafts_indicated": 48,
+    "last_reported_topic": "5-1-3",
+    "remaining_without_first_draft": 27,
     "independently_verified_as_complete_master": false,
-    "note": "47 published draft PDF pairs; zero academic approvals. Older Paper II drafts remain shallow; commission PDF direct-host recheck pending."
+    "note": "48 published draft PDF/chapter pairs, zero academically approved. Older Paper II shallow drafts remain; all require academic review."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -487,13 +487,13 @@
     },
     {
       "id": "5-1-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Space Programme in India: INSAT, IRS, EDUSAT, Chandrayaan-1 and Developmental Applications",
       "path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "10,454-word manuscript, 26-page PDF, 16 sections, 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 22 official sources; structural QA passed, academic audit pending."
     },
     {
       "id": "5-1-4",
@@ -771,28 +771,14 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "5-1-3",
-  "next_new_topic": "Paper V Unit I Topic 3 — Space programme in India and applications: industrial, agricultural and rural development; INSAT, IRS, EDUSAT, Chandrayaan-1 and future programme (commission indexed original PDF wording authenticated 24 Oct 2026).",
+  "next_sequential_topic": "5-1-4",
+  "next_new_topic": "5-1-4",
   "latest_verified_publication": {
-    "topic_id": "5-1-2",
-    "topic_title": "National Policy of Science and Technology: Policy Evolution, Technology Missions, ICT, Robotics, Nanotechnology and Communication",
-    "topic_pdf_sha256": "6e5ee2729de1e67775c07747c8b1f916c55ca82ca61a9688f4b98255b2fd6bff",
-    "publication_commit": "efc4bb9cd9b5694563117d702425f2b003977423",
-    "packaging_workflow": 40076499490,
-    "pages_workflow": 40076513997,
-    "previous_verified_pairs": 46,
-    "target_pairs": 47,
-    "academic_approvals": 0,
-    "published_pdf_pairs": 47,
-    "html_slots": 75,
-    "prior_46_pdfs_preservation": "verified_byte_identical",
-    "remote_pdf_git_blob_sha": "ab3de89591ddedf55426d152d80e9c42b77153e1",
-    "packaging_artifact_id": 12553123404,
-    "packaging_file_count": 806,
-    "packaging_zip_crc": "passed_outer_and_inner",
-    "new_topic_18_files": "verified_byte_identical",
-    "pages_workflow_status": "success",
-    "packaging_bot_commit": "2039b8d67e607c187a7e59b9106d226f6b01dd55",
-    "independent_live_browser_verification": false
+    "topic_id": "5-1-3",
+    "topic_title": "Space Programme in India: INSAT, IRS, EDUSAT, Chandrayaan-1 and Developmental Applications",
+    "date": "2026-10-24",
+    "publication_status": "local_complete_github_pending",
+    "source_audit": "22 official institutional entries",
+    "academic_status": "not_approved"
   }
 }

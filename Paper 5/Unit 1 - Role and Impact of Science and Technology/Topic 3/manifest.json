@@ -1,0 +1,43 @@
+{
+  "topic_id": "5-1-3",
+  "title": "Space Programme in India: INSAT, IRS, EDUSAT, Chandrayaan-1 and Developmental Applications",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "official_syllabus_authenticated": true,
+  "metrics": {
+    "words": 10454,
+    "pdf_pages": 26,
+    "sections": 16,
+    "mcqs": 30,
+    "mains": 6,
+    "mains_answer_word_counts": [
+      225,
+      224,
+      228,
+      216,
+      215,
+      226
+    ],
+    "diagrams": 3,
+    "source_register": 22,
+    "academic_approvals": 0
+  },
+  "files": {
+    "index.html": "51179d16f04be0212092b01464c46d931420133c8c3ff95aa72c684e0b4c0ce7",
+    "complete-notes.pdf": "bc41a053ecb189e99840f74351e65a4d414c4ba4f88f6258cb1e6de39df3b902",
+    "README.md": "ed86c245d1aee75215dc92d3368067896c7ce3380b0a9764006396fa25b5a49b",
+    "source/original-mcqs.md": "ae5ba62a0c810fa3eb5ef6bb5b095b07d3caa35c10103198f12531bd1908a216",
+    "source/answer-blueprints.md": "9ac15e0103cb295491fede57e08f9958af563131adafec4870ce0f7c8b1bd209",
+    "source/verified-pyqs.md": "460cc82097ece691c539c0f13ee7fd521cea8b7ee8cf0012954fc78476e4cddb",
+    "source/visual-learning.md": "edc05c257276a30025d42daefc1d37788ad30692339a876db6e2759b2d47e1c0",
+    "source/complete-notes.md": "15d36800a5b877e4e3362d7df04babe61317fd65e8fe41b9dd39383832aa5777",
+    "source/core.md": "da6c1c3d67588600c88e46a02b14de4337517912fffe1f55078bfbe81353fa2c",
+    "source/mains-model-answers.md": "ea9e1d6c7847b8d88cfb79da721453f6a212e47cf81908ed2c756d201085a322",
+    "source/quick-revision.md": "46e8732c610eb89d6ba4e6d50ef0fba6267f7bbd8eb436aaf608c99262522e8d",
+    "source/sources-and-audit.md": "f4d7c61214e4810d80fff83f8f08286deb21b8a0359b4aeb0c0ee805de8e4341",
+    "source/syllabus-and-summary.md": "9b02817cc388894093d0c0362015984ef89d07d15db227fc76438df4cb6851a8",
+    "diagrams/02-orbit-and-payload-choices.png": "d24d61f7c3cc5c9e67381b6953ab596369f76bd72678befb0f8bd2e020edf71a",
+    "diagrams/03-telangana-ground-truth.png": "6cd6446ef7fecf8295d19c9e9812bc567a4aebabd000a779dc71a6fb2c292b6c",
+    "diagrams/01-space-to-development.png": "c70777a3af28947007d44eceadcc71f185798d309d0506cae08c1361419b8ce1"
+  }
+}
