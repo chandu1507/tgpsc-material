@@ -1,0 +1,43 @@
+{
+  "topic_id": "5-1-4",
+  "title": "Applications of Space Technology: Education, Agriculture, Industry, Climate and Disaster Management",
+  "generated_date": "2026-10-24",
+  "academic_status": "not_approved",
+  "official_syllabus_authenticated": true,
+  "metrics": {
+    "words": 12012,
+    "pdf_pages": 23,
+    "sections": 16,
+    "mcqs": 30,
+    "mains": 6,
+    "mains_answer_word_counts": [
+      207,
+      211,
+      222,
+      213,
+      208,
+      216
+    ],
+    "diagrams": 3,
+    "source_register": 24,
+    "academic_approvals": 0
+  },
+  "files": {
+    "README.md": "739a3c3642e94382109a425bc8b8ee7fa146414a2bb9b4ce55a0c97cdb7f0363",
+    "complete-notes.pdf": "767cc8cad529ab3599032a8f17ff91c84be2271f958e2ea4069a3deda78c9524",
+    "diagrams/01-space-to-action.png": "c561fff288bcc54caff83482fc112c58ed39ab6ee27db8fa3f54205cafd56afe",
+    "diagrams/02-flood-risk-workflow.png": "b5e82231ad926918a333a8f35b023f0698ec4cb8d71bbd6e97eb0e19d8f0e0e1",
+    "diagrams/03-tsunami-warning-chain.png": "2fc9d904f2e907603d35a08dfb661e659c89f7b1ea9136a5a569bd37b50567a6",
+    "index.html": "7ff869296ae09d372a4ced9cf0db658849c9b255e8bb8dbbebdda17613d77e15",
+    "source/answer-blueprints.md": "9ccfcf3ebaec12c65276957f728b06dfc44b8c1c01d4c9cc38d6048ca2ede44e",
+    "source/complete-notes.md": "2aaf3bfb75ecf68740e1896b5678492821423a687ce950250884e91dbf2f1c7a",
+    "source/core.md": "77d7aab3f987c44246e0d014fcd9192bf514891dcfae96a5e2784a839bf8a568",
+    "source/mains-model-answers.md": "8bfa0cbfe791a62a201a827a5c2b9509931753c3d9ee4213c0877c3c028b4ebb",
+    "source/original-mcqs.md": "0bcacabacd7f5d92955903772a2aef35264281f17dc79622b96ea0f1e50e549c",
+    "source/quick-revision.md": "f6f4cdc1e862b77820438ee6e232c1f6510784005a9b3cfcf851e3a84230234d",
+    "source/sources-and-audit.md": "8587d753779b6ca575fa4e3094d6dd3256f16a20c1748292cfd40a084f3884f6",
+    "source/syllabus-and-summary.md": "38b717420a431bb6264d7aee5fad763377deb3d521bfd16ed7a5cc3d0ab77195",
+    "source/verified-pyqs.md": "4950e2d783205fd5a0b487e253d32b21a8bca82ad976575ba58645c4d20d7c2e",
+    "source/visual-learning.md": "ea2929013b15b455b6b876b4d1d73366e24711e17b7aede2d0bab4ed5482cda7"
+  }
+}
