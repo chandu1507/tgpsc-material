@@ -1,0 +1,35 @@
+{
+  "topic_id": "5-2-3",
+  "title": "Food Biotechnology, Food Safety, Organic Farming, Farm Mechanisation and Safe Drinking Water",
+  "created": "24 October 2026",
+  "academic_status": "not_approved",
+  "original_mcqs": 30,
+  "original_mains_models": 6,
+  "mains_word_counts": [
+    210,
+    209,
+    232,
+    229,
+    211,
+    220
+  ],
+  "sources": 18,
+  "manuscript_words": 11806,
+  "files": {
+    "README.md": "39b3da124e3ec00c77d26f61232523a9dc90361fc645d72dbb6c13a0d5e2deaa",
+    "complete-notes.pdf": "5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592",
+    "diagrams/01-food-safety-haccp.png": "db94dc3258474634a572d1c51db82dc09f9bdac0a53cc99af5a8027b7241e6dd",
+    "diagrams/02-organic-mechanisation.png": "6d8d04c0e232307f4233db45e9ee1d3fc47ccb1dfbd93c3f5b5de2f9e477004a",
+    "diagrams/03-water-treatment.png": "e31b7c1378e8ba84b5f3e11b41e180025a7acc8f66d53d4e9c0c7d16c183d954",
+    "index.html": "68176eb6b5e6535c28e9e354b58c6bc85fd741bec91b489381d3c068558615c1",
+    "source/answer-blueprints.md": "ac2dda7e31b6989e547e8802754ef221531d88fec1ea878c8dc1d0656a738732",
+    "source/complete-notes.md": "33f4bc7c3f84042ff7446305aab43ddb54f47c7a0325a1c320c7907260c1fe29",
+    "source/core.md": "dcc3e1cb102a8ff7bc221f807e4fb1ffc6d0f61a9230a7dfbbe866670492258a",
+    "source/mains-model-answers.md": "7fb71b12f871fee9ceb9c4800fef9c41f9a0ea0be2876a9ce7d21315e2e5549d",
+    "source/original-mcqs.md": "2bd7c4f77aa97d8df62e2f9fb98430f430df1944ce9ee9f897087f706236c6b0",
+    "source/sources-and-audit.md": "82b4f28e7d4e4ef34fd105ac4387d1987be3d9a8953d084bbd3092e386a969b1",
+    "source/syllabus-and-summary.md": "698eb875b6d37a146b1c0880f2019a183e9db539681cdf8191ba7b0b54b2a4c7",
+    "source/verified-pyqs.md": "f2092116a74b705cb93528fedbd7dcaa6ea34b2537c1ec15fab4a6b5c5ec0e50",
+    "source/visual-learning.md": "b1816ab1161b961bfd93a4a4ca9540003fa756141604faab4c10437a6bdbb817"
+  }
+}

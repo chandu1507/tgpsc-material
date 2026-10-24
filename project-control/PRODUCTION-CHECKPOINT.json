@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-24",
   "total_topics": 75,
-  "published_draft_pdf_topics": 52,
-  "slots_without_published_pdf": 23,
+  "published_draft_pdf_topics": 53,
+  "slots_without_published_pdf": 22,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 52,
-    "last_reported_topic": "5-2-2",
-    "remaining_without_first_draft": 23,
+    "sequential_drafts_indicated": 53,
+    "last_reported_topic": "5-2-3",
+    "remaining_without_first_draft": 22,
     "independently_verified_as_complete_master": false,
-    "note": "52 published draft pairs; zero independent academic approvals. Older Paper II shallow drafts need expansion."
+    "note": "53 published draft pairs; zero independent academic approvals; older Paper II shallow drafts require expansion; 20 older chapters lack editable Markdown."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -537,13 +537,13 @@
     },
     {
       "id": "5-2-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Food Biotechnology, Food Safety, Organic Farming, Farm Mechanisation and Safe Drinking Water",
       "path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "11,806-word complete original learning draft; 24-page PDF; 30 explained MCQs; six 200–250-word structured mains models; three diagrams; 18 official source entries; independently academically unapproved."
     },
     {
       "id": "5-2-4",
