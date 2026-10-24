@@ -777,13 +777,23 @@
     "topic_id": "6-1-2",
     "topic_title": "Hyderabad State in Independent India: Mulki Agitation, SRC and Smaller States",
     "date": "2026-10-25",
-    "publication_status": "locally_prepared_awaiting_remote_verification",
+    "publication_status": "github_published_packaging_and_pages_verified",
     "source_audit": "11 sources; original TGPSC PDF direct re-open 502; primary SRC report opened; original Jagan Mohan Reddy report unavailable",
     "academic_status": "not_approved",
     "pdf_sha256": "2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11",
     "published_pdf_pairs": 62,
     "html_slots": 75,
     "previous_pdfs_preserved": 61,
-    "independent_live_browser_status": "pending"
+    "independent_live_browser_status": "unverified",
+    "publication_commit": "b5b88f25245aad5682ccf59c5513ce3dc1366de7",
+    "pdf_blob_sha": "829096ee18cf832a0636d4efdd2834908f771e5f",
+    "packaging_status": "success",
+    "packaging_run_id": 40140789465,
+    "artifact_id": 12578432487,
+    "pages_status": "success",
+    "pages_run_id": 40140804348,
+    "outer_inner_crc": "passed",
+    "unique_archive_entries": 1034,
+    "changed_files_byte_identical": 19
   }
 }

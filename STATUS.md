@@ -1,6 +1,6 @@
 ## Production update — 25 October 2026
 
-62/75 published draft PDF/chapter pairs; 13 first PDFs pending; 0 independently academically approved. Paper VI Unit I Topic 2 complete locally and queued for guarded publication. Older Paper II Unit II Topic 5 has a new original 1,235-word partial depth repair and consolidated editable master; original PDF preserved. Original 1952 inquiry report still not inspected.
+62/75 published draft PDF/chapter pairs; 13 first PDFs pending; 0 independently academically approved. Paper VI Unit I Topic 2 published by guarded non-force fast-forward commit b5b88f25245aad5682ccf59c5513ce3dc1366de7; packaging workflow 40140789465 and Pages workflow 40140804348 succeeded. Older Paper II Unit II Topic 5 has a new original 1,235-word partial depth repair and consolidated editable master; original PDF preserved. Original 1952 inquiry report still not inspected.
 
 # TGPSC Group I publication status — 25 October 2026
 
