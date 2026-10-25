@@ -9,7 +9,7 @@
     "last_reported_topic": "6-3-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "All 75 first draft PDFs published. All five Paper III Unit I editable masters recovered. Paper II Unit I Topic 1 substantially expanded; no 76th topic. Independent academic approvals remain zero."
+    "note": "All 75 first draft PDFs published. Paper II Unit I Topics 1 and 2 substantially expanded in separate supplementary PDFs. Original PDFs preserved. Independent academic approvals remain zero. No 76th topic."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -30,8 +30,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "production_review": "substantive_repair_published_independent_academic_audit_pending",
+      "notes": "Original 17-page PDF preserved. 25 October 2026: original 3,817-word explanatory historical section, 30 original explained practice MCQs, six complete structured 200–250-word mains answers, three SVG diagrams, dated evidence register and 18-page supplementary PDF. Consolidated editable master recovered and expanded. Not independently academically approved."
     },
     {
       "id": "2-1-3",
