@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "topic": "2-2-1",
+  "new_syllabus_topics": 0,
+  "draft_pdfs": 75,
+  "academically_approved": 0,
+  "paths": {
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/index.html": {
+      "sha256": "e4a43b6739926335ddeac71ac9cf08d746d184d54773d9fafda056d1211a2101",
+      "bytes": 31087
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/complete-notes.md": {
+      "sha256": "65abef7ee0ca3df7745cc86f5dd79c07070eefcca0438668d14b8a12ff9b8888",
+      "bytes": 90716
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/depth-repair-epigraphy-material-culture-2026-10-26.md": {
+      "sha256": "7be490f997d82eb844b8105ffbbe208751b4518471fae4299d908621a6adcf3a",
+      "bytes": 55966
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/depth-repair-epigraphy-material-culture-2026-10-26.pdf": {
+      "sha256": "75e94ba24a060e53e069fc880172775605737abd5f61dae8223bc15cdefca988",
+      "bytes": 111895
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/diagram-evidence-ladder.svg": {
+      "sha256": "17374d915dc5d2d47f9f9d8fdc326dc12750c04937e4eccf778ea128e71c8fe3",
+      "bytes": 1768
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/diagram-ancient-telangana-sites.svg": {
+      "sha256": "6e311de5edae28a369d26d3386ded520da6bccfbaa1109ca8f5f719b70cab2f0",
+      "bytes": 1770
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/diagram-vishnukundin-patronage.svg": {
+      "sha256": "07873de12efac5a50d792786ca59b058d3c8501513ad1985d12a897039f8dc03",
+      "bytes": 1795
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/quality-audit.md": {
+      "sha256": "46ffc82e1d24412e2d996bc050a09bfedaca3c1cb9bb6c871f14479cb7ec09f0",
+      "bytes": 2207
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 1/source/syllabus-index.md": {
+      "sha256": "223476c7da19f2e471c133dea708e3a80c36ffaccfed65cb00971486f4b26514",
+      "bytes": 521
+    },
+    "project-control/PRODUCTION-CHECKPOINT.json": {
+      "sha256": "bffaa7db99c349a362d15b2ea40677b205163f9cb8a716f3a82553812ae249d4",
+      "bytes": 44682
+    }
+  },
+  "checks": {
+    "html_pages": 78,
+    "local_links": 443,
+    "broken_links": 0,
+    "original_pdfs_preserved": 75,
+    "original_explained_mcqs": 30,
+    "mains_answer_word_counts": [
+      215,
+      224,
+      225,
+      220,
+      218,
+      212
+    ],
+    "evidence_entries": 14,
+    "original_svg_diagrams": 3
+  }
+}

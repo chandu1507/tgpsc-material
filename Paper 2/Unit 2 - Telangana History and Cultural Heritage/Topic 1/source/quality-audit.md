@@ -13,3 +13,33 @@
 
 - [x] Added precise evidence matrix and named facts under the upgraded mains standard.
 - [ ] Primary historical sources and source-specific page citations still require full check.
+
+
+## 26 October 2026 focused repair
+
+- [x] Added new original archaeological/epigraphic synthesis, 30 explained original MCQs and six structured mains answers.
+- [x] Named Tummalagudem (two Buddhist grants) and Ipur (Brahmana grant) with scholarly database entries.
+- [x] Original older complete-notes.pdf preserved.
+- [ ] Original plates, complete field diaries, independent archaeology/epigraphy expert approval outstanding.
+
+**Academic decision remains NOT APPROVED.**
+
+
+## 26 October 2026 focused repair
+
+- [x] Added new original archaeological/epigraphic synthesis, 30 explained original MCQs and six structured mains answers.
+- [x] Named Tummalagudem (two Buddhist grants) and Ipur (Brahmana grant) with scholarly database entries.
+- [x] Original older complete-notes.pdf preserved.
+- [ ] Original plates, complete field diaries, independent archaeology/epigraphy expert approval outstanding.
+
+**Academic decision remains NOT APPROVED.**
+
+
+## 26 October 2026 focused repair
+
+- [x] Added new original archaeological/epigraphic synthesis, 30 explained original MCQs and six structured mains answers.
+- [x] Named Tummalagudem (two Buddhist grants) and Ipur (Brahmana grant) with scholarly database entries.
+- [x] Original older complete-notes.pdf preserved.
+- [ ] Original plates, complete field diaries, independent archaeology/epigraphy expert approval outstanding.
+
+**Academic decision remains NOT APPROVED.**

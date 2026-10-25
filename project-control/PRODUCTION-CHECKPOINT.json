@@ -9,7 +9,7 @@
     "last_reported_topic": "6-3-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "All 75 first draft PDFs published. Paper II Unit I Topics 1 and 2 substantially expanded in separate supplementary PDFs. Original PDFs preserved. Independent academic approvals remain zero. No 76th topic."
+    "note": "75 first-draft PDF/chapter pairs; ongoing focused repairs including Paper II Unit II Topic 1. Independent academic approvals remain ZERO. No 76th topic."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -70,8 +70,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "production_review": "second_gap_focused_archaeology_epigraphy_repair_published_academic_audit_pending",
+      "notes": "Original older PDF preserved; pre-existing 25 Oct 2026 archaeology supplement retained. 26 Oct 2026: new original evidence-led material on Tummalagudem Buddhist grants, Ipur grant, site chronology, 30 explained MCQs, six complete 200–250-word mains answers, three SVG diagrams, 14-entry evidence audit, consolidated editable master. NOT independently academically approved."
     },
     {
       "id": "2-2-2",
