@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370">
+<rect width="900" height="370" fill="#f6f9fd"/>
+<text x="28" y="39" font-family="DejaVu Sans" font-weight="bold" font-size="23" fill="#132c48">C. Two resistance traditions, not one event</text>
+<text x="28" y="63" font-family="DejaVu Sans" font-size="12" fill="#475569">Compare chronology, community, source type and contemporary remembrance.</text>
+<rect x="25" y="105" width="350" height="88" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="200.0" y="130" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Sammakka–Sarakka</text>
+<text x="200.0" y="149" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Kakatiya-era association; oral tradition</text>
+<rect x="525" y="105" width="350" height="88" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="700.0" y="130" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Sarvai Papanna</text>
+<text x="700.0" y="149" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Late 17th–early 18th c.; fort / chronicles</text>
+<rect x="200" y="245" width="500" height="75" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="450.0" y="270" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Modern memory: Medaram Jatara, Khilashapur</text>
+<text x="450.0" y="289" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">ritual heritage and public commemoration</text>
+<line x1="200" y1="193" x2="370" y2="245" stroke="#a0522d" stroke-width="2"/>
+<path d="M362,240 L370,245 L362,250" fill="none" stroke="#a0522d" stroke-width="2"/>
+<line x1="700" y1="193" x2="530" y2="245" stroke="#a0522d" stroke-width="2"/>
+<path d="M522,240 L530,245 L522,250" fill="none" stroke="#a0522d" stroke-width="2"/>
+</svg>

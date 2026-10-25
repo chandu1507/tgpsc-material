@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370">
+<rect width="900" height="370" fill="#f6f9fd"/>
+<text x="28" y="39" font-family="DejaVu Sans" font-weight="bold" font-size="23" fill="#132c48">A. Evidence and confidence</text>
+<text x="28" y="63" font-family="DejaVu Sans" font-size="12" fill="#475569">Different sources answer different questions; no automatic hierarchy for every claim.</text>
+<rect x="25" y="95" width="190" height="72" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="120.0" y="120" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Dated inscription</text>
+<text x="120.0" y="139" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Bounded act / date</text>
+<rect x="245" y="95" width="190" height="72" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="340.0" y="120" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Monument / layers</text>
+<text x="340.0" y="139" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Material context</text>
+<rect x="465" y="95" width="190" height="72" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="560.0" y="120" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Literary text</text>
+<text x="560.0" y="139" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Authorial voice</text>
+<rect x="685" y="95" width="190" height="72" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="780.0" y="120" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Oral memory</text>
+<text x="780.0" y="139" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Community meaning</text>
+<rect x="245" y="225" width="410" height="80" rx="12" fill="#e4eef8" stroke="#5b7998" stroke-width="1.4"/>
+<text x="450.0" y="250" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">Triangulate source genre, provenance</text>
+<text x="450.0" y="269" text-anchor="middle" font-family="DejaVu Sans" font-size="14" fill="#173653">and uncertainty before making claims</text>
+<line x1="120" y1="170" x2="305" y2="225" stroke="#a0522d" stroke-width="2"/>
+<path d="M297,220 L305,225 L297,230" fill="none" stroke="#a0522d" stroke-width="2"/>
+<line x1="340" y1="170" x2="390" y2="225" stroke="#a0522d" stroke-width="2"/>
+<path d="M382,220 L390,225 L382,230" fill="none" stroke="#a0522d" stroke-width="2"/>
+<line x1="560" y1="170" x2="505" y2="225" stroke="#a0522d" stroke-width="2"/>
+<path d="M497,220 L505,225 L497,230" fill="none" stroke="#a0522d" stroke-width="2"/>
+<line x1="780" y1="170" x2="600" y2="225" stroke="#a0522d" stroke-width="2"/>
+<path d="M592,220 L600,225 L592,230" fill="none" stroke="#a0522d" stroke-width="2"/>
+</svg>
