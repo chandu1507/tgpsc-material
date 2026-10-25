@@ -1,0 +1,23 @@
+{
+  "topic": "6-1-4",
+  "status": "draft_not_approved",
+  "generated": "2026-10-25",
+  "word_count": 11331,
+  "pdf_pages": 24,
+  "original_mcqs": 30,
+  "structured_mains_answers": 6,
+  "diagrams": 3,
+  "file_sha256": {
+    "README.md": "3e6bddeb5b9da2f8b270bb7819012c75c1e3a8a4e169fbf9ce01212271feac3d",
+    "complete-notes.pdf": "4bcd3452508c24ba655942c48ea1a00b233aab2914ceb605cd64323ca3a4a3ee",
+    "diagrams/actor-matrix.png": "63281ba51ddd3b49d7afa2284c57029ddf0c9bff18335992bf136f326e021c38",
+    "diagrams/chronology.png": "9662666e37dafb7ea43a94396cd8be284ec0b7253268872c8d7613d1b6f75bf1",
+    "diagrams/legal-chain.png": "21b3bd622def4e8fa3c2c0333433c0bf2ceb8316575ba6766b06a379f32e1df8",
+    "index.html": "6c18efef795624737766febb053689c9a8a945e37de4d483add48f4466db2915",
+    "source/answer-blueprints.md": "4e569dcad15c40efc9a566cdcfaca26f44bf2e30db8fd28216dcecbd951fc72f",
+    "source/complete-notes.md": "dc676cbb73ed534deab9b0d50ca2bb5941a7d49152e52fad1ad11bbe7b3cb067",
+    "source/original-practice.md": "7a5cc1fd2f91ff4a4fc0e233f0372ed4c510113bc78bffe6548fddf88fd27277",
+    "source/quick-revision.md": "9bcba19cd985ee997db2a959376d5eed547088eb78b93b57602e927106ab6d34",
+    "source/references.md": "45b535f0b7f8f5311c393734d34d86f6fc45c67d9f8c20c5bc34133a6a7ee37f"
+  }
+}

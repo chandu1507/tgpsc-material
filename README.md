@@ -38,3 +38,7 @@ GitHub Pages publishes the static portal. The repository includes both the Pages
 ## Latest production (25 October 2026)
 
 Paper V Unit III Topic 3, Quantitative Aptitude: original complete PDF, HTML, Markdown and three diagrams; 30 explained original MCQs and six full structured mains answers. Commission-hosted 2024 syllabus PDF reopened directly. One older segmented source master recovered without changing its PDF; academic approvals remain zero.
+
+
+
+**25 October 2026 update:** 64/75 topic PDFs published as drafts; Paper VI Unit I Topic 4 added. Eleven first PDFs remain; zero independent academic approvals. Older Paper II Unit I Topic 2 received partial depth repair and consolidated editable source.
