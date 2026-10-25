@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300">
+<rect width="860" height="300" fill="#f6f8fc" rx="18"/>
+<text x="430" y="36" font-family="DejaVu Sans" font-size="16" text-anchor="middle" fill="#172d52">Distribution depends on routes, prices, access and who bears risk</text>
+<rect x="25" y="90" width="180" height="112" rx="12" fill="#e8f0fc" stroke="#335c91" stroke-width="2"/>
+<text x="115" y="127" text-anchor="middle" font-family="DejaVu Sans" font-size="15" font-weight="bold" fill="#172d52">Public finance</text>
+<text x="115" y="158" text-anchor="middle" font-family="DejaVu Sans" font-size="12" fill="#24364e">Guarantees and taxes</text>
+<line x1="209" y1="146" x2="234" y2="146" stroke="#c17c22" stroke-width="4"/>
+<polygon points="234,146 223,140 223,152" fill="#c17c22"/>
+<rect x="240" y="90" width="180" height="112" rx="12" fill="#e8f0fc" stroke="#335c91" stroke-width="2"/>
+<text x="330" y="127" text-anchor="middle" font-family="DejaVu Sans" font-size="15" font-weight="bold" fill="#172d52">Infrastructure</text>
+<text x="330" y="158" text-anchor="middle" font-family="DejaVu Sans" font-size="12" fill="#24364e">Rail, telegraph, post</text>
+<line x1="424" y1="146" x2="449" y2="146" stroke="#c17c22" stroke-width="4"/>
+<polygon points="449,146 438,140 438,152" fill="#c17c22"/>
+<rect x="455" y="90" width="180" height="112" rx="12" fill="#e8f0fc" stroke="#335c91" stroke-width="2"/>
+<text x="545" y="127" text-anchor="middle" font-family="DejaVu Sans" font-size="15" font-weight="bold" fill="#172d52">Imperial uses</text>
+<text x="545" y="158" text-anchor="middle" font-family="DejaVu Sans" font-size="12" fill="#24364e">Troops and export flows</text>
+<line x1="639" y1="146" x2="664" y2="146" stroke="#c17c22" stroke-width="4"/>
+<polygon points="664,146 653,140 653,152" fill="#c17c22"/>
+<rect x="670" y="90" width="180" height="112" rx="12" fill="#e8f0fc" stroke="#335c91" stroke-width="2"/>
+<text x="760" y="127" text-anchor="middle" font-family="DejaVu Sans" font-size="15" font-weight="bold" fill="#172d52">Social uses</text>
+<text x="760" y="158" text-anchor="middle" font-family="DejaVu Sans" font-size="12" fill="#24364e">Travel and politics</text>
+</svg>
