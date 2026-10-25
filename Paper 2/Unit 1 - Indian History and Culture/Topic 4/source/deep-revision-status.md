@@ -1,0 +1,1 @@
+Original 2,003-word substantive supplement on tribal and peasant uprisings, 1857 and social reform added 25 October 2026. Consolidated editable master recovered from 13 original segmented sources. Original published PDF unchanged. Full textbook-depth expansion and independent academic audit remain pending.

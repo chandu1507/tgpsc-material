@@ -1,0 +1,18 @@
+{
+  "topic": "6-2-1",
+  "status": "draft_not_academically_approved",
+  "files_sha256": {
+    "README.md": "2e02f775d3d9ef0afe908593a4af6331b428f62c32b1be773efc1dc9039df259",
+    "complete-notes.pdf": "157348db5f5ec70c834a8fac5677d09c550ee1b551d458a3fb63a1837bb9d93f",
+    "diagrams/cadre-audit.png": "4214fed2e33b14520ecebdf1f9f324e6022a721a9cb18a5a0560f5b7843176ed",
+    "diagrams/chronology.png": "bff7f2f37f4fc6330ef889e6cf741c9434a95a5863c61d4a57e6c1faaafaee0c",
+    "diagrams/six-point-architecture.png": "db5de98cb59313721645678b611ce1655654e8af8748ac4e2c1db722359e48b1",
+    "index.html": "21dfbae6a52ff50a34cc03348ea1f1b372ca0a7bf220088fbf1c4b24a82f3f3d",
+    "source/answer-blueprints.md": "7e68bfbc442684c07e800952806cf70d2d900c07bd25de31836cc8a3b8252cee",
+    "source/complete-notes.md": "05a222087ffecd13623596d4116884b294738ece0df16f25c5dfb927670fff12",
+    "source/original-practice.md": "842238e97557169531d053884c5dd029a85431cd8720ad6cd2187ca045efb8af",
+    "source/quick-revision.md": "30da61012b4edfec4d620d6d9c6fd5f7b081f2693418dce47f35634ff9364f8f",
+    "source/references.md": "43d74d0eb144ce4731bcaf7e710e77da5692dd3e65ddbaba723b5431d23a6b80",
+    "source/syllabus-index.md": "1ac236a75dd7466ccf914697fd42ea1f6657bfe591c94f16a4095d9be37787f4"
+  }
+}

@@ -1,0 +1,26 @@
+## Appendix E — Dated primary-source register and evidence audit
+
+1. **Supreme Court, *A.V.S. Narasimha Rao v. State of Andhra Pradesh*, judgment 28 March 1969.** Legal issue: residence legislation and Article 16(3). Primary judgment not independently downloaded in this run; later Supreme Court judgment confirms its holding. Status: **primary corroboration through later official judgment**, not original judgment inspection.
+2. **Supreme Court, *Director of Industries and Commerce v. V. Venkata Reddy*, judgment 3 October 1972, [1973] 2 SCR 562.** Historical Mulki survival holding. Accessible legal reproduction and Supreme Court's later official discussion checked; original 1972 official PDF not independently obtained. Status: **corroborated, original PDF pending**.
+3. **Government of India, Ministry of Law and Justice, Constitution (Thirty-second Amendment) Act, 1973; assent 3 May 1974, commencement 1 July 1974.** Original government-hosted amendment PDF opened and inspected. Status: **direct primary verification**.
+4. **Government of India, Six-Point Formula, proposed 21 September 1973.** Date and purpose recorded in the official amendment's statement of objects and reasons. Status: **direct primary verification through parliamentary document**.
+5. **Government of India, Constitution of India, Article 371-D and 371-E, current official consolidated text.** Used to explain constitutional authorisation; later judicial modifications must be considered. Status: **direct government-source inspection**.
+6. **President of India, G.S.R. 524(E), Andhra Pradesh Public Employment Order, 18 October 1975; G.O. Ms. No. 674, 20 October 1975.** Government-hosted MHA appendix search-indexes the text and dates, independently corroborated in case law. Status: **official indexed reproduction; signed Gazette original pending**.
+7. **Supreme Court, *P. Sambamurthy v. State of Andhra Pradesh*, judgment 20 December 1986, 1987 SCR (1) 879.** Official Supreme Court PDF directly opened; constitutional tribunal holding checked. Status: **direct primary verification**.
+8. **Government of Andhra Pradesh, Officers Committee chaired by K. Jayabharat Reddy, mid-1980s.** Findings and dates discussed in official retrospective materials. Full signed report and original data tables not directly obtained. Status: **official retrospective evidence, original report pending**.
+9. **Government of Andhra Pradesh, G.O. Ms. No. 610, General Administration Department, 30 December 1985.** Existence and purpose corroborated in retrospective materials. Original signed G.O. and annexures not independently retrieved. Status: **original instrument pending; no invented clause numbers**.
+10. **Ministry of Home Affairs, Committee for Consultations on the Situation in Andhra Pradesh (Srikrishna Committee), report published 2011.** Official ministry-hosted report and appendix indexed; direct old static PDF URLs failed. Status: **official indexed retrospective source; full document reinspection pending**.
+11. **Telangana State Public Service Commission, Group-II notification syllabus published 2022 (commission-hosted).** Direct search indexing corroborates Paper IV Telangana Movement Item 1 under the Mobilisational Phase. Status: **official indexed syllabus; original Group-I 02/2024 direct inspection pending**.
+12. **J.M. Girglani inquiry, constituted 2001, later report.** Used only to explain the persistence of service-rule grievances after the core syllabus period. Original inquiry report not independently retrieved. Status: **contextual retrospective reference, not a direct 1970s source**.
+
+**Official and institutional URLs (for independent verification):**
+
+- Constitution (Thirty-second Amendment) Act: https://www.legislative.gov.in/static/uploads/2025/07/86861e79e41f499cf994f1f13da1df46.pdf
+- Official Constitution compilation: https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf
+- Supreme Court *P. Sambamurthy* judgment: https://api.sci.gov.in/jonew/judis/8854.pdf
+- Ministry of Home Affairs Srikrishna Committee reports: https://www.mha.gov.in/ccsap-justice-retd-b-n-srikrishna-reports
+- Ministry of Home Affairs appendix search index: https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf
+- Commission-hosted 2022 syllabus: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJLzIwMjItR1JPVVAtSUlfMjBTRVJWSUNFUy1OT1RJRk5fMjBGSU5BTDIwMjIxMjI5MjM0NzQxMjAyMzAxMTgxMDI2MjgucGRmr95v17a0y2d8i13v
+
+**Source caution:** Official documents have different evidentiary weights. The signed amendment and Supreme Court judgment were directly opened; the original G.O. 610, Officers Committee tables, original 1975 Gazette and 2024 Group-I Notification were not. No student-facing section asserts an uninspected page number or an uncertified count as established fact.
+
