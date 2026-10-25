@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#fffdf8"/>
+<text x="450" y="60" text-anchor="middle" font-size="27" font-weight="bold" font-family="sans-serif" fill="#16263d">Resistance and colonial institutions</text>
+<rect x="55" y="100" rx="12" width="355" height="90" fill="#e9f0fb" stroke="#243d61" stroke-width="2"/>
+<rect x="490" y="100" rx="12" width="355" height="90" fill="#fef0db" stroke="#8b5220" stroke-width="2"/>
+<text x="232" y="150" text-anchor="middle" font-size="19" font-family="sans-serif">Property & tenure</text>
+<text x="667" y="150" text-anchor="middle" font-size="18" font-family="sans-serif">Kol / Santhal / Munda</text>
+<path d="M 414 145 L 484 145" stroke="#364b62" stroke-width="3"/><path d="M 472 137 L 484 145 L 472 153" fill="none" stroke="#364b62" stroke-width="3"/>
+<rect x="55" y="220" rx="12" width="355" height="90" fill="#e9f0fb" stroke="#243d61" stroke-width="2"/>
+<rect x="490" y="220" rx="12" width="355" height="90" fill="#fef0db" stroke="#8b5220" stroke-width="2"/>
+<text x="232" y="270" text-anchor="middle" font-size="19" font-family="sans-serif">Contracts & credit</text>
+<text x="667" y="270" text-anchor="middle" font-size="18" font-family="sans-serif">Indigo / Deccan</text>
+<path d="M 414 265 L 484 265" stroke="#364b62" stroke-width="3"/><path d="M 472 257 L 484 265 L 472 273" fill="none" stroke="#364b62" stroke-width="3"/>
+<rect x="55" y="340" rx="12" width="355" height="90" fill="#e9f0fb" stroke="#243d61" stroke-width="2"/>
+<rect x="490" y="340" rx="12" width="355" height="90" fill="#fef0db" stroke="#8b5220" stroke-width="2"/>
+<text x="232" y="390" text-anchor="middle" font-size="19" font-family="sans-serif">Military & sovereignty</text>
+<text x="667" y="390" text-anchor="middle" font-size="18" font-family="sans-serif">1857 rebellion</text>
+<path d="M 414 385 L 484 385" stroke="#364b62" stroke-width="3"/><path d="M 472 377 L 484 385 L 472 393" fill="none" stroke="#364b62" stroke-width="3"/>
+<rect x="55" y="460" rx="12" width="355" height="90" fill="#e9f0fb" stroke="#243d61" stroke-width="2"/>
+<rect x="490" y="460" rx="12" width="355" height="90" fill="#fef0db" stroke="#8b5220" stroke-width="2"/>
+<text x="232" y="510" text-anchor="middle" font-size="19" font-family="sans-serif">Knowledge & dignity</text>
+<text x="667" y="510" text-anchor="middle" font-size="18" font-family="sans-serif">Phule / Ramabai / Ayyankali</text>
+<path d="M 414 505 L 484 505" stroke="#364b62" stroke-width="3"/><path d="M 472 497 L 484 505 L 472 513" fill="none" stroke="#364b62" stroke-width="3"/>
+</svg>

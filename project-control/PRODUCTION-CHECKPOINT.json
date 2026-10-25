@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "total_topics": 75,
   "published_draft_pdf_topics": 75,
   "slots_without_published_pdf": 0,
@@ -50,8 +50,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "production_review": "second_substantive_depth_repair_published_academic_audit_pending",
+      "notes": "Original 11-page PDF preserved; pre-existing 2,042-word supplement retained. On 26 October 2026, added 4,021-word new gap-filling research supplement, 19-page PDF, 30 explained practice MCQs, six complete 200–250-word mains answers, three SVG diagrams, 14-entry dated evidence register and provenance-labelled consolidated editable master. Not a complete academic rewrite; independent expert approval pending."
     },
     {
       "id": "2-1-5",
@@ -823,10 +823,10 @@
     "independent_review": "pending"
   },
   "last_quality_repair": {
-    "topic_id": "2-1-3",
-    "date": "2026-10-25",
-    "description": "British Colonial Expansion and Economic Transformation substantive depth repair",
-    "original_pdf_sha256": "2f97d59a3f2179ed1b8aa38f179783b9a3641383a74e619929e307096cb87dab",
-    "academic_status": "not_approved"
+    "topic_id": "2-1-4",
+    "repair_type": "targeted_gap_filling_second_repair",
+    "pdf_path": "Paper 2/Unit 1 - Indian History and Culture/Topic 4/source/depth-repair-ii.pdf",
+    "original_pdf_preserved": true,
+    "academic_approval": false
   }
 }
