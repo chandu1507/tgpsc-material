@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 64,
-  "slots_without_published_pdf": 11,
+  "published_draft_pdf_topics": 65,
+  "slots_without_published_pdf": 10,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 64,
-    "last_reported_topic": "6-1-4",
-    "remaining_without_first_draft": 11,
+    "sequential_drafts_indicated": 65,
+    "last_reported_topic": "6-1-5",
+    "remaining_without_first_draft": 10,
     "independently_verified_as_complete_master": false,
-    "note": "64 published draft PDF/chapter pairs, zero academically approved. Paper II Unit I Topic 2 received 1,241-word substantive supplement and consolidated editable master, old PDF preserved. Next P6 U1 T5 subject to fresh main verification. Original 2024 notification direct open still pending; 2022 commission-hosted syllabus wording verified."
+    "note": "65 published drafts, zero academic approvals; P6 U1 T5 produced as original full chapter. P2 U1 T3 consolidated source and partial depth supplement. 13 older chapters remain without consolidated masters. Next P6 U2 T1 subject to fresh main verification."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -659,11 +659,11 @@
       "id": "6-1-5",
       "title": "Topic 5 — official subtopic heading pending verification",
       "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original deep draft published 25 October 2026; 30 explained original MCQs, six structured mains answers; academic audit pending."
     },
     {
       "id": "6-2-1",
