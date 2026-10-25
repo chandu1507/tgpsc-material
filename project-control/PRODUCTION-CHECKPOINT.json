@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 73,
-  "slots_without_published_pdf": 2,
+  "published_draft_pdf_topics": 74,
+  "slots_without_published_pdf": 1,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 73,
-    "last_reported_topic": "6-3-3",
-    "remaining_without_first_draft": 2,
+    "sequential_drafts_indicated": 74,
+    "last_reported_topic": "6-3-4",
+    "remaining_without_first_draft": 1,
     "independently_verified_as_complete_master": false,
-    "note": "Original P6 U3 T3 published; all draft chapters require independent academic audit. Next P6 U3 T4 after fresh reconciliation."
+    "note": "P6 U3 T4 original draft prepared and published; next P6 U3 T5 if fresh main confirms. All 74 chapters need independent academic audit."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -747,13 +747,13 @@
     },
     {
       "id": "6-3-4",
-      "title": "Topic 4 — official subtopic heading pending verification",
+      "title": "Cultural Revivalism, Social Participation and Major Protest Events",
       "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 4",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original full PDF, Markdown, offline HTML, 30 explained MCQs and six mains answers published; independent academic audit pending."
     },
     {
       "id": "6-3-5",
