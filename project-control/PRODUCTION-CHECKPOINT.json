@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 67,
-  "slots_without_published_pdf": 8,
+  "published_draft_pdf_topics": 68,
+  "slots_without_published_pdf": 7,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 67,
-    "last_reported_topic": "6-2-2",
-    "remaining_without_first_draft": 8,
+    "sequential_drafts_indicated": 68,
+    "last_reported_topic": "6-2-3",
+    "remaining_without_first_draft": 7,
     "independently_verified_as_complete_master": false,
-    "note": "P6 U2 T2 new original 9775-word draft; P2 U1 T5 consolidated master and 1555-word depth supplement; 11 older chapters lack consolidated editable masters. Next P6 U2 T3 subject to fresh verification."
+    "note": "P6 U2 T3 new original textbook draft; P2 U2 T1 source consolidation and 1,612-word supplement; academic approvals remain zero. Next P6 U2 T4 subject to fresh verification."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -657,7 +657,7 @@
     },
     {
       "id": "6-1-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Formation of Telangana Praja Samithi and Course of the 1969 Movement",
       "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 5",
       "chapter_published": true,
       "pdf_published": true,
@@ -687,13 +687,13 @@
     },
     {
       "id": "6-2-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Rise of Regional Parties, Telugu Jathi and Telangana Identity",
       "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 2026-10-25 11k-word draft, 30 explained MCQs, six 200–250 word answers; independent academic review pending."
     },
     {
       "id": "6-2-4",

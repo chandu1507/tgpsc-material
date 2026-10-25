@@ -1,0 +1,10 @@
+# TGPSC Next Run Checkpoint — 25 October 2026 / P6 U2 T3
+
+- Reconcile fresh GitHub main ref/tree, production checkpoint, latest automation result and `/Mounika/` archives BEFORE selecting a topic. This local checkpoint is not a substitute for the remote truth.
+- New topic this run: **P6 U2 T3**, regional parties, Telugu Jathi and Telangana identity; 11,450-word original manuscript; 23-page PDF; 34 explanatory sections; 30 original explained MCQs; six 200–250-word structured mains answers (202/226/225/235/231/227 words); three original diagrams; 12-entry source audit.
+- Older partial repair: P2 U2 T1, original 1,612-word early Telangana archaeology supplement PDF/Markdown, plus recovered consolidated editable source master; older main PDF unchanged. NOT full academic rewrite.
+- Local QA: 68 PDF/chapter pairs, 75 HTML slots, 353 local links, zero broken; 67 prior PDFs byte-identical; 12 topic SHA256 hashes; ZIP CRC PASS; all 23 PDF pages rendered and contact sheet inspected.
+- Published state AFTER verified remote publication should be **68/75** and **7** first PDFs outstanding; 10 older chapters without consolidated masters; **zero** independent academic approvals.
+- **NEXT if fresh state confirms:** Paper VI Unit II Topic 4 — Liberalisation and Privatisation in the 1990s; regional disparities in power, administration, education and employment; Madiga Dandora and Tudum Debba movements; agrarian crisis and handicraft decline.
+- Source limits: original commission 2022 indexed Item 3, direct PDF 403; original Notification 02/2024 not reopened; detailed ECI 1983 original constituency report, signed G.O.610 and comprehensive historical film/contract datasets not obtained.
+- Preserve all previous assets and 75-slot offline portal. Do exactly ONE NEW topic per hourly run; substantive older repairs where feasible. No invented official PYQs, no academic approvals without independent review. Render/inspect PDF, validate hashes, links and ZIP; publish guarded non-force GitHub commit; verify actual packaging artifact and Pages workflow; save everything to `/Mounika/`.

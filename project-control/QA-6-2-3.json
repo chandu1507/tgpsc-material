@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-25",
+  "stage": "local QA prepublication",
+  "topic": "6-2-3",
+  "new_topic_count_this_run": 1,
+  "original_words": 11450,
+  "pdf_pages": 23,
+  "mcqs": 30,
+  "mains_answer_words": [
+    202,
+    226,
+    225,
+    235,
+    231,
+    227
+  ],
+  "diagrams": 3,
+  "source_register_entries": 12,
+  "manifest_sha256_count": 12,
+  "published_pdf_pairs_in_staging": 68,
+  "html_topic_slots": 75,
+  "html_pages_checked": 77,
+  "local_links_checked": 353,
+  "broken_local_links": 0,
+  "previous_pdf_preservation_count": 67,
+  "delta_zip_crc": "PASS",
+  "diagram_zip_crc": "PASS",
+  "older_repair": {
+    "id": "2-2-1",
+    "supplement_words": 1612,
+    "master_recovered": true,
+    "original_main_pdf_unchanged": true,
+    "substantive_full_rewrite": false
+  },
+  "missing_consolidated_masters": 10,
+  "academically_approved": 0,
+  "unverified_sources": [
+    "Direct commission PDF access 403",
+    "1983 ECI original detailed report unavailable",
+    "G.O.610 original signed order unavailable",
+    "Historical media content sample not audited"
+  ],
+  "remote_git_publication": "PENDING",
+  "packaging_workflow": "PENDING",
+  "pages_deployment": "PENDING",
+  "independent_browser_check": "PENDING"
+}
