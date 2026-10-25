@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-25",
+  "topic_id": "6-3-1",
+  "manuscript_words": 11209,
+  "pdf_pages": 24,
+  "mcqs": 30,
+  "mains_words": [
+    201,
+    209,
+    213,
+    203,
+    207,
+    203
+  ],
+  "original_diagrams": 3,
+  "source_register_entries": 14,
+  "html_pages_checked": 78,
+  "local_links_checked": 375,
+  "broken_links": [],
+  "portal_slots": 75,
+  "published_pdf_pairs": 71,
+  "slots_without_pdf": 4,
+  "academic_approvals": 0,
+  "topic_sha256_entries_verified": 13,
+  "topic_zip_files": 17,
+  "topic_zip_crc_pass": true,
+  "previous_70_pdfs_preserved": true,
+  "older_repair_words": 1176,
+  "older_pdf_preserved": true,
+  "original_commission_pdf_direct_access": "HTTP 403; exact item corroborated by indexed reproduction",
+  "unresolved": "original organisation minutes, complete declaration, meeting attendance, official Pages browser verification, independent academic review"
+}

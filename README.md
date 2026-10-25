@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**70/75 published draft PDF/chapter pairs; 5 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit II / Topic 5 — Quest for Telangana Identity. Original 10,000-word full manuscript, 30 explained original MCQs, six complete structured mains answers and three original diagrams. Original commission-hosted Notification 02/2024 opened; Item 5 wording independently corroborated from indexed reproduction, but direct in-PDF line retrieval blocked. Older Paper II Unit III Topic 1 received a 1,714-word original supplement and recovered editable master. Academic audit pending.
+**71/75 published draft PDF/chapter pairs; 4 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit III / Topic 1 — Public Awakening and Civil Society. Original 11,000+ word manuscript, 30 explained original MCQs, six 200–250-word structured mains answers and three diagrams. Commission PDF direct retrieval blocked; syllabus clause corroborated from indexed reproduction. Paper II Unit III Topic 2 received an original depth supplement and recovered master. Academic review pending.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

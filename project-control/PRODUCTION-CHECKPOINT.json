@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 70,
-  "slots_without_published_pdf": 5,
+  "published_draft_pdf_topics": 71,
+  "slots_without_published_pdf": 4,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 70,
-    "last_reported_topic": "6-2-5",
-    "remaining_without_first_draft": 5,
+    "sequential_drafts_indicated": 71,
+    "last_reported_topic": "6-3-1",
+    "remaining_without_first_draft": 4,
     "independently_verified_as_complete_master": false,
-    "note": "Original 10,000-word P6 U2 T5 published as draft; P2 U3 T1 recovered and supplemented; next P6 U3 T1 if fresh state confirms; academic approvals zero."
+    "note": "Original P6 U3 T1 drafted; commission PDF direct open blocked; zero academic approvals; next P6 U3 T2 if fresh state confirms."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -717,13 +717,13 @@
     },
     {
       "id": "6-3-1",
-      "title": "Topic 1 — official subtopic heading pending verification",
+      "title": "Public Awakening, Civil Society and the Articulation of Telangana Identity (1988–2004)",
       "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 1",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original full chapter published; academic audit and source authentication pending."
     },
     {
       "id": "6-3-2",

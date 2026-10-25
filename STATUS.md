@@ -1,13 +1,13 @@
 # TGPSC Group I — production status (25 October 2026)
 
 - Planned syllabus slots: **75**
-- Published draft PDF/chapter pairs: **70**
-- First PDFs remaining: **5**
+- Published draft PDF/chapter pairs: **71**
+- First PDFs remaining: **4**
 - Independently academically approved: **0**
-- Older published chapters lacking consolidated editable Markdown: **8** (after Paper II Unit III Topic 1 recovery)
+- Older published chapters lacking consolidated editable Markdown: **7** (after Paper II Unit III Topic 2 recovery)
 
-Latest: Paper VI / Unit II / Topic 5 — Quest for Telangana identity, intellectual debates, political efforts and popular unrest. Original 10,000-word manuscript, 21-page PDF, 30 explained MCQs, six complete 200–250-word mains answers, three original diagrams and source audit. Original Notification 02/2024 directly opened; precise Item 5 wording corroborated from indexed transcription because subsequent in-PDF retrieval returned HTTP 403.
+Latest: Paper VI Unit III Topic 1 — Public awakening, civic organisations, Bhuvanagiri, Warangal, Vidyavanthula Vedika, Congress and BJP. Original manuscript, complete PDF, 30 original explained MCQs, six 200–250-word mains answers, three diagrams and source audit. Original Notification 02/2024 direct retrieval blocked; exact wording corroborated from indexed reproduction.
 
-Older Paper II Unit III Topic 1 received a substantive 1,714-word monsoon, drought, flood, energy, EEZ and river-governance supplement plus consolidated editable master. Original older PDF unchanged; not a full textbook rewrite.
+Older Paper II Unit III Topic 2 received a substantive explanatory supplement and recovered consolidated editable master; original older PDF unchanged.
 
-All 70 published drafts require independent academic review; no official PYQs claimed without original commission paper and question number.
+All 71 drafts remain unapproved pending independent academic review.
