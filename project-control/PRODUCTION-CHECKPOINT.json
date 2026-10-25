@@ -9,7 +9,7 @@
     "last_reported_topic": "6-3-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "75 first-draft PDF/chapter pairs; ongoing focused repairs including Paper II Unit II Topic 1. Independent academic approvals remain ZERO. No 76th topic."
+    "note": "75 published first-draft PDF/chapter pairs; latest gap-focused archival chronology repair Paper II Unit II Topic 3. Independent academic approvals remain ZERO. No 76th topic."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -90,8 +90,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "production_review": "third_gap_focused_archival_chronology_repair_published_academic_audit_pending",
+      "notes": "Original older PDF and prior tenure/Vetti supplement preserved. 26 Oct 2026: new original archival chronology, uneven-modernisation research, 30 explained MCQs, six structured 200-250-word mains answers, three SVG diagrams, dated source audit and expanded consolidated editable master. Primary treaty clauses, 1857 police files and village-level reports not fully retrieved. NOT academically approved."
     },
     {
       "id": "2-2-4",

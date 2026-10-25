@@ -23,3 +23,10 @@
 
 - [x] Added precise evidence matrix and named facts under the upgraded mains standard.
 - [ ] Primary historical sources and source-specific page citations still require full check.
+## 26 October 2026: archival chronology supplement
+
+- Added 18 substantive source-critical sections and 30 new original explained practice MCQs, separate from the eight pre-existing questions.
+- Added six structured mains answers of 201/206/212/205/207/206 words and three SVG diagrams.
+- 16 dated source-audit entries distinguish official retrospectives, archive catalogues and missing originals.
+- Original topic PDF and earlier tenure/Vetti supplement unchanged.
+- External academic approval remains **NOT APPROVED**. Original treaty clauses, 1857 police records and district-level social statistics still require review.

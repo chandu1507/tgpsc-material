@@ -1,0 +1,44 @@
+{
+  "topic_id": "2-2-3",
+  "original_pdf_sha256": "ddcc92da60cecb48d3676c1f85350b3462e5c89e197ef53d9c13746236732d79",
+  "new_paths": {
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/source/depth-repair-archival-chronology-institutions-2026-10-26.md": {
+      "sha256": "84f710b5d874c9666962eb8b41273fd4604ce45f11d005a406f44eddb40e6baa",
+      "bytes": 54105
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/source/depth-repair-archival-chronology-institutions-2026-10-26.pdf": {
+      "sha256": "788c9bb99b5658f60d13365565482d34afe6141b625ecaaf879fc2b247fc8b1d",
+      "bytes": 71639
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/index.html": {
+      "sha256": "07e87da2e354ef9809a2fd78ad7e2f1a0f9c0c898c8326db0694f0ce53924ce5",
+      "bytes": 60973
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/source/complete-notes.md": {
+      "sha256": "b934d8f5b5b7d641a95ec62683cdec7ccf3131b8cefca1eee253f2225cd90e65",
+      "bytes": 120508
+    },
+    "project-control/PRODUCTION-CHECKPOINT.json": {
+      "sha256": "db674dcd9630b4b510f3c13a5d92b6876ff736a38b9f462c679466925ad9f81a",
+      "bytes": 45494
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/source/quality-audit.md": {
+      "sha256": "f20239bffb855aea9be48892cf39ef675137c0ef32f95a3cf8fefd1eb1594c9b",
+      "bytes": 1951
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/source/diagram-asafjahi-paramountcy.svg": {
+      "sha256": "3066614b203970f931d93f07dbe9f0e0fdfc91df533c431a2a3d40621a9fbd49",
+      "bytes": 1781
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/source/diagram-asafjahi-milestones.svg": {
+      "sha256": "d686dbf9f4df831c220da1417a966289e5209fe1986489248723b5d15028374b",
+      "bytes": 1297
+    },
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 3/source/diagram-asafjahi-uneven-development.svg": {
+      "sha256": "c72e19e028814080d3d8310658573d82e74cd13219659a01b7294539b7a6f206",
+      "bytes": 1659
+    }
+  },
+  "academic_approval": false,
+  "publication_target": "guarded GitHub main fast-forward; verification pending"
+}
