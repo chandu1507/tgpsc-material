@@ -9,7 +9,7 @@
     "last_reported_topic": "6-3-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "75 first draft PDFs published. Paper III Unit I Topic 3 recovered and substantively expanded on 2026-10-25; two missing masters remain (Topics 4, 5). Academic approvals remain zero."
+    "note": "All 75 first-draft PDFs preserved. Paper III Unit I Topic 4 recovered and substantively expanded with a separate 21-page supplement on 25 October 2026; only Topic 5 lacks a consolidated editable master. Academic approvals remain zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -811,5 +811,19 @@
       "3-1-4",
       "3-1-5"
     ]
+  },
+  "quality_repair_2026_10_25_latest": {
+    "topic": "3-1-4",
+    "master_recovered": true,
+    "supplement_words": 4439,
+    "supplement_pdf_pages": 21,
+    "original_pdf_sha256_unchanged": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3",
+    "original_explained_mcqs": 30,
+    "six_revised_mains_answers_word_range": "226-249",
+    "remaining_missing_masters": [
+      "3-1-5"
+    ],
+    "academically_approved": 0,
+    "independent_review": "pending"
   }
 }

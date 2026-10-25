@@ -184,5 +184,15 @@
       "3-1-5"
     ],
     "academically_approved": 0
+  },
+  "quality_repair_2026_10_25_latest": {
+    "topic": "3-1-4",
+    "master_recovered": true,
+    "original_pdf_unchanged": true,
+    "remaining_missing_masters": [
+      "3-1-5"
+    ],
+    "academically_approved": 0,
+    "note": "Original 1988 Act, DGHS and Nalgonda official pages used; no independent academic audit."
   }
 }
