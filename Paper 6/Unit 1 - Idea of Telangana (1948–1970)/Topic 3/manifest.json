@@ -1,0 +1,18 @@
+{
+  "topic": "6-1-3",
+  "status": "draft_not_approved",
+  "generated": "2026-10-25",
+  "file_sha256": {
+    "complete-notes.pdf": "c4068779bba807d7acb05ef6891353c75e4ffedaf08ed4eeff903c17283b3052",
+    "index.html": "3b013c63cb9191a4208c06e1ad4d2f0f52189567ea838eb202880a5e753c66ca",
+    "README.md": "483f49182c37dfb4e0b8a4a2e944962e166e4cc425bd2248efeddf4761d90c50",
+    "source/complete-notes.md": "f6e069e6e0fe68892c00115c216e171dbe9dd99a1e46ee14e465c2d01f1eea1e",
+    "source/answer-blueprints.md": "685bb3d7daf04933ba5910a516e45651d64a6ffe8f3e5fb8dbdd241d447a043b",
+    "source/quick-revision.md": "3464b5c72272fd846d7400859cedef169d18fd7c905426692f9453ceb409bb6c",
+    "source/references.md": "85f66546a5402a65619ffe666c665a9ee8f2feed1deebf9e9d466da76df7ecb4",
+    "source/original-practice.md": "3edf315dc6db5e70c9eacb7ca9515d1b26f1c72a6bc01d79556a70b8d0eaf90d",
+    "diagrams/safeguards-chain.png": "63eaf704fe730cfa9df52983f44ce0d668adddb97c1d0c926d9f6aed7df9de83",
+    "diagrams/development-matrix.png": "6690c7203249af7cfceb342763759441e8bf0559b45376f8c4bc4c8bdd569273",
+    "diagrams/timeline.png": "4280d4c5dc39fb5b55577879322252099794dc871d0456e11412c2bd58ca9949"
+  }
+}

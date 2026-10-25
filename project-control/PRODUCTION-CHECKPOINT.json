@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 62,
-  "slots_without_published_pdf": 13,
+  "published_draft_pdf_topics": 63,
+  "slots_without_published_pdf": 12,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 62,
-    "last_reported_topic": "6-1-2",
-    "remaining_without_first_draft": 13,
+    "sequential_drafts_indicated": 63,
+    "last_reported_topic": "6-1-3",
+    "remaining_without_first_draft": 12,
     "independently_verified_as_complete_master": false,
-    "note": "62 published drafts; academic approval zero; older Paper II repairs incomplete; next topic P6 U1 T3 pending fresh verification."
+    "note": "63 published drafts; zero academic approvals. P6 U1 T3 produced as original chapter. 15 older chapters still missing consolidated editable masters after P2 U2 T3 recovery. Next P6 U1 T4 subject to fresh main verification."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -637,13 +637,13 @@
     },
     {
       "id": "6-1-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Formation of Andhra Pradesh, 1956: Gentlemen’s Agreement, Telangana Regional Committee, migration and development",
       "path": "Paper 6/Unit 1 - Idea of Telangana (1948–1970)/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 11,000+ word manuscript, 29-page PDF, 30 original MCQs, six structured mains answers, three diagrams; 2024 commission PDF direct access returned 502; independent academic review pending."
     },
     {
       "id": "6-1-4",

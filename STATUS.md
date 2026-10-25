@@ -1,18 +1,1 @@
-## Production update â€” 25 October 2026
-
-62/75 published draft PDF/chapter pairs; 13 first PDFs pending; 0 independently academically approved. Paper VI Unit I Topic 2 published by guarded non-force fast-forward commit b5b88f25245aad5682ccf59c5513ce3dc1366de7; packaging workflow 40140789465 and Pages workflow 40140804348 succeeded. Older Paper II Unit II Topic 5 has a new original 1,235-word partial depth repair and consolidated editable master; original PDF preserved. Original 1952 inquiry report still not inspected.
-
-# TGPSC Group I publication status â€” 25 October 2026
-
-| Measure | Reconciled state |
-|---|---:|
-| Planned topic slots | 75 |
-| Published draft PDF/chapter pairs | **61** |
-| Slots without first published PDF | **14** |
-| Independently academically approved | **0** |
-
-Latest draft: **Paper VI / Unit I / Topic 1 â€” Historical Background: Telangana Identity, Salar Jung Reforms and the Mulki Question**. Original 12,769-word manuscript, 29-page complete PDF, 23 substantive sections, 30 explained original MCQs, six complete 200â€“250-word mains answers, three original diagrams and eleven dated source-register entries. Original commission-hosted Notification 02/2024 item 1 wording authenticated 25 October 2026.
-
-All older published PDFs preserved. The 75-slot portal remains navigable. No draft is academically approved. Older Paper II drafts remain shallow, and one older source master recovered and a 1,437-word original repair added; independent content audits remain open.
-
-**Publication verification:** guarded GitHub publication succeeded; remote PDF blob verified; packaging workflow 40136526756 and actual artifact 12577110427 verified (1020 unique files, 61 PDF pairs, 75 HTML slots, all previous 60 PDFs unchanged); follow-up Pages workflow 40136543402 succeeded. Independent live-browser check remains unavailable.
+N«z«²×~)^­çŞ­éÜz+'¢×.®·§¶\¯ŠÈ›•å,yø¥zËj·!¢·â•ë%ŠËm¢·ŠÇ(½êí…çâ•ëazzŞ¶¼°ŠØZ­ën®w­çâvŠßŠW¢

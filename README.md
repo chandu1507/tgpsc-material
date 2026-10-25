@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**62/75 published draft PDF/chapter pairs; 13 without first published PDF; zero independently academically approved.** Latest new topic: [Paper VI / Unit I / Topic 2 — Hyderabad State in Independent India](Paper%206/Unit%201%20-%20Idea%20of%20Telangana%20%281948%E2%80%931970%29/Topic%202/index.html). Original 10,944-word manuscript, 23-page PDF, 30 explained original MCQs, six complete structured mains models, three original diagrams, eleven-source audit. Source recovery and 1,235-word depth supplement for older Paper II Unit II Topic 5; original older PDF preserved. Academic audit remains pending. Publication and packaging verification details are recorded in project-control/PRODUCTION-CHECKPOINT.json.
+**63/75 published draft PDF/chapter pairs; 12 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit I / Topic 3 — Formation of Andhra Pradesh, 1956, safeguards, Regional Committee and post-1970 development. Original 11,662-word manuscript, 29-page PDF, 30 original explained MCQs, six complete 200–250-word mains models and three diagrams. Older Paper II Unit II Topic 3 received a 1,499-word partial repair and recovered consolidated editable master; original PDF preserved. Academic audit remains pending.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 
