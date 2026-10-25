@@ -1,0 +1,30 @@
+{
+  "topic_id": "2-1-1",
+  "date": "2026-10-25",
+  "base_commit": "710427aa211a0c56bb7cbfb66ed6e7888d5fbc47",
+  "original_pdf_sha256": "e2ff8daae5db64520648bedca60ed4658d8cd43980c447c8c9d2664293665009",
+  "original_pdf_unchanged": true,
+  "published_pdf_chapter_pairs": 75,
+  "html_topic_slots": 75,
+  "html_pages_checked": 78,
+  "local_links_checked": 411,
+  "broken_links": 0,
+  "repair_pdf_pages": 21,
+  "original_mcqs": 30,
+  "mains_word_counts": [
+    201,
+    212,
+    204,
+    211,
+    206,
+    221
+  ],
+  "academic_approvals": 0,
+  "independent_academic_audit": "pending",
+  "evidence_gaps": [
+    "Original commission PDF direct reopen not authenticated",
+    "Excavation diaries and original epigraphic corpora not retrieved",
+    "Independent historian review outstanding"
+  ],
+  "publication_note": "Substantive original supplement; not a full academic rewrite."
+}
