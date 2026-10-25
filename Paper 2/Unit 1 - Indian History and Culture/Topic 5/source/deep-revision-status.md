@@ -1,0 +1,1 @@
+Consolidated editable master recovered on 25 October 2026; new 1,555-word Gandhi–Irwin/RTC/Poona/Partition supplement in Markdown and PDF. Original chapter PDF preserved unchanged. Partial repair, independent academic review pending.

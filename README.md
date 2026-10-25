@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**63/75 published draft PDF/chapter pairs; 12 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit I / Topic 3 — Formation of Andhra Pradesh, 1956, safeguards, Regional Committee and post-1970 development. Original 11,662-word manuscript, 29-page PDF, 30 original explained MCQs, six complete 200–250-word mains models and three diagrams. Older Paper II Unit II Topic 3 received a 1,499-word partial repair and recovered consolidated editable master; original PDF preserved. Academic audit remains pending.
+**67/75 published draft PDF/chapter pairs; 8 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit II / Topic 2 — Naxalite movement and Adivasi resistance; original full study manuscript, 30 explained MCQs, six complete mains answers and three diagrams. Older Paper II Unit I Topic 5 received a substantive Gandhi–Irwin Pact supplement and recovered consolidated master; academic audit pending.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

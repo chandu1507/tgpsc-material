@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 66,
-  "slots_without_published_pdf": 9,
+  "published_draft_pdf_topics": 67,
+  "slots_without_published_pdf": 8,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 66,
-    "last_reported_topic": "6-2-1",
-    "remaining_without_first_draft": 9,
+    "sequential_drafts_indicated": 67,
+    "last_reported_topic": "6-2-2",
+    "remaining_without_first_draft": 8,
     "independently_verified_as_complete_master": false,
-    "note": "66 published drafts, zero academic approvals; P6 U2 T1 new original chapter; P2 U1 T4 consolidated master and 2003-word depth supplement; 12 older chapters remain without consolidated editable masters. Next P6 U2 T2 subject to fresh verification."
+    "note": "P6 U2 T2 new original 9775-word draft; P2 U1 T5 consolidated master and 1555-word depth supplement; 11 older chapters lack consolidated editable masters. Next P6 U2 T3 subject to fresh verification."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -679,11 +679,11 @@
       "id": "6-2-2",
       "title": "Topic 2 — official subtopic heading pending verification",
       "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original full English chapter published 25 October 2026; 30 original explained MCQs, six 200–250-word mains answers, three diagrams, 12-source audit. Commission original 2024 syllabus direct reinspection pending; independent academic review pending."
     },
     {
       "id": "6-2-3",
