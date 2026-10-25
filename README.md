@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**69/75 published draft PDF/chapter pairs; 6 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit II / Topic 4 — Liberalisation, Madiga Dandora, Tudum Debba, agrarian crisis and handicraft decline. Original 11,482-word full manuscript, 30 explained MCQs, six complete structured mains answers and three diagrams. The original commission-hosted Notification 02/2024 was directly opened and authenticated. Older Paper II Unit II Topic 2 received a 1,303-word original supplement and recovered editable master; academic audit pending.
+**70/75 published draft PDF/chapter pairs; 5 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit II / Topic 5 — Quest for Telangana Identity. Original 10,000-word full manuscript, 30 explained original MCQs, six complete structured mains answers and three original diagrams. Original commission-hosted Notification 02/2024 opened; Item 5 wording independently corroborated from indexed reproduction, but direct in-PDF line retrieval blocked. Older Paper II Unit III Topic 1 received a 1,714-word original supplement and recovered editable master. Academic audit pending.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

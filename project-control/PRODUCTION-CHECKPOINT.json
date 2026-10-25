@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 69,
-  "slots_without_published_pdf": 6,
+  "published_draft_pdf_topics": 70,
+  "slots_without_published_pdf": 5,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 69,
-    "last_reported_topic": "6-2-4",
-    "remaining_without_first_draft": 6,
+    "sequential_drafts_indicated": 70,
+    "last_reported_topic": "6-2-5",
+    "remaining_without_first_draft": 5,
     "independently_verified_as_complete_master": false,
-    "note": "Original P6 U2 T4; original commission-hosted Notification 02/2024 directly opened; P2 U2 T2 source consolidation and original partial supplement; academic approvals remain zero. Next P6 U2 T5 subject to fresh reconciliation."
+    "note": "Original 10,000-word P6 U2 T5 published as draft; P2 U3 T1 recovered and supplemented; next P6 U3 T1 if fresh state confirms; academic approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -707,13 +707,13 @@
     },
     {
       "id": "6-2-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Quest for Telangana Identity, Intellectual Debates, Political Efforts and Popular Unrest",
       "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
+      "notes": "10,000-word original English draft, 21-page PDF, 30 explained original MCQs, six 200–250-word mains answers, three diagrams, dated evidence audit; commission original opened but precise Item 5 line only corroborated from indexed transcription. Independent audit pending."
     },
     {
       "id": "6-3-1",

@@ -1,0 +1,34 @@
+{
+  "topic_id": "6-2-5",
+  "created": "2026-10-25",
+  "title": "Quest for Telangana Identity, Intellectual Debates, Political Efforts and Popular Unrest",
+  "words": 10000,
+  "pdf_pages": 21,
+  "mcq_count": 30,
+  "mains_model_count": 6,
+  "mains_answer_words": [
+    204,
+    215,
+    207,
+    211,
+    212,
+    219
+  ],
+  "diagrams": 3,
+  "academic_status": "not_approved",
+  "syllabus_authentication": "Original commission-hosted 50-page Notification 02/2024 opened; Item 5 wording corroborated from indexed reproduction; direct in-PDF Item 5 extraction blocked by 403",
+  "sha256": {
+    "index.html": "276c0e1ea3a14fcccb1b1422e5e58a92f5adf032e87f0f4c577b67b14a48d54b",
+    "README.md": "0430e5a2a74ecfd2b0a4df547729db46e71cbc38f373dea951ab735489bafd7a",
+    "complete-notes.pdf": "bf09f676bcf104baeca701927081cc59b15755467bf112b54e321c656499009b",
+    "source/quick-revision.md": "9a205f1a5dfa85c234014d6d4afa9c2aafb70f7ec1e53531fbeebd472a477580",
+    "source/complete-notes.md": "c8fbf94f7755bb173e541d20d272ad5d5cc182e73ace352e56979fdb5efe88b6",
+    "source/syllabus-index.md": "00ff00796b4bbf6077c90ede633495956260a26a17cf3bf530f79eaa9197ce14",
+    "source/original-practice.md": "540121455d733bfb3df87d1420e43f0c842f0925e71af218dbfb815b2814a56e",
+    "source/references.md": "aa01ee3ba85196571fb80a40588f5957925bbfad2c87e3564883daee28c1797f",
+    "source/answer-blueprints.md": "4b248232713041cd36b3911a3dc134765b2849841344d5bfb66877231d24d1c4",
+    "diagrams/identity-four-pillars.png": "5b95e4c3a14efe3080db5460611a0f2ebfc9a3710f491ac76f80ab18c88d0e2e",
+    "diagrams/identity-to-mobilisation.png": "c93e66be7a382d5a0bb1ad261dac467f30e86f8b7437949b63d05de550768a57",
+    "diagrams/grievance-evidence-remedy.png": "753889633a252cf4435fdf62225e472b7c3541891eba116c6a3804527f18626b"
+  }
+}
