@@ -9,7 +9,7 @@
     "last_reported_topic": "6-3-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "All 75 first PDFs published as drafts; independent academic review ZERO. Continue substantive repairs and missing masters, do not author a 76th topic."
+    "note": "75 first draft PDFs published. Paper III Unit I Topic 3 recovered and substantively expanded on 2026-10-25; two missing masters remain (Topics 4, 5). Academic approvals remain zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -191,7 +191,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Consolidated editable master recovered; original 4,530-word 9-page depth repair and 15 additional original explained MCQs published; older PDF preserved; NOT academically approved."
     },
     {
       "id": "3-1-4",
@@ -771,8 +771,8 @@
     "archive": "TGPSC_GROUP1_VERIFIED_ACCESSIBLE_SUBSET_10_TOPICS.zip",
     "is_full_master": false
   },
-  "next_sequential_topic": "6-1-3",
-  "next_new_topic": "6-1-3",
+  "next_sequential_topic": null,
+  "next_new_topic": null,
   "latest_verified_publication": {
     "topic_id": "6-1-2",
     "topic_title": "Hyderabad State in Independent India: Mulki Agitation, SRC and Smaller States",
@@ -795,5 +795,21 @@
     "outer_inner_crc": "passed",
     "unique_archive_entries": 1034,
     "changed_files_byte_identical": 19
+  },
+  "latest_quality_repair": {
+    "topic_id": "3-1-3",
+    "repair_date": "2026-10-25",
+    "original_pdf_unchanged": true,
+    "repair_words": 4530,
+    "recovered_master_words": 15025,
+    "added_explained_mcqs": 15,
+    "total_original_explained_mcqs": 30,
+    "original_mains_answers_preserved": 8,
+    "repair_pdf_pages": 9,
+    "academic_status": "not_approved",
+    "remaining_missing_editable_masters": [
+      "3-1-4",
+      "3-1-5"
+    ]
   }
 }
