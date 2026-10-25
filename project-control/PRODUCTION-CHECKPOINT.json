@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 71,
-  "slots_without_published_pdf": 4,
+  "published_draft_pdf_topics": 72,
+  "slots_without_published_pdf": 3,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 71,
-    "last_reported_topic": "6-3-1",
-    "remaining_without_first_draft": 4,
+    "sequential_drafts_indicated": 72,
+    "last_reported_topic": "6-3-2",
+    "remaining_without_first_draft": 3,
     "independently_verified_as_complete_master": false,
-    "note": "Original P6 U3 T1 drafted; commission PDF direct open blocked; zero academic approvals; next P6 U3 T2 if fresh state confirms."
+    "note": "Original P6 U3 T2 published; primary-source gaps and zero independent academic approvals; next P6 U3 T3 if fresh state confirms."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -727,13 +727,13 @@
     },
     {
       "id": "6-3-2",
-      "title": "Topic 2 — official subtopic heading pending verification",
+      "title": "Establishment of TRS, Electoral Realignment, Employment Committees and the 2009 Telangana Turning Point",
       "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 2",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 11k+ word English manuscript, full PDF, 30 original MCQs, six complete mains answers, three diagrams; independent source/academic review pending."
     },
     {
       "id": "6-3-3",
