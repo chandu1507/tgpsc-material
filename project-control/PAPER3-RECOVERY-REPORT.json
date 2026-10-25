@@ -194,5 +194,21 @@
     ],
     "academically_approved": 0,
     "note": "Original 1988 Act, DGHS and Nalgonda official pages used; no independent academic audit."
-  }
+  },
+  "substantive_repair_runs": [
+    {
+      "topic_id": "3-1-5",
+      "date": "2026-10-25",
+      "supplement_words": 5602,
+      "consolidated_master_words": 14855,
+      "new_pdf_pages": 18,
+      "original_mcqs": 30,
+      "structured_mains_answers": 6,
+      "diagrams": 3,
+      "original_pdf_preserved": true,
+      "academic_approval": false,
+      "status": "substantive_partial_repair_not_full_rewrite"
+    }
+  ],
+  "paper3_unit1_missing_consolidated_masters": []
 }
