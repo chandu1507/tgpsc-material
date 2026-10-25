@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "6-3-5",
+    "last_reported_topic": "2-2-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "75 published first-draft PDF/chapter pairs; latest gap-focused archival chronology repair Paper II Unit II Topic 3. Independent academic approvals remain ZERO. No 76th topic."
+    "note": "75 published first-draft pairs, Paper II Unit II Topic 4 source-critical gap repair; zero independent academic approvals; no 76th topic."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -100,8 +100,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "production_review": "gap_focused_press_women_civic_liberties_repair_published_academic_audit_pending",
+      "notes": "Original older PDF and prior libraries/Adi-Hindu and Vetti/Jogini/Devadasi supplements preserved. 26 Oct 2026 original 3,414-word gap-focused research, 19-page PDF, 30 explained original practice MCQs, six complete structured 200–250-word mains answers, three SVG diagrams, dated 12-entry evidence register, consolidated provenance-labelled editable master. Primary conference minutes and Hyderabad State government orders not retrieved. NOT independently academically approved."
     },
     {
       "id": "2-2-5",

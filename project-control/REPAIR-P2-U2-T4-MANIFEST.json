@@ -1,0 +1,49 @@
+{
+  "topic_id": "2-2-4",
+  "title": "Socio-Cultural Awakening in Telangana",
+  "date": "2026-10-26",
+  "academic_approval": "none",
+  "repair_kind": "partial source-critical gap repair, not replacement of original PDF",
+  "original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
+  "original_75_pdfs_preserved": true,
+  "new_pdf_pages": 19,
+  "new_explanatory_words": 3414,
+  "original_explained_mcqs": 30,
+  "structured_mains_words": [
+    212,
+    216,
+    224,
+    227,
+    226,
+    223
+  ],
+  "svg_diagrams": 3,
+  "evidence_entries": 12,
+  "publication_paths": [
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/index.html",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/complete-notes.md",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/depth-repair-press-women-civil-liberties-2026-10-26.md",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/depth-repair-press-women-civil-liberties-2026-10-26.pdf",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/original-explained-mcqs-press-women-2026-10-26.md",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/structured-mains-press-women-2026-10-26.md",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/evidence-register-press-women-2026-10-26.md",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/diagrams/01-institutional-timelines.svg",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/diagrams/02-overlapping-publics.svg",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/diagrams/03-evidence-ladder.svg",
+    "project-control/PRODUCTION-CHECKPOINT.json",
+    "project-control/REPAIR-P2-U2-T4-MANIFEST.json"
+  ],
+  "sha256": {
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/index.html": "2b0279148fe4deaefe5a2190e70b5c8cdf916a549f3091acf64bebc75b559fd1",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/complete-notes.md": "0b36e9ef4189d21bd38ec3228f7a8aa2dd756b4b3b9a499a68ac2105bd5f717a",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/depth-repair-press-women-civil-liberties-2026-10-26.md": "a3b3f9f69a15413da5a4c74fd532e9f6ed004dd2258223ecd0acfd8334a633d6",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/depth-repair-press-women-civil-liberties-2026-10-26.pdf": "8c40ab1b414a5b8a73f7566119e5ece59309c5774301d6d66b6b70f38819e238",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/original-explained-mcqs-press-women-2026-10-26.md": "020ddf5a87b791d5d410eddc924254971b4d2eab6774750ac1de356140fceeee",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/structured-mains-press-women-2026-10-26.md": "b042b63113c54e3c560951d93e05ed7d5fc892d19690cfc1a99e76fd3b97151d",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/evidence-register-press-women-2026-10-26.md": "c2e20e7e381c13b7053611f085e4594058ef61e03faaca6af53c266de2ca7903",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/diagrams/01-institutional-timelines.svg": "82c82c3efab4c89ce53cd9c6849113fa3404b92deb0151f63e98fbca496b3233",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/diagrams/02-overlapping-publics.svg": "fcaeda6f7b2b6d9a5187a0c00da4e2b2194b39a756811da4ae70a05071333033",
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/diagrams/03-evidence-ladder.svg": "6a7602bc897d74f25d77bf50c528406f277bf46fa2e41e2a568e4c58ca785c1a",
+    "project-control/PRODUCTION-CHECKPOINT.json": "7f1900f47a4628b438ab5ebe573c64f09b8f8ab7451d86574ac7a3ae2e6a32e2"
+  }
+}
