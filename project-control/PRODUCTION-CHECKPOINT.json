@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 72,
-  "slots_without_published_pdf": 3,
+  "published_draft_pdf_topics": 73,
+  "slots_without_published_pdf": 2,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 72,
-    "last_reported_topic": "6-3-2",
-    "remaining_without_first_draft": 3,
+    "sequential_drafts_indicated": 73,
+    "last_reported_topic": "6-3-3",
+    "remaining_without_first_draft": 2,
     "independently_verified_as_complete_master": false,
-    "note": "Original P6 U3 T2 published; primary-source gaps and zero independent academic approvals; next P6 U3 T3 if fresh state confirms."
+    "note": "Original P6 U3 T3 published; all draft chapters require independent academic audit. Next P6 U3 T4 after fresh reconciliation."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -737,13 +737,13 @@
     },
     {
       "id": "6-3-3",
-      "title": "Topic 3 — official subtopic heading pending verification",
+      "title": "Role of Political Parties, Dalit-Bahujan Sanghams, JACs and Popular Protests",
       "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 3",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
+      "notes": "Original 10,509-word English Markdown, 23-page full PDF, 35 substantive explanatory sections, six applied cases, 30 original explained MCQs, six 200–250-word structured mains answers, three diagrams; exact syllabus wording directly authenticated from Notification 02/2024; historical evidence gaps disclosed."
     },
     {
       "id": "6-3-4",

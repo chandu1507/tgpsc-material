@@ -1,0 +1,20 @@
+{
+  "topic_id": "6-3-3",
+  "date": "2026-10-25",
+  "independent_academic_approval": false,
+  "files": {
+    "README.md": "de74a4ed1a06b190ffbeb4c63a3ffe4a8f8db80852e36cd8723ff34b79170c73",
+    "complete-notes.pdf": "413f9dccb2974da2fc4c09479603ed2a63fc1a0deb2a4286bac13a1cd770a94b",
+    "diagrams/evidence-and-ethics.png": "c8f19b17d46bfe63e300c1a80b1f1b335e332e5def95f69b30c18d3309c48556",
+    "diagrams/movement-federation.png": "d7137f6a91b489ff26b848f45364e7fe836fef0e229a3f1016c8de24082315fd",
+    "diagrams/party-positions-2012.png": "4f0d227c122120af05a5a8e2e1cc76d0795066c72068251616be9fdfcc1fdc18",
+    "index.html": "66864f6247c533e6488e2e778b53770aa17ba023ee9a0a2f7531ca61156869e6",
+    "source/answer-blueprints.md": "0ba0c1ecffe60f7e2c8910f2d9a238cc763147a75fb0d60ac3dddbce472deab1",
+    "source/complete-model-answers.md": "5c26058c69aa2bc454d9a3bcfa71f2735c7afbc128f33f7f53a8557b1dda0cd5",
+    "source/complete-notes.md": "2ed6217e040e9d12072961f4b423abdcf9c44c826bf427f856fbf78b2ea1a5c3",
+    "source/original-practice.md": "99a4d24eed2df73e4bc2b12863f24a5da234fbd3f178f03a13b4c01533bf1299",
+    "source/quick-revision.md": "ff4c4a646da1176b49e848b838724afc421e7bf5266c64ef624e1edf019f1157",
+    "source/references.md": "ef642f1267383047597edeb759936d9d6d5b3141f9acdb61c3aaedbe9ff353e7",
+    "source/syllabus-index.md": "63ceebc365e4b14ab6ccddef07e885083a1906400196a22856d10f1eea61447f"
+  }
+}
