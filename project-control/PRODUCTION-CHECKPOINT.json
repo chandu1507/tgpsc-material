@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 74,
-  "slots_without_published_pdf": 1,
+  "published_draft_pdf_topics": 75,
+  "slots_without_published_pdf": 0,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 74,
-    "last_reported_topic": "6-3-4",
-    "remaining_without_first_draft": 1,
+    "sequential_drafts_indicated": 75,
+    "last_reported_topic": "6-3-5",
+    "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "P6 U3 T4 original draft prepared and published; next P6 U3 T5 if fresh main confirms. All 74 chapters need independent academic audit."
+    "note": "All 75 first PDFs published as drafts; independent academic review ZERO. Continue substantive repairs and missing masters, do not author a 76th topic."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -757,13 +757,13 @@
     },
     {
       "id": "6-3-5",
-      "title": "Topic 5 — official subtopic heading pending verification",
+      "title": "Parliamentary Process, Reorganisation Act and First Telangana Government",
       "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 5",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Full original draft published; independent academic review required."
     }
   ],
   "local_accessible_subset": {
