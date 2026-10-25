@@ -6,7 +6,7 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 ## Current publication checkpoint — 25 October 2026
 
-**67/75 published draft PDF/chapter pairs; 8 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit II / Topic 2 — Naxalite movement and Adivasi resistance; original full study manuscript, 30 explained MCQs, six complete mains answers and three diagrams. Older Paper II Unit I Topic 5 received a substantive Gandhi–Irwin Pact supplement and recovered consolidated master; academic audit pending.
+**69/75 published draft PDF/chapter pairs; 6 without first published PDF; zero independently academically approved.** Latest: Paper VI / Unit II / Topic 4 — Liberalisation, Madiga Dandora, Tudum Debba, agrarian crisis and handicraft decline. Original 11,482-word full manuscript, 30 explained MCQs, six complete structured mains answers and three diagrams. The original commission-hosted Notification 02/2024 was directly opened and authenticated. Older Paper II Unit II Topic 2 received a 1,303-word original supplement and recovered editable master; academic audit pending.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 

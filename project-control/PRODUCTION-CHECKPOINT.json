@@ -1,15 +1,15 @@
 {
   "updated": "2026-10-25",
   "total_topics": 75,
-  "published_draft_pdf_topics": 68,
-  "slots_without_published_pdf": 7,
+  "published_draft_pdf_topics": 69,
+  "slots_without_published_pdf": 6,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
-    "sequential_drafts_indicated": 68,
-    "last_reported_topic": "6-2-3",
-    "remaining_without_first_draft": 7,
+    "sequential_drafts_indicated": 69,
+    "last_reported_topic": "6-2-4",
+    "remaining_without_first_draft": 6,
     "independently_verified_as_complete_master": false,
-    "note": "P6 U2 T3 new original textbook draft; P2 U2 T1 source consolidation and 1,612-word supplement; academic approvals remain zero. Next P6 U2 T4 subject to fresh verification."
+    "note": "Original P6 U2 T4; original commission-hosted Notification 02/2024 directly opened; P2 U2 T2 source consolidation and original partial supplement; academic approvals remain zero. Next P6 U2 T5 subject to fresh reconciliation."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -697,13 +697,13 @@
     },
     {
       "id": "6-2-4",
-      "title": "Topic 4 — official subtopic heading pending verification",
+      "title": "Liberalisation, Regional Disparities, Madiga Dandora, Tudum Debba and Rural Crisis",
       "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 4",
-      "chapter_published": false,
-      "pdf_published": false,
+      "chapter_published": true,
+      "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Reserved slot; complete published PDF not present."
+      "notes": "Original 11,482-word full manuscript; 24-page PDF, 30 original explained MCQs, six 200–250-word mains answers, three original diagrams; independent academic audit pending."
     },
     {
       "id": "6-2-5",

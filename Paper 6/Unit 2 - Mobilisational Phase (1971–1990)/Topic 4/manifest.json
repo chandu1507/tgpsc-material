@@ -1,0 +1,34 @@
+{
+  "topic_id": "6-2-4",
+  "created": "2026-10-25",
+  "title": "Liberalisation, Regional Inequalities, Madiga Dandora, Tudum Debba, Agrarian Crisis and Handicraft Decline",
+  "words": 11482,
+  "pdf_pages": 24,
+  "mcq_count": 30,
+  "mains_model_count": 6,
+  "mains_answer_words": [
+    217,
+    203,
+    219,
+    224,
+    221,
+    211
+  ],
+  "diagrams": 3,
+  "academic_status": "not_approved",
+  "syllabus_authentication": "Directly opened original commission-hosted Notification 02/2024 50-page PDF; Paper VI Unit II Item 4 exact wording authenticated",
+  "sha256": {
+    "index.html": "068a932e929174d62410c10f1683dd07bf9c54bdee7969da8d4675c715d041a7",
+    "complete-notes.pdf": "02aa846b8d004d59d978bb8c369f5df92611bccec80e5e876f46e5883a2230b8",
+    "README.md": "d6dcf2d89f4a246fe87330158684fea9289658e9d068c7a454ac996ac1448611",
+    "diagrams/agrarian-risk-chain.png": "33f85a7f2527405d38e58d3e9f41ac7f25ad2692d2d88f660f3d5f5c01cec6a4",
+    "diagrams/movement-legal-pathways.png": "292f885a3001caf0c080e56a738859cf2e3fa4794c8048a0107d8894839afb5a",
+    "diagrams/reform-distribution.png": "8d7084dd565520652a84df73e74b114dc99781c0d0393399a34e4e09620e12bc",
+    "source/references.md": "0b6b2c445f6528cbd63198f25954df893a4eb9fd9a45da3798115c499bd37e40",
+    "source/complete-notes.md": "7ffcea8d05db46019b4dfc8bc40613a9804a5d6b3bc1e68528f5e4b9ecb33591",
+    "source/syllabus-index.md": "b550af39e7f93e7238437dd45a64a25aee3d82a93d22d7ba317b1e4ebe444502",
+    "source/quick-revision.md": "81a2e036465c56d48f8641b0d5b45b1a4779d17300c3c76716d1abed66684a20",
+    "source/original-practice.md": "e5a14ba13cccf750ecc291fec4e49c00765a1393e9a96d028dc6de602cb21314",
+    "source/answer-blueprints.md": "87e70770052340b23bcd57297d09de5eb6937f0ad50ea94fb6a7e04bbbfd4833"
+  }
+}
