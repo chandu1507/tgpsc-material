@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-26",
+  "topic": "2-1-5",
+  "source_provenance": "existing master + independently authored gap repair",
+  "original_pdf_sha256": "b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3",
+  "original_pdf_unchanged": true,
+  "supplement_words": 4224,
+  "new_mcqs": 30,
+  "mains_answers": 6,
+  "mains_word_counts": [
+    208,
+    206,
+    212,
+    217,
+    212,
+    218
+  ],
+  "new_pdf_pages": 25,
+  "new_svg_diagrams": 3,
+  "evidence_entries": 14,
+  "academic_approval": false,
+  "remaining_primary_source_gaps": [
+    "AITUC founding minutes",
+    "AIKS original minutes",
+    "Hyderabad revenue and police archives",
+    "original Cabinet Mission correspondence",
+    "certified Partition mortality register"
+  ],
+  "note": "QA is publication integrity, not historical expert approval"
+}

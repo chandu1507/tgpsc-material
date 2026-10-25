@@ -60,8 +60,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "production_review": "gap_focused_substantive_repair_published_independent_academic_audit_pending",
+      "notes": "Original PDF preserved; 26 October 2026 new 4,224-word gap-focused historical supplement, 25-page research PDF, 30 original explained practice MCQs, six complete structured mains answers, three original SVG diagrams, 14-entry evidence audit and provenance-labelled consolidated master. Earlier Gandhi–Irwin repair retained. Not a complete academic rewrite; ZERO academic approval."
     },
     {
       "id": "2-2-1",
@@ -823,10 +823,19 @@
     "independent_review": "pending"
   },
   "last_quality_repair": {
-    "topic_id": "2-1-4",
-    "repair_type": "targeted_gap_filling_second_repair",
-    "pdf_path": "Paper 2/Unit 1 - Indian History and Culture/Topic 4/source/depth-repair-ii.pdf",
-    "original_pdf_preserved": true,
-    "academic_approval": false
+    "topic_id": "2-1-5",
+    "repair_type": "targeted_gap_filling_mass_movements_partition",
+    "pdf_path": "Paper 2/Unit 1 - Indian History and Culture/Topic 5/source/depth-repair-mass-movements-partition.pdf",
+    "original_pdf_unchanged": true,
+    "original_pdf_sha256": "b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3",
+    "original_explanatory_words": 4224,
+    "pdf_pages": 25,
+    "original_mcqs": 30,
+    "structured_mains_answers": 6,
+    "diagrams": 3,
+    "evidence_entries": 14,
+    "academically_approved": false,
+    "date": "2026-10-26",
+    "next_quality_target": "2-2-1"
   }
 }
