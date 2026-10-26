@@ -10,7 +10,7 @@
   "not_assessed_count": 71,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "EXACTLY 75 existing topics: four IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2), 71 NOT_ASSESSED; four R1 syllabus maps PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Topic 2-3-2 working integrated master has 25 MCQs, six mains, 2 SVGs; depth and claim checks incomplete.",
+  "warning": "EXACTLY 75 existing topics: four IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2), 71 NOT_ASSESSED; four R1 PASS, ZERO fully R1-R8 ready, ZERO external approvals. Topic 2-3-2 Markdown expanded but final synchronized PDF and actual artifact pending; textbook-depth, source and MCQ checks incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -89,7 +89,7 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26 Topic 2-3-2 official p29 R1 mapping directly verified; integrated working Markdown built from 40 existing sections and 7-part repair, 25 explained MCQs, six mains, 2 SVGs; PDF CI and downloaded artifact require verification. No R1-R8 completion or external academic approval.",
+  "last_readiness_update": "2026-10-26 Topic 2-3-2 Turn15: existing integrated Markdown substantively expanded in-place across 32 of 40 concepts; automated count now 0 under 200 words, 35 under 300; 25/25 MCQ distractor sets editorially rewritten, Q22 ambiguity corrected, 3 correct keys source-correlated (not independently approved). Final CI PDF/artifact verification pending; zero full R1-R8 passes, zero external approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -98,6 +98,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-turn13-final-monsoon-consistency-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
