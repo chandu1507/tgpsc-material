@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-3",
+  "kind": "actual_downloaded_github_actions_artifact_independent_integrity_and_visual_preflight",
+  "publication_run_id": 40357743468,
+  "publication_run_conclusion": "success",
+  "downloaded_artifact_id": 12666696387,
+  "artifact_file_name": "TGPSC_TURN18_ACTUAL_GITHUB_ACTIONS_ARTIFACT.zip",
+  "snapshot_head_before_packaging": "530e0869f58cfd384abcb828f73f15b5f2f54674",
+  "latest_packaging_bot_commit": "bb9f19c0b2f7765b5f3a8e57ba4c39b5fd10c9a3",
+  "checks": {
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "inner_file_count": 1489,
+    "original_topic_pdf_count": 75,
+    "unique_original_topic_slots": 75,
+    "readiness_json_count": 75,
+    "html_pages": 78,
+    "relative_local_links_checked": 466,
+    "broken_local_links": 0,
+    "topic3_legacy_pdf_sha256": "d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9",
+    "topic3_integrated_pdf_sha256": "3437b3bfc8bf9b97f0a6ad6d81dade39867d149fa1ba6c780623bec99828e067",
+    "topic3_integrated_md_sha256": "95e9aa17b6f46d205d957b93fff4d90456e963b2e4523d849cf83b8f2f218114",
+    "topic3_remote_pdf_git_blob_sha1": "fa4db79b3b63c2f282d9415f2db34b5becfb94d5",
+    "topic3_remote_md_git_blob_sha1": "ad246fb611e23d554dcead7a2234737ccb4ae4a8",
+    "remote_blobs_match_downloaded_artifact": true,
+    "integrated_pdf_pages": 18,
+    "all_pages_have_searchable_text": true,
+    "text_outside_page_bounds": 0,
+    "all_pages_contact_sheet_visually_inspected": true,
+    "full_resolution_pages_inspected": [
+      17,
+      18
+    ],
+    "page_17_sparsely_used_86_words": true,
+    "source_register_table_page_18_legible": true
+  },
+  "limitations": [
+    "Full-resolution human legibility and accessibility audit of every page is NOT complete; contact sheet detects gross defects only.",
+    "Page 17 has 86 words followed by source register on page 18: awkward pagination; not a factual error but needs R8 editorial layout improvement.",
+    "GitHub Pages deployment 40357787504 succeeded but direct end-user public browser navigation not independently tested.",
+    "R1 original TGPSC notification direct clause revalidation still pending; R2–R7 substantive/factual review incomplete.",
+    "No named independent academic reviewer, no official PYQ authentication, no academic approval."
+  ],
+  "R8": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "independent_academic_approval": false
+}
