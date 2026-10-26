@@ -61,5 +61,17 @@
     "Original Hyderabad women’s conference minutes",
     "Bhagya Reddy Varma association and school registers"
   ],
-  "independent_academic_approvals": 0
+  "independent_academic_approvals": 0,
+  "github_publication": {
+    "commit": "4a8e5d5403794e00355139d584be1b9ffd582c9b",
+    "pdf_git_blob": "2d0089b2533d33c6535fb9f4bfd16ff620af35c2",
+    "packaging_run": 40251910505,
+    "conclusion": "success",
+    "artifact_id": 12621086386,
+    "downloaded_zip_outer_inner_crc": "PASS",
+    "downloaded_inner_unique_files": 1345,
+    "pdf_sha256_in_downloaded_zip": "cc69d7b41021a427be4af0818f91273d47efcfe60bc7499dbb2e24a21817516e",
+    "original_pdf_sha256_in_downloaded_zip": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
+    "pages_status": "not_yet_verified"
+  }
 }

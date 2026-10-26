@@ -58,7 +58,7 @@
   ],
   "original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
   "student_edition_md_path": "source/integrated-student-edition-pilot-2026-10-26.md",
-  "student_edition_pdf_path": "Library /Mounika/TGPSC_ACADEMIC_READINESS_P2_U2_T4_20261026/ (GitHub PDF not yet published)",
+  "student_edition_pdf_path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/integrated-student-edition-pilot-2026-10-26.pdf",
   "qa_path": "project-control/academic-readiness/2-2-4-pilot-qa.json",
   "gates": {
     "R1": {
@@ -98,13 +98,23 @@
     },
     "R8": {
       "status": "IN_PROGRESS",
-      "evidence": "29-page searchable PDF rendered page-by-page; 78 archived HTML pages and 454 local references checked with zero broken; original PDF SHA256 preserved",
-      "blocker": "Student PDF not yet on GitHub/portal; new edition requires user usability check and live Pages validation"
+      "evidence": "29-page PDF rendered page-by-page and published on GitHub, blob verified; packaging workflow 40251910505 SUCCESS; actual artifact 12621086386 downloaded, outer/inner CRC PASS, 1345 unique files; original PDF SHA256 preserved; archive 78 HTML pages/454 local links zero broken.",
+      "blocker": "New student edition not linked from offline portal; live Pages deployment for this revision not independently verified; editorial/user usability review outstanding."
     }
   },
   "external_reviewer": null,
   "student_accepted": false,
   "academic_approval_count": 0,
   "no_new_topic_created": true,
-  "next_action": "Complete R1–R8, then request genuine independent academic review; do not change academic_approved to true from automation."
+  "next_action": "Complete R1–R8, then request genuine independent academic review; do not change academic_approved to true from automation.",
+  "publication": {
+    "github_commit": "4a8e5d5403794e00355139d584be1b9ffd582c9b",
+    "github_pdf_git_blob": "2d0089b2533d33c6535fb9f4bfd16ff620af35c2",
+    "packaging_workflow_run": 40251910505,
+    "packaging_conclusion": "success",
+    "artifact_id": 12621086386,
+    "downloaded_outer_inner_zip_crc": "PASS",
+    "downloaded_unique_files": 1345,
+    "downloaded_original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1"
+  }
 }

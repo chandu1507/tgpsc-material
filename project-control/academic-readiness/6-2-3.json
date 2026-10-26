@@ -1,0 +1,33 @@
+{
+  "topic_id": "6-2-3",
+  "title": "Rise of Regional Parties, Telugu Jathi and Telangana Identity",
+  "date": "2026-10-26",
+  "status": "NOT_ASSESSED",
+  "academic_status": "NOT_APPROVED",
+  "academic_approved": false,
+  "published_draft_pdf": true,
+  "prior_repair_reported": false,
+  "inventory_baseline": {
+    "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 3",
+    "files": 13,
+    "pdfs": 1,
+    "md_files": 7,
+    "complete_notes_words": 11489,
+    "detailed_notes_words": 0,
+    "supplement_md_count": 0
+  },
+  "gate_status": {
+    "R1": "NOT_STARTED",
+    "R2": "NOT_STARTED",
+    "R3": "NOT_STARTED",
+    "R4": "NOT_STARTED",
+    "R5": "NOT_STARTED",
+    "R6": "NOT_STARTED",
+    "R7": "NOT_STARTED",
+    "R8": "NOT_STARTED"
+  },
+  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
+  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "external_reviewer": null,
+  "student_accepted": false
+}

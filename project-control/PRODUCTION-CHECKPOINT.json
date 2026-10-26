@@ -21,7 +21,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "substantive_repair_published_independent_academic_audit_pending",
-      "notes": "Original 17-page PDF preserved; 25 October 2026 original 4,776-word source-audited depth repair, 21-page supplement PDF, 30 original explained MCQs, six complete structured mains answers (201/212/204/211/206/221 words), three SVG diagrams, 12-entry dated source register, consolidated 12,252-word provenance-labelled master. NOT independently academically approved."
+      "notes": "Original 17-page PDF preserved; 25 October 2026 original 4,776-word source-audited depth repair, 21-page supplement PDF, 30 original explained MCQs, six complete structured mains answers (201/212/204/211/206/221 words), three SVG diagrams, 12-entry dated source register, consolidated 12,252-word provenance-labelled master. NOT independently academically approved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-1-1.json"
     },
     {
       "id": "2-1-2",
@@ -31,7 +33,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "substantive_repair_published_independent_academic_audit_pending",
-      "notes": "Original 17-page PDF preserved. 25 October 2026: original 3,817-word explanatory historical section, 30 original explained practice MCQs, six complete structured 200–250-word mains answers, three SVG diagrams, dated evidence register and 18-page supplementary PDF. Consolidated editable master recovered and expanded. Not independently academically approved."
+      "notes": "Original 17-page PDF preserved. 25 October 2026: original 3,817-word explanatory historical section, 30 original explained practice MCQs, six complete structured 200–250-word mains answers, three SVG diagrams, dated evidence register and 18-page supplementary PDF. Consolidated editable master recovered and expanded. Not independently academically approved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-1-2.json"
     },
     {
       "id": "2-1-3",
@@ -41,7 +45,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "substantive_repair_published_independent_academic_audit_pending",
-      "notes": "Original 12-page PDF preserved; 25 October 2026 original 4,649-word explanatory research supplement, 23-page PDF, 30 original explained MCQs, six complete 200–250-word structured mains answers, three SVG diagrams, 14-entry dated source audit and provenance-labelled expanded editable master. Historical archival sources not all retrieved. NOT academically approved."
+      "notes": "Original 12-page PDF preserved; 25 October 2026 original 4,649-word explanatory research supplement, 23-page PDF, 30 original explained MCQs, six complete 200–250-word structured mains answers, three SVG diagrams, 14-entry dated source audit and provenance-labelled expanded editable master. Historical archival sources not all retrieved. NOT academically approved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-1-3.json"
     },
     {
       "id": "2-1-4",
@@ -51,7 +57,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "second_substantive_depth_repair_published_academic_audit_pending",
-      "notes": "Original 11-page PDF preserved; pre-existing 2,042-word supplement retained. On 26 October 2026, added 4,021-word new gap-filling research supplement, 19-page PDF, 30 explained practice MCQs, six complete 200–250-word mains answers, three SVG diagrams, 14-entry dated evidence register and provenance-labelled consolidated editable master. Not a complete academic rewrite; independent expert approval pending."
+      "notes": "Original 11-page PDF preserved; pre-existing 2,042-word supplement retained. On 26 October 2026, added 4,021-word new gap-filling research supplement, 19-page PDF, 30 explained practice MCQs, six complete 200–250-word mains answers, three SVG diagrams, 14-entry dated evidence register and provenance-labelled consolidated editable master. Not a complete academic rewrite; independent expert approval pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-1-4.json"
     },
     {
       "id": "2-1-5",
@@ -61,7 +69,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "gap_focused_substantive_repair_published_independent_academic_audit_pending",
-      "notes": "Original PDF preserved; 26 October 2026 new 4,224-word gap-focused historical supplement, 25-page research PDF, 30 original explained practice MCQs, six complete structured mains answers, three original SVG diagrams, 14-entry evidence audit and provenance-labelled consolidated master. Earlier Gandhi–Irwin repair retained. Not a complete academic rewrite; ZERO academic approval."
+      "notes": "Original PDF preserved; 26 October 2026 new 4,224-word gap-focused historical supplement, 25-page research PDF, 30 original explained practice MCQs, six complete structured mains answers, three original SVG diagrams, 14-entry evidence audit and provenance-labelled consolidated master. Earlier Gandhi–Irwin repair retained. Not a complete academic rewrite; ZERO academic approval.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-1-5.json"
     },
     {
       "id": "2-2-1",
@@ -71,7 +81,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "second_gap_focused_archaeology_epigraphy_repair_published_academic_audit_pending",
-      "notes": "Original older PDF preserved; pre-existing 25 Oct 2026 archaeology supplement retained. 26 Oct 2026: new original evidence-led material on Tummalagudem Buddhist grants, Ipur grant, site chronology, 30 explained MCQs, six complete 200–250-word mains answers, three SVG diagrams, 14-entry evidence audit, consolidated editable master. NOT independently academically approved."
+      "notes": "Original older PDF preserved; pre-existing 25 Oct 2026 archaeology supplement retained. 26 Oct 2026: new original evidence-led material on Tummalagudem Buddhist grants, Ipur grant, site chronology, 30 explained MCQs, six complete 200–250-word mains answers, three SVG diagrams, 14-entry evidence audit, consolidated editable master. NOT independently academically approved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-2-1.json"
     },
     {
       "id": "2-2-2",
@@ -81,7 +93,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "second_gap_focused_medieval_culture_repair_published_academic_audit_pending",
-      "notes": "Original 13-page PDF preserved. 26 Oct 2026: new original 3,752-word source-critical research supplement, 17-page PDF, 30 original explained MCQs, six structured 200–250-word mains answers, three SVG diagrams, 16-entry dated evidence register, consolidated provenance-labelled master. Earlier medieval-institutions supplement retained. Direct original 2024 commission syllabus verified. Not independently academically approved."
+      "notes": "Original 13-page PDF preserved. 26 Oct 2026: new original 3,752-word source-critical research supplement, 17-page PDF, 30 original explained MCQs, six structured 200–250-word mains answers, three SVG diagrams, 16-entry dated evidence register, consolidated provenance-labelled master. Earlier medieval-institutions supplement retained. Direct original 2024 commission syllabus verified. Not independently academically approved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-2-2.json"
     },
     {
       "id": "2-2-3",
@@ -91,7 +105,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "third_gap_focused_archival_chronology_repair_published_academic_audit_pending",
-      "notes": "Original older PDF and prior tenure/Vetti supplement preserved. 26 Oct 2026: new original archival chronology, uneven-modernisation research, 30 explained MCQs, six structured 200-250-word mains answers, three SVG diagrams, dated source audit and expanded consolidated editable master. Primary treaty clauses, 1857 police files and village-level reports not fully retrieved. NOT academically approved."
+      "notes": "Original older PDF and prior tenure/Vetti supplement preserved. 26 Oct 2026: new original archival chronology, uneven-modernisation research, 30 explained MCQs, six structured 200-250-word mains answers, three SVG diagrams, dated source audit and expanded consolidated editable master. Primary treaty clauses, 1857 police files and village-level reports not fully retrieved. NOT academically approved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-2-3.json"
     },
     {
       "id": "2-2-4",
@@ -101,7 +117,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "gap_focused_press_women_civic_liberties_repair_published_academic_audit_pending",
-      "notes": "Original older PDF and prior libraries/Adi-Hindu and Vetti/Jogini/Devadasi supplements preserved. 26 Oct 2026 original 3,414-word gap-focused research, 19-page PDF, 30 explained original practice MCQs, six complete structured 200–250-word mains answers, three SVG diagrams, dated 12-entry evidence register, consolidated provenance-labelled editable master. Primary conference minutes and Hyderabad State government orders not retrieved. NOT independently academically approved."
+      "notes": "Original older PDF and prior libraries/Adi-Hindu and Vetti/Jogini/Devadasi supplements preserved. 26 Oct 2026 original 3,414-word gap-focused research, 19-page PDF, 30 explained original practice MCQs, six complete structured 200–250-word mains answers, three SVG diagrams, dated 12-entry evidence register, consolidated provenance-labelled editable master. Primary conference minutes and Hyderabad State government orders not retrieved. NOT independently academically approved.",
+      "readiness_status": "IN_PROGRESS",
+      "readiness_gate_file": "project-control/academic-readiness/2-2-4.json"
     },
     {
       "id": "2-2-5",
@@ -111,7 +129,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-2-5.json"
     },
     {
       "id": "2-3-1",
@@ -121,7 +141,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-3-1.json"
     },
     {
       "id": "2-3-2",
@@ -131,7 +153,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-3-2.json"
     },
     {
       "id": "2-3-3",
@@ -141,7 +165,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-3-3.json"
     },
     {
       "id": "2-3-4",
@@ -151,7 +177,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-3-4.json"
     },
     {
       "id": "2-3-5",
@@ -161,7 +189,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/2-3-5.json"
     },
     {
       "id": "3-1-1",
@@ -171,7 +201,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-1-1.json"
     },
     {
       "id": "3-1-2",
@@ -181,7 +213,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-1-2.json"
     },
     {
       "id": "3-1-3",
@@ -191,7 +225,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Consolidated editable master recovered; original 4,530-word 9-page depth repair and 15 additional original explained MCQs published; older PDF preserved; NOT academically approved."
+      "notes": "Consolidated editable master recovered; original 4,530-word 9-page depth repair and 15 additional original explained MCQs published; older PDF preserved; NOT academically approved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-1-3.json"
     },
     {
       "id": "3-1-4",
@@ -201,7 +237,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-1-4.json"
     },
     {
       "id": "3-1-5",
@@ -211,7 +249,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "Recovered 14,855-word provenance-labelled consolidated editable master; new 5,602-word 18-page substantive supplement, 30 explained original MCQs, six structured 200–250-word mains answers, three diagrams. Original 16-page PDF preserved. NOT academically approved or complete textbook rewrite."
+      "notes": "Recovered 14,855-word provenance-labelled consolidated editable master; new 5,602-word 18-page substantive supplement, 30 explained original MCQs, six structured 200–250-word mains answers, three diagrams. Original 16-page PDF preserved. NOT academically approved or complete textbook rewrite.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-1-5.json"
     },
     {
       "id": "3-2-1",
@@ -221,7 +261,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-2-1.json"
     },
     {
       "id": "3-2-2",
@@ -231,7 +273,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-2-2.json"
     },
     {
       "id": "3-2-3",
@@ -241,7 +285,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-2-3.json"
     },
     {
       "id": "3-2-4",
@@ -251,7 +297,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-2-4.json"
     },
     {
       "id": "3-2-5",
@@ -261,7 +309,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review."
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-2-5.json"
     },
     {
       "id": "3-3-1",
@@ -271,7 +321,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending."
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-3-1.json"
     },
     {
       "id": "3-3-2",
@@ -281,7 +333,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending."
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-3-2.json"
     },
     {
       "id": "3-3-3",
@@ -291,7 +345,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending."
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-3-3.json"
     },
     {
       "id": "3-3-4",
@@ -301,7 +357,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "13,745 words; 14 concept chapters; 25 original explained MCQs; 6 mains models (218–229 words); 3 diagrams; 35-page PDF. Official primary syllabus PDF full retrieval pending."
+      "notes": "13,745 words; 14 concept chapters; 25 original explained MCQs; 6 mains models (218–229 words); 3 diagrams; 35-page PDF. Official primary syllabus PDF full retrieval pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-3-4.json"
     },
     {
       "id": "3-3-5",
@@ -311,7 +369,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Expanded 13,821-word draft, 31-page PDF, 25 original explained MCQs, six 200–250-word mains answers, 22 primary-source register entries; direct primary syllabus PDF and independent academic audit remain outstanding."
+      "notes": "Expanded 13,821-word draft, 31-page PDF, 25 original explained MCQs, six 200–250-word mains answers, 22 primary-source register entries; direct primary syllabus PDF and independent academic audit remain outstanding.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/3-3-5.json"
     },
     {
       "id": "4-1-1",
@@ -321,7 +381,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "2026-10-23 expanded 11,211-word draft; 26-page PDF, original practice only; syllabus and Telangana PDF primary audit pending."
+      "notes": "2026-10-23 expanded 11,211-word draft; 26-page PDF, original practice only; syllabus and Telangana PDF primary audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-1-1.json"
     },
     {
       "id": "4-1-2",
@@ -331,7 +393,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "12,339 words; 27-page PDF; 13 detailed sections; 25 original explained MCQs; six mains models 235–243 words; 3 diagrams. Official primary syllabus and independent academic audit pending."
+      "notes": "12,339 words; 27-page PDF; 13 detailed sections; 25 original explained MCQs; six mains models 235–243 words; 3 diagrams. Official primary syllabus and independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-1-2.json"
     },
     {
       "id": "4-1-3",
@@ -341,7 +405,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "10,984-word expanded draft; 27-page complete PDF; 15 substantive sections, 25 original explained MCQs, six mains answers (202–219 words), three diagrams; 18-source audit. Original notification PDF and independent academic audit outstanding."
+      "notes": "10,984-word expanded draft; 27-page complete PDF; 15 substantive sections, 25 original explained MCQs, six mains answers (202–219 words), three diagrams; 18-source audit. Original notification PDF and independent academic audit outstanding.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-1-3.json"
     },
     {
       "id": "4-1-4",
@@ -351,7 +417,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "10,205-word expanded draft; 21-page complete PDF; 12 substantive sections, 25 original explained MCQs, six 200–250-word structured mains answers, three diagrams, 15 source entries. Original notification PDF and independent academic audit outstanding."
+      "notes": "10,205-word expanded draft; 21-page complete PDF; 12 substantive sections, 25 original explained MCQs, six 200–250-word structured mains answers, three diagrams, 15 source entries. Original notification PDF and independent academic audit outstanding.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-1-4.json"
     },
     {
       "id": "4-1-5",
@@ -361,7 +429,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "11,732-word complete Markdown; 34-page PDF; 14 substantive sections; 25 explained original MCQs; six 200–250-word mains answers; three diagrams; 17-source register. Direct official syllabus PDF authentication and independent academic audit pending."
+      "notes": "11,732-word complete Markdown; 34-page PDF; 14 substantive sections; 25 explained original MCQs; six 200–250-word mains answers; three diagrams; 17-source register. Direct official syllabus PDF authentication and independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-1-5.json"
     },
     {
       "id": "4-2-1",
@@ -371,7 +441,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Expanded 11,623-word draft with 23-page PDF, 27 original MCQs, six mains models; original 2026 SEO full-PDF audit pending."
+      "notes": "Expanded 11,623-word draft with 23-page PDF, 27 original MCQs, six mains models; original 2026 SEO full-PDF audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-1.json"
     },
     {
       "id": "4-2-2",
@@ -381,7 +453,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Expanded 28-page human resources draft, 14 detailed sections, 30 original explained MCQs, six original mains models, three diagrams; full academic audit pending."
+      "notes": "Expanded 28-page human resources draft, 14 detailed sections, 30 original explained MCQs, six original mains models, three diagrams; full academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-2.json"
     },
     {
       "id": "4-2-3",
@@ -391,7 +465,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending_independent_academic_audit",
-      "notes": "Expanded original 28-page PDF, 13,401-word Markdown, 30 explained MCQs, six 200–250-word mains models, three diagrams; original syllabus PDF, historical Jagir full text, and district-level outcomes require direct audit."
+      "notes": "Expanded original 28-page PDF, 13,401-word Markdown, 30 explained MCQs, six 200–250-word mains models, three diagrams; original syllabus PDF, historical Jagir full text, and district-level outcomes require direct audit.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-3.json"
     },
     {
       "id": "4-2-4",
@@ -401,7 +477,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending_independent_academic_audit",
-      "notes": "Expanded original 28-page PDF, 12,625-word manuscript, 30 explained original MCQs, six 200–250-word mains models, three diagrams, 23-source register; 2026 SEO full-PDF audit pending."
+      "notes": "Expanded original 28-page PDF, 12,625-word manuscript, 30 explained original MCQs, six 200–250-word mains models, three diagrams, 23-source register; 2026 SEO full-PDF audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-4.json"
     },
     {
       "id": "4-2-5",
@@ -411,7 +489,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "11,589-word complete Markdown, 25-page PDF, 16 substantive sections, 30 explained original MCQs, six 200–250-word structured mains models, three diagrams, 20-source audit; independent academic audit pending."
+      "notes": "11,589-word complete Markdown, 25-page PDF, 16 substantive sections, 30 explained original MCQs, six 200–250-word structured mains models, three diagrams, 20-source audit; independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-5.json"
     },
     {
       "id": "4-3-1",
@@ -423,7 +503,9 @@
       "production_review": "structural_pass_academic_pending",
       "notes": "Expanded 11,207-word original draft; 27-page PDF, 30 explained original MCQs, six complete mains answers, three diagrams, 21-source audit. Structural QA passed; independent academic review pending.",
       "published_commit": "006485feb2495805077841957532ab42ac00e7ac",
-      "pdf_blob_sha": "a12453c4b8d9cd4789afdcc837a9a80eb321d41a"
+      "pdf_blob_sha": "a12453c4b8d9cd4789afdcc837a9a80eb321d41a",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-3-1.json"
     },
     {
       "id": "4-3-2",
@@ -433,7 +515,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending_independent_audit",
-      "notes": "Expanded 10k+ word original draft, 21-page PDF, 30 explained original MCQs, six 200–250 word mains answers, three diagrams; primary-source audit incomplete for exact official syllabus and district groundwater tables."
+      "notes": "Expanded 10k+ word original draft, 21-page PDF, 30 explained original MCQs, six 200–250 word mains answers, three diagrams; primary-source audit incomplete for exact official syllabus and district groundwater tables.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-3-2.json"
     },
     {
       "id": "4-3-3",
@@ -443,7 +527,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "10,324-word original full draft, 21-page PDF, 30 explained MCQs, six mains answers, three diagrams; official syllabus verified; independent audit pending."
+      "notes": "10,324-word original full draft, 21-page PDF, 30 explained MCQs, six mains answers, three diagrams; official syllabus verified; independent audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-3-3.json"
     },
     {
       "id": "4-3-4",
@@ -453,7 +539,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Substantive original draft; 2026 waste rules and Telangana cases; independent academic review pending."
+      "notes": "Substantive original draft; 2026 waste rules and Telangana cases; independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-3-4.json"
     },
     {
       "id": "4-3-5",
@@ -463,7 +551,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published original full draft with 30 original MCQs and six structured mains models; independent academic review pending."
+      "notes": "Published original full draft with 30 original MCQs and six structured mains models; independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/4-3-5.json"
     },
     {
       "id": "5-1-1",
@@ -473,7 +563,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original commission syllabus authenticated 24 Oct 2026; 11,828-word manuscript, 27-page PDF, 30 original explained MCQs, 6 structured mains answers, 3 diagrams; structural checks passed, independent academic audit pending."
+      "notes": "Original commission syllabus authenticated 24 Oct 2026; 11,828-word manuscript, 27-page PDF, 30 original explained MCQs, 6 structured mains answers, 3 diagrams; structural checks passed, independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-1-1.json"
     },
     {
       "id": "5-1-2",
@@ -483,7 +575,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "10,396-word original manuscript; 23-page full PDF; 16 substantive sections, 30 original explained MCQs, six 200–250-word mains answers, three original diagrams, 22-source register. Original commission PDF indexed text authenticated; direct host HTTP 403 requires recheck. Academic review pending."
+      "notes": "10,396-word original manuscript; 23-page full PDF; 16 substantive sections, 30 original explained MCQs, six 200–250-word mains answers, three original diagrams, 22-source register. Original commission PDF indexed text authenticated; direct host HTTP 403 requires recheck. Academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-1-2.json"
     },
     {
       "id": "5-1-3",
@@ -493,7 +587,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "10,454-word manuscript, 26-page PDF, 16 sections, 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 22 official sources; structural QA passed, academic audit pending."
+      "notes": "10,454-word manuscript, 26-page PDF, 16 sections, 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 22 official sources; structural QA passed, academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-1-3.json"
     },
     {
       "id": "5-1-4",
@@ -503,7 +599,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Complete expanded learning draft published 24 October 2026; 23-page PDF, 30 original MCQs, six 200–250-word mains answers. Independent academic review pending."
+      "notes": "Complete expanded learning draft published 24 October 2026; 23-page PDF, 30 original MCQs, six 200–250-word mains answers. Independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-1-4.json"
     },
     {
       "id": "5-1-5",
@@ -513,7 +611,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Complete 27-page published learning draft with 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 24-source audit. Independent academic review pending."
+      "notes": "Complete 27-page published learning draft with 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 24-source audit. Independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-1-5.json"
     },
     {
       "id": "5-2-1",
@@ -523,7 +623,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 12k-word draft with full PDF, 30 original MCQs, six structured mains models, three diagrams and 24-source register; independent academic audit pending."
+      "notes": "Original 12k-word draft with full PDF, 30 original MCQs, six structured mains models, three diagrams and 24-source register; independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-2-1.json"
     },
     {
       "id": "5-2-2",
@@ -533,7 +635,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 10k+ word draft, 30 explained original MCQs, six structured mains answers, three original diagrams; independent academic review pending."
+      "notes": "Original 10k+ word draft, 30 explained original MCQs, six structured mains answers, three original diagrams; independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-2-2.json"
     },
     {
       "id": "5-2-3",
@@ -543,7 +647,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "11,806-word complete original learning draft; 24-page PDF; 30 explained MCQs; six 200–250-word structured mains models; three diagrams; 18 official source entries; independently academically unapproved."
+      "notes": "11,806-word complete original learning draft; 24-page PDF; 30 explained MCQs; six 200–250-word structured mains models; three diagrams; 18 official source entries; independently academically unapproved.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-2-3.json"
     },
     {
       "id": "5-2-4",
@@ -553,7 +659,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original full manuscript, 30 explained MCQs and six structured mains models; independent academic audit pending."
+      "notes": "Original full manuscript, 30 explained MCQs and six structured mains models; independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-2-4.json"
     },
     {
       "id": "5-2-5",
@@ -563,7 +671,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending."
+      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-2-5.json"
     },
     {
       "id": "5-3-1",
@@ -573,7 +683,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 12,353-word independent draft, 25-page PDF, 30 explained MCQs, six structured mains models, three original diagrams. Synthetic datasets clearly labelled. Independent academic audit pending."
+      "notes": "Original 12,353-word independent draft, 25-page PDF, 30 explained MCQs, six structured mains models, three original diagrams. Synthetic datasets clearly labelled. Independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-3-1.json"
     },
     {
       "id": "5-3-2",
@@ -583,7 +695,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "11,326-word original draft; 22-page PDF; 18 concept sections, 30 explained original MCQs, 6 structured 200–250-word mains answers, 3 original diagrams; original 2024 commission PDF direct retrieval 502; academic audit pending."
+      "notes": "11,326-word original draft; 22-page PDF; 18 concept sections, 30 explained original MCQs, 6 structured 200–250-word mains answers, 3 original diagrams; original 2024 commission PDF direct retrieval 502; academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-3-2.json"
     },
     {
       "id": "5-3-3",
@@ -593,7 +707,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "10,026-word original draft, 18-page PDF, 30 explained original MCQs, six structured 200–250-word model answers, three original illustrative diagrams. Independent academic review pending."
+      "notes": "10,026-word original draft, 18-page PDF, 30 explained original MCQs, six structured 200–250-word model answers, three original illustrative diagrams. Independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-3-3.json"
     },
     {
       "id": "5-3-4",
@@ -603,7 +719,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 11,431-word draft, 20-page PDF, 30 explained MCQs, 20 worked drills, 6 complete 200–250-word mains models, 3 diagrams; independent academic review pending."
+      "notes": "Original 11,431-word draft, 20-page PDF, 30 explained MCQs, 20 worked drills, 6 complete 200–250-word mains models, 3 diagrams; independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-3-4.json"
     },
     {
       "id": "5-3-5",
@@ -613,7 +731,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "11,154-word complete draft; 18 sections; 12 cases; 30 original explained MCQs; six structured mains answers; 3 diagrams; independent review pending."
+      "notes": "11,154-word complete draft; 18 sections; 12 cases; 30 original explained MCQs; six structured mains answers; 3 diagrams; independent review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/5-3-5.json"
     },
     {
       "id": "6-1-1",
@@ -623,7 +743,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 12,769-word English draft, 29-page PDF, 23 explanatory sections, 30 explained MCQs, six 200–250-word mains models, three original diagrams, 11-source register. Academic audit pending."
+      "notes": "Original 12,769-word English draft, 29-page PDF, 23 explanatory sections, 30 explained MCQs, six 200–250-word mains models, three original diagrams, 11-source register. Academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-1-1.json"
     },
     {
       "id": "6-1-2",
@@ -633,7 +755,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 10,944-word draft, 23-page PDF, 23 textbook sections, 30 explained original MCQs, six complete 200–250-word mains models, three original diagrams, 11-source audit; direct syllabus PDF re-open 502, original inquiry uninspected."
+      "notes": "Original 10,944-word draft, 23-page PDF, 23 textbook sections, 30 explained original MCQs, six complete 200–250-word mains models, three original diagrams, 11-source audit; direct syllabus PDF re-open 502, original inquiry uninspected.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-1-2.json"
     },
     {
       "id": "6-1-3",
@@ -643,7 +767,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 11,000+ word manuscript, 29-page PDF, 30 original MCQs, six structured mains answers, three diagrams; 2024 commission PDF direct access returned 502; independent academic review pending."
+      "notes": "Original 11,000+ word manuscript, 29-page PDF, 30 original MCQs, six structured mains answers, three diagrams; 2024 commission PDF direct access returned 502; independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-1-3.json"
     },
     {
       "id": "6-1-4",
@@ -653,7 +779,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 11,331-word manuscript, 24-page PDF, 30 explained original MCQs, six 200–250-word model answers, three diagrams; independent academic review pending. Original 2024 Notification direct reopen pending."
+      "notes": "Original 11,331-word manuscript, 24-page PDF, 30 explained original MCQs, six 200–250-word model answers, three diagrams; independent academic review pending. Original 2024 Notification direct reopen pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-1-4.json"
     },
     {
       "id": "6-1-5",
@@ -663,7 +791,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original deep draft published 25 October 2026; 30 explained original MCQs, six structured mains answers; academic audit pending."
+      "notes": "Original deep draft published 25 October 2026; 30 explained original MCQs, six structured mains answers; academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-1-5.json"
     },
     {
       "id": "6-2-1",
@@ -673,7 +803,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 13k-word study draft with 30 explained MCQs and six 200–250-word mains answers; academic audit pending."
+      "notes": "Original 13k-word study draft with 30 explained MCQs and six 200–250-word mains answers; academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-2-1.json"
     },
     {
       "id": "6-2-2",
@@ -683,7 +815,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original full English chapter published 25 October 2026; 30 original explained MCQs, six 200–250-word mains answers, three diagrams, 12-source audit. Commission original 2024 syllabus direct reinspection pending; independent academic review pending."
+      "notes": "Original full English chapter published 25 October 2026; 30 original explained MCQs, six 200–250-word mains answers, three diagrams, 12-source audit. Commission original 2024 syllabus direct reinspection pending; independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-2-2.json"
     },
     {
       "id": "6-2-3",
@@ -693,7 +827,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 2026-10-25 11k-word draft, 30 explained MCQs, six 200–250 word answers; independent academic review pending."
+      "notes": "Original 2026-10-25 11k-word draft, 30 explained MCQs, six 200–250 word answers; independent academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-2-3.json"
     },
     {
       "id": "6-2-4",
@@ -703,7 +839,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 11,482-word full manuscript; 24-page PDF, 30 original explained MCQs, six 200–250-word mains answers, three original diagrams; independent academic audit pending."
+      "notes": "Original 11,482-word full manuscript; 24-page PDF, 30 original explained MCQs, six 200–250-word mains answers, three original diagrams; independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-2-4.json"
     },
     {
       "id": "6-2-5",
@@ -713,7 +851,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "10,000-word original English draft, 21-page PDF, 30 explained original MCQs, six 200–250-word mains answers, three diagrams, dated evidence audit; commission original opened but precise Item 5 line only corroborated from indexed transcription. Independent audit pending."
+      "notes": "10,000-word original English draft, 21-page PDF, 30 explained original MCQs, six 200–250-word mains answers, three diagrams, dated evidence audit; commission original opened but precise Item 5 line only corroborated from indexed transcription. Independent audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-2-5.json"
     },
     {
       "id": "6-3-1",
@@ -723,7 +863,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original full chapter published; academic audit and source authentication pending."
+      "notes": "Original full chapter published; academic audit and source authentication pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-3-1.json"
     },
     {
       "id": "6-3-2",
@@ -733,7 +875,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original 11k+ word English manuscript, full PDF, 30 original MCQs, six complete mains answers, three diagrams; independent source/academic review pending."
+      "notes": "Original 11k+ word English manuscript, full PDF, 30 original MCQs, six complete mains answers, three diagrams; independent source/academic review pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-3-2.json"
     },
     {
       "id": "6-3-3",
@@ -743,7 +887,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "Original 10,509-word English Markdown, 23-page full PDF, 35 substantive explanatory sections, six applied cases, 30 original explained MCQs, six 200–250-word structured mains answers, three diagrams; exact syllabus wording directly authenticated from Notification 02/2024; historical evidence gaps disclosed."
+      "notes": "Original 10,509-word English Markdown, 23-page full PDF, 35 substantive explanatory sections, six applied cases, 30 original explained MCQs, six 200–250-word structured mains answers, three diagrams; exact syllabus wording directly authenticated from Notification 02/2024; historical evidence gaps disclosed.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-3-3.json"
     },
     {
       "id": "6-3-4",
@@ -753,7 +899,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Original full PDF, Markdown, offline HTML, 30 explained MCQs and six mains answers published; independent academic audit pending."
+      "notes": "Original full PDF, Markdown, offline HTML, 30 explained MCQs and six mains answers published; independent academic audit pending.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-3-4.json"
     },
     {
       "id": "6-3-5",
@@ -763,7 +911,9 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Full original draft published; independent academic review required."
+      "notes": "Full original draft published; independent academic review required.",
+      "readiness_status": "NOT_ASSESSED",
+      "readiness_gate_file": "project-control/academic-readiness/6-3-5.json"
     }
   ],
   "local_accessible_subset": {
@@ -837,5 +987,19 @@
     "academically_approved": false,
     "date": "2026-10-26",
     "next_quality_target": "2-2-1"
+  },
+  "academic_readiness_tracking": {
+    "last_updated": "2026-10-26",
+    "status": "READINESS_IN_PROGRESS",
+    "total_topics": 75,
+    "pilot_in_progress": 1,
+    "topics_not_assessed": 74,
+    "topics_ready_for_independent_audit": 0,
+    "independently_academically_approved": 0,
+    "topic_gate_files": 75,
+    "pilot_topic": "2-2-4",
+    "pilot_publication_commit": "4a8e5d5403794e00355139d584be1b9ffd582c9b",
+    "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
+    "note": "Topic 2-2-4 is an integrated student-edition pilot, not a completed readiness pass. All other topics have NOT_ASSESSED gate records; no academic approvals."
   }
 }
