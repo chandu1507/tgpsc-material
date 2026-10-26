@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Final integrated student edition 25 pages/11613 PDF text words; 25 numbered concepts, 25 four-option explained original MCQs with improved distractors, six 200–250-word mains answers, two SVG process diagrams. GitHub renderer succeeded; downloaded actual packaging artifact 12639056782 from run 40297113631, outer/inner ZIP CRC PASS, 1455 files, 75 original PDFs, 75 readiness JSONs, 78 HTML pages, 461 local links ZERO broken. Original PDF SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879 preserved. PDF SHA256 b0180b9b0f84c1b1e842a88e90b388ba1388a6d13898babe8ed8171b3703fa16. 25 pages contact-sheet visually inspected for gross layout; no empty pages/outside-page text boxes; full-res accessibility pending. R1 official syllabus indexed text mapped 11 clauses, but original PDF returned 403. All R1–R8 still IN_PROGRESS, ZERO academic approvals. 26 Oct: R1 PASS after direct official Annexure II p29 visual inspection and 11-clause mapping. MCQ11/12 keys checked against IMD operational criteria, remaining 23 MCQ keys/distractors pending. First four mains answers given analytical subheadings in source; PDF sync requires post-render verification. 26 Oct latest: source register G9-G12 Markdown table layout fixed after visual defect, CI renderer run 40303002957 SUCCESS; remote PDF SHA256 9629ac7561a63902e8792cd1a9874f8dc7a0268b9784743e0f10652c736e1bc9 equals local regenerated PDF; 27 pages. Post-final-render packaging artifact CRC still pending; R8 IN_PROGRESS.",
-  "next_action": "R2 editorial dedup; R3 deepen 20 concepts under300; R4 source-check claims; R5 check remaining 23 MCQ keys and all distractors; R6 factual check six mains answers; R7 diagram/maps; R8 full-res 27-page accessibility and public browser QA. R1 PASS; R8 IN_PROGRESS, not ready.",
+  "evidence": "Final integrated student edition 25 pages/11613 PDF text words; 25 numbered concepts, 25 four-option explained original MCQs with improved distractors, six 200–250-word mains answers, two SVG process diagrams. GitHub renderer succeeded; downloaded actual packaging artifact 12639056782 from run 40297113631, outer/inner ZIP CRC PASS, 1455 files, 75 original PDFs, 75 readiness JSONs, 78 HTML pages, 461 local links ZERO broken. Original PDF SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879 preserved. PDF SHA256 b0180b9b0f84c1b1e842a88e90b388ba1388a6d13898babe8ed8171b3703fa16. 25 pages contact-sheet visually inspected for gross layout; no empty pages/outside-page text boxes; full-res accessibility pending. R1 official syllabus indexed text mapped 11 clauses, but original PDF returned 403. All R1–R8 still IN_PROGRESS, ZERO academic approvals. 26 Oct: R1 PASS after direct official Annexure II p29 visual inspection and 11-clause mapping. MCQ11/12 keys checked against IMD operational criteria, remaining 23 MCQ keys/distractors pending. First four mains answers given analytical subheadings in source; PDF sync requires post-render verification. 26 Oct latest: source register G9-G12 Markdown table layout fixed after visual defect, CI renderer run 40303002957 SUCCESS; remote PDF SHA256 9629ac7561a63902e8792cd1a9874f8dc7a0268b9784743e0f10652c736e1bc9 equals local regenerated PDF; 27 pages. Post-final-render packaging artifact CRC still pending; R8 IN_PROGRESS.\n26 Oct Turn11: IN-PLACE integrated student edition expanded 11 sections (+2052 explanatory words), sections under 300 reduced 20→9, source tags G13 India Code and G14 CGWB–IIT-H added; UNCLOS Q5/Q17, IMD Q11/Q12, NCERT Q15/Q24 key source-correspondence supported, 19 keys and all distractors still pending. Source commit 63ecd311; PDF renderer 40310989188 SUCCESS; post-render ZIP and full-res/public browser QA not yet certified. Evidence project-control/academic-readiness/2-3-1-turn11-depth-and-mcq-evidence-2026-10-26.json.",
+  "next_action": "R2 dedup/editorial, R3 deepen nine remaining <300-word concepts and check substance, R4 primary source page-level verification, R5 verify 19 remaining MCQ keys and all distractors, R6 six mains fact-checks, R7 maps/visuals, R8 download post-render package, CRC/hash, full-res every-page review, public browser QA. R1 PASS; R2-R8 NOT PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_report": "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
@@ -68,12 +68,14 @@
       "C": 7,
       "D": 4
     },
-    "latest_source_revision_commit": "42cca0a19d3168f5340d2c7ee0b0806cbabd1cea",
+    "latest_source_revision_commit": "63ecd3111bbe5ca67e65e19dd52d267a03af2be6",
     "source_to_pdf_resync_pending_verification": false,
     "renderer_run_latest": 40303002957,
     "latest_render_qa": "project-control/academic-readiness/2-3-1-turn10-render-layout-qa-2026-10-26.json",
-    "post_latest_render_artifact_download_pending": false,
-    "latest_verified_remote_qa": "project-control/academic-readiness/2-3-1-turn10-final-remote-artifact-qa-2026-10-26.json"
+    "post_latest_render_artifact_download_pending": true,
+    "latest_verified_remote_qa": "project-control/academic-readiness/2-3-1-turn10-final-remote-artifact-qa-2026-10-26.json",
+    "latest_renderer_run": 40310989188,
+    "latest_renderer_result": "SUCCESS"
   },
   "integrated_build_preflight": "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json",
   "integrated_artifact_qa": "project-control/academic-readiness/2-3-1-final-integrated-artifact-qa-2026-10-26.json",
@@ -86,13 +88,17 @@
   },
   "mcq_primary_key_checks": {
     "checked_questions": [
+      5,
       11,
-      12
+      12,
+      15,
+      17,
+      24
     ],
-    "supported_keys": 2,
-    "remaining_keys_not_primary_checked": 23,
+    "supported_keys": 6,
+    "remaining_keys_not_primary_checked": 19,
     "distractors_not_fully_validated": true,
-    "evidence_path": "project-control/academic-readiness/2-3-1-mcq11-12-primary-key-check-2026-10-26.json",
+    "evidence_path": "project-control/academic-readiness/2-3-1-turn11-depth-and-mcq-evidence-2026-10-26.json",
     "R5": "IN_PROGRESS"
   },
   "mains_structural_revision": {
@@ -125,6 +131,36 @@
     "sections_under_300_before": 23,
     "sections_under_300_after": 20,
     "still_incomplete": true,
-    "evidence_path": "project-control/academic-readiness/2-3-1-depth-priority-expansion-2026-10-26.json"
+    "evidence_path": "project-control/academic-readiness/2-3-1-turn11-depth-and-mcq-evidence-2026-10-26.json",
+    "latest_source_commit": "63ecd3111bbe5ca67e65e19dd52d267a03af2be6",
+    "expanded_sections_cumulative": [
+      10,
+      17,
+      24,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      16,
+      18,
+      19,
+      22
+    ],
+    "sections_under_300_before_latest": 20,
+    "sections_under_300_after_latest": 9,
+    "remaining_under_300": [
+      1,
+      11,
+      12,
+      13,
+      14,
+      15,
+      20,
+      21,
+      23
+    ]
   }
 }
