@@ -84,6 +84,20 @@
       "source": "https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6.pdf",
       "status": "INDEXED_OFFICIAL_ACT_NOT_FULL_PAGE_REVIEW",
       "limitation": "Direct clause-level legal review still required."
+    },
+    {
+      "id": "C10",
+      "claim": "Pranhita sub-basin formed downstream of Wainganga–Wardha confluence",
+      "source": "https://cwc.gov.in/sites/default/files/GWDTAward%20Further%20Report.pdf",
+      "status": "CORROBORATED_ORIGINAL_CWC_TRIBUNAL_TEXT",
+      "limitation": "Basin definition, not current water-flow or interstate allocation quantity."
+    },
+    {
+      "id": "C11",
+      "claim": "Forest cover differs from legally recorded forest area",
+      "source": "https://fsi.nic.in/isfr2019/isfr-fsi-vol1.pdf",
+      "status": "CORROBORATED_FSI_ISFR2019_SECTION_1_3",
+      "limitation": "Definition only, not current forest area/cover statistics."
     }
   ],
   "academic_gates": {
@@ -106,5 +120,21 @@
     "Fourteen concepts remain below 300 words except §7; full-page depth not certified.",
     "Direct public-browser and PDF accessibility tests pending.",
     "Original official PYQs authenticated: zero."
-  ]
+  ],
+  "mcq_correct_keys_directly_source_correlated": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    14,
+    15,
+    16,
+    20,
+    23,
+    25,
+    10
+  ],
+  "mcq_note": "13 correct keys have source correspondence or direct conceptual derivation; 12 keys and ALL distractors still require systematic independent claim-level validation. Answer balancing is not evidence of quality."
 }
