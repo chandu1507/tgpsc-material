@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-1",
+  "workflow_run_id": 40403943655,
+  "artifact_id": 12690101438,
+  "actual_downloaded_artifact": "TGPSC_TURN22_POST_MAINS_EDITS_ARTIFACT.zip",
+  "outer_zip_crc_pass": true,
+  "inner_zip_crc_pass": true,
+  "inner_files": 1516,
+  "original_topic_pdfs": 75,
+  "exactly_expected_75_slots": true,
+  "readiness_jsons": 75,
+  "html_pages": 78,
+  "local_file_links_checked": 1001,
+  "broken_local_links": 0,
+  "fragment_links_checked": 686,
+  "spa_hash_routes_not_dom_fragments": 64,
+  "broken_fragments": 0,
+  "original_p311_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "original_p311_pdf_preserved": true,
+  "mains_body_word_counts": [
+    215,
+    206,
+    211,
+    209,
+    210,
+    216
+  ],
+  "six_answer_length_check_pass": true,
+  "new_evidence_in_actual_artifact": true,
+  "R6": "IN_PROGRESS",
+  "independent_academic_approved": false,
+  "publication_limits": [
+    "No integrated new Topic 3-1-1 PDF generated",
+    "Full-resolution accessibility and public-browser QA not certified",
+    "Only four NCERT conceptual correspondences, not comprehensive R4/R6"
+  ],
+  "method": "Downloaded outer ZIP and nested publication ZIP; testzip both; enumerate original PDF paths by Paper 2–6 × Unit 1–3 × Topic 1–5; parse 78 HTML pages with BeautifulSoup, check local href paths and actual DOM fragments, separately classify SPA hash routes; compare legacy PDF SHA256 and extract six model-answer body lengths."
+}
