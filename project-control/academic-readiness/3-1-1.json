@@ -21,7 +21,7 @@
     "R2": "IN_PROGRESS",
     "R3": "BLOCKED",
     "R4": "IN_PROGRESS",
-    "R5": "BLOCKED",
+    "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
     "R8": "BLOCKED"
@@ -29,9 +29,10 @@
   "evidence": [
     "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn22-answer-length-and-ncert-concept-check-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn23-tribal-law-depth-and-five-mcq-check-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-turn23-tribal-law-depth-and-five-mcq-check-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json"
   ],
-  "next_action": "Integrate other shallow concepts without duplication, add and source-check 10 remaining original MCQs, audit earlier ten keys/distractors and all six mains, original diagrams and synchronized CI PDF, full page/portal QA.",
+  "next_action": "Now 25 original explained MCQs exist, but full independent audit of all 25 keys/100 alternatives pending; complete depth, six mains source checks, diagrams, synchronized PDF and R8.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -81,20 +82,16 @@
   },
   "verified_current_mcq_bank": {
     "date": "2026-10-27",
-    "total_original_four_option_questions": 15,
-    "new_questions_added_this_cycle": 5,
-    "new_question_ids": [
-      11,
-      12,
-      13,
-      14,
-      15
-    ],
-    "source_correlated_new_keys_and_distractors": 5,
-    "prior_ten_independently_checked_in_this_cycle": false,
-    "remaining_to_25": 10,
+    "total_original_four_option_questions": 25,
+    "new_questions_added_turn23": 5,
+    "new_questions_added_turn24": 10,
     "official_pyqs_authenticated": 0,
-    "scope": "Five PESA/FRA statute-grounded original practice items; partial R5, not full validation."
+    "ten_turn24_items_author_source_correlated": true,
+    "turn24_constitution_items_directly_checked": 7,
+    "turn24_census_metadata_checked": 1,
+    "turn24_ncert_items_index_correlated_only": 2,
+    "all_25_keys_and_100_distractors_independently_checked": false,
+    "remaining_to_25": 0
   },
   "substantive_depth_progress": {
     "date": "2026-10-27",
