@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-1",
+  "scope": "Existing Indian Society topic only; exactly 75 originals unchanged",
+  "operation": "Added ten original non-PYQ four-option practice questions numbered 16–25 in existing verified-mcqs.md; source correspondence documented, not independent academic validation.",
+  "evidence_source_commit": "79f916f4f7f9d38b45a66c67f1fb8338cc57242c",
+  "question_bank": {
+    "previous_total": 15,
+    "new_questions": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_total": 25,
+    "original_practice_only": true,
+    "authenticated_official_pyqs": 0,
+    "all_25_independently_validated": false,
+    "earlier_15_pending_independent_review": true
+  },
+  "source_checks": [
+    {
+      "ids": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "source": "Government of India Legislative Department, Constitution of India, as on 11 Nov 2025, English-Kannada diglot",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "direct_pdf_text_read": true,
+      "articles": [
+        "17",
+        "15(2)",
+        "29(1)",
+        "30(1)",
+        "350A",
+        "350",
+        "25(1)"
+      ]
+    },
+    {
+      "ids": [
+        23
+      ],
+      "source": "Office of Registrar General and Census Commissioner, C-16 Population by mother tongue, Census 2011",
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10191",
+      "direct_catalogue_read": true
+    },
+    {
+      "ids": [
+        24,
+        25
+      ],
+      "source": "NCERT Class XII Indian Society Chapter 3 via IIT Kanpur SATHEE",
+      "url": "https://sathee.iitk.ac.in/ncert-books/class-12/sociology/indian-society/chapter-03-social-institutions-continuity-and-change/",
+      "direct_open_failed_403": true,
+      "search_index_correspondence_only": true
+    }
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "remaining": [
+    "Audit all 25 MCQ keys and all 100 distractor alternatives independently",
+    "Claim-level source checks for six mains",
+    "Depth consolidation and original diagrams",
+    "Synchronized integrated PDF and full visual/accessibility/public-browser QA"
+  ],
+  "independent_academic_approvals": 0
+}
