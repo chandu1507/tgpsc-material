@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-4",
+  "title": "Telangana: Agriculture, Irrigation, Industry and Population",
+  "kind": "objective_gap_assessment_from_archived_source_and_current_remote_blob_identity",
+  "archive": "TGPSC_TURN15_FINAL_CONTROL_SYNC_GITHUB_ARTIFACT.zip",
+  "archive_baseline": "Archived Turn15 copy; current GitHub detailed notes, mains, repair and original PDF Git blob SHAs matched independently",
+  "remote_source_git_blobs": {
+    "detailed_notes": "7f4a525587c6eba9ff789ede949bcddb30f0fd27",
+    "mains": "f01163b4222a067fde4a7bf163e0c0da68eb0595",
+    "prior_repair": "0e9a718681b9bdee06cb32cdc73a2052cea3bc91",
+    "original_pdf": "ae4b332ddea0c81b443910435bce11f93125094f"
+  },
+  "original_pdf": {
+    "pages": 8,
+    "sha256": "5a544ab369c285c6cc54cafa7ade872bddc2b9f517a6cffe19ec1048586496d1",
+    "preserved": true
+  },
+  "concepts": {
+    "count": 15,
+    "per_section_word_counts": [
+      116,
+      106,
+      104,
+      105,
+      107,
+      110,
+      99,
+      96,
+      102,
+      114,
+      96,
+      100,
+      115,
+      112,
+      90
+    ],
+    "under_150_words": 15,
+    "under_300_words": 15
+  },
+  "prior_repair": {
+    "exists": true,
+    "sections": 6,
+    "approx_words": 1004,
+    "provenance_labelled_master_exists": true,
+    "synchronized_integrated_pdf_not_demonstrated": true
+  },
+  "mcqs": {
+    "original_explained_four_option": 0,
+    "authenticated_official_pyqs": 0
+  },
+  "mains": {
+    "complete_answers": 2,
+    "word_counts": [
+      258,
+      244
+    ],
+    "answers_within_200_to_250": 1,
+    "required": 6
+  },
+  "diagrams": {
+    "original_svg_count": 0,
+    "described_conceptual_visuals_not_independently_verified": true
+  },
+  "source_limitations": [
+    "Official syllabus reproduced locally; original TGPSC PDF clause-by-clause direct recheck not performed for this topic.",
+    "Government reports and UNESCO Ramappa decision linked but direct claim-level verification not completed.",
+    "Existing quality-audit marked textbook depth and diagrams complete despite 15/15 narrative sections under 150 words and no original SVG diagrams."
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "independently_academically_approved": false,
+  "independent_reviewer": null,
+  "next_actions": [
+    "Integrate existing 15 concepts and six-section repair into one coherent master without discarding legacy PDF.",
+    "Develop nonrepetitive textbook explanations with exact Telangana examples and source tags.",
+    "Write 25+ original explained four-option MCQs with independent claim-level key/distractor checks.",
+    "Complete six 200–250-word structured mains answers; current answer 1 exceeds 250.",
+    "Create accurate original SVG visuals, revision, source register, synchronized PDF and offline portal links.",
+    "Download actual post-render GitHub Actions artifact and check ZIP CRC, 75 original PDFs, 75 readiness records, links, SHA and page legibility."
+  ]
+}
