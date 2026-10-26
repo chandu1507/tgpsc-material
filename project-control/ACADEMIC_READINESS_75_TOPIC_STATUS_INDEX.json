@@ -8,7 +8,7 @@
   "not_assessed_count": 73,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics. Topics 2-2-4 and 2-2-5 have R1 PASS; ZERO fully ready or academically approved. Topic 2-2-5 MCQ correction (24/30 rewritten) and 35-page integrated PDF have been verified in an actual downloaded post-render GitHub artifact (CRC/75 original PDFs/75 readiness JSON/459 links PASS). R5 remains IN_PROGRESS pending independent factual item review; R4 BLOCKED on originals; R8 pending public browser and detailed student usability.",
+  "warning": "Exactly 75 topics; Topics 2-2-4 and 2-2-5 R1 PASS; ZERO fully ready or independently approved. Topic5 MCQ19 contradictory negative stem corrected in integrated edition; 30-item source-correspondence review: 10 limited corroborations, 20 pending direct evidence; direct original 1947 and 1956 statutes added. Post-render GitHub artifact 12636011656 actually downloaded, ZIP CRC PASS, 1443 files, 75 original PDFs, 75 readiness JSONs, 459 relative links/zero broken, 35-page PDF SHA256 d967c25137b5e2b0a1fd886d1000a7f0345c1fc8546bf53654699e9e11669efe. R5/R8 IN_PROGRESS, R4 BLOCKED.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -87,7 +87,7 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26",
+  "last_readiness_update": "2026-10-26: MCQ19 correction, 10/30 source checks, 35-page PDF and ZIP verified",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5"
@@ -100,6 +100,8 @@
     "project-control/academic-readiness/2-2-5-editorial-correction-2026-10-26.json",
     "project-control/academic-readiness/2-2-4-official-syllabus-r1-verified.json",
     "project-control/academic-readiness/2-2-5-depth-mcq-preflight-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-primary-source-recovery-2026-10-26.md"
+    "project-control/academic-readiness/2-2-5-primary-source-recovery-2026-10-26.md",
+    "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json",
+    "project-control/academic-readiness/2-2-5-mcq19-corrected-artifact-qa-2026-10-26.json"
   ]
 }
