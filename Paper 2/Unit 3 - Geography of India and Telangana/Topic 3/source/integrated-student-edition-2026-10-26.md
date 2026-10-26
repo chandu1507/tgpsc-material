@@ -108,301 +108,301 @@ Separate schemes for soil conservation, forest management, tanks, urban flooding
 
 ### MCQ 1. Which comparison is valid when studying forest-area change after district reorganisation?
 
-A. Compare raw totals of differently sized districts
+A. Compare successive district totals without adjusting their borders
 
-B. Use common boundaries and a consistent forest-cover definition
+B. Reaggregate both years to common boundaries and use the same forest-cover definition
 
-C. Treat legal forest area as identical to satellite tree cover
+C. Compare legal forest acreage in one year with satellite canopy cover in another
 
-D. Compare 2011 district counts with current state totals
+D. Use percentage change in reported area without checking mapping methods
 
 **Answer: B. Explanation:** Changing district boundaries and definitions can create artificial changes in area statistics. [T1]
 
 ### MCQ 2. Which event legally established the separate state of Telangana in 2014?
 
-A. Hyderabad's accession in 1948
+A. The Indian Independence Act, 1947, which ended British paramountcy
 
-B. The States Reorganisation Act of 1956
+B. The States Reorganisation Act, 1956, which formed Andhra Pradesh
 
-C. The Andhra Pradesh Reorganisation Act, 2014, effective on the appointed day
+C. The Andhra Pradesh Reorganisation Act, 2014, effective from the appointed day
 
-D. The creation of new Telangana districts after 2014
+D. The Andhra Pradesh Reorganisation (Amendment) Act, 2015
 
 **Answer: C. Explanation:** The 2014 Act created the new state; 1948 and 1956 describe different constitutional stages. [T1,T2]
 
 ### MCQ 3. What does the CGWB 2022 estimate of roughly 81% hard-rock area describe?
 
-A. A share of the state's geological area
+A. The share of Telangana's geological area under consolidated hard-rock formations
 
-B. A share of all borewells yielding less than one litre per second
+B. The share of groundwater assessment units classed as over-exploited
 
-C. A share of Telangana's rainfall reaching groundwater
+C. The share of irrigation withdrawals supplied by groundwater
 
-D. A share of Telangana's legally notified forests
+D. The share of annual rainfall estimated as aquifer recharge
 
 **Answer: A. Explanation:** It describes the area under consolidated hard-rock formations, not well yields or rainfall fractions. [T3]
 
 ### MCQ 4. Why can neighbouring borewells in granitic terrain have different yields?
 
-A. Granite everywhere has high uniform primary porosity
+A. Granite has uniform primary porosity, so differences must be pump defects
 
-B. The monsoon always bypasses granite
+B. Only borewell depth, not fracture connectivity, controls yield
 
-C. The legal district boundary controls permeability
+C. Water levels in hard rock are always spatially identical after the monsoon
 
-D. Weathered zones and connected fractures are spatially discontinuous
+D. Local weathered thickness and connected fractures vary over short distances
 
 **Answer: D. Explanation:** Hard-rock aquifer productivity depends on local weathering and fractures, not uniform matrix porosity. [T3]
 
 ### MCQ 5. Which geological setting most directly explains the Godavari Valley coalfield?
 
-A. Recent coastal alluvium
+A. Dharwar metamorphic schist belts
 
 B. Gondwana sedimentary formations
 
-C. Deccan basalt lava alone
+C. Deccan Trap volcanic flows alone
 
-D. Unweathered granite batholiths
+D. Recent river-valley alluvial deposits
 
 **Answer: B. Explanation:** The coal-bearing succession is associated with Gondwana sedimentary basins. [T3]
 
 ### MCQ 6. A reservoir's gross storage and an irrigation command's served area differ because:
 
-A. Storage is a water volume; command is a distribution/service area
+A. Gross storage is a volume; the command is an area potentially served by distribution works
 
-B. Both are equivalent measures of farm irrigation
+B. Gross storage is identical to annual water released to all command farms
 
-C. A command always covers the entire drainage basin
+C. The command area is the same as the catchment feeding the reservoir
 
-D. A reservoir's live storage equals annual irrigation demand
+D. A reservoir's dead storage directly measures irrigated hectares
 
 **Answer: A. Explanation:** A physical water volume does not establish which farms actually receive water. [T7]
 
 ### MCQ 7. For a whole-catchment budget that already includes groundwater storage and stream baseflow, recharge is best treated as:
 
-A. A second rainfall input added to precipitation
+A. Recharge is always an atmospheric loss like evapotranspiration
 
-B. A permanently lost atmospheric flux
+B. Recharge is identical to exported surface runoff
 
-C. An internal transfer between hydrologic compartments
+C. Recharge is a transfer between soil and groundwater compartments
 
-D. An independent output added again to all groundwater storage changes
+D. Recharge must be added to storage change as a second basin-wide loss
 
 **Answer: C. Explanation:** Recharge moves water between compartments; double counting arises if it is also counted as an independent basin loss. [T7]
 
 ### MCQ 8. Which variable most directly distinguishes an aquifer water table from a single pumped-well reading?
 
-A. District population density
+A. One pumping well's minimum water level during continuous pumping
 
-B. Annual reservoir capacity
+B. A single borewell's initial yield at drilling
 
-C. The name of the nearest tributary
+C. An administrative district's annual mean rainfall
 
-D. Spatially and temporally representative groundwater-head observations
+D. Representative observation-well heads monitored over time and space
 
 **Answer: D. Explanation:** A pumping well can show transient drawdown; aquifer-level assessment needs representative monitoring. [T3,T7]
 
 ### MCQ 9. Which statement about rainfall anomalies is sound?
 
-A. Normal seasonal totals guarantee no dry spells
+A. Near-normal seasonal rainfall guarantees normal reservoir storage
 
-B. Near-normal totals can coexist with crop-stressing dry spells and intense storms
+B. A near-normal seasonal total can hide dry spells and intense events
 
-C. ENSO precisely fixes each district's rainfall
+C. Seasonal total alone determines crop moisture regardless of timing
 
-D. The number of rainy days is irrelevant once annual total is known
+D. A near-normal total excludes a meteorological drought in every sub-district
 
 **Answer: B. Explanation:** Seasonal totals conceal intraseasonal distribution and evaporative demand. [T3; conceptual]
 
 ### MCQ 10. The Pranhita is most appropriately mapped as:
 
-A. A Godavari tributary system associated with Wardha and Wainganga
+A. The Wainganga–Wardha system that becomes Pranhita before joining Godavari
 
-B. A distributary leaving the Godavari delta
+B. The Manjira–Haridra system entering the upper Godavari
 
-C. A direct tributary of the Krishna at Hyderabad
+C. The Manair–Musi system draining toward the Krishna
 
-D. An engineered irrigation canal below Nagarjuna Sagar
+D. The Indravati–Sabari system below the lower Godavari
 
 **Answer: A. Explanation:** The CWC Godavari Water Disputes Tribunal report defines Pranhita sub-basin and states that Wainganga becomes Pranhita after its confluence with Wardha. [T10]
 
 ### MCQ 11. Why is the Musi important to Krishna-basin urban geography?
 
-A. It is Telangana's only perennial snow-fed river
+A. Musi drains northward into the Manjira sub-basin
 
-B. It drains into the Arabian Sea without joining Krishna
+B. Musi is a tributary of Pranhita and outside Krishna basin
 
-C. It has no relation to Hyderabad's urban wastewater or flood risk
+C. Musi carries Hyderabad runoff only to isolated endorheic tanks
 
-D. It links an urban catchment's runoff and pollution to the wider Krishna system
+D. Musi connects Hyderabad's urban runoff and pollution to the Krishna basin
 
 **Answer: D. Explanation:** The Musi illustrates interaction of natural drainage, land use and water quality. Detailed basin map source still pending.
 
 ### MCQ 12. Which factor is most relevant to a tank-restoration project's net basin benefit?
 
-A. Number of publicity events at the tank
+A. The excavated silt volume, without measuring restored inflows
 
-B. Quantity of excavated sediment alone
+B. The nominal design capacity, independent of water quality
 
-C. Functioning feeder channels, water quality, storage change and downstream impacts
+C. Feeder-channel function, actual storage, quality and downstream effects
 
-D. Whether all seepage is eliminated
+D. The number of new concrete lining works regardless of recharge impacts
 
 **Answer: C. Explanation:** Restoration must be assessed by hydrologic performance and distributional effects, not excavation alone. [T7]
 
 ### MCQ 13. Which pairing is most defensible for Telangana soil processes?
 
-A. Red soils always contain swelling smectite; black soils never crack
+A. Red loams uniformly have higher shrink–swell clay than black soils
 
-B. Red loams often weather from crystalline rocks; some black clays swell and shrink
+B. Many red loams form on crystalline parent rocks; some black clays shrink and swell
 
-C. Every black soil occurs only on basalt; every red soil only on alluvium
+C. All black soils form exclusively on fresh Deccan basalt, with no other parent material
 
-D. Soil colour alone fixes the optimal crop
+D. Soil colour alone predicts the best crop regardless of depth and drainage
 
 **Answer: B. Explanation:** Soil texture, mineralogy, depth and drainage—not colour alone—control performance. [T3; site testing required]
 
 ### MCQ 14. Which reserve is identified with the Nallamala landscape and Krishna catchment?
 
-A. Amrabad Tiger Reserve
+A. Amrabad in the Nallamala–Krishna landscape
 
-B. Kawal Tiger Reserve
+B. Kawal in the northern Godavari landscape
 
-C. Indravati Tiger Reserve
+C. Eturnagaram in the eastern Godavari forest belt
 
-D. Tadoba-Andhari Tiger Reserve
+D. Kinnerasani in the lower Godavari landscape
 
 **Answer: A. Explanation:** WII places Amrabad in the Nallamala/Krishna landscape. [T4]
 
 ### MCQ 15. Which distinction is necessary when citing Amrabad's reserve area?
 
-A. Core area is always larger than total reserve
+A. Core area is the same as the reserve's entire ecological corridor
 
-B. The core area equals the district's entire forest
+B. The notified core always includes every surrounding village
 
-C. All reserve statistics describe the same boundary and year
+C. Core area can be treated as total area for comparisons across years
 
-D. Core and total reserve area have different boundaries and denominators
+D. Core and total reserve figures refer to different mapped areas and denominators
 
 **Answer: D. Explanation:** WII reports distinct core and total areas; avoid merging them. [T4,T9]
 
 ### MCQ 16. Which corridor statement is supported by the WII assessment of Kawal?
 
-A. Kawal is isolated from all central Indian tiger landscapes
+A. The Amrabad–Nagarjunasagar Srisailam Nallamala complex
 
-B. Kawal is a marine wildlife corridor
+B. The Periyar–Anamalai southern Western Ghats complex
 
-C. It is connected to broader Tadoba/Tipeshwar-associated landscapes
+C. Tadoba/Tipeshwar-associated central Indian landscape connections
 
-D. Its corridor value proves every tiger sighting is a breeding resident
+D. The Similipal–Satkosia eastern India landscape
 
 **Answer: C. Explanation:** WII identifies broader landscape connectivity, not guaranteed current occupancy. [T5]
 
 ### MCQ 17. Why is a monoculture plantation not interchangeable with natural forest?
 
-A. Tree count is the only measure of biodiversity
+A. Tree-cover area alone guarantees equivalent native species diversity
 
-B. Habitat structure, species diversity and ecological functions can differ
+B. Species composition, structure and habitat functions may differ substantially
 
-C. All plantations have higher native species diversity
+C. Legally recorded forest area guarantees old-growth vegetation
 
-D. Forest legal status automatically determines canopy composition
+D. Any single-species plantation necessarily recreates native prey habitat
 
 **Answer: B. Explanation:** Canopy cover alone does not capture habitat complexity and native biodiversity. [T4,T5]
 
 ### MCQ 18. What distinguishes a coal reserve from annual coal production?
 
-A. A reserve is an estimated recoverable stock; production is an extraction flow
+A. Recoverable reserve is a stock estimate; annual production is extracted flow
 
-B. Both are measured only in MW
+B. Reserve is the electricity generated per year; production is installed MW
 
-C. Production is always larger than reserves
+C. Reserve means coal sold in one month; production means geological in-situ stock
 
-D. A coalfield map itself proves recoverability
+D. A coalfield outline by itself establishes recoverable reserve tonnage
 
 **Answer: A. Explanation:** Stocks, extraction flows and electrical capacity are different quantities. [T6; mine-specific inventory pending]
 
 ### MCQ 19. Why does limestone-based cement have process emissions?
 
-A. Only quarry trucks emit CO2
+A. Only fuel combustion during clinker heating
 
-B. All CO2 arises from grid electricity
+B. Only transport emissions from quarry to cement plant
 
-C. Limestone has no carbon-containing component
+C. Only purchased electricity used for grinding
 
-D. Calcination releases CO2 from carbonate mineral chemistry
+D. Carbon dioxide released when limestone carbonate is calcined
 
 **Answer: D. Explanation:** CaCO3 decomposition produces CO2 independent of fuel emissions. [General chemistry; source audit pending]
 
 ### MCQ 20. What is the installed capacity of NTPC's named Ramagundam station on its official profile?
 
-A. 1,600 MW
+A. 2,100 MW, corresponding to the first two stages alone
 
-B. 2,600 MW
+B. 2,600 MW, the three-stage installed station capacity
 
-C. 3,600 MW
+C. 1,600 MW, the separate Telangana STPP Phase-I capacity
 
-D. 5,200 MW
+D. 3,100 MW, obtained by adding an uncommissioned 500-MW unit
 
 **Answer: B. Explanation:** The official NTPC station profile reports 2,600 MW; do not conflate separate Telangana STPP. [T8]
 
 ### MCQ 21. A 1,000-MW station averaging 70% capacity factor for 24 hours produces approximately:
 
-A. 700 MWh
+A. 7,000 MWh, omitting most hours of operation
 
-B. 1,680 MWh
+B. 24,000 MWh, assuming 100% utilisation
 
-C. 16,800 MWh
+C. 16,800 MWh, multiplying MW by 0.70 and 24 hours
 
-D. 24,000 MW
+D. 168,000 MWh, introducing a tenfold unit conversion error
 
 **Answer: C. Explanation:** Energy = capacity × utilisation × hours = 1000 × 0.70 × 24 = 16,800 MWh. [T8; arithmetic]
 
 ### MCQ 22. Why can hydroelectric energy fall while installed MW remains unchanged?
 
-A. River discharge and hydraulic head can vary with reservoir conditions
+A. Usable water discharge and hydraulic head can vary while rated MW remains fixed
 
-B. Installed capacity is recalculated daily from rainfall
+B. Installed MW automatically falls in proportion to seasonal rainfall
 
-C. Every hydropower unit generates at nameplate output continuously
+C. Hydropower plants dispatch exactly rated MW in every operating hour
 
-D. Environmental flows are identical to electrical demand
+D. Reservoir releases for irrigation always maximise turbine energy
 
 **Answer: A. Explanation:** MW is rated capacity; actual MWh depends on usable head, flow, efficiency and operating decisions. [T7; conceptual]
 
 ### MCQ 23. What is the most accurate comparison of forest cover and recorded forest area?
 
-A. They are always identical by law
+A. Forest cover means only land notified under a forest statute
 
-B. Recorded forest area is always dense natural forest
+B. Recorded forest area means any satellite-observed tree canopy above 10%
 
-C. Forest cover cannot occur outside legal forests
+C. Forest cover and recorded forest area are interchangeable in ISFR tables
 
-D. One is land-cover classification; the other is legal/administrative status
+D. Forest cover measures observed canopy; recorded forest area reflects legal/administrative status
 
 **Answer: D. Explanation:** The Forest Survey of India's ISFR 2019 defines forest cover by observed canopy regardless of legal status, while recorded forest area is a legal/administrative category. [T11]
 
 ### MCQ 24. For evaluating canal lining as a basin-wide water-saving intervention, what must be considered?
 
-A. Only the contractor's completed canal length
+A. Seepage is always irrecoverably evaporated before reaching groundwater
 
-B. Whether seepage formerly contributed to usable groundwater or downstream flow
+B. Seepage may have recharged usable aquifers or supported downstream flow
 
-C. Only the reduced wet area on the canal surface
+C. Lining increases water availability by exactly the old seepage volume in every basin
 
-D. Whether the project eliminates crop water demand
+D. The canal's lined length alone proves reduced total basin depletion
 
 **Answer: B. Explanation:** A local seepage reduction may not equal a basin-wide reduction in depletion. [T7]
 
 ### MCQ 25. Which evidence best supports an integrated watershed decision in Telangana?
 
-A. One statewide annual rainfall average
+A. Statewide rainfall normal without sub-basin data
 
-B. A map of district headquarters alone
+B. District headquarters and reservoir inauguration dates
 
-C. Catchment drainage, aquifer monitoring, water quality and downstream-user observations
+C. Catchment flows, aquifer trends, water quality and user-level distribution evidence
 
-D. A list of dam inauguration dates
+D. Total watershed expenditure and desilted cubic metres alone
 
 **Answer: C. Explanation:** Water security needs physical and institutional evidence at appropriate spatial and temporal scales. [T3,T7]
 
