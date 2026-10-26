@@ -166,7 +166,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "integrated_student_edition_draft_published_academic_review_pending",
-      "notes": "26 Oct Turn16: original 7-page legacy PDF SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9 preserved. Existing Topic 2-3-3 integrated editable master published with 14 concepts (13 under 300 words), 25 original explained MCQs, six 200-250-word structured mains answers, two original conceptual SVGs, nine source-correlated claims. Repaired a real ambiguous water-budget formula in detailed notes, recovered master and offline HTML. CI PDF generation and artifact QA pending. R1-R8 IN_PROGRESS; R9 not started; ZERO academic approval.",
+      "notes": "26 Oct Turn16: one integrated Topic 2-3-3 student master published; 14 concepts (13 under 300 words), 25 explained original MCQs with 25 editorially revised distractor sets (13 keys source-correlated, not independently audited), six 200–250-word structured mains answers, two original SVG diagrams, 11 source-register entries. Corrected catchment recharge double-counting ambiguity in source/portal. CI rendered synchronized searchable 18-page PDF SHA256 3437b3bfc8bf9b97f0a6ad6d81dade39867d149fa1ba6c780623bec99828e067; legacy 7-page PDF SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9 preserved. Final packaging download and public-browser QA pending. R1-R8 IN_PROGRESS, zero academic approvals.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-3.json"
     },
