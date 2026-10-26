@@ -32,7 +32,8 @@
     "project-control/academic-readiness/3-1-1-turn23-tribal-law-depth-and-five-mcq-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn24-two-original-svg-learning-aids-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-turn24-two-original-svg-learning-aids-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-turn24-final-package-and-svg-qa-2026-10-27.json"
   ],
   "next_action": "11/18 narrative sections below 300; 25 original MCQs need full independent item audit, six mains source checks, two SVGs need full-res QA and integrated-PDF inclusion, R8 remains blocked.",
   "external_reviewer": null,
@@ -118,11 +119,12 @@
   "original_learning_aids": {
     "date": "2026-10-27",
     "svg_count": 2,
-    "full_resolution_checked": false,
+    "full_resolution_checked": true,
     "integrated_pdf_inclusion_checked": false,
     "paths": [
       "Paper 3/Unit 1 - Indian Society/Topic 1/source/indian-society-integration-mechanisms.svg",
       "Paper 3/Unit 1 - Indian Society/Topic 1/source/family-household-kinship-distinction.svg"
-    ]
+    ],
+    "qa_scope": "SVG XML parsed; rasterized at native output width and both images visually inspected for gross layout. Screen-reader, keyboard and integrated-PDF QA NOT done."
   }
 }
