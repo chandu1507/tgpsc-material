@@ -1,0 +1,114 @@
+{
+  "topic_id": "2-3-1",
+  "gate": "R1",
+  "status": "PASS",
+  "verification_date": "2026-10-26",
+  "source": {
+    "publisher": "Telangana State Public Service Commission",
+    "document": "Notification No. 02/2024, dated 19 February 2024",
+    "annexure": "II",
+    "printed_page": 29,
+    "pdf_zero_based_page": 28,
+    "section": "Paper II, Section III, Geography of India and Telangana, item 1",
+    "official_url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "access": "Official PDF opened directly via web retrieval and PDF page 28 visually inspected; previous 403 no longer blocks this check"
+  },
+  "atomic_mapping": [
+    {
+      "number": 1,
+      "syllabus_clause": "Physical setting",
+      "chapter_sections": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "syllabus_clause": "Physiography",
+      "chapter_sections": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "number": 3,
+      "syllabus_clause": "Drainage",
+      "chapter_sections": [
+        7,
+        8
+      ]
+    },
+    {
+      "number": 4,
+      "syllabus_clause": "Climate: mechanism of monsoon",
+      "chapter_sections": [
+        9,
+        10
+      ]
+    },
+    {
+      "number": 5,
+      "syllabus_clause": "Effects of El Niño and La Niña",
+      "chapter_sections": [
+        11
+      ]
+    },
+    {
+      "number": 6,
+      "syllabus_clause": "Rainfall variability",
+      "chapter_sections": [
+        12
+      ]
+    },
+    {
+      "number": 7,
+      "syllabus_clause": "Floods and drought",
+      "chapter_sections": [
+        13,
+        14
+      ]
+    },
+    {
+      "number": 8,
+      "syllabus_clause": "Soils, vegetation, wildlife, degradation and conservation",
+      "chapter_sections": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "number": 9,
+      "syllabus_clause": "Major minerals, energy resources, conservation, energy crisis, non-conventional energy",
+      "chapter_sections": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "number": 10,
+      "syllabus_clause": "Marine resources, economic significance, EEZ",
+      "chapter_sections": [
+        21
+      ]
+    },
+    {
+      "number": 11,
+      "syllabus_clause": "Water availability, interstate sharing and conservation",
+      "chapter_sections": [
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "chapter_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1/source/integrated-student-edition-2026-10-26.md",
+  "limits": [
+    "R1 confirms syllabus scope only; not correctness or sufficiency of every chapter explanation",
+    "R2–R8 remain incomplete and no independent external reviewer has approved this topic"
+  ],
+  "independent_academic_approval": false
+}
