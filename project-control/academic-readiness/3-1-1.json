@@ -24,7 +24,7 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": [
     "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json",
@@ -33,9 +33,10 @@
     "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn24-two-original-svg-learning-aids-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn24-final-package-and-svg-qa-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-turn24-final-package-and-svg-qa-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-render-qa.json"
   ],
-  "next_action": "11/18 narrative sections below 300; 25 original MCQs need full independent item audit, six mains source checks, two SVGs need full-res QA and integrated-PDF inclusion, R8 remains blocked.",
+  "next_action": "Review 33-page integrated PDF at full resolution, verify original SVG rendering, all 25 MCQ keys and 100 alternatives, six mains facts, and 11 shallow concepts. No R1-R8 PASS claim.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -126,5 +127,29 @@
       "Paper 3/Unit 1 - Indian Society/Topic 1/source/family-household-kinship-distinction.svg"
     ],
     "qa_scope": "SVG XML parsed; rasterized at native output width and both images visually inspected for gross layout. Screen-reader, keyboard and integrated-PDF QA NOT done."
+  },
+  "integrated_edition_2026_10_27": {
+    "master": "Paper 3/Unit 1 - Indian Society/Topic 1/source/integrated-student-edition-2026-10-27.md",
+    "pdf": "Paper 3/Unit 1 - Indian Society/Topic 1/source/integrated-student-edition-2026-10-27.pdf",
+    "renderer": "scripts/render_topic_3_1_1.py",
+    "workflow": ".github/workflows/render-topic-3-1-1-integrated.yml",
+    "renderer_run_id": 40423015518,
+    "renderer_run_conclusion": "success",
+    "pdf_pages": 33,
+    "pdf_sha256": "7138c9d9d5cd22fecb1c4d2c61a3384e7aedcfa2f6a1dc5e2bcf174526ba3127",
+    "all_pages_have_text": true,
+    "original_pdf_preserved": true,
+    "repair_sections_embedded": 8,
+    "conceptual_expansion_sections": [
+      5,
+      6,
+      7,
+      13
+    ],
+    "mcqs_original": 25,
+    "mains": 6,
+    "original_svg_diagrams_included": 2,
+    "complete_visual_and_accessibility_qa": false,
+    "independent_fact_audit": false
   }
 }
