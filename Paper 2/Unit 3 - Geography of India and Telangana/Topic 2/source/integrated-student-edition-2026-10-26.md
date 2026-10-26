@@ -388,9 +388,9 @@ D. Irrigation expansion alone, with unchanged crop technology
 ### Q2. Why do sugar mills tend to cluster within cane-growing regions?
 
 A. Harvested cane is bulky and time-sensitive, raising the cost of long-distance raw-cane movement  
-B. Sugarcane can grow only within a fixed radius of a mill  
-C. Refined sugar is more perishable than freshly cut cane  
-D. The main requirement is proximity to iron-ore deposits  
+B. Cane-growing regions always coincide with the largest final consumer markets  
+C. Mills must be next to retail outlets because processed sugar cannot be stored  
+D. Finished sugar normally costs more to transport per unit of value than raw cane  
 
 **Answer: A.** Raw cane's transport cost and deterioration favour nearby processing; mills can ship processed sugar much farther. **Source anchors:** [S3]. Key source-correlated; distractors not independently field-tested.
 
@@ -414,10 +414,10 @@ D. Permanently high fertility regardless of job creation
 
 ### Q5. Which intervention most directly addresses the gap between irrigation potential *created* and potential *used*?
 
-A. Enlarging a port's container terminal  
+A. Increasing reservoir capacity without completing farm-level delivery channels  
 B. Completing field channels, drainage, land levelling and participatory water management  
-C. Increasing reservoir storage without connecting farm outlets  
-D. Reclassifying unirrigated fields as command area  
+C. Increasing the designed main-canal discharge without correcting tail-end distribution  
+D. Expanding crop procurement while leaving field channels and drainage incomplete  
 
 **Answer: B.** CADWM explicitly includes last-mile on-farm works and water-user participation; the other actions do not by themselves deliver water to fields. **Source anchors:** [S10]. Correct key checked against the official CADWM programme description; distractors still require discrimination testing.
 
@@ -432,18 +432,18 @@ D. Separate local motorcycle deliveries
 
 ### Q7. Which feature most clearly distinguishes a planned industrial corridor from an isolated highway widening project?
 
-A. A guarantee that every district receives equal investment  
+A. Upgrading a highway without planned industrial nodes or last-mile services  
 B. Integrated freight connectivity, industrial nodes and supporting urban or utility infrastructure  
-C. A complete ban on other transport modes  
-D. Automatic replacement of local land-use and environmental procedures  
+C. Building one industrial estate without connecting it to trunk logistics  
+D. Adding a single freight terminal without coordinated land use and utilities  
 
 **Answer: B.** A corridor strategy combines connected production and logistics nodes; a transport backbone alone does not establish such a system. **Source anchors:** [S2,S5]. Key source-correlated; full distractor audit pending.
 
 ### Q8. Which governance difficulty is especially likely when metropolitan built-up areas expand across municipal boundaries?
 
-A. All land-use decisions become automatically unified  
-B. Commuting and drainage remain entirely inside one jurisdiction  
-C. Service obligations disappear once villages become urban  
+A. A metropolitan plan automatically gains jurisdiction over every fringe village  
+B. Commuting and drainage follow municipal boundaries rather than functional regions  
+C. Every new settlement receives the same municipal services on the day it urbanises  
 D. Transport, drainage and land-use responsibilities become fragmented across authorities  
 
 **Answer: D.** Peri-urban growth often crosses administrative jurisdictions faster than infrastructure planning is coordinated. **Source anchors:** [S2,S8]. Key source-correlated; distractor review pending.
@@ -495,9 +495,9 @@ D. Cotton can be grown only under continuously saturated soil conditions
 
 ### Q14. When comparing two otherwise similar sites for a *fresh-fruit processing* plant, which combination is most decisive?
 
-A. Distance from the nearest steel rolling mill and mineral deposit  
-B. Number of unrelated heavy-industrial estates in the district  
-C. Availability of distant imported clinker and coal handling  
+A. Proximity to the largest city even when fruit collection delays are severe  
+B. Lowest electricity tariff despite unreliable farm supply and road access  
+C. Cheapest land even when cold-chain and transport access are inadequate  
 D. Reliable seasonal fruit catchment, rapid collection, cold chain and market access  
 
 **Answer: D.** Raw-material perishability and logistics are central to fruit processing; other listed factors are not comparably direct. **Source anchors:** [S2,S3]. Key source-correlated; distractor discrimination pending.
@@ -569,7 +569,7 @@ D. Migration, life expectancy and industrial output
 
 A. Only net migration and no other demographic or administrative change  
 B. Natural increase and migration, but never reclassification  
-C. Boundary extensions alone, even if the resident count stays unchanged everywhere  
+C. Boundary extensions can never alter the count classified as urban  
 D. Natural increase, net migration, settlement reclassification and boundary change  
 
 **Answer: D.** Urban counts depend on demographic change and on the definition and boundaries of urban areas. **Source anchors:** [S8]. Key source-correlated; distinguish census classification from contemporary estimates.
@@ -577,18 +577,18 @@ D. Natural increase, net migration, settlement reclassification and boundary cha
 ### Q23. Which is the strongest criterion for evaluating whether a *Smart City* intervention improved urban welfare?
 
 A. Measured service reliability, accessibility and accountability, with technology treated as an enabling tool  
-B. The number of installed sensors, irrespective of maintenance or service outcomes  
-C. The volume of project announcements without a service baseline  
-D. The size of a control-room display even when neighbourhood coverage is unknown  
+B. Faster dashboard reporting without measuring whether services improved  
+C. Capital spending and application downloads without a service baseline  
+D. Completion of a technology pilot without long-term maintenance or coverage data  
 
 **Answer: A.** Technology is instrumental; verified outcomes and equitable access are the relevant tests. **Source anchors:** [S2,S8]. This is a policy-evaluation item, not an official PYQ.
 
 ### Q24. What comparative advantage makes roads especially useful for *dispersed rural freight origins*?
 
-A. Guaranteed lowest cost for every long-distance bulk shipment  
+A. Lower line-haul costs than rail for every large bulk shipment  
 B. Flexible collection from many small origins and feeder access to rail and market nodes  
-C. No need for maintenance, safety management or fuel  
-D. Higher line-haul scale economies than rail for every commodity  
+C. Guaranteed shorter transit times for every commodity and road condition  
+D. Direct access to all seaports without terminals or intermodal transfers  
 
 **Answer: B.** Roads provide first- and last-mile flexibility; relative long-haul costs depend on load and network conditions. **Source anchors:** [S2,S5,S12]. Key source-correlated; full item audit pending.
 
