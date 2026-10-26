@@ -39,3 +39,14 @@ Finish Topic 2-3-3 synchronized CI PDF, original-preservation/ZIP/portal QA and 
 ## Topic 2-3-4 integrated working master (26 October 2026, later production cycle)
 
 The original topic slot remains unchanged. A single editable working master has been committed in `Paper 2/Unit 3 - Geography of India and Telangana/Topic 4/source/integrated-student-edition-2026-10-26.md`, combining the existing 15 concepts, earlier six-section repair, 25 new explained original practice MCQs and six mains drafts. Four newly written mains answers have 213/211/212/222 words; the two inherited answers need review, including one previously exceeding 250 words. All 15 inherited concepts remain under 150 words; MCQ keys and distractors are NOT independently fact-checked. There is NO synchronized new PDF or verified new artifact. R1/R2/R4/R5/R6 IN_PROGRESS; R3/R7/R8 BLOCKED; no R9. Six topics IN_PROGRESS, 69 NOT_ASSESSED, ZERO R1–R8 ready, ZERO independent academic approvals.
+
+
+## Current controlling reconciliation — 27 October 2026 (supersedes historical counts above)
+
+**Exactly 75 original topic slots remain; six IN_PROGRESS** (2-2-4, 2-2-5, 2-3-1, 2-3-2, 2-3-3, 2-3-4), **one ASSESSED_REBUILD_REQUIRED** (2-3-5), **68 NOT_ASSESSED**. **Zero R1–R8 fully ready; zero independent academic approvals.** Earlier Turn17 paragraphs are retained as dated historical evidence, not current totals.
+
+Topic 2-3-4's existing integrated Markdown was expanded in place at §§4,5,6,9 with source-critical canal/tank, Mission Kakatiya, CGWB aquifer-management and statutory SEZ distinctions. Its 19-page synchronized PDF was produced by GitHub Actions run **40382078154** (SUCCESS), SHA-256 **ecb00777352f8c5a7fdb2183d33d47b928d49a7518551651b51d71f1eae60006**. The original 8-page PDF remains preserved. **Eleven of 15 original narrative concepts remain below 150 words**. Full downloaded post-render packaging, page-by-page visual accessibility, MCQ distractor and mains source audits are still incomplete; R8 IN_PROGRESS, not PASS.
+
+Topic 2-3-5 objective audit: preserved original 8-page PDF SHA-256 **a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18**; all 16 original numbered concepts under 150 words, prior eight-section repair exists, **zero** explained original four-option MCQs, **two** structured mains drafts, **zero** original SVG diagrams. See `project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json`. Existing `quality-audit.md` false-positive checkboxes were corrected. Do not label official PYQs without verified commission year/paper/question number.
+
+The readiness status index and per-topic JSON are the current operational truth. Academic approval is not implied by PDF generation, GitHub workflow success, numerical word counts or ZIP integrity.
