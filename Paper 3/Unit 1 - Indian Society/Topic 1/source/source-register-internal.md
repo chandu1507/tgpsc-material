@@ -29,3 +29,28 @@ NCERT Class XII *Indian Society*, Chapter 3, *Social Institutions: Continuity an
 - **L04 FRA individual/community scope:** Ministry of Tribal Affairs official FRA overview https://tribal.nic.in/FRA.aspx and its Act/Rules register; official Act/Rules PDF https://tribal.nic.in/FRA/data/FRARulesBook.pdf indexed but direct web open returned HTTP 502. Statutory §3 wording cross-checked in accessible legal reproduction. Supports MCQ 14, but does not prove any particular Telangana title.
 - **L05 FRA §4(5) procedural safeguard:** statutory reproduction checked for no eviction/removal until recognition and verification completed, subject to Act. Official ministry Act/Rules PDF retrieval failed in this run; therefore record as source-correlated, not a direct full official-PDF page verification. Supports MCQ 15.
 - **Scope:** Five *new original* questions and their alternatives checked against the stated clauses and explicit exclusions. No authenticated official PYQs. Existing ten MCQs, six mains answers, Telangana-specific claims, full R2 editorial review and PDF publication remain outstanding. Never promote these limited checks to R4/R5 PASS.
+
+## Turn24 original practice MCQs 16–25 — direct source correspondence (27 October 2026; not independent R5 approval)
+
+The ten additional questions were written as **original educational practice**, not commission PYQs. The following direct text correspondences were checked; each item's wrong alternatives were compared against the specific clause or table. This is an author-side source check, **not** an independent reviewer sign-off, nor an audit of MCQs 1–15.
+
+**Primary constitutional source:** Government of India, Ministry of Law and Justice, Legislative Department, *The Constitution of India* (English–Kannada diglot, **as on 11 November 2025**), https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf . English pages and PDF indices below were directly read on 27 October 2026.
+
+| New question | Key | Directly checked source / limitation |
+|---|---|---|
+| 16 | B | Article 17, printed p.9 / PDF p.75: untouchability prohibited, not caste-name abolition. |
+| 17 | D | Article 15(2), printed p.7 / PDF p.71: named public-access settings and prohibited grounds; not all private dealings. |
+| 18 | A | Article 29(1), printed p.15 / PDF p.87: any qualifying section of citizens with distinct language/script/culture. |
+| 19 | C | Article 30(1), printed p.15 / PDF p.87: religious/linguistic minorities and educational institutions. |
+| 20 | B | Article 350A, printed p.205 / PDF p.467: State/local-authority **endeavour**, linguistic-minority primary-stage instruction. |
+| 21 | A | Article 350, printed p.205 / PDF p.467: representations in languages used in the Union/State as applicable. |
+| 22 | D | Article 25(1), printed p.14 / PDF p.85: public order, morality, health and other Part III provisions. |
+| 23 | C | ORGI Census 2011 C-16 metadata: mother tongue by sex and rural/urban residence; **2011**, not 2026. |
+| 24 | A | NCERT Class XII *Indian Society* Ch.3 §3.1 via IIT Kanpur SATHEE: broad varna / local jati distinction; secondary-hosted NCERT text. |
+| 25 | B | NCERT Class XII *Indian Society* Ch.3 §3.2 via IIT Kanpur SATHEE: diverse tribal histories and livelihoods; **B is the incorrect universalisation**. |
+
+**Census source:** https://censusindia.gov.in/nada/index.php/catalog/10191 , catalogue PC11_C16-00, source year 2011; catalogue creation 4 July 2022 is not the census reference year.
+
+**NCERT-hosted source:** https://sathee.iitk.ac.in/ncert-books/class-12/sociology/indian-society/chapter-03-social-institutions-continuity-and-change/ . The search-indexed chapter text was accessible, but a direct page open returned HTTP 403 during this cycle. Do **not** represent it as a fresh full-text download. MCQs 24–25 have source-correlated conceptual keys, not complete independent textual verification.
+
+**Outstanding:** Recheck all 25 questions and 100 answer alternatives in a separate item-level audit, especially the ten inherited MCQs; check every mains factual claim; avoid promoting R5 or R4 to PASS on the strength of these limited correspondences.
