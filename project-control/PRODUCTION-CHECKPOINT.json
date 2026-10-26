@@ -998,8 +998,11 @@
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
-    "pilot_publication_commit": "4a8e5d5403794e00355139d584be1b9ffd582c9b",
+    "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Topic 2-2-4 is an integrated student-edition pilot, not a completed readiness pass. All other topics have NOT_ASSESSED gate records; no academic approvals."
+    "note": "Topic 2-2-4 is an integrated student-edition pilot, not a completed readiness pass. All other topics have NOT_ASSESSED gate records; no academic approvals.",
+    "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
+    "last_verified_package_run": 40252354462,
+    "last_verified_package_artifact": 12621337525
   }
 }

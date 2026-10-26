@@ -2,11 +2,11 @@
   "generated_utc": "2026-10-26",
   "scope": "Paper II Unit II Topic 4 integrated student edition PILOT; not academic approval",
   "source_archive": "TGPSC_GITHUB_PUBLICATION_SNAPSHOT_75_TOPICS_REPAIR_P2U2T4.zip",
-  "student_edition_md_sha256": "5263706cee0172608d46ab80a9f6f2f549d15dc127046c6c3084d9d2e7f8278d",
-  "student_edition_pdf_sha256": "cc69d7b41021a427be4af0818f91273d47efcfe60bc7499dbb2e24a21817516e",
+  "student_edition_md_sha256": "14a2eb1d4e661885e53502336959da9ff79b6051be68c575bdfa066c2f041d1e",
+  "student_edition_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
   "original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
   "original_pdf_preserved": true,
-  "student_md_words": 11183,
+  "student_md_words": 11279,
   "narrative_section_words": {
     "1": 245,
     "2": 484,
@@ -51,7 +51,7 @@
   "archive_local_html_links_checked": 454,
   "archive_broken_local_html_links": [],
   "full_pdf_rendered_pages": 29,
-  "visual_inspection": "29-page contact sheet reviewed; page 16 full-size reviewed after arrow-glyph correction; all pages rendered successfully",
+  "visual_inspection": "All 29 pages rendered; whole-document contact sheet reviewed for layout; revised MCQ pages 27–28 visually inspected; no clipping or PDF text-bbox outliers detected.",
   "official_commission_syllabus": "2024 Group-I notification index returned the exact Item 4; full commission PDF open failed 502; final line-by-line PDF verification pending",
   "unretrieved_primary_archives": [
     "Original Andhra Mahasabha 1930 and 1944 conference proceedings",
@@ -62,16 +62,21 @@
     "Bhagya Reddy Varma association and school registers"
   ],
   "independent_academic_approvals": 0,
+  "student_edition_md_sha256_local": "fe46abcb192ba73f323db4143b8e7ec278ebf227a92593b6f301e54434d1f6d3",
   "github_publication": {
-    "commit": "4a8e5d5403794e00355139d584be1b9ffd582c9b",
-    "pdf_git_blob": "2d0089b2533d33c6535fb9f4bfd16ff620af35c2",
-    "packaging_run": 40251910505,
+    "latest_edition_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
+    "pdf_git_blob": "1d4925ad049f86760de0eb8d5f233f004b073c46",
+    "packaging_run": 40252354462,
     "conclusion": "success",
-    "artifact_id": 12621086386,
+    "artifact_id": 12621337525,
+    "downloaded_outer_zip_sha256": "166f86cfbce1a77501131bee39168e29529bb4d151ab912a54c989deca8395d5",
     "downloaded_zip_outer_inner_crc": "PASS",
-    "downloaded_inner_unique_files": 1345,
-    "pdf_sha256_in_downloaded_zip": "cc69d7b41021a427be4af0818f91273d47efcfe60bc7499dbb2e24a21817516e",
-    "original_pdf_sha256_in_downloaded_zip": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
-    "pages_status": "not_yet_verified"
-  }
+    "downloaded_inner_unique_files": 1420,
+    "downloaded_original_complete_topic_pdfs": 75,
+    "downloaded_readiness_topic_jsons": 75,
+    "downloaded_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
+    "downloaded_original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
+    "pages_status": "GitHub Pages deployment run status not yet confirmed for latest package; public browser check outstanding"
+  },
+  "mcq_editorial_improvement": "19 distractor sets revised from implausible unrelated choices to syllabus-adjacent alternatives; all keys and four-option structure mechanically checked; independent source review still pending."
 }

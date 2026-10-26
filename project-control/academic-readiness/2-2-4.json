@@ -83,8 +83,8 @@
     },
     "R5": {
       "status": "IN_PROGRESS",
-      "evidence": "30 original syllabus-oriented 4-option MCQs, answer keys and explanations; mechanical key/uniqueness checked",
-      "blocker": "External factual check for all distractors and question-level source provenance"
+      "evidence": "30 original 4-option explained syllabus-oriented MCQs; 19 distractor sets revised to plausible alternatives; all keys and option counts mechanically checked.",
+      "blocker": "Question-level independent factual and distractor review; official PYQ provenance not asserted."
     },
     "R6": {
       "status": "IN_PROGRESS",
@@ -98,8 +98,8 @@
     },
     "R8": {
       "status": "IN_PROGRESS",
-      "evidence": "29-page PDF rendered page-by-page and published on GitHub, blob verified; packaging workflow 40251910505 SUCCESS; actual artifact 12621086386 downloaded, outer/inner CRC PASS, 1345 unique files; original PDF SHA256 preserved; archive 78 HTML pages/454 local links zero broken.",
-      "blocker": "New student edition not linked from offline portal; live Pages deployment for this revision not independently verified; editorial/user usability review outstanding."
+      "evidence": "29-page searchable PDF rendered and published to GitHub; PDF SHA256 d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f; packaging workflow 40252354462 SUCCESS; downloaded artifact 12621337525 CRC PASS, 1420 unique files, 75 original topic PDFs and 75 readiness status files; 78 archived HTML pages and 454 local links with zero broken; original PDF SHA256 unchanged.",
+      "blocker": "Integrated edition not yet linked from the offline HTML topic portal; latest live Pages deployment and public browser rendering not independently verified; user study-usability review outstanding."
     }
   },
   "external_reviewer": null,
@@ -108,13 +108,15 @@
   "no_new_topic_created": true,
   "next_action": "Complete R1–R8, then request genuine independent academic review; do not change academic_approved to true from automation.",
   "publication": {
-    "github_commit": "4a8e5d5403794e00355139d584be1b9ffd582c9b",
-    "github_pdf_git_blob": "2d0089b2533d33c6535fb9f4bfd16ff620af35c2",
-    "packaging_workflow_run": 40251910505,
+    "latest_edition_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
+    "github_pdf_git_blob": "1d4925ad049f86760de0eb8d5f233f004b073c46",
+    "pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
+    "packaging_workflow_run": 40252354462,
     "packaging_conclusion": "success",
-    "artifact_id": 12621086386,
+    "artifact_id": 12621337525,
     "downloaded_outer_inner_zip_crc": "PASS",
-    "downloaded_unique_files": 1345,
+    "downloaded_unique_files": 1420,
+    "downloaded_readiness_topic_files": 75,
     "downloaded_original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1"
   }
 }
