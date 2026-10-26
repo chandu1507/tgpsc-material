@@ -1,0 +1,29 @@
+{
+  "topic_id": "2-3-1",
+  "date": "2026-10-26",
+  "scope": "Targeted primary-source fact check of two MCQ answer keys; NOT an independent external academic audit and NOT a full distractor review",
+  "checked": [
+    {
+      "question": 11,
+      "key": "D",
+      "claim": "Kerala onset requires station rainfall plus lower-tropospheric westerlies and supportive outgoing longwave radiation",
+      "primary_source": "https://mausam.imd.gov.in/responsive/monsooninformation_onset.php",
+      "primary_details": "At least 60% of 14 stations with >=2.5 mm on two consecutive days after 10 May, westerlies to 600 hPa, 15-20 kt at 925 hPa, OLR below 200 W/m2 in defined box",
+      "key_supported": true,
+      "distractors_fully_validated": false
+    },
+    {
+      "question": 12,
+      "key": "C",
+      "claim": "First southwest-monsoon withdrawal from northwest India requires five dry days, lower-tropospheric anticyclone and moisture reduction",
+      "primary_source": "https://mausam.imd.gov.in/responsive/monsooninformation_withdrawal.php",
+      "primary_details": "After 1 September: continuous five dry days, anticyclone at 850 hPa and below, substantial moisture reduction",
+      "key_supported": true,
+      "distractors_fully_validated": false
+    }
+  ],
+  "unreviewed_questions": 23,
+  "all_25_keys_verified": false,
+  "R5": "IN_PROGRESS",
+  "academic_approval": false
+}
