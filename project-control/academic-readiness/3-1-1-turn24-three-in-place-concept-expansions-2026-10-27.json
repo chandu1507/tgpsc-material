@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-1",
+  "operation": "Expanded three existing numbered sections IN PLACE in detailed-notes.md; no separate supplement and no replacement of legacy PDF",
+  "source_commit": "a4637fddb82bffcc300e82fe8b57ca0c0e1c0a3a",
+  "source_blob_sha1": "c863a4273336e6bed2bbe00126d2aa05eee63c33",
+  "sections": [
+    {
+      "id": 11,
+      "title": "Religion: plurality, institutions and public life",
+      "post_edit_words_approx": 463,
+      "added": "Article 25–28 distinctions; procession/public-space governance example; community-internal power and constitutional limits"
+    },
+    {
+      "id": 12,
+      "title": "Language: multilingualism, identity and unequal access",
+      "post_edit_words_approx": 488,
+      "added": "Articles 29, 350, 350A, 350B; bilingual-school case; enrolment versus learning indicators; Census 2011 scope"
+    },
+    {
+      "id": 14,
+      "title": "Multiculturalism: accommodation versus simple coexistence",
+      "post_edit_words_approx": 429,
+      "added": "Multilingual service centre example, translation accuracy, individual rights and Articles 15(2), 29(1), 30(1)"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "Government of India Legislative Department, Constitution as on 11 November 2025",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "direct_original_text_read": true
+    },
+    {
+      "source": "ORGI Census 2011 C-16 catalogue",
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10191",
+      "direct_catalogue_read": true
+    }
+  ],
+  "limitations": [
+    "Word count alone does not pass R3",
+    "No independent sociological expert review",
+    "Remaining short sections still require substantive development",
+    "No integrated synchronized Topic 3-1-1 PDF rendered"
+  ],
+  "gate_status": "R3 BLOCKED, R4 IN_PROGRESS",
+  "independent_approvals": 0
+}
