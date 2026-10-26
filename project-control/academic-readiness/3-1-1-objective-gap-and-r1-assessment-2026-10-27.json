@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-1",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "original_pdf_pages": 30,
+  "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "source_archive": "GitHub Actions artifact 12688058456, packaging run 40400866751, actual ZIP downloaded and CRC verified",
+  "official_syllabus": {
+    "document": "TGPSC Notification 02/2024 Annexure II, Paper III Unit I Item 1",
+    "printed_page": 30,
+    "pdf_zero_based_page": 29,
+    "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "clauses_mapped": 11,
+    "mapping": [
+      {
+        "id": "P3U1T1-01",
+        "official_clause": "Salient features",
+        "chapter_headings": [
+          "## 2. Salient feature I",
+          "## 3. Salient feature II"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-02",
+        "official_clause": "Unity in diversity",
+        "chapter_headings": [
+          "## 4. Unity in diversity"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-03",
+        "official_clause": "Family",
+        "chapter_headings": [
+          "## 5. Family"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-04",
+        "official_clause": "Marriage",
+        "chapter_headings": [
+          "## 6. Marriage"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-05",
+        "official_clause": "Kinship",
+        "chapter_headings": [
+          "## 7. Kinship"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-06",
+        "official_clause": "Caste",
+        "chapter_headings": [
+          "## 8. Caste"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-07",
+        "official_clause": "Tribe",
+        "chapter_headings": [
+          "## 9. Tribe"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-08",
+        "official_clause": "Religion",
+        "chapter_headings": [
+          "## 11. Religion"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-09",
+        "official_clause": "Language",
+        "chapter_headings": [
+          "## 12. Language"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-10",
+        "official_clause": "Rural–urban continuum",
+        "chapter_headings": [
+          "## 13. Rural–urban continuum"
+        ],
+        "headings_present": true
+      },
+      {
+        "id": "P3U1T1-11",
+        "official_clause": "Multiculturalism",
+        "chapter_headings": [
+          "## 14. Multiculturalism"
+        ],
+        "headings_present": true
+      }
+    ],
+    "R1": "PASS"
+  },
+  "objective_metrics": {
+    "narrative_concepts": 18,
+    "under_150_words": 0,
+    "under_300_words": 16,
+    "min_words": 156,
+    "max_words": 318,
+    "prior_depth_repair_words_approx": 1199,
+    "original_explained_mcqs": 10,
+    "missing_mcqs_to_25": 15,
+    "authenticated_official_pyqs": 0,
+    "mains_model_answers": 6,
+    "mains_body_word_counts": [
+      195,
+      209,
+      214,
+      188,
+      184,
+      263
+    ],
+    "mains_outside_200_250": 4,
+    "original_svg_diagrams": 0,
+    "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+    "original_pdf_pages": 30
+  },
+  "integrated_pdf": {
+    "legacy_30_page_pdf_preserved": true,
+    "earlier_repair_exists": true,
+    "synchronized_single_integrated_master_including_repair_not_demonstrated": true
+  },
+  "gate_status": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
+  },
+  "limitations": [
+    "Source file inventory and length counts are objective but not qualitative depth approval",
+    "MCQ keys and distractors not independently checked",
+    "Four mains outside required word range and all six require factual audit",
+    "Prior repair not proven merged into single synchronized edition",
+    "No authenticated official PYQs",
+    "No independent academic approval"
+  ],
+  "next_action": "Integrate 1199-word prior repair without duplication, deepen 16 concepts, add and source-check 15 MCQs, fix four mains answer lengths, original accurate diagrams, CI render and actual artifact QA."
+}

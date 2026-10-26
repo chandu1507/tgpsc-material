@@ -72,3 +72,8 @@ GitHub Actions render run 40400294993 SUCCESS with the dedicated Topic 5 rendere
 ## Topic 2-3-5 downloaded post-render artifact — 27 October 2026
 
 GitHub Actions packaging run **40400866751 SUCCESS**, artifact **12688058456 ACTUALLY DOWNLOADED**: 1,513 files, outer/inner ZIP CRC PASS, exactly 75 preserved original PDFs, 75 readiness JSONs, 78 HTML pages, 1,092 local links and 686 fragment links checked, ZERO broken after repairing two Paper V anchors. Integrated Topic 2-3-5 18-page PDF SHA256 `0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210`, editable Markdown SHA256 `25900ea9d60ef7c37e048bfa4d481292e6982d6b6724d0ae3d2459aad356058f`; original eight-page PDF preserved. Contact-sheet review completed; final pages 17–18 are sparse. Every-page full-res accessibility, public-browser usability, 19 remaining MCQ keys and all distractors, six mains fact checks, and R2/R3 remain unfinished. R8 IN_PROGRESS, not PASS. Seven topics IN_PROGRESS, 68 NOT_ASSESSED, zero fully ready/approved.
+
+
+## Paper III Unit I Topic 1 assessment — 27 October 2026
+
+Existing Topic 3-1-1 objectively assessed from actual archived source files and original TGPSC Notification 02/2024 Annexure II printed p30. R1 PASS: 11 syllabus clauses directly mapped. Legacy 30-page PDF SHA256 `f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a` preserved. Eighteen concepts (16 below 300 words), only 10 explained original MCQs, six mains answers with four outside 200–250 words, no original SVG diagrams; prior 1,199-word repair not proven integrated. R2/R4/R6 IN_PROGRESS, R3/R5/R7/R8 BLOCKED. Status ASSESSED_REBUILD_REQUIRED. Exactly 75 topics: seven IN_PROGRESS, one ASSESSED_REBUILD_REQUIRED, 67 NOT_ASSESSED, six R1 PASS, zero fully ready/approved.

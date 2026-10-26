@@ -203,9 +203,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "objective_gap_assessed_legacy_pdf_preserved_integrated_rebuild_required",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct: direct original Paper III syllabus R1 PASS; 18 narrative concepts (16 under300), 10 original explained MCQs, six mains (4 outside 200–250), zero SVG; separate 1199-word repair not integrated; academic readiness incomplete.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-1.json"
     },
     {

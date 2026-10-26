@@ -1,8 +1,8 @@
 {
   "topic_id": "3-1-1",
   "title": "Indian Society: Unity in Diversity, Family, Marriage, Kinship, Caste, Tribe, Religion and Language",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,43 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": [
+    "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json"
+  ],
+  "next_action": "Integrate 1199-word prior repair without duplication, deepen 16 concepts, add and source-check 15 MCQs, fix four mains answer lengths, original accurate diagrams, CI render and actual artifact QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_gap": {
+    "narrative_concepts": 18,
+    "under_150_words": 0,
+    "under_300_words": 16,
+    "min_words": 156,
+    "max_words": 318,
+    "prior_depth_repair_words_approx": 1199,
+    "original_explained_mcqs": 10,
+    "missing_mcqs_to_25": 15,
+    "authenticated_official_pyqs": 0,
+    "mains_model_answers": 6,
+    "mains_body_word_counts": [
+      195,
+      209,
+      214,
+      188,
+      184,
+      263
+    ],
+    "mains_outside_200_250": 4,
+    "original_svg_diagrams": 0,
+    "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+    "original_pdf_pages": 30
+  }
 }

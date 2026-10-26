@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 68,
+  "not_assessed_count": 67,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics, 7 IN_PROGRESS, 68 NOT_ASSESSED, 5 R1 PASS, 0 fully R1–R8 ready, 0 independent approvals. Topic 2-3-5 synchronized 18-page PDF and actual downloaded artifact integrity verified, but R8 academic/usability checks incomplete.",
+  "warning": "Exactly 75 original topics, 7 IN_PROGRESS, 1 ASSESSED_REBUILD_REQUIRED (3-1-1), 67 NOT_ASSESSED, 6 R1 PASS, 0 fully R1–R8 ready and 0 independently approved.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -91,17 +91,21 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-27: Topic2-3-5 post-render artifact 12688058456 downloaded and verified (1513 files, 75 originals, 75 readiness JSON, 78 HTML, 1092 local links zero broken, 686 fragments zero broken after fixing two existing Paper V anchors). 18-page PDF matches CI SHA; original preserved. R1 PASS; R2-R8 unfinished; 7 IN_PROGRESS, 68 NOT_ASSESSED, zero ready/approved.",
+  "assessed_rebuild_required": [
+    "3-1-1"
+  ],
+  "last_readiness_update": "2026-10-27: Paper III 3-1-1 assessed from archived source: 30-page legacy PDF preserved, 18 concepts (16 under300), 10 original MCQs, six mains (four outside 200–250), zero SVG; R1 PASS from original TGPSC Annexure II printed p30. Topic needs integrated rebuild. Seven IN_PROGRESS, one assessed/rebuild, 67 unassessed, zero ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
     "2-3-1",
     "2-3-2",
-    "2-3-5"
+    "2-3-5",
+    "3-1-1"
   ],
-  "verified_R1_pass_count": 5,
+  "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json",
