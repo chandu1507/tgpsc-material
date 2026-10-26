@@ -221,6 +221,9 @@ The Ministry of Agriculture's **Third Advance Estimates**, released 27 May 2026,
 
 **Corridor inclusion test.** New logistics infrastructure can help firms already connected to suppliers and skilled labour while bypassing nearby villages. Compare direct and indirect jobs, wages, local procurement, commuting access, land acquisition, groundwater demand and displacement. A corridor should be judged by measurable regional outcomes rather than investment announcements alone. Feeder roads, vocational training, housing and environmental safeguards are necessary complements. [S2,S5]
 
+
+**Census-method caution (official MoSPI explanation).** In the 2011 Census framework, a statutory town is recognised by its municipal or comparable legal status. A census town meets specified demographic and occupational criteria without necessarily acquiring a municipal government. Consequently, growth in the measured urban population can reflect reclassification, not solely migration or natural increase. When comparing census years, report the definitions and reference dates explicitly. [S8]
+
 ## Part D — Original visual study aids
 
 **Diagram 1 — Farm-to-market and water-budget feedback:** rainfall and aquifer → allocation → crop choice → processing → markets and recharge. The standalone original SVG is `integrated-diagram-farm-water.svg`.
