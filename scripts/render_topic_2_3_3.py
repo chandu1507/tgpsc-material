@@ -37,6 +37,7 @@ styles={
 }
 def inline_html(tok):
     parts=[]
+    link_stack=[]
     for t in tok.children or []:
         if t.type=='text':parts.append(html.escape(t.content))
         elif t.type=='code_inline':parts.append('<font name="NotoBold">'+html.escape(t.content)+'</font>')
@@ -46,9 +47,11 @@ def inline_html(tok):
         elif t.type=='em_close':parts.append('</i>')
         elif t.type=='link_open':
             u=t.attrGet('href') or ''
-            if u.startswith('http'):parts.append('<link href="'+html.escape(u,quote=True)+'" color="#176AA3">')
-            else:parts.append('')
-        elif t.type=='link_close':parts.append('</link>')
+            external=u.startswith(('http://','https://'))
+            link_stack.append(external)
+            if external:parts.append('<link href="'+html.escape(u,quote=True)+'" color="#176AA3">')
+        elif t.type=='link_close':
+            if link_stack and link_stack.pop():parts.append('</link>')
         elif t.type in ('softbreak','hardbreak'):parts.append('<br/>')
         elif t.type=='html_inline':parts.append(html.escape(t.content))
         elif t.type=='image':parts.append(html.escape(t.content))
