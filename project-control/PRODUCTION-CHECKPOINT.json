@@ -165,9 +165,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "objective_source_gap_assessed_rebuild_required",
-      "notes": "26 Oct Turn15: direct source inspection: 14/14 detailed concepts under 150 words, 0 original explained MCQs, 2 mains model answers (254/243 words by Unicode count), ASCII conceptual chart but 0 SVG, no authenticated PYQs; original PDF exists but was not rendered/hashed this assessment. Official R1 original clause map NOT_STARTED, R3/R5/R6/R8 BLOCKED. Evidence project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json. No academic approval.",
-      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "production_review": "integrated_student_edition_draft_published_academic_review_pending",
+      "notes": "26 Oct Turn16: original 7-page legacy PDF SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9 preserved. Existing Topic 2-3-3 integrated editable master published with 14 concepts (13 under 300 words), 25 original explained MCQs, six 200-250-word structured mains answers, two original conceptual SVGs, nine source-correlated claims. Repaired a real ambiguous water-budget formula in detailed notes, recovered master and offline HTML. CI PDF generation and artifact QA pending. R1-R8 IN_PROGRESS; R9 not started; ZERO academic approval.",
+      "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-3.json"
     },
     {
@@ -993,23 +993,25 @@
     "last_updated": "2026-10-26",
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
-    "pilot_in_progress": 1,
-    "topics_not_assessed": 72,
+    "pilot_in_progress": 5,
+    "topics_not_assessed": 70,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Topic 2-2-4 is an integrated student-edition pilot, not a completed readiness pass. All other topics have NOT_ASSESSED gate records; no academic approvals.",
+    "note": "Five existing topics in progress; 70 not assessed; no R1-R8 fully ready; no independent academic approvals. Historical pilot metadata retained separately; actual PDF QA for Topic 2-3-3 pending.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
     "last_verified_package_run": 40252354462,
     "last_verified_package_artifact": 12621337525,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
-      "2-3-1"
+      "2-3-1",
+      "2-3-2",
+      "2-3-3"
     ],
-    "last_topic": "2-3-1"
+    "last_topic": "2-3-3"
   }
 }
