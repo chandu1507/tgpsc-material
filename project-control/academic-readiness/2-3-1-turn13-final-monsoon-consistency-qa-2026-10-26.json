@@ -50,7 +50,35 @@
     "relative_links": 461,
     "broken_links": 0,
     "topic_2_3_2_original_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
-    "caveat": "This downloaded artifact preceded successful CI PDF regeneration: corrected Markdown but old PDF. Do not cite it as synchronized. Post-render packaging artifact still needs download and checks."
+    "caveat": "Pre-render archive 12651806534 was unsynchronized and must not be used as final. POST-RENDER archive 12652265305 is downloaded and byte-verified; this QA-only metadata commit occurs afterward, so it is not itself inside that artifact.",
+    "post_render_run": 40327111225,
+    "post_render_conclusion": "success",
+    "post_render_artifact_id": 12652265305,
+    "post_render_artifact_downloaded": true,
+    "post_render_outer_sha256": "dd6f86fcd6aafd94d910f79edb6b3741a7b4cc2042b82af999a13c3b07face2c",
+    "post_render_outer_crc": "PASS",
+    "post_render_inner_crc": "PASS",
+    "post_render_file_count": 1468,
+    "post_render_original_topic_pdfs": 75,
+    "post_render_readiness_json": 75,
+    "post_render_html_pages": 78,
+    "post_render_relative_links": 461,
+    "post_render_broken_links": 0,
+    "post_render_integrated_pdf_sha256": "43c990afe8e2560f7472d6758e721caa3c716b35846f9acb9b0ca2776c3591af",
+    "post_render_integrated_md_sha256": "b74e5081966f13da2c11f6e37acd2a7f4f4c0c4f125110368d5f75d8f3613022",
+    "post_render_pdf_and_md_byte_identical_to_local": true,
+    "post_render_pdf_has_corrected_Q23": true,
+    "post_render_pdf_pages": 32,
+    "post_render_pdf_blank_pages": 0,
+    "post_render_topic232_original_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "post_render_index": {
+      "total_topics": 75,
+      "not_assessed": 71,
+      "rebuild_required": [
+        "2-3-2"
+      ],
+      "independent_approvals": 0
+    }
   },
   "gate_status": {
     "R1": "PASS",
