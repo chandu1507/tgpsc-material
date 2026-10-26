@@ -8,10 +8,10 @@
     "2-3-2",
     "2-3-3"
   ],
-  "not_assessed_count": 70,
+  "not_assessed_count": 69,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 existing topics: five IN_PROGRESS (2-2-4, 2-2-5, 2-3-1, 2-3-2, 2-3-3), 70 NOT_ASSESSED, ZERO R1-R8 fully ready and ZERO independently academically approved. Topic 2-3-3 has a new integrated draft but academic validation and final PDF artifact QA remain pending.",
+  "warning": "Exactly 75 existing topics: five IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2,2-3-3), one ASSESSED_REBUILD_REQUIRED (2-3-4), 69 NOT_ASSESSED; ZERO R1-R8 fully ready and ZERO independently academically approved. Topic2-3-3 final downloaded artifact QA pending; Topic2-3-4 has 15/15 shallow concepts, zero MCQs, two mains, no original SVG.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -89,8 +89,10 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26 Turn16: Topic 2-3-3 integrated Markdown, 25 original MCQs (all 25 distractor sets rewritten), six 200–250-word mains answers, two SVG diagrams, 11 claim-level source entries, corrected catchment recharge budget. CI rendered 18-page searchable PDF SHA256 3437b3bfc8bf9b97f0a6ad6d81dade39867d149fa1ba6c780623bec99828e067; post-render actual ZIP download/CRC/portal QA pending. Exactly 75 topics, five active, 70 unassessed, ZERO fully ready or independently approved.",
+  "assessed_rebuild_required": [
+    "2-3-4"
+  ],
+  "last_readiness_update": "2026-10-26 Turn17: Existing Topic 2-3-4 assessed from 8-page archived PDF and current remote SHA-matched sources. 15/15 concepts under 150 words, zero explained MCQs, two mains 258/244 words, six-section earlier repair, zero original SVG, no synchronized integrated edition. R1/R2/R4 IN_PROGRESS; R3/R5/R6/R7/R8 BLOCKED; no approval. Five active, one rebuild-required, 69 not assessed, exactly 75.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -99,6 +101,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-render-qa.json",
     "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json",
