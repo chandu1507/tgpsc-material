@@ -3,12 +3,13 @@
   "total_topics": 75,
   "pilot_in_progress": [
     "2-2-4",
-    "2-2-5"
+    "2-2-5",
+    "2-3-1"
   ],
   "not_assessed_count": 72,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics; Topics 2-2-4 and 2-2-5 R1 PASS; ZERO fully ready or independently approved. Topic5 MCQ19 contradictory negative stem corrected in integrated edition; 30-item source-correspondence review: 10 limited corroborations, 20 pending direct evidence; direct original 1947 and 1956 statutes added. Post-render GitHub artifact 12636011656 actually downloaded, ZIP CRC PASS, 1443 files, 75 original PDFs, 75 readiness JSONs, 459 relative links/zero broken, 35-page PDF SHA256 d967c25137b5e2b0a1fd886d1000a7f0345c1fc8546bf53654699e9e11669efe. R5/R8 IN_PROGRESS, R4 BLOCKED. Topic 2-3-1 separately assessed: 24/25 short detailed sections, 10 MCQs, four mains answers, no SVG, R1 official syllabus verification pending; REBUILD REQUIRED. 72 topics remain unassessed.",
+  "warning": "Exactly 75 existing topics, three under individual readiness production and 72 unassessed. Topic 2-3-1 integrated source/PDF published; direct official geography syllabus primary PDF 403 this run; 25 MCQ fact checks, mains source checks, full-page visual review and artifact verification pending. Topics 2-2-4 and 2-2-5 R1 PASS. ZERO topics R1–R8 ready; ZERO external academic approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -86,16 +87,15 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [
-    "2-3-1"
-  ],
-  "last_readiness_update": "2026-10-26: MCQ19 correction, 10/30 source checks, 35-page PDF and ZIP verified",
+  "assessed_rebuild_required": [],
+  "last_readiness_update": "2026-10-26: Topic 2-3-1 integrated 25-page PDF, 25 explained original MCQs, six 200–250-word mains answers, two SVG diagrams, offline portal link; all gates still incomplete.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5"
   ],
   "verified_R1_pass_count": 2,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-mcq-revised-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-corrected-remote-publication-qa-2026-10-26.json",
