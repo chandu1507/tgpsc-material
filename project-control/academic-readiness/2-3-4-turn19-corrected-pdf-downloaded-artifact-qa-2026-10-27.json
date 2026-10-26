@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-4",
+  "kind": "actual_post_render_artifact_integrity_and_gross_visual_review",
+  "repository": "chandu1507/tgpsc-material",
+  "render": {
+    "workflow_run_id": 40382863495,
+    "conclusion": "success",
+    "dedicated_renderer": "scripts/render_topic_2_3_4.py",
+    "pages": 19,
+    "pdf_sha256": "0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467",
+    "corrected_wrong_topic3_footer": true
+  },
+  "downloaded_package": {
+    "workflow_run_id": 40383038864,
+    "artifact_id": 12679083916,
+    "actually_downloaded": true,
+    "outer_crc_pass": true,
+    "inner_crc_pass": true,
+    "file_count": 1499,
+    "original_topic_pdf_count": 75,
+    "readiness_json_count": 75,
+    "html_pages": 78,
+    "relative_file_path_links_checked": 313,
+    "broken_file_path_links": 0,
+    "anchor_only_links_not_individually_checked": 686
+  },
+  "integrity": {
+    "preserved_original_pdf_sha256": "5a544ab369c285c6cc54cafa7ade872bddc2b9f517a6cffe19ec1048586496d1",
+    "integrated_pdf_sha256": "0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467",
+    "integrated_markdown_sha256": "5ddbcc5cbf468f40b14ac6cf48014cc4b2865924eb648ad6ef791f75644a4edf",
+    "offline_topic4_pdf_link": true,
+    "offline_topic4_markdown_link": true,
+    "offline_original_pdf_link": true
+  },
+  "visual_qa": {
+    "all_19_pages_contact_sheet_rendered_and_grossly_reviewed": true,
+    "full_resolution_pages_inspected": [
+      1,
+      19
+    ],
+    "blank_text_pages": 0,
+    "incorrect_topic3_footer_absent": true,
+    "complete_full_resolution_accessibility_certified": false,
+    "direct_public_browser_usability_verified": false
+  },
+  "academic_gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "limitations": [
+    "Eleven of fifteen original core narrative concepts remain under 150 words",
+    "All 25 MCQ distractor sets and six mains answers require direct item/claim-level verification",
+    "Official original syllabus clause-by-clause crosswalk pending",
+    "No original SVG diagram accuracy review",
+    "PDF integrity and gross layout do not establish academic approval"
+  ],
+  "academic_approved": false,
+  "external_reviewer": null
+}
