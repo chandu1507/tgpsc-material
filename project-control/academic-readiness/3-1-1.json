@@ -27,9 +27,10 @@
     "R8": "BLOCKED"
   },
   "evidence": [
-    "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-turn22-answer-length-and-ncert-concept-check-2026-10-27.json"
   ],
-  "next_action": "Integrate 1199-word prior repair without duplication, deepen 16 concepts, add and source-check 15 MCQs, fix four mains answer lengths, original accurate diagrams, CI render and actual artifact QA.",
+  "next_action": "Complete 6 mains claim-level audits (length corrected), integrate prior repair without duplication, deepen 16 concepts, add and independently check 15 MCQs, create accurate original diagrams, CI render and actual artifact QA.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -55,5 +56,26 @@
     "original_svg_diagrams": 0,
     "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
     "original_pdf_pages": 30
+  },
+  "verified_current_answer_bank": {
+    "date": "2026-10-27",
+    "source": "Paper 3/Unit 1 - Indian Society/Topic 1/source/complete-model-answers.md",
+    "body_word_counts": [
+      215,
+      206,
+      211,
+      209,
+      210,
+      216
+    ],
+    "all_six_in_200_250_range": true,
+    "independent_source_level_review_complete": false,
+    "method": "body-only Unicode word token count; see turn22 evidence",
+    "historical_metric_discrepancy": "Earlier inventory Q6=263, direct pre-edit body recount Q6=190; retained historical objective_gap for provenance"
+  },
+  "limited_ncert_concept_correspondence": {
+    "count": 4,
+    "source": "NCERT Class XII Indian Society Chapter 3 via IIT Kanpur SATHEE",
+    "not_a_complete_claim_audit": true
   }
 }
