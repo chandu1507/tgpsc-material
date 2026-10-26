@@ -365,7 +365,7 @@ If heavy rain later arrives, flood and crop-damage risks may replace the origina
 **Coasts/Islands:** deltas, estuaries, mangroves, coral islands, offshore resources and EEZ.
 
 ## 2026 hooks
-- IMD’s 2026 outlook anticipated below-normal southwest monsoon rainfall and developing El Niño conditions; by 2 August cumulative rainfall was reported 12% below LPA. Use this only as a current example of teleconnection and spatial variability.
+- **2026 southwest monsoon — final versus interim:** IMD's 30 September 2026 end-of-season report records **759.4 mm, 87% of LPA** for all India (June–September); East and Northeast India received 74% and the South Peninsula 76% of their respective LPAs. The 12% cumulative deficit reported through 2 August was an **interim** snapshot, while the May forecast of 90% of LPA was a **forecast**, not the final observed outcome. [G5][G15]
 - MNRE reported total renewable capacity including large hydro of about **299.25 GW** and total non-fossil capacity about **308.03 GW** as of 30 September 2026. Use this in energy-transition answers, while noting installed capacity is not the same as generation.
 
 ## Revision checkpoints
@@ -581,14 +581,14 @@ D. Distance from the sea alone
 
 **Answer: C. Disaster risk emerges from geological and climatic triggers together with exposure and vulnerability.** [G1]
 
-### Q23. What does an all-India rainfall deficit reported as of 2 August 2026 establish?
+### Q23. Which statement correctly reconciles the 2 August 2026 interim monsoon report with IMD's final June–September 2026 assessment?
 
-A. That every El Niño year produces the same deficit
-B. A verified final annual drought declaration for every district
-C. The amount of groundwater stored in Telangana reservoirs
-D. A time-specific cumulative anomaly, not the final June–September outcome
+A. The 12% cumulative deficit through 2 August and the final 87% of LPA must describe identical periods.
+B. The 12% deficit through 2 August was the final June–September outcome; 87% of LPA was only a forecast.
+C. The final 87% of LPA applies only to rainfall through 2 August; the 12% deficit describes September alone.
+D. The 12% deficit was a dated cumulative interim anomaly; the final June–September observation was 759.4 mm, or 87% of LPA.
 
-**Answer: D. The parliamentary reply was an interim assessment and should not be used as the completed 2026 monsoon total.** [G5]
+**Answer: D.** The Ministry of Earth Sciences' 12 August parliamentary reply reported an interim cumulative deficit through 2 August; IMD's 30 September seasonal report subsequently measured the complete June–September period at 759.4 mm (87% of LPA). The two observations cover different periods and cannot be interchanged. [G5][G15]
 
 ### Q24. Which factor most directly explains why black soils can develop on parts of the Deccan Plateau?
 
