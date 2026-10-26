@@ -67,3 +67,8 @@ R1 PASS only: original TGPSC Notification 02/2024 Annexure II printed p29 (PDF i
 ## Topic 2-3-5 dedicated CI render — 27 October 2026
 
 GitHub Actions render run 40400294993 SUCCESS with the dedicated Topic 5 renderer. Synchronized 18-page PDF SHA256 `0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210`; the existing offline portal now links both integrated PDF and Markdown. R8 remains IN_PROGRESS until the final post-render packaging artifact is downloaded, CRC/hashes/75 originals and all local links checked, and pages inspected. Seven topics IN_PROGRESS, 68 NOT_ASSESSED, zero fully ready/approved.
+
+
+## Topic 2-3-5 downloaded post-render artifact — 27 October 2026
+
+GitHub Actions packaging run **40400866751 SUCCESS**, artifact **12688058456 ACTUALLY DOWNLOADED**: 1,513 files, outer/inner ZIP CRC PASS, exactly 75 preserved original PDFs, 75 readiness JSONs, 78 HTML pages, 1,092 local links and 686 fragment links checked, ZERO broken after repairing two Paper V anchors. Integrated Topic 2-3-5 18-page PDF SHA256 `0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210`, editable Markdown SHA256 `25900ea9d60ef7c37e048bfa4d481292e6982d6b6724d0ae3d2459aad356058f`; original eight-page PDF preserved. Contact-sheet review completed; final pages 17–18 are sparse. Every-page full-res accessibility, public-browser usability, 19 remaining MCQ keys and all distractors, six mains fact checks, and R2/R3 remain unfinished. R8 IN_PROGRESS, not PASS. Seven topics IN_PROGRESS, 68 NOT_ASSESSED, zero fully ready/approved.

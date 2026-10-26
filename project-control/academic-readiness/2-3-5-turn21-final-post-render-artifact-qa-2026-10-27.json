@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-5",
+  "operation": "independent downloaded final GitHub Actions artifact and offline portal QA",
+  "packaging_run_id": 40400866751,
+  "artifact_id": 12688058456,
+  "actual_downloaded_artifact": "TGPSC_TURN21_FINAL_75_TOPICS_GITHUB_ARTIFACT.zip",
+  "outer_zip_crc_pass": true,
+  "inner_zip_crc_pass": true,
+  "packaged_files": 1513,
+  "original_topic_slots": 75,
+  "original_topic_pdfs": 75,
+  "readiness_json_count": 75,
+  "html_pages": 78,
+  "local_html_links_checked": 1092,
+  "broken_local_file_links": 0,
+  "fragment_links_checked": 686,
+  "broken_fragment_links": 0,
+  "previous_broken_fragments_fixed": [
+    {
+      "topic": "5-3-4",
+      "anchor": "21-thirty-original-mcqs-with-full-explanations"
+    },
+    {
+      "topic": "5-3-5",
+      "anchor": "thirty-original-mcqs-with-worked-explanations--not-official-pyqs"
+    }
+  ],
+  "original_topic5_pdf_sha256": "a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18",
+  "original_topic5_pdf_preserved": true,
+  "integrated_pdf_pages": 18,
+  "integrated_pdf_sha256": "0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210",
+  "integrated_markdown_sha256": "25900ea9d60ef7c37e048bfa4d481292e6982d6b6724d0ae3d2459aad356058f",
+  "pdf_matches_ci_renderer": true,
+  "pdf_pages_with_no_text": 0,
+  "pdf_pages_with_wrong_topic_footer": 0,
+  "pdf_out_of_page_text_spans": 0,
+  "all_18_pages_contact_sheet_reviewed_for_gross_layout": true,
+  "full_resolution_pages_inspected": [
+    1,
+    9,
+    16,
+    17,
+    18
+  ],
+  "layout_caveat": "Final pages 17 and 18 contain 185 and 198 extracted words and significant whitespace due to explicit section breaks; further pagination polish recommended.",
+  "full_resolution_every_page_accessibility_certified": false,
+  "direct_public_browser_usability_certified": false,
+  "R1": "PASS",
+  "R2_R7": "IN_PROGRESS_OR_BLOCKED",
+  "R8": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "independent_academic_approvals": 0,
+  "academic_gaps": [
+    "19 MCQ keys and all distractors still need independent claim-level review",
+    "Six mains model answers need full source-level audit",
+    "Narrative concept depth, dedup and visual correctness not fully reviewed",
+    "Every-page full-resolution legibility and public browser usability not certified"
+  ]
+}

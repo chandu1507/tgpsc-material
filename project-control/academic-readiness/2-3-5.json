@@ -32,9 +32,10 @@
     "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json"
+    "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json",
+    "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json"
   ],
-  "next_action": "Download the GitHub Actions package generated after final PDF and portal link; verify actual ZIP CRC, exactly 75 original PDFs, original Topic5 SHA, final PDF SHA and all local links; then full-resolution PDF inspection and academic R2–R7.",
+  "next_action": "R2 dedup and qualitative R3; verify 19 remaining MCQ keys and ALL distractors, six mains sources, diagram accuracy, full-res every-page and public-browser accessibility. Technical ZIP/75-topic/1092 local links/686 fragments verified, but R8 not PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -51,7 +52,7 @@
   "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
   "integrated_source": {
     "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
-    "publication_state": "GITHUB_ACTIONS_PDF_RENDERED_ARTIFACT_PENDING",
+    "publication_state": "GITHUB_PDF_AND_ACTUAL_POST_RENDER_ARTIFACT_VERIFIED",
     "original_practice_mcqs": 25,
     "model_answers": 6,
     "schematic_diagrams": 2,
@@ -60,7 +61,10 @@
     "source_level_mains_audit": false,
     "pdf_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
     "pdf_sha256": "0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210",
-    "pdf_pages": 18
+    "pdf_pages": 18,
+    "actual_downloaded_artifact_id": 12688058456,
+    "portal_links_checked": true,
+    "full_resolution_every_page_accessibility_certified": false
   },
   "mcq_primary_key_review": {
     "source_correlated_correct_keys": 6,
