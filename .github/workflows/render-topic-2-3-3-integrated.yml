@@ -1,4 +1,4 @@
-name: Render Topic 3-3-3 Integrated Edition
+name: Render Topic 2-3-3 Integrated Edition
 on:
   push:
     branches: [main]
