@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-2",
+  "kind": "official_government_publication_claim_level_spot_check_not_full_R4_pass",
+  "claims": [
+    {
+      "claim": "2025–26 Third Advance Estimates foodgrain output 376.56 million tonnes",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2265965",
+      "source_date": "2026-05-27",
+      "primary_publication": "Ministry of Agriculture and Farmers Welfare via PIB",
+      "source_precision": "376.563 million tonnes",
+      "result": "CORROBORATED",
+      "caveat": "Advance estimate, not final production; this is an official ministry release rather than underlying crop-level dataset."
+    },
+    {
+      "claim": "National Highways length 146,572 km by March 2026",
+      "source": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150842",
+      "source_date": "2026-08-12",
+      "primary_publication": "Government of India infrastructure factsheet via PIB",
+      "result": "CORROBORATED",
+      "caveat": "Network-length snapshot, not an estimate of road quality or accessibility."
+    },
+    {
+      "claim": "Rail electrification 99.6% by July 2026",
+      "source": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150842",
+      "source_date": "2026-08-12",
+      "primary_publication": "Government of India infrastructure factsheet via PIB",
+      "result": "CORROBORATED",
+      "caveat": "Quoted network electrification share, not percentage of passenger journeys electrically powered."
+    },
+    {
+      "claim": "Major ports handled 915.17 million tonnes of cargo FY2025–26",
+      "source": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150842",
+      "source_date": "2026-08-12",
+      "primary_publication": "Government of India infrastructure factsheet via PIB",
+      "result": "CORROBORATED",
+      "caveat": "Major ports only; not all major plus non-major ports and not port handling capacity."
+    }
+  ],
+  "remaining_work": [
+    "Verify separate all-ports 1,668 MT statement against source and exact scope",
+    "Verify other 2026 numerical claims and dated law/policy references",
+    "Cross-check figures against original ministry datasets or annual reports where available",
+    "Source-check all 8 existing MCQ explanations and all 4 mains answers"
+  ],
+  "gates": {
+    "R4": "IN_PROGRESS",
+    "R4_PASS": false
+  },
+  "external_independent_review": false,
+  "academic_approval": false
+}
