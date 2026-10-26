@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-2-4",
+  "scope": "Local offline archive reference validation after integrating the new portal link; not a live Pages test",
+  "remote_topic_index_commit": "f1b258295f88b05d6643aa759fb7721781fdeb86",
+  "remote_index_blob_sha1": "388d85bb69001e5ff65684781db50795f32eb515",
+  "archived_html_pages": 78,
+  "archived_topic_slots": 75,
+  "local_references_checked": 458,
+  "broken_local_references": 0,
+  "integrated_pdf_and_md_in_archive": true,
+  "original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
+  "readiness_status_files": 75,
+  "outer_inner_zip_crc": "PASS",
+  "caveats": [
+    "Archive links checked by applying the exact remote HTML edit to the prior published ZIP; new post-edit workflow artifact not yet independently downloaded.",
+    "Public live Pages rendering not independently checked.",
+    "Readiness R8 remains IN_PROGRESS and academic approvals remain ZERO."
+  ]
+}
