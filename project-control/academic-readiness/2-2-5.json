@@ -19,9 +19,9 @@
   "gate_evidence": {
     "R1": "Official commission Notification No. 02/2024, Annexure II, PDF p.29; full direct primary document accessed 26 Oct 2026; 8 subpoints mapped to chapter sections.",
     "R2": "Original 8-page PDF, 25-section 2307-word detailed notes and 1205-word earlier peasant-sanghams/women supplement inventoried; integrated 9462-word student draft assembled without overwriting originals. Editorial duplicate/contradiction sweep outstanding.",
-    "R3": "Expanded full-page-style sections on Ramji Gond, Komaram Bheem, agrarian causes, village sanghams, women/Ailamma, MIM/Razakars, Operation Polo, 1951 continuation. Independent depth review outstanding.",
-    "R4": "Nine-entry source register with provenance/status; original Gazetteer, Sunderlal report, Standstill Agreement, Hyderabad files and 1951 party resolution still missing. Some claims qualified rather than asserted.",
-    "R5": "30 original four-option MCQs with answer keys and explanations. Independent answer/distractor fact-check outstanding; zero authenticated official PYQs.",
+    "R3": "Expanded full-page-style sections on Ramji Gond, Komaram Bheem, agrarian causes, village sanghams, women/Ailamma, MIM/Razakars, Operation Polo, 1951 continuation. Independent depth review outstanding. Quantitative preflight of LIVE integrated edition: 17 of 25 numbered narrative sections contain fewer than 150 words; only 6 contain >=400. See 2-2-5-depth-mcq-preflight-2026-10-26.json. Full-page concept depth NOT YET MET.",
+    "R4": "Nine-entry source register with provenance/status; original Gazetteer, Sunderlal report, Standstill Agreement, Hyderabad files and 1951 party resolution still missing. Some claims qualified rather than asserted. New research-control file 2-2-5-primary-source-recovery-2026-10-26.md identifies 29 Nov 1947 Patel contemporaneous statement and participant accounts, May 1951 CPI resolution (party source), April/Nov 1951 party texts, and Sunderlal excerpts; signed agreement, original October 1951 withdrawal text and full Sunderlal original still missing. R4 remains BLOCKED.",
+    "R5": "30 original four-option MCQs with answer keys and explanations. Independent answer/distractor fact-check outstanding; zero authenticated official PYQs. Mechanical verification on LIVE integrated edition: all 30 have four options, keys and explanations; 26/30 flagged for weak distractors; answer key distribution A10/B19/C1/D0 is unsuitable. R5 NOT PASS. See 2-2-5-depth-mcq-preflight-2026-10-26.json.",
     "R6": "Six structured original mains answers, word counts 218/201/214/214/208/209, plus six answer blueprints. Independent historical-content review outstanding.",
     "R7": "Three original SVG process diagrams, timeline, comparative table, revision traps and 2026 commemoration linked to dated government release. Student usability review outstanding.",
     "R8": "Searchable integrated PDF created, 21 pages, montage visual inspection, original PDF preserved SHA256; offline topic link prepared. Remote publication and full 75-topic link/ZIP QA pending."
@@ -44,7 +44,10 @@
     "Original Standstill Agreement and 1948 government/army orders",
     "Original 1951 Communist Party withdrawal decision",
     "Independent editorial review",
-    "Remote site/public Pages usability"
+    "Remote site/public Pages usability",
+    "Rewrite 17 shallow numbered narrative sections, prioritizing 8 major gaps",
+    "Rewrite 26 weak MCQ distractor sets and rebalance answer positions A/B/C/D while verifying keys",
+    "Retrieve original October 1951 withdrawal text; do not mistake May 1951 party resolution for it"
   ],
   "sources": [
     {
