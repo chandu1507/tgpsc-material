@@ -17,7 +17,7 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Final integrated student edition 25 pages/11613 PDF text words; 25 numbered concepts, 25 four-option explained original MCQs with improved distractors, six 200–250-word mains answers, two SVG process diagrams. GitHub renderer succeeded; downloaded actual packaging artifact 12639056782 from run 40297113631, outer/inner ZIP CRC PASS, 1455 files, 75 original PDFs, 75 readiness JSONs, 78 HTML pages, 461 local links ZERO broken. Original PDF SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879 preserved. PDF SHA256 b0180b9b0f84c1b1e842a88e90b388ba1388a6d13898babe8ed8171b3703fa16. 25 pages contact-sheet visually inspected for gross layout; no empty pages/outside-page text boxes; full-res accessibility pending. R1 official syllabus indexed text mapped 11 clauses, but original PDF returned 403. All R1–R8 still IN_PROGRESS, ZERO academic approvals.",
-  "next_action": "R1 direct official syllabus PDF primary page; R2 human dedup; R3 expand major concepts to true textbook full-page depth; R4 source-check claims; R5 independently validate all 25 keys/distractors; R6 add structured subheadings to first four answers and fact-check all six; R7 diagrams/maps accuracy; R8 full-resolution 25-page review and live Pages usability. Then continue other existing topics.",
+  "evidence": "Final integrated student edition 25 pages/11613 PDF text words; 25 numbered concepts, 25 four-option explained original MCQs with improved distractors, six 200–250-word mains answers, two SVG process diagrams. GitHub renderer succeeded; downloaded actual packaging artifact 12639056782 from run 40297113631, outer/inner ZIP CRC PASS, 1455 files, 75 original PDFs, 75 readiness JSONs, 78 HTML pages, 461 local links ZERO broken. Original PDF SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879 preserved. PDF SHA256 b0180b9b0f84c1b1e842a88e90b388ba1388a6d13898babe8ed8171b3703fa16. 25 pages contact-sheet visually inspected for gross layout; no empty pages/outside-page text boxes; full-res accessibility pending. R1 official syllabus indexed text mapped 11 clauses, but original PDF returned 403. All R1–R8 still IN_PROGRESS, ZERO academic approvals. 26 Oct: R1 PASS after direct official Annexure II p29 visual inspection and 11-clause mapping. MCQ11/12 keys checked against IMD operational criteria, remaining 23 MCQ keys/distractors pending. First four mains answers given analytical subheadings in source; PDF sync requires post-render verification.",
+  "next_action": "R2 editorial dedup; R3 substantive depth; R4 claim-level source log; R5 verify remaining 23 MCQ keys and all distractors; R6 check six answer claims; R7 visual/maps; R8 verify latest regenerated PDF against source, inspect at full resolution and test public Pages. Exactly 75 topics; no academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_report": "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
@@ -67,9 +67,42 @@
       "B": 7,
       "C": 7,
       "D": 4
-    }
+    },
+    "latest_source_revision_commit": "30e195ec583fce80bb367c6dfdfa288d6e79fa75",
+    "source_to_pdf_resync_pending_verification": true
   },
   "integrated_build_preflight": "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json",
   "integrated_artifact_qa": "project-control/academic-readiness/2-3-1-final-integrated-artifact-qa-2026-10-26.json",
-  "official_syllabus_mapping_preflight": "project-control/academic-readiness/2-3-1-official-syllabus-mapping-preflight-2026-10-26.json"
+  "official_syllabus_mapping_preflight": "project-control/academic-readiness/2-3-1-official-syllabus-mapping-preflight-2026-10-26.json",
+  "official_syllabus_mapping_verified": {
+    "status": "PASS",
+    "source": "Official TGPSC Notification No.02/2024 Annexure II printed p29 PDF page index28 directly retrieved and visually inspected 2026-10-26",
+    "clauses": 11,
+    "evidence_path": "project-control/academic-readiness/2-3-1-official-syllabus-r1-verified-2026-10-26.json"
+  },
+  "mcq_primary_key_checks": {
+    "checked_questions": [
+      11,
+      12
+    ],
+    "supported_keys": 2,
+    "remaining_keys_not_primary_checked": 23,
+    "distractors_not_fully_validated": true,
+    "evidence_path": "project-control/academic-readiness/2-3-1-mcq11-12-primary-key-check-2026-10-26.json",
+    "R5": "IN_PROGRESS"
+  },
+  "mains_structural_revision": {
+    "first_four_answers_have_headings": true,
+    "all_six_answer_body_word_counts": [
+      248,
+      227,
+      248,
+      249,
+      201,
+      222
+    ],
+    "source_commit": "30e195ec583fce80bb367c6dfdfa288d6e79fa75",
+    "factual_review_pending": true,
+    "R6": "IN_PROGRESS"
+  }
 }
