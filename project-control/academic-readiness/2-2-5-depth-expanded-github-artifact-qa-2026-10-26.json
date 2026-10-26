@@ -1,1 +1,20 @@
-The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+{
+  "date": "2026-10-26",
+  "source_artifact_run": 40276703691,
+  "source_artifact_id": 12629938593,
+  "outer_crc_bad": null,
+  "inner_crc_bad": null,
+  "file_count": 1438,
+  "original_topic_pdf_count": 75,
+  "readiness_json_count": 75,
+  "html_pages": 78,
+  "relative_links_checked": 459,
+  "broken_local_links": 0,
+  "broken_link_samples": [],
+  "original_topic5_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
+  "original_topic5_pdf_preserved": true,
+  "integrated_topic5_pdf_sha256": "65a4fb4d73edc34dfce51e1168b0da1a0f9e8295067a1435a95f306520de90cc",
+  "integrated_topic5_pdf_matches_ci_qa": true,
+  "integrated_topic5_md_sha256": "54ea5c95da4620efb09c8c27fc83270b57db6395f896c2ee1baee0284a275629",
+  "note": "Verified actual downloaded GitHub workflow artifact after CI PDF rendering. Later readiness-index commit may not be included; inspect current remote separately. Public browser usability not verified."
+}
