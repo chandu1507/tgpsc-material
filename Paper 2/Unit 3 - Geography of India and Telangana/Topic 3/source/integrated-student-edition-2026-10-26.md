@@ -224,7 +224,7 @@ C. A direct tributary of the Krishna at Hyderabad
 
 D. An engineered irrigation canal below Nagarjuna Sagar
 
-**Answer: A. Explanation:** Pranhita is part of the Godavari drainage network, not a delta distributary or Krishna canal. Source-specific river map verification remains pending.
+**Answer: A. Explanation:** The CWC Godavari Water Disputes Tribunal report defines Pranhita sub-basin and states that Wainganga becomes Pranhita after its confluence with Wardha. [T10]
 
 ### MCQ 11. Why is the Musi important to Krishna-basin urban geography?
 
@@ -380,7 +380,7 @@ C. Forest cover cannot occur outside legal forests
 
 D. One is land-cover classification; the other is legal/administrative status
 
-**Answer: D. Explanation:** Satellite forest cover and legally recorded forest land are different measures. Forest Survey of India direct table check pending.
+**Answer: D. Explanation:** The Forest Survey of India's ISFR 2019 defines forest cover by observed canopy regardless of legal status, while recorded forest area is a legal/administrative category. [T11]
 
 ### MCQ 24. For evaluating canal lining as a basin-wide water-saving intervention, what must be considered?
 
@@ -503,6 +503,8 @@ D. A list of dam inauguration dates
 | T7 | [USGS, Water Budgets: Foundations for Effective Water-Resources and Environmental Management](https://pubs.usgs.gov/circ/2007/1308/) and [USGS groundwater budgets](https://www.usgs.gov/centers/new-jersey-water-science-center/science/groundwater-budgets) | Conservation of mass and boundary-dependent water budgets; examples are conceptual, not Telangana measurements. |
 | T8 | [NTPC Ramagundam official station profile](https://ntpc.co.in/ramagundam) | 2,600-MW installed capacity of named NTPC station; distinguish other Telangana power projects and year-specific generation. |
 | T9 | [National Tiger Conservation Authority reserve notification collection](https://ntca.gov.in/reports/) | Amrabad and Kawal notifications are listed; separate notification-year, core and buffer area. |
+| T10 | [Central Water Commission, Godavari Water Disputes Tribunal Further Report](https://cwc.gov.in/sites/default/files/GWDTAward%20Further%20Report.pdf) | G-9 Pranhita sub-basin and Wardha–Wainganga confluence; historical legal basin definition, not a current river-flow measurement. |
+| T11 | [Forest Survey of India, ISFR 2019 Volume I, §1.3](https://fsi.nic.in/isfr2019/isfr-fsi-vol1.pdf) | Forest cover versus recorded forest area definitions; this is a definitional source, not 2026 Telangana area data. |
 
 **Verification limits:** This is an editorially source-correlated subset, not a complete independent claim-by-claim audit. The original TGPSC Annexure II PDF could not be re-fetched in this run (HTTP 403); R1 stays IN_PROGRESS until directly revalidated. Do not present the questions below as official PYQs.
 
