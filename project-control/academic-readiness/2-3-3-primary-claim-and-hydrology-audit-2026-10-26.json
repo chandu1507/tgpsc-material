@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-3",
+  "kind": "partial_claim_level_source_correlation_and_real_error_correction_not_academic_approval",
+  "scope": {
+    "existing_topics": 75,
+    "added_topic": false,
+    "legacy_pdf_sha256": "d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9",
+    "legacy_pdf_pages": 7,
+    "original_pdf_preserved": true
+  },
+  "real_correction": {
+    "issue": "Legacy §7 unqualified P = ET + runoff + recharge + change in storage can double-count recharge in a whole-catchment budget when groundwater storage/baseflow are also included.",
+    "resolution": "Explicitly separate catchment boundary budget (external inputs=external outputs+total storage change) from soil-zone budget where recharge can be an output.",
+    "fixed_files": [
+      "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/detailed-notes.md",
+      "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/complete-notes.md",
+      "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/index.html",
+      "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.md"
+    ],
+    "source": "https://pubs.usgs.gov/circ/2007/1308/",
+    "limitations": "Original equation could be valid for a restricted soil-zone budget; problem was missing control-volume definition, not an assertion that recharge is never a budget output."
+  },
+  "claim_checks": [
+    {
+      "id": "C1",
+      "claim": "Telangana state created on 2 June 2014",
+      "source": "https://www.telangana.gov.in/About/State-Profile/",
+      "status": "CORROBORATED_OFFICIAL_PAGE",
+      "limitation": "2014 state formation must not be confused with Hyderabad State 1948/1956 history."
+    },
+    {
+      "id": "C2",
+      "claim": "Current state profile area 112,077 km2 and 33 districts",
+      "source": "https://www.telangana.gov.in/About/State-Profile/",
+      "status": "CORROBORATED_OFFICIAL_PAGE",
+      "limitation": "Not a boundary-matched 2011 Census district time series."
+    },
+    {
+      "id": "C3",
+      "claim": "Nearly 81% Telangana geological area hard rock in joint 2022 groundwater report",
+      "source": "https://www.cgwb.gov.in/old_website/GW-Assessment/GWR-2022-Reports%20State/Telangana.pdf",
+      "status": "CORROBORATED_OFFICIAL_PDF_INDEXED_TEXT_P11",
+      "limitation": "2022 area estimate, not share of wells, water availability or current 2026 groundwater."
+    },
+    {
+      "id": "C4",
+      "claim": "Amrabad total reserve landscape approximately 2611 km2; core 2166.37 km2",
+      "source": "https://mee-tr.wii.gov.in/Home/Geospatial/amrabad-tiger-reserve",
+      "status": "CORROBORATED_INSTITUTIONAL_PAGE",
+      "limitation": "Do not conflate total with core; boundary/notification dates may differ."
+    },
+    {
+      "id": "C5",
+      "claim": "Kawal linked with Tadoba/Tipeshwar-associated tiger landscape corridors",
+      "source": "https://mee-tr.wii.gov.in/Home/Geospatial/kawal-tiger-reserve",
+      "status": "CORROBORATED_INSTITUTIONAL_PAGE",
+      "limitation": "Landscape potential does not prove current occupancy or breeding."
+    },
+    {
+      "id": "C6",
+      "claim": "NTPC Ramagundam installed capacity 2600 MW",
+      "source": "https://ntpc.co.in/ramagundam",
+      "status": "CORROBORATED_OFFICIAL_PAGE",
+      "limitation": "Named station, not separate Telangana STPP; capacity not annual MWh."
+    },
+    {
+      "id": "C7",
+      "claim": "Water budget depends on inflow/outflow/control-volume storage accounting",
+      "source": "https://pubs.usgs.gov/circ/2007/1308/",
+      "status": "CORROBORATED_USGS_TECHNICAL_SOURCE",
+      "limitation": "Generic hydrology framework, not measured Telangana-specific water budget."
+    },
+    {
+      "id": "C8",
+      "claim": "Telangana Mines and Geology Department is regulatory/exploration administration",
+      "source": "https://www.telangana.gov.in/departments/mines-geology/",
+      "status": "CORROBORATED_OFFICIAL_PAGE",
+      "limitation": "No quantitative mineral reserves proven from department description."
+    },
+    {
+      "id": "C9",
+      "claim": "Andhra Pradesh Reorganisation Act 2014 governs state creation",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6.pdf",
+      "status": "INDEXED_OFFICIAL_ACT_NOT_FULL_PAGE_REVIEW",
+      "limitation": "Direct clause-level legal review still required."
+    }
+  ],
+  "academic_gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_external_reviewer": null,
+  "academically_approved": false,
+  "limits": [
+    "TGPSC original notification PDF direct fetch HTTP 403 in this run; do not mark R1 PASS.",
+    "25 original MCQs authored and internally checked, but independent factual verification of each key/distractor is incomplete.",
+    "Six mains answers now within 200–250 words by token counting; individual claim-level checks incomplete.",
+    "Fourteen concepts remain below 300 words except §7; full-page depth not certified.",
+    "Direct public-browser and PDF accessibility tests pending.",
+    "Original official PYQs authenticated: zero."
+  ]
+}
