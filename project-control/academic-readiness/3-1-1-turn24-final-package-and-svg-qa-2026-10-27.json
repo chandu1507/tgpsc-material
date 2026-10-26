@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-1",
+  "workflow_run_id": 40416043269,
+  "artifact_id": 12694682716,
+  "head_sha": "7cbcbef3f7e0c524ac47e42fc8ef2a3aa1653ee9",
+  "workflow_conclusion": "success",
+  "actual_artifact_downloaded": true,
+  "outer_inner_crc_pass": true,
+  "files": 1524,
+  "original_topic_pdfs": 75,
+  "readiness_json": 75,
+  "html_pages": 78,
+  "static_links_checked": 470,
+  "broken_static_links": 0,
+  "dom_fragments_checked": 686,
+  "broken_dom_fragments": 0,
+  "spa_hash_routes_excluded": 64,
+  "external_links_not_tested": 218,
+  "mcq_count": 25,
+  "mcq_ids_sequential": true,
+  "all_mcqs_have_four_labeled_options": true,
+  "mcq_git_blob_sha1": "6d247ef6a2f2a57d0fe9d64b0e7f09956f683921",
+  "mcq_blob_matches_published": true,
+  "topic_3_1_2_original_pdf_sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921",
+  "topic_3_1_2_original_preserved": true,
+  "readiness_counts": {
+    "in_progress": 7,
+    "assessed_rebuild_required": 2,
+    "not_assessed": 66,
+    "fully_R1_R8_ready": 0,
+    "independently_approved": 0
+  },
+  "original_svgs": [
+    {
+      "file": "indian-society-integration-mechanisms.svg",
+      "xml_parse": "PASS",
+      "raster_render": "PASS",
+      "visual_gross_layout": "PASS",
+      "title_desc_present": true
+    },
+    {
+      "file": "family-household-kinship-distinction.svg",
+      "xml_parse": "PASS",
+      "raster_render": "PASS",
+      "visual_gross_layout": "PASS",
+      "title_desc_present": true
+    }
+  ],
+  "limitations": [
+    "This QA covers downloaded publication artifact at head_sha stated; any subsequent control commit requires separate packaging verification",
+    "Full screen-reader and keyboard accessibility not tested",
+    "No synchronized integrated Topic 3-1-1 student PDF yet",
+    "No public-browser end-to-end QA",
+    "R2-R8 incomplete; no independent academic approvals"
+  ],
+  "independent_approvals": 0
+}
