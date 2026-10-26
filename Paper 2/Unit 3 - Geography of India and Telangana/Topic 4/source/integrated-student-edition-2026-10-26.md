@@ -1,6 +1,6 @@
 # Paper II · Unit III · Topic 4 — Telangana Agriculture, Irrigation, Industry, Population and Tribal Development
 
-**Status: integrated working edition; NOT academically ready or independently approved.** Existing legacy PDF is preserved. This editable master combines the existing original narrative, the previously separate six-section repair, original model answers, 25 new explained practice MCQs, and four additional structured mains answers. No question below is represented as an authenticated official PYQ. This master has NOT been synchronized with a CI-rendered PDF, and qualitative R2–R8 checks remain open.
+**Status: integrated working edition; NOT academically ready or independently approved.** Existing legacy PDF is preserved. This editable master combines the existing original narrative, the previously separate six-section repair, original model answers, 25 new explained practice MCQs, and four additional structured mains answers. No question below is represented as an authenticated official PYQ. A synchronized CI-rendered working PDF is now published; this does NOT mean academic R1–R8 approval. The dedicated Topic 4 renderer is being used to correct its footer, and full post-render accessibility and source checks remain open.
 
 ## Official syllabus — local transcription; original clause-by-clause recheck pending
 
@@ -561,5 +561,5 @@ UNESCO 2026 Decision 48 COM 7B.11 deals with protection and assessment requireme
 - R5: 25 original explained draft MCQs written; ALL 25 key/distractor sets require complete source verification and discrimination review.
 - R6: six model answers assembled, four new drafts within 200–250 words; two inherited answers require recheck, first previously exceeded 250 words.
 - R7: SVG diagrams and map accuracy checks not completed; no visual claimed.
-- R8: CI-rendered integrated PDF and post-render artifact for THIS revised master are pending until the dedicated workflow succeeds; legacy original PDF must remain untouched, 75-topic count preserved.
+- R8: integrated PDF exists, but a dedicated Topic 4 footer-corrected render, latest artifact CRC/75-topic/link QA, and full-resolution student usability are still required; legacy original PDF remains untouched.
 - R9: NOT STARTED; zero external academic approvals.
