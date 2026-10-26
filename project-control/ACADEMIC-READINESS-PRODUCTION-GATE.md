@@ -27,6 +27,10 @@ Five existing topics are IN_PROGRESS: 2-2-4, 2-2-5, 2-3-1, 2-3-2 and 2-3-3. Seve
 
 A substantive hydrology correction was made to existing Topic 2-3-3 notes and portal: recharge is an internal flux for a whole-catchment water budget and can be an outflow for a soil-zone budget; it must not be counted twice. The partial 11-claim source register and limitations are in `project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json`.
 
+## Reconciled Topic 2-3-4 preflight (26 October 2026, Turn17)
+
+Five existing topics remain IN_PROGRESS (2-2-4, 2-2-5, 2-3-1, 2-3-2, 2-3-3); existing Topic **2-3-4** is now **ASSESSED_REBUILD_REQUIRED**, leaving **69 NOT_ASSESSED**. The original Topic 2-3-4 8-page PDF SHA256 `5a544ab369c285c6cc54cafa7ade872bddc2b9f517a6cffe19ec1048586496d1` remains preserved and its Git blob matches the archived source. All 15 explanatory concepts are under 150 words; no original explained four-option MCQs, only two mains answers (258/244 words), zero original SVG diagrams. A six-section earlier repair exists in the consolidated source but a synchronized integrated PDF has not been demonstrated. The previous local quality-audit checklist incorrectly marked depth and diagrams complete; it has been corrected. R1/R2/R4 IN_PROGRESS, R3/R5/R6/R7/R8 BLOCKED. Evidence: `project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json`. **Exactly 75 topics, zero fully R1–R8 ready, zero independently approved.**
+
 ## Immediate production queue
 
 Finish Topic 2-3-3 synchronized CI PDF, original-preservation/ZIP/portal QA and detailed page review. Then expand the remaining shallow concepts **substantively**, complete direct primary-source and MCQ distractor checks, and progress the next existing Paper II/III topic. Keep Topic 2-3-2's 35 concepts below 300 words and pending MCQ/mains reviews visible. Do not stall indefinitely on inaccessible Topic 2-2-5 historical originals; record R4 BLOCKED and advance other work. Never treat word count, artifact CRC or workflow success as academic approval. Independent R9 starts only after every R1–R8 gate genuinely passes.
