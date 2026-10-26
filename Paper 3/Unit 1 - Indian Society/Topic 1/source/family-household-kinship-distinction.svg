@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="570" viewBox="0 0 1060 570" role="img" aria-labelledby="title desc">
+<title id="title">Family, household and kinship: overlapping but distinct analytical units</title>
+<desc id="desc">Three conceptual boxes define family, household and kinship. A migrant-worker example shows one family spanning two households and maintaining wider kinship obligations. Neither residential form nor descent alone determines authority or care.</desc>
+<rect width="1060" height="570" fill="#f8fafc"/>
+<text x="530" y="52" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#12304d">Family ≠ household ≠ kinship</text>
+<text x="530" y="81" font-family="Arial,sans-serif" font-size="17" text-anchor="middle" fill="#475569">Three different questions about social organisation</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="30" y="122" width="316" height="168" rx="14" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="188" y="157" font-size="24" font-weight="700" fill="#1d4ed8">Family</text>
+<text x="188" y="190" font-size="17" fill="#1e40af">Recognised relations of care,</text>
+<text x="188" y="216" font-size="17" fill="#1e40af">partnership, descent and duties</text>
+<text x="188" y="251" font-size="15" fill="#334155">May span multiple residences</text>
+<rect x="372" y="122" width="316" height="168" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<text x="530" y="157" font-size="24" font-weight="700" fill="#166534">Household</text>
+<text x="530" y="190" font-size="17" fill="#166534">Residential and consumption</text>
+<text x="530" y="216" font-size="17" fill="#166534">unit for a defined reference</text>
+<text x="530" y="251" font-size="15" fill="#334155">May include unrelated people</text>
+<rect x="714" y="122" width="316" height="168" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+<text x="872" y="157" font-size="24" font-weight="700" fill="#92400e">Kinship</text>
+<text x="872" y="190" font-size="17" fill="#92400e">Wider socially recognised ties</text>
+<text x="872" y="216" font-size="17" fill="#92400e">through descent and alliance</text>
+<text x="872" y="251" font-size="15" fill="#334155">Networks beyond co-residence</text>
+</g>
+<path d="M188 290 L188 323 L530 349" fill="none" stroke="#475569" stroke-width="2.5"/>
+<path d="M530 290 L530 343" fill="none" stroke="#475569" stroke-width="2.5"/>
+<path d="M872 290 L872 323 L530 349" fill="none" stroke="#475569" stroke-width="2.5"/>
+<rect x="115" y="348" width="830" height="111" rx="16" fill="#e0e7ff" stroke="#4338ca" stroke-width="2"/>
+<text x="530" y="382" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#312e81">Worked example: a migrant family</text>
+<text x="530" y="411" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#3730a3">A parent works in Hyderabad; children and grandparents reside elsewhere.</text>
+<text x="530" y="438" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#3730a3">One family can span households while wider kin provide support and obligations.</text>
+<rect x="115" y="487" width="830" height="53" rx="10" fill="#f1f5f9" stroke="#64748b"/>
+<text x="530" y="511" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#334155">Analytical caution: residence, descent, inheritance and authority are separate dimensions.</text>
+<text x="530" y="532" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#475569">Do not infer matriarchy from matriliny or family decline from nuclear residence.</text>
+</svg>
