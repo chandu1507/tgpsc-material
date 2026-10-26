@@ -90,7 +90,7 @@
   "assessed_rebuild_required": [
     "2-3-2"
   ],
-  "last_readiness_update": "2026-10-26 Topic 2-3-2 objectively assessed from actual 15-page original, 3-page prior repair and sources; 40 sections (39 <150 words), 8 MCQs, 4 mains, zero SVG; rebuild required, not approved.",
+  "last_readiness_update": "2026-10-26 Topic 2-3-2 objectively assessed: 40 sections (39 under 150 words), 8 MCQs, 4 mains, no SVG; 4 dated government statistics spot-checked, R4 IN_PROGRESS. Rebuild required; 71 unassessed, 0 ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -98,6 +98,7 @@
   ],
   "verified_R1_pass_count": 3,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-final-integrated-artifact-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-official-syllabus-mapping-preflight-2026-10-26.json",
