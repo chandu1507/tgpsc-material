@@ -2,7 +2,7 @@
   "topic_id": "2-2-5",
   "title": "People's Movement against Nizam's Rule",
   "date": "2026-10-26",
-  "status": "DEPTH_EXPANDED_INTEGRATED_EDITION_PUBLISHED_PENDING_CONTENT_QA",
+  "status": "MCQ_DISCRIMINATION_REVISED_INTEGRATED_EDITION_PENDING_FACT_QA",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "readiness_gate_file": "project-control/academic-readiness/2-2-5.json",
@@ -21,15 +21,15 @@
     "R2": "Original legacy PDF and prior supplements preserved; one integrated Markdown student edition updated in place. Nine shallow sections expanded in latest revision; final overlap/contradiction editorial sweep outstanding.",
     "R3": "2026-10-26 depth pass: all 25 numbered narrative sections at least 150 words (previously 9 under 150); 24 >=300 words, one 287 words. Actual section counts in 2-2-5-depth-expansion-2026-10-26.json. Historical depth and nonrepetition require further editorial review; R3 IN_PROGRESS.",
     "R4": "Historical source register expanded S10-S15: Sundarayya participant retrospective explicitly says 21 Oct 1951; May 1951 party policy is NOT the October withdrawal announcement; contemporary Patel statement and Nehru correspondence on Nov 1947 standstill recovered; signed original and other archival documents remain unavailable. R4 BLOCKED.",
-    "R5": "30 original four-option MCQs with explanations, balanced keys A7/B7/C8/D8. Fresh 26 Oct 2026 item-level editorial preflight found 21/30 weak distractor sets, 3 borderline, 6 acceptable pending fact-check. Report project-control/academic-readiness/2-2-5-mcq-discrimination-preflight-2026-10-26.json. Historical keys and explanations NOT independently verified; R5 IN_PROGRESS.",
+    "R5": "26 October 2026: 24 item-level corrections (21 formerly weak, 3 borderline) applied IN PLACE to the 30-question integrated student edition; 30/30 retain four options, keys, explanations, source tags and distribution A7/B7/C8/D8. Evidence: project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json. This is internal editorial correction, not independent historical verification; R5 remains IN_PROGRESS.",
     "R6": "Six structured original mains answers, word counts 218/201/214/214/208/209, plus six answer blueprints. Independent historical-content review outstanding.",
     "R7": "Three original SVG process diagrams, timeline, comparative table, revision traps and 2026 commemoration linked to dated government release. Student usability review outstanding.",
-    "R8": "CI PDF render run 40276586706 SUCCESS, remote 34-page searchable PDF SHA256 65a4fb4d73edc34dfce51e1168b0da1a0f9e8295067a1435a95f306520de90cc. Actual GitHub packaging run 40276703691 SUCCESS, artifact 12629938593 downloaded and independently checked: 1438 files, 75 original PDFs, 75 readiness JSON, 78 HTML pages, 459 local links/zero broken, outer/inner ZIP CRC PASS, original legacy PDF byte-identical, corrected PDF SHA256 matches. QA project-control/academic-readiness/2-2-5-depth-expanded-github-artifact-qa-2026-10-26.json. Public Pages usability not independently verified; R8 IN_PROGRESS."
+    "R8": "GitHub renderer run 40282393196 SUCCESS; updated searchable PDF 35 pages, SHA256 005328f3df628bb43dd10380a8a0b025a925186c24233ab4a7bee3d8def45374; original legacy PDF SHA checked by CI. Packaging run 40282393231 SUCCESS and artifact 12632432411 exists but was NOT downloaded/CRC checked in this run and may predate PDF render. Public browser usability unverified; R8 IN_PROGRESS."
   },
   "original_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
-  "integrated_md_sha256": "54ea5c95da4620efb09c8c27fc83270b57db6395f896c2ee1baee0284a275629",
-  "integrated_pdf_sha256": "65a4fb4d73edc34dfce51e1168b0da1a0f9e8295067a1435a95f306520de90cc",
-  "integrated_pdf_pages": 34,
+  "integrated_md_sha256": null,
+  "integrated_pdf_sha256": "005328f3df628bb43dd10380a8a0b025a925186c24233ab4a7bee3d8def45374",
+  "integrated_pdf_pages": 35,
   "integrated_words": 15938,
   "mcqs_original_explained": 30,
   "mains_original_complete": 6,
@@ -50,7 +50,8 @@
     "Inspect signed Standstill Agreement, original October 1951 withdrawal text, Sunderlal full original and Gond archival records",
     "Independent textbook-depth and deduplication review after expansion; all sections meet 150-word mechanical floor, which is not academic sign-off",
     "Verify public GitHub Pages topic 2-2-5 PDF navigation and usability in a real browser",
-    "Rewrite 21 weak and 3 borderline MCQ distractor sets with close same-topic alternatives; fact-check all 30 keys and explanations against actual sources"
+    "Independently verify factual keys, explanations and discrimination of 30 revised MCQs; editorial rewrite alone does not pass R5",
+    "Download and CRC-check a fresh GitHub artifact built after the 35-page PDF commit; visually review every PDF page"
   ],
   "sources": [
     {
@@ -78,5 +79,8 @@
       "url": "https://nehruarchive.in/documents/to-vallabhbhai-patel-25-november-1947-kz2znp"
     }
   ],
-  "depth_expansion_qa": "project-control/academic-readiness/2-2-5-depth-expansion-2026-10-26.json"
+  "depth_expansion_qa": "project-control/academic-readiness/2-2-5-depth-expansion-2026-10-26.json",
+  "integrated_md_blob_sha": "c9086e3a888ea14075895ccd798d4cd8ba5ea42d",
+  "integrated_md_sha256_status": "recompute from remote after revision; previous SHA256 is obsolete",
+  "mcq_discrimination_revision_report": "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json"
 }
