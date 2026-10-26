@@ -104,7 +104,7 @@ while i<len(tokens):
  if t.type in ('list_item_open','list_item_close'):i+=1;continue
  if t.type=='paragraph_open':
     inl=tokens[i+1]; val=inline_html(inl)
-    if inl.content.startswith('**Diagram '):
+    if '**Diagram ' in inl.content:
       m=re.search(r'Diagram (\d)',inl.content)
       if m:story.append(diagram(int(m.group(1))))
     story.append(Paragraph(('•  '+val) if list_depth else val,styles['li' if list_depth else 'p']))
