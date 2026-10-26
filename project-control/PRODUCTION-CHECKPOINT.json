@@ -177,10 +177,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/2-3-4.json"
+      "production_review": "objective_gap_assessment_rebuild_required",
+      "notes": "26 Oct Turn17 actual archived 8-page original PDF SHA256 5a544ab369c285c6cc54cafa7ade872bddc2b9f517a6cffe19ec1048586496d1 preserved and remote Git blob matched. Fifteen numbered explanatory concepts, all under 150 words; existing six-section repair in provenance-labelled master, no demonstrated synchronized integrated PDF. ZERO original four-option explained MCQs, TWO mains answers 258/244 words, ZERO original SVG diagrams, ZERO authenticated official PYQs. Existing quality-audit false-positive checkboxes corrected. R1/R2/R4 IN_PROGRESS; R3/R5/R6/R7/R8 BLOCKED; zero academic approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json"
     },
     {
       "id": "2-3-5",
