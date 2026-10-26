@@ -2,7 +2,7 @@
   "topic_id": "2-3-3",
   "title": "Telangana: Physical Geography, Rivers, Forests and Minerals",
   "date": "2026-10-26",
-  "status": "ASSESSED_REBUILD_REQUIRED",
+  "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,19 +17,20 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
+    "R1": "IN_PROGRESS",
     "R2": "IN_PROGRESS",
-    "R3": "BLOCKED",
-    "R4": "NOT_STARTED",
-    "R5": "BLOCKED",
-    "R6": "BLOCKED",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": [
-    "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json"
+    "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
+    "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json"
   ],
-  "next_action": "Directly map original TGPSC p29 Topic3 and inspect legacy PDF; 14/14 concepts under 150 words, 0 original MCQs, 2 mains answers (one ~254 words), no SVG; rebuild integrated edition and verify all claims. Academic approvals zero.",
+  "next_action": "Verify CI-rendered PDF and downloaded packaging artifact; expand 13 remaining concepts under 300 words qualitatively; verify all 25 MCQ keys/distractors and six mains answers claim-by-claim; recheck original official TGPSC syllabus PDF (HTTP403 in this run); complete R2/R4/R7/R8 before R9.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_source_gap": {
@@ -44,5 +45,27 @@
     ],
     "svg_diagrams": 0,
     "legacy_pdf_sha256_verified": false
+  },
+  "integrated_student_edition": {
+    "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.md",
+    "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.pdf",
+    "pdf_status": "CI_RENDER_PENDING_VERIFICATION",
+    "concepts": 14,
+    "concepts_under_150": 0,
+    "concepts_under_300": 13,
+    "original_explained_mcqs": 25,
+    "mains_answers": 6,
+    "mains_word_counts": [
+      250,
+      243,
+      230,
+      206,
+      211,
+      203
+    ],
+    "original_svg_diagrams": 2,
+    "source_correlated_claims": 9,
+    "original_pdf_pages": 7,
+    "original_pdf_sha256": "d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9"
   }
 }
