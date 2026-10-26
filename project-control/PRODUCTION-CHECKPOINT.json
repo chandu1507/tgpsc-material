@@ -178,7 +178,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "integrated_editable_working_master_published_pdf_and_academic_gates_pending",
-      "notes": "26 Oct 2026: original 8-page PDF preserved; editable working master integrates 15 short concepts and six-section prior repair, 25 original explained draft MCQs, six structured mains answers (two inherited, four new 213/211/212/222 words). No synchronized integrated PDF, R3 depth BLOCKED, R5/R6 source verification pending, R7/R8 blocked. NOT approved.",
+      "notes": "26 Oct 2026: original 8-page PDF preserved; editable working master integrates 15 short concepts and six-section prior repair, 25 original explained draft MCQs, six structured mains answers (two inherited, four new 213/211/212/222 words). No synchronized integrated PDF, R3 depth BLOCKED, R5/R6 source verification pending, R7/R8 blocked. NOT approved. Actual GitHub packaging artifact 12671934843 downloaded: 1493 files, 75 original PDFs, 75 readiness JSONs, 78 HTML, 466 local links zero broken, CRC PASS; this is NOT a new integrated PDF render.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
       "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json"

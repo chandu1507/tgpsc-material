@@ -29,9 +29,10 @@
   "evidence": [
     "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-4-mission-kakatiya-ramappa-source-check-2026-10-26.json",
-    "project-control/academic-readiness/2-3-4-integrated-working-master-production-2026-10-26.json"
+    "project-control/academic-readiness/2-3-4-integrated-working-master-production-2026-10-26.json",
+    "project-control/academic-readiness/2-3-4-post-publication-packaging-qa-2026-10-26.json"
   ],
-  "next_action": "Integrated editable working master published with 25 original explained draft MCQs and six mains answers. R2 dedup, R3 depth of all 15 short concepts, R4 claim-level sources, R5 all 25 keys and 75 distractors, R6 inherited answer1 >250 and all six source checks, R7 diagrams, R8 CI PDF/ZIP/browser pending. Original 8-page PDF preserved. No R9.",
+  "next_action": "Packaging artifact verified (75 original PDFs, 75 readiness JSON, 466 local links, CRC PASS) but integrated Topic2-3-4 PDF has NOT been rendered. Expand 15 shallow concepts; verify all 25 MCQs, 6 mains and syllabus; create SVGs, CI PDF and page-level R8 QA. Academic readiness NOT PASSED.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -77,6 +78,10 @@
     "new_diagrams": 0,
     "synchronized_pdf": false,
     "actual_post_render_artifact_downloaded_for_this_master": false,
-    "legacy_pdf_preserved": true
+    "legacy_pdf_preserved": true,
+    "packaging_artifact_downloaded": true,
+    "packaging_artifact_id": 12671934843,
+    "packaging_run_id": 40372793307,
+    "packaging_integrity_pass": true
   }
 }
