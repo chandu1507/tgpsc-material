@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-2",
+  "scope": "one of exactly 75 existing topics",
+  "kind": "production_evidence_not_academic_approval",
+  "official_syllabus": {
+    "source": "TGPSC Notification 02/2024 Annexure II printed page 29, Geography of India and Telangana item 2",
+    "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "direct_original_pdf_visually_read": true,
+    "mapping": [
+      {
+        "clause": "major food crops",
+        "sections": "2,3,4"
+      },
+      {
+        "clause": "major non-food crops",
+        "sections": "5"
+      },
+      {
+        "clause": "agro-climatic regions",
+        "sections": "6"
+      },
+      {
+        "clause": "Green Revolution",
+        "sections": "7"
+      },
+      {
+        "clause": "recent agricultural trends",
+        "sections": "8,31,32"
+      },
+      {
+        "clause": "major irrigation projects",
+        "sections": "9,10"
+      },
+      {
+        "clause": "Command Area Development",
+        "sections": "11"
+      },
+      {
+        "clause": "iron and steel industry",
+        "sections": "13"
+      },
+      {
+        "clause": "cotton textiles",
+        "sections": "14"
+      },
+      {
+        "clause": "cement and sugar industries",
+        "sections": "15"
+      },
+      {
+        "clause": "automobiles",
+        "sections": "16"
+      },
+      {
+        "clause": "IT",
+        "sections": "17"
+      },
+      {
+        "clause": "food processing",
+        "sections": "18"
+      },
+      {
+        "clause": "industrial localisation factors",
+        "sections": "12,34"
+      },
+      {
+        "clause": "industrial corridors and economic development",
+        "sections": "19,40"
+      },
+      {
+        "clause": "means of transport and roads",
+        "sections": "20"
+      },
+      {
+        "clause": "rail networks and economic development",
+        "sections": "21"
+      },
+      {
+        "clause": "highways and express highways",
+        "sections": "20"
+      },
+      {
+        "clause": "major ports and direction of trade",
+        "sections": "22,23,36"
+      },
+      {
+        "clause": "WTO",
+        "sections": "23"
+      },
+      {
+        "clause": "strategic location in Indian Ocean",
+        "sections": "24"
+      },
+      {
+        "clause": "population distribution and growth",
+        "sections": "25"
+      },
+      {
+        "clause": "demographic characteristics, dividend and transition",
+        "sections": "26"
+      },
+      {
+        "clause": "HDI, population problems and policies",
+        "sections": "27,37"
+      },
+      {
+        "clause": "urbanisation, megacities, policies and Smart Cities",
+        "sections": "28,29,38,39"
+      }
+    ],
+    "R1": "PASS"
+  },
+  "remote_working_edition": {
+    "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+    "preserved_original_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "integrated_existing_detailed_sections": 40,
+    "integrated_prior_repair_sections": 7,
+    "original_practice_mcqs": 25,
+    "model_answers": 6,
+    "svg_diagrams": 2,
+    "source_register": true,
+    "publication_pdf": "PENDING_RENDER_VALIDATION"
+  },
+  "local_candidate": {
+    "location": "/mnt/data/tgpsc_turn14_topic232/",
+    "markdown_sha256": "036bd4f9385bdd3005f0b8c51dfff03aaa51089feb1840f08ba6232351b266d8",
+    "pdf_sha256": "4d8b32a177b0f8e8904e710bb0d28a0931de8f26ed3d2eaec3e1ab755a5b3c29",
+    "pdf_pages": 22,
+    "original_mcqs": 25,
+    "mains_word_counts": [
+      206,
+      207,
+      206,
+      209,
+      206,
+      201
+    ],
+    "note": "Locally produced expanded candidate differs from GitHub working master; DO NOT claim byte-identical remote publication or synced PDF until independently checked."
+  },
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "blockers": [
+    "Many of 40 concepts still too short for textbook standard",
+    "All 25 MCQ keys and distractors require independent claim-level check",
+    "Six mains answers require source-level editorial check",
+    "Public-browser and full-resolution accessibility not certified",
+    "GitHub PDF and actual packaging artifact pending verification at evidence-writing time"
+  ],
+  "independent_academic_approvals": 0,
+  "independent_reviewer": null
+}
