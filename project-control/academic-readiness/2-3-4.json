@@ -27,9 +27,10 @@
     "R8": "BLOCKED"
   },
   "evidence": [
-    "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json"
+    "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json",
+    "project-control/academic-readiness/2-3-4-mission-kakatiya-ramappa-source-check-2026-10-26.json"
   ],
-  "next_action": "Rebuild existing 2-3-4 integrated student edition, verify official syllabus, 25+ explained original MCQs, six 200–250-word mains answers, accurate diagrams, primary sources and actual post-render artifact; preserve legacy PDF. R9 NOT_STARTED.",
+  "next_action": "R4: four claims source-correlated with historical/UNESCO scope caveats; continue full claim audit. Rebuild existing 15 shallow concepts and original MCQs/mains/diagrams in ONE integrated edition, preserve legacy PDF, then R8 actual artifact QA.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
