@@ -503,6 +503,9 @@ Note continued peasant armed resistance and the later withdrawal in 1951; do not
 - **S14 — Standstill terms as publicly stated.** Vallabhbhai Patel, Constituent Assembly statement dated 29 November 1947, reproduced in *On Indian Problems*, LBSNAA-hosted PDF. **CONTEMPORANEOUS OFFICIAL STATEMENT IN LATER COLLECTION; NOT SIGNED AGREEMENT.** https://gsl.lbsnaa.gov.in/opac-tmpl/bootstrap/Books/116572.pdf
 - **S15 — Standstill terms in pre-signing correspondence.** Jawaharlal Nehru to Vallabhbhai Patel, 25 November 1947, *Selected Works of Jawaharlal Nehru*, Second Series, Vol. 4, p.438, indexed Nehru Archive. **CONTEMPORANEOUS CORRESPONDENCE IN EDITED COLLECTION; NOT SIGNED AGREEMENT.** https://nehruarchive.in/documents/to-vallabhbhai-patel-25-november-1947-kz2znp
 
+- **S16 — Lapse of paramountcy.** *Indian Independence Act 1947*, section 7(1)(b), original enacted legislation on the UK National Archives legislation site. **PRIMARY STATUTE VERIFIED DIRECTLY, 26 October 2026.** https://www.legislation.gov.uk/ukpga/Geo6/10-11/30/body/enacted
+- **S17 — Formation of Andhra Pradesh in 1956.** *States Reorganisation Act 1956*, section 3, Government of India Ministry of Home Affairs copy. **PRIMARY STATUTE VERIFIED DIRECTLY, 26 October 2026.** https://www.mha.gov.in/sites/default/files/The%20State%20Reorganisation%20Act%201956_270614.pdf
+
 **Outstanding primary documents:** Ramji Gond Gazetteer/Hyderabad Affairs originals; 1940 Jodeghat contemporaneous police/forest records; original Andhra Mahasabha conference minutes; Hyderabad 1947 Standstill Agreement text; Razakar/Hyderabad government orders; original Sunderlal investigation; original October 1951 Communist Party withdrawal announcement. Do not present unsupported troop counts, acreage, casualty estimates, or exact oral slogans as verified facts.
 
 
@@ -661,7 +664,7 @@ B. The November 1947 Standstill Agreement automatically converted Hyderabad into
 C. British paramountcy over princely states lapsed, leaving Hyderabad's constitutional relationship with independent India unsettled.  
 D. Operation Polo transferred Hyderabad's administration to the Indian Army before the British departure.  
 
-**Answer: C.** The lapse of paramountcy altered the legal setting but did not itself complete Hyderabad's accession or resolve its relationship with India. [S14, S15]
+**Answer: C.** Section 7(1)(b) of the Indian Independence Act 1947 explicitly terminated British suzerainty over Indian princely states. That legal change did not itself complete Hyderabad's accession or settle its constitutional relationship with India. [S16, S14]
 
 ### MCQ 18. On which date was the Hyderabad–India Standstill Agreement signed?
 
@@ -697,7 +700,7 @@ B. The formal Communist Party decision withdrawing the Telangana armed campaign.
 C. The Nizam's cessation of resistance following the Indian military operation begun on 13 September.  
 D. The lapse of British paramountcy and the beginning of Hyderabad's negotiations with India.  
 
-**Answer: C.** The military operation began on 13 September; 17 September marks the Nizam's cessation of resistance. It did not end the continuing agrarian armed struggle. [S07, S13]
+**Answer: C.** Operation Polo began on 13 September; the Nizam announced a ceasefire on 17 September, while the Hyderabad Army's formal surrender followed on 18 September. These dates should not be collapsed, and the rural armed struggle continued beyond them. [S07, S13]
 
 ### MCQ 22. What makes 'Police Action' a potentially misleading shorthand for Operation Polo?
 
@@ -760,7 +763,7 @@ B. The 1956 linguistic reorganization merging Telangana with Andhra State to for
 C. The 1951 withdrawal of the communist-led armed struggle, which itself redrew state boundaries.  
 D. The 1953 creation of Andhra State, which already incorporated Telangana districts from Hyderabad.  
 
-**Answer: B.** Andhra State was created in 1953 without Telangana; the 1956 reorganization brought Telangana into Andhra Pradesh. This is distinct from Hyderabad's military integration in 1948. [S13]
+**Answer: B.** Section 3 of the States Reorganisation Act 1956 transferred specified Hyderabad State districts and territories to Andhra State and renamed it Andhra Pradesh. Andhra State's 1953 creation had not incorporated Telangana. This statutory reorganisation was distinct from Hyderabad's 1948 military integration. [S17, S13]
 
 ### MCQ 29. What claim can a Telangana government press release dated 17 September 2026 directly establish as a primary source?
 
