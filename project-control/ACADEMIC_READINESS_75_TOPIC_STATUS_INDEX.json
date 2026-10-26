@@ -8,7 +8,7 @@
   "not_assessed_count": 73,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "2-2-4 and 2-2-5 have R1 syllabus mapping PASS only; zero topics fully ready or academically approved. Topic 2-2-5 editorial correction: eight sections expanded, short sections reduced 17→9 of 25, all 30 original MCQs rewritten and keys balanced A7/B7/C8/D8. R3/R4/R5 remain incomplete or blocked; independent fact-check and archival source gaps remain.",
+  "warning": "Topics 2-2-4 and 2-2-5 have verified R1 syllabus mapping only; zero topics fully ready or academically approved. Topic 2-2-5 now has 25/25 narrative sections >=150 words and a CI-synchronized 34-page integrated PDF; editorial nonrepetition, claim-level primary-source verification, MCQ/mains fact checking and public usability remain incomplete. R4 BLOCKED.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
