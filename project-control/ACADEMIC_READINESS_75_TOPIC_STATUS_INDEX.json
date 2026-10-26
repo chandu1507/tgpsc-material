@@ -92,7 +92,7 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-27: Topic2-3-5 R1 PASS (14 mapped clauses); six of 25 MCQ correct keys source-correlated from HMDA/GHMC/Telangana government, three question distractor sets improved, remaining 19 keys and all distractors pending. 7 IN_PROGRESS, 68 NOT_ASSESSED, zero fully ready/approved.",
+  "last_readiness_update": "2026-10-27: Topic 2-3-5 R1 PASS; 18-page dedicated-renderer PDF generated in CI, SHA 0d47c2b0...; offline portal now links integrated PDF and Markdown. Actual final post-render artifact still pending verification, so R8 IN_PROGRESS. Six MCQ keys source-correlated; 19 keys and all distractors pending. 7 IN_PROGRESS, 68 NOT_ASSESSED, zero ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",

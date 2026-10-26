@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-5",
+  "render_workflow_run_id": 40400294993,
+  "render_status": "SUCCESS",
+  "pdf_pages": 18,
+  "pdf_sha256": "0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210",
+  "original_pdf_sha256": "a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18",
+  "portal_pdf_link": "source/integrated-student-edition-2026-10-27.pdf",
+  "portal_markdown_link": "source/integrated-student-edition-2026-10-27.md",
+  "pdf_footer": "Topic 5 dedicated renderer (pending final artifact visual verification)",
+  "artifact_downloaded": false,
+  "full_resolution_qa": false,
+  "readiness": "R8_IN_PROGRESS",
+  "academic_approval": false
+}

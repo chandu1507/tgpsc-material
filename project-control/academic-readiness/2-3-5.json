@@ -24,16 +24,17 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": [
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json"
+    "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json",
+    "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json"
   ],
-  "next_action": "R1 official syllabus mapping PASS (14 editorial clauses from Notification 02/2024 Annexure II printed p29); R2-R8 not ready. Download actual corrected Topic5 renderer artifact and verify footer, hashes, original 75 PDFs, offline portal, page QA.",
+  "next_action": "Download the GitHub Actions package generated after final PDF and portal link; verify actual ZIP CRC, exactly 75 original PDFs, original Topic5 SHA, final PDF SHA and all local links; then full-resolution PDF inspection and academic R2–R7.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -50,13 +51,16 @@
   "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
   "integrated_source": {
     "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
-    "publication_state": "GITHUB_SOURCE_PUBLISHED_PDF_PENDING",
+    "publication_state": "GITHUB_ACTIONS_PDF_RENDERED_ARTIFACT_PENDING",
     "original_practice_mcqs": 25,
     "model_answers": 6,
     "schematic_diagrams": 2,
     "independent_item_audit": false,
     "qualitative_depth_pass": false,
-    "source_level_mains_audit": false
+    "source_level_mains_audit": false,
+    "pdf_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
+    "pdf_sha256": "0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210",
+    "pdf_pages": 18
   },
   "mcq_primary_key_review": {
     "source_correlated_correct_keys": 6,

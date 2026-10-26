@@ -62,3 +62,8 @@ Existing Topic 2-3-5 integrated editable working edition and dedicated Topic 5 r
 ## Topic 2-3-5 official syllabus mapping — 27 October 2026
 
 R1 PASS only: original TGPSC Notification 02/2024 Annexure II printed p29 (PDF index 28) directly inspected; 14 editorial clauses mapped to integrated chapter headings. Evidence `project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json`. R2–R8 remain incomplete and no independent academic approval. Exactly 75 topics, 7 IN_PROGRESS, 68 NOT_ASSESSED.
+
+
+## Topic 2-3-5 dedicated CI render — 27 October 2026
+
+GitHub Actions render run 40400294993 SUCCESS with the dedicated Topic 5 renderer. Synchronized 18-page PDF SHA256 `0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210`; the existing offline portal now links both integrated PDF and Markdown. R8 remains IN_PROGRESS until the final post-render packaging artifact is downloaded, CRC/hashes/75 originals and all local links checked, and pages inspected. Seven topics IN_PROGRESS, 68 NOT_ASSESSED, zero fully ready/approved.
