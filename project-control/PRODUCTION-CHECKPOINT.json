@@ -140,9 +140,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "26 Oct 2026 actual archive gap assessment: original 15-page PDF preserved, 25 detailed sections (24 <150 words), earlier 1714-word monsoon/resources repair exists despite prior production_review=pending, only 10 explained MCQs and 4 mains answers (one 255 words), no SVG. Complete-notes.md 8210 words vs original PDF 5958 extracted words; integrated student PDF not established. R1/R2/R7 IN_PROGRESS, R3/R5/R6/R8 BLOCKED, R4 NOT_STARTED; ZERO academic approvals. See project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json.",
-      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "production_review": "integrated_student_edition_published_readiness_in_progress",
+      "notes": "Original 15-page PDF preserved (SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879); earlier 1714-word monsoon/resources repair consolidated into integrated editable student edition. CI rendered 25-page searchable PDF, SHA256 8ec8102f8afa72695f2e30b8b47cee2bb7351c7684f166628b62f4743e901261; 25 original explained MCQs, six mains answers, two SVG diagrams, offline link. R1–R8 NOT complete; official syllabus primary PDF 403, question/source/visual/artifact QA pending. NOT independently academically approved.",
+      "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-1.json"
     },
     {
@@ -993,7 +993,7 @@
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
     "pilot_in_progress": 1,
-    "topics_not_assessed": 74,
+    "topics_not_assessed": 72,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
@@ -1003,6 +1003,12 @@
     "note": "Topic 2-2-4 is an integrated student-edition pilot, not a completed readiness pass. All other topics have NOT_ASSESSED gate records; no academic approvals.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
     "last_verified_package_run": 40252354462,
-    "last_verified_package_artifact": 12621337525
+    "last_verified_package_artifact": 12621337525,
+    "topics_in_progress": [
+      "2-2-4",
+      "2-2-5",
+      "2-3-1"
+    ],
+    "last_topic": "2-3-1"
   }
 }
