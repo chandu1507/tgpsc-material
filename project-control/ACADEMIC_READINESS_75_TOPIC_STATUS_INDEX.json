@@ -4,12 +4,13 @@
   "pilot_in_progress": [
     "2-2-4",
     "2-2-5",
-    "2-3-1"
+    "2-3-1",
+    "2-3-2"
   ],
   "not_assessed_count": 71,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "EXACTLY 75 topics: 3 IN_PROGRESS (2-2-4/2-2-5/2-3-1), 1 ASSESSED_REBUILD_REQUIRED (2-3-2), 71 NOT_ASSESSED; 3 R1 PASS, ZERO R1-R8 fully ready, ZERO independent approvals. Topic 2-3-2 prior supplement exists; original PDF preserved; no integrated edition yet.",
+  "warning": "EXACTLY 75 existing topics: four IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2), 71 NOT_ASSESSED; four R1 syllabus maps PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Topic 2-3-2 working integrated master has 25 MCQs, six mains, 2 SVGs; depth and claim checks incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -87,17 +88,17 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [
-    "2-3-2"
-  ],
-  "last_readiness_update": "2026-10-26 Topic 2-3-1 IMD final-season quick revision and Q23 corrected; CI renderer 40326345060 SUCCESS and PDF byte match; post-render packaging and public-browser QA still pending. Topic 2-3-2 assessed rebuild required, four official statistics spot-checked; 71 NOT_ASSESSED, 0 ready/approved.",
+  "assessed_rebuild_required": [],
+  "last_readiness_update": "2026-10-26 Topic 2-3-2 official p29 R1 mapping directly verified; integrated working Markdown built from 40 existing sections and 7-part repair, 25 explained MCQs, six mains, 2 SVGs; PDF CI and downloaded artifact require verification. No R1-R8 completion or external academic approval.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
-    "2-3-1"
+    "2-3-1",
+    "2-3-2"
   ],
-  "verified_R1_pass_count": 3,
+  "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-turn13-final-monsoon-consistency-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
