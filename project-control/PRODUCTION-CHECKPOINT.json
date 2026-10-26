@@ -141,7 +141,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "integrated_student_edition_published_readiness_in_progress",
-      "notes": "Original 15-page PDF preserved SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879; prior 1714-word repair integrated into student edition, 25 concepts, 25 original explained MCQs, six mains answers, two SVG diagrams. Final 25-page searchable PDF SHA256 b0180b9b0f84c1b1e842a88e90b388ba1388a6d13898babe8ed8171b3703fa16; actual GitHub artifact 12639056782 downloaded/CRC PASS, 75 original PDFs, 461 links zero broken. R1 PASS against original TGPSC Notification 02/2024 Annexure II printed p29, 11 clauses directly visually mapped 26 Oct; R2–R8 incomplete, fact/editorial/full-res review outstanding. ZERO independent academic approval.",
+      "notes": "Original 15-page PDF SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879 preserved. Integrated student edition source updated 26 Oct Turn11 with 11 additional substantive concept expansions (+2052 words), now 9/25 concepts under 300 words, 25 original explained MCQs, six mains answers, two SVG diagrams. Six MCQ keys have primary-source correspondence (5,11,12,15,17,24), 19 remain and all distractors need item-level review. CI renderer run 40310989188 SUCCESS; post-render artifact/CRC and full-resolution usability pending. R1 PASS, R2–R8 IN_PROGRESS, ZERO academic approvals.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-1.json",
       "latest_readiness_evidence": "project-control/academic-readiness/2-3-1-official-syllabus-r1-verified-2026-10-26.json"
