@@ -2,11 +2,11 @@
   "topic_id": "2-3-2",
   "title": "India: Agriculture, Industry, Population and Urbanisation",
   "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
-  "prior_repair_reported": false,
+  "prior_repair_reported": true,
   "inventory_baseline": {
     "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2",
     "files": 18,
@@ -17,17 +17,18 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
     "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
+  "next_action": "Integrate existing original and supplement; 40 shallow concepts, 17 MCQs short, 2 mains answers short, primary source checks and diagrams pending. Preserve original SHA ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886"
 }
