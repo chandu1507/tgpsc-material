@@ -8,7 +8,7 @@
   "not_assessed_count": 73,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Topics 2-2-4 and 2-2-5 have verified R1 syllabus mapping only; zero topics fully ready or academically approved. Topic 2-2-5 now has 25/25 narrative sections >=150 words and a CI-synchronized 34-page integrated PDF; editorial nonrepetition, claim-level primary-source verification, MCQ/mains fact checking and public usability remain incomplete. R4 BLOCKED.",
+  "warning": "Exactly 75 existing topics. Topics 2-2-4 and 2-2-5 have R1 PASS; none fully ready or academically approved. Topic 2-2-5 has 25 narrative sections >=150 words, 24/30 MCQs substantively rewritten in place after distractor preflight, and a CI-rendered 35-page integrated PDF. R5 remains IN_PROGRESS pending independent fact/discrimination checks; R4 BLOCKED on original archives; R8 pending fresh archive CRC and browser usability.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -94,6 +94,7 @@
   ],
   "verified_R1_pass_count": 2,
   "recent_evidence": [
+    "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-corrected-remote-publication-qa-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-editorial-correction-2026-10-26.json",
     "project-control/academic-readiness/2-2-4-official-syllabus-r1-verified.json",
