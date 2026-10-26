@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "total_topics": 75,
   "published_draft_pdf_topics": 75,
   "slots_without_published_pdf": 0,
@@ -177,11 +177,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "integrated_editable_working_master_published_pdf_and_academic_gates_pending",
-      "notes": "26 Oct 2026: original 8-page PDF preserved; editable working master integrates 15 short concepts and six-section prior repair, 25 original explained draft MCQs, six structured mains answers (two inherited, four new 213/211/212/222 words). No synchronized integrated PDF, R3 depth BLOCKED, R5/R6 source verification pending, R7/R8 blocked. NOT approved. Actual GitHub packaging artifact 12671934843 downloaded: 1493 files, 75 original PDFs, 75 readiness JSONs, 78 HTML, 466 local links zero broken, CRC PASS; this is NOT a new integrated PDF render.",
+      "production_review": "integrated_markdown_depth_expanded_ci_pdf_rendered_academic_gates_in_progress",
+      "notes": "27 Oct 2026: existing 2-3-4 editable integrated master expanded in place at irrigation/tanks/aquifers/SEZ concepts, direct official sources with scope caveats. CI render run 40382078154 SUCCESS; 19-page integrated PDF SHA256 ecb00777352f8c5a7fdb2183d33d47b928d49a7518551651b51d71f1eae60006. Original 8-page PDF preserved. 11 of 15 original concepts still under 150 words; R1/R2/R3/R4/R5/R6/R8 IN_PROGRESS, R7 BLOCKED; no independent approval. Actual post-render artifact QA pending.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-render-qa.json"
     },
     {
       "id": "2-3-5",
@@ -190,10 +190,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/2-3-5.json"
+      "production_review": "objective_gap_assessed_rebuild_required",
+      "notes": "27 Oct 2026 objective assessment: original 8-page PDF SHA256 a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18 preserved; 16/16 original concepts under 150 words; prior 8-section urbanisation repair exists, 0 explained MCQs, 2 original mains, 0 SVG, no synchronized integrated edition. Academic R1–R8 NOT PASSED.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/2-3-5.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json"
     },
     {
       "id": "3-1-1",
@@ -991,18 +992,18 @@
     "next_quality_target": "2-2-1"
   },
   "academic_readiness_tracking": {
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-27",
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
-    "pilot_in_progress": 5,
-    "topics_not_assessed": 70,
+    "pilot_in_progress": 6,
+    "topics_not_assessed": 68,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Five existing topics in progress; 70 not assessed; no R1-R8 fully ready; no independent academic approvals. Historical pilot metadata retained separately; actual PDF QA for Topic 2-3-3 pending.",
+    "note": "Exactly 75 topics; six IN_PROGRESS, one ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED. Topic2-3-4 integrated PDF rendered but not yet full R8. Zero independent academic approvals.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
     "last_verified_package_run": 40252354462,
     "last_verified_package_artifact": 12621337525,
@@ -1011,8 +1012,12 @@
       "2-2-5",
       "2-3-1",
       "2-3-2",
-      "2-3-3"
+      "2-3-3",
+      "2-3-4"
     ],
-    "last_topic": "2-3-3"
+    "last_topic": "2-3-5",
+    "topics_assessed_rebuild_required": [
+      "2-3-5"
+    ]
   }
 }
