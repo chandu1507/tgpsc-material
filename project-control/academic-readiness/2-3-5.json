@@ -20,16 +20,17 @@
     "R1": "IN_PROGRESS",
     "R2": "IN_PROGRESS",
     "R3": "BLOCKED",
-    "R4": "NOT_STARTED",
+    "R4": "IN_PROGRESS",
     "R5": "BLOCKED",
     "R6": "BLOCKED",
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
   "evidence": [
-    "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json"
+    "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
+    "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json"
   ],
-  "next_action": "Rebuild existing Topic 2-3-5 from original plus eight-section repair, without disconnected supplement; R1 direct commission syllabus, R3/R5/R6/R7/R8 blocked, no independent approval.",
+  "next_action": "Seven official-source claim correspondences recorded (not complete R4). Local working integrated Markdown/PDF candidate exists but is NOT GitHub-published or Actions-verified; preserve original. Next publish guarded source and renderer, then independently verify 25 MCQs, six mains, R1 and R8.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -42,5 +43,6 @@
     "complete_mains_answers": 2,
     "original_svg_diagrams": 0,
     "integrated_pdf": false
-  }
+  },
+  "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json"
 }
