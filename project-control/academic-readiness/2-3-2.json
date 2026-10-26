@@ -31,9 +31,10 @@
     "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-post-render-artifact-qa-verified-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json"
+    "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
+    "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json"
   ],
-  "next_action": "Download actual post-render GitHub packaging artifact and verify inner/outer CRC, 75 original PDFs, 75 readiness records, portal links, original SHA and byte-identical 28-page PDF. Then R2/R3/R4/R5/R6/R7/R8 outstanding.",
+  "next_action": "R2 dedup/contradictions, R3 35 sections under 300 words qualitative textbook depth, R4 claim-level official sources, R5 independent factual review of all 25 MCQs, R6 six mains, R7 maps/diagram accuracy, R8 full-resolution accessibility and public browser. No academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -41,7 +42,7 @@
   "integrated_student_edition": {
     "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.pdf",
-    "status": "CI_RENDERED_28_PAGE_PDF_MATCHES_INDEPENDENT_LOCAL_RENDER_ACTUAL_POST_RENDER_ARTIFACT_PENDING",
+    "status": "CI_RENDERED_28_PAGES_ACTUAL_GITHUB_ARTIFACT_DOWNLOADED_AND_CRC_LINKS_VERIFIED",
     "original_pdf_preserved_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
     "original_practice_mcqs": 25,
     "structured_mains_answers": 6,
@@ -60,9 +61,9 @@
       215,
       203
     ],
-    "verified_renderer_run": 40337934827,
-    "verified_packaging_run": 40338215991,
-    "verified_artifact_id": 12657647049,
+    "verified_renderer_run": 40345471659,
+    "verified_packaging_run": 40346310854,
+    "verified_artifact_id": 12661726703,
     "local_links_checked": 463,
     "broken_local_links": 0,
     "original_topic_count": 75,
@@ -111,6 +112,8 @@
     "markdown_sha256": "7482d97aa65ca171d13c63622a81cceebd5d8195e5f1386fa0a5805ec459e1b2",
     "markdown_git_blob_sha": "bb9bc3da9887f2784851658f756779f75642dcab",
     "local_pdf_visual_review": "28/28 pages rendered at ~101 dpi; five contact sheets inspected for gross layout; page28 source register and page24 Q22 full-res inspected; full accessibility NOT certified.",
-    "pdf_ci_renderer_run": 40345471659
+    "pdf_ci_renderer_run": 40345471659,
+    "full_resolution_accessibility_certified": false,
+    "public_browser_usability_verified": false
   }
 }
