@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-1",
+  "source_commit": "42cca0a19d3168f5340d2c7ee0b0806cbabd1cea",
+  "renderer_run": 40303002957,
+  "renderer_conclusion": "success",
+  "pages": 27,
+  "pdf_sha256": "9629ac7561a63902e8792cd1a9874f8dc7a0268b9784743e0f10652c736e1bc9",
+  "markdown_sha256": "10104f393fa595a75f52292dce60b42083b2d149c76464efba84c8bb1e656594",
+  "actual_packaging_run": 40303927192,
+  "actual_artifact_id": 12640589214,
+  "artifact_downloaded": true,
+  "outer_zip_crc_pass": true,
+  "inner_zip_crc_pass": true,
+  "inner_file_count": 1460,
+  "topic_slots": 75,
+  "original_topic_pdfs": 75,
+  "readiness_topic_json": 75,
+  "html_pages": 78,
+  "local_links_checked": 461,
+  "broken_links": 0,
+  "original_topic_pdf_sha256": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879",
+  "original_pdf_preserved": true,
+  "empty_text_pages": [],
+  "all_pages_contact_sheet_rendered": true,
+  "full_resolution_page26_checked": true,
+  "source_register_G9_G12_rendered_as_table": true,
+  "live_pages_deploy": {
+    "run": 40303795180,
+    "conclusion": "success",
+    "direct_student_browser_usability": "NOT_VERIFIED"
+  },
+  "R1": "PASS",
+  "R8": "IN_PROGRESS",
+  "R8_remaining": [
+    "Full-resolution legibility and accessibility review for all 27 pages",
+    "Public browser student usability",
+    "Editorial/factual readiness remains incomplete"
+  ],
+  "academic_approved": false
+}
