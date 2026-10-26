@@ -153,9 +153,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "objective_gap_assessed_integrated_rebuild_required",
-      "notes": "26 Oct 2026 actual archived original 15-page PDF preserved SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886; 40 numbered detailed sections, 39 under 150 words, 8 original explained MCQs, 4 complete mains answers (206/191/203/209 words), no SVG, prior 1,176-word/3-page repair exists but not integrated. Rebuild required; NOT academically approved. project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
-      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "production_review": "integrated_working_edition_published_R1_verified_depth_and_claim_audit_pending",
+      "notes": "26 Oct 2026: official TGPSC Notification 02/2024 Annexure II p29 directly checked and mapped; one working integrated Markdown merges 40 existing sections and prior seven-part repair, includes 25 original explained MCQs, six structured mains answers, two original SVGs and source register. PDF rendering and downloaded artifact verification pending. R3 depth BLOCKED; R4/R5/R6/R7/R8 not passed. Original 15-page PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 preserved. ZERO academic approval.",
+      "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-2.json"
     },
     {
