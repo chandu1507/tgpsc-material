@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-2-5",
+  "status": "OBJECTIVE_GAP_ASSESSMENT_NOT_ACADEMIC_AUDIT",
+  "source": "Downloaded actual GitHub Actions run 40256084074, artifact 12622277534, CRC PASS",
+  "source_folder": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 5",
+  "original_pdf_pages": 8,
+  "original_pdf_sha256": "",
+  "detailed_notes_words": 2307,
+  "detailed_notes_numbered_sections": 25,
+  "sections_under_150_words": 25,
+  "existing_supplement_words": 1205,
+  "complete_four_option_explained_mcqs": 0,
+  "existing_fact_bullets": 6,
+  "complete_mains_answers": 4,
+  "mains_answer_body_words": [
+    218,
+    201,
+    213,
+    214
+  ],
+  "visual_learning_words": 67,
+  "topic_svg_diagrams": 0,
+  "reference_entries": 2,
+  "unretrieved_original_commission_syllabus": true,
+  "main_gaps": [
+    "25 short sections require genuine textbook-depth expansion",
+    "Original and peasant-sanghams/women supplement not consolidated",
+    "No claim-level archival/scholarly source register",
+    "No complete 4-option MCQs, six fact bullets only",
+    "Only four mains answers, need at least six",
+    "No SVG diagrams, no integrated final PDF",
+    "Official 2024 syllabus original still to verify"
+  ],
+  "academic_approved": false
+}
