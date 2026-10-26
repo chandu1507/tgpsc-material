@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-2",
+  "title": "Social Exclusion and Vulnerable Groups: SCs, STs, Backward Classes, Minorities, Women, Children, Aged and Disabled",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "scope": "Existing one of exactly 75 topic slots; no 76th created",
+  "baseline_source": "Actually downloaded Turn23 publication artifact, outer/inner ZIP CRC PASS; four source Git blob hashes cross-matched fresh GitHub main on 27 Oct 2026",
+  "source_blob_checks": {
+    "detailed-notes.md": "81e30acaa5a76cfee16b65a763670f8793561083",
+    "verified-mcqs.md": "dea2945af8a97d7dfc509e368393796c3cecba21",
+    "complete-model-answers.md": "5881968346da50e7c909553e6067193723c7777d",
+    "quality-audit.md_pre_correction": "1316b44b6c58c5447711897b149205e4db55269c"
+  },
+  "original_pdf": {
+    "path": "Paper 3/Unit 1 - Indian Society/Topic 2/complete-notes.pdf",
+    "pages": 27,
+    "bytes": 116868,
+    "sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921",
+    "git_blob_sha1": "5643fe4416242b02ed2696c74932dee737c20421",
+    "unchanged": true
+  },
+  "detailed_notes": {
+    "numbered_sections": 23,
+    "under_150_words": 0,
+    "under_300_words": 22,
+    "min_section_words": 163,
+    "max_section_words": 307,
+    "word_count_method": "Regex word tokens in bodies delimited by numbered ## headings, includes prose and inline headings; threshold is only a diagnostic, not academic pass",
+    "earlier_depth_repair_separate": true
+  },
+  "practice": {
+    "original_four_option_explained_mcqs": 10,
+    "additional_needed_for_25": 15,
+    "official_pyqs_authenticated": 0,
+    "all_distractors_verified": false
+  },
+  "mains": {
+    "model_answers": 6,
+    "body_words_approx": [
+      233,
+      233,
+      235,
+      233,
+      238,
+      240
+    ],
+    "source_claims_fully_verified": false,
+    "word_count_only_not_R6_pass": true
+  },
+  "visuals": {
+    "standalone_svg_files": 0,
+    "inline_visuals_not_fully_audited": true
+  },
+  "syllabus": {
+    "existing_syllabus_index_present": true,
+    "official_clause_directly_rechecked_this_cycle": false
+  },
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "BLOCKED",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "corrections": [
+    "Source quality-audit had marked deep coverage as complete despite 22/23 explanations below 300 words; corrected to unchecked",
+    "Original 27-page PDF preserved; separate depth repair not falsely called synchronized integrated edition"
+  ],
+  "next": [
+    "Directly verify official TGPSC numbered syllabus item and map subclauses",
+    "Consolidate earlier depth repair in place, expand 22 shallow sections without repetition",
+    "Add 15 source-checked original MCQs and audit all 25 keys/distractors",
+    "Source-check all six mains, create original accurate diagrams",
+    "Render integrated PDF and verify real post-render artifact, links, CRC, hashes and public-browser accessibility"
+  ],
+  "independent_approvals": 0
+}
