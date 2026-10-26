@@ -448,158 +448,158 @@ D. Transport, drainage and land-use responsibilities become fragmented across au
 
 **Answer: D.** Peri-urban growth often crosses administrative jurisdictions faster than infrastructure planning is coordinated. **Source anchors:** [S2,S8]. Key source-correlated; distractor review pending.
 
-### Q9. Which observation shows why drip efficiency need not equal basin water savings?
+### Q9. Which outcome most clearly demonstrates that improved field irrigation efficiency need not reduce *basin-scale consumptive use*?
 
-A. More crop yield with stable prices  
-B. Less energy use per unit pumped  
-C. Same irrigation area and lower water application  
-D. Saved water used to expand irrigated acreage  
+A. Irrigation water applied per hectare declines while crop area stays constant  
+B. Conveyance losses decline but downstream recharge is separately measured  
+C. The same crop area is maintained and withdrawals are monitored  
+D. Water saved per hectare is used to irrigate additional land, raising total evapotranspiration  
 
-**Answer: D.** Rebound in irrigated area can keep consumptive use high despite reduced application per hectare. **Source anchors:** [S2]. Independent item audit pending.
+**Answer: D.** Expansion of irrigated acreage can offset field-level savings in consumptive water use. A–C alone do not establish that basin consumption increased. **Source anchors:** [S9,S10]. Key source-correlated; independent item testing pending.
 
-### Q10. Which growing condition generally aligns with kharif rice?
+### Q10. Which seasonal pattern best describes *typical kharif rice* in much of monsoon India?
 
-A. Cold winter dormancy  
-B. Only residual post-monsoon soil moisture  
-C. Warm conditions with substantial monsoon-season water  
-D. Dry ripening through the winter  
+A. Sowing after winter harvest and ripening before the southwest monsoon  
+B. Sowing during the coolest winter months with harvest in early spring  
+C. Establishment with warm monsoon-season water and harvest after the growing season  
+D. Establishment after the monsoon's withdrawal and dependence mainly on winter rain  
 
-**Answer: C.** Rice commonly needs warm growing conditions and adequate water, although irrigated calendars vary. **Source anchors:** [S3]. Independent item audit pending.
+**Answer: C.** Kharif rice is broadly associated with warm monsoon-season conditions; irrigated regions may have additional rice seasons. **Source anchors:** [S2,S3]. Key source-correlated; local calendars vary.
 
-### Q11. Which broad rabi wheat calendar is accurate?
+### Q11. Which combination best fits the *rabi wheat* production cycle in the northern plains?
 
-A. Peak monsoon sowing and autumn harvest  
-B. Cool-season growth followed by warmer, drier ripening  
-C. Summer-only growth before monsoon onset  
-D. Growth dependent mainly on coastal cyclones  
+A. Sowing at monsoon onset and harvesting during peak monsoon rains  
+B. Establishment in cooler months, with grain filling and ripening as temperatures rise  
+C. Sowing after summer heat peaks, with harvest before winter begins  
+D. Growth chiefly during the hottest pre-monsoon months without irrigation  
 
-**Answer: B.** Wheat generally grows in cooler months and ripens as temperatures rise. **Source anchors:** [S3]. Independent item audit pending.
+**Answer: B.** Wheat typically grows in the cool season and ripens in warmer, drier conditions; dates vary by location and variety. **Source anchors:** [S2,S3]. Key source-correlated; full distractor audit pending.
 
-### Q12. Why can millets and pulses aid dryland diversification?
+### Q12. What is the strongest agronomic argument for considering millets and pulses in a rainfed crop portfolio?
 
-A. They can match variable rainfall and diversify risk  
-B. They eliminate every drought risk  
-C. They always command higher prices than rice  
-D. They remove the need for seed and market infrastructure  
+A. Their differing growth requirements and rotations can diversify climate and production risks  
+B. Their yields are unaffected by dry spells at flowering  
+C. They remove the need for soil nutrient management  
+D. They produce identical returns across all rainfall zones  
 
-**Answer: A.** Crop choice must reflect agro-climate and market viability; diversification does not guarantee profit. **Source anchors:** [S3]. Independent item audit pending.
+**Answer: A.** Diversification can reduce dependence on one crop, but each crop has climatic, pest and market risks. **Source anchors:** [S2,S3]. Key source-correlated; profit is not guaranteed.
 
-### Q13. Which cotton-soil association is defensible?
+### Q13. Which statement best captures the relationship between cotton cultivation and Deccan black soils?
 
-A. Cotton grows exclusively in black soil  
-B. Black soil prevents any water stress  
-C. Moisture-retentive black soils support cotton in several regions, with exceptions  
-D. Cotton needs permanent soil waterlogging  
+A. Cotton is viable only where black soil is deeper than a fixed national threshold  
+B. Black soils remove the need to manage irrigation and pest pressure  
+C. Moisture-retentive black soils favour cotton in many areas, but cultivation also occurs on other soils  
+D. Cotton can be grown only under continuously saturated soil conditions  
 
-**Answer: C.** Black soils and cotton are associated in parts of the Deccan but not exclusively. **Source anchors:** [S3]. Independent item audit pending.
+**Answer: C.** The association is strong in parts of the Deccan but not exclusive; management and climate also matter. **Source anchors:** [S3]. Key source-correlated; field-level claims not independently audited.
 
-### Q14. What most influences a fruit-processing cluster's location?
+### Q14. When comparing two otherwise similar sites for a *fresh-fruit processing* plant, which combination is most decisive?
 
-A. Only proximity to an iron-ore belt  
-B. Only state capital distance  
-C. Only the price of imported machinery  
-D. Seasonal farm supply, perishability, cold chain and markets  
+A. Distance from the nearest steel rolling mill and mineral deposit  
+B. Number of unrelated heavy-industrial estates in the district  
+C. Availability of distant imported clinker and coal handling  
+D. Reliable seasonal fruit catchment, rapid collection, cold chain and market access  
 
-**Answer: D.** Perishable inputs and reliable cold-chain logistics strongly influence processing sites. **Source anchors:** [S2,S3]. Independent item audit pending.
+**Answer: D.** Raw-material perishability and logistics are central to fruit processing; other listed factors are not comparably direct. **Source anchors:** [S2,S3]. Key source-correlated; distractor discrimination pending.
 
-### Q15. What is an agglomeration economy?
+### Q15. Which is an example of an *external agglomeration economy* for firms in an industrial cluster?
 
-A. Benefits from shared suppliers, skills and knowledge  
-B. Guaranteed cheap housing near every cluster  
-C. Uniform job gains for all neighbouring villages  
-D. An obligation to locate every factory near mineral deposits  
+A. Several firms benefit from a shared pool of skilled workers and specialised suppliers  
+B. One firm lowers average cost solely by enlarging its own plant  
+C. A region enjoys a favourable climate without industrial interaction  
+D. A factory reduces costs only through its own internal inventory system  
 
-**Answer: A.** Clusters can reduce transaction costs and support specialised services, but may cause congestion. **Source anchors:** [S2]. Independent item audit pending.
+**Answer: A.** Shared suppliers and labour markets generate external benefits across firms; B and D are internal economies. **Source anchors:** [S2,S3]. Key source-correlated; further item testing pending.
 
-### Q16. What determines a port's effective hinterland?
+### Q16. What most directly determines the *economic hinterland* served by a major port?
 
-A. Distance to the capital alone  
-B. Rail, road and logistics connections to inland producers  
-C. Only the length of coastline  
-D. Only registered fishing fleet size  
+A. The straight-line distance between the port and national capital  
+B. Cost, reliability and capacity of inland road, rail and logistics connections  
+C. The port's coastline length without reference to inland transport  
+D. The number of fishing boats registered near its harbour  
 
-**Answer: B.** Inland transport and handling links shape which regions can use a port competitively. **Source anchors:** [S2,S5]. Independent item audit pending.
+**Answer: B.** Hinterlands are shaped by competitive inland accessibility, not simply coastal position. **Source anchors:** [S2,S5,S12]. Key source-correlated; case-level comparison pending.
 
-### Q17. Which role is assigned to WTO by Article III of its founding agreement?
+### Q17. Under Article III of the Marrakesh Agreement, which is an expressly assigned WTO function?
 
-A. Setting each member's farm support price  
-B. Running national customs checkpoints  
-C. Providing a forum for negotiations and administering trade agreements  
-D. Fixing the composition of India's exports  
+A. Unilaterally setting each member's applied tariff schedule  
+B. Issuing all customs clearance documents for member states  
+C. Providing a forum for trade negotiations and administering covered agreements  
+D. Resolving private freight contracts between shipping companies  
 
-**Answer: C.** Article III covers administering agreements, negotiations, dispute settlement and trade-policy review. **Source anchors:** [S7]. Independent item audit pending.
+**Answer: C.** Article III directly covers administering agreements, negotiations, dispute settlement and trade-policy review; the other functions are not assigned as stated. **Source anchors:** [S7]. Correct key checked against the original treaty text 26 Oct 2026; independent item discrimination pending.
 
-### Q18. Why is India's Indian Ocean location strategically important?
+### Q18. Which geographic feature best explains India's strategic position in Indian Ocean commerce?
 
-A. It guarantees equal port costs to all states  
-B. It eliminates maritime security needs  
-C. It places India outside key trade routes  
-D. It connects peninsular gateways with major maritime routes  
+A. Its coastline makes all inland transport costs negligible  
+B. Its location ensures uninterrupted access through every maritime chokepoint  
+C. Its ports serve identical markets regardless of road and rail links  
+D. Its peninsula connects Arabian Sea and Bay of Bengal gateways to major sea routes  
 
-**Answer: D.** Sea-lane location matters, but inland logistics and security still constrain outcomes. **Source anchors:** [S2]. Independent item audit pending.
+**Answer: D.** Peninsular location provides access to important routes, while security and hinterland infrastructure still constrain outcomes. **Source anchors:** [S2,S5]. Key source-correlated; no claim of guaranteed advantage.
 
-### Q19. What is population density?
+### Q19. In population geography, *arithmetic population density* is defined as:
 
-A. Residents per unit of defined area  
-B. Annual births per thousand people  
-C. Urban share of the population  
-D. Annual net migrants per unit of area  
+A. Total residents divided by the geographical area used in the calculation  
+B. Total urban residents divided by only built-up urban area  
+C. Annual population increase divided by the midyear population  
+D. Total working-age residents divided by the dependent population  
 
-**Answer: A.** Density is a population stock per area, not a birth or migration rate. **Source anchors:** [S2,S8]. Independent item audit pending.
+**Answer: A.** B is a different density measure, C a growth-rate concept and D a demographic ratio. **Source anchors:** [S2,S8]. Definitional key source-correlated; full item review pending.
 
-### Q20. What characterises demographic transition?
+### Q20. Which change is central to the *demographic transition* model?
 
-A. Identical migration patterns across states  
-B. Changing fertility and mortality affecting age structure  
-C. A permanently increasing working-age share  
-D. Industrial growth without demographic change  
+A. Only inter-state migration changes while birth and death rates stay constant  
+B. Mortality and fertility patterns change over time, reshaping population growth and age structure  
+C. Urban classification changes without shifts in fertility or mortality  
+D. A permanent rise in working-age share regardless of fertility decline  
 
-**Answer: B.** The timing of changes in vital rates differs across regions. **Source anchors:** [S2]. Independent item audit pending.
+**Answer: B.** Transition concerns changing vital rates and their age-structure consequences, with timing differing among regions. **Source anchors:** [S2]. Key source-correlated; further review pending.
 
-### Q21. Which dimensions enter UNDP's HDI?
+### Q21. Which three dimensions constitute the UNDP Human Development Index?
 
-A. Inflation, exports and employment  
-B. Population density, migration and fertility  
-C. Health, education and living standards  
-D. Urbanisation, roads and industrial output  
+A. Literacy, employment rate and inflation  
+B. GDP growth, population density and urban share  
+C. Health, education and a decent standard of living  
+D. Migration, life expectancy and industrial output  
 
-**Answer: C.** HDI combines life expectancy, schooling and GNI per capita measures. **Source anchors:** [S6]. Independent item audit pending.
+**Answer: C.** UNDP uses life expectancy, schooling indicators and GNI per capita to operationalise these dimensions. **Source anchors:** [S6]. Correct key checked against UNDP's official HDI methodology 26 Oct 2026; other options remain to be item-tested.
 
-### Q22. Which mechanisms can alter measured urban population?
+### Q22. Which combination can change the *measured urban population* between two censuses?
 
-A. Only migration  
-B. Only natural increase  
-C. Only municipal renaming  
-D. Natural increase, migration, reclassification and boundary changes  
+A. Only net migration and no other demographic or administrative change  
+B. Natural increase and migration, but never reclassification  
+C. Boundary extensions alone, even if the resident count stays unchanged everywhere  
+D. Natural increase, net migration, settlement reclassification and boundary change  
 
-**Answer: D.** Urban totals depend on population change and definitions of urban areas. **Source anchors:** [S8]. Independent item audit pending.
+**Answer: D.** Urban counts depend on demographic change and on the definition and boundaries of urban areas. **Source anchors:** [S8]. Key source-correlated; distinguish census classification from contemporary estimates.
 
-### Q23. Which statement about Smart Cities is strongest?
+### Q23. Which is the strongest criterion for evaluating whether a *Smart City* intervention improved urban welfare?
 
-A. Digital tools complement rather than replace basic services and accountable governance  
-B. Cameras alone resolve housing shortages  
-C. Smart-city designation guarantees sewerage  
-D. A dashboard alone makes transport sustainable  
+A. Measured service reliability, accessibility and accountability, with technology treated as an enabling tool  
+B. The number of installed sensors, irrespective of maintenance or service outcomes  
+C. The volume of project announcements without a service baseline  
+D. The size of a control-room display even when neighbourhood coverage is unknown  
 
-**Answer: A.** Urban technology cannot substitute for physical infrastructure, inclusion or institutional capacity. **Source anchors:** [S2]. Independent item audit pending.
+**Answer: A.** Technology is instrumental; verified outcomes and equitable access are the relevant tests. **Source anchors:** [S2,S8]. This is a policy-evaluation item, not an official PYQ.
 
-### Q24. Which advantage of roads is especially important for dispersed rural freight?
+### Q24. What comparative advantage makes roads especially useful for *dispersed rural freight origins*?
 
-A. Always cheaper than rail for all bulk flows  
-B. Flexible feeder and door-to-door access for smaller consignments  
-C. No need for intermodal freight terminals  
-D. No maintenance costs after construction  
+A. Guaranteed lowest cost for every long-distance bulk shipment  
+B. Flexible collection from many small origins and feeder access to rail and market nodes  
+C. No need for maintenance, safety management or fuel  
+D. Higher line-haul scale economies than rail for every commodity  
 
-**Answer: B.** Roads connect farms and small settlements to markets and larger transport modes. **Source anchors:** [S2,S5]. Independent item audit pending.
+**Answer: B.** Roads provide first- and last-mile flexibility; relative long-haul costs depend on load and network conditions. **Source anchors:** [S2,S5,S12]. Key source-correlated; full item audit pending.
 
-### Q25. Which population policy best supports an equitable demographic dividend?
+### Q25. Which policy package most plausibly converts a favourable age structure into an *equitable demographic dividend*?
 
-A. Redefining towns to reduce urban counts  
-B. Restricting all inter-state labour movement  
-C. Health, education, reproductive choice and productive employment  
-D. Assuming youth alone creates economic growth  
+A. Rising working-age share alone, with no changes in jobs or health  
+B. Fertility reduction alone, regardless of women's employment opportunities  
+C. Health, education, reproductive choice, mobility and productive employment  
+D. Restricting labour mobility while concentrating skills in one metropolis  
 
-**Answer: C.** Human capabilities and jobs turn a favourable age structure into possible welfare gains. **Source anchors:** [S2,S6]. Independent item audit pending.
+**Answer: C.** The dividend depends on capabilities and productive opportunities, not age composition alone. **Source anchors:** [S2,S6]. Key source-correlated; full item discrimination pending.
 
 ## Part F — Six structured mains model answers (original practice)
 
