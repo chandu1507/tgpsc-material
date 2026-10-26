@@ -1,0 +1,382 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-2-5",
+  "review_type": "self-editorial_distractor_preflight_not_independent_historical_audit",
+  "question_count": 30,
+  "four_options_and_explanations": 30,
+  "answer_key_distribution": {
+    "A": 7,
+    "B": 7,
+    "C": 8,
+    "D": 8
+  },
+  "weak_distractor_sets": 21,
+  "borderline_distractor_sets": 3,
+  "acceptable_for_practice_pending_fact_check": 6,
+  "official_pyqs_verified": 0,
+  "academic_status": "NOT_APPROVED",
+  "R5": "IN_PROGRESS",
+  "important": "Balanced key positions do NOT establish plausible distractors. 21/30 questions have plainly weak alternatives despite earlier rewrite; do not mark R5 PASS. Each key and explanation still needs primary or scholarly evidence review.",
+  "items": [
+    {
+      "question": 1,
+      "key": "A",
+      "source_tags": [
+        "S04, S05"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 2,
+      "key": "C",
+      "source_tags": [
+        "S04"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "acceptable_for_practice_pending_fact_check",
+      "editorial_issue": "Format and distractor domain appear reasonable; factual key/source still needs separate review.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 3,
+      "key": "B",
+      "source_tags": [
+        "S04"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "acceptable_for_practice_pending_fact_check",
+      "editorial_issue": "Format and distractor domain appear reasonable; factual key/source still needs separate review.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 4,
+      "key": "D",
+      "source_tags": [
+        "S05"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "borderline",
+      "editorial_issue": "Distractors are relevant but too easy to eliminate; consider more discriminating same-domain alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 5,
+      "key": "B",
+      "source_tags": [
+        "S02"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 6,
+      "key": "C",
+      "source_tags": [
+        "S02"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 7,
+      "key": "A",
+      "source_tags": [
+        "S02, S10"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 8,
+      "key": "D",
+      "source_tags": [
+        "S02, S10"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "acceptable_for_practice_pending_fact_check",
+      "editorial_issue": "Format and distractor domain appear reasonable; factual key/source still needs separate review.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 9,
+      "key": "C",
+      "source_tags": [
+        "S02, S10"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 10,
+      "key": "B",
+      "source_tags": [
+        "S02"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 11,
+      "key": "D",
+      "source_tags": [
+        "S02, S10"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 12,
+      "key": "A",
+      "source_tags": [
+        "S09"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 13,
+      "key": "C",
+      "source_tags": [
+        "S09"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 14,
+      "key": "D",
+      "source_tags": [
+        "S12, S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 15,
+      "key": "B",
+      "source_tags": [
+        "S12, S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 16,
+      "key": "A",
+      "source_tags": [
+        "S12, S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 17,
+      "key": "C",
+      "source_tags": [
+        "S14, S15"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "borderline",
+      "editorial_issue": "Distractors are relevant but too easy to eliminate; consider more discriminating same-domain alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 18,
+      "key": "D",
+      "source_tags": [
+        "S14, S15"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "acceptable_for_practice_pending_fact_check",
+      "editorial_issue": "Format and distractor domain appear reasonable; factual key/source still needs separate review.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 19,
+      "key": "A",
+      "source_tags": [
+        "S14, S15"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 20,
+      "key": "B",
+      "source_tags": [
+        "S07"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "acceptable_for_practice_pending_fact_check",
+      "editorial_issue": "Format and distractor domain appear reasonable; factual key/source still needs separate review.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 21,
+      "key": "C",
+      "source_tags": [
+        "S07, S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "borderline",
+      "editorial_issue": "Distractors are relevant but too easy to eliminate; consider more discriminating same-domain alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 22,
+      "key": "D",
+      "source_tags": [
+        "S07, S12"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 23,
+      "key": "A",
+      "source_tags": [
+        "S10, S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 24,
+      "key": "B",
+      "source_tags": [
+        "S10"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "acceptable_for_practice_pending_fact_check",
+      "editorial_issue": "Format and distractor domain appear reasonable; factual key/source still needs separate review.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 25,
+      "key": "C",
+      "source_tags": [
+        "S06, S12"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 26,
+      "key": "D",
+      "source_tags": [
+        "S06"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 27,
+      "key": "A",
+      "source_tags": [
+        "S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 28,
+      "key": "B",
+      "source_tags": [
+        "S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 29,
+      "key": "C",
+      "source_tags": [
+        "S08"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "question": 30,
+      "key": "D",
+      "source_tags": [
+        "S02, S12, S13"
+      ],
+      "format_four_options": true,
+      "has_explanation": true,
+      "editorial_distractor_quality": "weak",
+      "editorial_issue": "Several wrong options are obviously from unrelated periods/institutions or use absolute false claims; replace with close same-domain historical alternatives.",
+      "historical_fact_check": "NOT_INDEPENDENTLY_VERIFIED"
+    }
+  ]
+}
