@@ -36,7 +36,7 @@
     "project-control/academic-readiness/3-1-1-turn24-final-package-and-svg-qa-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-render-qa.json"
   ],
-  "next_action": "Review 33-page integrated PDF at full resolution, verify original SVG rendering, all 25 MCQ keys and 100 alternatives, six mains facts, and 11 shallow concepts. No R1-R8 PASS claim.",
+  "next_action": "Four integrated Part C concepts remain below 300 words (2,3,15,16); source detailed-notes.md still has 11 below 300. Independent full editorial/dedup, 25 MCQ keys/100 distractors, six mains factual audits, accessibility and public browser QA outstanding.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -150,6 +150,32 @@
     "mains": 6,
     "original_svg_diagrams_included": 2,
     "complete_visual_and_accessibility_qa": false,
-    "independent_fact_audit": false
+    "independent_fact_audit": false,
+    "narrative_section_word_counts": [
+      327,
+      223,
+      245,
+      387,
+      632,
+      419,
+      423,
+      478,
+      794,
+      482,
+      608,
+      486,
+      610,
+      428,
+      230,
+      190,
+      317,
+      367
+    ],
+    "narrative_sections_under_300": 4,
+    "narrative_sections_under_150": 0,
+    "narrative_sections_count": 18,
+    "all_25_questions_have_four_options_and_keys": true,
+    "all_25_keys_and_distractors_independently_verified": false,
+    "method": "Counts from 33-page artifact's synchronized Markdown, Part C only; includes 8 embedded prior repair sections and 4 new analytic extensions; regex word count. Does not establish R3 PASS."
   }
 }
