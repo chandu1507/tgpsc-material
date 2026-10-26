@@ -129,7 +129,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "integrated_student_edition_draft_published_pending_academic_readiness",
-      "notes": "26 Oct 2026: new 9,462-word integrated student edition, 21-page PDF, 30 original explained four-option MCQs, six complete structured 200–250-word mains answers, 3 original SVG diagrams, timeline, comparison and 9-source critical register; direct 2024 official syllabus verified. Original 8-page PDF preserved. R1 PASS; R2–R8 incomplete or blocked; no independent academic approval.",
+      "notes": "26 Oct 2026: one integrated Topic 2-2-5 student edition revised in place; 35-page PDF, 30 original explained MCQs, six complete structured mains answers, three diagrams; MCQ19 contradictory negative stem corrected. Direct 1947 Indian Independence Act and 1956 States Reorganisation Act cited; 30-item internal source-correspondence review: 10 with limited corroboration, 20 require direct verification. Original 8-page PDF preserved. Actual GitHub packaging artifact 12636011656 downloaded: 1443 files, 75 original PDFs, 75 readiness JSONs, 459 local links/zero broken, outer/inner CRC PASS. R1 PASS; R4 BLOCKED; R2/R3/R5/R6/R7/R8 IN_PROGRESS; ZERO academic approvals.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-2-5.json"
     },
@@ -141,8 +141,8 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
+      "notes": "26 Oct 2026 actual archive gap assessment: original 15-page PDF preserved, 25 detailed sections (24 <150 words), earlier 1714-word monsoon/resources repair exists despite prior production_review=pending, only 10 explained MCQs and 4 mains answers (one 255 words), no SVG. Complete-notes.md 8210 words vs original PDF 5958 extracted words; integrated student PDF not established. R1/R2/R7 IN_PROGRESS, R3/R5/R6/R8 BLOCKED, R4 NOT_STARTED; ZERO academic approvals. See project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-3-1.json"
     },
     {
