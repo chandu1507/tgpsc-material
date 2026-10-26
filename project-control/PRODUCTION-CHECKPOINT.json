@@ -178,7 +178,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "integrated_markdown_depth_expanded_ci_pdf_rendered_academic_gates_in_progress",
-      "notes": "27 Oct 2026: existing 2-3-4 editable integrated master expanded in place at irrigation/tanks/aquifers/SEZ concepts, direct official sources with scope caveats. CI render run 40382078154 SUCCESS; 19-page integrated PDF SHA256 ecb00777352f8c5a7fdb2183d33d47b928d49a7518551651b51d71f1eae60006. Original 8-page PDF preserved. 11 of 15 original concepts still under 150 words; R1/R2/R3/R4/R5/R6/R8 IN_PROGRESS, R7 BLOCKED; no independent approval. Actual post-render artifact QA pending.",
+      "notes": "27 Oct 2026: existing 2-3-4 editable integrated master expanded in place at irrigation/tanks/aquifers/SEZ concepts, direct official sources with scope caveats. CI render run 40382863495 SUCCESS; 19-page integrated PDF SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467. Original 8-page PDF preserved. 11 of 15 original concepts still under 150 words; R1/R2/R3/R4/R5/R6/R8 IN_PROGRESS, R7 BLOCKED; no independent approval. Actual post-render artifact QA pending. Dedicated Topic4 renderer fixed incorrect Topic3 footer. Portal now links integrated PDF and Markdown, preserving original. R8 remains IN_PROGRESS.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
       "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-render-qa.json"
