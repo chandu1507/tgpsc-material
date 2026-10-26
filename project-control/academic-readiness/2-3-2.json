@@ -33,7 +33,7 @@
     "project-control/academic-readiness/2-3-2-turn14-post-render-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json"
   ],
-  "next_action": "Complete R2 qualitative dedup and 35 concepts below 300 words; independently verify all 25 MCQ keys/distractors and six mains answers; render and inspect revised PDF and actual artifact, test public portal. Never claim approval.",
+  "next_action": "Confirm post-latest-commit CI PDF, download actual post-render artifact, verify 75 originals/75 readiness JSON/portal links/ZIP CRC/PDF SHA, inspect all pages. Then R2 dedup, R3 35 concepts below 300 words, R4 full claims, R5 independent 25-item audit, R6 mains facts, R7 diagrams, R8 browser.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -41,7 +41,7 @@
   "integrated_student_edition": {
     "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.pdf",
-    "status": "MARKDOWN_REVISED_RENDER_AND_ACTUAL_ARTIFACT_QA_PENDING",
+    "status": "MARKDOWN_DEPTH_AND_ALL_25_MCQS_REVISED_CI_PDF_AND_ACTUAL_ARTIFACT_PENDING",
     "original_pdf_preserved_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
     "original_practice_mcqs": 25,
     "structured_mains_answers": 6,
@@ -77,7 +77,24 @@
       5,
       6,
       7,
-      8
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
     ],
     "primary_key_spot_checked": [
       5,
@@ -89,6 +106,7 @@
       "a579486673bd0fa9fa824ec51604afcab0da1c0a",
       "ed816f10228661826e42ccc67e4ef201f464c3c2",
       "da35b76c3e9f2c7bb5eacb59757fb389ff1d44b1"
-    ]
+    ],
+    "mcq22_ambiguous_option_corrected": true
   }
 }
