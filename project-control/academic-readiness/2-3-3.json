@@ -2,7 +2,7 @@
   "topic_id": "2-3-3",
   "title": "Telangana: Physical Geography, Rivers, Forests and Minerals",
   "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -18,16 +18,31 @@
   },
   "gate_status": {
     "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
     "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": [
+    "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json"
+  ],
+  "next_action": "Directly map original TGPSC p29 Topic3 and inspect legacy PDF; 14/14 concepts under 150 words, 0 original MCQs, 2 mains answers (one ~254 words), no SVG; rebuild integrated edition and verify all claims. Academic approvals zero.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_source_gap": {
+    "detailed_sections": 14,
+    "sections_under_150": 14,
+    "sections_under_300": 14,
+    "original_mcqs": 0,
+    "complete_mains": 2,
+    "mains_word_counts": [
+      254,
+      243
+    ],
+    "svg_diagrams": 0,
+    "legacy_pdf_sha256_verified": false
+  }
 }
