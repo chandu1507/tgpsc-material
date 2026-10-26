@@ -10,7 +10,7 @@
   "not_assessed_count": 70,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "EXACTLY 75 existing topics: four IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2), one ASSESSED_REBUILD_REQUIRED (2-3-3), 70 NOT_ASSESSED. Four R1 PASS, ZERO fully R1-R8 ready, ZERO external approvals. Topic 2-3-2 Markdown deepened and MCQs rewritten; final PDF/artifact QA pending.",
+  "warning": "Exactly 75 existing topics; four IN_PROGRESS, one ASSESSED_REBUILD_REQUIRED (2-3-3), 70 NOT_ASSESSED. Four R1 PASS. ZERO R1-R8 fully ready and ZERO academic approvals. Publication QA is not academic validation.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -91,7 +91,7 @@
   "assessed_rebuild_required": [
     "2-3-3"
   ],
-  "last_readiness_update": "2026-10-26: Topic 2-3-2 Turn15 in-place 32/40 concept expansions (0 under 200, 35 under 300), all 25 MCQs editorially rewritten, direct key source correspondence 3/25; latest PDF sync pending. Topic 2-3-3 newly assessed from actual sources: 14/14 concepts <150 words, 0 MCQs, two mains, no SVG; ASSESSED_REBUILD_REQUIRED. Zero full readiness/approvals.",
+  "last_readiness_update": "2026-10-26 Turn15: Topic 2-3-2 integrated Markdown 14,408 approximate words, 40 sections >=200 words, 35 under 300, 25 editorially rewritten explained MCQs, six mains; synchronized 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe, actual GitHub artifact 12661726703 downloaded, 75 original PDFs, 75 readiness JSON, 463 local links 0 broken, CRC PASS. Topic 2-3-3 newly assessed rebuild required: 14/14 concepts under 150 words, 0 MCQs, two mains. Four IN_PROGRESS, one rebuild, 70 NOT_ASSESSED, ZERO fully ready and ZERO external approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -100,6 +100,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
