@@ -28,9 +28,10 @@
   },
   "evidence": [
     "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
-    "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json"
+    "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
+    "project-control/academic-readiness/2-3-3-render-qa.json"
   ],
-  "next_action": "Verify CI-rendered PDF and downloaded packaging artifact; expand 13 remaining concepts under 300 words qualitatively; verify all 25 MCQ keys/distractors and six mains answers claim-by-claim; recheck original official TGPSC syllabus PDF (HTTP403 in this run); complete R2/R4/R7/R8 before R9.",
+  "next_action": "Download post-render GitHub Actions packaging artifact after PDF commit and verify CRC, all 75 originals/status JSON, portal links, PDF/MD SHA; then inspect all 18 PDF pages and check public-browser accessibility. R1 direct official PDF fetch still 403; R2-R7 editorial/factual checks incomplete. R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_source_gap": {
@@ -49,7 +50,7 @@
   "integrated_student_edition": {
     "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.md",
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.pdf",
-    "pdf_status": "CI_RENDER_PENDING_VERIFICATION",
+    "pdf_status": "CI_RENDERED_SEARCHABLE_18P_PENDING_POST_RENDER_ARTIFACT_DOWNLOAD",
     "concepts": 14,
     "concepts_under_150": 0,
     "concepts_under_300": 13,
@@ -66,6 +67,11 @@
     "original_svg_diagrams": 2,
     "source_correlated_claims": 9,
     "original_pdf_pages": 7,
-    "original_pdf_sha256": "d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9"
+    "original_pdf_sha256": "d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9",
+    "pdf_pages": 18,
+    "pdf_sha256": "3437b3bfc8bf9b97f0a6ad6d81dade39867d149fa1ba6c780623bec99828e067",
+    "source_register_entries": 11,
+    "mcq_distractor_sets_editorially_rewritten": 25,
+    "mcq_keys_source_correlated": 13
   }
 }
