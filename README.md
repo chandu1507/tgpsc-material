@@ -4,15 +4,16 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 **Website:** https://chandu1507.github.io/tgpsc-material/
 
-## Current publication checkpoint — 26 October 2026
+## Current academic-readiness checkpoint — 26 October 2026
 
-**75/75 first-draft chapter/PDF pairs published; 0/75 topics have passed all eight academic-readiness gates; 0 independently academically approved.** The academic-readiness process is separate from initial draft publication.
+**Exactly 75/75 first-draft topic PDF/chapter pairs exist; 0/75 topics have passed R1–R8; 0/75 independently academically approved.** Initial publication is not academic readiness.
 
-- **Topic 2-2-4:** integrated student-edition pilot and official syllabus mapping R1 PASS; R2–R8 remain incomplete/blocked.
-- **Topic 2-2-5:** corrected integrated student edition, 29-page PDF, eight priority sections expanded, 30 original explained MCQs with balanced answer positions, six mains answers, three diagrams; official syllabus mapping R1 PASS. Nine short narrative sections, historical primary-source gaps, independent MCQ verification and public-site usability remain open. R2–R8 NOT PASS.
-- **73 other topics:** individual readiness assessment NOT STARTED. The original first-draft PDFs remain preserved.
+- **Topic 2-2-4:** integrated student-edition pilot; R1 official syllabus mapping PASS, R2–R8 incomplete or blocked by evidence gaps.
+- **Topic 2-2-5:** integrated historical student edition with corrected MCQs and 35-page PDF; R1 PASS. Historical primary-source retrieval, question validation and student-usability checks remain incomplete.
+- **Topic 2-3-1:** one integrated Physical Geography student edition, **30-page PDF**; 25 concepts, 25 original explained MCQs, six structured mains answers, two diagrams. Eleven further concepts expanded in the latest run; nine remain under 300 words. Six MCQ keys have primary-source correspondence, 19 require checks, and all distractors need review. R1 PASS, R2–R8 IN_PROGRESS. The actual post-render GitHub publication artifact was downloaded and verified: 75 original topic PDFs, 75 readiness JSON records, 461 relative links with none broken, outer/inner ZIP CRC PASS. Full-resolution accessibility and public-browser usability are outstanding.
+- **Other 72 topics:** individual R1–R8 readiness assessment NOT STARTED, even where earlier supplements exist.
 
-Read the [75-topic readiness tracker](project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json), [Topic 5 correction QA](project-control/academic-readiness/2-2-5-editorial-correction-2026-10-26.json) and [downloaded GitHub package QA](project-control/academic-readiness/2-2-5-corrected-remote-publication-qa-2026-10-26.json).
+Read the [75-topic readiness tracker](project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json), the [production gate](project-control/ACADEMIC-READINESS-PRODUCTION-GATE.md) and [latest Geography publication QA](project-control/academic-readiness/2-3-1-turn11-post-render-artifact-qa-2026-10-26.json). The originals are preserved. No external subject-expert approval is implied.
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 
@@ -34,7 +35,7 @@ These downloads contain published files. They are not a complete 75-topic study 
 
 ## Content workflow
 
-An hourly production task continues one new topic per run, recovers unpublished drafts, and repairs gaps in older drafts. Every finished topic requires substantive editable notes, standalone revision, visuals, explained original MCQs, question-specific mains model answers, dated relevant current affairs, source audit, offline HTML and one complete PDF. Label official PYQs only after verifying their source paper and question number. Preserve existing work and use current checkpoints rather than an old fixed next-topic instruction.
+An hourly academic-readiness task improves the existing 75 topics in place; it does not create a 76th topic. It reconciles the project controls, consolidates original and supplementary material, and records objective R1–R8 evidence. Every finished topic requires substantive editable notes, standalone revision, visuals, explained original MCQs, question-specific mains model answers, dated relevant current affairs, source audit, offline HTML and one complete PDF. Label official PYQs only after verifying their source paper and question number. Preserve existing work and use current checkpoints rather than an old fixed next-topic instruction.
 
 GitHub Pages publishes the static portal. The repository includes both the Pages deployment workflow and an integrity-checked ZIP workflow; inspect Actions for the actual publication result.
 
