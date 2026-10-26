@@ -31,9 +31,10 @@
     "project-control/academic-readiness/2-3-4-mission-kakatiya-ramappa-source-check-2026-10-26.json",
     "project-control/academic-readiness/2-3-4-integrated-working-master-production-2026-10-26.json",
     "project-control/academic-readiness/2-3-4-post-publication-packaging-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-3-4-render-qa.json"
+    "project-control/academic-readiness/2-3-4-render-qa.json",
+    "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json"
   ],
-  "next_action": "Final dedicated Topic4 CI renderer 40382863495 SUCCESS, PDF 19 pages SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467; post-render downloaded artifact SHA/CRC/links and page-level full-resolution QA pending. 11/15 core concepts shallow; no academic approval.",
+  "next_action": "Actual corrected PDF artifact 12679083916 downloaded; 75 originals, 75 readiness JSON, 78 HTML, 313 local file-path links zero broken, CRC PASS; 19 pages grossly inspected, footer fixed. R8 still IN_PROGRESS pending accessibility/public browser. Academic R1-R7 incomplete, 11/15 core concepts shallow, no approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -78,7 +79,7 @@
     "source_claims_prior_correlated": 4,
     "new_diagrams": 0,
     "synchronized_pdf": true,
-    "actual_post_render_artifact_downloaded_for_this_master": false,
+    "actual_post_render_artifact_downloaded_for_this_master": true,
     "legacy_pdf_preserved": true,
     "packaging_artifact_downloaded": true,
     "packaging_artifact_id": 12671934843,
@@ -101,6 +102,12 @@
     ],
     "source_depth_qualitative_status": "IN_PROGRESS",
     "renderer_script": "scripts/render_topic_2_3_4.py",
-    "footer_correction": "Dedicated renderer fixes prior incorrect Topic 3 footer and PDF title; final artifact visual inspection still required."
+    "footer_correction": "Dedicated renderer fixes prior incorrect Topic 3 footer and PDF title; final artifact visual inspection still required.",
+    "final_downloaded_artifact_id": 12679083916,
+    "final_packaging_run": 40383038864,
+    "post_render_integrity_pass": true,
+    "portal_integrated_pdf_md_links_verified": true,
+    "full_resolution_accessibility_certified": false,
+    "public_browser_usability_verified": false
   }
 }
