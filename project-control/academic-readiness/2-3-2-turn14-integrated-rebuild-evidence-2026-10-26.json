@@ -120,7 +120,22 @@
     "model_answers": 6,
     "svg_diagrams": 2,
     "source_register": true,
-    "publication_pdf": "PENDING_RENDER_VALIDATION"
+    "publication_pdf": "CI_RENDERED_19_PAGES",
+    "render_workflow_run": 40337934827,
+    "pdf_sha256": "4c9aee136e8bbdcef334305a30718ba81cf75ea88dc936a36b994bb22c8be710",
+    "pdf_pages": 19,
+    "integrated_markdown_words": 8154,
+    "sections_under_150_words": 30,
+    "sections_under_300_words": 40,
+    "mains_word_counts": [
+      206,
+      207,
+      203,
+      209,
+      215,
+      203
+    ],
+    "original_mcqs_not_independently_verified": 25
   },
   "local_candidate": {
     "location": "/mnt/data/tgpsc_turn14_topic232/",
@@ -154,7 +169,7 @@
     "All 25 MCQ keys and distractors require independent claim-level check",
     "Six mains answers require source-level editorial check",
     "Public-browser and full-resolution accessibility not certified",
-    "GitHub PDF and actual packaging artifact pending verification at evidence-writing time"
+    "Actual post-render publication ZIP still needs independent download and CRC/portal check"
   ],
   "independent_academic_approvals": 0,
   "independent_reviewer": null
