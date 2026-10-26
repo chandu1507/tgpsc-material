@@ -93,7 +93,7 @@
   "assessed_rebuild_required": [
     "2-3-5"
   ],
-  "last_readiness_update": "2026-10-27: Fresh main/Actions and /Mounika reconciled. Topic 2-3-4 four source-led expansions §§4/5/6/9, PDF renderer 40382863495 SUCCESS, 19 pages SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467, R8 IN_PROGRESS; Topic 2-3-5 objective assessment published, ASSESSED_REBUILD_REQUIRED, 68 unassessed. Final Topic2-3-4 post-render package 40383038864 artifact 12679083916 downloaded/CRC checked; footer corrected; R8 remains IN_PROGRESS.",
+  "last_readiness_update": "2026-10-27: Topic 2-3-5 seven official-source claim correspondences recorded (Census baseline, GHMC 2007/1591, HMDA 2008/2025 boundaries, Master Plan 2031, heritage). R4 IN_PROGRESS, R1/R2 pending, R3/R5/R6/R7/R8 BLOCKED. A 17-page local working PDF and 25 original practice MCQs were produced but NOT GitHub-published or Actions-artifact-verified in this cycle. Exactly 75 topics: six IN_PROGRESS, one ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED, zero fully ready and zero independent approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -102,6 +102,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-render-qa.json",
