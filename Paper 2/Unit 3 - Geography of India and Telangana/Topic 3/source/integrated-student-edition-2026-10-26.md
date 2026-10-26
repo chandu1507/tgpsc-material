@@ -25,9 +25,9 @@
 6. NTPC Ramagundam's 2,600 MW is installed capacity, not yearly generation [T8].
 7. Source-year and denominator must accompany all reserve, groundwater and power statistics.
 
-**Diagram 1 — conceptual hard-rock catchment:** rainfall → infiltration → weathered mantle → fractured bedrock / aquifer → well withdrawal or stream baseflow. Overland runoff reaches tanks and rivers; recharge is an internal transfer, not extra rainfall.
+[Original vector water-budget diagram](telangana-hard-rock-water-budget.svg). **Diagram 1 — conceptual hard-rock catchment:** rainfall → infiltration → weathered mantle → fractured bedrock / aquifer → well withdrawal or stream baseflow. Overland runoff reaches tanks and rivers; recharge is an internal transfer, not extra rainfall.
 
-**Diagram 2 — ecological landscape:** Amrabad core ↔ buffer ↔ surrounding Nallamala habitat; Kawal core ↔ surrounding forest mosaic ↔ wider central-Indian corridor. These are conceptual links, NOT surveyed reserve-boundary maps.
+[Original vector habitat-connectivity diagram](telangana-tiger-landscape-connectivity.svg). **Diagram 2 — ecological landscape:** Amrabad core ↔ buffer ↔ surrounding Nallamala habitat; Kawal core ↔ surrounding forest mosaic ↔ wider central-Indian corridor. These are conceptual links, NOT surveyed reserve-boundary maps.
 
 ## Part C — Integrated explanatory chapter
 
@@ -411,13 +411,13 @@ D. A list of dam inauguration dates
 ### Model Answer 1 — 20 marks: Explain how Telangana's geological structure governs mineral resources, irrigation and regional development.
 **Introduction:** Telangana occupies the northeastern Deccan plateau, where ancient crystalline rocks, localized sedimentary basins and river valleys create distinct opportunities and constraints for development.
 
-**Geological foundation:** Granite-gneiss basement controls broad residual relief and hard-rock groundwater. Weathered mantles and joints determine well yields; aquifer storage is often local and discontinuous. Northern and eastern Gondwana formations explain the Godavari Valley coalfield, creating a resource base associated with Singareni mining and the regional thermal-power economy. Limestone belts help locate cement plants because bulky mineral input makes quarry-to-kiln distance economically significant.
+**Geological foundation:** Granite-gneiss basement controls broad residual relief and hard-rock groundwater. Weathered mantles and joints determine well yields; aquifer storage is local and discontinuous. Northern and eastern Gondwana formations explain the Godavari Valley coalfield, creating a resource base associated with Singareni mining and the regional thermal-power economy. Limestone belts help locate cement plants because bulky mineral input makes quarry-to-kiln distance economically significant.
 
-**Water and agricultural effects:** Weathering influences red-soil profiles and tank construction; river-valley alluvium supports different crop options. In contrast to extensive alluvial aquifers, groundwater in crystalline terrain can be quickly stressed by concentrated borewell pumping. Tank restoration and watershed works may improve recharge, but sustained gains require an extraction and crop-water policy. Godavari and Krishna networks cross state borders, so irrigation outcomes also depend on reservoir operations and distribution equity.
+**Water and agricultural effects:** Weathering influences red-soil profiles and tank construction; river-valley alluvium supports different crop options. In contrast to extensive alluvial aquifers, groundwater in crystalline terrain can be stressed by concentrated borewell pumping. Tank restoration and watershed works may improve recharge, but sustained gains require an extraction and crop-water policy. Godavari and Krishna networks cross state borders, so irrigation outcomes also depend on reservoir operations and distribution equity.
 
 **Social and environmental consequences:** Coal and cement generate employment and power-related infrastructure but create dust, emissions, overburden and aquifer risks. Forest and hill tracts overlap with tribal livelihoods and biodiversity corridors. Infrastructure planning must therefore address rehabilitation and landscape fragmentation, rather than treat minerals as an isolated 'gift of nature'.
 
-**Conclusion:** The state's development model is a relationship among rock, water, land use and institutions. The examination-worthy insight is that **geology enables resources but does not determine inclusive outcomes**: scientific groundwater mapping, catchment management, environmental safeguards and social consent decide whether resource endowments translate into durable welfare.
+**Conclusion:** The state's development model is a relationship among rock, water, land use and institutions. The examination-worthy insight is that **geology enables resources but does not determine inclusive outcomes**: groundwater mapping, catchment management, safeguards and social consent decide whether resource endowments translate into durable welfare.
 
 
 
