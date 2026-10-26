@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-5",
+  "kind": "primary_official_website_claim_correspondence_not_full_academic_audit",
+  "checked_sources": [
+    {
+      "id": "U1",
+      "url": "https://www.telangana.gov.in/About/State-Profile/",
+      "publisher": "Government of Telangana",
+      "claim": "Census 2011 urban share 38.88% (13.609 million of 35.004 million); use about 38.9% with year",
+      "scope": "2011 baseline, not current-year estimate",
+      "result": "SOURCE_CORRELATED"
+    },
+    {
+      "id": "U2",
+      "url": "https://telangana.gov.in/wp-content/uploads/2023/05/Socio-Economic-outlook-2015.pdf",
+      "publisher": "Government of Telangana",
+      "claim": "2015 socio-economic outlook reports 2011 urbanisation 38.67%",
+      "scope": "Denominator/publication mismatch with state profile; do not silently merge or treat as a new census",
+      "result": "SOURCE_CORRELATED_WITH_NUMERICAL_DISCREPANCY"
+    },
+    {
+      "id": "U3",
+      "url": "https://www.ghmc.gov.in/City_History.aspx",
+      "publisher": "Greater Hyderabad Municipal Corporation",
+      "claim": "Hyderabad foundation 1591 by Muhammad Quli Qutb Shah",
+      "scope": "Institutional historical summary, not independent archaeological/archival validation",
+      "result": "SOURCE_CORRELATED"
+    },
+    {
+      "id": "U4",
+      "url": "https://www.hmda.gov.in/",
+      "publisher": "Hyderabad Metropolitan Development Authority",
+      "claim": "2008 planning jurisdiction approximately 7,257 sq km; G.O.Ms.No.68 dated 12 March 2025 expanded to approximately 10,472.723 sq km; RRR described as upcoming",
+      "scope": "Jurisdiction area and proposal, NOT actual built-up area or completed RRR",
+      "result": "SOURCE_CORRELATED"
+    },
+    {
+      "id": "U5",
+      "url": "https://www.ghmc.gov.in/",
+      "publisher": "Greater Hyderabad Municipal Corporation",
+      "claim": "GHMC constituted in 2007 by merger",
+      "scope": "Site also contains 150-ward historical description alongside 2025 notice of 300-ward delimitation; current ward count needs dated legal order",
+      "result": "SOURCE_CORRELATED_WITH_STALE_SITE_WARNING"
+    },
+    {
+      "id": "U6",
+      "url": "https://www.hmda.gov.in/planning-2/",
+      "publisher": "Hyderabad Metropolitan Development Authority",
+      "claim": "Master Plan 2031 planning materials publicly listed",
+      "scope": "Does not verify project completion, land-use compliance, or GIS accuracy",
+      "result": "SOURCE_CORRELATED"
+    },
+    {
+      "id": "U7",
+      "url": "https://hyderabad.telangana.gov.in/about-district/",
+      "publisher": "Hyderabad District Administration",
+      "claim": "Lists heritage sites including Charminar, Golconda and Qutb Shahi tombs",
+      "scope": "Not evidence of visitor totals, conservation performance or uniform monument buffer rules",
+      "result": "SOURCE_CORRELATED"
+    }
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "limitations": [
+    "Seven source-level claim checks only; no full chapter factual review",
+    "Original TGPSC notification PDF Annexure II not directly rechecked in this cycle",
+    "No independently verified MCQ distractors, six mains answers or official PYQs",
+    "No GitHub-published integrated Topic 2-3-5 master/PDF verified by this report",
+    "No public browser or full-resolution accessibility audit",
+    "No independent academic approval"
+  ],
+  "academic_approval": false
+}
