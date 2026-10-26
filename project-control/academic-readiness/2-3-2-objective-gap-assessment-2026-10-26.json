@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-2",
+  "title": "India: Agriculture, Industry, Population and Urbanisation",
+  "source_main_sha": "d100777c09525636378e0b977a0e13e8889c1e20",
+  "kind": "objective_archive_gap_assessment_not_academic_approval",
+  "original_pdf": {
+    "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/complete-notes.pdf",
+    "pages": 15,
+    "extracted_words": 5367,
+    "sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "preserved": true
+  },
+  "existing_prior_repair": {
+    "markdown": "source/depth-repair-agri-industry-demography.md",
+    "words": 1176,
+    "pdf_pages": 3,
+    "pdf_sha256": "a58d910453a7fbbf42cecfd1849e9d8de64c059308d21cf10b7d40948a676d4e",
+    "must_merge": true
+  },
+  "editable_master": {
+    "path": "source/complete-notes.md",
+    "words": 6788,
+    "integrated_pdf_sync_demonstrated": false
+  },
+  "detailed_notes": {
+    "numbered_sections": 40,
+    "under_150_words": 39,
+    "under_300_words": 40,
+    "longest_section_words": 210,
+    "section_word_counts": [
+      71,
+      72,
+      64,
+      78,
+      73,
+      70,
+      80,
+      68,
+      67,
+      58,
+      66,
+      62,
+      71,
+      67,
+      66,
+      60,
+      67,
+      66,
+      76,
+      65,
+      63,
+      59,
+      70,
+      66,
+      57,
+      66,
+      57,
+      61,
+      61,
+      65,
+      74,
+      80,
+      82,
+      77,
+      80,
+      71,
+      80,
+      75,
+      69,
+      210
+    ]
+  },
+  "practice": {
+    "original_explained_four_option_mcqs": 8,
+    "minimum_required": 25,
+    "authenticated_official_mcq_pyqs": 0,
+    "keys_and_distractors_independently_verified": false
+  },
+  "mains": {
+    "complete_answers": 4,
+    "word_counts": [
+      206,
+      191,
+      203,
+      209
+    ],
+    "minimum_required": 6,
+    "answers_under_200": 1,
+    "authenticated_official_mains_pyqs": 0
+  },
+  "visuals": {
+    "original_svg_diagrams": 0,
+    "text_only_arrow_chains": true
+  },
+  "syllabus": {
+    "local_mapping_exists": true,
+    "official_notification_primary_mapping_verified": false
+  },
+  "source_verification": {
+    "dated_2026_claims_present": true,
+    "claim_level_primary_verification_in_this_assessment": 0
+  },
+  "contradictions": [
+    "quality-audit.md reports 30 analytical sections; detailed-notes.md actually has 40",
+    "prior_repair_reported=false although existing supplement MD and PDF are present",
+    "source master and original PDF not demonstrated to be synchronized"
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "NOT_STARTED",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
+  },
+  "next_steps": [
+    "Official syllabus atomization and primary PDF verification",
+    "Merge existing 15-page original and 7-part repair into one integrated textbook-depth chapter without repetition",
+    "Rewrite 40 shallow concepts using source-linked mechanisms and examples",
+    "Add at least 17 plausible source-checked four-option MCQs",
+    "Add at least two 200-250 word structured mains answers and repair 191-word answer",
+    "Create original accurate maps and diagrams",
+    "Render one synchronized PDF, inspect all pages and offline links, preserve original SHA, validate ZIP and 75 slots"
+  ],
+  "academic_approved": false,
+  "ready_for_independent_audit": false,
+  "independent_reviewer": null,
+  "limitations": "Automated structural review and targeted visual sample; no claim-level accuracy certification. PDF pages 1,8,15 rendered; page 8 visually inspected."
+}
