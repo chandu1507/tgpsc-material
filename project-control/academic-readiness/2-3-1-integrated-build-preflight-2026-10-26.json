@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-1",
+  "scope": "Actual source files fetched from fresh GitHub main and integrated editable master published. Preflight evidence only; PDF, browser and archive QA pending.",
+  "baseline": {
+    "original_pdf_pages_reported": 15,
+    "original_pdf_sha256_expected": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879",
+    "old_detailed_concept_sections": 25,
+    "old_detailed_sections_under_150_words": 24,
+    "prior_supplement_exists": true,
+    "original_mcqs": 10,
+    "original_mains": 4
+  },
+  "new_integrated_edition": {
+    "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1/source/integrated-student-edition-2026-10-26.md",
+    "reported_word_count_at_initial_assembly": 11157,
+    "numbered_concept_sections": 25,
+    "original_four_option_explained_mcqs": 25,
+    "complete_mains_answers": 6,
+    "mains_body_word_counts": [
+      245,
+      222,
+      248,
+      250,
+      201,
+      222
+    ],
+    "original_svg_diagrams": [
+      "monsoon-system-2026-10-26.svg",
+      "basin-risk-2026-10-26.svg"
+    ],
+    "synchronized_pdf": "CI_PENDING",
+    "offline_topic_link": "PENDING"
+  },
+  "source_checks": [
+    {
+      "source": "IMD monsoon onset criteria",
+      "url": "https://mausam.imd.gov.in/responsive/monsooninformation_onset.php",
+      "result": "direct official web source retrieved; rainfall/wind/OLR criteria"
+    },
+    {
+      "source": "IMD withdrawal criteria",
+      "url": "https://mausam.imd.gov.in/responsive/monsooninformation_withdrawal.php",
+      "result": "direct official web source retrieved; five dry days/anticyclone/moisture reduction"
+    },
+    {
+      "source": "IMD MAUSAM Pai et al 2020",
+      "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/33",
+      "result": "published study and methodology verified"
+    },
+    {
+      "source": "PIB 12 August 2026 monsoon reply",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298071",
+      "result": "primary government text checked; interim as-of-August data only"
+    },
+    {
+      "source": "UN UNCLOS Part V",
+      "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/part5.htm",
+      "result": "original Articles 55-58 directly checked; EEZ sovereign resource rights, maximum 200nm, other-state freedoms"
+    },
+    {
+      "source": "TGPSC official 02/2024 geography syllabus PDF",
+      "result": "direct official URL returned HTTP 403 during this run; R1 cannot PASS based solely on reproduced wording"
+    }
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
+  },
+  "remaining": [
+    "Primary official syllabus page direct confirmation",
+    "Human redundancy/contradiction review of integrated paragraphs",
+    "Claim-level NCERT chapter pages, river law and all 25 MCQ distractors",
+    "Subject specialist review of all six mains answers",
+    "Full-resolution visual inspection and offline portal link QA",
+    "Synchronized PDF and actual downloaded Actions artifact ZIP CRC/hash"
+  ],
+  "academic_approved": false,
+  "independent_external_reviewer": null
+}
