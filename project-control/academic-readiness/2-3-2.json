@@ -19,7 +19,7 @@
   "gate_status": {
     "R1": "PASS",
     "R2": "IN_PROGRESS",
-    "R3": "BLOCKED",
+    "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
@@ -30,9 +30,10 @@
     "project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-turn14-post-render-artifact-qa-verified-2026-10-26.json"
+    "project-control/academic-readiness/2-3-2-turn14-post-render-artifact-qa-verified-2026-10-26.json",
+    "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json"
   ],
-  "next_action": "Deepen 30 concepts under 150 words and all 40 under 300; audit every MCQ and mains claim. Direct public browser and full accessibility pending. Zero external academic approvals.",
+  "next_action": "Complete R2 qualitative dedup and 35 concepts below 300 words; independently verify all 25 MCQ keys/distractors and six mains answers; render and inspect revised PDF and actual artifact, test public portal. Never claim approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -40,7 +41,7 @@
   "integrated_student_edition": {
     "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.pdf",
-    "status": "CI_RENDERED_ACTUAL_GITHUB_ARTIFACT_DOWNLOADED_VERIFIED",
+    "status": "MARKDOWN_REVISED_RENDER_AND_ACTUAL_ARTIFACT_QA_PENDING",
     "original_pdf_preserved_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
     "original_practice_mcqs": 25,
     "structured_mains_answers": 6,
@@ -49,8 +50,8 @@
     "pdf_pages": 19,
     "pdf_sha256": "4c9aee136e8bbdcef334305a30718ba81cf75ea88dc936a36b994bb22c8be710",
     "markdown_sections": 40,
-    "sections_under_150_words": 30,
-    "sections_under_300_words": 40,
+    "sections_under_150_words": 0,
+    "sections_under_300_words": 35,
     "mains_answer_word_counts": [
       206,
       207,
@@ -65,6 +66,29 @@
     "local_links_checked": 463,
     "broken_local_links": 0,
     "original_topic_count": 75,
-    "zip_crc": "PASS"
+    "zip_crc": "PASS",
+    "sections_under_200_words": 0,
+    "markdown_approx_words": 14408,
+    "revised_mcq_distractor_sets": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "primary_key_spot_checked": [
+      5,
+      17,
+      21
+    ],
+    "pdf_sha256_is_from_prior_19_page_version": true,
+    "editorial_source_commits": [
+      "a579486673bd0fa9fa824ec51604afcab0da1c0a",
+      "ed816f10228661826e42ccc67e4ef201f464c3c2",
+      "da35b76c3e9f2c7bb5eacb59757fb389ff1d44b1"
+    ]
   }
 }
