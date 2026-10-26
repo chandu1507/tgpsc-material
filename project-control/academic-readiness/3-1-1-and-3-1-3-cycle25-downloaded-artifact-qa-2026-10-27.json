@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27",
+  "cycle": 25,
+  "scope": "EXACTLY 75 existing TGPSC Group I topic slots",
+  "workflow_run_id": 40423129736,
+  "artifact_id": 12698202037,
+  "artifact_downloaded": true,
+  "artifact_sha256": "d3a3844c56f3945998cca9ff6c453419647448230b85c5e9854045fc0437ae4d",
+  "artifact_sha_matches_github_digest": true,
+  "archive": {
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "files": 1531,
+    "original_topic_pdfs": 75,
+    "readiness_json": 75,
+    "html_pages": 78,
+    "local_static_links_checked": 472,
+    "broken_local_links": 0,
+    "dom_fragment_links_checked": 686,
+    "broken_dom_fragments": 0,
+    "spa_hash_routes_excluded": 64
+  },
+  "topic311": {
+    "integrated_markdown": "Paper 3/Unit 1 - Indian Society/Topic 1/source/integrated-student-edition-2026-10-27.md",
+    "integrated_markdown_sha256": "07d121ea62b23093562c5ef7c7bf899c53673df2c282d92917a5d1c1f254186c",
+    "integrated_pdf": "Paper 3/Unit 1 - Indian Society/Topic 1/source/integrated-student-edition-2026-10-27.pdf",
+    "pdf_pages": 33,
+    "pdf_sha256": "7138c9d9d5cd22fecb1c4d2c61a3384e7aedcfa2f6a1dc5e2bcf174526ba3127",
+    "legacy_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+    "legacy_preserved": true,
+    "original_svg_diagrams": 2,
+    "svg_rendered_as_vector": true,
+    "pdf_pages_blank": 0,
+    "pdf_text_outside_page_bounds": 0,
+    "all_33_page_contact_sheet_inspected": true,
+    "page_18_diagrams_full_resolution_inspected": true,
+    "layout_observations": [
+      "Page 33 contains a short trailing source-register section and substantial white space.",
+      "Page 25 is sparsely populated due to deliberate Part F page break; editorial pagination improvement remains."
+    ]
+  },
+  "topic313": {
+    "status": "ASSESSED_REBUILD_REQUIRED",
+    "narrative_sections": 20,
+    "sections_under_300": 18,
+    "original_mcqs": 30,
+    "mains": 8,
+    "legacy_pdf_sha256": "4232d13cc97da86bafcef526f7a3f86b951c96444b569dae00e8f444e0a0a5ef"
+  },
+  "project": {
+    "in_progress": 7,
+    "assessed_rebuild_required": 3,
+    "not_assessed": 65,
+    "fully_R1_R8_ready": 0,
+    "independent_academic_approvals": 0
+  },
+  "unverified": [
+    "No complete independent audit of 25 Indian Society MCQ keys and all distractors.",
+    "Six Indian Society mains answers require claim-level factual review.",
+    "Qualitative textbook-depth and deduplication review incomplete.",
+    "Complete accessibility and public-browser usability not verified.",
+    "Topic 3-1-3 official syllabus mapping, full MCQ and mains audit incomplete."
+  ],
+  "R8": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "independent_reviewer": null
+}
