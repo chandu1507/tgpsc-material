@@ -19,9 +19,14 @@ For EACH existing topic, finish gates R1–R8 before initiating the independent 
 ## Required evidence per topic
 Maintain `project-control/academic-readiness/<paper>-<unit>-<topic>.json` with gate statuses NOT_STARTED / IN_PROGRESS / BLOCKED / PASS, objective evidence paths, outstanding issues, reviewer details, and immutable original PDF SHA256. Do not mark PASS without evidence. Keep project-wide academic approvals at zero until external sign-off.
 
-## Current baseline (reconciled 2026-10-26)
-GitHub main at reconciliation: dfa0a8de834091ded1aabceaaba5324036e44555.
-PRODUCTION-CHECKPOINT.json reports 75 published first-draft PDF/chapter pairs, 75 slots, zero independent academic approvals. Earlier Paper II Unit II Topic 4 includes multiple preserved supplements and a provenance-labelled consolidated master, but has NOT been demonstrated to pass all readiness gates. No R1–R8 completion is asserted for any of the 75 topics here.
+## Current baseline (reconciled 2026-10-26, Turn16)
+
+The repository contains **exactly 75 existing first-draft topic slots and original topic PDFs**; **zero topics** have passed all R1–R8 and **zero** have independent academic approval. The current topic-level status index is the canonical summary, not the older pilot paragraph in this document.
+
+Five existing topics are IN_PROGRESS: 2-2-4, 2-2-5, 2-3-1, 2-3-2 and 2-3-3. Seventy topics remain NOT_ASSESSED. Topic 2-3-3 now has one integrated editable working master with 14 explanatory concepts, 25 original explained MCQs, six 200–250-word mains answers and two original SVG diagrams. Thirteen concepts remain under 300 words, and the direct original commission PDF retrieval was HTTP 403 in the latest run; therefore **R1–R8 remain IN_PROGRESS** and R9 NOT_STARTED. The original 7-page PDF SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9 is preserved. Rendering/publication verification is recorded separately and must not be presumed from source commits.
+
+A substantive hydrology correction was made to existing Topic 2-3-3 notes and portal: recharge is an internal flux for a whole-catchment water budget and can be an outflow for a soil-zone budget; it must not be counted twice. The partial 11-claim source register and limitations are in `project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json`.
 
 ## Immediate production queue
-First Paper II Unit II Topic 4: reconcile original and existing library/Adi-Hindu, Vetti/Jogini/Devadasi, and press/women/civil-liberties supplements; produce one integrated student edition and complete R1–R8 evidence. Then advance systematically through remaining 74 existing topics, prioritizing shallow Paper II and III. The prior plan to immediately add a separate Topic 5 supplement is superseded by this readiness-first instruction. Never confuse packaging success with academic readiness.
+
+Finish Topic 2-3-3 synchronized CI PDF, original-preservation/ZIP/portal QA and detailed page review. Then expand the remaining shallow concepts **substantively**, complete direct primary-source and MCQ distractor checks, and progress the next existing Paper II/III topic. Keep Topic 2-3-2's 35 concepts below 300 words and pending MCQ/mains reviews visible. Do not stall indefinitely on inaccessible Topic 2-2-5 historical originals; record R4 BLOCKED and advance other work. Never treat word count, artifact CRC or workflow success as academic approval. Independent R9 starts only after every R1–R8 gate genuinely passes.
