@@ -1,0 +1,232 @@
+{
+  "topic_id": "2-2-5",
+  "date": "2026-10-26",
+  "type": "READINESS_PREFLIGHT_NOT_ACADEMIC_AUDIT",
+  "source": {
+    "github_path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 5/source/integrated-student-edition-2026-10-26.md",
+    "github_blob_sha": "ee1802c990cc79c826c9abab6976c00d2c4356ae"
+  },
+  "R3_depth": {
+    "status": "IN_PROGRESS",
+    "section_count": 25,
+    "under_150_words": 17,
+    "at_least_400_words": 6,
+    "sections": [
+      {
+        "section": "1",
+        "heading": "1. How to frame this topic",
+        "word_count": 100
+      },
+      {
+        "section": "2",
+        "heading": "2. Hyderabad State in the first half of the twentieth century",
+        "word_count": 81
+      },
+      {
+        "section": "3",
+        "heading": "3. Adivasi resistance: land, forest and authority",
+        "word_count": 87
+      },
+      {
+        "section": "4",
+        "heading": "4. Ramji Gond in historical memory",
+        "word_count": 538
+      },
+      {
+        "section": "5",
+        "heading": "5. Komaram Bheem and the Gond world of Adilabad",
+        "word_count": 533
+      },
+      {
+        "section": "6",
+        "heading": "6. From cultural organization to agrarian mobilization",
+        "word_count": 84
+      },
+      {
+        "section": "7",
+        "heading": "7. Agrarian causes of the Telangana peasant struggle",
+        "word_count": 529
+      },
+      {
+        "section": "8",
+        "heading": "8. Doddi Komaraiah and the transition to armed struggle",
+        "word_count": 81
+      },
+      {
+        "section": "9",
+        "heading": "9. Role of the Communist Party",
+        "word_count": 82
+      },
+      {
+        "section": "10",
+        "heading": "10. Village sanghams and alternative authority",
+        "word_count": 490
+      },
+      {
+        "section": "11",
+        "heading": "11. Women in the Telangana armed struggle",
+        "word_count": 473
+      },
+      {
+        "section": "12",
+        "heading": "12. State repression and the Razakar context",
+        "word_count": 87
+      },
+      {
+        "section": "13",
+        "heading": "13. Majlis-e-Ittehadul-Muslimeen",
+        "word_count": 80
+      },
+      {
+        "section": "14",
+        "heading": "14. Qasim Razvi and the Razakars",
+        "word_count": 376
+      },
+      {
+        "section": "15",
+        "heading": "15. Hyderabad after Indian independence in 1947",
+        "word_count": 82
+      },
+      {
+        "section": "16",
+        "heading": "16. Standstill Agreement and failure of negotiation",
+        "word_count": 75
+      },
+      {
+        "section": "17",
+        "heading": "17. Operation Polo / Police Action, September 1948",
+        "word_count": 478
+      },
+      {
+        "section": "18",
+        "heading": "18. Violence surrounding integration",
+        "word_count": 87
+      },
+      {
+        "section": "19",
+        "heading": "19. End of princely rule and administrative transition",
+        "word_count": 76
+      },
+      {
+        "section": "20",
+        "heading": "20. Continuation and withdrawal of the armed struggle",
+        "word_count": 289
+      },
+      {
+        "section": "21",
+        "heading": "21. Land and social consequences",
+        "word_count": 70
+      },
+      {
+        "section": "22",
+        "heading": "22. Competing memories of September 17",
+        "word_count": 74
+      },
+      {
+        "section": "23",
+        "heading": "23. Current affairs: Praja Palana Dinotsavam 2026",
+        "word_count": 97
+      },
+      {
+        "section": "24",
+        "heading": "24. Historiography: sources and disagreements",
+        "word_count": 78
+      },
+      {
+        "section": "25",
+        "heading": "25. Integrated mains framework",
+        "word_count": 81
+      }
+    ],
+    "interpretation": "Many sections remain 70–100 words despite the 9,462-word total including MCQs, model answers, references and front matter. Topic does not yet meet the user's full-page major-concept requirement.",
+    "priority_expansions": [
+      "§8 Doddi Komaraiah (82 words)",
+      "§9 Communist Party (82 words)",
+      "§13 MIM (82 words)",
+      "§16 Standstill Agreement (76 words)",
+      "§18 Civilian violence (88 words)",
+      "§19 Post-1948 administration (76 words)",
+      "§21 Land and social consequences (70 words)",
+      "§22 Competing memories (75 words)"
+    ]
+  },
+  "R5_mcqs": {
+    "status": "IN_PROGRESS",
+    "total": 30,
+    "all_four_options": true,
+    "all_have_keys": true,
+    "all_have_explanations": true,
+    "answer_key_distribution": {
+      "A": 10,
+      "B": 19,
+      "C": 1,
+      "D": 0
+    },
+    "weak_distractor_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21,
+      22,
+      24,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "weak_distractor_count": 26,
+    "editorial_basis": "At least one distractor in each flagged question is obviously anachronistic, unrelated, absurd or of a different logical category; this makes answer elimination trivial without learning Telangana history. Editorial screening, not independent expert validation.",
+    "examples": [
+      {
+        "q": 1,
+        "problem": "Options C and D refer to 1951 communist withdrawal and Operation Polo as if Gond leaders commanded them.",
+        "action": "Replace with chronologically adjacent Telangana resistance leader-event pairings."
+      },
+      {
+        "q": 5,
+        "problem": "Roman trade and coastal customs are irrelevant to a 1940s agrarian question.",
+        "action": "Use credible rival causes such as language restrictions, wartime shortages and tenancy disputes; ask for the central structural cause."
+      },
+      {
+        "q": 12,
+        "problem": "Standstill Agreement signature and Hyderabad army command are implausible activities for Chakali Ailamma.",
+        "action": "Use competing women activists and rural episodes as distractors, with accurate attributions."
+      },
+      {
+        "q": 18,
+        "problem": "Communist government and partition of Telangana are too distant from legal purpose of the Standstill Agreement.",
+        "action": "Contrast temporary administrative continuity, accession, defence arrangement and full constitutional merger."
+      },
+      {
+        "q": 25,
+        "problem": "A generic blog versus the official syllabus is an assessment of source literacy, not syllabus history.",
+        "action": "Move to an evidence-method exercise and replace with a Telangana historical institution or event MCQ."
+      },
+      {
+        "q": 26,
+        "problem": "Alternatives include 2014 Ramji Gond and 1860 Operation Polo, both impossible.",
+        "action": "Use chronologically close but incorrect pairings, not absurd dates."
+      }
+    ],
+    "verified_official_pyqs": 0,
+    "do_not_pass_until": "Revise weak distractors within the integrated student edition AND its PDF, then independently check each correct key and explanation."
+  },
+  "other_gates_unchanged": true,
+  "academic_approval": false
+}
