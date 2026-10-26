@@ -37,21 +37,41 @@ The Ministry of Agriculture's **Third Advance Estimates**, released 27 May 2026,
 
 Agriculture is spatial because crops respond to water, temperature, soils and terrain, but markets, prices, technology, landholding, labour and policy can be equally important. The same agro-climatic potential can produce different crop patterns when irrigation, roads or procurement change. India’s agricultural geography therefore cannot be reduced to a climate map. A useful analytical chain is: resource base → production system → market and policy signals → environmental consequence → livelihood outcome.
 
+**A spatial diagnosis.** Begin with a district's rainfall seasonality, soil depth and access to surface or groundwater, but do not infer the crop from these variables alone. A farmer with an assured canal turn and a nearby procurement centre faces a different decision from a rainfed farmer with the same soil type. Transport cost, storage losses and credit availability affect which crop yields a viable *net return*. Thus the map of production is a joint outcome of natural potential and institutions. The analytical distinction is between *area* (hectares planted), *yield* (output per hectare) and *production* (area multiplied by yield). A region can increase production by expanding area even while yield stagnates; conversely, production can grow with stable area if yields rise. Compare these measures before claiming that a programme improved productivity.
+
+**Telangana application.** A hard-rock plateau village may depend on a patchwork of tanks, fractured aquifers and seasonal rainfall. The correct planning question is not simply whether a borewell exists, but whether its aquifer can sustain withdrawals across a sequence of weak monsoons. CGWB's aquifer-mapping approach measures aquifer geometry, water quality and sustainability rather than treating all wells as equivalent [S9]. For mains, evaluate the production, income, ecological and distributional effects separately. An irrigation investment that raises output but excludes tail-end users or accelerates aquifer depletion cannot be judged solely by harvest totals.
+
 ### 2. Rice: water, season and regional diversity
 
 Rice is concentrated in humid and sub-humid regions, irrigated river plains and deltas, but technology and irrigation have expanded cultivation beyond traditionally wet environments. Kharif rice dominates nationally, while some regions grow additional seasonal crops. Eastern India has large area and strong yield-improvement potential; north-western irrigated rice has high productivity but can intensify groundwater stress. Geography answers should distinguish climatic suitability from the economic incentives created by irrigation, procurement and market access.
+
+**Crop physiology and location.** Rice needs adequate water during important growth stages, but 'rice requires permanently flooded fields' is an overstatement. Standing water is a common management practice in many systems, not a universal botanical requirement. The location of rice therefore reflects rainfall timing, soils that retain moisture, irrigation reliability and the opportunity cost of water. Eastern alluvial plains, coastal deltas and assured-irrigation districts may all grow rice, but they face different constraints. In a humid delta the main problems can include drainage, flood timing and salinity; in a dry irrigated tract the critical constraint may be aquifer withdrawal. Distinguish *kharif rice*, which is broadly aligned with monsoon rains, from additional irrigated seasonal crops in suitable regions [S2,S3].
+
+**Worked geographical comparison.** Suppose two districts each produce 100 units of paddy. District A uses a broad rainfed area with moderate yields; District B obtains the same output from a smaller irrigated area. Identical output does not imply identical water stress, labour demand or resilience. Ask whether pumping comes from annually replenished shallow groundwater or from storage that recovers slowly, whether procurement favours paddy over alternatives, and whether diversification has a viable market. A Telangana answer should connect crop choice to tank rehabilitation, groundwater budgeting, local procurement and the interests of tenant and small farmers. Neither 'replace all rice' nor 'expand rice everywhere' is an adequate geographical policy.
 
 ### 3. Wheat: winter season and irrigation
 
 Wheat is primarily a rabi crop requiring cool growing conditions and dry, sunny weather near ripening. The Indo-Gangetic plains and parts of central India are major regions. Irrigation, high-yielding varieties, fertiliser, mechanisation and procurement transformed yields during and after the Green Revolution. Future challenges include terminal heat, groundwater pressure, soil health and the need to improve resource-use efficiency rather than focusing only on output.
 
+**Why wheat clusters geographically.** The crop's cool-season growth and relatively dry maturation fit the north Indian winter; assured irrigation buffers low winter rainfall. Higher yields followed the interaction of suitable seasonal climate with improved seed, fertiliser, plant protection, credit and a marketing system. This is why the Green Revolution cannot be explained by seed alone. Compare an irrigated alluvial district with a warmer rainfed district: the first may have reliable sowing moisture and access to procurement, while the second faces greater variability in establishment and grain filling. Yield comparisons must control for water access and management before attributing differences entirely to soil fertility [S2,S3].
+
+**Emerging risk and adaptation.** Terminal heat near grain filling can shorten the period available for yield formation; an unusually warm spell is not the same as a permanent shift in the wheat belt. Timely sowing, locally tested cultivars, soil-moisture conservation and efficient irrigation can reduce particular risks, but they differ in cost and adoption constraints. A useful mains structure distinguishes climatic suitability, the institutional production package, ecological costs and adaptation. Procurement and subsidised inputs may stabilise farmers' decisions while simultaneously reinforcing water-intensive rotations. The policy challenge is to maintain food security while reducing groundwater pressure and avoiding recommendations that leave farmers without a profitable alternative.
+
 ### 4. Millets, pulses and maize
 
 Millets can perform under relatively dry conditions and are important for nutritional diversity and climate resilience, though yields and market demand vary. Pulses contribute dietary protein and biological nitrogen fixation but face yield instability and pest or moisture constraints in many regions. Maize has expanded through feed, starch and industrial demand in addition to food use. Crop diversification should therefore be judged by agro-ecological fit, farmer income, demand and water use rather than by a single national prescription.
 
+**Different crops solve different problems.** Pearl millet and sorghum can fit some semi-arid production systems, but 'millets are drought-proof' is false: germination, flowering and grain filling can still fail under severe moisture stress. Pulses improve rotation diversity and may fix atmospheric nitrogen through root-nodule symbiosis when suitable rhizobia and conditions are present; that does not mean they need no nutrients or pest protection. Maize's expanding feed and industrial markets change its geography, sometimes making it attractive in irrigated systems rather than only in traditional food-crop areas. The proper comparison uses water demand, growing-season length, price volatility, household nutrition and access to seed and storage [S2,S3].
+
+**Worked decision.** A rainfed farmer considering replacing part of a cotton area with a pulse should compare expected gross revenue, cultivation costs and downside losses in a failed monsoon, not just the average yield. A crop that uses less water may still be economically unattractive if there is no buyer at harvest. Intercropping and rotations can distribute risk but complicate mechanisation and marketing. In Telangana, dryland diversification should be evaluated against local rainfall variability and the quality of market linkages. Avoid claiming that a national campaign for nutritious grains automatically produces local profitability. For examination answers, separate agronomic resilience from economic resilience and show why extension, storage and reliable demand matter.
+
 ### 5. Non-food and commercial crops
 
 Cotton is strongly associated with black-soil tracts but is grown under varied irrigated and rainfed conditions; pest management and water use are major concerns. Sugarcane is a high-biomass, water-demanding crop whose geography reflects irrigation, mills, recovery rates and state policy. Jute is concentrated in humid alluvial eastern areas. Tea, coffee, rubber and spices depend on specialised climates, slopes, labour and processing networks. Commercial crop geography is therefore tightly linked to agro-industry and logistics.
+
+**Processing and perishability.** The location of commercial crops cannot be read from a single soil map. Cotton is often associated with the moisture-retentive black soils of the Deccan, but is not confined to them; seed choice, irrigation, pest pressure and ginning capacity influence actual concentration. Sugarcane is bulky and deteriorates after harvest, encouraging mills near cane-growing belts, while sugar distribution can extend much farther. Tea and coffee require specialised growing environments, yet processing, auctions, branding and export logistics form additional nodes in the value chain. Jute depends on humid growing conditions and links with fibre-processing centres. Each crop therefore has a *farm geography* and a potentially different *industrial geography* [S3].
+
+**Distributional and ecological tests.** Evaluate a sugar region by mill capacity and timely cane payments as well as acreage. A high-value plantation may generate employment but also face labour, slope-management and biodiversity concerns. Cotton yields can rise while farmers face substantial price or pest-management risks. In a Telangana example, distinguish cotton grown in the field, ginning at a local centre and textile manufacturing in a distant urban cluster. Their locations depend on different transport and input constraints. The strongest mains answer compares climate and soils, raw-material characteristics, market and infrastructure, and the costs borne by growers, workers and local ecosystems.
 
 ### 6. Agro-climatic regionalisation
 
@@ -73,15 +93,27 @@ A modern policy answer should combine resource-use efficiency with farmer income
 
 Indian agriculture is increasingly shaped by horticulture, livestock, fisheries, mechanisation, digital services, farmer organisations, value chains and food processing. Production records can coexist with farm-income stress because costs, price volatility, land fragmentation and climate risk affect profitability. In 2025–26, the government’s Third Advance Estimates placed foodgrain output at about 376.56 million tonnes, illustrating rising aggregate production. For mains answers, pair production gains with resource sustainability and value-chain questions.
 
+**Reading a trend correctly.** 'Diversification' can mean movement from cereals to horticulture, from low-value to high-value activities, or from crop farming toward dairying and allied work. These are not interchangeable. Horticulture may yield high value per hectare but often requires grading, refrigeration, processing and fast transport. Mechanisation can reduce labour requirements for a particular task while raising demand for repair, custom-hiring and logistics services. Digital marketplaces may widen information access without removing grading, quality assurance, transport or buyer-power constraints. Evaluate trends through area, yield, prices, net income and risk rather than an undated claim that modernisation benefits everyone [S2,S3].
+
+**Data discipline.** The Ministry of Agriculture's 27 May 2026 Third Advance Estimates reported 376.563 million tonnes of foodgrains for 2025–26 [S4]. This is a dated *estimate* for a specified crop year, not a final census of every harvest or a measure of nutritional security. Do not use it to assert that groundwater conditions improved or that farm incomes rose. Production can grow alongside higher costs and uneven distribution. In Telangana, compare irrigation-dependent paddy growth with dryland crop choices and local processing opportunities. A good answer states the reporting date, defines the measure, then evaluates benefits and externalities. The most important trend is not merely higher gross output, but whether agricultural transformation is economically viable, climate-resilient and inclusive.
+
 ### 9. Irrigation geography and source mix
 
 Canals are prominent in suitable plains and command areas; wells and tube wells offer flexible local control but can deplete aquifers; tanks have particular importance in peninsular landscapes; large reservoirs provide multi-purpose storage but create displacement, sediment and ecological questions. Irrigation’s development effect depends on reliability, drainage, equitable distribution, crop choice and maintenance. More irrigation is not automatically better if it encourages unsustainable groundwater abstraction or waterlogging.
 
 **Irrigation risk and distribution.** Canal supply depends on reservoir inflow, release schedules, conveyance and tail-end access; hard-rock groundwater depends on recharge and connected fractures. Tanks can store surface water and affect local recharge, but their impact varies with geology. Two farms receiving similar rainfall can have different water reliability because one has a working field channel and the other depends on a falling borewell. Policy should measure delivery reliability, crop water demand and aquifer balance, not merely declared irrigated hectares. A pumping subsidy may lower private costs yet increase basin withdrawals. [S2]
 
+**Surface water and groundwater are not substitutes everywhere.** A canal can deliver water across a designed command, while a tank stores seasonal runoff and a well taps a locally specific aquifer. These systems differ in reliability, conveyance losses, governance and downstream effects. Canal water can also recharge groundwater through seepage; therefore 'lining every channel always saves basin water' is not a sound general rule. In hard-rock terrains, wells depend strongly on weathered and fractured zones, so adjacent borewells may have very different yields. CGWB's National Aquifer Mapping programme explicitly studies geometry, properties, quality and sustainable management [S9].
+
+**A water-budget exercise.** Let annual usable recharge be 100 units and withdrawals 120 units. Even if a farmer switches to a device that applies less water per hectare, aquifer depletion can continue if total irrigated acreage expands and withdrawals remain above recharge. Conversely, reducing pumping in one village may affect return flows and downstream users. A proper water budget identifies rainfall, recharge, surface imports, pumping, evapotranspiration, return flows and environmental needs, with uncertainty ranges. For Telangana, combine tank management and groundwater monitoring rather than counting borewells as an index of progress. Examine tail-end access, energy incentives and water quality as well as total irrigation potential. The outcome measure should be reliable and equitable irrigation *without persistent aquifer depletion*.
+
 ### 10. Major irrigation projects and multipurpose logic
 
 Large river-valley projects combine irrigation, hydropower, flood moderation, urban supply and sometimes navigation. Their benefits are geographically distributed through reservoirs, canals and command areas, while their costs may concentrate among displaced communities and altered downstream ecosystems. Performance evaluation should consider actual irrigated area, water-delivery efficiency, sedimentation, rehabilitation, ecological flows and long-term maintenance—not only the size of the dam.
+
+**Project typology matters.** A multipurpose reservoir may supply irrigation, drinking water, hydropower and flood moderation, but these objectives can compete. Flood moderation often requires keeping some storage empty before heavy inflows, whereas irrigation users favour conserving water for dry months. Lift irrigation uses energy to raise water above the natural hydraulic gradient; gravity-fed canals use elevation differences, but both require maintenance and equitable distribution. A declared command area is a planning measure and should not be confused with land actually irrigated in a particular season [S2,S10].
+
+**Concrete historical case.** NCERT's Indira Gandhi Canal case describes the transfer of water into Rajasthan's arid command, increased cultivated area and changes in cropping, alongside waterlogging and salinity where intensive irrigation and drainage management were inadequate [S11]. This is a counterexample to the claim that a large canal produces only benefits. In Telangana, assess major projects using storage and conveyance reliability, lift energy demand where relevant, resettlement and environmental impacts, command distribution and groundwater interaction. Compare proposed irrigation potential with verified utilisation rather than citing the project's name as proof of agricultural transformation. For a mains answer, use the sequence: project objective → physical design → command and beneficiaries → competing water uses → environmental and fiscal constraints → measurable outcomes.
 
 ### 11. Command Area Development
 
@@ -89,9 +121,17 @@ Command Area Development aims to convert created irrigation potential into effec
 
 **Created potential versus realised irrigation.** A dam does not automatically deliver water to each plot. Distributaries, field channels, land levelling, drainage, rotational schedules and maintenance matter, especially for tail-end holdings. Irrigation expansion without drainage can create waterlogging or salinity. Compare designed command area, area actually receiving timely water, farmer income and water productivity. Equity requires monitoring allocation as well as physical construction. [S2]
 
+**The last-mile problem.** Constructing a dam and main canal does not ensure that water reaches each cultivated plot. The official Command Area Development and Water Management programme distinguishes on-farm works (field channels, land levelling, drainage and correction of deficiencies) from non-structural measures such as Water Users' Associations, training and participatory irrigation management [S10]. It began in 1974–75 and was subsequently reorganised; do not confuse this history with the launch date of a particular later scheme. Without a functioning outlet and field channel, a project can report irrigation potential created while farmers remain dependent on wells.
+
+**Worked distribution example.** Imagine a distributary with head, middle and tail villages. If head-end users take disproportionate water, the tail may receive late or insufficient turns even though the total release looks adequate. Rotational delivery rules, transparent measurement and dispute resolution can matter as much as canal capacity. Poor drainage may cause waterlogging or salinity; lining that reduces seepage may also alter local recharge. NCERT's Indira Gandhi Canal case documents both the productivity gains and ecological problems of canal expansion [S11]. A complete assessment asks who receives water, at what time, at what cost, and with what effect on soils and aquifers. In Telangana, the same framework can be applied to command areas of large irrigation projects without assuming uniform outcomes across villages.
+
 ### 12. Industrial localisation: a multi-factor decision
 
 Industry location reflects raw materials, energy, water, labour, capital, markets, land, transport, agglomeration economies, policy and increasingly digital connectivity. The weight of each factor differs by industry. Heavy bulk industries often retain material and freight sensitivities; high-value services may prioritise skilled labour and connectivity; food processing often benefits from proximity to perishable inputs. Modern logistics can reduce, but rarely eliminate, geographical constraints.
+
+**A location decision has several stages.** A factory first needs technically viable production: raw materials, energy, water, land, labour and compliance. It then needs a commercially viable supply chain linking suppliers to consumers. A bulky, low-value input increases the importance of transport cost; a high-value, skill-intensive service may place greater weight on universities, skilled labour, connectivity and client networks. Economies of agglomeration arise when firms share suppliers, specialised workers and information, but congestion, pollution and rising land prices can eventually offset these gains. Thus an industrial cluster is not explained solely by a subsidy or a road [S2,S3].
+
+**Comparative application.** An integrated steel plant may weigh ore, coal, power, water and freight access; a food-processing plant considers farm catchment, perishability and cold chain; an IT firm evaluates talent and business networks. In Telangana, Hyderabad's knowledge-industry concentration and district-level agro-processing opportunities should be analysed with different location models. A corridor can reduce logistics costs without ensuring that local workers acquire the required skills. A strong mains response compares raw-material orientation, market orientation and agglomeration, then asks whether jobs, pollution burdens and value addition are distributed equitably. This avoids the common error of treating all industries as if they followed the same locational logic.
 
 ### 13. Iron and steel geography
 
@@ -248,77 +288,77 @@ Large transport and industrial investments can produce national growth while con
 
 ## Part E — 25 original explained four-option MCQs (NOT official PYQs)
 
-### Q1. Which combination most accurately describes the Green Revolution?
+### Q1. Which explanation best accounts for the uneven regional uptake of the Green Revolution?
 
-A. Only new seed varieties
-B. Seeds, irrigation, fertiliser, credit, procurement and extension
-C. Only land redistribution
-D. Only mechanisation
+A. Seed genetics alone, regardless of irrigation and markets  
+B. A combined package of seed, water, inputs, credit, extension and procurement  
+C. Procurement policy alone, without agronomic change  
+D. Irrigation expansion alone, with unchanged crop technology  
 
-**Answer: B.** The production breakthrough was institutional and technological, not a single-input change.
+**Answer: B.** The breakthrough depended on complementary agronomic and institutional inputs; the other alternatives isolate one component and cannot explain the combined change. **Source anchors:** [S2,S3]. Key corroborated at textbook level; distractors require further editorial testing.
 
-### Q2. Why are sugar mills usually located near cane-growing areas?
+### Q2. Why do sugar mills tend to cluster within cane-growing regions?
 
-A. Sugarcane is bulky and loses quality after harvest
-B. Sugarcane requires sea ports only
-C. Sugar mills need iron ore
-D. Sugar is not transported by road
+A. Harvested cane is bulky and time-sensitive, raising the cost of long-distance raw-cane movement  
+B. Sugarcane can grow only within a fixed radius of a mill  
+C. Refined sugar is more perishable than freshly cut cane  
+D. The main requirement is proximity to iron-ore deposits  
 
-**Answer: A.** Cane’s bulk and perishability strongly favour processing near the raw-material base.
+**Answer: A.** Raw cane's transport cost and deterioration favour nearby processing; mills can ship processed sugar much farther. **Source anchors:** [S3]. Key source-correlated; distractors not independently field-tested.
 
-### Q3. Which sector is generally least constrained by proximity to bulky raw materials?
+### Q3. Which location factor generally weighs more heavily for an IT-enabled service centre than for a cement clinker plant?
 
-A. Integrated steel
-B. Cement clinker
-C. IT-enabled services
-D. Sugar milling
+A. Access to limestone deposits  
+B. Proximity to bulky low-value mineral inputs  
+C. Availability of skilled labour and reliable digital infrastructure  
+D. Minimising freight costs for inbound rock  
 
-**Answer: C.** IT primarily depends on skills, digital connectivity and urban-business ecosystems.
+**Answer: C.** A knowledge-intensive service is primarily constrained by skills and connectivity; cement clinker production has strong mineral and energy inputs. **Source anchors:** [S2,S3]. Key source-correlated; distractor discrimination pending.
 
-### Q4. A demographic dividend is most likely when:
+### Q4. Which condition is necessary for a favourable working-age population share to become an economic dividend?
 
-A. The population is young regardless of jobs
-B. Working-age share rises and health, skills and employment are strong
-C. Fertility is high forever
-D. Migration is prohibited
+A. A sustained increase in dependency ratios  
+B. Productive employment supported by health, education and skills  
+C. A prohibition on inter-state migration  
+D. Permanently high fertility regardless of job creation  
 
-**Answer: B.** Age structure creates only potential; human capital and productive employment convert it into gains.
+**Answer: B.** Age structure creates potential, not guaranteed output; capabilities and jobs are the transmission mechanism. **Source anchors:** [S2,S6]. Key source-correlated; full item audit pending.
 
-### Q5. Command Area Development primarily seeks to:
+### Q5. Which intervention most directly addresses the gap between irrigation potential *created* and potential *used*?
 
-A. Create maritime EEZ
-B. Improve farm-level use of irrigation potential
-C. Build only airports
-D. Expand mineral reserves
+A. Enlarging a port's container terminal  
+B. Completing field channels, drainage, land levelling and participatory water management  
+C. Increasing reservoir storage without connecting farm outlets  
+D. Reclassifying unirrigated fields as command area  
 
-**Answer: B.** Field channels, drainage, land development and water management convert stored/released water into productive irrigation.
+**Answer: B.** CADWM explicitly includes last-mile on-farm works and water-user participation; the other actions do not by themselves deliver water to fields. **Source anchors:** [S10]. Correct key checked against the official CADWM programme description; distractors still require discrimination testing.
 
-### Q6. Which mode is especially suited to high-volume long-distance bulk freight?
+### Q6. A producer must move a large, regular volume of bulk freight over a long inland distance. Which option most plausibly offers strong scale economies when a suitable network exists?
 
-A. Railways
-B. Only motorcycles
-C. Local footpaths
-D. None
+A. Rail freight  
+B. Individual small road consignments without consolidation  
+C. Repeated short-distance air freight  
+D. Separate local motorcycle deliveries  
 
-**Answer: A.** Rail has strong economies for bulk and long-distance movement.
+**Answer: A.** Rail can consolidate high-volume flows over long distances; suitability still depends on terminals, network access and last-mile connections. **Source anchors:** [S2,S5]. Key source-correlated; item discrimination pending.
 
-### Q7. Industrial corridors are best understood as:
+### Q7. Which feature most clearly distinguishes a planned industrial corridor from an isolated highway widening project?
 
-A. Single factories on a road
-B. Transport-linked networks of industrial nodes, logistics and urban infrastructure
-C. Agricultural climate regions
-D. Only tax exemptions
+A. A guarantee that every district receives equal investment  
+B. Integrated freight connectivity, industrial nodes and supporting urban or utility infrastructure  
+C. A complete ban on other transport modes  
+D. Automatic replacement of local land-use and environmental procedures  
 
-**Answer: B.** Corridor strategy combines transport backbones, nodes and enabling infrastructure.
+**Answer: B.** A corridor strategy combines connected production and logistics nodes; a transport backbone alone does not establish such a system. **Source anchors:** [S2,S5]. Key source-correlated; full distractor audit pending.
 
-### Q8. Rapid urban growth at the metropolitan fringe often creates which planning problem?
+### Q8. Which governance difficulty is especially likely when metropolitan built-up areas expand across municipal boundaries?
 
-A. Governance boundaries lag behind built-up expansion
-B. No land-use change
-C. Zero commuting
-D. Declining infrastructure demand
+A. All land-use decisions become automatically unified  
+B. Commuting and drainage remain entirely inside one jurisdiction  
+C. Service obligations disappear once villages become urban  
+D. Transport, drainage and land-use responsibilities become fragmented across authorities  
 
-**Answer: A.** Peri-urban land conversion can outpace municipal boundaries, services and planning.
+**Answer: D.** Peri-urban growth often crosses administrative jurisdictions faster than infrastructure planning is coordinated. **Source anchors:** [S2,S8]. Key source-correlated; distractor review pending.
 
 ### Q9. Which observation shows why drip efficiency need not equal basin water savings?
 
@@ -551,5 +591,8 @@ D. Assuming youth alone creates economic growth
 | S6 | [UNDP HDI methodology](https://hdr.undp.org/data-center/human-development-index) | Directly checked health, education and income dimensions. |
 | S7 | [Marrakesh Agreement Article III](https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm) | Primary treaty text checked: WTO functions. |
 | S8 | [MoSPI Census 2011 urban definitions](https://www.mospi.gov.in/sites/default/files/publication_reports/sarvekshna_101.pdf) | Statutory and census towns; 2011 definitions are not 2026 census data. |
+| S9 | [CGWB National Aquifer Mapping and Management](https://cgwb.gov.in/en/aquifer-mapping) | Official programme description directly checked 26 Oct 2026: aquifer geometry, hydraulic properties, quality, sustainability and management; national aggregate figures on this page refer to their stated assessment years, not necessarily 2026. |
+| S10 | [Ministry of Jal Shakti CADWM programme](https://pmksy.mowr.gov.in/cadwm/CadwmProject.aspx) | Official programme description directly checked 26 Oct 2026: 1974–75 origins, on-farm field channels/levelling/drainage and Water Users' Associations. Do not treat this as a site-specific evaluation. |
+| S11 | [NCERT India: People and Economy, Planning and Sustainable Development, Chapter 6](https://ncert.nic.in/textbook/pdf/legy206.pdf) | Original NCERT 2026–27 chapter directly read 26 Oct 2026, PDF pp7–8 (printed pp72–73): Indira Gandhi Canal command gains, waterlogging, salinity and proposed water-management measures. Historical case, not current project performance data. |
 
 **Limitations:** R1 syllabus mapping checked; R2 consolidation requires human deduplication; R3 many concepts remain shallow; R4 source checks incomplete; R5 25 questions drafted but not externally audited; R6 six answers drafted, source review pending; R7 diagrams require accuracy review; R8 PDF/public browser not yet verified. **R9 NOT STARTED. Zero academic approvals.**
