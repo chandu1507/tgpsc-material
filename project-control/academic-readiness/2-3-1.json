@@ -2,7 +2,7 @@
   "topic_id": "2-3-1",
   "title": "Physical Geography of India: Monsoon, Resources and Water",
   "date": "2026-10-26",
-  "status": "ASSESSED_REBUILD_REQUIRED",
+  "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -19,17 +19,40 @@
   "gate_status": {
     "R1": "IN_PROGRESS",
     "R2": "IN_PROGRESS",
-    "R3": "BLOCKED",
-    "R4": "NOT_STARTED",
-    "R5": "BLOCKED",
-    "R6": "BLOCKED",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Actual archive QA 26 Oct 2026: project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json. 15-page original PDF (5958 extracted words) preserved; 25 detailed sections, 24 under 150 words; separate 1714-word depth repair exists; only 10 original explained MCQs, four mains answers (245/222/255/250 words), no SVG diagrams, zero authenticated official PYQs. Existing complete-notes.md 8210 words not shown to match original PDF. R1 direct official syllabus verification pending.",
-  "next_action": "Rebuild ONE integrated edition using preserved original and existing repair, with exact official syllabus mapping, textbook depth, 25+ verified MCQs, six 200–250-word structured mains answers, original diagrams and full publication QA.",
+  "evidence": "26 Oct 2026: original and prior repair consolidated into one 25-section editable student edition; 25 original explained MCQs (10 prior + 15 new), six 200–250-word structured mains answers (four preserved and two new), two original SVG process diagrams. CI-generated searchable PDF 25 pages, SHA256 8ec8102f8afa72695f2e30b8b47cee2bb7351c7684f166628b62f4743e901261, zero text-empty pages. Offline index updated to link integrated PDF and Markdown; legacy original PDF remains separately linked. Human academic and full-resolution PDF checks, source-level fact validation, GitHub ZIP artifact check still outstanding. R1 official primary PDF returned 403 this run; do not PASS.",
+  "next_action": "Verify primary official TGPSC syllabus scan, manually edit for repetition and source fidelity, independently check all 25 MCQ keys/distractors and six mains answers, inspect 25 rendered pages at full resolution, verify packaging ZIP CRC and public portal usability; do not mark any gate PASS prematurely.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_report": "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
-  "original_pdf_sha256": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879"
+  "original_pdf_sha256": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879",
+  "integrated_edition": {
+    "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1/source/integrated-student-edition-2026-10-26.md",
+    "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1/source/integrated-student-edition-2026-10-26.pdf",
+    "renderer": "scripts/render_geography_integrated_student_edition.py",
+    "workflow": ".github/workflows/render-topic-2-3-1-integrated.yml",
+    "pdf_pages": 25,
+    "pdf_sha256": "8ec8102f8afa72695f2e30b8b47cee2bb7351c7684f166628b62f4743e901261",
+    "pdf_text_words": 11501,
+    "concepts": 25,
+    "original_explained_mcqs": 25,
+    "structured_mains_answers": 6,
+    "mains_body_word_counts": [
+      245,
+      222,
+      248,
+      250,
+      201,
+      222
+    ],
+    "original_svg_diagrams": 2,
+    "offline_portal_link_added": true
+  },
+  "integrated_build_preflight": "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json"
 }
