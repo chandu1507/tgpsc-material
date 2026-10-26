@@ -93,7 +93,7 @@
   "assessed_rebuild_required": [
     "2-3-5"
   ],
-  "last_readiness_update": "2026-10-27: Fresh main/Actions and /Mounika reconciled. Topic 2-3-4 four source-led expansions §§4/5/6/9, PDF renderer 40382863495 SUCCESS, 19 pages SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467, R8 IN_PROGRESS; Topic 2-3-5 objective assessment published, ASSESSED_REBUILD_REQUIRED, 68 unassessed.",
+  "last_readiness_update": "2026-10-27: Fresh main/Actions and /Mounika reconciled. Topic 2-3-4 four source-led expansions §§4/5/6/9, PDF renderer 40382863495 SUCCESS, 19 pages SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467, R8 IN_PROGRESS; Topic 2-3-5 objective assessment published, ASSESSED_REBUILD_REQUIRED, 68 unassessed. Final Topic2-3-4 post-render package 40383038864 artifact 12679083916 downloaded/CRC checked; footer corrected; R8 remains IN_PROGRESS.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -102,6 +102,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-render-qa.json",
     "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json",
@@ -125,7 +126,6 @@
     "project-control/academic-readiness/2-2-4-official-syllabus-r1-verified.json",
     "project-control/academic-readiness/2-2-5-depth-mcq-preflight-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-primary-source-recovery-2026-10-26.md",
-    "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-mcq19-corrected-artifact-qa-2026-10-26.json"
+    "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json"
   ]
 }
