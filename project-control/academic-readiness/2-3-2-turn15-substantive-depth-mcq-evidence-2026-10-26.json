@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-2",
+  "kind": "actual_editorial_revision_and_source_spot_checks_NOT_academic_approval",
+  "prior_published_baseline": {
+    "integrated_markdown_words": 8154,
+    "sections": 40,
+    "under_150": 30,
+    "under_300": 40,
+    "mcqs": 25,
+    "mains": 6,
+    "source_entries": 8
+  },
+  "github_source_commits": [
+    "a579486673bd0fa9fa824ec51604afcab0da1c0a",
+    "ed816f10228661826e42ccc67e4ef201f464c3c2",
+    "da35b76c3e9f2c7bb5eacb59757fb389ff1d44b1"
+  ],
+  "integrated_markdown_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+  "revised_existing_sections": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    20,
+    21,
+    22,
+    24,
+    25,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "untouched_sections": [
+    6,
+    7,
+    18,
+    19,
+    23,
+    26,
+    28,
+    40
+  ],
+  "new_editorial_checks": {
+    "numbered_concepts": 40,
+    "under_150": 0,
+    "under_200": 0,
+    "under_300": 35,
+    "integrated_markdown_approx_words": 14408,
+    "word_count_method": "Unicode letter/number token count of integrated Markdown; word count does not establish quality",
+    "original_explained_mcqs": 25,
+    "mcq_options_each": 4,
+    "mcq_keys": {
+      "A": 6,
+      "B": 8,
+      "C": 6,
+      "D": 5
+    },
+    "mcqs_distractors_rewritten": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "mcqs_not_yet_independently_fully_audited": 25
+  },
+  "primary_or_official_sources_directly_read": [
+    {
+      "id": "S9",
+      "url": "https://cgwb.gov.in/en/aquifer-mapping",
+      "scope": "CGWB aquifer mapping programme, geometry/quality/sustainable management, not a district-specific groundwater estimate"
+    },
+    {
+      "id": "S10",
+      "url": "https://pmksy.mowr.gov.in/cadwm/CadwmProject.aspx",
+      "scope": "Ministry CADWM structural and participatory irrigation components, programme history"
+    },
+    {
+      "id": "S11",
+      "url": "https://ncert.nic.in/textbook/pdf/legy206.pdf",
+      "scope": "NCERT Indira Gandhi Canal case, PDF pages 7-8 (printed 72-73), waterlogging and salinity; historical case"
+    },
+    {
+      "id": "S12",
+      "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=157735&id=157735&lang=1&reg=31",
+      "scope": "2026 official multimodal planning and last-mile policy account; not proof of project outcome"
+    },
+    {
+      "id": "S13",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2167224&lang=2&noshow=1&reg=48",
+      "scope": "16 September 2025 official National Logistics Policy account"
+    },
+    {
+      "id": "S6",
+      "url": "https://hdr.undp.org/data-center/human-development-index",
+      "scope": "UNDP HDI dimensions and limitations"
+    },
+    {
+      "id": "S7",
+      "url": "https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm",
+      "scope": "Marrakesh Agreement Article III, WTO functions"
+    }
+  ],
+  "source_correspondence_spot_checks": [
+    {
+      "mcq": 5,
+      "key": "B",
+      "source": "S10",
+      "finding": "direct official CADWM structural/participatory works support correct option",
+      "limit": "other options not independently item-tested"
+    },
+    {
+      "mcq": 17,
+      "key": "C",
+      "source": "S7",
+      "finding": "Article III administers agreements and provides negotiations forum",
+      "limit": "other options not independently item-tested"
+    },
+    {
+      "mcq": 21,
+      "key": "C",
+      "source": "S6",
+      "finding": "HDI comprises health, education, living standards",
+      "limit": "other options not independently item-tested"
+    }
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+  "blocking_requirements": [
+    "35 concepts still below 300 words; human qualitative full-page review pending",
+    "All 25 MCQs need item-level factual and distractor audit; 3 source-correspondence checks are not independent validation",
+    "Six mains answers need claim-level verification",
+    "R2 editorial deduplication/contradiction sweep pending",
+    "R8 post-render PDF artifact, visual and public-browser QA pending"
+  ],
+  "academic_approved": false,
+  "external_reviewer": null,
+  "project_scope_topics": 75
+}
