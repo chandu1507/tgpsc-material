@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-2-5",
+  "review_type": "item_by_item_internal_source_correspondence_review_NOT_external_academic_audit",
+  "scope": "All 30 MCQs read; direct web retrieval for selected historical claims; no complete external historian review.",
+  "total_items": 30,
+  "source_correspondence_checked": 10,
+  "still_lacking_direct_claim_verification": 20,
+  "corrected_in_integrated_markdown": {
+    "mcq19": "Original stem asked what Standstill Agreement did NOT settle but answer A described what it DID do. Replaced stem and options, preserved factually supported key A.",
+    "mcq17": "Added original enacted Indian Independence Act 1947 s7(1)(b) S16.",
+    "mcq21": "Clarified 17 Sep ceasefire versus 18 Sep formal surrender.",
+    "mcq28": "Added States Reorganisation Act 1956 s3 S17."
+  },
+  "rows": [
+    {
+      "mcq": 1,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Ramji Gond original gazetteer and Bheem original police/forest records unavailable; broad period contrast plausible but not primary verified."
+    },
+    {
+      "mcq": 2,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Jodeghat official state memorial source listed in register, not directly rechecked this run."
+    },
+    {
+      "mcq": 3,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Translation straightforward; attribution of slogan to Bheem's own contemporary speech remains unverified."
+    },
+    {
+      "mcq": 4,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Methodological item, not a date fact; original gazetteer unavailable."
+    },
+    {
+      "mcq": 5,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Vetti concept requires verified authoritative reference at claim level."
+    },
+    {
+      "mcq": 6,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Jagir/khalsa distinctions require authoritative administrative historical source."
+    },
+    {
+      "mcq": 7,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Sangham effect interpretive; publisher abstracts insufficient for key-level proof."
+    },
+    {
+      "mcq": 8,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "secondary_commemoration",
+        "source": "https://telanganatoday.com/telangana-armed-struggle-hero-doddi-komaraiahs-birth-death-anniversaries-to-be-celebrated-officially",
+        "note": "July 4 and Kadavendi appear in contemporary reporting on state order; original 1946 record not inspected."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 9,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "July 1946 escalation interpretation needs full scholarly text or primary movement records."
+    },
+    {
+      "mcq": 10,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Andhra Mahasabha institutional trajectory requires direct conference proceedings or full scholarship."
+    },
+    {
+      "mcq": 11,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Interpretive party-peasant relationship needs full peer-reviewed source."
+    },
+    {
+      "mcq": 12,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Chakali Ailamma dispute needs original documentation or detailed scholarly evidence."
+    },
+    {
+      "mcq": 13,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Women's roles require full source verification and differentiated evidence."
+    },
+    {
+      "mcq": 14,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Category distinction defensible; MIM and Razakar organization details need full historical source."
+    },
+    {
+      "mcq": 15,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Qasim Razvi organizational role requires primary or full scholarly verification."
+    },
+    {
+      "mcq": 16,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Razakar status relative to regular institutions requires full historical source."
+    },
+    {
+      "mcq": 17,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "primary_statute",
+        "source": "https://www.legislation.gov.uk/ukpga/Geo6/10-11/30/body/enacted",
+        "note": "Section 7(1)(b) confirms lapse of British suzerainty."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 18,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "contemporaneous_statement_reproduced",
+        "source": "https://gsl.lbsnaa.gov.in/opac-tmpl/bootstrap/Books/116572.pdf",
+        "note": "Patel's Nov 29 statement says signed that morning; actual signed agreement not inspected."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 19,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "contemporaneous_statement_reproduced",
+        "source": "https://gsl.lbsnaa.gov.in/opac-tmpl/bootstrap/Books/116572.pdf",
+        "note": "Patel describes temporary continuation excluding paramountcy; original MCQ had logically contradictory negative stem; corrected to positive scope question."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 20,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "participant_retrospective_and_secondary",
+        "source": "https://www.cambridge.org/core/books/abs/telengana-peoples-struggle-and-its-lessons/introduction/05AEDB22A65BCE6D1897AF37D3FDA873",
+        "note": "Sundarayya publisher excerpt identifies September 13 military intervention; corroborated by historical reporting."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 21,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "secondary_reporting",
+        "source": "https://indianexpress.com/article/explained/explained-history/75th-anniversary-operation-polo-police-action-hyderabad-8938202/lite/",
+        "note": "Nizam announced ceasefire Sep 17, formal surrender Sep 18; explanation clarified."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 22,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Terminological/military distinction supported by reporting but original government usage and operation order unverified."
+    },
+    {
+      "mcq": 23,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "participant_retrospective",
+        "source": "https://www.cambridge.org/core/books/abs/telengana-peoples-struggle-and-its-lessons/introduction/05AEDB22A65BCE6D1897AF37D3FDA873",
+        "note": "Participant retrospective dates withdrawal 1951, later than Sep 1948 military intervention."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 24,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "participant_retrospective",
+        "source": "https://www.cambridge.org/core/books/abs/telengana-peoples-struggle-and-its-lessons/introduction/05AEDB22A65BCE6D1897AF37D3FDA873",
+        "note": "Publisher preview directly gives Oct 21 1951; original 1951 withdrawal announcement not inspected."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 25,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Sunderlal original inquiry unavailable; scholarly treatment abstract-only."
+    },
+    {
+      "mcq": 26,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Methodological advice sound but report methods and precise estimates cannot be verified."
+    },
+    {
+      "mcq": 27,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Post-1948 administrative timeline supported by abstracts, detailed dates not primary-checked."
+    },
+    {
+      "mcq": 28,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "primary_statute",
+        "source": "https://www.mha.gov.in/sites/default/files/The%20State%20Reorganisation%20Act%201956_270614.pdf",
+        "note": "Section 3 specifies transferred Hyderabad districts and Andhra Pradesh name."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 29,
+      "review": "SOURCE_CORROBORATED_WITH_LIMITATIONS",
+      "evidence": {
+        "type": "primary_2026_commemoration_only",
+        "source": "https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-telangana-praja-palana-dinotsavam-2026-celebrations-at-public-gardens-hyderabad/",
+        "note": "Direct primary source of 2026 commemoration, NOT 1948 event."
+      },
+      "remaining_gap": null
+    },
+    {
+      "mcq": 30,
+      "review": "INTERNAL_LOGIC_ONLY_PENDING_CLAIM_VERIFICATION",
+      "evidence": null,
+      "remaining_gap": "Synthesis requires cross-chapter scholarly review and cannot be source-verified as one fact."
+    }
+  ],
+  "originals_preserved": true,
+  "source_caveats": [
+    "Signed original 1947 agreement not retrieved; Patel contemporary statement is later reproduced.",
+    "October 1951 original CPI withdrawal announcement not retrieved; participant retrospective verified.",
+    "Original Sunderlal report and Gond records not retrieved.",
+    "Publisher abstracts are NOT substitutes for full article evidence."
+  ],
+  "gate_status": "R5_IN_PROGRESS",
+  "academic_status": "NOT_APPROVED",
+  "external_reviewer": null
+}
