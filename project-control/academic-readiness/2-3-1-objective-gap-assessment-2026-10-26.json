@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-1",
+  "title": "Physical Geography of India: Monsoon, Resources and Water",
+  "scope": "Actual downloaded GitHub publication archive artifact 12636011656, run 40290267086, not inferred from checkpoint text.",
+  "academic_status": "NOT_APPROVED",
+  "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+  "published_original_pdf": {
+    "pages": 15,
+    "extracted_text_words": 5958,
+    "sha256": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879"
+  },
+  "source_inventory": {
+    "complete_notes_md_words": 8210,
+    "detailed_notes_md_words": 3093,
+    "numbered_detailed_sections": 25,
+    "detailed_sections_under_150_words": 24,
+    "detailed_sections_under_300_words": 25,
+    "prior_depth_repair_md_words": 1714,
+    "prior_depth_repair_sections": 10,
+    "prior_repair_sections_under_150_words": 4,
+    "original_explained_mcqs": 10,
+    "complete_mains_answers": 4,
+    "mains_answer_body_word_counts": [
+      245,
+      222,
+      255,
+      250
+    ],
+    "answers_in_required_200_250_range": 3,
+    "authenticated_official_mcqs": 0,
+    "authenticated_official_mains_pyqs": 0,
+    "svg_diagrams": 0
+  },
+  "critical_findings": [
+    "Prior depth-repair supplement exists despite checkpoint production_review=pending. Reconcile checkpoint; do not erase it.",
+    "Complete-notes.md contains 8210 words while preserved original PDF extracts 5958 words; cannot assume PDF is integrated or synchronized with master.",
+    "24 of 25 detailed-note concepts below 150 words; all 25 below 300. Additional depth repair itself has 4/10 under 150 words.",
+    "Only 10 original explained MCQs against required minimum 25; source-level keys/distractors not independently checked.",
+    "Only four mains answers; one is 255 words, exceeding 200–250 requirement; need at least six verified complete answers.",
+    "Visual-learning.md has text-based diagram descriptions, but no original SVG files in topic folder.",
+    "Syllabus-index.md includes a coverage map but direct original 2024 commission item not independently verified in this run.",
+    "No authenticated official PYQ claims; preserve this honest labeling."
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "NOT_STARTED",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
+  },
+  "next_actions": [
+    "Fetch and quote exact Paper II Unit III Topic 1 official syllabus primary PDF; verify every atomic clause.",
+    "Reconcile complete-notes.md, detailed-notes.md and monsoon-resources repair into ONE nonrepetitive integrated student edition.",
+    "Expand all major 25 concepts to genuine textbook depth; do not pad word counts.",
+    "Add 15+ new four-option original MCQs and source-check all keys and distractors.",
+    "Write at least two more complete 200–250-word structured mains answers; revise existing 255-word answer.",
+    "Produce diagrams, maps, timelines and current-affairs register with dated sources.",
+    "Generate integrated editable master and PDF, visually inspect pages, preserve original PDF SHA, verify ZIP CRC and portal links."
+  ],
+  "external_reviewer": null,
+  "independent_academic_approval": false
+}
