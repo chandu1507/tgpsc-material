@@ -6,10 +6,10 @@
     "2-2-5",
     "2-3-1"
   ],
-  "not_assessed_count": 72,
+  "not_assessed_count": 71,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics; active 2-2-4/2-2-5/2-3-1; 72 NOT_ASSESSED, R1 PASS for three, ZERO R1–R8 fully ready, ZERO independently approved. Topic 2-3-1 Turn12 nine shallow narrative concepts expanded; 24 explanatory concepts >=300 words, editorial synthesis §25=116, length NOT academic approval. Official IMD 30 Sep final 2026 report and NDMA source integrated; post-render GitHub artifact 12648147372 downloaded CRC PASS, 1464 files, 75 original PDFs, 75 status JSON, 461 links zero broken, 32-page PDF SHA256 363188bf714065c91d48bfc992b17456781852582c45c24cf83ed1245666c487. R2–R8 IN_PROGRESS; public-browser and independent MCQ review pending.",
+  "warning": "EXACTLY 75 topics: 3 IN_PROGRESS (2-2-4/2-2-5/2-3-1), 1 ASSESSED_REBUILD_REQUIRED (2-3-2), 71 NOT_ASSESSED; 3 R1 PASS, ZERO R1-R8 fully ready, ZERO independent approvals. Topic 2-3-2 prior supplement exists; original PDF preserved; no integrated edition yet.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -87,8 +87,10 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26 Topic 2-3-1 primary syllabus R1 PASS, 27-page CI PDF synchronized, depth sections 10/17/24 expanded; still NOT ready.",
+  "assessed_rebuild_required": [
+    "2-3-2"
+  ],
+  "last_readiness_update": "2026-10-26 Topic 2-3-2 objectively assessed from actual 15-page original, 3-page prior repair and sources; 40 sections (39 <150 words), 8 MCQs, 4 mains, zero SVG; rebuild required, not approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -96,6 +98,7 @@
   ],
   "verified_R1_pass_count": 3,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-final-integrated-artifact-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-official-syllabus-mapping-preflight-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-integrated-artifact-qa-2026-10-26.json",
