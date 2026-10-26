@@ -14,7 +14,9 @@
   "github_source_commits": [
     "a579486673bd0fa9fa824ec51604afcab0da1c0a",
     "ed816f10228661826e42ccc67e4ef201f464c3c2",
-    "da35b76c3e9f2c7bb5eacb59757fb389ff1d44b1"
+    "da35b76c3e9f2c7bb5eacb59757fb389ff1d44b1",
+    "c6e8a3a09ca9aae075bd99938e7fb52e298726e6",
+    "3a64175b4ceadfe180b83a3821fe0fd2d5fb91ec"
   ],
   "integrated_markdown_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
   "revised_existing_sections": [
@@ -84,9 +86,33 @@
       5,
       6,
       7,
-      8
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
     ],
-    "mcqs_not_yet_independently_fully_audited": 25
+    "mcqs_not_yet_independently_fully_audited": 25,
+    "mcq_alternatives_second_pass": 22,
+    "correct_key_distribution": {
+      "A": 6,
+      "B": 8,
+      "C": 6,
+      "D": 5
+    }
   },
   "primary_or_official_sources_directly_read": [
     {
@@ -162,12 +188,17 @@
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
   "blocking_requirements": [
     "35 concepts still below 300 words; human qualitative full-page review pending",
-    "All 25 MCQs need item-level factual and distractor audit; 3 source-correspondence checks are not independent validation",
+    "All 25 MCQ sets were editorially rewritten, but correct keys, all distractors and item discrimination still require independent claim-level checking; 3 keys directly source-correlated",
     "Six mains answers need claim-level verification",
     "R2 editorial deduplication/contradiction sweep pending",
     "R8 post-render PDF artifact, visual and public-browser QA pending"
   ],
   "academic_approved": false,
   "external_reviewer": null,
-  "project_scope_topics": 75
+  "project_scope_topics": 75,
+  "editorial_issue_fixed": {
+    "mcq": 22,
+    "issue": "Earlier option C ('boundary extensions alone ...') was also a true mechanism of changing urban population, creating ambiguity with key D; revised C to a false claim that boundary extensions can never change urban counts.",
+    "correct_key": "D"
+  }
 }
