@@ -508,16 +508,16 @@ Note continued peasant armed resistance and the later withdrawal in 1951; do not
 
 ## Thirty original explained MCQs (practice, NOT official PYQs)
 
-**Editorial revision, 26 October 2026:** All 30 questions were rewritten with historically relevant alternatives; answer positions deliberately balanced. These are original practice questions, not authenticated TGPSC PYQs. Source IDs identify support but do not substitute for a later independent question audit.
+**Editorial revision, 26 October 2026 (discrimination pass):** Following an item-level preflight, 24 questions (21 weak and 3 borderline) were rewritten in this integrated chapter using closer same-domain distractors. The six previously acceptable questions were retained. Keys remain A7/B7/C8/D8. Explanations carry source-register tags, but this is an internal editorial pass, NOT an independent historian's validation of every key, claim or archival source. These are ORIGINAL practice questions, not authenticated TGPSC PYQs.
 
-### MCQ 1. Which comparison of Ramji Gond and Komaram Bheem is historically most defensible?
+### MCQ 1. Which contrast between Ramji Gond and Komaram Bheem avoids collapsing distinct phases of Gond resistance?
 
-A. Ramji Gond belongs to nineteenth-century Nirmal-area resistance; Bheem to twentieth-century Jodeghat resistance.  
-B. Both leaders organized the communist-led peasant armed struggle after 1946.  
-C. Bheem led the 1857-era Nirmal resistance; Ramji Gond fought in 1940.  
-D. Both were principal negotiators of the 1947 Standstill Agreement.  
+A. Ramji Gond is associated with nineteenth-century resistance around Nirmal; Bheem with the Adilabad–Jodeghat struggle culminating in 1940.  
+B. Ramji Gond and Bheem both led the same Jodeghat organization, with the movement lasting continuously from the 1850s to 1940.  
+C. Ramji Gond organized the 1940 Jodeghat defence; Bheem led the earlier Nirmal episode remembered in nineteenth-century accounts.  
+D. Both figures belonged to the 1946–51 village-sangham phase, but represented different factions within it.  
 
-**Answer: A.** Their contexts differ by decades and political setting. The exact chronology of Ramji Gond's execution remains disputed, whereas Bheem's death in 1940 is more securely situated. [S04, S05]
+**Answer: A.** The Nirmal-associated nineteenth-century account and Bheem's twentieth-century Jodeghat resistance must be treated as distinct movements; exact Ramji Gond execution chronology remains contested. [S04, S05]
 
 ### MCQ 2. Which location is specifically associated with Komaram Bheem's final resistance?
 
@@ -537,41 +537,41 @@ D. Education, language and representation
 
 **Answer: B.** The phrase means water, forest and land, a summary of resource rights in Bheem's later remembrance; a verbatim contemporary record of its use still needs verification. [S04]
 
-### MCQ 4. Which evidence would most directly test a disputed exact execution date attributed to Ramji Gond?
+### MCQ 4. A published memorial and a district history disagree on the precise execution date of Ramji Gond. What is the strongest next verification step?
 
-A. A current statehood celebration speech  
-B. A modern commemorative statue inscription  
-C. A peasant-struggle memoir about 1946  
-D. A dated contemporary government or judicial record, checked against the original district gazetteer  
+A. Accept the date repeated most often by modern memorial websites, while noting that district histories disagree.  
+B. Prefer the most recent state commemorative speech because it has official institutional authority.  
+C. Use the first available post-1947 popular history as conclusive evidence of a nineteenth-century event.  
+D. Compare dated contemporary administrative or judicial records with the original district gazetteer, recording unresolved discrepancies.  
 
-**Answer: D.** Contemporary records are preferable for precise dates; memorials and later retellings may preserve significance but repeat disputed chronology. [S05]
+**Answer: D.** Contemporaneous dated records have stronger chronological value than retrospective commemoration; a gazetteer itself still needs assessment of its sources and compilation date. The relevant originals remain unavailable here. [S05]
 
-### MCQ 5. Which description best identifies vetti in Telangana's agrarian history?
+### MCQ 5. Which practice specifically describes vetti, rather than a levy, tenancy insecurity or landlord control of grain?
 
-A. An annual payment for a recognized tenancy right  
-B. Compulsory labour demanded through unequal social or political power  
-C. A collective grain-storage arrangement organized by sanghams  
-D. A temporary customs arrangement between Hyderabad and India  
+A. An obligatory share of harvested grain paid as rent to a landholder.  
+B. Unpaid or coerced labour demanded from subordinate households under unequal village power relations.  
+C. Removal of a cultivating tenant from land following a disputed revenue demand.  
+D. Compulsory delivery of grain to an official procurement authority.  
 
-**Answer: B.** Vetti involved coerced labour, often affecting subordinate households and service castes; it is not synonymous with a tax or voluntary cooperative service. [S02]
+**Answer: B.** Vetti refers to coerced labour obligations, not simply rent, eviction or grain procurement. It could intersect with caste and landlord authority, but those related mechanisms should not be treated as identical. [S02]
 
-### MCQ 6. Which distinction between jagir and khalsa is correct in the Hyderabad agrarian setting?
+### MCQ 6. Which distinction best describes jagir and khalsa in Hyderabad State's revenue-administrative system?
 
-A. Jagir was a village sangham; khalsa was an armed squad  
-B. Jagir was a forest slogan; khalsa was a tenancy contract  
-C. Jagir denoted a revenue/territorial grant arrangement; khalsa denoted more directly administered territory  
-D. Both terms referred exclusively to the regular Hyderabad army  
+A. Jagir meant territory under direct state revenue administration; khalsa meant assigned revenue estates.  
+B. Jagir and khalsa were two interchangeable names for a village's sharecropping contract.  
+C. Jagir involved assigned territorial or revenue rights; khalsa generally referred to territory administered more directly by the state.  
+D. Jagir referred only to forest reserve land; khalsa only to estates granted to military retainers.  
 
-**Answer: C.** The terms refer to different administrative and revenue arrangements. Both could contain complex land relations, so neither label alone proves a uniform tenancy pattern. [S02]
+**Answer: C.** The distinction concerns administrative and revenue arrangements, not a universal pattern of ownership or tenancy. Different local relations existed within each category. [S02]
 
-### MCQ 7. What made a village sangham politically significant in the Telangana struggle?
+### MCQ 7. Why could a village sangham alter the bargaining position of tenants facing landlord exactions?
 
-A. It enabled households to coordinate demands and resist local coercion collectively.  
-B. It automatically gave every member registered legal title to redistributed land.  
-C. It was the same institution as the regular Hyderabad State police.  
-D. It replaced the Hyderabad State government uniformly in all districts.  
+A. It pooled villagers' demands and coordinated resistance, reducing the isolation of individual households.  
+B. It acquired automatic statutory jurisdiction to cancel all jagir titles once a village voted to form it.  
+C. It replaced village assemblies with a centrally appointed Hyderabad State revenue officer.  
+D. It principally negotiated ceremonial recognition from landlords without organizing tenancy or labour demands.  
 
-**Answer: A.** Collective organization could protect crops, resist vetti and challenge landlord authority; its reach and results differed across villages. [S02, S10]
+**Answer: A.** Sanghams could coordinate crop defence, anti-vetti action and collective bargaining, but did not automatically obtain legal land title or uniform administrative authority. [S02, S10]
 
 ### MCQ 8. Doddi Komaraiah's killing in July 1946 is linked to which village?
 
@@ -582,86 +582,86 @@ D. Kadavendi
 
 **Answer: D.** Kadavendi became a symbol of peasant mobilization after Komaraiah's death. Jodeghat is linked to Bheem, Palakurthi to Ailamma and Nirmal to Ramji Gond's remembered resistance. [S02, S10]
 
-### MCQ 9. Why is the killing of Doddi Komaraiah best described as a catalyst rather than the sole cause of the struggle?
+### MCQ 9. Why is Doddi Komaraiah's July 1946 killing treated as an escalation point rather than the origin of every agrarian grievance?
 
-A. It occurred only after the 1948 Police Action  
-B. It concerned solely a dispute between princely states  
-C. Sangham organization and agrarian grievances already existed before July 1946  
-D. The communist-led armed struggle had already been withdrawn  
+A. It preceded all village organization, which was created only after September 1948.  
+B. The Andhra Mahasabha was established only after his killing and had no earlier rural contacts.  
+C. Tenancy disputes, vetti grievances and village organization predated the killing; the incident intensified mobilization.  
+D. The killing followed the formal withdrawal of the communist-led armed campaign in 1951.  
 
-**Answer: C.** Landlord coercion, vetti, tenancy insecurity and organized village action preceded the killing; the event accelerated wider mobilization. [S02, S10]
+**Answer: C.** The July 1946 event catalysed an existing organizational and agrarian conflict; it did not create those structures or grievances from nothing. [S02, S10]
 
-### MCQ 10. How did the Andhra Mahasabha contribute to agrarian mobilization?
+### MCQ 10. Which account best captures the Andhra Mahasabha's changing role before the Telangana armed struggle?
 
-A. It began as a military unit of the Hyderabad government  
-B. Parts of a cultural-social platform developed networks for rural political organizing  
-C. It was established by the Indian Army after September 1948  
-D. It was identical to the Razakar volunteer organization  
+A. It was established in 1948 as the civilian arm of India's Hyderabad military administration.  
+B. Its cultural and social reform networks developed rural political branches, with radical and communist influence increasing unevenly over time.  
+C. It was uniformly a Communist Party military organization from its founding, with no earlier linguistic or cultural agenda.  
+D. It remained restricted to Hyderabad city and never developed village-level organizational connections.  
 
-**Answer: B.** The Mahasabha's changing currents connected cultural and social work with village grievances; it was not uniformly communist from inception. [S02]
+**Answer: B.** The Mahasabha evolved from a wider cultural-social milieu into important channels for agrarian mobilization; its history should not be reduced to one party identity throughout. [S02, S03]
 
-### MCQ 11. Which interpretation of Communist Party leadership best accounts for peasant agency?
+### MCQ 11. Which interpretation best avoids both party-centred determinism and an account that ignores Communist organization?
 
-A. Every village decision was dictated centrally without local variation  
-B. The Party played no role in sanghams or armed resistance  
-C. Peasants participated only because they were paid by party cadres  
-D. Party coordination interacted with independently experienced agrarian grievances and village initiative  
+A. The Communist Party determined identical village policies everywhere regardless of local land relations.  
+B. Village sanghams developed entirely outside political networks, without Communist cadres or strategic coordination.  
+C. Landless labourers and tenants generally had no grievances before party instruction reached them.  
+D. Party networks and strategy interacted with peasants' locally experienced land, labour and caste grievances and initiative.  
 
-**Answer: D.** Communist cadres provided networks and strategy, but villagers' tenancy, labour and land interests were not reducible to party instructions. [S02, S10]
+**Answer: D.** Party organization mattered, but it neither erased local variation nor invented the underlying material grievances. This is consistent with the scholarship's attention to agrarian relations and political conjuncture. [S02, S03, S10]
 
-### MCQ 12. Chakali Ailamma's remembered resistance is especially relevant to which combination?
+### MCQ 12. Which interpretation makes Chakali Ailamma's crop dispute analytically important to Telangana's social history?
 
-A. Tenancy, caste, gender and defence of a cultivated harvest  
-B. The legal drafting of the Standstill Agreement  
-C. The leadership of the regular Hyderabad army  
-D. The 1956 linguistic reorganization negotiations  
+A. A conflict over cultivated produce became linked to tenancy security, caste hierarchy, women's agency and sangham mobilization.  
+B. It was principally a negotiation over the constitutional powers of the Nizam after the lapse of paramountcy.  
+C. It concerned only the level of state customs duties and had no bearing on village social relations.  
+D. It represented an urban linguistic petition without an associated conflict over crops or cultivation.  
 
-**Answer: A.** Ailamma's crop dispute and sangham-linked resistance illustrate how a local tenancy conflict became a broader political symbol. [S09]
+**Answer: A.** The remembered episode connects a concrete agrarian dispute with caste, gender and collective organization; its later symbolism should not replace scrutiny of the event itself. [S09, S02]
 
-### MCQ 13. Which account most adequately captures women's participation in the Telangana peasant struggle?
+### MCQ 13. Which account best reflects both the range and limits of women's participation in the 1946–51 Telangana struggle?
 
-A. Women were confined entirely to public commemorations after 1951  
-B. Women were active only in the regular Hyderabad State army  
-C. Women organized, cultivated, carried messages, provided shelter and sometimes participated in armed resistance  
-D. Women's political participation immediately ended patriarchal constraints  
+A. Women chiefly entered politics after 1951 as commemorative speakers; household and village networks played no role during the struggle.  
+B. Women's work was confined to cooking and shelter, with no evidence of mobilization or participation in resistance.  
+C. Women sustained cultivation, communications, organizing and shelter networks, and some took part in armed resistance, without thereby eliminating gender inequality.  
+D. Women gained uniform land titles and equal leadership across all sanghams as soon as the movement began.  
 
-**Answer: C.** Women's work sustained political networks and household survival, but participation did not guarantee equal leadership or durable land rights. [S09]
+**Answer: C.** Women's contributions were diverse and central to movement survival, but participation did not guarantee equal leadership or secure post-conflict rights. [S09]
 
-### MCQ 14. Why must the MIM be distinguished from Hyderabad's Muslim population?
+### MCQ 14. Why is it methodologically wrong to use 'MIM', 'Razakars' and 'Hyderabad's Muslims' as interchangeable categories?
 
-A. The MIM was solely a land-revenue category  
-B. The MIM was an organization founded by the Communist Party  
-C. The MIM was the official name of the Hyderabad State army  
-D. Political membership and religious identity are different, and Muslim political opinion was diverse  
+A. The MIM was merely a neutral label for Hyderabad's entire civil service, rather than a political association.  
+B. The Razakars were the legal name for all Muslim households registered under the Nizam's census.  
+C. Every Muslim in Hyderabad had the same position on independence, accession and Razakar violence.  
+D. A political organization, its associated volunteer militia and a diverse religious population are analytically distinct groups.  
 
-**Answer: D.** The MIM was a particular political organization; assigning all Muslims its policies is both historically inaccurate and analytically weak. [S12, S13]
+**Answer: D.** Membership, militia affiliation and religious identity cannot be conflated. Such conflation would obscure divergent political positions and distort the history of communal violence. [S12, S13]
 
-### MCQ 15. Which association best identifies Qasim Razvi in the 1947–48 Hyderabad crisis?
+### MCQ 15. Which role most accurately identifies Qasim Razvi in Hyderabad's 1947–48 crisis?
 
-A. Andhra Mahasabha's peasant-wing leadership  
-B. Hardline MIM politics and the Razakar volunteer movement  
-C. The leadership of Operation Polo for the Indian Army  
-D. The 1951 Communist Party withdrawal committee  
+A. He led the Hyderabad State Congress campaign seeking immediate accession on Congress terms.  
+B. He became a leading hardline MIM figure associated with Razakar mobilization during the accession dispute.  
+C. He commanded the Indian Army's Operation Polo columns entering Hyderabad in September 1948.  
+D. He chaired the Communist Party's May 1951 policy deliberations on withdrawing the peasant armed struggle.  
 
-**Answer: B.** Razvi was a leading figure of the hardline MIM and the Razakar-associated movement during the accession crisis. [S12, S13]
+**Answer: B.** Razvi was linked to hardline MIM politics and the Razakar movement, not the Indian military command or the communist agrarian leadership. [S12, S13]
 
-### MCQ 16. Which institutional distinction concerning the Razakars is correct?
+### MCQ 16. Which distinction between Razakars and Hyderabad's state institutions should an exam answer preserve?
 
-A. They were a volunteer armed organization linked to hardline MIM politics, not the entire regular Hyderabad army.  
-B. They were identical to every branch of the Hyderabad civil administration.  
-C. They were the Communist Party's village sanghams.  
-D. They were the military units led by the Indian commander during Operation Polo.  
+A. Razakars were an armed volunteer movement linked to hardline MIM politics, distinct from the regular army and police even where activities overlapped.  
+B. Razakars were simply another formal rank within the regular Hyderabad Army's commissioned officer corps.  
+C. Razakars were an unarmed Hyderabad State Congress civil-disobedience organization opposed to the Nizam.  
+D. Razakars were the Indian Army units that conducted the September 1948 military operation.  
 
-**Answer: A.** Razakars, MIM membership, state police and the regular army should be distinguished even when their activities intersected. [S12, S13]
+**Answer: A.** The volunteer movement should be distinguished from the regular military, state police and other political organizations; overlapping action does not make them institutionally identical. [S12, S13]
 
-### MCQ 17. What was a major constitutional change for Hyderabad in August 1947?
+### MCQ 17. Which legal change created a new sovereignty problem for princely Hyderabad in August 1947?
 
-A. The 1956 reorganization of Hyderabad State  
-B. The end of the communist-led armed campaign  
-C. The lapse of British paramountcy over princely states  
-D. The completion of Operation Polo  
+A. Hyderabad became part of Andhra Pradesh under a linguistic reorganization effective that month.  
+B. The November 1947 Standstill Agreement automatically converted Hyderabad into a fully acceded Indian state in August.  
+C. British paramountcy over princely states lapsed, leaving Hyderabad's constitutional relationship with independent India unsettled.  
+D. Operation Polo transferred Hyderabad's administration to the Indian Army before the British departure.  
 
-**Answer: C.** Paramountcy lapsed with British withdrawal, opening the question of Hyderabad's future relationship with India; it did not settle accession. [S14, S15]
+**Answer: C.** The lapse of paramountcy altered the legal setting but did not itself complete Hyderabad's accession or resolve its relationship with India. [S14, S15]
 
 ### MCQ 18. On which date was the Hyderabad–India Standstill Agreement signed?
 
@@ -672,14 +672,14 @@ D. 29 November 1947
 
 **Answer: D.** Contemporaneous Patel statements and Nehru correspondence establish the November 1947 arrangement; the signed original still requires clause-level review. [S14, S15]
 
-### MCQ 19. Which statement best distinguishes the 1947 Standstill Agreement from an Instrument of Accession?
+### MCQ 19. Which statement best captures what the November 1947 Hyderabad–India Standstill Agreement did NOT settle?
 
-A. The Standstill Agreement temporarily maintained arrangements while a final political settlement remained unresolved.  
-B. The Standstill Agreement immediately created a separate Telangana state.  
-C. The Standstill Agreement was a Communist Party declaration of agrarian reform.  
-D. The Standstill Agreement was the military surrender signed after Operation Polo.  
+A. It continued specified existing administrative arrangements temporarily without itself resolving the final constitutional relationship.  
+B. It immediately transferred Hyderabad's full sovereignty by an Instrument of Accession signed as part of the same agreement.  
+C. It permanently recognized Hyderabad as a fully independent state with an internationally guaranteed defence treaty.  
+D. It abolished the Nizam's government and installed the post-September-1948 military administration.  
 
-**Answer: A.** Standstill was temporary and did not itself settle the constitutional accession dispute. [S14, S15]
+**Answer: A.** Patel's contemporary statement described temporary continuity of specified arrangements, with paramountcy excluded; it was not itself a completed accession settlement. The signed original remains to be examined clause by clause. [S14, S15]
 
 ### MCQ 20. When did Indian forces begin Operation Polo?
 
@@ -690,32 +690,32 @@ D. 21 October 1951
 
 **Answer: B.** The military operation began on 13 September 1948. The 17 September date concerns the Nizam's cessation of resistance. [S07]
 
-### MCQ 21. What is the significance of 17 September 1948 in Hyderabad's integration?
+### MCQ 21. Which event is most directly associated with 17 September 1948 in the Hyderabad crisis?
 
-A. The founding of the Andhra Mahasabha  
-B. The signing of the 1947 Standstill Agreement  
-C. The Nizam's announcement ending resistance after the Indian military operation  
-D. The withdrawal of the Telangana communist-led armed struggle  
+A. The signing of the one-year Standstill Agreement that temporarily continued specified arrangements.  
+B. The formal Communist Party decision withdrawing the Telangana armed campaign.  
+C. The Nizam's cessation of resistance following the Indian military operation begun on 13 September.  
+D. The lapse of British paramountcy and the beginning of Hyderabad's negotiations with India.  
 
-**Answer: C.** The date marks the cessation of princely resistance and integration turning point, not the end of all social or agrarian conflict. [S07, S13]
+**Answer: C.** The military operation began on 13 September; 17 September marks the Nizam's cessation of resistance. It did not end the continuing agrarian armed struggle. [S07, S13]
 
-### MCQ 22. Why should 'Police Action' not be understood as merely a civilian police investigation?
+### MCQ 22. What makes 'Police Action' a potentially misleading shorthand for Operation Polo?
 
-A. Because it referred only to a post-action casualty inquiry  
-B. Because it was the title of a 1951 party conference  
-C. Because it meant only a legal accession petition  
-D. Because it was the contemporary official label for an operation conducted by Indian military forces  
+A. It refers to Hyderabad State police independently suppressing the Razakars without Indian armed forces.  
+B. It refers primarily to the civilian fact-finding mission that later examined communal violence.  
+C. It describes only the constitutional negotiation of accession without an armed operation.  
+D. It was the contemporary official expression for an intervention carried out by Indian military forces.  
 
-**Answer: D.** Operation Polo was military in method despite the official phrase 'Police Action'. [S07, S12]
+**Answer: D.** The term 'Police Action' was used for a military operation, not merely a civil policing or investigative exercise. Its violence and consequences require separate historical scrutiny. [S07, S12]
 
-### MCQ 23. Which chronological distinction is essential for the Telangana peasant struggle?
+### MCQ 23. Which timeline avoids the common mistake of equating Hyderabad's accession crisis with the end of rural armed resistance?
 
-A. Hyderabad's military integration occurred in 1948; the communist-led armed campaign continued until withdrawal in 1951.  
-B. The peasant campaign ended in 1940, before the 1946 Kadavendi episode.  
-C. The Standstill Agreement ended the armed struggle in November 1947.  
-D. Operation Polo began only after the 1951 withdrawal.  
+A. The Indian military intervention occurred in September 1948, while the communist-led Telangana armed campaign continued until 1951.  
+B. The communist-led peasant campaign ended with the November 1947 Standstill Agreement, before Indian forces entered Hyderabad.  
+C. The agrarian armed campaign began only after the Nizam ceased resistance in September 1948.  
+D. The Nizam's resistance ended in October 1951, at the same time as the communist-led withdrawal.  
 
-**Answer: A.** The state-sovereignty transition and the rural armed campaign followed overlapping but different timelines. [S10, S13]
+**Answer: A.** The transition of princely-state sovereignty and the continuation of agrarian conflict had overlapping but different chronologies. Sundarayya's retrospective dates withdrawal to 21 October 1951, pending the original announcement. [S10, S13]
 
 ### MCQ 24. According to P. Sundarayya's retrospective introduction, on which date was the armed struggle withdrawn?
 
@@ -726,60 +726,59 @@ D. 4 July 1946
 
 **Answer: B.** Sundarayya explicitly gives 21 October 1951 in a participant retrospective. The original withdrawal announcement is still needed for independent archival confirmation. [S10]
 
-### MCQ 25. What was the main subject of the Sunderlal investigation discussed in Hyderabad historiography?
+### MCQ 25. What historical question was the Sunderlal delegation primarily investigating after Hyderabad's September 1948 integration?
 
-A. The exact legal wording of the 1947 Standstill Agreement  
-B. The founding of the MIM in the interwar period  
-C. Communal violence during and after the 1948 Police Action  
-D. The original 1940 Jodeghat police operation  
+A. Whether the Nizam had accepted every proposed clause of the 1947 Standstill Agreement.  
+B. Whether jagirdari abolition had redistributed enough land to every tenant by 1951.  
+C. The scale and character of communal violence during and following the 1948 military intervention.  
+D. The organization and weapons used at Jodeghat during Komaram Bheem's 1940 resistance.  
 
-**Answer: C.** The delegation investigated post-action violence through visits and interviews; estimates should not be misrepresented as an exhaustive census. [S06, S12]
+**Answer: C.** The inquiry addressed communal violence connected with the Police Action and its aftermath. Its methods and estimates must be attributed and critically assessed; the full original report has not been inspected. [S06, S12]
 
-### MCQ 26. Which statement is most defensible about casualty estimates linked to the Sunderlal inquiry?
+### MCQ 26. How should a mains answer use death estimates associated with the Sunderlal inquiry?
 
-A. They are a complete, uncontested official census of every death  
-B. They refer only to casualties in the 1857-era Gond resistance  
-C. They can be verified solely from modern commemorative speeches  
-D. They are estimates requiring attribution, scrutiny of the report and corroboration with other records  
+A. Present them as a final exhaustive government census because a delegation conducted field visits.  
+B. Treat them as figures covering only military personnel, excluding civilian violence by definition.  
+C. Substitute the latest public commemorative speech for the inquiry's original methods and findings.  
+D. Attribute them to the inquiry, explain that they are estimates, and compare methods and corroborating evidence before drawing conclusions.  
 
-**Answer: D.** The inquiry's scope and methods matter; this edition has not independently inspected the full original report. [S06]
+**Answer: D.** The evidentiary status of a field inquiry differs from an exhaustive census. The complete original report is still unavailable for this edition, so precise figures must not be presented as independently established. [S06, S12]
 
-### MCQ 27. Which sequence best represents Hyderabad's post-1948 administrative change?
+### MCQ 27. Which description best captures the relationship between Hyderabad's post-1948 administration and rural conflict?
 
-A. Military administration followed by civilian arrangements, while agrarian conflict persisted  
-B. Immediate dissolution of Hyderabad State into Andhra Pradesh in September 1948  
-C. The Nizam continued as an independent sovereign after military surrender  
-D. A complete end to the communist-led peasant campaign on 17 September 1948  
+A. Military administration was followed by civilian arrangements, while peasant resistance and counterinsurgency continued on their own timeline.  
+B. The 1948 intervention immediately produced the elected Andhra Pradesh government created in 1956.  
+C. Hyderabad retained fully independent princely sovereignty through the entire period of later civilian administration.  
+D. The September 1948 ceasefire automatically dissolved all village sanghams and ended the armed campaign.  
 
-**Answer: A.** Military administration under Chaudhuri preceded later civilian arrangements; integration and rural pacification were not the same process. [S13]
+**Answer: A.** Integration involved changing military and civilian administration; the agrarian struggle did not end on the date of military surrender. [S10, S13]
 
-### MCQ 28. Which later event should be distinguished from Hyderabad's 1948 military integration?
+### MCQ 28. Which post-integration development placed Telangana within the newly formed Andhra Pradesh rather than the former Hyderabad State?
 
-A. The lapse of British paramountcy in 1947  
-B. Linguistic reorganization involving Telangana in 1956  
-C. The killing of Doddi Komaraiah in 1946  
-D. Komaram Bheem's death in 1940  
+A. The 1952 first general elections, which left Hyderabad State's boundaries unchanged.  
+B. The 1956 linguistic reorganization merging Telangana with Andhra State to form Andhra Pradesh.  
+C. The 1951 withdrawal of the communist-led armed struggle, which itself redrew state boundaries.  
+D. The 1953 creation of Andhra State, which already incorporated Telangana districts from Hyderabad.  
 
-**Answer: B.** Hyderabad's 1948 integration preceded the 1956 reorganization; Telangana's separate statehood came much later in 2014. [S13]
+**Answer: B.** Andhra State was created in 1953 without Telangana; the 1956 reorganization brought Telangana into Andhra Pradesh. This is distinct from Hyderabad's military integration in 1948. [S13]
 
-### MCQ 29. A Telangana government press release dated 17 September 2026 is primary evidence for what?
+### MCQ 29. What claim can a Telangana government press release dated 17 September 2026 directly establish as a primary source?
 
-A. The verbatim content of the 1947 signed Standstill Agreement  
-B. The precise number of people killed in 1948  
-C. The government's own 2026 commemoration and interpretation of 17 September  
-D. The original 1951 Communist Party withdrawal order  
+A. The exact wording agreed by Hyderabad and India in their signed November 1947 agreement.  
+B. A contemporaneous verified death register for civilians affected by the September 1948 violence.  
+C. How the state government publicly commemorated and interpreted 17 September in 2026.  
+D. The original wording of the Communist Party's October 1951 withdrawal announcement.  
 
-**Answer: C.** A 2026 state press release documents present-day commemoration, not eyewitness history of 1948. [S08]
+**Answer: C.** The press release is primary evidence of a 2026 government event and interpretation, not primary evidence of events or documents from 1947–51. [S08]
 
-### MCQ 30. Which explanation best connects agrarian struggle, Operation Polo and later political memory?
+### MCQ 30. Which framework most accurately relates Telangana's agrarian revolt, Hyderabad's 1948 integration and later public memory?
 
-A. All three were directed by the same organization and ended in 1946  
-B. Only the military operation mattered because village politics did not exist  
-C. The 1947 Standstill Agreement settled tenancy and vetti across Telangana  
-D. Agrarian grievances, princely-state sovereignty and public remembrance are distinct but overlapping historical questions  
+A. All three were phases of one centrally commanded military organization and ended simultaneously in 1948.  
+B. The rural armed campaign was merely a response to Operation Polo, without earlier agrarian mobilization.  
+C. The 1947 Standstill Agreement settled tenancy, vetti and landlord power, leaving only symbolic disputes afterward.  
+D. Agrarian class and caste conflict, princely sovereignty and later commemoration overlap but require distinct chronologies and evidence.  
 
-**Answer: D.** The topic requires separate analysis of rural social conflict, state integration and competing later interpretations. [S02, S12, S13]
-
+**Answer: D.** A strong interpretation connects the processes without collapsing social struggle, constitutional integration and retrospective memory into one event. [S02, S03, S12, S13]
 
 ## Six structured original mains model answers (not official PYQs)
 
