@@ -229,9 +229,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Consolidated editable master recovered; original 4,530-word 9-page depth repair and 15 additional original explained MCQs published; older PDF preserved; NOT academically approved.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "objective_assessment_20_sections_18_under300_30_mcqs_8_mains_rebuild_required",
+      "notes": "Consolidated editable master recovered; original 4,530-word 9-page depth repair and 15 additional original explained MCQs published; older PDF preserved; NOT academically approved. 27 Oct objective academic assessment: 18/20 narrative sections below 300 words; 30 original MCQs across original-practice and complete-notes appendix; 8 mains; no standalone SVG or verified integrated PDF. No independent approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-3.json"
     },
     {
