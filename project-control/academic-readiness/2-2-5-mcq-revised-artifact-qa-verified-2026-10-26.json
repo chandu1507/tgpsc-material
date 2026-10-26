@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-2-5",
+  "qa_type": "actual_downloaded_GitHub_artifact_integrity_and_low_resolution_visual_preflight",
+  "academic_status": "NOT_APPROVED",
+  "independent_academic_approval": false,
+  "edition_commit": "875834d1953fe76cf2d15509780ff7dadf164aa2",
+  "artifact": {
+    "run_id": 40282546021,
+    "conclusion": "success",
+    "artifact_id": 12632727015,
+    "downloaded_and_inspected": true,
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "inner_file_count": 1441,
+    "topic_slots": 75,
+    "original_topic_pdfs": 75,
+    "readiness_json_files": 75,
+    "html_pages": 78,
+    "relative_html_links_checked": 459,
+    "broken_links": 0
+  },
+  "original_topic5_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
+  "original_pdf_preserved": true,
+  "integrated_markdown_sha256": "2ff073fa853166b0b1606235ac4c9cbb9c8df5398bf6b96ed0f429d25a39b681",
+  "integrated_pdf_sha256": "005328f3df628bb43dd10380a8a0b025a925186c24233ab4a7bee3d8def45374",
+  "integrated_pdf_pages": 35,
+  "empty_text_pages": 0,
+  "visual_preflight": "Rendered all 35 pages as five low-resolution contact sheets; inspected each sheet for gross clipping, blank pages and overlap, none observed. This is NOT full-resolution detailed student usability or accessibility sign-off.",
+  "mcq_revision": {
+    "rewritten": 24,
+    "retained": 6,
+    "total": 30,
+    "all_have_four_options_keys_explanations_source_tags": true,
+    "answer_distribution": {
+      "A": 7,
+      "B": 7,
+      "C": 8,
+      "D": 8
+    },
+    "external_fact_check": false,
+    "external_discrimination_review": false
+  },
+  "library_copies": "/Mounika/TGPSC_ACADEMIC_READINESS_P2_U2_T5_20261026/",
+  "gate_status": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "BLOCKED",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
+  },
+  "outstanding": [
+    "Original 1947 Standstill Agreement, full Sunderlal report, original 1951 withdrawal document, Gond historical archives",
+    "Independent historian verification of all 30 keys, explanations and close distractors",
+    "Mains answer factual review and editorial overlap/contradiction sweep",
+    "Public Pages real-browser usability and high-resolution page/accessibility review"
+  ],
+  "ready_for_independent_audit": false
+}
