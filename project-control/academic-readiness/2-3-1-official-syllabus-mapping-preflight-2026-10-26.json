@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-1",
+  "official_document": "TGPSC Notification 02/2024 Group-I Services, Annexure-II, Paper II Section III Geography of India and Telangana, printed page 29",
+  "official_url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+  "source_access": "Official-domain search index displays exact syllabus item; direct PDF fetch returned HTTP 403 in this run. Not a direct page-image inspection.",
+  "clauses": [
+    {
+      "id": "physical_setting",
+      "scope": "India physical setting",
+      "sections": "1–2",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "physiography",
+      "scope": "physiography",
+      "sections": "3–6",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "drainage",
+      "scope": "drainage",
+      "sections": "7–8",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "monsoon",
+      "scope": "climate and mechanism of monsoon",
+      "sections": "9–10",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "enso",
+      "scope": "effect of El Niño and La Niña",
+      "sections": "11",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "rainfall_hazards",
+      "scope": "rainfall variability, floods and droughts",
+      "sections": "12–14",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "soil_biodiversity",
+      "scope": "soils, vegetation and wildlife; degradation and conservation",
+      "sections": "15–17",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "mineral_energy",
+      "scope": "major minerals and energy resources; distribution, conservation and energy crisis",
+      "sections": "18–19",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "nonconventional_energy",
+      "scope": "role of non-conventional energy resources",
+      "sections": "20",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "marine_eez",
+      "scope": "marine resources, economic significance and EEZ",
+      "sections": "21",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    },
+    {
+      "id": "water",
+      "scope": "water availability, interstate sharing and conservation",
+      "sections": "22–24",
+      "coverage_status": "MAPPED_NOT_CONTENT_CERTIFIED"
+    }
+  ],
+  "atomic_clause_count": 11,
+  "mapped_count": 11,
+  "R1": "IN_PROGRESS",
+  "why_not_pass": "Exact official indexed text is available, but primary PDF page itself not independently downloaded or visually checked during this run; content coverage also needs manual audit.",
+  "academic_approval": false
+}
