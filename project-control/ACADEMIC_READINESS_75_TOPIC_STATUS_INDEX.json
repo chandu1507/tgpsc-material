@@ -9,7 +9,7 @@
   "not_assessed_count": 72,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics; 2-2-4, 2-2-5, 2-3-1 IN_PROGRESS, 72 NOT_ASSESSED, ZERO fully R1–R8 ready, ZERO independently approved. R1 PASS for three active topics. Topic 2-3-1 updated 27-page PDF source-synchronized via CI renderer run 40303002957 (SHA verified), 3 priority depth sections expanded, Q11/12 keys checked; R2–R8 remain IN_PROGRESS. Post-final-render GitHub ZIP download/CRC, remaining 23 MCQs, 20 shallow concepts, and public-browser QA outstanding.",
+  "warning": "Exactly 75 existing topics: 2-2-4, 2-2-5, 2-3-1 IN_PROGRESS, 72 NOT_ASSESSED; R1 PASS for these three; ZERO R1–R8 fully ready and ZERO independently academically approved. Topic 2-3-1 Turn11 expanded 11 concepts (+2052 words), now nine sections under 300 words; six MCQ keys have source correspondence, 19 remain unverified, all distractors need review. Renderer run 40310989188 SUCCESS; post-render publication ZIP/hash/full-resolution browser QA pending. R2–R8 NOT PASS.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
