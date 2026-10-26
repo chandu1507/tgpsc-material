@@ -512,8 +512,8 @@ D. Durgabai Deshmukh
 ### MCQ 3. The early Nizam Rashtra Andhra Jana Sangham focused chiefly on:
 
 A. Telugu language, education and reading networks
-B. An elected Indian Parliament
-C. Restoration of the Kakatiya kingdom
+B. Immediate demand for an elected responsible ministry
+C. Exclusive opposition to forced labour from its founding
 D. A separate Telangana state in 1921
 
 **Answer: A.** Its initial cultural and educational programme should not be confused with later political objectives.
@@ -566,27 +566,27 @@ D. 21 August 2015
 ### MCQ 9. The Telugu periodical Golconda Patrika is particularly associated with:
 
 A. Suravaram Pratap Reddy
-B. Salar Jung I
-C. Durgabai Deshmukh
-D. Ramji Gond
+B. Madapati Hanumantha Rao
+C. Komarraju Lakshmana Rao
+D. Bhagya Reddy Varma
 
 **Answer: A.** Suravaram Pratap Reddy was a prominent editor associated with the periodical; its exact first-issue date remains unresolved here.
 
 ### MCQ 10. The 1938 Vande Mataram agitation in Hyderabad State is especially associated with:
 
 A. Osmania University students
-B. Kakatiya forts
-C. The Parishath adult-education camp
-D. The 1901 library
+B. Delegates at the 1930 Jogipet conference
+C. Parishath adult learners at the 1950 camp
+D. Hyderabad State Congress constitutional delegates
 
 **Answer: A.** The agitation centred on student political expression and institutional restrictions in 1938.
 
 ### MCQ 11. Hyderabad State Congress was organised around demands for:
 
 A. Responsible government and civil liberties
-B. Telugu grammar alone
-C. Restoration of the Qutb Shahis
-D. Only temple administration
+B. Expansion of Telugu-language libraries as its only demand
+C. Anti-caste schooling as its sole constitutional programme
+D. Vedic reform and religious reconversion
 
 **Answer: A.** Its constitutional programme concerned accountable government and public freedoms.
 
@@ -602,9 +602,9 @@ D. Hyderabad State Congress
 ### MCQ 13. The 1937 precursor to Durgabai’s Andhra Mahila Sabha was a:
 
 A. Children’s club
-B. Peasant army
-C. Hyderabad State gazette office
-D. Telugu newspaper
+B. Women’s legislative council
+C. Hyderabad women’s conference
+D. Adult literacy training camp
 
 **Answer: A.** Its institutional history records the Little Ladies of Brindavan children’s club in 1937.
 
@@ -620,36 +620,36 @@ D. Vande Mataram agitation occurred in 1938
 ### MCQ 15. Bhagya Reddy Varma’s reform programme is best characterised as:
 
 A. Adi-Hindu dignity, education and self-organisation
-B. Only royal court poetry
-C. A British provincial legislature
-D. A Qutb Shahi military reform
+B. Telugu literary organising centred on the Jana Sangham
+C. Responsible-government satyagraha as State Congress leader
+D. Parishath literary examinations as its founder
 
 **Answer: A.** He is associated with autonomous Dalit social mobilisation and education.
 
 ### MCQ 16. The main social relation challenged by Vetti opposition was:
 
 A. Compulsory unpaid labour under local power
-B. Voluntary library subscriptions
-C. Modern university examinations
-D. Electoral delimitation
+B. Coercive religious dedication of girls
+C. Unequal official-language status in schools
+D. Restrictions on student political songs
 
 **Answer: A.** Vetti describes coerced or unpaid labour linked to agrarian and caste hierarchies.
 
 ### MCQ 17. In Telangana reform history, Jogini most directly raises questions of:
 
 A. Coercive dedication, gender and caste vulnerability
-B. Land-revenue mapping only
-C. The 1930 Salt March
-D. Temple architecture alone
+B. Compulsory unpaid labour obligations
+C. Telugu language exclusion in public meetings
+D. Constitutional restrictions on political associations
 
 **Answer: A.** The relevant issue is coercion and restricted agency within social and economic hierarchies.
 
 ### MCQ 18. Why should Devadasi and Jogini not be treated as exact synonyms?
 
-A. They are unrelated to any reform history
+A. The practices had no historical regional overlap
 B. Devadasi has wider historical/regional meanings and Jogini a more specific Deccan usage
-C. Both are modern political parties
-D. They were always identical across all regions
+C. Both referred only to women employed at royal courts
+D. Both referred only to voluntary performing-arts training
 
 **Answer: B.** Their institutional forms and regional meanings overlap but are not identical.
 
@@ -665,9 +665,9 @@ D. Andhra Saraswatha Parishath
 ### MCQ 20. Brahmo Samaj is best distinguished by its:
 
 A. Monotheistic and rational religious reform orientation
-B. Programme to restore Hyderabad monarchy
-C. Exclusive focus on peasant armed struggle
-D. Origin as a 1943 Telugu literary body
+B. Vedic revival and reform under Arya Samaj
+C. Demand for a responsible ministry under State Congress
+D. Telugu literary examinations under Parishath
 
 **Answer: A.** Brahmo Samaj and Arya Samaj both addressed reform but differed in intellectual premises.
 
@@ -683,45 +683,45 @@ D. Osmania student union
 ### MCQ 22. Which combination most clearly illustrates distinct reform axes?
 
 A. Library—language; Adi-Hindu—caste; women’s conferences—gender
-B. Library—agrarian tax; Adi-Hindu—railway timetable; women—coinage
-C. All three were identical parties
-D. All three were founded in 1938
+B. Library—caste alone; Adi-Hindu—official language; women’s conferences—land taxation
+C. Library—civil liberties alone; Adi-Hindu—newspaper editing; women’s conferences—religious reconversion
+D. Library—land tenure; Adi-Hindu—literary examinations; women’s conferences—official appointments
 
 **Answer: A.** The movements overlapped but addressed different forms of exclusion.
 
 ### MCQ 23. Which statement best describes Andhra Mahasabha’s evolution?
 
-A. Its programme never changed after 1930
+A. A cultural conference platform that remained solely literary after 1944
 B. A cultural conference platform later engaged social and agrarian questions
-C. It was founded in 2015
-D. It was the same as the Parishath
+C. A literary institution founded at Reddy Hostel in 1943
+D. A constitutional organisation founded in 1938
 
 **Answer: B.** The organisation’s agenda and constituencies changed over time, with later ideological disputes.
 
 ### MCQ 24. A strong assessment of the library movement should ask:
 
-A. Only how many buildings were named
+A. Only the size of its book collection
 B. Who had access and whether participation expanded
-C. Only which book had the most pages
-D. Whether all villagers automatically gained voting rights
+C. Only the names of its founding patrons
+D. Only the number of conferences held
 
 **Answer: B.** Access by gender, caste and class determines whether institutional growth widened the public sphere.
 
 ### MCQ 25. Which evidence is best for the precise text of a 1930 conference resolution?
 
 A. Original conference proceedings
-B. A later celebratory speech alone
-C. A modern exam coaching slogan
-D. A library building photograph
+B. A later institutional retrospective
+C. A contemporary newspaper summary of the meeting
+D. A government school textbook summary
 
 **Answer: A.** Original minutes are needed to certify wording and adoption; secondary summaries may be incomplete.
 
 ### MCQ 26. Why are exact 1938 Osmania expulsion totals left unconfirmed?
 
-A. There was no student movement
+A. University registers establish one undisputed total
 B. Retrospective accounts mix suspensions, expulsions and institutions
-C. Numbers can never be historical evidence
-D. All original registers are published here
+C. All later newspaper reports give the same category and total
+D. The controversy concerned curriculum alone, not student discipline
 
 **Answer: B.** Original university registers are needed to separate categories and verify totals.
 
@@ -730,34 +730,34 @@ D. All original registers are published here
 A. An institution was established
 B. Organisers created a collection
 C. Literacy increased in every rural village
-D. A meeting space existed
+D. The founding charter named its organisers
 
 **Answer: C.** Founding a library does not demonstrate universal or measurable educational outcomes.
 
 ### MCQ 28. The 1943 Parishath founding account identifies its meeting place as:
 
 A. Reddy Hostel library hall in Hyderabad
-B. Golconda Fort
-C. Madras University Senate Hall
-D. Jogipet railway station
+B. Viveka Vardhini College in Hyderabad
+C. Sri Krishnadevaraya Andhra Bhasha Nilayam
+D. Osmania University campus
 
 **Answer: A.** The Parishath’s own institutional history names the Reddy Hostel library hall.
 
 ### MCQ 29. Which pair is correctly distinguished?
 
 A. Hyderabad State Congress—constitutional politics; Andhra Jana Sangham—early cultural organisation
-B. Both—identical 1901 libraries
+B. Hyderabad State Congress—literary exams; Andhra Jana Sangham—responsible ministry
 C. Parishath—1930 Jogipet; Mahasabha—1943 Hyderabad
-D. Durgabai Sabha—Hyderabad State Congress wing
+D. Adi-Hindu—Vedic reform; Arya Samaj—Telugu literary examinations
 
 **Answer: A.** The two organisations had different principal programmes, although activists’ networks could overlap.
 
 ### MCQ 30. What is the most defensible overall interpretation of socio-cultural awakening?
 
-A. One leader caused every movement
+A. Linguistic assertion alone explains every subsequent movement
 B. Distinct linguistic, caste, gender and political movements interacted unevenly
-C. Every organisation began as a separate-state movement
-D. There was no social conflict
+C. Caste reform had no relationship with education or public networks
+D. All women’s activism originated in the 1938 Madras organisation
 
 **Answer: B.** Multiple organisations and interests shaped an uneven, non-linear transformation of public life.
 
