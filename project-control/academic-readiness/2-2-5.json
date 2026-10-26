@@ -18,16 +18,16 @@
   },
   "gate_evidence": {
     "R1": "Official commission Notification No. 02/2024, Annexure II, PDF p.29; full direct primary document accessed 26 Oct 2026; 8 subpoints mapped to chapter sections.",
-    "R2": "Original 8-page PDF, 25-section 2307-word detailed notes and 1205-word earlier peasant-sanghams/women supplement inventoried; integrated 9462-word student draft assembled without overwriting originals. Editorial duplicate/contradiction sweep outstanding.",
+    "R2": "Original 8-page legacy PDF and earlier supplement preserved; integrated edition updated in-place on 26 Oct. Eight major shallow sections expanded; independent de-duplication and contradiction sweep of all 25 sections still outstanding. R2 IN_PROGRESS.",
     "R3": "26 Oct editorial correction: eight priority concepts (§§8,9,13,16,18,19,21,22) expanded to ~370-455 words each; sections <150 words reduced from 17/25 to 9/25. Other shallow sections remain; R3 IN_PROGRESS.",
     "R4": "Historical source register expanded S10-S15: Sundarayya participant retrospective explicitly says 21 Oct 1951; May 1951 party policy is NOT the October withdrawal announcement; contemporary Patel statement and Nehru correspondence on Nov 1947 standstill recovered; signed original and other archival documents remain unavailable. R4 BLOCKED.",
-    "R5": "All 30 original four-option practice MCQs rewritten with more plausible distractors; answer positions A7/B7/C8/D8. Historical correctness and distractor discrimination still require independent validation; zero official PYQs. R5 IN_PROGRESS.",
+    "R5": "All 30 original MCQs rewritten with plausible same-topic distractors; keys A7/B7/C8/D8. Answers and explanations retain source-ID references. Independent question fact-check and discriminatory quality review still outstanding. R5 IN_PROGRESS.",
     "R6": "Six structured original mains answers, word counts 218/201/214/214/208/209, plus six answer blueprints. Independent historical-content review outstanding.",
     "R7": "Three original SVG process diagrams, timeline, comparative table, revision traps and 2026 commemoration linked to dated government release. Student usability review outstanding.",
-    "R8": "Corrected searchable 29-page PDF generated and all pages rendered to montages and visually inspected locally; 3 SVG diagrams; original legacy PDF SHA256 preserved. GitHub remote packaging and public browser QA still to verify. R8 IN_PROGRESS."
+    "R8": "Corrected 29-page searchable PDF and 30-MCQ Markdown published on GitHub; packaging workflow 40271191738 SUCCESS, artifact 12628835779 actually downloaded; 1433 files, 75 original topic PDFs, 75 readiness JSON, 78 HTML pages, 459 relative links/0 broken, outer/inner ZIP CRC PASS, corrected PDF byte-identical, original legacy PDF SHA256 preserved. Public Pages browser usability NOT verified; R8 IN_PROGRESS."
   },
   "original_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
-  "integrated_md_sha256": "86dfe7ba83a0773d3d476e14162aca1a72c663a847158f857b2942b40c83d292",
+  "integrated_md_sha256": "d90541a2194f5ed383a27e466ee3780642177d63fd1b648e8ab4303d62e56035",
   "integrated_pdf_sha256": "39fc145f7adbe32204afc0d50a7d26fbcf73f7f95860a347c5a2fb60931b1cba",
   "integrated_pdf_pages": 29,
   "integrated_words": 12908,

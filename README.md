@@ -4,9 +4,15 @@ Independent educational project covering Papers II-VI: five papers, three units 
 
 **Website:** https://chandu1507.github.io/tgpsc-material/
 
-## Current publication checkpoint — 25 October 2026
+## Current publication checkpoint — 26 October 2026
 
-**74/75 published draft PDF/chapter pairs; 1 without first published PDF; zero independently academically approved.** Latest: Paper VI Unit III Topic 4 — cultural revivalism, social participation and 2011 major protests. Original ~10,000-word manuscript, 30 explained original MCQs, six 200–250-word structured mains answers and three original diagrams. Original TGPSC Notification 02/2024 syllabus clause directly inspected. Paper III Unit I Topic 1 received an original partial-depth supplement and recovered editable master; its original PDF remains unchanged. Academic review pending.
+**75/75 first-draft chapter/PDF pairs published; 0/75 topics have passed all eight academic-readiness gates; 0 independently academically approved.** The academic-readiness process is separate from initial draft publication.
+
+- **Topic 2-2-4:** integrated student-edition pilot and official syllabus mapping R1 PASS; R2–R8 remain incomplete/blocked.
+- **Topic 2-2-5:** corrected integrated student edition, 29-page PDF, eight priority sections expanded, 30 original explained MCQs with balanced answer positions, six mains answers, three diagrams; official syllabus mapping R1 PASS. Nine short narrative sections, historical primary-source gaps, independent MCQ verification and public-site usability remain open. R2–R8 NOT PASS.
+- **73 other topics:** individual readiness assessment NOT STARTED. The original first-draft PDFs remain preserved.
+
+Read the [75-topic readiness tracker](project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json), [Topic 5 correction QA](project-control/academic-readiness/2-2-5-editorial-correction-2026-10-26.json) and [downloaded GitHub package QA](project-control/academic-readiness/2-2-5-corrected-remote-publication-qa-2026-10-26.json).
 
 ## Historical recovery note — 23 October 2026 (superseded by current checkpoint)
 
