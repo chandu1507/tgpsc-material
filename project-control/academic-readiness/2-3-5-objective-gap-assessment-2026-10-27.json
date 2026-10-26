@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-5",
+  "kind": "objective_original_archive_gap_assessment_not_academic_approval",
+  "source_snapshot": "Downloaded actual GitHub Actions artifact 12671934843 (2026-10-26), checked against fresh GitHub main 2026-10-27",
+  "verified_remote_git_blob_sha": {
+    "detailed_notes": "9ae6c64bcaac5f6c12e876d5287feecd03ac9d34",
+    "mains": "b3c4957e32c2e5c2cdb95a312bbd516bf75d53c9",
+    "original_pdf": "c8f5cfacfd1ff2f027698fc8d1e00907fb5da065"
+  },
+  "preserved_original_pdf": {
+    "pages": 8,
+    "sha256": "a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18",
+    "extracted_words": 3356
+  },
+  "detailed_notes": {
+    "numbered_concepts": 16,
+    "concepts_under_150_words": 16,
+    "concepts_under_300_words": 16,
+    "word_counts": [
+      114,
+      108,
+      98,
+      102,
+      102,
+      114,
+      119,
+      115,
+      111,
+      112,
+      107,
+      111,
+      99,
+      95,
+      94,
+      99
+    ],
+    "method": "Whitespace-separated tokens between numbered ## headings"
+  },
+  "existing_repair": {
+    "file": "source/depth-repair-urbanisation.md",
+    "words_approx": 1378,
+    "sections": 8,
+    "exists": true,
+    "not_demonstrated_synchronized_with_original_pdf": true
+  },
+  "question_inventory": {
+    "original_explained_four_option_mcqs": 0,
+    "authenticated_official_mcq_pyqs": 0,
+    "original_mains_answers": 2,
+    "body_whitespace_word_counts": [
+      247,
+      247
+    ],
+    "authenticated_official_mains_pyqs": 0
+  },
+  "visuals": {
+    "svg_diagrams": 0,
+    "text_only_conceptual_diagram": true
+  },
+  "factual_issues": [
+    "quality-audit.md incorrectly checks 'Detailed nonrepetitive chapter' despite 16/16 core concepts under 150 words",
+    "quality-audit.md checks 'Diagrams' although only an ASCII conceptual flow is present, no original SVG",
+    "references.md relies on a third-party reproduction of the syllabus; original commission clause-by-clause R1 still requires direct verification",
+    "No 25 explained original MCQs, no six structured mains answers, and no synchronized integrated student edition PDF"
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "NOT_STARTED",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "approval": {
+    "independent_subject_expert_review": false,
+    "academic_approved": false
+  },
+  "next": "Preserve original PDF, merge 16 short core concepts with eight-section prior repair into one textbook-depth master, 25+ verified original MCQs, six complete mains, original diagrams, dated official sources, synchronized PDF and downloaded artifact QA."
+}
