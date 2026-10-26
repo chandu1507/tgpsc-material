@@ -24,10 +24,10 @@
     "R5": "26 October 2026: 24 item-level corrections (21 formerly weak, 3 borderline) applied IN PLACE to the 30-question integrated student edition; 30/30 retain four options, keys, explanations, source tags and distribution A7/B7/C8/D8. Evidence: project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json. This is internal editorial correction, not independent historical verification; R5 remains IN_PROGRESS.",
     "R6": "Six structured original mains answers, word counts 218/201/214/214/208/209, plus six answer blueprints. Independent historical-content review outstanding.",
     "R7": "Three original SVG process diagrams, timeline, comparative table, revision traps and 2026 commemoration linked to dated government release. Student usability review outstanding.",
-    "R8": "GitHub renderer run 40282393196 SUCCESS; updated searchable PDF 35 pages, SHA256 005328f3df628bb43dd10380a8a0b025a925186c24233ab4a7bee3d8def45374; original legacy PDF SHA checked by CI. Packaging run 40282393231 SUCCESS and artifact 12632432411 exists but was NOT downloaded/CRC checked in this run and may predate PDF render. Public browser usability unverified; R8 IN_PROGRESS."
+    "R8": "26 Oct 2026: CI PDF render run 40282393196 SUCCESS, 35 pages and no empty text pages; actual post-render packaging run 40282546021 SUCCESS, artifact 12632727015 downloaded and inspected, outer/inner ZIP CRC PASS, 1441 files, 75 original PDFs, 75 readiness JSONs, 78 HTML pages, 459 relative links/zero broken; original Topic5 PDF SHA256 unchanged; integrated MD SHA256 2ff073fa853166b0b1606235ac4c9cbb9c8df5398bf6b96ed0f429d25a39b681, PDF SHA256 005328f3df628bb43dd10380a8a0b025a925186c24233ab4a7bee3d8def45374. Five contact sheets covering all 35 pages inspected for gross layout. Public browser and detailed legibility/accessibility not independently verified. QA project-control/academic-readiness/2-2-5-mcq-revised-artifact-qa-verified-2026-10-26.json. R8 IN_PROGRESS."
   },
   "original_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
-  "integrated_md_sha256": null,
+  "integrated_md_sha256": "2ff073fa853166b0b1606235ac4c9cbb9c8df5398bf6b96ed0f429d25a39b681",
   "integrated_pdf_sha256": "005328f3df628bb43dd10380a8a0b025a925186c24233ab4a7bee3d8def45374",
   "integrated_pdf_pages": 35,
   "integrated_words": 15938,
@@ -50,8 +50,7 @@
     "Inspect signed Standstill Agreement, original October 1951 withdrawal text, Sunderlal full original and Gond archival records",
     "Independent textbook-depth and deduplication review after expansion; all sections meet 150-word mechanical floor, which is not academic sign-off",
     "Verify public GitHub Pages topic 2-2-5 PDF navigation and usability in a real browser",
-    "Independently verify factual keys, explanations and discrimination of 30 revised MCQs; editorial rewrite alone does not pass R5",
-    "Download and CRC-check a fresh GitHub artifact built after the 35-page PDF commit; visually review every PDF page"
+    "Independently verify factual keys, explanations and discrimination of 30 revised MCQs; editorial rewrite alone does not pass R5"
   ],
   "sources": [
     {
@@ -81,6 +80,6 @@
   ],
   "depth_expansion_qa": "project-control/academic-readiness/2-2-5-depth-expansion-2026-10-26.json",
   "integrated_md_blob_sha": "c9086e3a888ea14075895ccd798d4cd8ba5ea42d",
-  "integrated_md_sha256_status": "recompute from remote after revision; previous SHA256 is obsolete",
-  "mcq_discrimination_revision_report": "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json"
+  "mcq_discrimination_revision_report": "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json",
+  "verified_mcq_revision_artifact_qa": "project-control/academic-readiness/2-2-5-mcq-revised-artifact-qa-verified-2026-10-26.json"
 }
