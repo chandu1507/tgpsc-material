@@ -8,7 +8,7 @@
   "not_assessed_count": 73,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 existing topics. Topics 2-2-4 and 2-2-5 have R1 PASS; none fully ready or academically approved. Topic 2-2-5 has 25 narrative sections >=150 words, 24/30 MCQs substantively rewritten in place after distractor preflight, and a CI-rendered 35-page integrated PDF. R5 remains IN_PROGRESS pending independent fact/discrimination checks; R4 BLOCKED on original archives; R8 pending fresh archive CRC and browser usability.",
+  "warning": "Exactly 75 topics. Topics 2-2-4 and 2-2-5 have R1 PASS; ZERO fully ready or academically approved. Topic 2-2-5 MCQ correction (24/30 rewritten) and 35-page integrated PDF have been verified in an actual downloaded post-render GitHub artifact (CRC/75 original PDFs/75 readiness JSON/459 links PASS). R5 remains IN_PROGRESS pending independent factual item review; R4 BLOCKED on originals; R8 pending public browser and detailed student usability.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -94,6 +94,7 @@
   ],
   "verified_R1_pass_count": 2,
   "recent_evidence": [
+    "project-control/academic-readiness/2-2-5-mcq-revised-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-corrected-remote-publication-qa-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-editorial-correction-2026-10-26.json",
