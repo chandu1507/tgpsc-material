@@ -40,3 +40,9 @@ INDIAN SOCIETY
 Village production and care networks ⇆ migration / commuting / remittances ⇆ town-level trade and services ⇆ metropolitan labour and education.
 
 **Limit:** This is a functional map, not a claim that all rural communities automatically urbanise in one direction.
+
+## Original editable SVG: negotiated social integration (27 October 2026)
+
+![Three enabling pathways to negotiated integration, with exclusion risks and measurable outcomes](indian-society-integration-mechanisms.svg)
+
+The vector diagram distinguishes constitutional membership, economic interdependence and cultural interaction. Arrows indicate **potential enabling mechanisms**, not an inevitable result: discrimination and unequal power can interrupt each. In mains answers, test integration through disaggregated access, participation and grievance outcomes. The diagram is original and editable; its presence in source does **not** establish inclusion in a synchronized integrated PDF or completion of R7/R8.
