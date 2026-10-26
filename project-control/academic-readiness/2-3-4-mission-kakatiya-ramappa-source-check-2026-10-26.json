@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-4",
+  "kind": "partial_primary_source_correlation_not_full_R4",
+  "checked_claims": [
+    {
+      "id": "K1",
+      "claim": "Mission Kakatiya is a Telangana government programme to restore minor irrigation tanks and strengthen community irrigation management",
+      "source": "https://www.telangana.gov.in/mission-kakatiya/",
+      "status": "CORROBORATED_OFFICIAL_STATE_PORTAL",
+      "limitation": "Programme objective, not independently measured outcome."
+    },
+    {
+      "id": "K2",
+      "claim": "Government's 2014 minor irrigation source enumeration counted 46,531 tanks and other sources for planned phased restoration",
+      "source": "https://www.telangana.gov.in/mission-kakatiya/",
+      "status": "CORROBORATED_AS_HISTORICAL_2014_BASELINE",
+      "limitation": "Do NOT label 46,531 as a fresh 2026 tank count; official portal references old district structure."
+    },
+    {
+      "id": "K3",
+      "claim": "Tank-restoration works include desilting, feeder channels, bunds, weirs and sluices",
+      "source": "https://www.telangana.gov.in/mission-kakatiya/",
+      "status": "CORROBORATED_OFFICIAL_PROGRAMME_DESCRIPTION",
+      "limitation": "Description of works, not verification of completion or net basin-wide water savings."
+    },
+    {
+      "id": "K4",
+      "claim": "UNESCO 2026 decision 48 COM 7B.11 welcomed reported progress toward extending Ramappa buffer zone to include canals and Lake Ramappa, encouraged minor boundary modification request by 1 February 2027 and noted updated HIA for PRASHAD",
+      "source": "https://whc.unesco.org/en/decisions/?id_decision=9068",
+      "status": "CORROBORATED_ORIGINAL_UNESCO_DECISION",
+      "limitation": "Do NOT claim the buffer-zone extension was already legally completed or the project received unconditional approval."
+    }
+  ],
+  "risk_note": "Official Mission Kakatiya portal contains historical/political advocacy and district counts from earlier periods; use only attributed, dated programme details, not as independent impact evaluation.",
+  "R4": "IN_PROGRESS",
+  "independent_academic_approval": false
+}
