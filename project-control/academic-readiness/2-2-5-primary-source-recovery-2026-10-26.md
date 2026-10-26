@@ -1,0 +1,32 @@
+# Topic 2-2-5 — Claim-level source recovery (26 October 2026)
+
+**Scope:** evidence register for the existing integrated student edition of *People's Movement against Nizam's Rule*. This is **research control**, not a student-facing supplementary chapter and **not academic approval**. Historical primary texts are identified by their original authorship; a later reprint/transcription is not the original signed manuscript.
+
+## Verified or partially verified historical claims
+
+| Claim ID | Precise claim and relevance | Source and its provenance | Finding | Status |
+|---|---|---|---|---|
+| T5-C01 | Hyderabad and the Dominion of India entered a temporary Standstill Agreement on 29 November 1947, pending a final constitutional settlement. | Sardar Vallabhbhai Patel, statement to the Constituent Assembly, 29 Nov 1947, reproduced in *Sardar Patel on Indian Problems*, hosted by Lal Bahadur Shastri National Academy of Administration library: https://gsl.lbsnaa.gov.in/opac-tmpl/bootstrap/Books/116572.pdf ; also V. P. Menon, *The Story of the Integration of the Indian States*, agreement analysis: https://sanipanhwar.com/uploads/books/2024-08-28_13-57-31_eda96d7c8be6df9668f2573df23c2c92.pdf | Agreement was temporary, designed to preserve administrative arrangements of common concern; it was not the Instrument of Accession. Patel's reproduced contemporaneous statement and Menon's participant account agree on this point. Full signed agreement original not independently inspected. | **PARTIALLY_VERIFIED** |
+| T5-C02 | The Standstill Agreement's one-year term and the distinction between continued arrangements and paramountcy are important legal distinctions. | V. P. Menon, *The Story of the Integration of the Indian States*, chapter on Hyderabad, describing Articles I–V; the Government of India's *White Paper on Indian States* (1950), Part 11, reproduced at https://en.wikisource.org/wiki/White_Paper_on_Indian_States_%281950%29/Part_11/Establishment_of_Constitutional_Relationship_with_Hyderabad_State | The participant narrative describes a one-year term, appointment of agents, arbitration and exclusion of paramountcy functions. The government retrospective confirms that the 1947 agreement did not itself constitute full accession. Compare each text's standpoint; do not treat the White Paper as politically neutral. | **PARTIALLY_VERIFIED** |
+| T5-C03 | The Communist Party's May 1951 central committee resolution concerned the ongoing Telangana struggle, protection of peasant holdings, civil liberties and possible negotiations. | *1951 May CPI Central Committee Resolution on Telangana*, retranslated from Telugu, attributed to the Andhra Provincial Committee, reproduced from P. Sundarayya, *Telengana People's Struggle and Its Lessons*: https://www.marxists.org/subject/india/cpi/51-telengana-resolution.pdf | This four-page **contemporaneous party resolution in later retranslation** supports that the armed struggle had continued beyond 1948 and records demands on land possession, forest use, village elections, release of prisoners and restoration of liberties. It is a partisan primary statement, not independent evidence that demands were achieved. | **VERIFIED_AS_PARTY_POSITION** |
+| T5-C04 | The CPI's broader tactical discussion in 1951 was contested and changed during the year. | CPI *Tactical Line*, adopted April 1951, later published in Mohit Sen (ed.), *Documents of the History of the CPI*, vol. VIII: https://revolutionarydemocracy.org/archive/cpi1951.htm ; CPI *Statement of Policy*, adopted Calcutta conference and first published November 1951: https://www.revolutionarydemocracy.org/archive/1951policy.htm | These party texts establish changes in strategic reasoning and the importance of agrarian issues. **Neither document is the original October 1951 Telangana withdrawal announcement.** | **VERIFIED_AS_PARTY_POSITION** |
+| T5-C05 | Reports of post-September 1948 communal violence require historical attention, but casualty totals must be tied to report scope and methodology. | Excerpts attributed to the Sunderlal mission's 1948 report, with NMML Subject File No. 2 reference, republished at https://bagichablog.com/2018/09/17/70-years-ago-extracts-of-the-sunderlal-report-hyderabad-1948/ | The excerpts describe a goodwill mission and visits to parts of Hyderabad State. The original complete archival report was **not** independently opened here. The excerpt itself cautions against equating the mission with a comprehensive formal investigation. No exact casualty count is certified. | **PARTIAL_SECONDARY_TRANSCRIPTION** |
+
+## Historical distinctions now supportable in student notes
+
+1. **1947 is not 1948:** a temporary agreement on existing arrangements is not a final accession instrument.
+2. **1948 is not 1951:** the end of the Nizam's military resistance and the withdrawal of communist-led peasant armed struggle are different developments.
+3. **May 1951 is not October 1951:** the retrieved May party resolution describes continuing struggle and negotiation demands. It **does not** authenticate a particular October withdrawal date or text.
+4. **Primary authorship is not neutrality:** Patel's governmental statement and the CPI's party resolution are first-person institutional positions, not uncontested accounts of social outcomes.
+
+## Unresolved primary-document requests (R4 remains BLOCKED)
+
+- Signed 29 November 1947 agreement in an authenticated government archival scan, rather than participant transcription.
+- Original October 1951 CPI withdrawal resolution/announcement, with date and signatures, rather than the May 1951 party resolution.
+- Full original Sunderlal mission report with provenance and appendices; avoid unsourced casualty figures.
+- Nineteenth-century Adilabad/Nirmal Gazetteer passages on Ramji Gond and 1940 Adilabad police/forest records on Komaram Bheem.
+- Original September 1948 Hyderabad and Government of India military/administrative orders.
+
+## Editorial instruction
+
+Integrate the verified legal and political distinctions into the existing Topic 2-2-5 student edition at §§16, 17, 20 and the source register **only when the chapter and its PDF can be revised together**. Do not publish another disconnected student supplement. Keep R4 BLOCKED until the remaining high-risk claims are verified or explicitly excluded from the student edition.
