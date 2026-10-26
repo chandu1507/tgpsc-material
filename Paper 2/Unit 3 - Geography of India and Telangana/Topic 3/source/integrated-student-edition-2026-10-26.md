@@ -1,0 +1,508 @@
+# TGPSC Group I — Paper II / Unit III / Topic 3: Integrated Telangana Physical Geography Student Edition
+
+**Status: WORKING INTEGRATED DRAFT — NOT academically ready or approved.** Legacy 15-page topic PDF is preserved separately. The official TGPSC syllabus mapping below is transcribed from repository source; original commission PDF retrieval in this run returned HTTP 403, so R1 is IN_PROGRESS.
+
+## Part A — Syllabus coverage (provisional until direct commission PDF recheck)
+
+| Existing syllabus clause | Integrated coverage |
+|---|---|
+| Geographical extent of Hyderabad State versus Telangana | §1 |
+| Physical setting, geology and relief | §§2–3 |
+| Climate | §4 |
+| Rivers and hydrological resources | §§5–7,14 |
+| Soils | §8 |
+| Forests, wildlife, depletion and conservation | §§9,14 |
+| Coal, iron and limestone | §§10–11 |
+| Thermal and hydropower projects, problems and prospects | §§12–13 |
+
+## Part B — Quick revision and diagrams
+
+1. Hyderabad State (pre-1956), Andhra Pradesh (1956–2014) and present Telangana (from 2 June 2014) are different mapping units [T1,T2].
+2. The 2022 groundwater report estimates about 81% consolidated hard-rock geological area; this is not a borewell-success statistic [T3].
+3. A whole-basin water budget must not count aquifer recharge twice [T7].
+4. Godavari: Pranhita/Manjira systems; Krishna: Musi and multipurpose reservoirs; label basin versus command.
+5. Forest cover, recorded forest area and tiger-reserve core are different categories [T4,T5,T9].
+6. NTPC Ramagundam's 2,600 MW is installed capacity, not yearly generation [T8].
+7. Source-year and denominator must accompany all reserve, groundwater and power statistics.
+
+**Diagram 1 — conceptual hard-rock catchment:** rainfall → infiltration → weathered mantle → fractured bedrock / aquifer → well withdrawal or stream baseflow. Overland runoff reaches tanks and rivers; recharge is an internal transfer, not extra rainfall.
+
+**Diagram 2 — ecological landscape:** Amrabad core ↔ buffer ↔ surrounding Nallamala habitat; Kawal core ↔ surrounding forest mosaic ↔ wider central-Indian corridor. These are conceptual links, NOT surveyed reserve-boundary maps.
+
+## Part C — Integrated explanatory chapter
+
+# Telangana Physical Geography: Relief, Climate, Rivers, Soils, Forests, Minerals and Power
+
+## 1. Boundary question: Hyderabad State versus Telangana State
+Hyderabad State under the Nizams was a multilingual princely state containing the Telangana region as well as substantial Marathi- and Kannada-speaking territories. The state was integrated into the Indian Union in 1948; the 1956 reorganisation separated the Telugu-speaking Telangana districts from Hyderabad State and merged them with Andhra State to form Andhra Pradesh, subject to the political safeguards debated at the time. Telangana became a separate state on **2 June 2014**. These dates must not be compressed into a single 'state formation' event. To interpret an old rainfall, forest or population map, first identify which spatial unit it describes: the princely state, districts of undivided Andhra Pradesh, or today's Telangana. Current district boundaries also differ from those used by the 2011 Census. The decisive examination principle is **comparability**: an apparent rise in urban share or forest area can reflect boundary change, revised mapping or genuine environmental change.
+
+**Boundary-sensitive worked example.** Suppose a 2011 district recorded 20% forest cover and a later, smaller district created by reorganisation reports 27%. Without reconstructing both areas on a common geographic boundary, the seven-point difference cannot establish afforestation. The same problem arises when comparing literacy, population density or rainfall from Hyderabad State, undivided Andhra Pradesh and present-day Telangana. The Andhra Pradesh Reorganisation Act, 2014 and the state government's statistical profile distinguish legal state formation from later district administration [T1,T2]. For exam maps, write the reference year and boundary system beside every observation. If an old map shows 'Hyderabad State', do not shade the current Telangana outline as though the territories were identical. This is a source-comparability rule, not a merely historical footnote.
+
+## 2. Geological foundation: Deccan basalt versus crystalline basement
+Telangana lies predominantly on the Peninsular Plateau, but the geology is not uniform. Widespread Archaean granite and gneiss underpin much of its interior, giving rise to rocky tors, residual hills, pediplains and hard-rock aquifers. In parts of the northern and eastern region, Gondwana sedimentary formations are significant, notably for coal in the Godavari Valley. Portions of the northwestern margins carry Deccan basalt influences. This rock distinction has practical consequences. A fractured granite aquifer stores groundwater mainly in weathered and jointed zones; a thick alluvial aquifer behaves differently. A limestone-bearing formation can sustain cement activity only where grade, continuity, access and environmental permissions make quarrying viable. In an answer, link geology to groundwater, minerals and soil—not just to the shape of the plateau.
+
+**Aquifer mechanism and evidence.** The joint 2022 Telangana groundwater assessment describes roughly 81% of the state as underlain by consolidated hard-rock formations; the remaining area includes semi-consolidated sedimentary and unconsolidated deposits [T3]. The 81% is a geological-area estimate from that dated report, not a claim that 81% of all wells are hard-rock wells. In granitic terrain, fresh unfractured rock has little primary porosity; weathering, joints and fractures provide storage and pathways. A productive borewell may intercept connected fractures while a nearby one fails. Gondwana sediments and alluvium can have different transmissivity and storage. The practical policy implication is to combine geological mapping, test pumping and seasonal groundwater observation instead of promising uniform borewell yields. Distinguish *aquifer* (water-bearing formation), *water table* (hydraulic surface), *recharge* (input flux), and *safe yield* (a management judgment, not a fixed rock property).
+
+## 3. Relief and geomorphological processes
+The land is generally a dissected plateau of low to moderate relief with hill groups, granite outcrops and river valleys. Important local uplands occur around the Hyderabad region and further north and east; residual hills and escarpments reflect differential weathering and structural control rather than mountain building of Himalayan scale. River erosion creates incised courses, alluvial stretches and valley-floor agricultural opportunities. Relief affects settlement and infrastructure: a road between plateau surfaces can be relatively direct, whereas routes through forested hill tracts demand cuttings and drainage structures. Granite outcrops also influence the distribution of tanks, as modest natural depressions can be engineered to retain runoff. Diagrams should label **plateau surface → weathered mantle → jointed bedrock → drainage valley**; this is more instructive than an unlabeled Telangana outline.
+
+**Relief-to-drainage explanation.** The plateau is not a single level slab. Resistant rock masses persist as residual hills while weathered zones and structurally guided valleys become preferential drainage corridors. Intense storms on a thin-soil slope can produce rapid overland flow; a nearby deeper weathered valley may temporarily store more water. This explains why two villages at similar elevation can have different tank-site opportunities. Road cuts and mining benches can interrupt slope drainage and raise erosion risk unless cross-drainage is provided. A labelled cross-section should therefore show the hill crest, weathered mantle, fractured bedrock, valley channel and direction of groundwater movement; it should not pretend to be a surveyed geological section of a named district.
+
+## 4. Climate: seasonal monsoon and continentality
+Telangana has a tropical semi-arid to sub-humid monsoonal regime with hot pre-monsoon months and a marked southwest monsoon season. Variability, not one statewide average, is the important feature. The northeastern and forested Godavari belt can differ from the drier southwestern plateau. The Bay of Bengal low-pressure systems and monsoon depressions are important rainfall pathways; interannual rainfall is influenced by ENSO, Indian Ocean conditions and intraseasonal oscillations, none of which creates a deterministic one-to-one prediction for a district. High temperatures increase potential evapotranspiration, so the same annual rainfall may translate into different effective moisture depending on storm timing and soil storage. **Exam distinction:** meteorological drought is rainfall deficit; agricultural drought is soil-moisture stress; hydrological drought is declining reservoir, stream and aquifer storage. They may be sequential but are not identical.
+
+**How to interpret rainfall anomalies.** Rainfall 'normal' is a reference-period statistic, not a guarantee that rain arrives at the right crop stage. A season with near-normal total rain can contain a long dry spell followed by a few very intense events. The dry spell stresses crops, while later storms cause runoff and urban flooding; one seasonal percentage hides both hazards. Different districts receive different shares of rainfall from Bay of Bengal systems and local convection. ENSO influences probability but cannot determine a particular village's outcome by itself. For exam answers, compare monthly distribution, number of rainy days, temperature-driven evaporative demand and soil-moisture retention, not only the state-wide total. Use dated IMD district reports for numerical examples rather than extrapolating national monsoon percentages to Telangana.
+
+## 5. Godavari basin: rivers, catchments and irrigation geography
+The Godavari and its tributaries drain large portions of northern and eastern Telangana. The **Pranhita**, formed by the Wardha–Wainganga system, joins the Godavari near the Telangana–Maharashtra border region; the **Indravati** approaches the wider Godavari system from the east. The **Manjira** is an important Godavari tributary and water source with a cross-border catchment. The River Godavari also passes through forest and tribal landscapes, where irrigation projects raise questions of submergence, displacement, habitat fragmentation and downstream environmental flows. Map-based answers should distinguish **main river, tributary, sub-basin, reservoir and lift-irrigation command**. A canal command is not equivalent to all farms within a district. During extreme rainfall, catchment saturation, reservoir operations and floodplain encroachment jointly influence downstream risk.
+
+**Basin accounting and submergence.** A river map identifies physical drainage; a project command map identifies infrastructure and distribution rights. They should never be substituted for one another. A Godavari tributary can rise outside Telangana and carry water through several jurisdictions before reaching a reservoir or barrage. Storage or diversion can improve dry-season irrigation for one command while altering downstream flows and inundating another landscape. Analyse reservoir inflow, dependable yield, pumping energy, sedimentation, command-area delivery and rehabilitation separately. Pranhita and Manjira should be located as tributary systems, not labelled as distributaries of the Godavari. When drawing a schematic, mark upstream–downstream direction and avoid inventing precise canal routes without official engineering maps.
+
+## 6. Krishna basin: Telangana's southern river system
+The **Krishna** forms a major southern drainage axis; **Bhima**, **Musi** and other sub-basin systems connect plateau agriculture and urban runoff to the larger Krishna system. Hyderabad's Musi River is a particularly important example because natural river hydrology now interacts with wastewater discharge, encroachments, flood risk and engineered drains. **Nagarjuna Sagar** on the Krishna is crucial to the wider region, but location-specific claims should distinguish the dam, bank canals and distribution system. Inter-state water-sharing disputes concern allocation rules and operational measurements as much as rainfall. Avoid asserting that every irrigation project creates net new water: reservoirs, diversions and pumping relocate the timing and place of water use and can create competing demands among sectors.
+
+**Urban catchment worked example.** Consider a Musi tributary catchment where formerly permeable land becomes roads, parking surfaces and buildings. The same short storm can then produce a sharper runoff peak even if annual rainfall is unchanged. Narrowed floodplains and blocked storm drains magnify inundation. Separately, untreated wastewater can make a river unsuitable for domestic use despite apparently adequate flow. These are different dimensions of water security: quantity, quality and flood safety. A Krishna-basin answer should therefore connect natural catchments with land-use permissions, sewage treatment, floodplain management and interstate reservoir operations. Naming a dam without identifying which benefit is being assessed—power, irrigation, flood moderation or drinking water—is insufficient.
+
+## 7. Surface water versus groundwater: hydrological balance
+**Water-budget correction (26 October 2026):** A catchment-wide accounting identity is **precipitation + imported inflows = evapotranspiration + streamflow/other exports + change in total storage** over a specified period and boundary. Aquifer recharge is an **internal transfer** from soil/unsaturated storage to groundwater and must not be added again as an independent catchment-wide loss if groundwater storage and eventual baseflow are already counted. A *soil-zone-only* budget can legitimately include recharge as an outflow, provided its storage term excludes groundwater. The earlier unqualified equation risked double counting. See the USGS water-budget framework [T7]. In hard-rock Telangana, many wells depend on thin weathered zones and discontinuous fractures; borewell success can vary sharply over short distances. A falling water table reflects withdrawals exceeding effective recharge over time, but drawdown near a pumping well is not the same as long-term regional groundwater decline. Recharge programmes work best when tank restoration, watershed treatment, crop choice and extraction governance are considered together. **High-value answer point:** replacing flood irrigation with drip can reduce field application losses, yet basin-wide savings depend on whether 'lost' water previously recharged an aquifer or served downstream users. The hydrological accounting scale must be stated.
+
+**Two linked budgets, not one confused equation.** At the *land-surface/soil* scale, precipitation may be partitioned into evapotranspiration, direct runoff, deep percolation/recharge and change in soil moisture. At the *whole-catchment* scale, that recharge remains inside the accounting boundary until it leaves as baseflow, pumping/export or contributes to changed groundwater storage. Counting it both as an outflow and as part of groundwater storage would inflate total losses. The USGS explicitly distinguishes land-surface and groundwater budgets [T7]. A hypothetical 100-unit rainfall example could yield 55 units of evapotranspiration, 25 units of total outflow and a 20-unit storage increase, provided boundary imports/exports are zero. Some of that 20 may have passed through recharge; recharge is not a fifth independent category in this whole-basin example. For Telangana, use this distinction to test claims of 'water saved' by drip irrigation or tank desiltation.
+
+## 8. Soils and their agronomic consequences
+Red sandy or red loamy soils occur widely over granitic parent material, often with modest water-holding capacity and vulnerability to erosion on exposed slopes. Black cotton soils develop in particular geological and depositional settings; smectitic clay can swell and shrink, retaining moisture but complicating drainage and construction. Alluvial soils occur in river valleys and are often locally productive. Lateritic profiles may occur on strongly weathered uplands. The critical exam response should connect **texture, depth, drainage, organic matter, fertility and crop choice** instead of equating a soil colour with one crop. Soil testing is site-specific, and districts rarely contain only a single soil type. Conservation practices include contour bunding, mulching, diversified rotations, residue retention and appropriately designed tank-silt application with contaminant screening.
+
+**Soil-water decision example.** A shallow red loam and a deep black clay may receive the same storm but store plant-available water differently. The red loam may infiltrate rapidly yet lose moisture sooner because of lower profile storage; a swelling clay may retain substantial water but suffer waterlogging or surface cracking. These are tendencies, not universal rules, because soil structure, slope, compaction and organic matter alter outcomes. The correct recommendation is based on field sampling and crop stage. Soil conservation can reduce erosion without necessarily increasing aquifer recharge in every site. Distinguish infiltration at the surface, percolation through the profile, and recharge reaching the saturated zone.
+
+## 9. Forest distribution and wildlife corridors
+Forests are concentrated in certain northern, northeastern and eastern tracts, with dry deciduous formations, patches of more mesic vegetation and large human-used landscapes. **Kawal Tiger Reserve** in the north and **Amrabad Tiger Reserve** in the Nallamala landscape are recognisable protected-area examples. Habitat effectiveness depends on connected landscapes, prey, water, fire management and coexistence with local communities—not just a protected-area label. Fragmentation by roads, mines and settlements can affect wildlife movement, while monoculture plantations are not ecologically identical to diverse natural forest. A thoughtful answer compares forest cover, tree cover and forest legal status, which are distinct accounting concepts. Rights and customary uses of forest-dependent tribal communities must be considered alongside biodiversity goals.
+
+**What a protected-area statistic actually means.** The Wildlife Institute of India's management assessment describes Amrabad as a 2,611-km² landscape with a 2,166.37-km² core [T4]. These are different denominators; a statement about core habitat cannot automatically be applied to the whole reserve. The Kawal assessment identifies corridor connections toward the Tadoba–Kanhargaon and Tipeshwar landscapes [T5]. Corridor quality depends on land cover, human disturbance, prey availability and safe passage, not simply a line drawn between reserves. Forest *cover* derived from satellite classification differs from legally notified forest land; a plantation can increase tree cover without replacing the ecological function of a mixed natural forest. Compare conservation outcomes with local livelihood rights, fire regimes and road fragmentation rather than presenting protection and livelihoods as a zero-sum slogan.
+
+## 10. Coal: Godavari Valley and the power economy
+Coal-bearing Gondwana rocks underlie the Godavari Valley coalfield, associated prominently with the **Singareni Collieries Company Limited (SCCL)**. Mining provides industrial and electricity inputs but brings safety, worker health, overburden management, water contamination and rehabilitation liabilities. The exam should distinguish **resource**, **reserve**, **production**, and **installed generation capacity**—none is interchangeable. Open-cast and underground mining have different land footprints and employment patterns. Coal economics is also a transition problem: short-run grid reliability may depend on thermal generation while environmental costs and the competitiveness of renewables alter long-run choices. Reclamation success must be assessed through verified land and biodiversity outcomes rather than planting targets alone.
+
+**Coal value-chain and environmental balance.** A coal seam becomes an economic reserve only after geological confidence, recoverability and prevailing technical and economic conditions are considered. Extracted tonnes are a *flow*; reserves are a *stock*; installed thermal capacity measures possible instantaneous output under rated conditions. These quantities cannot be ranked on one scale. A mining district may gain wages and transport links while also facing displacement, dust, mine-water handling and eventual closure liabilities. Environmental evaluation should include progressive reclamation, monitoring of groundwater quality and worker safety. A source register must identify whether a number comes from a coal inventory, annual production report or a power-station factsheet; those publications answer different questions.
+
+## 11. Iron ore, limestone and industrial location
+Iron ore occurrences in Telangana are not equivalent to India's highest-grade, largest-producing belts. Examine geology, ore grade, extent, transport cost and market access before declaring an occurrence commercially viable. **Limestone** is a more direct industrial input in several Telangana belts and explains the geography of cement plants, because bulky raw material and kiln fuel make transport economics significant. Cement manufacturing consumes heat and releases carbon both from fuel and limestone calcination. Locational advantage should therefore be analyzed alongside quarry impact, groundwater withdrawal, dust exposure and decarbonisation pathways. The generic phrase 'minerals are abundant' earns little analytical credit unless mineral, geological host, industrial use and environmental trade-off are named.
+
+**Cement geography as a worked mechanism.** Limestone quality, continuous mineable thickness, transport costs, energy supply and proximity to demand together shape plant location. Calcination releases carbon dioxide from the limestone itself, even before fuel combustion is counted; therefore replacing kiln fuel alone cannot eliminate all process emissions. A map of limestone occurrences is not a map of economically recoverable cement-grade reserves. In a balanced answer, connect mining permits, dust control, transport efficiency, groundwater protection and post-quarry restoration to industrial benefit. Telangana's Department of Mines and Geology has a regulatory and exploration role [T6]; its departmental overview alone does not prove any specific district's reserve quantity.
+
+## 12. Thermal power: capacity, dispatch and externalities
+Thermal generation is part of Telangana's power system and the regional grid. When naming plants such as **Ramagundam** (NTPC complex) and **Bhadradri** thermal power, distinguish ownership, generation stage and exact location. Electricity capacity in MW is a stock measure; generation in MWh is an energy flow; plant load factor is utilisation, and plant availability is not identical to dispatch. Electricity demand varies by season, agriculture pumping and urban industrial load. Coal transport, ash disposal, sulphur/nitrogen emissions and water demand are central concerns. A 250-word answer should relate these physical constraints to affordability, grid stability and emission controls; merely listing power stations is inadequate.
+
+**Capacity-versus-generation trap.** NTPC's Ramagundam station page identifies 2,600 MW of installed capacity in three stages [T8]. That figure should not be confused with the separate Telangana Super Thermal Power Project or with annual generation. If a 1,000-MW plant operates at an average 70% capacity factor for 24 hours, its approximate output is 16,800 MWh—not 700 MW 'per day'. Plant availability, actual dispatch and electricity sold can all differ. A thermal plant also has water and ash-management constraints; a capacity figure alone says nothing about its emissions intensity or local air-quality compliance. For dated statistics, identify station, ownership, unit commissioning and reporting period.
+
+## 13. Hydropower, multipurpose reservoirs and environmental flows
+Hydropower works by converting head and discharge into electricity; installed capacity alone does not guarantee generation when reservoir inflows are low. **Nagarjuna Sagar** and **Srisailam** are significant multipurpose facilities in the Krishna basin system, relevant for state water and power geography. Their roles differ by storage, upstream/downstream position and cross-state operation. Hydropower helps meet peak demand in some conditions but is exposed to rainfall variability, sedimentation and competing irrigation releases. An integrated answer compares **energy output, irrigation water, flood operations, submergence, fisheries, resettlement and environmental flows**, avoiding the false assumption that maximising any one benefit optimises the entire basin.
+
+**Reservoir trade-off worked example.** A multipurpose dam cannot simultaneously hold the maximum possible water for irrigation, reserve all flood-storage space and release maximum flow for hydropower during every season. Operators face competing objectives and must respond to forecasts, inflows, sedimentation and downstream obligations. Hydropower energy is broadly proportional to water discharge multiplied by hydraulic head and efficiency; a fixed MW rating therefore cannot guarantee a fixed yearly MWh output. In the Krishna basin, explain where a named facility sits in the upstream/downstream sequence before discussing its interstate implications. Treat environmental flows, fish movement, rehabilitation and cultural sites as material constraints rather than optional afterthoughts.
+
+## 14. Conservation priority: integrated watershed and land use
+Separate schemes for soil conservation, forest management, tanks, urban flooding and groundwater can work at cross-purposes unless planned at catchment scale. For example, rapid conversion of peri-urban open land into impermeable surfaces raises flash runoff while reducing infiltration; downstream drains then receive higher peak flows. Tank chains historically moderated local hydrology, but encroachments, blocked inlets and contaminated inflows can impair function. **Decision rule:** design interventions using catchment maps, drainage connectivity, seasonal hydrographs and groundwater observations; then measure sediment removal, restored storage and equitable water delivery. Telangana's geology and semi-arid rainfall make basin-scale accounting more useful than isolated engineering figures.
+
+**Catchment-scale governance test.** Restoring a tank's storage can reduce local seasonal scarcity, but only if feeder channels function, inflow quality is acceptable and withdrawals are governed. Desilting every tank indiscriminately can disturb habitat or release contaminated sediment; each site needs an engineering and environmental diagnosis. Similarly, lining an irrigation canal may reduce seepage losses at the canal scale yet remove recharge relied upon by downstream wells. A basin-wide evaluation therefore asks *where the apparent saved water goes*, who receives it, and what changes in total depletion. Use before/after water-level monitoring, seasonal flow records and access by tail-end or small farmers, not only project expenditure or excavated silt volume.
+
+
+## Part D — 25 ORIGINAL four-option MCQs (not official PYQs)
+
+### MCQ 1. Which comparison is valid when studying forest-area change after district reorganisation?
+
+A. Compare raw totals of differently sized districts
+
+B. Use common boundaries and a consistent forest-cover definition
+
+C. Treat legal forest area as identical to satellite tree cover
+
+D. Compare 2011 district counts with current state totals
+
+**Answer: B. Explanation:** Changing district boundaries and definitions can create artificial changes in area statistics. [T1]
+
+### MCQ 2. Which event legally established the separate state of Telangana in 2014?
+
+A. Hyderabad's accession in 1948
+
+B. The States Reorganisation Act of 1956
+
+C. The Andhra Pradesh Reorganisation Act, 2014, effective on the appointed day
+
+D. The creation of new Telangana districts after 2014
+
+**Answer: C. Explanation:** The 2014 Act created the new state; 1948 and 1956 describe different constitutional stages. [T1,T2]
+
+### MCQ 3. What does the CGWB 2022 estimate of roughly 81% hard-rock area describe?
+
+A. A share of the state's geological area
+
+B. A share of all borewells yielding less than one litre per second
+
+C. A share of Telangana's rainfall reaching groundwater
+
+D. A share of Telangana's legally notified forests
+
+**Answer: A. Explanation:** It describes the area under consolidated hard-rock formations, not well yields or rainfall fractions. [T3]
+
+### MCQ 4. Why can neighbouring borewells in granitic terrain have different yields?
+
+A. Granite everywhere has high uniform primary porosity
+
+B. The monsoon always bypasses granite
+
+C. The legal district boundary controls permeability
+
+D. Weathered zones and connected fractures are spatially discontinuous
+
+**Answer: D. Explanation:** Hard-rock aquifer productivity depends on local weathering and fractures, not uniform matrix porosity. [T3]
+
+### MCQ 5. Which geological setting most directly explains the Godavari Valley coalfield?
+
+A. Recent coastal alluvium
+
+B. Gondwana sedimentary formations
+
+C. Deccan basalt lava alone
+
+D. Unweathered granite batholiths
+
+**Answer: B. Explanation:** The coal-bearing succession is associated with Gondwana sedimentary basins. [T3]
+
+### MCQ 6. A reservoir's gross storage and an irrigation command's served area differ because:
+
+A. Storage is a water volume; command is a distribution/service area
+
+B. Both are equivalent measures of farm irrigation
+
+C. A command always covers the entire drainage basin
+
+D. A reservoir's live storage equals annual irrigation demand
+
+**Answer: A. Explanation:** A physical water volume does not establish which farms actually receive water. [T7]
+
+### MCQ 7. For a whole-catchment budget that already includes groundwater storage and stream baseflow, recharge is best treated as:
+
+A. A second rainfall input added to precipitation
+
+B. A permanently lost atmospheric flux
+
+C. An internal transfer between hydrologic compartments
+
+D. An independent output added again to all groundwater storage changes
+
+**Answer: C. Explanation:** Recharge moves water between compartments; double counting arises if it is also counted as an independent basin loss. [T7]
+
+### MCQ 8. Which variable most directly distinguishes an aquifer water table from a single pumped-well reading?
+
+A. District population density
+
+B. Annual reservoir capacity
+
+C. The name of the nearest tributary
+
+D. Spatially and temporally representative groundwater-head observations
+
+**Answer: D. Explanation:** A pumping well can show transient drawdown; aquifer-level assessment needs representative monitoring. [T3,T7]
+
+### MCQ 9. Which statement about rainfall anomalies is sound?
+
+A. Normal seasonal totals guarantee no dry spells
+
+B. Near-normal totals can coexist with crop-stressing dry spells and intense storms
+
+C. ENSO precisely fixes each district's rainfall
+
+D. The number of rainy days is irrelevant once annual total is known
+
+**Answer: B. Explanation:** Seasonal totals conceal intraseasonal distribution and evaporative demand. [T3; conceptual]
+
+### MCQ 10. The Pranhita is most appropriately mapped as:
+
+A. A Godavari tributary system associated with Wardha and Wainganga
+
+B. A distributary leaving the Godavari delta
+
+C. A direct tributary of the Krishna at Hyderabad
+
+D. An engineered irrigation canal below Nagarjuna Sagar
+
+**Answer: A. Explanation:** Pranhita is part of the Godavari drainage network, not a delta distributary or Krishna canal. Source-specific river map verification remains pending.
+
+### MCQ 11. Why is the Musi important to Krishna-basin urban geography?
+
+A. It is Telangana's only perennial snow-fed river
+
+B. It drains into the Arabian Sea without joining Krishna
+
+C. It has no relation to Hyderabad's urban wastewater or flood risk
+
+D. It links an urban catchment's runoff and pollution to the wider Krishna system
+
+**Answer: D. Explanation:** The Musi illustrates interaction of natural drainage, land use and water quality. Detailed basin map source still pending.
+
+### MCQ 12. Which factor is most relevant to a tank-restoration project's net basin benefit?
+
+A. Number of publicity events at the tank
+
+B. Quantity of excavated sediment alone
+
+C. Functioning feeder channels, water quality, storage change and downstream impacts
+
+D. Whether all seepage is eliminated
+
+**Answer: C. Explanation:** Restoration must be assessed by hydrologic performance and distributional effects, not excavation alone. [T7]
+
+### MCQ 13. Which pairing is most defensible for Telangana soil processes?
+
+A. Red soils always contain swelling smectite; black soils never crack
+
+B. Red loams often weather from crystalline rocks; some black clays swell and shrink
+
+C. Every black soil occurs only on basalt; every red soil only on alluvium
+
+D. Soil colour alone fixes the optimal crop
+
+**Answer: B. Explanation:** Soil texture, mineralogy, depth and drainage—not colour alone—control performance. [T3; site testing required]
+
+### MCQ 14. Which reserve is identified with the Nallamala landscape and Krishna catchment?
+
+A. Amrabad Tiger Reserve
+
+B. Kawal Tiger Reserve
+
+C. Indravati Tiger Reserve
+
+D. Tadoba-Andhari Tiger Reserve
+
+**Answer: A. Explanation:** WII places Amrabad in the Nallamala/Krishna landscape. [T4]
+
+### MCQ 15. Which distinction is necessary when citing Amrabad's reserve area?
+
+A. Core area is always larger than total reserve
+
+B. The core area equals the district's entire forest
+
+C. All reserve statistics describe the same boundary and year
+
+D. Core and total reserve area have different boundaries and denominators
+
+**Answer: D. Explanation:** WII reports distinct core and total areas; avoid merging them. [T4,T9]
+
+### MCQ 16. Which corridor statement is supported by the WII assessment of Kawal?
+
+A. Kawal is isolated from all central Indian tiger landscapes
+
+B. Kawal is a marine wildlife corridor
+
+C. It is connected to broader Tadoba/Tipeshwar-associated landscapes
+
+D. Its corridor value proves every tiger sighting is a breeding resident
+
+**Answer: C. Explanation:** WII identifies broader landscape connectivity, not guaranteed current occupancy. [T5]
+
+### MCQ 17. Why is a monoculture plantation not interchangeable with natural forest?
+
+A. Tree count is the only measure of biodiversity
+
+B. Habitat structure, species diversity and ecological functions can differ
+
+C. All plantations have higher native species diversity
+
+D. Forest legal status automatically determines canopy composition
+
+**Answer: B. Explanation:** Canopy cover alone does not capture habitat complexity and native biodiversity. [T4,T5]
+
+### MCQ 18. What distinguishes a coal reserve from annual coal production?
+
+A. A reserve is an estimated recoverable stock; production is an extraction flow
+
+B. Both are measured only in MW
+
+C. Production is always larger than reserves
+
+D. A coalfield map itself proves recoverability
+
+**Answer: A. Explanation:** Stocks, extraction flows and electrical capacity are different quantities. [T6; mine-specific inventory pending]
+
+### MCQ 19. Why does limestone-based cement have process emissions?
+
+A. Only quarry trucks emit CO2
+
+B. All CO2 arises from grid electricity
+
+C. Limestone has no carbon-containing component
+
+D. Calcination releases CO2 from carbonate mineral chemistry
+
+**Answer: D. Explanation:** CaCO3 decomposition produces CO2 independent of fuel emissions. [General chemistry; source audit pending]
+
+### MCQ 20. What is the installed capacity of NTPC's named Ramagundam station on its official profile?
+
+A. 1,600 MW
+
+B. 2,600 MW
+
+C. 3,600 MW
+
+D. 5,200 MW
+
+**Answer: B. Explanation:** The official NTPC station profile reports 2,600 MW; do not conflate separate Telangana STPP. [T8]
+
+### MCQ 21. A 1,000-MW station averaging 70% capacity factor for 24 hours produces approximately:
+
+A. 700 MWh
+
+B. 1,680 MWh
+
+C. 16,800 MWh
+
+D. 24,000 MW
+
+**Answer: C. Explanation:** Energy = capacity × utilisation × hours = 1000 × 0.70 × 24 = 16,800 MWh. [T8; arithmetic]
+
+### MCQ 22. Why can hydroelectric energy fall while installed MW remains unchanged?
+
+A. River discharge and hydraulic head can vary with reservoir conditions
+
+B. Installed capacity is recalculated daily from rainfall
+
+C. Every hydropower unit generates at nameplate output continuously
+
+D. Environmental flows are identical to electrical demand
+
+**Answer: A. Explanation:** MW is rated capacity; actual MWh depends on usable head, flow, efficiency and operating decisions. [T7; conceptual]
+
+### MCQ 23. What is the most accurate comparison of forest cover and recorded forest area?
+
+A. They are always identical by law
+
+B. Recorded forest area is always dense natural forest
+
+C. Forest cover cannot occur outside legal forests
+
+D. One is land-cover classification; the other is legal/administrative status
+
+**Answer: D. Explanation:** Satellite forest cover and legally recorded forest land are different measures. Forest Survey of India direct table check pending.
+
+### MCQ 24. For evaluating canal lining as a basin-wide water-saving intervention, what must be considered?
+
+A. Only the contractor's completed canal length
+
+B. Whether seepage formerly contributed to usable groundwater or downstream flow
+
+C. Only the reduced wet area on the canal surface
+
+D. Whether the project eliminates crop water demand
+
+**Answer: B. Explanation:** A local seepage reduction may not equal a basin-wide reduction in depletion. [T7]
+
+### MCQ 25. Which evidence best supports an integrated watershed decision in Telangana?
+
+A. One statewide annual rainfall average
+
+B. A map of district headquarters alone
+
+C. Catchment drainage, aquifer monitoring, water quality and downstream-user observations
+
+D. A list of dam inauguration dates
+
+**Answer: C. Explanation:** Water security needs physical and institutional evidence at appropriate spatial and temporal scales. [T3,T7]
+
+## Part E — Six structured ORIGINAL mains answers (200–250 words each; not official PYQs)
+
+### Model Answer 1 — 20 marks: Explain how Telangana's geological structure governs mineral resources, irrigation and regional development.
+**Introduction:** Telangana occupies the northeastern Deccan plateau, where ancient crystalline rocks, localized sedimentary basins and river valleys create distinct opportunities and constraints for development.
+
+**Geological foundation:** Granite-gneiss basement controls broad residual relief and hard-rock groundwater. Weathered mantles and joints determine well yields; aquifer storage is often local and discontinuous. Northern and eastern Gondwana formations explain the Godavari Valley coalfield, creating a resource base associated with Singareni mining and the regional thermal-power economy. Limestone belts help locate cement plants because bulky mineral input makes quarry-to-kiln distance economically significant.
+
+**Water and agricultural effects:** Weathering influences red-soil profiles and tank construction; river-valley alluvium supports different crop options. In contrast to extensive alluvial aquifers, groundwater in crystalline terrain can be quickly stressed by concentrated borewell pumping. Tank restoration and watershed works may improve recharge, but sustained gains require an extraction and crop-water policy. Godavari and Krishna networks cross state borders, so irrigation outcomes also depend on reservoir operations and distribution equity.
+
+**Social and environmental consequences:** Coal and cement generate employment and power-related infrastructure but create dust, emissions, overburden and aquifer risks. Forest and hill tracts overlap with tribal livelihoods and biodiversity corridors. Infrastructure planning must therefore address rehabilitation and landscape fragmentation, rather than treat minerals as an isolated 'gift of nature'.
+
+**Conclusion:** The state's development model is a relationship among rock, water, land use and institutions. The examination-worthy insight is that **geology enables resources but does not determine inclusive outcomes**: scientific groundwater mapping, catchment management, environmental safeguards and social consent decide whether resource endowments translate into durable welfare.
+
+
+
+### Model Answer 2 — 20 marks: Evaluate Telangana's water-security challenge with reference to its physical geography.
+**Introduction:** Telangana's water-security problem is not simply an annual rainfall deficit. It is an interaction of highly seasonal rain, plateau geology, river-basin politics, crop demand and urban growth.
+
+**Climatic mechanism:** Most rain is concentrated in the southwest monsoon. Long dry intervals and high evapotranspiration can cause agricultural stress even where seasonal totals are near normal. Intense rainfall may increase flooding without proportionately recharging aquifers when runoff is rapid or urban surfaces are sealed.
+
+**Hydrogeological constraint:** Groundwater in crystalline rocks accumulates mainly in weathered and fractured zones, creating local variation in borewell performance. Uncoordinated pumping and water-intensive cultivation make local stress more severe; reduced well yield must be distinguished from regional aquifer depletion through monitoring.
+
+**Infrastructure and governance:** Godavari and Krishna projects broaden surface-water access, but canal-head farmers, tail-end users, cities and industry compete for supplies. Lift irrigation additionally requires energy and recurrent maintenance. Tank chains can spread runoff across local catchments, but their benefits depend on cleared feeder channels, desiltation where appropriate, water quality and equitable access. Hyderabad's Musi system shows that pollution and encroachment are as important as water volume.
+
+**Reform agenda:** Watershed treatment, rainfed-crop diversification, micro-irrigation evaluated at basin scale, well registration, aquifer-level monitoring, wastewater reuse and transparent water allocation address different parts of the problem. Tribal and small-farmer access must be assessed explicitly.
+
+**Conclusion:** Water security requires a **source-to-service** strategy: protect catchments and aquifers, operate reservoirs transparently and ensure sustainable, affordable delivery rather than equating project size with water security.
+
+
+### Model Answer 3 — 20 marks: Explain why Telangana's groundwater policy cannot be based on borewell counts alone.
+
+**Introduction:** Telangana's groundwater challenge reflects monsoon seasonality and the uneven storage properties of its hard-rock terrain. Borewell numbers describe infrastructure, not sustainable aquifer yield.
+
+**Geological basis:** Much of the state has granite-gneiss and other consolidated formations. Groundwater moves through weathered mantles and connected fractures rather than uniformly through solid rock. Consequently, neighbouring wells can differ in productivity, and a short pumping test cannot establish long-term recharge.
+
+**Hydrological accounting:** Recharge, withdrawals, baseflow and storage changes must be assessed for the same aquifer and period. A declining water level in one actively pumped well may partly reflect local drawdown; regional decline requires monitoring across wells and seasons. Counting canal seepage as a loss without considering groundwater return flows can exaggerate basin-wide water savings.
+
+**Governance measures:** Aquifer mapping, observation wells, water-quality testing and crop-water budgeting should guide permits and incentives. Tank-chain restoration and watershed treatment may improve local outcomes, but they require functioning inlets, suitable soils and equitable access. Micro-irrigation should be evaluated for net depletion, not only field application efficiency.
+
+**Equity and limitations:** Small farmers may lack funds for deep drilling, while urban and industrial demand compete for the same resource. Geological uncertainty and rainfall variability make universal extraction quotas difficult.
+
+**Conclusion:** Sustainable policy must manage the aquifer as a shared hydrological system, linking evidence, crop choices, pumping and fair allocation rather than treating every new borewell as additional water supply. [T3,T7]
+
+### Model Answer 4 — 20 marks: Compare Godavari and Krishna basin issues in Telangana's development.
+
+**Introduction:** The Godavari and Krishna systems are essential to Telangana's agriculture, drinking water, energy and ecological security, but each project operates within a wider interstate catchment.
+
+**Physical geography:** Godavari tributary systems include Pranhita and Manjira, while the Krishna network includes the Musi urban catchment. A river basin, reservoir, canal command and administrative district are distinct units; treating them as interchangeable distorts planning.
+
+**Irrigation and energy:** Storage and lift schemes can improve seasonal reliability, yet lifting requires electricity and maintenance. Reservoir releases for irrigation, hydropower and flood management may conflict. Installed hydropower MW is not the same as annual generation because head and inflows vary.
+
+**Environmental consequences:** Submergence, habitat fragmentation, altered downstream flows and sedimentation create costs beyond construction expenditure. In the Musi, urban runoff, encroachment and wastewater quality complicate the simple notion that more water always means better security.
+
+**Governance and equity:** Allocation requires dependable hydrological data, interstate coordination and transparent reservoir operations. Within commands, head-reach and tail-end access may differ substantially. Rehabilitation and forest-dependent livelihoods deserve specific scrutiny.
+
+**Conclusion:** Telangana should evaluate river investments by delivered service, net basin depletion, ecological effects and distributional fairness. Project capacity or headline investment alone cannot demonstrate sustainable water security. Detailed project-specific legal allocations require separate primary-document verification. [T7]
+
+### Model Answer 5 — 20 marks: Assess forest conservation and tiger-reserve corridors in Telangana.
+
+**Introduction:** Telangana's forests are ecological infrastructure: they moderate runoff, sustain biodiversity and support forest-dependent communities. Conservation must be assessed at landscape scale, not only through protected-area labels.
+
+**Spatial setting:** Amrabad lies in the Nallamala landscape linked with the Krishna catchment. Kawal occupies a northern central-Indian tiger landscape with potential connections toward adjoining protected forests. These are different ecological settings, and their area figures must use the same boundary definition.
+
+**Ecological mechanism:** Tigers require prey, habitat security and movement opportunities. Roads, mines, settlement expansion, fire and invasive vegetation can fragment otherwise suitable cover. A narrow plantation strip is not automatically a functioning corridor; species composition, disturbance and safe passage matter.
+
+**Evidence and measurement:** Satellite forest cover, recorded legal forest land and protected-area core or buffer are separate categories. The Wildlife Institute of India's assessments provide institutional evidence, but dated surveys cannot establish present-day tiger occupancy without recent monitoring.
+
+**People and policy:** Indigenous and forest-dependent communities have legitimate livelihood and rights concerns. Protection should combine habitat restoration, safe transport crossings, fire management, compensation and participatory monitoring rather than rely solely on exclusion.
+
+**Conclusion:** Successful conservation means connected, biologically functional landscapes with accountable social safeguards. Both ecological outcomes and local rights must be measured rather than inferred from an increase in notified area. [T4,T5,T9]
+
+### Model Answer 6 — 20 marks: Explain the opportunities and limitations of Telangana's coal, limestone and power geography.
+
+**Introduction:** Telangana's mineral and power geography reflects the interaction of geological resources, industrial infrastructure, water availability and environmental constraints.
+
+**Resource foundation:** Gondwana sedimentary formations underpin the Godavari Valley coalfield. Limestone occurrences can support cement manufacturing where grade, mineability, transport and permissions are viable. A mineral occurrence is not automatically an economically recoverable reserve.
+
+**Industrial linkages:** Coal supplies electricity and industry, while cement serves construction and infrastructure. NTPC's Ramagundam profile reports 2,600 MW for the named station, a capacity figure that must not be confused with annual electricity generation or the separate Telangana thermal project.
+
+**Environmental limits:** Coal mining creates overburden, land disturbance, occupational risk and mine-water obligations. Thermal generation involves ash, air emissions and cooling-water demand. Cement releases carbon dioxide both from kiln fuel and carbonate calcination, so fuel switching alone does not remove process emissions.
+
+**Regional equity:** Industrial clusters can generate employment and transport links but may impose costs on nearby communities. Rehabilitation, air monitoring, water-quality testing and mine closure plans should be judged through measurable outcomes.
+
+**Conclusion:** Telangana's mineral endowment is an economic opportunity, not a guarantee of inclusive growth. Sound policy compares recoverable resources, actual production, electricity delivered and full environmental costs, while planning a gradual, reliable energy transition. [T3,T6,T8]
+## Part F — Claim-level source register (partial, 26 October 2026)
+
+| ID | Primary or institutional source | Claim actually checked; limitation |
+|---|---|---|
+| T1 | [Telangana State Profile](https://www.telangana.gov.in/About/State-Profile/) | Formation 2 June 2014, current area and district count; compare boundary definitions before using Census 2011. |
+| T2 | [Andhra Pradesh Reorganisation Act, 2014](https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6.pdf) | Legal creation and reorganisation; not a substitute for district boundary GIS files. |
+| T3 | [CGWB / Telangana Ground Water Department, Dynamic Groundwater Resources 2022, p.11](https://www.cgwb.gov.in/old_website/GW-Assessment/GWR-2022-Reports%20State/Telangana.pdf) | Report describes approximately 81% hard-rock area and geological classes; 2022 baseline, not a current well inventory. |
+| T4 | [Wildlife Institute of India, Amrabad Tiger Reserve management assessment](https://mee-tr.wii.gov.in/Home/Geospatial/amrabad-tiger-reserve) | Landscape and core areas and ecological description; verify notification and measurement year before time-series use. |
+| T5 | [Wildlife Institute of India, Kawal management assessment](https://mee-tr.wii.gov.in/Home/Geospatial/kawal-tiger-reserve) | Identifies ecological corridor connections; no guarantee of present-day tiger occupancy. |
+| T6 | [Telangana Department of Mines and Geology](https://www.telangana.gov.in/departments/mines-geology/) | Department remit only; NOT proof of named mineral reserve quantities. |
+| T7 | [USGS, Water Budgets: Foundations for Effective Water-Resources and Environmental Management](https://pubs.usgs.gov/circ/2007/1308/) and [USGS groundwater budgets](https://www.usgs.gov/centers/new-jersey-water-science-center/science/groundwater-budgets) | Conservation of mass and boundary-dependent water budgets; examples are conceptual, not Telangana measurements. |
+| T8 | [NTPC Ramagundam official station profile](https://ntpc.co.in/ramagundam) | 2,600-MW installed capacity of named NTPC station; distinguish other Telangana power projects and year-specific generation. |
+| T9 | [National Tiger Conservation Authority reserve notification collection](https://ntca.gov.in/reports/) | Amrabad and Kawal notifications are listed; separate notification-year, core and buffer area. |
+
+**Verification limits:** This is an editorially source-correlated subset, not a complete independent claim-by-claim audit. The original TGPSC Annexure II PDF could not be re-fetched in this run (HTTP 403); R1 stays IN_PROGRESS until directly revalidated. Do not present the questions below as official PYQs.
+
