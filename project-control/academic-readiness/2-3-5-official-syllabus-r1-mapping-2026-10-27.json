@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-5",
+  "gate": "R1",
+  "status": "PASS",
+  "source_title": "Telangana State Public Service Commission Notification 02/2024 dated 19 February 2024, Annexure II",
+  "source_url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+  "printed_page": 29,
+  "pdf_page_index_zero_based": 28,
+  "method": "Directly inspected full-resolution original commission PDF page, mapped editorial atomic clauses to existing integrated headings",
+  "clause_count": 14,
+  "mapping": [
+    {
+      "id": "T5-01",
+      "syllabus_clause": "Urbanisation in Telangana and spatio-temporal changes",
+      "chapter_headings": [
+        "## 1. Definition: urbanisation"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-02",
+      "syllabus_clause": "Urban growth and migration",
+      "chapter_headings": [
+        "## 1. Definition: urbanisation",
+        "## 6. Migration"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-03",
+      "syllabus_clause": "Evolution and phases of Hyderabad's urban growth",
+      "chapter_headings": [
+        "## 2. Hyderabad's successive historical forms"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-04",
+      "syllabus_clause": "Transformation from historical city to modern cosmopolitan megapolis",
+      "chapter_headings": [
+        "## 2. Hyderabad's successive historical forms",
+        "## 14. Industrial estates"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-05",
+      "syllabus_clause": "Hyderabad's primacy in Telangana",
+      "chapter_headings": [
+        "## 5. Primacy"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-06",
+      "syllabus_clause": "City structure",
+      "chapter_headings": [
+        "## 3. Site, situation",
+        "## 4. Urban morphology"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-07",
+      "syllabus_clause": "Industries and industrial estates",
+      "chapter_headings": [
+        "## 14. Industrial estates"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-08",
+      "syllabus_clause": "Urban infrastructure",
+      "chapter_headings": [
+        "## 12. Water supply"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-09",
+      "syllabus_clause": "Transport including ORR",
+      "chapter_headings": [
+        "## 8. Outer Ring Road"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-10",
+      "syllabus_clause": "Transport including Metro",
+      "chapter_headings": [
+        "## 7. Hyderabad Metro"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-11",
+      "syllabus_clause": "Urban problems and planning",
+      "chapter_headings": [
+        "## 10. Master Plan 2031",
+        "## 11. Flood and drainage",
+        "## 13. Housing"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-12",
+      "syllabus_clause": "Role of GHMC and HUDA/HMDA",
+      "chapter_headings": [
+        "## 9. GHMC, HUDA and HMDA"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-13",
+      "syllabus_clause": "Metropolitan Development Plan 2031",
+      "chapter_headings": [
+        "## 10. Master Plan 2031"
+      ],
+      "all_headings_found": true
+    },
+    {
+      "id": "T5-14",
+      "syllabus_clause": "Hyderabad as tourist centre and global city",
+      "chapter_headings": [
+        "## 15. Heritage and tourism",
+        "## 14. Industrial estates"
+      ],
+      "all_headings_found": true
+    }
+  ],
+  "limitations": [
+    "Syllabus mapping PASS does not certify accuracy or textbook depth",
+    "Source-level MCQ/mains audit and publication R2-R8 incomplete",
+    "No official PYQs claimed without original exam evidence",
+    "No independent academic approval"
+  ]
+}

@@ -57,3 +57,8 @@ The readiness status index and per-topic JSON are the current operational truth.
 ## 27 October 2026 — Topic 2-3-5 source publication (Turn21)
 
 Existing Topic 2-3-5 integrated editable working edition and dedicated Topic 5 renderer/workflow published in place; the original PDF remains untouched. Twenty-five original practice MCQs and six structured mains answers are drafts; the sixth answer was rewritten to remove duplication with the second. Two conceptual diagrams are not GIS maps. GitHub Actions synchronized PDF and downloaded packaging verification are pending. R1/R2/R4/R5/R6/R7 IN_PROGRESS; R3/R8 BLOCKED; no R9. Exactly 75 original topics, seven IN_PROGRESS, 68 NOT_ASSESSED, zero fully ready and zero independently approved.
+
+
+## Topic 2-3-5 official syllabus mapping — 27 October 2026
+
+R1 PASS only: original TGPSC Notification 02/2024 Annexure II printed p29 (PDF index 28) directly inspected; 14 editorial clauses mapped to integrated chapter headings. Evidence `project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json`. R2–R8 remain incomplete and no independent academic approval. Exactly 75 topics, 7 IN_PROGRESS, 68 NOT_ASSESSED.

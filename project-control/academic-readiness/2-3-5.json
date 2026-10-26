@@ -17,7 +17,7 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "BLOCKED",
     "R4": "IN_PROGRESS",
@@ -29,9 +29,10 @@
   "evidence": [
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json"
+    "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
+    "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json"
   ],
-  "next_action": "Integrated editable source and deterministic Topic 5 renderer committed; await actual GitHub Actions PDF, downloaded artifact SHA/CRC/75-topic/portal checks. Then R2-R7 academic audits; R8 remains BLOCKED until verified.",
+  "next_action": "R1 official syllabus mapping PASS (14 editorial clauses from Notification 02/2024 Annexure II printed p29); R2-R8 not ready. Download actual corrected Topic5 renderer artifact and verify footer, hashes, original 75 PDFs, offline portal, page QA.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {

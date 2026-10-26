@@ -92,15 +92,17 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-27: Topic 2-3-5 integrated editable master and dedicated renderer/workflow published with 25 draft MCQs, six model answers and schematic diagrams. Model Answer 6 rewritten to remove duplication with Answer 2. R1/R2/R4/R5/R6/R7 IN_PROGRESS, R3/R8 BLOCKED, R9 NOT_STARTED. 7 IN_PROGRESS, 68 NOT_ASSESSED, zero ready/approved.",
+  "last_readiness_update": "2026-10-27: Topic 2-3-5 R1 PASS after direct original TGPSC Notification 02/2024 Annexure II printed p29 review, 14 editorial syllabus clauses mapped to existing integrated headings. Seven topics IN_PROGRESS, 68 NOT_ASSESSED, five R1 PASS, zero R1–R8 fully ready or independently approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
     "2-3-1",
-    "2-3-2"
+    "2-3-2",
+    "2-3-5"
   ],
-  "verified_R1_pass_count": 4,
+  "verified_R1_pass_count": 5,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
