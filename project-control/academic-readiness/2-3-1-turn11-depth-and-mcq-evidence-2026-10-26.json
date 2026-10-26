@@ -1,0 +1,120 @@
+{
+  "topic_id": "2-3-1",
+  "date": "2026-10-26",
+  "kind": "integrated_student_edition_readiness_progress_not_approval",
+  "source_commit": "63ecd3111bbe5ca67e65e19dd52d267a03af2be6",
+  "pdf_renderer_run": 40310989188,
+  "pdf_renderer_conclusion": "success",
+  "pdf_publish_commit": "679a72f86bb7618b6a94d626b20f896a5e7946ba",
+  "R1": "PASS",
+  "R2": "IN_PROGRESS",
+  "R3": "IN_PROGRESS",
+  "R4": "IN_PROGRESS",
+  "R5": "IN_PROGRESS",
+  "R6": "IN_PROGRESS",
+  "R7": "IN_PROGRESS",
+  "R8": "IN_PROGRESS",
+  "narrative_depth": {
+    "existing_concepts": 25,
+    "added_explanatory_words": 2052,
+    "expanded_sections": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      16,
+      18,
+      19,
+      22
+    ],
+    "sections_under_300_before": 20,
+    "sections_under_300_after": 9,
+    "remaining_under_300": [
+      1,
+      11,
+      12,
+      13,
+      14,
+      15,
+      20,
+      21,
+      23
+    ],
+    "note": "Word-count preflight is not proof of textbook quality; editorial deduplication and fact checking remain outstanding."
+  },
+  "source_log_updates": [
+    {
+      "tag": "G13",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1664/3/A1956-33.pdf",
+      "claim": "Inter-State River Water Disputes Act 1956 sections 2-4 define disputes and tribunal referral; amendments require separate review"
+    },
+    {
+      "tag": "G14",
+      "url": "https://ingres.iith.ac.in/",
+      "claim": "CGWB-IIT Hyderabad groundwater resource assessment dimensions; not site-level proof"
+    }
+  ],
+  "mcq_primary_source_key_review": {
+    "supported_keys": [
+      5,
+      11,
+      12,
+      15,
+      17,
+      24
+    ],
+    "supported_count": 6,
+    "remaining_keys_not_primary_checked": 19,
+    "source_correspondence": [
+      {
+        "q": [
+          5,
+          17
+        ],
+        "source": "UNCLOS Part V Articles 56-58",
+        "url": "https://www.un.org/Depts/los/convention_agreements/texts/unclos/part5.htm",
+        "finding": "resource rights, EEZ breadth and navigation freedoms corroborate correct keys; distractor-specific validation not exhaustive"
+      },
+      {
+        "q": [
+          11
+        ],
+        "source": "IMD operational onset criteria",
+        "url": "https://mausam.imd.gov.in/responsive/monsooninformation_onset.php",
+        "finding": "rainfall plus winds and OLR criteria corroborate key"
+      },
+      {
+        "q": [
+          12
+        ],
+        "source": "IMD operational withdrawal criteria",
+        "url": "https://mausam.imd.gov.in/responsive/monsooninformation_withdrawal.php",
+        "finding": "five dry days, anticyclone, moisture decline corroborate key"
+      },
+      {
+        "q": [
+          15,
+          24
+        ],
+        "source": "NCERT Contemporary India-I chapter 2 Physical Features of India reprint 2025-26",
+        "url": "https://www.ncert.nic.in/textbook/pdf/iess102.pdf",
+        "finding": "Bhabar/Terai and Deccan Trap black soil explanations corroborate keys"
+      }
+    ],
+    "limitation": "Internal source correspondence only. No independent external academic reviewer. All 25 distractor sets still need complete item-level checking."
+  },
+  "publication_qa": {
+    "source_markdown_committed": true,
+    "renderer_success": true,
+    "post_render_packaging_artifact_downloaded": false,
+    "post_render_crc_checked": false,
+    "all_pdf_pages_full_resolution_reviewed": false,
+    "public_browser_usability_verified": false,
+    "original_pdf_sha256_expected": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879"
+  },
+  "academic_approved": false,
+  "ready_for_R9": false
+}
