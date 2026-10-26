@@ -2,7 +2,7 @@
   "topic_id": "2-3-1",
   "title": "Physical Geography of India: Monsoon, Resources and Water",
   "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,19 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
     "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Actual archive QA 26 Oct 2026: project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json. 15-page original PDF (5958 extracted words) preserved; 25 detailed sections, 24 under 150 words; separate 1714-word depth repair exists; only 10 original explained MCQs, four mains answers (245/222/255/250 words), no SVG diagrams, zero authenticated official PYQs. Existing complete-notes.md 8210 words not shown to match original PDF. R1 direct official syllabus verification pending.",
+  "next_action": "Rebuild ONE integrated edition using preserved original and existing repair, with exact official syllabus mapping, textbook depth, 25+ verified MCQs, six 200–250-word structured mains answers, original diagrams and full publication QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_gap_report": "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
+  "original_pdf_sha256": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879"
 }
