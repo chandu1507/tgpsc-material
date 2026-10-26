@@ -178,10 +178,10 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "integrated_markdown_depth_expanded_ci_pdf_rendered_academic_gates_in_progress",
-      "notes": "27 Oct 2026: existing 2-3-4 editable integrated master expanded in place at irrigation/tanks/aquifers/SEZ concepts, direct official sources with scope caveats. CI render run 40382863495 SUCCESS; 19-page integrated PDF SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467. Original 8-page PDF preserved. 11 of 15 original concepts still under 150 words; R1/R2/R3/R4/R5/R6/R8 IN_PROGRESS, R7 BLOCKED; no independent approval. Actual post-render artifact QA pending. Dedicated Topic4 renderer fixed incorrect Topic3 footer. Portal now links integrated PDF and Markdown, preserving original. R8 remains IN_PROGRESS.",
+      "notes": "27 Oct 2026: existing 2-3-4 editable integrated master expanded in place at irrigation/tanks/aquifers/SEZ concepts, direct official sources with scope caveats. CI render run 40382863495 SUCCESS; 19-page integrated PDF SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467. Original 8-page PDF preserved. 11 of 15 original concepts still under 150 words; R1/R2/R3/R4/R5/R6/R8 IN_PROGRESS, R7 BLOCKED; no independent approval. Actual post-render artifact QA pending. Dedicated Topic4 renderer fixed incorrect Topic3 footer. Portal now links integrated PDF and Markdown, preserving original. R8 remains IN_PROGRESS. Actual final packaging artifact 12679083916 from run 40383038864 downloaded, outer/inner CRC PASS, 1499 files, 75 original topic PDFs, 75 readiness JSON, 78 HTML, 313 local file links zero broken. R8 remains IN_PROGRESS.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-render-qa.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json"
     },
     {
       "id": "2-3-5",
@@ -1003,10 +1003,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Exactly 75 topics; six IN_PROGRESS, one ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED. Topic2-3-4 integrated PDF rendered but not yet full R8. Zero independent academic approvals.",
+    "note": "Exactly 75 topics: six IN_PROGRESS, Topic2-3-5 ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED. Topic2-3-4 footer-corrected 19-page PDF, downloaded artifact CRC and 313 file links PASS; R8 IN_PROGRESS pending full accessibility and browser. Zero R1-R8 ready, zero academic approvals.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40252354462,
-    "last_verified_package_artifact": 12621337525,
+    "last_verified_package_run": 40383038864,
+    "last_verified_package_artifact": 12679083916,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
