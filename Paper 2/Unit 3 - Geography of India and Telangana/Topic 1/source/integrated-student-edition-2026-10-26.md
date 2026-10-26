@@ -646,7 +646,6 @@ No fresh interstate-water award or tribunal decision is included without an auth
 | G6 | UN Convention on the Law of the Sea, Part V, Articles 55–58: https://www.un.org/depts/los/convention_agreements/texts/unclos/part5.htm | Coastal state sovereign *resource rights* and EEZ maximum 200 nautical miles, subject to delimitation; does not confer land-like sovereignty. |
 | G7 | Ministry of New and Renewable Energy, Physical Progress, as-of-30 September 2026: https://mnre.gov.in/en/physical-progress/ | Installed capacity snapshot; numbers should be rechecked against the dated table before memorisation. Capacity is not generation. |
 | G8 | Inter-State River Water Disputes Act 1956, official statute (India Code). | Statutory dispute framework; exact section text and subsequent amendments need direct source-level annotation. |
-
 | G9 | NCERT, *Contemporary India-I*, Physical Features of India (2025–26 reprint), https://www.ncert.nic.in/textbook/pdf/iess102.pdf | Western Ghats orographic rain mechanism; no claim of district-specific rainfall totals. |
 | G10 | MoEFCC, *Elephant Corridors of India 2023*, https://moef.gov.in/uploads/2023/11/PE-Elephant-Corridor-of-India-2023.pdf | Corridor location, use, bottlenecks and management examples; not a complete wildlife population census. |
 | G11 | MoEFCC, guidance on linear infrastructure and wildlife, https://www.moef.gov.in/storage/tender/scan_1_20220513123225097.pdf | Passage and mitigation planning in wildlife habitat; implementation effectiveness requires field verification. |
