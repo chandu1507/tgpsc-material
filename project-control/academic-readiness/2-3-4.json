@@ -2,11 +2,11 @@
   "topic_id": "2-3-4",
   "title": "Telangana: Agriculture, Irrigation, Industry and Population",
   "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
-  "prior_repair_reported": false,
+  "prior_repair_reported": true,
   "inventory_baseline": {
     "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 4",
     "files": 18,
@@ -17,17 +17,34 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": [
+    "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json"
+  ],
+  "next_action": "Rebuild existing 2-3-4 integrated student edition, verify official syllabus, 25+ explained original MCQs, six 200–250-word mains answers, accurate diagrams, primary sources and actual post-render artifact; preserve legacy PDF. R9 NOT_STARTED.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_gap": {
+    "concepts": 15,
+    "concepts_under_150": 15,
+    "concepts_under_300": 15,
+    "original_mcqs": 0,
+    "complete_mains": 2,
+    "mains_word_counts": [
+      258,
+      244
+    ],
+    "original_svg_diagrams": 0,
+    "original_pdf_pages": 8,
+    "original_pdf_sha256": "5a544ab369c285c6cc54cafa7ade872bddc2b9f517a6cffe19ec1048586496d1",
+    "prior_six_section_repair_exists": true
+  }
 }
