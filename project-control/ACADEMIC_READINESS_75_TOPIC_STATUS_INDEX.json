@@ -7,10 +7,10 @@
     "2-3-1",
     "2-3-2"
   ],
-  "not_assessed_count": 71,
+  "not_assessed_count": 70,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "EXACTLY 75 existing topics: four IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2), 71 NOT_ASSESSED; four R1 PASS, ZERO fully R1-R8 ready, ZERO external approvals. Topic 2-3-2 Markdown expanded but final synchronized PDF and actual artifact pending; textbook-depth, source and MCQ checks incomplete.",
+  "warning": "EXACTLY 75 existing topics: four IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2), one ASSESSED_REBUILD_REQUIRED (2-3-3), 70 NOT_ASSESSED. Four R1 PASS, ZERO fully R1-R8 ready, ZERO external approvals. Topic 2-3-2 Markdown deepened and MCQs rewritten; final PDF/artifact QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -88,8 +88,10 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26 Topic 2-3-2 Turn15: existing integrated Markdown substantively expanded in-place across 32 of 40 concepts; automated count now 0 under 200 words, 35 under 300; 25/25 MCQ distractor sets editorially rewritten, Q22 ambiguity corrected, 3 correct keys source-correlated (not independently approved). Final CI PDF/artifact verification pending; zero full R1-R8 passes, zero external approvals.",
+  "assessed_rebuild_required": [
+    "2-3-3"
+  ],
+  "last_readiness_update": "2026-10-26: Topic 2-3-2 Turn15 in-place 32/40 concept expansions (0 under 200, 35 under 300), all 25 MCQs editorially rewritten, direct key source correspondence 3/25; latest PDF sync pending. Topic 2-3-3 newly assessed from actual sources: 14/14 concepts <150 words, 0 MCQs, two mains, no SVG; ASSESSED_REBUILD_REQUIRED. Zero full readiness/approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -98,6 +100,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-turn13-final-monsoon-consistency-qa-2026-10-26.json",
