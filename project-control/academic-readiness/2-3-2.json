@@ -31,7 +31,7 @@
     "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json"
   ],
-  "next_action": "Verify actual GitHub renderer PDF and packaging artifact, then deepen 40 concepts and audit all 25 MCQs/distractors and six mains answers. No independent academic approval.",
+  "next_action": "Download post-render GitHub Actions publication artifact and validate exact 75 original PDFs, 75 status records, ZIP CRC and local links; then expand 40 still-shallow concepts and source-audit all 25 MCQs and six mains. Zero approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -39,11 +39,25 @@
   "integrated_student_edition": {
     "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.pdf",
-    "status": "PENDING_VERIFIED_RENDER",
+    "status": "CI_RENDERED_POST_ARTIFACT_PENDING",
     "original_pdf_preserved_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
     "original_practice_mcqs": 25,
     "structured_mains_answers": 6,
     "original_svg_diagrams": 2,
-    "source_critical_warning": "R3 depth and R4/R5/R6 claim audits incomplete; this is a working student edition"
+    "source_critical_warning": "R3 depth and R4/R5/R6 claim audits incomplete; this is a working student edition",
+    "pdf_pages": 19,
+    "pdf_sha256": "4c9aee136e8bbdcef334305a30718ba81cf75ea88dc936a36b994bb22c8be710",
+    "markdown_sections": 40,
+    "sections_under_150_words": 30,
+    "sections_under_300_words": 40,
+    "mains_answer_word_counts": [
+      206,
+      207,
+      203,
+      209,
+      215,
+      203
+    ],
+    "verified_renderer_run": 40337934827
   }
 }
