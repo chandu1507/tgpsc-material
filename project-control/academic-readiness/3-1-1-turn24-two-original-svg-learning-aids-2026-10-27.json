@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-1",
+  "original_svg_count_new": 2,
+  "files": [
+    "Paper 3/Unit 1 - Indian Society/Topic 1/source/indian-society-integration-mechanisms.svg",
+    "Paper 3/Unit 1 - Indian Society/Topic 1/source/family-household-kinship-distinction.svg"
+  ],
+  "design": [
+    "Integration pathways with constitutional, economic and cultural inputs; explicit non-inevitability and inequality risks",
+    "Family versus household versus kinship, migrant-household example, separation of residence/descent/authority"
+  ],
+  "accessibility": [
+    "SVG role=img",
+    "title and desc",
+    "text labels",
+    "no rasterised lettering"
+  ],
+  "linked_from": "Paper 3/Unit 1 - Indian Society/Topic 1/source/visual-learning.md",
+  "limitations": [
+    "Actual full-resolution SVG raster QA pending",
+    "Not yet included in synchronized integrated student PDF",
+    "R7 and R8 not PASS",
+    "Conceptual diagrams are illustrative, not quantitative maps or official figures"
+  ],
+  "approvals": 0
+}
