@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-2",
+  "kind": "actual_downloaded_github_actions_artifact_qa_not_academic_approval",
+  "github": {
+    "repository": "chandu1507/tgpsc-material",
+    "renderer_run": 40337934827,
+    "renderer_conclusion": "SUCCESS",
+    "packaging_run": 40338215991,
+    "packaging_conclusion": "SUCCESS",
+    "downloaded_artifact_id": 12657647049,
+    "artifact_downloaded_and_opened": true,
+    "pages_workflow_success_observed": 40338004526,
+    "public_browser_usability_independently_verified": false
+  },
+  "archive": {
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "file_count": 1476,
+    "original_topic_pdfs": 75,
+    "readiness_json_records": 75,
+    "html_pages": 78,
+    "local_links_checked": 463,
+    "broken_local_links": 0
+  },
+  "topic": {
+    "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "original_preserved_byte_identical": true,
+    "integrated_pdf_pages": 19,
+    "integrated_pdf_sha256": "4c9aee136e8bbdcef334305a30718ba81cf75ea88dc936a36b994bb22c8be710",
+    "integrated_markdown_sha256": "e37e45a5f53ac20863fbcf2eef18a353d494e0d24325056f8831a5c8aa38593f",
+    "original_concepts": 40,
+    "concepts_under_150_words": 30,
+    "concepts_under_300_words": 40,
+    "original_four_option_explained_mcqs": 25,
+    "structured_mains_answers": 6,
+    "mains_word_counts": [
+      206,
+      207,
+      203,
+      209,
+      215,
+      203
+    ],
+    "original_svg_diagrams": 2,
+    "visual_review": "All 19 pages rendered in contact sheets, page 19 source register inspected full-resolution; no gross clipping/blank pages; full accessibility not certified."
+  },
+  "readiness": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "academically_approved": false,
+    "independent_reviewer": null
+  },
+  "project": {
+    "existing_topic_slots": 75,
+    "in_progress": 4,
+    "not_assessed": 71,
+    "fully_ready": 0,
+    "independent_approvals": 0
+  },
+  "limitations": [
+    "This GitHub published 19-page student edition remains too shallow: 30 of 40 concepts under 150 words, all under 300",
+    "MCQ keys and distractors require independent factual audit; balanced answer positions alone do not prove quality",
+    "Mains factual/source checks pending",
+    "Direct public-browser interaction and full PDF accessibility remain unverified",
+    "A distinct expanded local 22-page candidate exists but is not byte-identical to the published GitHub edition"
+  ]
+}
