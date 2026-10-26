@@ -136,5 +136,17 @@
     25,
     10
   ],
-  "mcq_note": "13 correct keys have source correspondence or direct conceptual derivation; 12 keys and ALL distractors still require systematic independent claim-level validation. Answer balancing is not evidence of quality."
+  "mcq_note": "13 correct keys have source correspondence or direct conceptual derivation; 12 keys and ALL distractors still require systematic independent claim-level validation. Answer balancing is not evidence of quality.",
+  "mcq_editorial_discrimination": {
+    "all_25_option_sets_rewritten_in_place": true,
+    "method": "Closer alternatives from the same geographical, hydrological, ecological or quantitative domain; key positions preserved.",
+    "answer_distribution": {
+      "A": 6,
+      "B": 7,
+      "C": 6,
+      "D": 6
+    },
+    "independent_external_fact_check_completed": false,
+    "all_distractors_independently_verified": false
+  }
 }
