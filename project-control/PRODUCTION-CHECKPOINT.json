@@ -153,8 +153,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "integrated_markdown_substantively_deepened_mcqs_rewritten_pdf_sync_pending",
-      "notes": "26 Oct Turn15: 32/40 existing concepts substantively expanded IN PLACE; automated count 0 sections under 200 words, 35 under 300, qualitative R3 IN_PROGRESS. All 25 explained four-option MCQs editorially rewritten with same-domain alternatives, Q22 ambiguity fixed; only Q5/Q17/Q21 directly source-correlated, all keys/distractors still need full independent review. S9-S13 added CGWB/CADWM/NCERT/PIB official references. Legacy 15-page PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 preserved as of prior QA. New synchronized PDF and post-render artifact QA PENDING; prior 19-page PDF cannot be called current. Zero academic approval.",
+      "production_review": "integrated_28_page_ci_pdf_published_actual_artifact_verified_academic_audit_pending",
+      "notes": "26 Oct Turn15: one integrated Markdown now 14,408 approximate words, 32/40 concepts expanded in place, 0 under 200 words, 35 under 300 (R3 IN_PROGRESS). All 25 four-option explained MCQs editorially rewritten, Q22 ambiguity corrected; Q5/Q17/Q21 direct correct-key source-correspondence only, no independent item audit. Six structured mains and 2 vector diagrams remain; source register 13 entries. GitHub CI 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe matched independent local render. Packaging run 40346310854 artifact 12661726703 ACTUALLY DOWNLOADED; 1479 files, exactly 75 original PDFs/75 readiness JSON, 78 HTML, 463 links zero broken, outer/inner CRC PASS; legacy PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 unchanged. R2/R3/R4/R5/R6/R7/R8 NOT PASS; public browser and full accessibility pending; zero academic approval.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-2.json"
     },
