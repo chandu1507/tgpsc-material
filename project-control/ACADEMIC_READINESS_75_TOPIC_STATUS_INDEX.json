@@ -8,7 +8,7 @@
   "not_assessed_count": 73,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Topic 4 and Topic 5 integrated student editions are readiness pilots IN_PROGRESS, 73 topics NOT_ASSESSED, zero R1-R8 fully ready, zero independent academic approvals. Topic5 direct official 2024 syllabus verified; primary archival gaps remain.",
+  "warning": "Topic 2-2-4 and 2-2-5 have R1 official-syllabus mapping PASS only. Both remain readiness IN_PROGRESS; 73 topics NOT_ASSESSED, zero fully ready and zero independently approved. Topic 2-2-5 objective depth check: 17/25 narrative sections <150 words; MCQ answer distribution A10/B19/C1/D0 and 26 weak distractor sets; R3/R5 incomplete. Primary-source recovery is partial; R4 BLOCKED.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -86,5 +86,16 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": []
+  "assessed_rebuild_required": [],
+  "last_readiness_update": "2026-10-26",
+  "verified_R1_pass_topic_ids": [
+    "2-2-4",
+    "2-2-5"
+  ],
+  "verified_R1_pass_count": 2,
+  "recent_evidence": [
+    "project-control/academic-readiness/2-2-4-official-syllabus-r1-verified.json",
+    "project-control/academic-readiness/2-2-5-depth-mcq-preflight-2026-10-26.json",
+    "project-control/academic-readiness/2-2-5-primary-source-recovery-2026-10-26.md"
+  ]
 }
