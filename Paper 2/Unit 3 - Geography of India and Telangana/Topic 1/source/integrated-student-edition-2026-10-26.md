@@ -644,8 +644,3 @@ No fresh interstate-water award or tribunal decision is included without an auth
 - R6: six model answers assembled; exact body-word counts and historical/geographical claim checks required.
 - R7: diagrams are schematic, not geospatial maps; labels and accessibility require review.
 - R8: PDF renderer, all-page inspection, offline portal integration and archive checks pending.
-
-
-**Build control (26 October 2026):** This integrated editable master is the sole candidate for the next synchronized student PDF. The preserved `complete-notes.pdf` remains the original draft, not the current integrated edition. R1–R8 are not all passed; external academic sign-off remains absent.
-
-**MCQ editorial note:** Existing original practice questions received more closely related distractors; new Q11–Q25 answer positions were de-patterned without changing the intended factual answer. This is an editorial preflight only: direct claim-level key and distractor verification is still required before R5 can pass.
