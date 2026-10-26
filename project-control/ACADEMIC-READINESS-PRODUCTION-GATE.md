@@ -19,11 +19,11 @@ For EACH existing topic, finish gates R1–R8 before initiating the independent 
 ## Required evidence per topic
 Maintain `project-control/academic-readiness/<paper>-<unit>-<topic>.json` with gate statuses NOT_STARTED / IN_PROGRESS / BLOCKED / PASS, objective evidence paths, outstanding issues, reviewer details, and immutable original PDF SHA256. Do not mark PASS without evidence. Keep project-wide academic approvals at zero until external sign-off.
 
-## Current baseline (reconciled 2026-10-26, Turn16)
+## Current baseline (reconciled 2026-10-26, Turn17)
 
 The repository contains **exactly 75 existing first-draft topic slots and original topic PDFs**; **zero topics** have passed all R1–R8 and **zero** have independent academic approval. The current topic-level status index is the canonical summary, not the older pilot paragraph in this document.
 
-Five existing topics are IN_PROGRESS: 2-2-4, 2-2-5, 2-3-1, 2-3-2 and 2-3-3. Seventy topics remain NOT_ASSESSED. Topic 2-3-3 now has one integrated editable working master with 14 explanatory concepts, 25 original explained MCQs, six 200–250-word mains answers and two original SVG diagrams. Thirteen concepts remain under 300 words, and the direct original commission PDF retrieval was HTTP 403 in the latest run; therefore **R1–R8 remain IN_PROGRESS** and R9 NOT_STARTED. The original 7-page PDF SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9 is preserved. Rendering/publication verification is recorded separately and must not be presumed from source commits.
+Five existing topics are IN_PROGRESS: 2-2-4, 2-2-5, 2-3-1, 2-3-2 and 2-3-3. Topic 2-3-4 is ASSESSED_REBUILD_REQUIRED. Sixty-nine topics remain NOT_ASSESSED. Topic 2-3-3 now has one integrated editable working master with 14 explanatory concepts, 25 original explained MCQs, six 200–250-word mains answers and two original SVG diagrams. Thirteen concepts remain under 300 words, and the direct original commission PDF retrieval was HTTP 403 in the latest run; therefore **R1–R8 remain IN_PROGRESS** and R9 NOT_STARTED. The original 7-page PDF SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9 is preserved. Rendering/publication verification is recorded separately and must not be presumed from source commits.
 
 A substantive hydrology correction was made to existing Topic 2-3-3 notes and portal: recharge is an internal flux for a whole-catchment water budget and can be an outflow for a soil-zone budget; it must not be counted twice. The partial 11-claim source register and limitations are in `project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json`.
 
