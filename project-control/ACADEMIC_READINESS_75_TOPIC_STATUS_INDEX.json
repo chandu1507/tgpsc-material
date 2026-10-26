@@ -9,7 +9,7 @@
   "not_assessed_count": 72,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 existing topics, three under individual readiness production and 72 unassessed. Topic 2-3-1 integrated source/PDF published; direct official geography syllabus primary PDF 403 this run; 25 MCQ fact checks, mains source checks, full-page visual review and artifact verification pending. Topics 2-2-4 and 2-2-5 R1 PASS. ZERO topics R1–R8 ready; ZERO external academic approvals.",
+  "warning": "Exactly 75 existing topics; 3 in progress (2-2-4, 2-2-5, 2-3-1), 72 unassessed, ZERO R1–R8 fully ready, ZERO independently academically approved. Topic 2-3-1 source/PDF/portal/ZIP checked but official syllabus PDF 403 and claim-level factual/expert/full-resolution usability review pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -88,13 +88,14 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26: Topic 2-3-1 integrated 25-page PDF, 25 explained original MCQs, six 200–250-word mains answers, two SVG diagrams, offline portal link; all gates still incomplete.",
+  "last_readiness_update": "2026-10-26: Topic 2-3-1 25-page integrated PDF, 25 MCQs, six mains, two SVG; GitHub artifact 12638915171 downloaded, 1453 files, 75 original PDFs, 461 local links zero broken, ZIP CRC PASS; R1–R8 incomplete.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5"
   ],
   "verified_R1_pass_count": 2,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-1-integrated-artifact-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-mcq-revised-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json",
