@@ -1,0 +1,108 @@
+{
+  "topic_id": "2-2-4",
+  "gate": "R1",
+  "result": "PASS",
+  "verification_date": "2026-10-26",
+  "source": {
+    "institution": "Telangana State Public Service Commission",
+    "document": "Notification 02/2024 dated 19 February 2024, Annexure II, Paper II, Section II, syllabus item 4",
+    "printed_pages": [
+      28,
+      29
+    ],
+    "pdf_zero_index_pages": [
+      27,
+      28
+    ],
+    "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "access": "Official PDF rendered and visually inspected, including both pages spanning item 4",
+    "limitation": "This gate checks syllabus mapping only, not historical accuracy, adequacy of depth or independent approval."
+  },
+  "atomic_syllabus_map": [
+    {
+      "item": "Telangana socio-cultural awakening: historical framing",
+      "chapter_sections": [
+        1,
+        16
+      ]
+    },
+    {
+      "item": "Andhra Sarasvath Parishat",
+      "chapter_sections": [
+        6
+      ]
+    },
+    {
+      "item": "Literary and library movements",
+      "chapter_sections": [
+        2,
+        3
+      ]
+    },
+    {
+      "item": "Nizam Rashtra Andhra Jana Sangham",
+      "chapter_sections": [
+        4
+      ]
+    },
+    {
+      "item": "Andhra Mahasabha",
+      "chapter_sections": [
+        5
+      ]
+    },
+    {
+      "item": "Brahmo Samaj",
+      "chapter_sections": [
+        7
+      ]
+    },
+    {
+      "item": "Arya Samaj",
+      "chapter_sections": [
+        7
+      ]
+    },
+    {
+      "item": "Adi-Hindu and Dalit movements",
+      "chapter_sections": [
+        8
+      ]
+    },
+    {
+      "item": "Bhagya Reddy Varma",
+      "chapter_sections": [
+        8
+      ]
+    },
+    {
+      "item": "Andhra Mahila Sabha and women's movement",
+      "chapter_sections": [
+        12
+      ]
+    },
+    {
+      "item": "Hyderabad State Congress",
+      "chapter_sections": [
+        15
+      ]
+    },
+    {
+      "item": "Vande Mataram movement",
+      "chapter_sections": [
+        14
+      ]
+    }
+  ],
+  "supporting_context_not_separate_item": [
+    "Vetti (§9): primarily item 3 of official Telangana history syllabus, context for reform",
+    "Jogini (§10) and Devadasi (§11): supporting context for social reform and women"
+  ],
+  "student_master_path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/integrated-student-edition-pilot-2026-10-26.md",
+  "unresolved_for_other_gates": [
+    "Source-critical conference proceedings, contemporary government orders and original press issues",
+    "Editorial and pedagogical depth of each mapped section",
+    "Independent fact-check of MCQs and mains",
+    "Public browser usability and final PDF"
+  ]
+}
