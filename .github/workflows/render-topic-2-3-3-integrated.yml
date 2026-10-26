@@ -10,7 +10,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: tgpsc-topic-2-3-3-integrated-render
+  group: tgpsc-topic-2-3-3-integrated-render-fast-v2
   cancel-in-progress: false
 jobs:
   render:
