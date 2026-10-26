@@ -23,7 +23,7 @@
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
-    "R7": "BLOCKED",
+    "R7": "IN_PROGRESS",
     "R8": "BLOCKED"
   },
   "evidence": [
@@ -31,9 +31,10 @@
     "project-control/academic-readiness/3-1-1-turn22-answer-length-and-ncert-concept-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn23-tribal-law-depth-and-five-mcq-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-turn24-two-original-svg-learning-aids-2026-10-27.json"
   ],
-  "next_action": "11 of 18 explanations still under 300 words; 25 original MCQs now exist but all 25 keys and distractors need independent audit; six mains source checks, original diagrams, integrated PDF and R8 pending.",
+  "next_action": "11/18 narrative sections below 300; 25 original MCQs need full independent item audit, six mains source checks, two SVGs need full-res QA and integrated-PDF inclusion, R8 remains blocked.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -113,5 +114,15 @@
     "current_sections_under_150_words": 0,
     "source_markdown_blob_sha1": "c863a4273336e6bed2bbe00126d2aa05eee63c33",
     "qualitative_R3_pass": false
+  },
+  "original_learning_aids": {
+    "date": "2026-10-27",
+    "svg_count": 2,
+    "full_resolution_checked": false,
+    "integrated_pdf_inclusion_checked": false,
+    "paths": [
+      "Paper 3/Unit 1 - Indian Society/Topic 1/source/indian-society-integration-mechanisms.svg",
+      "Paper 3/Unit 1 - Indian Society/Topic 1/source/family-household-kinship-distinction.svg"
+    ]
   }
 }
