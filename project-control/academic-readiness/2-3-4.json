@@ -33,7 +33,7 @@
     "project-control/academic-readiness/2-3-4-post-publication-packaging-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-4-render-qa.json"
   ],
-  "next_action": "CI renderer SUCCESS: synchronized 19-page integrated PDF exists; 11 of 15 original narrative concepts still under 150 words; R1 original syllabus, R2 dedup, R4 sources, R5 all distractors, R6 mains, R7 SVG and R8 downloaded post-render artifact/full-res QA pending. No approval.",
+  "next_action": "Final dedicated Topic4 CI renderer 40382863495 SUCCESS, PDF 19 pages SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467; post-render downloaded artifact SHA/CRC/links and page-level full-resolution QA pending. 11/15 core concepts shallow; no academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -91,14 +91,16 @@
       10
     ],
     "integrated_pdf_pages": 19,
-    "integrated_pdf_sha256": "ecb00777352f8c5a7fdb2183d33d47b928d49a7518551651b51d71f1eae60006",
-    "render_workflow_run": 40382078154,
+    "integrated_pdf_sha256": "0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467",
+    "render_workflow_run": 40382863495,
     "source_depth_expansion_sections": [
       4,
       5,
       6,
       9
     ],
-    "source_depth_qualitative_status": "IN_PROGRESS"
+    "source_depth_qualitative_status": "IN_PROGRESS",
+    "renderer_script": "scripts/render_topic_2_3_4.py",
+    "footer_correction": "Dedicated renderer fixes prior incorrect Topic 3 footer and PDF title; final artifact visual inspection still required."
   }
 }
