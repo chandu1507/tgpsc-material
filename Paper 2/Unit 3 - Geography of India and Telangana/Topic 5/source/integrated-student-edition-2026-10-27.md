@@ -167,12 +167,12 @@ D. Every urban resident being a migrant
 
 ### Q5. Telangana Census 2011 urban share is approximately:
 
-A. 12%
-B. 25%
-C. 39%
-D. 75%
+A. 31.80% (2001 urban share)
+B. 61.12% (2011 rural share)
+C. 38.88% (2011 urban share)
+D. 20.99% (1971 urban share)
 
-**Answer: C.** The state profile gives about 38.9%; this is not a 2026 estimate. **Source category:** U1. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** Telangana's government State Profile gives the 2011 urban share as 38.88% (about 38.9%), while 61.12% is the 2011 rural share and 31.80% is the 2001 urban share. The historical 1971 figure is reported in the 2014 Socio-Economic Outlook. This is not a 2026 estimate. **Source category:** U1; Telangana State Profile and Socio-Economic Outlook 2014. Full independent item-level verification remains pending.
 
 ### Q6. HMDA reports its 2008 jurisdiction as approximately:
 
@@ -185,12 +185,12 @@ D. 112,077 sq km
 
 ### Q7. Which order is associated with the 2025 HMDA region expansion?
 
-A. G.O.Ms.No.68
-B. G.O.Ms.No.570 dated 2025
-C. Indian Councils Act
-D. G.O.Ms.No.571 dated 1948
+A. G.O.Ms.No.68, 12 March 2025
+B. G.O.Ms.No.570, 25 August 2008
+C. G.O.Ms.No.69, 12 March 2025
+D. Metropolitan Development Plan 2031
 
-**Answer: A.** HMDA cites G.O.Ms.No.68, 12 March 2025. **Source category:** U4. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** HMDA's official website identifies G.O.Ms.No.68 dated 12 March 2025 for the expanded HMR boundary. G.O.Ms.No.570 established the 2008 region; HMDA's About page separately discusses G.O.Ms.No.69 concerning FCDA village treatment. A master plan is not the boundary-extension order. **Source category:** U4. Full independent item-level verification remains pending.
 
 ### Q8. Which body primarily coordinates metropolitan spatial planning?
 
@@ -347,13 +347,12 @@ D. Car-only transport
 
 ### Q25. HMDA states the expanded 2025 planning area is approximately:
 
-A. 650 sq km
-B. 10,472.723 sq km
-C. 217 sq km
-D. A population of 10.4 million
+A. 7,257 sq km (2008 HMDA area)
+B. 10,472.723 sq km (2025 HMR area)
+C. 650 sq km (GHMC's published area)
+D. 112,077 sq km (Telangana State area)
 
-**Answer: B.** HMDA distinguishes its enlarged planning region from GHMC and district areas. **Source category:** U4. Independent item-level key and distractor verification is PENDING.
-
+**Answer: B.** HMDA gives approximately 10,472.723 sq km for the HMR under its March 2025 boundary order. The 7,257 sq km figure refers to 2008 HMDA jurisdiction; 650 sq km is a published GHMC municipal-area figure, and 112,077 sq km is the state area. **Source category:** U4, U1 and GHMC official site. Full independent item-level verification remains pending.
 
 ## Part C — Structured mains model answers (original, NOT official PYQs)
 
@@ -445,7 +444,7 @@ D. A population of 10.4 million
 
 **Conclusion:** Hyderabad's durable global appeal depends on preserving its historical urban fabric while distributing economic opportunities and managing metropolitan risks. Tourism and modern services should reinforce rather than displace one another.
 
-*Body word count: requires deterministic recount and factual review; NOT an official PYQ.*
+*Body word count (deterministically recounted): 243; factual review pending; NOT an official PYQ.*
 
 ## Part D — Revision and schematic process diagrams
 

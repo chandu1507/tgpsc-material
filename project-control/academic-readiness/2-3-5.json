@@ -30,7 +30,8 @@
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json"
+    "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json",
+    "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json"
   ],
   "next_action": "R1 official syllabus mapping PASS (14 editorial clauses from Notification 02/2024 Annexure II printed p29); R2-R8 not ready. Download actual corrected Topic5 renderer artifact and verify footer, hashes, original 75 PDFs, offline portal, page QA.",
   "external_reviewer": null,
@@ -56,5 +57,11 @@
     "independent_item_audit": false,
     "qualitative_depth_pass": false,
     "source_level_mains_audit": false
+  },
+  "mcq_primary_key_review": {
+    "source_correlated_correct_keys": 6,
+    "total_questions": 25,
+    "remaining_keys": 19,
+    "all_distractors_independently_validated": false
   }
 }

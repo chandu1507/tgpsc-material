@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-5",
+  "operation": "source-correlate selected MCQ correct keys and improve plausible distractors",
+  "source_documents": [
+    {
+      "name": "TGPSC Notification 02/2024 Annexure II printed p29",
+      "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v"
+    },
+    {
+      "name": "HMDA home/about, jurisdiction and GO68/570/69",
+      "url": "https://www.hmda.gov.in/about/"
+    },
+    {
+      "name": "Telangana State Profile, Census 2011 and area",
+      "url": "https://www.telangana.gov.in/About/State-Profile/"
+    },
+    {
+      "name": "Telangana Socio-Economic Outlook 2014 historical urbanisation series",
+      "url": "https://telangana.gov.in/wp-content/uploads/2019/06/Socio-Economic-outlook-2014.pdf"
+    },
+    {
+      "name": "GHMC About, 2007 municipal formation",
+      "url": "https://ghmc.gov.in/"
+    },
+    {
+      "name": "GHMC City History, 1591 foundation",
+      "url": "https://www.ghmc.gov.in/City_History.aspx"
+    }
+  ],
+  "key_correspondences": [
+    {
+      "question": 3,
+      "key": "A",
+      "claim": "Hyderabad founded in 1591 by Muhammad Quli Qutb Shah",
+      "source": "GHMC City History",
+      "result": "KEY_CORROBORATED"
+    },
+    {
+      "question": 5,
+      "key": "C",
+      "claim": "2011 Telangana urban share 38.88%",
+      "source": "Telangana State Profile",
+      "result": "KEY_CORROBORATED",
+      "distractors": "2001 31.80%, 2011 rural 61.12%, 1971 20.99% historical distinctions"
+    },
+    {
+      "question": 6,
+      "key": "B",
+      "claim": "2008 HMDA area 7257 sq km",
+      "source": "HMDA About",
+      "result": "KEY_CORROBORATED"
+    },
+    {
+      "question": 7,
+      "key": "A",
+      "claim": "G.O.Ms.No.68 dated 12 March 2025 expanded HMR",
+      "source": "HMDA About",
+      "result": "KEY_CORROBORATED",
+      "distractors": "2008 GO570 and 2025 GO69 made explicit"
+    },
+    {
+      "question": 9,
+      "key": "C",
+      "claim": "GHMC constituted 2007",
+      "source": "GHMC About",
+      "result": "KEY_CORROBORATED"
+    },
+    {
+      "question": 25,
+      "key": "B",
+      "claim": "2025 HMR area 10472.723 sq km",
+      "source": "HMDA About",
+      "result": "KEY_CORROBORATED",
+      "distractors": "Distinguish 2008 HMDA, GHMC and Telangana State areas"
+    }
+  ],
+  "counts": {
+    "keys_source_correlated": 6,
+    "total_mcqs": 25,
+    "remaining_keys": 19,
+    "all_distractors_independently_validated": false
+  },
+  "mains": {
+    "answer_6_deduplicated": true,
+    "answer_6_body_words": 243,
+    "full_source_review": false
+  },
+  "gate_status": "R5_IN_PROGRESS",
+  "limitations": [
+    "Corroborated keys do not constitute full independent four-option validation",
+    "Remaining 19 MCQ keys and all distractors require review",
+    "No official PYQ attribution",
+    "No R5 PASS or academic approval"
+  ]
+}

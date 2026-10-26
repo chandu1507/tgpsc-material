@@ -92,7 +92,7 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-27: Topic 2-3-5 R1 PASS after direct original TGPSC Notification 02/2024 Annexure II printed p29 review, 14 editorial syllabus clauses mapped to existing integrated headings. Seven topics IN_PROGRESS, 68 NOT_ASSESSED, five R1 PASS, zero R1–R8 fully ready or independently approved.",
+  "last_readiness_update": "2026-10-27: Topic2-3-5 R1 PASS (14 mapped clauses); six of 25 MCQ correct keys source-correlated from HMDA/GHMC/Telangana government, three question distractor sets improved, remaining 19 keys and all distractors pending. 7 IN_PROGRESS, 68 NOT_ASSESSED, zero fully ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -102,6 +102,7 @@
   ],
   "verified_R1_pass_count": 5,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
