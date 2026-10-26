@@ -672,14 +672,14 @@ D. 29 November 1947
 
 **Answer: D.** Contemporaneous Patel statements and Nehru correspondence establish the November 1947 arrangement; the signed original still requires clause-level review. [S14, S15]
 
-### MCQ 19. Which statement best captures what the November 1947 Hyderabad–India Standstill Agreement did NOT settle?
+### MCQ 19. Which statement best describes the constitutional scope of the November 1947 Hyderabad–India Standstill Agreement?
 
-A. It continued specified existing administrative arrangements temporarily without itself resolving the final constitutional relationship.  
-B. It immediately transferred Hyderabad's full sovereignty by an Instrument of Accession signed as part of the same agreement.  
-C. It permanently recognized Hyderabad as a fully independent state with an internationally guaranteed defence treaty.  
-D. It abolished the Nizam's government and installed the post-September-1948 military administration.  
+A. It provisionally continued specified existing arrangements while leaving Hyderabad's final constitutional relationship with India unsettled.  
+B. It functioned as an Instrument of Accession, definitively transferring the three principal accession subjects to India.  
+C. It restored the Crown Representative's paramountcy functions for one year while an accession settlement was negotiated.  
+D. It established an elected responsible government in Hyderabad and settled the state's representation in India's Constituent Assembly.  
 
-**Answer: A.** Patel's contemporary statement described temporary continuity of specified arrangements, with paramountcy excluded; it was not itself a completed accession settlement. The signed original remains to be examined clause by clause. [S14, S15]
+**Answer: A.** Patel's Constituent Assembly statement on 29 November 1947 expressly described temporary continuation of arrangements on matters of common concern, excluding paramountcy, for one year. It did not itself settle accession or establish responsible government. The signed original still requires direct clause-level archival inspection. [S14, S15]
 
 ### MCQ 20. When did Indian forces begin Operation Polo?
 
