@@ -1,0 +1,63 @@
+{
+  "topic_id": "2-2-5",
+  "date": "2026-10-26",
+  "type": "substantive_integrated_edition_correction",
+  "baseline_head": "620ef2270dfb642c0972466defdfb15d5d39cc2e",
+  "original_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
+  "corrected_md_sha256": "86dfe7ba83a0773d3d476e14162aca1a72c663a847158f857b2942b40c83d292",
+  "corrected_pdf_sha256": "39fc145f7adbe32204afc0d50a7d26fbcf73f7f95860a347c5a2fb60931b1cba",
+  "corrected_pdf_pages": 29,
+  "corrected_word_count_approx": 12908,
+  "expanded_sections": [
+    8,
+    9,
+    13,
+    16,
+    18,
+    19,
+    21,
+    22
+  ],
+  "short_sections_before": 17,
+  "short_sections_after": 9,
+  "mcqs_rewritten": 30,
+  "answer_key_distribution": {
+    "A": 7,
+    "C": 8,
+    "B": 7,
+    "D": 8
+  },
+  "svg_diagrams": 3,
+  "independent_mcq_fact_check": "PENDING",
+  "source_register_additions": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+  ],
+  "primary_source_blockers": [
+    "Original nineteenth-century Ramji Gond records",
+    "1940 Gond police/forest records",
+    "Original Sunderlal committee report",
+    "Original Standstill Agreement and 1948 government/army orders",
+    "Original 1951 Communist Party withdrawal decision",
+    "Retrieve original October 1951 withdrawal text; do not mistake May 1951 party resolution for it",
+    "Inspect signed Standstill Agreement, original October 1951 withdrawal text, Sunderlal full original and Gond archival records"
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "BLOCKED",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
+  },
+  "academic_approved": false,
+  "pdf_all_pages_nonempty": true,
+  "pdf_visual_review": "Two contact sheets covering all 29 pages inspected; detailed independent design review pending",
+  "note": "Legacy original PDF preserved; earlier integrated edition replaced at same paths, retrievable from Git history and Library. Not ready for R9."
+}

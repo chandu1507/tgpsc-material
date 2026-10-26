@@ -2,7 +2,7 @@
   "topic_id": "2-2-5",
   "title": "People's Movement against Nizam's Rule",
   "date": "2026-10-26",
-  "status": "INTEGRATED_STUDENT_EDITION_DRAFT_PUBLISHED_PENDING_QA",
+  "status": "CORRECTED_INTEGRATED_EDITION_PUBLISHED_PENDING_CONTENT_QA",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "readiness_gate_file": "project-control/academic-readiness/2-2-5.json",
@@ -19,18 +19,18 @@
   "gate_evidence": {
     "R1": "Official commission Notification No. 02/2024, Annexure II, PDF p.29; full direct primary document accessed 26 Oct 2026; 8 subpoints mapped to chapter sections.",
     "R2": "Original 8-page PDF, 25-section 2307-word detailed notes and 1205-word earlier peasant-sanghams/women supplement inventoried; integrated 9462-word student draft assembled without overwriting originals. Editorial duplicate/contradiction sweep outstanding.",
-    "R3": "Expanded full-page-style sections on Ramji Gond, Komaram Bheem, agrarian causes, village sanghams, women/Ailamma, MIM/Razakars, Operation Polo, 1951 continuation. Independent depth review outstanding. Quantitative preflight of LIVE integrated edition: 17 of 25 numbered narrative sections contain fewer than 150 words; only 6 contain >=400. See 2-2-5-depth-mcq-preflight-2026-10-26.json. Full-page concept depth NOT YET MET.",
-    "R4": "Nine-entry source register with provenance/status; original Gazetteer, Sunderlal report, Standstill Agreement, Hyderabad files and 1951 party resolution still missing. Some claims qualified rather than asserted. New research-control file 2-2-5-primary-source-recovery-2026-10-26.md identifies 29 Nov 1947 Patel contemporaneous statement and participant accounts, May 1951 CPI resolution (party source), April/Nov 1951 party texts, and Sunderlal excerpts; signed agreement, original October 1951 withdrawal text and full Sunderlal original still missing. R4 remains BLOCKED.",
-    "R5": "30 original four-option MCQs with answer keys and explanations. Independent answer/distractor fact-check outstanding; zero authenticated official PYQs. Mechanical verification on LIVE integrated edition: all 30 have four options, keys and explanations; 26/30 flagged for weak distractors; answer key distribution A10/B19/C1/D0 is unsuitable. R5 NOT PASS. See 2-2-5-depth-mcq-preflight-2026-10-26.json.",
+    "R3": "26 Oct editorial correction: eight priority concepts (§§8,9,13,16,18,19,21,22) expanded to ~370-455 words each; sections <150 words reduced from 17/25 to 9/25. Other shallow sections remain; R3 IN_PROGRESS.",
+    "R4": "Historical source register expanded S10-S15: Sundarayya participant retrospective explicitly says 21 Oct 1951; May 1951 party policy is NOT the October withdrawal announcement; contemporary Patel statement and Nehru correspondence on Nov 1947 standstill recovered; signed original and other archival documents remain unavailable. R4 BLOCKED.",
+    "R5": "All 30 original four-option practice MCQs rewritten with more plausible distractors; answer positions A7/B7/C8/D8. Historical correctness and distractor discrimination still require independent validation; zero official PYQs. R5 IN_PROGRESS.",
     "R6": "Six structured original mains answers, word counts 218/201/214/214/208/209, plus six answer blueprints. Independent historical-content review outstanding.",
     "R7": "Three original SVG process diagrams, timeline, comparative table, revision traps and 2026 commemoration linked to dated government release. Student usability review outstanding.",
-    "R8": "Searchable integrated PDF created, 21 pages, montage visual inspection, original PDF preserved SHA256; offline topic link prepared. Remote publication and full 75-topic link/ZIP QA pending."
+    "R8": "Corrected searchable 29-page PDF generated and all pages rendered to montages and visually inspected locally; 3 SVG diagrams; original legacy PDF SHA256 preserved. GitHub remote packaging and public browser QA still to verify. R8 IN_PROGRESS."
   },
   "original_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
-  "integrated_md_sha256": "efb62b610dbfa8d1a058e0874f80cc98779186ca0115884020dca1b8fc9c202e",
-  "integrated_pdf_sha256": "38feec00ade0f0062aba4cc8a7c45ee55908760b464369a25ee0eb81a236d9f5",
-  "integrated_pdf_pages": 21,
-  "integrated_words": 9462,
+  "integrated_md_sha256": "86dfe7ba83a0773d3d476e14162aca1a72c663a847158f857b2942b40c83d292",
+  "integrated_pdf_sha256": "39fc145f7adbe32204afc0d50a7d26fbcf73f7f95860a347c5a2fb60931b1cba",
+  "integrated_pdf_pages": 29,
+  "integrated_words": 12908,
   "mcqs_original_explained": 30,
   "mains_original_complete": 6,
   "official_pyqs_authenticated": 0,
@@ -45,9 +45,11 @@
     "Original 1951 Communist Party withdrawal decision",
     "Independent editorial review",
     "Remote site/public Pages usability",
-    "Rewrite 17 shallow numbered narrative sections, prioritizing 8 major gaps",
-    "Rewrite 26 weak MCQ distractor sets and rebalance answer positions A/B/C/D while verifying keys",
-    "Retrieve original October 1951 withdrawal text; do not mistake May 1951 party resolution for it"
+    "Retrieve original October 1951 withdrawal text; do not mistake May 1951 party resolution for it",
+    "Finish nine narrative sections below 150 words and final textbook-depth review",
+    "Independently verify revised MCQ facts and distractors; balanced answer positions alone do not prove exam quality",
+    "Inspect signed Standstill Agreement, original October 1951 withdrawal text, Sunderlal full original and Gond archival records",
+    "Verify latest corrected PDF through GitHub packaging and public Pages browser"
   ],
   "sources": [
     {
@@ -61,6 +63,18 @@
     {
       "type": "state_commemoration",
       "url": "https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-telangana-praja-palana-dinotsavam-2026-celebrations-at-public-gardens-hyderabad/"
+    },
+    {
+      "type": "participant_retrospective",
+      "url": "https://www.cambridge.org/core/books/abs/telengana-peoples-struggle-and-its-lessons/introduction/05AEDB22A65BCE6D1897AF37D3FDA873"
+    },
+    {
+      "type": "scholarly",
+      "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/internal-violence-the-police-action-in-hyderabad/9EF8AAB00775E38AA13F663C730A244C"
+    },
+    {
+      "type": "contemporaneous_reproduced",
+      "url": "https://nehruarchive.in/documents/to-vallabhbhai-patel-25-november-1947-kz2znp"
     }
   ]
 }
