@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-1-1",
+  "scope": "Targeted in-place model-answer length correction and limited NCERT concept correspondence",
+  "official_pyqs_authenticated": 0,
+  "original_topic_count_unchanged": 75,
+  "original_pdf_modified": false,
+  "edited_source": "Paper 3/Unit 1 - Indian Society/Topic 1/source/complete-model-answers.md",
+  "answer_count": 6,
+  "word_count_method": "Body-only; remove Markdown bold delimiters; count Unicode alphanumeric tokens with optional internal apostrophe/hyphen",
+  "post_edit_body_word_counts": [
+    215,
+    206,
+    211,
+    209,
+    210,
+    216
+  ],
+  "all_six_200_to_250": true,
+  "answer_changes": [
+    "Q1 institutional implementation and grievance mechanisms",
+    "Q4 functional-region planning metrics",
+    "Q5 community-specific safeguards",
+    "Q6 language-access service delivery"
+  ],
+  "historical_gap_count_caveat": "Prior assessment reported Q6 263 words; a direct pre-edit recount of the current complete-model-answers.md yielded 190 body words with this method. Historical metric not silently overwritten.",
+  "concept_source": {
+    "title": "NCERT Class XII Indian Society Chapter 3 Social Institutions Continuity and Change",
+    "access": "IIT Kanpur SATHEE NCERT chapter reproduction",
+    "url": "https://sathee.iitk.ac.in/ncert-books/class-12/sociology/indian-society/chapter-03-social-institutions-continuity-and-change/",
+    "limited_correspondences": [
+      {
+        "id": "S01",
+        "topic": "caste jati endogamy hierarchy",
+        "mains": "Q3"
+      },
+      {
+        "id": "S02",
+        "topic": "Srinivas dominant caste concept",
+        "mains": "Q3"
+      },
+      {
+        "id": "S03",
+        "topic": "tribal heterogeneity and displacement",
+        "mains": "Q5"
+      },
+      {
+        "id": "S04",
+        "topic": "family descent residence and matriliny vs matriarchy",
+        "mains": "Q2"
+      }
+    ]
+  },
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "unresolved": [
+    "Six answers still require claim-level fact-checking; four limited correspondences are not full R4/R6",
+    "15 MCQs missing from 25 target; existing 10 keys/distractors unverified",
+    "16 of 18 concepts under 300 words",
+    "Earlier repair not merged into one synchronized student edition",
+    "No original SVG diagrams",
+    "Integrated CI PDF, actual artifact QA and public usability pending",
+    "No independent academic reviewer or approval"
+  ],
+  "academic_approved": false,
+  "external_reviewer": null
+}
