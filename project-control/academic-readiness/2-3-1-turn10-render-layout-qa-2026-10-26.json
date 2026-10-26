@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-1",
+  "scope": "Latest source-to-PDF synchronization and mechanical QA, NOT full R8 pass",
+  "source_commit": "42cca0a19d3168f5340d2c7ee0b0806cbabd1cea",
+  "renderer_run": 40303002957,
+  "renderer_conclusion": "success",
+  "renderer_pdf_sha256": "9629ac7561a63902e8792cd1a9874f8dc7a0268b9784743e0f10652c736e1bc9",
+  "local_regeneration_pdf_sha256": "9629ac7561a63902e8792cd1a9874f8dc7a0268b9784743e0f10652c736e1bc9",
+  "sha256_equal": true,
+  "pages": 27,
+  "pages_with_no_text": [],
+  "source_register_table_layout_issue": "G9–G12 were initially rendered as literal table-row Markdown on page 26; source blank-line error corrected and regenerated PDF full-resolution page26 visually inspected; G9–G12 now appear in the table",
+  "latest_verified_packaging_artifact_before_last_fix": {
+    "run": 40302729742,
+    "id": 12640972944,
+    "crc_pass": true,
+    "files": 1459,
+    "topic_slots": 75,
+    "original_pdfs": 75,
+    "readiness_json": 75,
+    "html_pages": 78,
+    "local_links_checked": 461,
+    "broken_links": 0
+  },
+  "post_final_render_packaging_artifact": "PENDING_DOWNLOAD_AND_CRC_VERIFICATION",
+  "public_pages": {
+    "run": 40303795180,
+    "conclusion": "success",
+    "browser_usability": "NOT_TESTED"
+  },
+  "R8": "IN_PROGRESS",
+  "R1": "PASS",
+  "academic_approved": false
+}
