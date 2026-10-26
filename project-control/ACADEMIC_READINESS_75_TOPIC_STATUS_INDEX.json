@@ -5,12 +5,13 @@
     "2-2-4",
     "2-2-5",
     "2-3-1",
-    "2-3-2"
+    "2-3-2",
+    "2-3-3"
   ],
   "not_assessed_count": 70,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 existing topics; four IN_PROGRESS, one ASSESSED_REBUILD_REQUIRED (2-3-3), 70 NOT_ASSESSED. Four R1 PASS. ZERO R1-R8 fully ready and ZERO academic approvals. Publication QA is not academic validation.",
+  "warning": "Exactly 75 existing topics: five IN_PROGRESS (2-2-4, 2-2-5, 2-3-1, 2-3-2, 2-3-3), 70 NOT_ASSESSED, ZERO R1-R8 fully ready and ZERO independently academically approved. Topic 2-3-3 has a new integrated draft but academic validation and final PDF artifact QA remain pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -88,10 +89,8 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [
-    "2-3-3"
-  ],
-  "last_readiness_update": "2026-10-26 Turn15: Topic 2-3-2 integrated Markdown 14,408 approximate words, 40 sections >=200 words, 35 under 300, 25 editorially rewritten explained MCQs, six mains; synchronized 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe, actual GitHub artifact 12661726703 downloaded, 75 original PDFs, 75 readiness JSON, 463 local links 0 broken, CRC PASS. Topic 2-3-3 newly assessed rebuild required: 14/14 concepts under 150 words, 0 MCQs, two mains. Four IN_PROGRESS, one rebuild, 70 NOT_ASSESSED, ZERO fully ready and ZERO external approvals.",
+  "assessed_rebuild_required": [],
+  "last_readiness_update": "2026-10-26 Turn16: Topic 2-3-3 original 7-page PDF SHA256 d935e793... preserved; integrated Markdown published in place, 14 concepts (13 under 300 words), 25 original four-option MCQs, six 200-250-word mains answers, two SVG diagrams; source-correlated nine primary/institutional claims; corrected catchment recharge double-counting ambiguity in existing notes and portal. R1-R8 IN_PROGRESS, R9 not started, zero approvals. GitHub CI PDF and artifact verification pending.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -100,6 +99,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
