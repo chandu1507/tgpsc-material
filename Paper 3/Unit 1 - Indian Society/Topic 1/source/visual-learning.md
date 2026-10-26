@@ -46,3 +46,9 @@ Village production and care networks ⇆ migration / commuting / remittances ⇆
 ![Three enabling pathways to negotiated integration, with exclusion risks and measurable outcomes](indian-society-integration-mechanisms.svg)
 
 The vector diagram distinguishes constitutional membership, economic interdependence and cultural interaction. Arrows indicate **potential enabling mechanisms**, not an inevitable result: discrimination and unequal power can interrupt each. In mains answers, test integration through disaggregated access, participation and grievance outcomes. The diagram is original and editable; its presence in source does **not** establish inclusion in a synchronized integrated PDF or completion of R7/R8.
+
+## Original editable SVG: family, household and kinship (27 October 2026)
+
+![Family, household and kinship as distinct but overlapping analytical units](family-household-kinship-distinction.svg)
+
+The worked migrant-family example distinguishes **kin and care obligations** from **co-residence**, and reminds students that descent, inheritance and authority must be studied separately. The diagram is an original teaching aid, not a verified census classification or proof of a universal household pattern. Both SVGs require full-resolution and integrated-PDF rendering checks before R7/R8 can pass.
