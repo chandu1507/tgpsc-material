@@ -645,3 +645,5 @@ No fresh interstate-water award or tribunal decision is included without an auth
 - R7: diagrams are schematic, not geospatial maps; labels and accessibility require review.
 - R8: PDF renderer, all-page inspection, offline portal integration and archive checks pending.
 
+
+**Build control (26 October 2026):** This integrated editable master is the sole candidate for the next synchronized student PDF. The preserved `complete-notes.pdf` remains the original draft, not the current integrated edition. R1–R8 are not all passed; external academic sign-off remains absent.
