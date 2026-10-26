@@ -153,8 +153,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "integrated_19_page_ci_pdf_published_academic_depth_blocked",
-      "notes": "26 Oct Turn14: direct official p29 R1 PASS. One integrated working student edition now published and CI-rendered 19 searchable pages (SHA256 4c9aee136e8bbdcef334305a30718ba81cf75ea88dc936a36b994bb22c8be710); 40 original sections plus seven existing repair sections, 25 original explained MCQs, six structured 200–250-word mains answers, two original SVG diagrams. However 30/40 concept sections below 150 words, all 40 below 300; R3 BLOCKED. All MCQs/mains need claim-level audit. Original 15-page PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 preserved. Actual packaging run 40338215991 artifact 12657647049 DOWNLOADED, CRC PASS, 75 originals, 75 readiness JSON, 463 links ZERO broken; R8 remains IN_PROGRESS for full accessibility and public-browser checks; ZERO academic approval.",
+      "production_review": "integrated_markdown_substantively_deepened_mcqs_rewritten_pdf_sync_pending",
+      "notes": "26 Oct Turn15: 32/40 existing concepts substantively expanded IN PLACE; automated count 0 sections under 200 words, 35 under 300, qualitative R3 IN_PROGRESS. All 25 explained four-option MCQs editorially rewritten with same-domain alternatives, Q22 ambiguity fixed; only Q5/Q17/Q21 directly source-correlated, all keys/distractors still need full independent review. S9-S13 added CGWB/CADWM/NCERT/PIB official references. Legacy 15-page PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 preserved as of prior QA. New synchronized PDF and post-render artifact QA PENDING; prior 19-page PDF cannot be called current. Zero academic approval.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-2.json"
     },
@@ -165,9 +165,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "objective_source_gap_assessed_rebuild_required",
+      "notes": "26 Oct Turn15: direct source inspection: 14/14 detailed concepts under 150 words, 0 original explained MCQs, 2 mains model answers (254/243 words by Unicode count), ASCII conceptual chart but 0 SVG, no authenticated PYQs; original PDF exists but was not rendered/hashed this assessment. Official R1 original clause map NOT_STARTED, R3/R5/R6/R8 BLOCKED. Evidence project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json. No academic approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-3-3.json"
     },
     {
