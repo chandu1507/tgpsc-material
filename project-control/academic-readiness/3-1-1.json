@@ -30,9 +30,10 @@
     "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn22-answer-length-and-ncert-concept-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-turn23-tribal-law-depth-and-five-mcq-check-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json"
   ],
-  "next_action": "Now 25 original explained MCQs exist, but full independent audit of all 25 keys/100 alternatives pending; complete depth, six mains source checks, diagrams, synchronized PDF and R8.",
+  "next_action": "11 of 18 explanations still under 300 words; 25 original MCQs now exist but all 25 keys and distractors need independent audit; six mains source checks, original diagrams, integrated PDF and R8 pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -95,14 +96,22 @@
   },
   "substantive_depth_progress": {
     "date": "2026-10-27",
-    "sections": [
-      "9",
-      "10"
+    "expanded_section_ids": [
+      9,
+      10,
+      11,
+      12,
+      14
     ],
-    "before_words": 406,
-    "after_words": 1121,
-    "net_added_words": 715,
-    "qualitative_pass": false,
-    "other_shallow_sections_remaining": true
+    "new_this_cycle": [
+      11,
+      12,
+      14
+    ],
+    "current_numbered_sections": 18,
+    "current_sections_under_300_words": 11,
+    "current_sections_under_150_words": 0,
+    "source_markdown_blob_sha1": "c863a4273336e6bed2bbe00126d2aa05eee63c33",
+    "qualitative_R3_pass": false
   }
 }
