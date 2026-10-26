@@ -12,7 +12,7 @@
   "not_assessed_count": 68,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; 6 IN_PROGRESS, Topic 2-3-5 ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED; 0 fully R1–R8 ready and 0 independently approved. Topic 2-3-4 has 19-page CI-rendered integrated PDF but post-render artifact/page-level QA and academic gates remain incomplete. Topic 2-3-5 original 8-page PDF preserved; 16/16 core concepts under 150 words, zero explained original MCQs, two mains, no SVG.",
+  "warning": "Exactly 75 original topics; 6 IN_PROGRESS, Topic 2-3-5 ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED; 0 fully R1–R8 ready and 0 independently approved. Topic 2-3-4 has 19-page footer-corrected CI-rendered integrated PDF but post-render artifact/page-level QA and academic gates remain incomplete. Topic 2-3-5 original 8-page PDF preserved; 16/16 core concepts under 150 words, zero explained original MCQs, two mains, no SVG.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -93,7 +93,7 @@
   "assessed_rebuild_required": [
     "2-3-5"
   ],
-  "last_readiness_update": "2026-10-27: Fresh main/Actions and /Mounika reconciled. Topic 2-3-4 four source-led expansions §§4/5/6/9, PDF renderer 40382078154 SUCCESS, 19 pages SHA256 ecb00777352f8c5a7fdb2183d33d47b928d49a7518551651b51d71f1eae60006, R8 IN_PROGRESS; Topic 2-3-5 objective assessment published, ASSESSED_REBUILD_REQUIRED, 68 unassessed.",
+  "last_readiness_update": "2026-10-27: Fresh main/Actions and /Mounika reconciled. Topic 2-3-4 four source-led expansions §§4/5/6/9, PDF renderer 40382863495 SUCCESS, 19 pages SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467, R8 IN_PROGRESS; Topic 2-3-5 objective assessment published, ASSESSED_REBUILD_REQUIRED, 68 unassessed.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
