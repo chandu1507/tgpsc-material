@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "total_topics": 75,
   "pilot_in_progress": [
     "2-2-4",
@@ -9,10 +9,10 @@
     "2-3-3",
     "2-3-4"
   ],
-  "not_assessed_count": 69,
+  "not_assessed_count": 68,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; six IN_PROGRESS (2-2-4, 2-2-5, 2-3-1, 2-3-2, 2-3-3, 2-3-4), 69 NOT_ASSESSED, ZERO R1-R8 fully ready, ZERO independent academic approvals. Topic2-3-4 now has editable integrated working master with 25 original explained draft MCQs and six mains answers; 15 original narrative sections remain shallow; R5/R6 IN_PROGRESS, R3/R7/R8 BLOCKED; packaging artifact downloaded and CRC verified but NO synchronized integrated PDF or post-render artifact. Topic2-3-3 publication QA partial; sparse page17 remains.",
+  "warning": "Exactly 75 original topics; 6 IN_PROGRESS, Topic 2-3-5 ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED; 0 fully R1–R8 ready and 0 independently approved. Topic 2-3-4 has 19-page CI-rendered integrated PDF but post-render artifact/page-level QA and academic gates remain incomplete. Topic 2-3-5 original 8-page PDF preserved; 16/16 core concepts under 150 words, zero explained original MCQs, two mains, no SVG.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -91,9 +91,9 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [
-    "2-3-4"
+    "2-3-5"
   ],
-  "last_readiness_update": "2026-10-26 Turn17: Existing Topic 2-3-4 assessed from 8-page archived PDF and current remote SHA-matched sources. 15/15 concepts under 150 words, zero explained MCQs, two mains 258/244 words, six-section earlier repair, zero original SVG, no synchronized integrated edition. R1/R2/R4 IN_PROGRESS; R3/R5/R6/R7/R8 BLOCKED; no approval. Five active, one rebuild-required, 69 not assessed, exactly 75.",
+  "last_readiness_update": "2026-10-27: Fresh main/Actions and /Mounika reconciled. Topic 2-3-4 four source-led expansions §§4/5/6/9, PDF renderer 40382078154 SUCCESS, 19 pages SHA256 ecb00777352f8c5a7fdb2183d33d47b928d49a7518551651b51d71f1eae60006, R8 IN_PROGRESS; Topic 2-3-5 objective assessment published, ASSESSED_REBUILD_REQUIRED, 68 unassessed.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -102,6 +102,8 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
+    "project-control/academic-readiness/2-3-4-render-qa.json",
     "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-render-qa.json",
     "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
@@ -124,9 +126,6 @@
     "project-control/academic-readiness/2-2-5-depth-mcq-preflight-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-primary-source-recovery-2026-10-26.md",
     "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-mcq19-corrected-artifact-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-official-syllabus-r1-verified-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-mcq11-12-primary-key-check-2026-10-26.json"
+    "project-control/academic-readiness/2-2-5-mcq19-corrected-artifact-qa-2026-10-26.json"
   ]
 }
