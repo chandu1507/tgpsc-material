@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-3",
+  "title": "Telangana: Physical Geography, Rivers, Forests and Minerals",
+  "kind": "first_actual_source_file_gap_assessment_not_academic_approval",
+  "source_files_directly_read": [
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/detailed-notes.md",
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/complete-notes.md",
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/original-practice.md",
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/complete-model-answers.md",
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/visual-learning.md",
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/references.md",
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/syllabus-index.md",
+    "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/quality-audit.md"
+  ],
+  "objective_results": {
+    "existing_detailed_concepts": 14,
+    "words_per_concept": [
+      147,
+      123,
+      124,
+      129,
+      116,
+      113,
+      117,
+      121,
+      113,
+      102,
+      108,
+      104,
+      100,
+      99
+    ],
+    "concepts_under_150": 14,
+    "concepts_under_300": 14,
+    "original_four_option_mcqs_found_in_source": 0,
+    "authenticated_official_pyqs_found": 0,
+    "structured_complete_mains_answers": 2,
+    "mains_word_counts": [
+      254,
+      243
+    ],
+    "mains_answers_needed_for_six": 4,
+    "original_svg_diagrams_found_in_source_directory": 0,
+    "ascii_causality_diagram": true,
+    "source_pdf_present": true,
+    "source_pdf_pages_and_sha256_not_independently_checked_this_turn": true
+  },
+  "source_quality_findings": [
+    "Syllabus index reproduces official wording, but source bibliography points to third-party reproduction; direct original commission Annexure II clause mapping for this topic not independently checked in this assessment.",
+    "Reference list includes general state portal and unrelated heritage link; claim-level geology, river, forest, mineral and energy primary sources not mapped.",
+    "quality-audit.md self-check claims developed chapter and diagrams, but actual detailed-notes has 14 brief sections and visual-learning.md only an ASCII conceptual chart.",
+    "No original explained four-option MCQ practice in original-practice.md; two mains model answers only."
+  ],
+  "gate_status": {
+    "R1": "NOT_STARTED",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "NOT_STARTED",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approved": false,
+  "external_reviewer": null,
+  "limits": [
+    "Source files inspected; published original PDF not rendered/hashed this turn, so do not assert its page count or exact preservation hash",
+    "No official PYQs invented",
+    "No integrated edition produced in this assessment"
+  ],
+  "next_action": "Reconcile official p29 Topic3, obtain original PDF SHA and render, consolidate 14 concepts into textbook-depth edition, create 25+ verified explained MCQs, six 200–250-word structured mains answers, original maps/diagrams, claim-level Telangana official sources, synchronized PDF/portal and actual artifact QA."
+}
