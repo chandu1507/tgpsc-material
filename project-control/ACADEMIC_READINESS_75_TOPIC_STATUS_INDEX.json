@@ -9,7 +9,7 @@
   "not_assessed_count": 72,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics; 2-2-4, 2-2-5, 2-3-1 IN_PROGRESS; 72 NOT_ASSESSED; ZERO fully R1–R8 ready; ZERO independently approved. Topic 2-3-1 R1 PASS from original official Notification 02/2024 Annexure II printed p29, 11 clauses mapped. MCQ11/12 keys supported by IMD; 23 other keys and all distractors need further verification. R2–R8 IN_PROGRESS, newly revised source requires final PDF sync and usability QA.",
+  "warning": "Exactly 75 topics; 2-2-4, 2-2-5, 2-3-1 IN_PROGRESS, 72 NOT_ASSESSED, ZERO fully R1–R8 ready, ZERO independently approved. R1 PASS for three active topics. Topic 2-3-1 updated 27-page PDF source-synchronized via CI renderer run 40303002957 (SHA verified), 3 priority depth sections expanded, Q11/12 keys checked; R2–R8 remain IN_PROGRESS. Post-final-render GitHub ZIP download/CRC, remaining 23 MCQs, 20 shallow concepts, and public-browser QA outstanding.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -88,7 +88,7 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26: Topic 2-3-1 official syllabus R1 PASS; two IMD MCQ keys checked, mains Q1–Q4 structured; not academically ready.",
+  "last_readiness_update": "2026-10-26 Topic 2-3-1 primary syllabus R1 PASS, 27-page CI PDF synchronized, depth sections 10/17/24 expanded; still NOT ready.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
