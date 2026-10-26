@@ -95,7 +95,7 @@
     "3-1-1",
     "3-1-2"
   ],
-  "last_readiness_update": "27 Oct Turn24: Indian Society 3-1-1 now 25 original explained MCQs and 11/18 narrative sections below 300 words after §§11/12/14 expansion; R3/R5 not PASS. Existing 3-1-2 assessed rebuild required: 22/23 sections below 300, 10 MCQs. Exactly 75; 7 in progress, 2 rebuild, 66 not assessed, 0 approved.",
+  "last_readiness_update": "27 Oct Turn24: 3-1-1 has 25 original explained MCQs, 11/18 sections below 300 words and two original accessible SVGs (R7 IN_PROGRESS, not PASS). Existing 3-1-2 assessed rebuild required: 22/23 sections below 300 and 10 MCQs. Exactly 75: 7 IN_PROGRESS, 2 ASSESSED_REBUILD_REQUIRED, 66 NOT_ASSESSED, zero fully ready or approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -106,7 +106,6 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
-    "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
@@ -135,6 +134,7 @@
     "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json",
     "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-2-objective-gap-assessment-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-turn24-two-original-svg-learning-aids-2026-10-27.json"
   ]
 }
