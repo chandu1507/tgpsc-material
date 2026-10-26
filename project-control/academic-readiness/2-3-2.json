@@ -2,7 +2,7 @@
   "topic_id": "2-3-2",
   "title": "India: Agriculture, Industry, Population and Urbanisation",
   "date": "2026-10-26",
-  "status": "ASSESSED_REBUILD_REQUIRED",
+  "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,22 +17,33 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "BLOCKED",
     "R4": "IN_PROGRESS",
-    "R5": "BLOCKED",
-    "R6": "BLOCKED",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": [
     "project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json"
+    "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
+    "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json"
   ],
-  "next_action": "Integrate existing original and repair, then expand 40 shallow concepts; 8 MCQs and 4 mains insufficient. Four dated statistics spot-checked against official PIB releases; all other claims, distractors and model answers remain unverified. Preserve original PDF SHA ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+  "next_action": "Verify actual GitHub renderer PDF and packaging artifact, then deepen 40 concepts and audit all 25 MCQs/distractors and six mains answers. No independent academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
-  "source_claim_spot_check": "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json"
+  "source_claim_spot_check": "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
+  "integrated_student_edition": {
+    "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+    "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.pdf",
+    "status": "PENDING_VERIFIED_RENDER",
+    "original_pdf_preserved_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "original_practice_mcqs": 25,
+    "structured_mains_answers": 6,
+    "original_svg_diagrams": 2,
+    "source_critical_warning": "R3 depth and R4/R5/R6 claim audits incomplete; this is a working student edition"
+  }
 }
