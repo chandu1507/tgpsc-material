@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-1",
+  "source_workflow_run": 40296445440,
+  "artifact_id": 12638915171,
+  "actual_artifact_downloaded": true,
+  "artifact_file": "TGPSC_P2_U3_T1_INTEGRATED_VERIFICATION_SNAPSHOT_20261026.zip",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "inner_file_count": 1453,
+  "original_topic_pdf_count": 75,
+  "topic_slot_count": 75,
+  "readiness_json_count": 75,
+  "html_page_count": 78,
+  "local_references_checked": 461,
+  "broken_local_references_count": 0,
+  "original_topic_2_3_1_pdf_sha256": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879",
+  "integrated_pdf_sha256": "8ec8102f8afa72695f2e30b8b47cee2bb7351c7684f166628b62f4743e901261",
+  "integrated_md_sha256": "91661f1f16dc19285b257ed884764034683a5549069517a30f261d2b732bab24",
+  "integrated_pdf_pages": 25,
+  "integrated_pdf_text_words": 11501,
+  "pages_with_empty_text": [],
+  "text_boxes_outside_page_count": 0,
+  "visual_review": {
+    "contact_sheets": 5,
+    "pages_represented": 25,
+    "gross_blank_or_clipped_pages_detected": 0,
+    "full_resolution_accessibility_review": "NOT_PERFORMED",
+    "status": "PARTIAL_VISUAL_REVIEW"
+  },
+  "library_folder": "/Mounika/TGPSC_ACADEMIC_READINESS_P2_U3_T1_20261026",
+  "gate_R8": "IN_PROGRESS",
+  "other_gates": "IN_PROGRESS",
+  "academic_approved": false,
+  "external_reviewer": null,
+  "limits": [
+    "Original PDFs preserved but no subject-expert sign-off",
+    "Source verification incomplete",
+    "Full-resolution page-by-page legibility/accessibility not completed",
+    "Public Pages interactive usability not independently verified",
+    "Official geography syllabus PDF returned 403 in this run"
+  ]
+}
