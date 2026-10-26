@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "26 Oct 2026: original and prior repair consolidated into one 25-section editable student edition; 25 original explained MCQs (10 prior + 15 new), six 200–250-word structured mains answers (four preserved and two new), two original SVG process diagrams. CI-generated searchable PDF 25 pages, SHA256 8ec8102f8afa72695f2e30b8b47cee2bb7351c7684f166628b62f4743e901261, zero text-empty pages. Offline index updated to link integrated PDF and Markdown; legacy original PDF remains separately linked. Human academic and full-resolution PDF checks, source-level fact validation, GitHub ZIP artifact check still outstanding. R1 official primary PDF returned 403 this run; do not PASS.",
-  "next_action": "Verify primary official TGPSC syllabus scan, manually edit for repetition and source fidelity, independently check all 25 MCQ keys/distractors and six mains answers, inspect 25 rendered pages at full resolution, verify packaging ZIP CRC and public portal usability; do not mark any gate PASS prematurely.",
+  "evidence": "26 Oct 2026: original and prior repair consolidated into one 25-section editable student edition; 25 original explained MCQs (10 prior + 15 new), six 200–250-word structured mains answers (four preserved and two new), two original SVG process diagrams. CI-generated searchable PDF 25 pages, SHA256 8ec8102f8afa72695f2e30b8b47cee2bb7351c7684f166628b62f4743e901261, zero text-empty pages. Offline index updated to link integrated PDF and Markdown; legacy original PDF remains separately linked. Human academic and full-resolution PDF checks, source-level fact validation, GitHub ZIP artifact check still outstanding. R1 official primary PDF returned 403 this run; do not PASS. ACTUAL downloaded GitHub artifact 12638915171 verified: 1453 files, 75 original topic PDFs, 75 readiness JSON, 78 HTML, 461 local links/zero broken, outer/inner ZIP CRC PASS, preserved original SHA, integrated PDF 25 pages/zero empty text and zero outside-page text boxes. Contact sheets for all 25 pages inspected for gross defects; full-resolution usability remains pending. /Mounika copies saved.",
+  "next_action": "R1 official PDF, R2 dedup, R3 expert depth, R4 claim-level sources, R5 all 25 MCQ keys/distractors, R6 six mains answers, R7 visual accuracy, R8 full-resolution PDF and live Pages usability; all incomplete. Proceed systematically without academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_report": "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
@@ -52,7 +52,16 @@
       222
     ],
     "original_svg_diagrams": 2,
-    "offline_portal_link_added": true
+    "offline_portal_link_added": true,
+    "artifact_id": 12638915171,
+    "artifact_run": 40296445440,
+    "artifact_downloaded_and_crc_checked": true,
+    "local_links_checked": 461,
+    "broken_local_links": 0,
+    "original_pdf_sha256_verified": true,
+    "contact_sheet_pages_reviewed": 25,
+    "full_resolution_review_complete": false
   },
-  "integrated_build_preflight": "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json"
+  "integrated_build_preflight": "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json",
+  "integrated_artifact_qa": "project-control/academic-readiness/2-3-1-integrated-artifact-qa-2026-10-26.json"
 }
