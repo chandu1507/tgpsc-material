@@ -1,0 +1,74 @@
+{
+  "topic_id": "2-3-1",
+  "date": "2026-10-26",
+  "kind": "source_revision_and_primary_document_evidence_not_academic_approval",
+  "base_before_source_revision": "26d03f36b12854ee3d985ae54eb77335df0df242",
+  "source_revision_commit": "94ad7f14a0c5494e0bdb4a72b7de9c57f24e92b9",
+  "renderer_workflow_run": 40318787734,
+  "renderer_conclusion": "success",
+  "source_blob_sha": "013d40485d3427b9592d70f435752c81d7855684",
+  "academic_gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
+  },
+  "narrative_depth": {
+    "existing_concepts": 25,
+    "expanded_sections": [
+      1,
+      11,
+      12,
+      13,
+      14,
+      15,
+      20,
+      21,
+      23
+    ],
+    "new_explanatory_text_characters": 9317,
+    "sections_1_to_24_under_300_words_before": 9,
+    "sections_1_to_24_under_300_words_after": 0,
+    "editorial_synthesis_section_25_words": 116,
+    "warning": "300-word threshold is only a measurable preflight, NOT proof of textbook depth or nonrepetition; all sections require academic editorial assessment."
+  },
+  "historical_current_affairs_correction": {
+    "date_of_official_report": "2026-09-30",
+    "source": "https://mausam.imd.gov.in/Forecast/marquee_data/Salient_Features_SW_MONSOON%20_2026_30_sep.pdf",
+    "pages": "1 and 4 (PDF pages 1 and 4 as numbered in report)",
+    "final_all_india_rainfall_mm": 759.4,
+    "final_all_india_pct_lpa": 87,
+    "regional_pct_lpa": {
+      "northwest": 94,
+      "central": 97,
+      "south_peninsula": 76,
+      "east_and_northeast": 74
+    },
+    "monthly_pct_lpa": {
+      "june": 65,
+      "july": 101,
+      "august": 84,
+      "september": 92
+    },
+    "source_caveat": "IMD May forecasts 90% LPA and August interim deficit 12% are not final season observations; source updated to distinguish each date."
+  },
+  "other_primary_source": {
+    "tag": "G16",
+    "title": "NDMA Management of Urban Flooding",
+    "published": "2010-09",
+    "url": "https://www.niti.gov.in/sites/default/files/2021-03/Annexure-NDMA-Guidelines-compressed.pdf",
+    "scope": "Flood risk, catchment drainage and exposure; not proof of a particular city's measured losses."
+  },
+  "qa_pending": [
+    "Post-render actual GitHub package download and CRC validation",
+    "Synchronized PDF SHA256 and all-page visual inspection",
+    "Independent factual review of 19 remaining MCQ keys and all distractors",
+    "R2 dedup and contradictions, R6 mains evidence, R7 maps and revision, R8 public browser usability"
+  ],
+  "topic_count": 75,
+  "independent_academic_approvals": 0
+}

@@ -9,7 +9,7 @@
   "not_assessed_count": 72,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics, active 2-2-4/2-2-5/2-3-1, 72 NOT_ASSESSED, R1 PASS for three active topics, ZERO R1–R8 fully ready and ZERO independently approved. Topic 2-3-1 Turn11 integrated 11 further sections (+2052 words), 9 remaining below300; six MCQ keys source-correlated, 19 pending, all distractors pending. GitHub renderer 40310989188 SUCCESS, downloaded post-render packaging artifact 12644212832 CRC PASS, 1462 files/75 original PDFs/75 readiness JSON/461 links zero broken, new 30-page PDF SHA256 c0c5e8a23042ffd206ec10c23860a1e8e0f7fdec9e685cb0aa20c23c0c061a2b; full-res accessibility and public-browser QA outstanding. R2–R8 NOT PASS.",
+  "warning": "Exactly 75 topics; active 2-2-4/2-2-5/2-3-1, 72 NOT_ASSESSED; R1 PASS for three, ZERO fully R1-R8 ready, ZERO independently approved. 26 Oct Turn12 Topic 2-3-1 nine narrative sections expanded IN PLACE; sections 1-24 >=300 words, synthesis 25=116; G15 official IMD 30 Sep 2026 final season report reconciles earlier forecast/interim data, G16 NDMA urban flood guidance. R3/R4/R5/R8 NOT PASS. Renderer run 40318787734 SUCCESS; actual post-render packaging artifact and all-page visual QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
