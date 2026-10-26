@@ -1,8 +1,8 @@
 {
   "topic_id": "2-3-5",
   "title": "Telangana Urbanisation and the Hyderabad Megapolis",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,30 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
     "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": [
+    "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json"
+  ],
+  "next_action": "Rebuild existing Topic 2-3-5 from original plus eight-section repair, without disconnected supplement; R1 direct commission syllabus, R3/R5/R6/R7/R8 blocked, no independent approval.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_gap": {
+    "original_pdf_pages": 8,
+    "original_pdf_sha256": "a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18",
+    "core_concepts": 16,
+    "concepts_under_150_words": 16,
+    "prior_repair_exists": true,
+    "explained_original_mcqs": 0,
+    "complete_mains_answers": 2,
+    "original_svg_diagrams": 0,
+    "integrated_pdf": false
+  }
 }
