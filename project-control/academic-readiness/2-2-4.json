@@ -62,9 +62,9 @@
   "qa_path": "project-control/academic-readiness/2-2-4-pilot-qa.json",
   "gates": {
     "R1": {
-      "status": "IN_PROGRESS",
-      "evidence": "12 syllabus components mapped to sections 2–15; 2024 commission PDF indexed but full PDF access 502",
-      "blocker": "Reopen original commission Annexure II and confirm punctuation/wording and all subpoints"
+      "status": "PASS",
+      "evidence": "Direct official TGPSC Notification 02/2024, Annexure II, Paper II, Section II, item 4, printed pp. 28–29 (PDF zero-index 27–28), visually checked 26 Oct 2026; 12 atomic syllabus elements mapped to §§1–16. See project-control/academic-readiness/2-2-4-official-syllabus-r1-verified.json.",
+      "blocker": null
     },
     "R2": {
       "status": "IN_PROGRESS",
@@ -106,7 +106,7 @@
   "student_accepted": false,
   "academic_approval_count": 0,
   "no_new_topic_created": true,
-  "next_action": "R8: verify latest GitHub packaging artifact and live Pages after portal-link commit; R1–R7 remain incomplete/blocked as recorded; no independent academic audit.",
+  "next_action": "R2–R8 remain in progress or blocked; official syllabus R1 now PASS; proceed with depth, source, MCQ and mains corrections without claiming academic approval.",
   "publication": {
     "latest_edition_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "github_pdf_git_blob": "1d4925ad049f86760de0eb8d5f233f004b073c46",
