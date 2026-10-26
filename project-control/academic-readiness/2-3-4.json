@@ -2,7 +2,7 @@
   "topic_id": "2-3-4",
   "title": "Telangana: Agriculture, Irrigation, Industry and Population",
   "date": "2026-10-26",
-  "status": "ASSESSED_REBUILD_REQUIRED",
+  "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -21,16 +21,17 @@
     "R2": "IN_PROGRESS",
     "R3": "BLOCKED",
     "R4": "IN_PROGRESS",
-    "R5": "BLOCKED",
-    "R6": "BLOCKED",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
   "evidence": [
     "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json",
-    "project-control/academic-readiness/2-3-4-mission-kakatiya-ramappa-source-check-2026-10-26.json"
+    "project-control/academic-readiness/2-3-4-mission-kakatiya-ramappa-source-check-2026-10-26.json",
+    "project-control/academic-readiness/2-3-4-integrated-working-master-production-2026-10-26.json"
   ],
-  "next_action": "R4: four claims source-correlated with historical/UNESCO scope caveats; continue full claim audit. Rebuild existing 15 shallow concepts and original MCQs/mains/diagrams in ONE integrated edition, preserve legacy PDF, then R8 actual artifact QA.",
+  "next_action": "Integrated editable working master published with 25 original explained draft MCQs and six mains answers. R2 dedup, R3 depth of all 15 short concepts, R4 claim-level sources, R5 all 25 keys and 75 distractors, R6 inherited answer1 >250 and all six source checks, R7 diagrams, R8 CI PDF/ZIP/browser pending. Original 8-page PDF preserved. No R9.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -47,5 +48,35 @@
     "original_pdf_pages": 8,
     "original_pdf_sha256": "5a544ab369c285c6cc54cafa7ade872bddc2b9f517a6cffe19ec1048586496d1",
     "prior_six_section_repair_exists": true
+  },
+  "integrated_student_edition": {
+    "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 4/source/integrated-student-edition-2026-10-26.md",
+    "status": "WORKING_EDITABLE_MASTER_NOT_ACADEMICALLY_READY",
+    "original_narrative_concepts": 15,
+    "original_narrative_under_150": 15,
+    "previous_six_section_repair_included": true,
+    "original_explained_mcq_drafts": 25,
+    "answer_key_distribution": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "mcq_keys_independently_source_verified": 0,
+    "distractor_sets_independently_verified": 0,
+    "mains_answer_drafts": 6,
+    "new_mains_answer_word_counts": [
+      213,
+      211,
+      212,
+      222
+    ],
+    "inherited_mains_count": 2,
+    "inherited_answer1_over_250": true,
+    "source_claims_prior_correlated": 4,
+    "new_diagrams": 0,
+    "synchronized_pdf": false,
+    "actual_post_render_artifact_downloaded_for_this_master": false,
+    "legacy_pdf_preserved": true
   }
 }

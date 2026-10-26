@@ -6,12 +6,13 @@
     "2-2-5",
     "2-3-1",
     "2-3-2",
-    "2-3-3"
+    "2-3-3",
+    "2-3-4"
   ],
   "not_assessed_count": 69,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 existing topics: five IN_PROGRESS (2-2-4,2-2-5,2-3-1,2-3-2,2-3-3), one ASSESSED_REBUILD_REQUIRED (2-3-4), 69 NOT_ASSESSED; ZERO R1-R8 fully ready and ZERO independently academically approved. Topic2-3-3 final downloaded artifact QA pending; Topic2-3-4 has 15/15 shallow concepts, zero MCQs, two mains, no original SVG.",
+  "warning": "Exactly 75 original topics; six IN_PROGRESS (2-2-4, 2-2-5, 2-3-1, 2-3-2, 2-3-3, 2-3-4), 69 NOT_ASSESSED, ZERO R1-R8 fully ready, ZERO independent academic approvals. Topic2-3-4 now has editable integrated working master with 25 original explained draft MCQs and six mains answers; 15 original narrative sections remain shallow; R5/R6 IN_PROGRESS, R3/R7/R8 BLOCKED; no synchronized PDF or current artifact. Topic2-3-3 publication QA partial; sparse page17 remains.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",

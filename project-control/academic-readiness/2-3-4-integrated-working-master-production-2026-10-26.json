@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-4",
+  "kind": "new_integrated_working_master_production_not_academic_signoff",
+  "repo_source_commit": "8420ef0e85c874663c9a718e1ad60b71d9c3c7b0",
+  "source_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 4/source/integrated-student-edition-2026-10-26.md",
+  "preserved_original_pdf_sha256": "5a544ab369c285c6cc54cafa7ade872bddc2b9f517a6cffe19ec1048586496d1",
+  "inventory": {
+    "existing_concepts": 15,
+    "prior_repair_sections": 6,
+    "explained_original_mcqs": 25,
+    "answer_distribution": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "mains_total": 6,
+    "new_mains_words": [
+      213,
+      211,
+      212,
+      222
+    ],
+    "inherited_mains": 2,
+    "original_svg_diagrams_added": 0
+  },
+  "source_register": {
+    "existing_directly_correlated_claims": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ],
+    "mcq_claim_level_source_check": "NOT_COMPLETED",
+    "distractor_checks": "NOT_COMPLETED"
+  },
+  "blockers": [
+    "All 15 inherited narrative concepts under 150 words; qualitative R3 not ready",
+    "Potential overlap between old narrative and prior repair requires R2 consolidation",
+    "Inherited first mains answer exceeds 250 words in previous audit",
+    "No synchronized integrated PDF or actual new Actions artifact",
+    "No original SVG diagrams or independent visual accuracy review",
+    "Official TGPSC syllabus direct clause-by-clause R1 check not yet completed"
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "independently_academically_approved": false,
+  "external_reviewer": null
+}

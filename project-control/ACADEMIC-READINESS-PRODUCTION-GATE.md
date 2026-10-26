@@ -34,3 +34,8 @@ Five existing topics remain IN_PROGRESS (2-2-4, 2-2-5, 2-3-1, 2-3-2, 2-3-3); exi
 ## Immediate production queue
 
 Finish Topic 2-3-3 synchronized CI PDF, original-preservation/ZIP/portal QA and detailed page review. Then expand the remaining shallow concepts **substantively**, complete direct primary-source and MCQ distractor checks, and progress the next existing Paper II/III topic. Keep Topic 2-3-2's 35 concepts below 300 words and pending MCQ/mains reviews visible. Do not stall indefinitely on inaccessible Topic 2-2-5 historical originals; record R4 BLOCKED and advance other work. Never treat word count, artifact CRC or workflow success as academic approval. Independent R9 starts only after every R1–R8 gate genuinely passes.
+
+
+## Topic 2-3-4 integrated working master (26 October 2026, later production cycle)
+
+The original topic slot remains unchanged. A single editable working master has been committed in `Paper 2/Unit 3 - Geography of India and Telangana/Topic 4/source/integrated-student-edition-2026-10-26.md`, combining the existing 15 concepts, earlier six-section repair, 25 new explained original practice MCQs and six mains drafts. Four newly written mains answers have 213/211/212/222 words; the two inherited answers need review, including one previously exceeding 250 words. All 15 inherited concepts remain under 150 words; MCQ keys and distractors are NOT independently fact-checked. There is NO synchronized new PDF or verified new artifact. R1/R2/R4/R5/R6 IN_PROGRESS; R3/R7/R8 BLOCKED; no R9. Six topics IN_PROGRESS, 69 NOT_ASSESSED, ZERO R1–R8 ready, ZERO independent academic approvals.
