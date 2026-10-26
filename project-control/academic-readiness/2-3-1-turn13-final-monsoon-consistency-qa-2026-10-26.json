@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-3-1",
+  "kind": "IMD_primary_source_current_affairs_correction_and_CI_render_qa_not_academic_approval",
+  "primary_source": {
+    "publisher": "India Meteorological Department",
+    "document": "Salient Features of the 2026 Southwest Monsoon Season",
+    "date": "2026-09-30",
+    "url": "https://mausam.imd.gov.in/Forecast/marquee_data/Salient_Features_SW_MONSOON%20_2026_30_sep.pdf",
+    "verified_pages": [
+      1,
+      4
+    ],
+    "all_india_rainfall_mm": 759.4,
+    "all_india_percent_lpa": 87,
+    "east_northeast_percent_lpa": 74,
+    "south_peninsula_percent_lpa": 76
+  },
+  "correction": {
+    "source_commit": "aa1bdc67542f6c97cfa8a0f908f16b1f96107c90",
+    "quick_revision": "Replaced August interim-only bullet with final 30 September observation, retained 12 August interim and May forecast as separately dated figures",
+    "mcq23": "Rewritten to test correct comparison of interim 2 August versus final June-September observation; factual key D retained; G5/G15 tags",
+    "official_pyq_claim": false
+  },
+  "rendering": {
+    "github_run": 40326345060,
+    "conclusion": "success",
+    "remote_pdf_git_blob": "f619b24ec59e198bac89fb739a589b0a3e8e9bcb",
+    "local_pdf_git_blob": "f619b24ec59e198bac89fb739a589b0a3e8e9bcb",
+    "pdf_sha256": "43c990afe8e2560f7472d6758e721caa3c716b35846f9acb9b0ca2776c3591af",
+    "markdown_git_blob": "20379776ad31f3d0998c8a876ff01e0e96c17da3",
+    "markdown_sha256": "b74e5081966f13da2c11f6e37acd2a7f4f4c0c4f125110368d5f75d8f3613022",
+    "pdf_pages": 32,
+    "blank_text_pages": 0,
+    "visual_pages_checked_full_resolution": [
+      25
+    ],
+    "visual_check_scope": "Q23 corrected page 25 visually legible, not all pages or accessibility certified"
+  },
+  "packaging": {
+    "pre_render_run": 40326532342,
+    "pre_render_artifact": 12651806534,
+    "downloaded": true,
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "file_count": 1467,
+    "original_topic_pdfs": 75,
+    "readiness_json": 75,
+    "html_pages": 78,
+    "relative_links": 461,
+    "broken_links": 0,
+    "topic_2_3_2_original_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "caveat": "This downloaded artifact preceded successful CI PDF regeneration: corrected Markdown but old PDF. Do not cite it as synchronized. Post-render packaging artifact still needs download and checks."
+  },
+  "gate_status": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
+  },
+  "public_browser_usability": "NOT_VERIFIED_browser_connector_requires_originating_browser_context",
+  "academic_approval": false,
+  "independent_review": false
+}
