@@ -1,0 +1,44 @@
+{
+  "topic_id": "2-3-1",
+  "date": "2026-10-26",
+  "gate": "R3",
+  "status": "IN_PROGRESS",
+  "basis": "Programmatic word counts on actual published integrated Markdown, plus editorial expansion of three sections; length is a screening measure, not a quality pass",
+  "before": {
+    "numbered_concepts": 25,
+    "under_150": 0,
+    "under_300": 23
+  },
+  "after": {
+    "numbered_concepts": 25,
+    "under_150": 0,
+    "under_300": 20,
+    "expanded_sections": [
+      {
+        "section": 10,
+        "title": "Orography and spatial rainfall pattern",
+        "words": 452,
+        "source": "NCERT G9"
+      },
+      {
+        "section": 17,
+        "title": "Wildlife and biodiversity conservation",
+        "words": 452,
+        "sources": [
+          "MoEFCC G10",
+          "MoEFCC G11"
+        ]
+      },
+      {
+        "section": 24,
+        "title": "Water conservation and budgeting",
+        "words": 479,
+        "source": "CGWB G12"
+      }
+    ]
+  },
+  "source_commit": "d42352ddf986511b62bd2a6a232d1ac6c412f16b",
+  "remaining": "20 of 25 sections still below 300 words; substantive nonrepetition and geographic accuracy not independently reviewed",
+  "R3_pass": false,
+  "academic_approved": false
+}
