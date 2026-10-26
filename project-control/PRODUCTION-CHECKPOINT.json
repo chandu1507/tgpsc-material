@@ -203,8 +203,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "objective_gap_assessed_legacy_pdf_preserved_integrated_rebuild_required",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct: direct original Paper III syllabus R1 PASS; 18 narrative concepts (16 under300), 10 original explained MCQs, six mains (4 outside 200–250), zero SVG; separate 1199-word repair not integrated; academic readiness incomplete.",
+      "production_review": "r1_pass_mains_lengths_corrected_15_original_mcqs_partial_tribal_law_depth_no_integrated_pdf",
+      "notes": "27 Oct verified baseline: legacy 30-page PDF preserved; 18 concepts, initially 16 under300. Turn22 corrected all six existing mains to 215/206/211/209/210/216 body words (not yet fact-checked). Turn23 substantive PESA/FRA depth expansion in existing sections 9–10 (+715 words); original explained MCQs now 15 (five new PESA/FRA items source-correlated, ten existing not independently checked this cycle), ten still missing to 25; original diagrams/integrated CI PDF still outstanding. R1 PASS, R2/R4/R6 IN_PROGRESS, R3/R5/R7/R8 BLOCKED; no academic approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-1.json"
     },
