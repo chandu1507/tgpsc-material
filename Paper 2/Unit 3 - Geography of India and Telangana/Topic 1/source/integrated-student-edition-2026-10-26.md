@@ -280,91 +280,91 @@ If heavy rain later arrives, flood and crop-damage risks may replace the origina
 
 ### Q1. Which statement best explains why the Indo-Gangetic-Brahmaputra plains are highly dynamic?
 
-A. They are built entirely of volcanic basalt
+A. They are primarily residual surfaces produced by in-situ weathering of crystalline rocks
 B. They are active depositional landscapes shaped by large alluvial rivers
-C. They receive no tectonic influence
-D. They lack seasonal river-flow variation
+C. They are mainly tectonically uplifted marine terraces with little river deposition
+D. They are composed chiefly of coastal delta deposits laid down at river mouths
 
 **Answer: B. Large sediment-carrying rivers continually build and rework floodplains; their channels and depositional surfaces change through time.**
 
 ### Q2. Which statement about El Niño and the Indian monsoon is most accurate?
 
-A. Every El Niño produces an all-India drought
-B. El Niño has no statistical relationship with Indian rainfall
+A. El Niño affects only the date of monsoon onset, not its subsequent circulation
+B. El Niño influences the Bay of Bengal branch but has no effect on Arabian Sea moisture transport
 C. El Niño often suppresses monsoon circulation, but the outcome depends on other ocean-atmosphere processes
-D. El Niño affects only winter rainfall
+D. El Niño can be interpreted without considering the tropical Pacific Walker circulation
 
 **Answer: C. ENSO is an important teleconnection but its Indian impact is probabilistic and modulated by other climate drivers.**
 
 ### Q3. Which river pair is characteristically associated with west-flowing rift valleys in peninsular India?
 
-A. Godavari and Krishna
-B. Mahanadi and Kaveri
+A. Mahi and Sabarmati
+B. Periyar and Bharathapuzha
 C. Narmada and Tapi
-D. Ganga and Yamuna
+D. Luni and Ghaggar
 
 **Answer: C. Narmada and Tapi flow west through structurally controlled valleys toward the Arabian Sea.**
 
 ### Q4. Agricultural drought most directly refers to:
 
 A. Deficient soil moisture affecting crops
-B. Any reduction in reservoir storage
-C. A cyclone-induced flood
-D. A fall in marine fish catch
+B. Below-normal reservoir storage after several seasons of low inflow
+C. A sustained regional rainfall deficit measured against a climatological baseline
+D. Long-term depletion of groundwater and baseflow in a basin
 
 **Answer: A. Agricultural drought concerns crop-zone moisture deficiency; it may or may not coincide perfectly with meteorological or hydrological drought.**
 
 ### Q5. Which statement about an Exclusive Economic Zone is correct?
 
-A. It gives absolute sovereignty equivalent to land territory
+A. The coastal state exercises territorial-sea sovereignty over all waters and airspace in the zone
 B. It generally provides coastal-state resource rights up to 200 nautical miles subject to maritime delimitation
-C. Foreign navigation is automatically prohibited
-D. It applies only to fisheries and not seabed resources
+C. The coastal state may prohibit foreign navigation merely because it is within the EEZ
+D. The EEZ grants seabed mineral rights but excludes rights over living marine resources
 
 **Answer: B. The coastal state has sovereign rights over resources, but the EEZ is not equivalent to full territorial sovereignty and international navigation freedoms continue.**
 
 ### Q6. Why can renewable-energy capacity and renewable-energy generation differ substantially?
 
 A. Capacity is a measure of installed maximum capability while actual generation depends on resource availability and operation
-B. Capacity is measured in rainfall
-C. Generation excludes electricity
-D. They are legally required to be identical
+B. Installed capacity is the total electrical energy generated during a year
+C. Annual generation can be inferred from nameplate capacity without capacity-factor data
+D. Installed capacity and electrical generation are measured in identical units
 
 **Answer: A. A MW of installed capacity is not the same as the energy actually generated over time; capacity factors and system constraints matter.**
 
 ### Q7. Which soil is strongly associated with basaltic Deccan terrain and shrink-swell clay behavior?
 
 A. Black soil
-B. Laterite only
-C. Desert sand
-D. Peaty soil
+B. Red and yellow soil developed on weathered crystalline rocks
+C. Lateritic soil formed under intense leaching in humid environments
+D. Alluvial soil transported and deposited by large river systems
 
 **Answer: A. Black or regur soils are widely associated with Deccan basalt and high clay content.**
 
 ### Q8. Which is the best example of integrated water conservation?
 
-A. Increasing groundwater pumping after constructing recharge pits
+A. Building recharge structures without monitoring the extraction they enable
 B. Combining recharge, demand management, crop choices, reuse and aquifer monitoring
-C. Building only larger dams
-D. Moving all water from one basin to another
+C. Prioritising surface storage while excluding groundwater and ecological flows
+D. Transferring water across basins before measuring seasonal demand and losses
 
 **Answer: B. Integrated conservation manages both supply and demand and accounts for basin/aquifer limits.**
 
 ### Q9. A forest-corridor strategy primarily addresses:
 
-A. Mineral beneficiation
+A. Replacing mixed native vegetation with uniform commercial tree plantations
 B. Habitat fragmentation and wildlife movement
-C. Monsoon onset dates
-D. EEZ delimitation
+C. Maximising total canopy cover without assessing animal movement routes
+D. Concentrating wildlife in isolated reserves separated by barriers
 
 **Answer: B. Corridors maintain ecological connectivity among habitat patches and protected areas.**
 
 ### Q10. What is the main analytical limitation of describing a river basin as having “surplus” water using only annual totals?
 
-A. Annual totals cannot be measured
+A. It directly captures intra-seasonal flow variation even without monthly observations
 B. It ignores seasonality, ecological flows, spatial use and climate variability
-C. Rivers never cross states
-D. All rainfall becomes runoff
+C. It reliably measures usable groundwater reserves across the whole basin
+D. It automatically includes ecological flow and return-flow requirements
 
 **Answer: B. A basin may have high annual runoff yet face seasonal scarcity; allocation must consider timing, ecosystems, demand and variability.**
 
@@ -372,30 +372,30 @@ D. All rainfall becomes runoff
 
 ### Q11. Which condition is required alongside rainfall to declare monsoon onset over Kerala under IMD operational criteria?
 
-A. A sustained low-level westerly wind field and supportive outgoing longwave radiation
+A. A nationwide average of 100 mm rainfall
 B. A simultaneous monsoon withdrawal from northwest India
 C. The completion of sowing across peninsular states
-D. A nationwide average of 100 mm rainfall
+D. A sustained low-level westerly wind field and supportive outgoing longwave radiation
 
-**Answer: A. IMD combines rainfall at selected stations with wind-field and OLR conditions; the declaration is not triggered by a national rainfall total.** [G2]
+**Answer: D. IMD combines rainfall at selected stations with wind-field and OLR conditions; the declaration is not triggered by a national rainfall total.** [G2]
 
 ### Q12. Which combination is most consistent with IMD's initial southwest-monsoon withdrawal criteria?
 
 A. Increasing atmospheric moisture and strong monsoon westerlies
-B. Five dry days, a lower-tropospheric anticyclone and falling atmospheric moisture
-C. An El Niño alert and falling Himalayan snow cover
+B. An El Niño alert and falling Himalayan snow cover
+C. Five dry days, a lower-tropospheric anticyclone and falling atmospheric moisture
 D. A drop in average sea-surface temperature over the Arabian Sea alone
 
-**Answer: B. The operational criteria for the first withdrawal over northwest India require sustained dry conditions, an anticyclone and moisture reduction.** [G3]
+**Answer: C. The operational criteria for the first withdrawal over northwest India require sustained dry conditions, an anticyclone and moisture reduction.** [G3]
 
 ### Q13. Which statement best distinguishes the normal monsoon onset date from the actual onset?
 
 A. Normal dates are legal deadlines for crop insurance
-B. Actual onset must coincide with the calendar start of June
-C. A normal date is climatological; operational onset depends on observed meteorological conditions
+B. A normal date is climatological; operational onset depends on observed meteorological conditions
+C. Actual onset must coincide with the calendar start of June
 D. The actual onset date is computed only from monthly national rainfall
 
-**Answer: C. The climatological normal describes long-term timing; operational declarations use observed rainfall, winds and convection.** [G2, G4]
+**Answer: B. The climatological normal describes long-term timing; operational declarations use observed rainfall, winds and convection.** [G2, G4]
 
 ### Q14. Why is a national monsoon rainfall anomaly insufficient to predict one district's crop loss?
 
@@ -408,12 +408,12 @@ D. Rain-day distribution, crop stage, soil storage and local exposure vary
 
 ### Q15. Which landform association is most defensible for parts of the Himalayan foothill plain?
 
-A. Bhabar: coarse permeable deposits; Terai: wetter groundwater-influenced belt
+A. Bhabar: delta distributaries; Terai: aeolian dunes
 B. Bhabar: tidal mudflats; Terai: volcanic plateau
-C. Bhabar: delta distributaries; Terai: aeolian dunes
+C. Bhabar: coarse permeable deposits; Terai: wetter groundwater-influenced belt
 D. Bhabar: glacial cirques; Terai: coral reefs
 
-**Answer: A. Bhabar and Terai refer to contrasting foothill alluvial environments, though their expression varies by region.** [G1]
+**Answer: C. Bhabar and Terai refer to contrasting foothill alluvial environments, though their expression varies by region.** [G1]
 
 ### Q16. Why can a river with high annual runoff still face seasonal scarcity?
 
@@ -426,21 +426,21 @@ D. Ecological water needs disappear outside monsoon months
 
 ### Q17. Which statement about a coastal state's EEZ is correct?
 
-A. The EEZ is identical to the territorial sea for all legal purposes
+A. The coastal state has specified resource rights, while other states retain certain freedoms
 B. Other states lose all navigation rights within it
-C. The coastal state has specified resource rights, while other states retain certain freedoms
+C. The EEZ is identical to the territorial sea for all legal purposes
 D. The EEZ automatically extends to 350 nautical miles everywhere
 
-**Answer: C. UNCLOS Part V distinguishes sovereign resource rights from full territorial sovereignty and protects specified freedoms.** [G6]
+**Answer: A. UNCLOS Part V distinguishes sovereign resource rights from full territorial sovereignty and protects specified freedoms.** [G6]
 
 ### Q18. Which feature makes the Narmada and Tapi a useful comparison with many eastern peninsular rivers?
 
 A. Both flow east into the Bay of Bengal
 B. Both are primarily delta-building tributaries of the Ganga
-C. Both originate in the Himalayan glaciers
-D. Both flow west through structurally influenced valleys
+C. Both flow west through structurally influenced valleys
+D. Both originate in the Himalayan glaciers
 
-**Answer: D. Their westward flow and structural valleys contrast with the broad eastward drainage of Godavari and Krishna.** [G1]
+**Answer: C. Their westward flow and structural valleys contrast with the broad eastward drainage of Godavari and Krishna.** [G1]
 
 ### Q19. Which is the strongest reason that an increase in solar installed capacity may not equal a proportional rise in usable electricity?
 
@@ -454,47 +454,47 @@ D. Transmission congestion increases the rated panel capacity
 ### Q20. Which policy most directly addresses fragmentation of wildlife habitats?
 
 A. Replacing all native forests with uniform commercial plantations
-B. Maintaining functioning corridors between habitat patches alongside core protection
+B. Measuring conservation only by the number of trees planted
 C. Relocating all river mouths outside protected areas
-D. Measuring conservation only by the number of trees planted
+D. Maintaining functioning corridors between habitat patches alongside core protection
 
-**Answer: B. Connectivity requires functional corridors and land-use compatibility, not simply a larger tree count.** [G1]
+**Answer: D. Connectivity requires functional corridors and land-use compatibility, not simply a larger tree count.** [G1]
 
 ### Q21. Why can a check dam fail to deliver net basin-wide water savings?
 
-A. It necessarily stops evaporation in every season
+A. Stored or recharged water may induce extra extraction and reduce downstream availability
 B. It automatically increases all downstream flows
-C. Stored or recharged water may induce extra extraction and reduce downstream availability
+C. It necessarily stops evaporation in every season
 D. Its presence makes crop water demand independent of climate
 
-**Answer: C. Recharge structures need demand management and basin accounting to establish net savings.** [G1]
+**Answer: A. Recharge structures need demand management and basin accounting to establish net savings.** [G1]
 
 ### Q22. Which combination best describes the source of risk in a Himalayan landslide-prone settlement?
 
 A. Rock age alone, independent of slope or rainfall
 B. Annual mean temperature alone
-C. Distance from the sea alone
-D. Slope instability interacting with triggers and human exposure
+C. Slope instability interacting with triggers and human exposure
+D. Distance from the sea alone
 
-**Answer: D. Disaster risk emerges from geological and climatic triggers together with exposure and vulnerability.** [G1]
+**Answer: C. Disaster risk emerges from geological and climatic triggers together with exposure and vulnerability.** [G1]
 
 ### Q23. What does an all-India rainfall deficit reported as of 2 August 2026 establish?
 
-A. A time-specific cumulative anomaly, not the final June–September outcome
+A. That every El Niño year produces the same deficit
 B. A verified final annual drought declaration for every district
 C. The amount of groundwater stored in Telangana reservoirs
-D. That every El Niño year produces the same deficit
+D. A time-specific cumulative anomaly, not the final June–September outcome
 
-**Answer: A. The parliamentary reply was an interim assessment and should not be used as the completed 2026 monsoon total.** [G5]
+**Answer: D. The parliamentary reply was an interim assessment and should not be used as the completed 2026 monsoon total.** [G5]
 
 ### Q24. Which factor most directly explains why black soils can develop on parts of the Deccan Plateau?
 
-A. Uniform deposition of Himalayan alluvium
-B. Weathering of basaltic parent material and formation of clay-rich soils
+A. Weathering of basaltic parent material and formation of clay-rich soils
+B. Uniform deposition of Himalayan alluvium
 C. Permanent snow cover in plateau valleys
 D. Only marine salt accumulation on beaches
 
-**Answer: B. Deccan basalt is associated with many clay-rich regur landscapes; local soil properties also reflect climate and topography.** [G1]
+**Answer: A. Deccan basalt is associated with many clay-rich regur landscapes; local soil properties also reflect climate and topography.** [G1]
 
 ### Q25. Which measure is most likely to improve inter-state river governance under variable rainfall?
 
@@ -647,3 +647,5 @@ No fresh interstate-water award or tribunal decision is included without an auth
 
 
 **Build control (26 October 2026):** This integrated editable master is the sole candidate for the next synchronized student PDF. The preserved `complete-notes.pdf` remains the original draft, not the current integrated edition. R1–R8 are not all passed; external academic sign-off remains absent.
+
+**MCQ editorial note:** Existing original practice questions received more closely related distractors; new Q11–Q25 answer positions were de-patterned without changing the intended factual answer. This is an editorial preflight only: direct claim-level key and distractor verification is still required before R5 can pass.
