@@ -29,9 +29,10 @@
   "evidence": [
     "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
-    "project-control/academic-readiness/2-3-3-render-qa.json"
+    "project-control/academic-readiness/2-3-3-render-qa.json",
+    "project-control/academic-readiness/2-3-3-turn18-downloaded-artifact-integrity-qa-2026-10-26.json"
   ],
-  "next_action": "Download post-render GitHub Actions packaging artifact after PDF commit and verify CRC, all 75 originals/status JSON, portal links, PDF/MD SHA; then inspect all 18 PDF pages and check public-browser accessibility. R1 direct official PDF fetch still 403; R2-R7 editorial/factual checks incomplete. R9 NOT_STARTED.",
+  "next_action": "R8 artifact SHA/CRC/75-slot/link preflight passed; fix sparse page17 and complete full-resolution accessibility and public-browser QA; R1–R7 academic gates remain incomplete. No R9.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_source_gap": {
@@ -50,7 +51,7 @@
   "integrated_student_edition": {
     "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.md",
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.pdf",
-    "pdf_status": "CI_RENDERED_SEARCHABLE_18P_PENDING_POST_RENDER_ARTIFACT_DOWNLOAD",
+    "pdf_status": "CI_RENDERED_SEARCHABLE_18P_POST_RENDER_ARTIFACT_DOWNLOADED_QA_PARTIAL",
     "concepts": 14,
     "concepts_under_150": 0,
     "concepts_under_300": 13,
@@ -72,6 +73,8 @@
     "pdf_sha256": "3437b3bfc8bf9b97f0a6ad6d81dade39867d149fa1ba6c780623bec99828e067",
     "source_register_entries": 11,
     "mcq_distractor_sets_editorially_rewritten": 25,
-    "mcq_keys_source_correlated": 13
+    "mcq_keys_source_correlated": 13,
+    "post_render_artifact_id": 12666696387,
+    "post_render_publication_run_id": 40357743468
   }
 }
