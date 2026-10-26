@@ -9,7 +9,7 @@
   "not_assessed_count": 72,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 existing topics: 2-2-4, 2-2-5, 2-3-1 IN_PROGRESS; 72 NOT_ASSESSED; ZERO fully R1–R8 ready; ZERO independent academic approvals. Topic 2-3-1 source and PDF published, but official syllabus primary PDF 403, claim-level MCQ/mains verification, textbook-depth editorial pass, full-resolution accessibility and live Pages usability remain pending.",
+  "warning": "Exactly 75 topics; 2-2-4, 2-2-5, 2-3-1 IN_PROGRESS; 72 NOT_ASSESSED; ZERO fully R1–R8 ready; ZERO independently approved. Topic 2-3-1 R1 PASS from original official Notification 02/2024 Annexure II printed p29, 11 clauses mapped. MCQ11/12 keys supported by IMD; 23 other keys and all distractors need further verification. R2–R8 IN_PROGRESS, newly revised source requires final PDF sync and usability QA.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -88,12 +88,13 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [],
-  "last_readiness_update": "2026-10-26: Topic 2-3-1 integrated 25-page revised PDF SHA b0180b9..., 25 explained MCQs, six mains, two diagrams; actual artifact 12639056782 downloaded, 1455 files, 461 local links zero broken, outer/inner CRC PASS.",
+  "last_readiness_update": "2026-10-26: Topic 2-3-1 official syllabus R1 PASS; two IMD MCQ keys checked, mains Q1–Q4 structured; not academically ready.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
-    "2-2-5"
+    "2-2-5",
+    "2-3-1"
   ],
-  "verified_R1_pass_count": 2,
+  "verified_R1_pass_count": 3,
   "recent_evidence": [
     "project-control/academic-readiness/2-3-1-final-integrated-artifact-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-1-official-syllabus-mapping-preflight-2026-10-26.json",
@@ -108,6 +109,8 @@
     "project-control/academic-readiness/2-2-5-primary-source-recovery-2026-10-26.md",
     "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json",
     "project-control/academic-readiness/2-2-5-mcq19-corrected-artifact-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json"
+    "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
+    "project-control/academic-readiness/2-3-1-official-syllabus-r1-verified-2026-10-26.json",
+    "project-control/academic-readiness/2-3-1-mcq11-12-primary-key-check-2026-10-26.json"
   ]
 }
