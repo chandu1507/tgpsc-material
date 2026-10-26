@@ -2,34 +2,62 @@
   "topic_id": "2-2-5",
   "title": "People's Movement against Nizam's Rule",
   "date": "2026-10-26",
-  "status": "ASSESSED_REBUILD_REQUIRED",
+  "status": "INTEGRATED_STUDENT_EDITION_DRAFT_PUBLISHED_PENDING_QA",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
-  "published_draft_pdf": true,
-  "prior_repair_reported": false,
-  "inventory_baseline": {
-    "path": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 5",
-    "files": 18,
-    "pdfs": 2,
-    "md_files": 15,
-    "complete_notes_words": 5281,
-    "detailed_notes_words": 2289,
-    "supplement_md_count": 1
-  },
+  "readiness_gate_file": "project-control/academic-readiness/2-2-5.json",
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
-    "R3": "BLOCKED",
+    "R3": "IN_PROGRESS",
     "R4": "BLOCKED",
-    "R5": "BLOCKED",
-    "R6": "BLOCKED",
-    "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Actual GitHub package inspected: original PDF 8 pages, detailed-notes.md 2307 words in 25 numbered sections (all <150 words), 1205-word separate supplement, 0 complete four-option MCQs (six fact bullets), four mains answers (218/201/213/214 words), 0 SVG diagrams, two reference entries. Original preserved; no consolidated final edition.",
-  "next_action": "Build ONE integrated student edition from original and existing peasant-sanghams/women supplement, expand major concepts, verify sources, write 25+ explained MCQs and 6 structured mains answers, render QA and portal link; no new disconnected supplement.",
+  "gate_evidence": {
+    "R1": "Official commission Notification No. 02/2024, Annexure II, PDF p.29; full direct primary document accessed 26 Oct 2026; 8 subpoints mapped to chapter sections.",
+    "R2": "Original 8-page PDF, 25-section 2307-word detailed notes and 1205-word earlier peasant-sanghams/women supplement inventoried; integrated 9462-word student draft assembled without overwriting originals. Editorial duplicate/contradiction sweep outstanding.",
+    "R3": "Expanded full-page-style sections on Ramji Gond, Komaram Bheem, agrarian causes, village sanghams, women/Ailamma, MIM/Razakars, Operation Polo, 1951 continuation. Independent depth review outstanding.",
+    "R4": "Nine-entry source register with provenance/status; original Gazetteer, Sunderlal report, Standstill Agreement, Hyderabad files and 1951 party resolution still missing. Some claims qualified rather than asserted.",
+    "R5": "30 original four-option MCQs with answer keys and explanations. Independent answer/distractor fact-check outstanding; zero authenticated official PYQs.",
+    "R6": "Six structured original mains answers, word counts 218/201/214/214/208/209, plus six answer blueprints. Independent historical-content review outstanding.",
+    "R7": "Three original SVG process diagrams, timeline, comparative table, revision traps and 2026 commemoration linked to dated government release. Student usability review outstanding.",
+    "R8": "Searchable integrated PDF created, 21 pages, montage visual inspection, original PDF preserved SHA256; offline topic link prepared. Remote publication and full 75-topic link/ZIP QA pending."
+  },
+  "original_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
+  "integrated_md_sha256": "efb62b610dbfa8d1a058e0874f80cc98779186ca0115884020dca1b8fc9c202e",
+  "integrated_pdf_sha256": "38feec00ade0f0062aba4cc8a7c45ee55908760b464369a25ee0eb81a236d9f5",
+  "integrated_pdf_pages": 21,
+  "integrated_words": 9462,
+  "mcqs_original_explained": 30,
+  "mains_original_complete": 6,
+  "official_pyqs_authenticated": 0,
+  "original_files_preserved": true,
   "external_reviewer": null,
   "student_accepted": false,
-  "actual_supplement_found": true,
-  "evidence_path": "project-control/academic-readiness/2-2-5-gap-assessment.json"
+  "outstanding": [
+    "Original nineteenth-century Ramji Gond records",
+    "1940 Gond police/forest records",
+    "Original Sunderlal committee report",
+    "Original Standstill Agreement and 1948 government/army orders",
+    "Original 1951 Communist Party withdrawal decision",
+    "Independent editorial review",
+    "Remote site/public Pages usability"
+  ],
+  "sources": [
+    {
+      "type": "official_syllabus",
+      "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v"
+    },
+    {
+      "type": "scholarly",
+      "url": "https://journals.sagepub.com/doi/10.1177/006996677400800107"
+    },
+    {
+      "type": "state_commemoration",
+      "url": "https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-telangana-praja-palana-dinotsavam-2026-celebrations-at-public-gardens-hyderabad/"
+    }
+  ]
 }

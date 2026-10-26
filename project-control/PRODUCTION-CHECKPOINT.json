@@ -128,9 +128,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "integrated_student_edition_draft_published_pending_academic_readiness",
+      "notes": "26 Oct 2026: new 9,462-word integrated student edition, 21-page PDF, 30 original explained four-option MCQs, six complete structured 200–250-word mains answers, 3 original SVG diagrams, timeline, comparison and 9-source critical register; direct 2024 official syllabus verified. Original 8-page PDF preserved. R1 PASS; R2–R8 incomplete or blocked; no independent academic approval.",
+      "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-2-5.json"
     },
     {

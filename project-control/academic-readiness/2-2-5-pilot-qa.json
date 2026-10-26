@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-2-5",
+  "publication_state": "LOCAL_STAGE_COMPLETE_REMOTE_PENDING",
+  "main_md_words": 9462,
+  "pdf_pages": 21,
+  "mcqs": 30,
+  "mains": 6,
+  "mains_word_counts": [
+    218,
+    201,
+    214,
+    214,
+    208,
+    209
+  ],
+  "diagrams": 3,
+  "official_syllabus_primary_verified": true,
+  "original_pdf_sha256": "e7968faac5fb9fc47e06c9056740a70b2e0bdbf278ae103d28a212873ce2661e",
+  "pdf_sha256": "38feec00ade0f0062aba4cc8a7c45ee55908760b464369a25ee0eb81a236d9f5",
+  "original_pdf_unchanged": true,
+  "academic_approved": false,
+  "visual_qa": "21-page contact sheet inspected; no obvious clipping; last page partially filled",
+  "blocking": "R4 primary records, independent editorial checks and remote Pages/browser QA"
+}
