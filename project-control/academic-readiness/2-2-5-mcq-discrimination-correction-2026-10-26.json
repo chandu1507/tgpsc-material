@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "2-2-5",
+  "review_type": "internal_editorial_revision_not_independent_subject_expert_audit",
+  "academic_status": "NOT_APPROVED",
+  "R5": "IN_PROGRESS",
+  "integrated_markdown": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 5/source/integrated-student-edition-2026-10-26.md",
+  "integrated_markdown_blob_sha": "c9086e3a888ea14075895ccd798d4cd8ba5ea42d",
+  "integrated_markdown_commit": "875834d1953fe76cf2d15509780ff7dadf164aa2",
+  "mcq_total": 30,
+  "rewritten_question_ids": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "rewritten_weak": 21,
+  "rewritten_borderline": 3,
+  "unchanged_question_ids": [
+    2,
+    3,
+    8,
+    18,
+    20,
+    24
+  ],
+  "mechanical_validation": {
+    "thirty_sequential_questions": true,
+    "all_four_options": true,
+    "all_keys_present": true,
+    "all_source_tags_present": true,
+    "all_explanations_present": true,
+    "answer_distribution": {
+      "A": 7,
+      "B": 7,
+      "C": 8,
+      "D": 8
+    },
+    "no_key_position_changes": true
+  },
+  "editorial_changes": "Replaced off-domain/obviously impossible options with closer agrarian, administrative, constitutional and source-methodology alternatives. Revised 24 question stems, four options and source-tagged explanations IN the integrated student edition. Six previously acceptable questions retained. Mechanical validation is not evidence of examination-level discrimination or factual accuracy.",
+  "evidence_crosschecked": [
+    {
+      "source": "D.N. Dhanagare, Social origins of the peasant insurrection in Telangana (1946-51), 1974",
+      "url": "https://journals.sagepub.com/doi/10.1177/006996677400800107",
+      "access": "publisher article page and bibliographic details; not complete full text",
+      "relevant": "peasant social origins, sanghams, agrarian structure"
+    },
+    {
+      "source": "John Roosa, Passive revolution meets peasant revolution, 2001",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/03066150108438783",
+      "access": "publisher abstract only",
+      "relevant": "interaction of nationalist and agrarian movements"
+    },
+    {
+      "source": "Sunil Purushotham, Internal Violence: The Police Action in Hyderabad, 2015",
+      "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/internal-violence-the-police-action-in-hyderabad/9EF8AAB00775E38AA13F663C730A244C",
+      "access": "publisher abstract only",
+      "relevant": "1948 violence and historical interpretation"
+    },
+    {
+      "source": "Vallabhbhai Patel, 29 November 1947 Constituent Assembly statement reproduced in On Indian Problems",
+      "url": "https://gsl.lbsnaa.gov.in/opac-tmpl/bootstrap/Books/116572.pdf",
+      "access": "reproduced contemporary statement, not signed agreement",
+      "relevant": "standstill temporary arrangements"
+    }
+  ],
+  "pdf_renderer": {
+    "workflow_run_id": 40282393196,
+    "conclusion": "success",
+    "pages": 35,
+    "pdf_sha256": "005328f3df628bb43dd10380a8a0b025a925186c24233ab4a7bee3d8def45374",
+    "pages_without_text": 0,
+    "source": "project-control/academic-readiness/2-2-5-render-qa.json",
+    "legacy_pdf_preservation_check": "passed in renderer workflow"
+  },
+  "publication": {
+    "packaging_run_id": 40282393231,
+    "conclusion": "success",
+    "artifact_id": 12632432411,
+    "artifact_exists": true,
+    "artifact_downloaded_this_run": false,
+    "artifact_crc_checked_this_run": false,
+    "public_browser_checked": false,
+    "warning": "Packaging run may have raced PDF renderer; cannot claim ZIP contains latest rendered PDF until subsequent fresh packaging artifact verified."
+  },
+  "unresolved": [
+    "Independent subject-expert factual review of all 30 MCQ keys and explanations",
+    "Distractor discrimination by student testing or external item reviewer",
+    "Original Ramji Gond gazetteer and Bheem police/forest records",
+    "Original signed 1947 Standstill Agreement",
+    "Original Sunderlal inquiry and October 1951 CPI withdrawal order",
+    "Integrated PDF visual page-by-page review and fresh archive CRC/portal usability"
+  ],
+  "ready_for_independent_audit": false,
+  "independent_academic_approval": false
+}
