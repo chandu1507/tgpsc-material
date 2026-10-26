@@ -21,7 +21,7 @@
     "R2": "Original legacy PDF and prior supplements preserved; one integrated Markdown student edition updated in place. Nine shallow sections expanded in latest revision; final overlap/contradiction editorial sweep outstanding.",
     "R3": "2026-10-26 depth pass: all 25 numbered narrative sections at least 150 words (previously 9 under 150); 24 >=300 words, one 287 words. Actual section counts in 2-2-5-depth-expansion-2026-10-26.json. Historical depth and nonrepetition require further editorial review; R3 IN_PROGRESS.",
     "R4": "Historical source register expanded S10-S15: Sundarayya participant retrospective explicitly says 21 Oct 1951; May 1951 party policy is NOT the October withdrawal announcement; contemporary Patel statement and Nehru correspondence on Nov 1947 standstill recovered; signed original and other archival documents remain unavailable. R4 BLOCKED.",
-    "R5": "All 30 original MCQs rewritten with plausible same-topic distractors; keys A7/B7/C8/D8. Answers and explanations retain source-ID references. Independent question fact-check and discriminatory quality review still outstanding. R5 IN_PROGRESS.",
+    "R5": "30 original four-option MCQs with explanations, balanced keys A7/B7/C8/D8. Fresh 26 Oct 2026 item-level editorial preflight found 21/30 weak distractor sets, 3 borderline, 6 acceptable pending fact-check. Report project-control/academic-readiness/2-2-5-mcq-discrimination-preflight-2026-10-26.json. Historical keys and explanations NOT independently verified; R5 IN_PROGRESS.",
     "R6": "Six structured original mains answers, word counts 218/201/214/214/208/209, plus six answer blueprints. Independent historical-content review outstanding.",
     "R7": "Three original SVG process diagrams, timeline, comparative table, revision traps and 2026 commemoration linked to dated government release. Student usability review outstanding.",
     "R8": "CI PDF render run 40276586706 SUCCESS, remote 34-page searchable PDF SHA256 65a4fb4d73edc34dfce51e1168b0da1a0f9e8295067a1435a95f306520de90cc. Actual GitHub packaging run 40276703691 SUCCESS, artifact 12629938593 downloaded and independently checked: 1438 files, 75 original PDFs, 75 readiness JSON, 78 HTML pages, 459 local links/zero broken, outer/inner ZIP CRC PASS, original legacy PDF byte-identical, corrected PDF SHA256 matches. QA project-control/academic-readiness/2-2-5-depth-expanded-github-artifact-qa-2026-10-26.json. Public Pages usability not independently verified; R8 IN_PROGRESS."
@@ -49,7 +49,8 @@
     "Independently verify revised MCQ facts and distractors; balanced answer positions alone do not prove exam quality",
     "Inspect signed Standstill Agreement, original October 1951 withdrawal text, Sunderlal full original and Gond archival records",
     "Independent textbook-depth and deduplication review after expansion; all sections meet 150-word mechanical floor, which is not academic sign-off",
-    "Verify public GitHub Pages topic 2-2-5 PDF navigation and usability in a real browser"
+    "Verify public GitHub Pages topic 2-2-5 PDF navigation and usability in a real browser",
+    "Rewrite 21 weak and 3 borderline MCQ distractor sets with close same-topic alternatives; fact-check all 30 keys and explanations against actual sources"
   ],
   "sources": [
     {
