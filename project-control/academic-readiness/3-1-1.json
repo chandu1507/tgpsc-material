@@ -28,9 +28,10 @@
   },
   "evidence": [
     "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn22-answer-length-and-ncert-concept-check-2026-10-27.json"
+    "project-control/academic-readiness/3-1-1-turn22-answer-length-and-ncert-concept-check-2026-10-27.json",
+    "project-control/academic-readiness/3-1-1-turn23-tribal-law-depth-and-five-mcq-check-2026-10-27.json"
   ],
-  "next_action": "Complete 6 mains claim-level audits (length corrected), integrate prior repair without duplication, deepen 16 concepts, add and independently check 15 MCQs, create accurate original diagrams, CI render and actual artifact QA.",
+  "next_action": "Integrate other shallow concepts without duplication, add and source-check 10 remaining original MCQs, audit earlier ten keys/distractors and all six mains, original diagrams and synchronized CI PDF, full page/portal QA.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -77,5 +78,34 @@
     "count": 4,
     "source": "NCERT Class XII Indian Society Chapter 3 via IIT Kanpur SATHEE",
     "not_a_complete_claim_audit": true
+  },
+  "verified_current_mcq_bank": {
+    "date": "2026-10-27",
+    "total_original_four_option_questions": 15,
+    "new_questions_added_this_cycle": 5,
+    "new_question_ids": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "source_correlated_new_keys_and_distractors": 5,
+    "prior_ten_independently_checked_in_this_cycle": false,
+    "remaining_to_25": 10,
+    "official_pyqs_authenticated": 0,
+    "scope": "Five PESA/FRA statute-grounded original practice items; partial R5, not full validation."
+  },
+  "substantive_depth_progress": {
+    "date": "2026-10-27",
+    "sections": [
+      "9",
+      "10"
+    ],
+    "before_words": 406,
+    "after_words": 1121,
+    "net_added_words": 715,
+    "qualitative_pass": false,
+    "other_shallow_sections_remaining": true
   }
 }

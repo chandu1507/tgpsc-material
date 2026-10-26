@@ -94,7 +94,7 @@
   "assessed_rebuild_required": [
     "3-1-1"
   ],
-  "last_readiness_update": "2026-10-27: Paper III 3-1-1 assessed from archived source: 30-page legacy PDF preserved, 18 concepts (16 under300), 10 original MCQs, six mains (four outside 200–250), zero SVG; R1 PASS from original TGPSC Annexure II printed p30. Topic needs integrated rebuild. Seven IN_PROGRESS, one assessed/rebuild, 67 unassessed, zero ready/approved.",
+  "last_readiness_update": "2026-10-27: 3-1-1 sections 9/10 expanded with PESA/FRA legal distinctions; original explained MCQ bank 10→15, five new keys/distractors source-correlated with direct official-PDF retrieval limitations. Still 7 IN_PROGRESS, 1 ASSESSED_REBUILD_REQUIRED, 67 NOT_ASSESSED, zero R1-R8 ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -105,6 +105,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-1-turn23-tribal-law-depth-and-five-mcq-check-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-objective-gap-and-r1-assessment-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json",

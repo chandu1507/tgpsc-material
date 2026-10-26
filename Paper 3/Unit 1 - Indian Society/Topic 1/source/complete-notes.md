@@ -145,17 +145,27 @@ Democratic politics, education, migration, land changes and legal protections al
 
 ## 9. Tribe: identity, territory, rights and changing livelihoods
 
-The word **tribe** is a governmental and sociological category with contested meanings. India's constitutional-administrative term **Scheduled Tribes** designates communities listed according to applicable provisions and schedules, while the lived social identities, languages and economies of these communities are diverse. It is incorrect to describe all tribal societies as isolated, 'primitive' or lacking historical change. Communities have long interacted with states, markets, forest systems, agriculture and wage employment. Discussions of ethnicity, indigeneity and tribal status require attention to local histories and the legal categories actually used.
+The word **tribe** is a governmental and sociological category with contested meanings. India's constitutional-administrative term **Scheduled Tribes** designates communities listed according to applicable provisions and schedules, while lived social identities, languages and economies are diverse. A notified status is not a claim that every person has the same livelihood or that a community is outside history. Communities have long interacted with states, markets, forest systems, agriculture, migration and wage employment. A careful answer distinguishes a community's self-identification, a scholar's analytical description and the State's legal notification; these are related but not interchangeable.
 
-Some perspectives emphasised tribal cultural distinctiveness, whereas others examined incorporation into wider regional societies. G.S. Ghurye and Verrier Elwin are historically significant but offered competing approaches; presenting either as timeless authority would ignore debates about assimilation, autonomy and rights. Modern answers should examine **self-governance, language access, forest tenure, displacement, public services and livelihood choice**. Fifth Schedule arrangements, the Panchayats (Extension to Scheduled Areas) Act, 1996, and the Forest Rights Act, 2006 provide different institutional routes; they are not interchangeable or automatically enforceable in every village.
+**Why forest access is a social institution, not merely an environmental issue.** A household's access to cultivation, grazing, seasonal collection, water and forest products can shape food security, debt, marriage expenditure and the ability to keep children in school. When access rules change, the effect travels through several institutions: income may fall, seasonal migration may rise, women may spend longer collecting fuel or water, and local political bargaining may shift. The direction of change is not predetermined; a market connection may raise income for some producers while increasing vulnerability for others. To study it, compare land records, customary use, legal recognition, household accounts and locally documented experience rather than assuming every forest-dependent family has the same interests.
 
-In Telangana, Gond, Kolam, Koya, Lambada and other communities have distinct histories and geographic distributions; names must not be substituted for one another. Forest governance, mining, reservoir projects and educational language policy can reshape livelihoods and identity. The historically rooted slogan associated with Komaram Bheem, **Jal, Jangal, Zameen**, is useful for discussing resource and autonomy claims, but claims about exact historical speeches require documentary caution.
+**Three legal layers must be kept separate.** Article 244(1) and the Fifth Schedule provide a constitutional governance framework for Scheduled Areas in the relevant states. The **Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA)** extends Part IX's panchayat framework to Scheduled Areas with specified modifications; it does not automatically apply to every village where Scheduled Tribe residents live. Under section 4, the Gram Sabha's role includes safeguarding community traditions and resources and approving specified local development plans; section 4(i) provides for consultation with the Gram Sabha or the Panchayat at the appropriate level before land acquisition and resettlement in Scheduled Areas. **Consultation is not the same statutory word as an unconditional veto.** An examiner may test that distinction. The **Forest Rights Act, 2006 (FRA)** instead addresses recognition and vesting of specified individual and community forest rights. Its section 3 includes multiple kinds of rights; it is incorrect to reduce the Act to individual cultivation titles. Section 4(5) protects relevant occupants from eviction or removal before recognition and verification procedures are complete, subject to the Act. A right claimed, a right verified and a title issued are three different administrative stages. [PESA: India Code, Act 40 of 1996, §§2–4; FRA: Ministry of Tribal Affairs, Act/Rules guidance and §§3–4; source-access limitations in the register.]
+
+**Worked administrative example.** Suppose a proposed road crosses a Scheduled Area settlement and a family also claims traditional forest use. An officer should first verify the notified Scheduled Area boundary and applicable state rules; then distinguish PESA consultation concerning the project from the FRA process for recognition of forest rights. Meeting minutes alone do not prove that rights claims were adjudicated. Equally, a pending claim does not establish the final extent of a recognised right. A sound process records the affected habitation, women and other participants, accessible language, claim documents, reasons for decisions and available review mechanisms. This example illustrates the *sequence of questions*, not a claim that any particular Telangana project complied with them.
+
+**Telangana application and limits.** Gond, Kolam, Koya, Lambada and other communities have distinct histories and geographic distributions; their names and legal statuses must not be substituted for one another. Forest governance, mining, reservoir projects and language policy can reshape livelihoods and identity. The slogan associated with Komaram Bheem, **Jal, Jangal, Zameen**, helps frame resource and autonomy demands, but exact historical speech quotations require separate archival evidence. A rigorous mains answer compares self-governance, rights recognition and service access without portraying tribal communities as either timelessly isolated or automatically protected because a statute exists.
 
 ## 10. Caste and tribe: comparison without stereotypes
 
-Caste typically focuses analysis on endogamous social groups embedded in hierarchically ordered regional systems; discussions of tribe often foreground self-identification, territory, language, communal institutions and administrative recognition. **However, caste and tribal identities are not mutually exclusive boxes into which social life neatly fits.** Tribal societies can have internal inequalities, and caste groups may maintain strong territorial and cultural identities. The state-recognised status of a group is a legal question, not a universal explanation of its culture.
+Caste typically directs attention to hereditary membership, endogamy and hierarchically ordered relationships within regional societies. The term tribe, in Indian sociology, often directs attention to histories of community identification, territory, language, livelihood and political relations with states. These are **questions to investigate**, not definitions that classify every household without exception. Tribal societies may have internal economic and gender inequalities; caste groups may have strong territorial identities and complex community institutions. Scheduled Caste and Scheduled Tribe designations are legal-administrative classifications with distinct notification procedures and protections; neither can be inferred simply from occupation, poverty or appearance.
 
-A strong comparative answer uses five dimensions: social boundary (marriage and membership), mode of livelihood, access to land/forest, political autonomy, and relation to statutory protection. Example: a forest-dwelling family's rights claim cannot be analysed solely through religious custom when forest access rules, schooling and displacement are decisive. Conversely, a caste-inequality answer that contains only poverty figures misses hereditary status and social exclusion. Avoid classifying every Adivasi household as subsistence-based or every caste group as a village-based occupational association.
+**Compare the mechanisms, not stereotypes.** First, examine membership and marriage: how are group boundaries maintained, and how do people negotiate them? Second, examine property: who controls cultivable land, forest use, housing or productive assets? Third, examine labour: are employment opportunities shaped by inherited networks, displacement, skills or market location? Fourth, examine political representation: which bodies decide on resources, and who can speak in them? Fifth, examine legal entitlements: which specific constitutional, statutory or state provisions apply to the *place and person* in question? This five-part comparison reveals overlapping constraints without collapsing caste discrimination into economic poverty or tribal forest claims into cultural folklore.
+
+**Two short case analyses.** A Dalit student may have access to a college seat but face discriminatory treatment in accommodation or social networks. The analytical problem involves unequal status and institutional enforcement, not merely family income. A forest-dependent Adivasi household may face uncertainty about a community forest resource even when an individual cultivation claim is processed. The analytical problem involves tenure, collective governance and administrative recognition, not simply educational backwardness. In both cases, compare the evidence actually available before attributing a cause: a survey can identify disparity, while interviews, administrative files and field observation can help test mechanisms.
+
+**What the law does—and does not—tell us.** The Constitution's abolition of untouchability addresses a form of exclusion historically tied to caste. Fifth Schedule/PESA arrangements concern specified Scheduled Areas and local governance, while FRA addresses qualifying forest rights of eligible forest dwellers. These protections operate through different eligibility conditions and institutions. A PESA Gram Sabha provision cannot be cited as proof that a forest title has been granted; a forest-rights claim cannot be used as evidence that a community has a particular caste ranking. Nor should a Scheduled Tribe notification be mistaken for a sociological conclusion that all notified groups have identical cultural practices. These distinctions are essential for legally accurate mains answers.
+
+**Answer-writing application.** Define the categories; compare boundaries, resources and power; introduce one contrasting Telangana example; then assess both constitutional guarantees and implementation barriers. A balanced conclusion should recommend verifiable land/forest records, accessible grievance channels, non-discriminatory services and meaningful local participation. Avoid asserting that a particular community is legally recognised, or that a specific village falls within a Scheduled Area, without consulting the applicable notification.
 
 ## 11. Religion: plurality, institutions and public life
 
@@ -431,6 +441,51 @@ The Office of the Registrar General and Census Commissioner publishes the **2011
 - **D.** A survey of only urban transport
 
 **Correct: B.** The state launched a household survey in November 2024; its definitions and universe should not be conflated with Census 2011.
+
+## 11. Which statement correctly describes the territorial scope of PESA, 1996?
+
+- **A.** It applies to every Indian village where Scheduled Tribe residents are present.
+- **B.** It applies to every autonomous district governed by the Sixth Schedule.
+- **C.** It extends the Part IX panchayat framework, with modifications, to Scheduled Areas referred to in Article 244(1).
+- **D.** It applies exclusively to urban municipalities with Scheduled Tribe wards.
+
+**Correct: C.** PESA sections 2–3 define the Scheduled Area scope and extension of Part IX. A confuses demographic presence with notified territory; B conflates Fifth and Sixth Schedule arrangements; D substitutes urban municipalities for the panchayat framework. **Evidence:** India Code, Act 40 of 1996, §§2–3. **Type:** original practice, not an official PYQ.
+
+## 12. Under PESA section 4(e)(i), what is a specified function of the Gram Sabha?
+
+- **A.** Approving plans, programmes and projects for social and economic development before implementation by the village-level Panchayat.
+- **B.** Issuing all mining leases for major minerals anywhere in India.
+- **C.** Replacing the State legislature for every law concerning tribal welfare.
+- **D.** Automatically granting individual forest-rights titles without the FRA process.
+
+**Correct: A.** Section 4(e)(i) concerns approval of specified development plans. B confuses recommendations about minor minerals with blanket licensing; C attributes legislative power not supplied by this clause; D confuses PESA local governance with forest-rights recognition under another statute. **Evidence:** PESA §4(e)(i), cross-read with §§4(k)–(l) and FRA procedures. **Type:** original practice.
+
+## 13. For land acquisition in Scheduled Areas, what does PESA section 4(i) expressly require?
+
+- **A.** An automatic ban on all acquisition for public projects.
+- **B.** Consultation with the Gram Sabha or Panchayats at the appropriate level before acquisition and before resettlement or rehabilitation.
+- **C.** Unanimous consent from every adult resident as the exact statutory requirement.
+- **D.** A decision solely by the district police without local consultation.
+
+**Correct: B.** Section 4(i) expressly provides consultation, while project planning and implementation are coordinated at the State level. A invents an absolute prohibition; C substitutes a different legal threshold for the word used in this clause; D removes the prescribed local role. Other applicable laws may impose additional requirements, so do not infer that PESA alone exhausts the acquisition process. **Evidence:** PESA §4(i). **Type:** original practice.
+
+## 14. Which statement best reflects the range of rights addressed by the Forest Rights Act, 2006?
+
+- **A.** Only individual ownership of privately purchased urban plots.
+- **B.** Only an unrestricted commercial right to clear any protected forest.
+- **C.** Only rights already recorded in colonial revenue registers.
+- **D.** Specified individual and community forest rights, including certain livelihood and community-resource uses, subject to statutory conditions.
+
+**Correct: D.** FRA section 3 describes multiple individual and community rights. A is unrelated to forest tenure; B falsely treats recognition as unlimited clearance authority; C incorrectly confines recognition to colonial registers. Eligibility, evidence and procedure still matter. **Evidence:** Ministry of Tribal Affairs FRA overview and the Act's §3. **Type:** original practice.
+
+## 15. Which proposition is closest to the safeguard in FRA section 4(5)?
+
+- **A.** Every pending claim must automatically receive title regardless of evidence.
+- **B.** Forest-dwelling claimants may always be removed before verification begins.
+- **C.** Subject to the Act, relevant forest dwellers shall not be evicted or removed from occupied forest land until recognition and verification are complete.
+- **D.** Completion of a Gram Sabha meeting itself conclusively establishes every claimed boundary.
+
+**Correct: C.** Section 4(5) addresses eviction before completion of the statutory recognition and verification process; it does not predetermine the merits of a claim. A confuses procedural protection with automatic grant; B reverses the safeguard; D mistakes one procedural stage for a final determination. **Evidence:** FRA §4(5), cross-read with §6 procedures. **Type:** original practice.
 
 
 

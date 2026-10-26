@@ -94,3 +94,48 @@
 
 **Correct: B.** The state launched a household survey in November 2024; its definitions and universe should not be conflated with Census 2011.
 
+## 11. Which statement correctly describes the territorial scope of PESA, 1996?
+
+- **A.** It applies to every Indian village where Scheduled Tribe residents are present.
+- **B.** It applies to every autonomous district governed by the Sixth Schedule.
+- **C.** It extends the Part IX panchayat framework, with modifications, to Scheduled Areas referred to in Article 244(1).
+- **D.** It applies exclusively to urban municipalities with Scheduled Tribe wards.
+
+**Correct: C.** PESA sections 2–3 define the Scheduled Area scope and extension of Part IX. A confuses demographic presence with notified territory; B conflates Fifth and Sixth Schedule arrangements; D substitutes urban municipalities for the panchayat framework. **Evidence:** India Code, Act 40 of 1996, §§2–3. **Type:** original practice, not an official PYQ.
+
+## 12. Under PESA section 4(e)(i), what is a specified function of the Gram Sabha?
+
+- **A.** Approving plans, programmes and projects for social and economic development before implementation by the village-level Panchayat.
+- **B.** Issuing all mining leases for major minerals anywhere in India.
+- **C.** Replacing the State legislature for every law concerning tribal welfare.
+- **D.** Automatically granting individual forest-rights titles without the FRA process.
+
+**Correct: A.** Section 4(e)(i) concerns approval of specified development plans. B confuses recommendations about minor minerals with blanket licensing; C attributes legislative power not supplied by this clause; D confuses PESA local governance with forest-rights recognition under another statute. **Evidence:** PESA §4(e)(i), cross-read with §§4(k)–(l) and FRA procedures. **Type:** original practice.
+
+## 13. For land acquisition in Scheduled Areas, what does PESA section 4(i) expressly require?
+
+- **A.** An automatic ban on all acquisition for public projects.
+- **B.** Consultation with the Gram Sabha or Panchayats at the appropriate level before acquisition and before resettlement or rehabilitation.
+- **C.** Unanimous consent from every adult resident as the exact statutory requirement.
+- **D.** A decision solely by the district police without local consultation.
+
+**Correct: B.** Section 4(i) expressly provides consultation, while project planning and implementation are coordinated at the State level. A invents an absolute prohibition; C substitutes a different legal threshold for the word used in this clause; D removes the prescribed local role. Other applicable laws may impose additional requirements, so do not infer that PESA alone exhausts the acquisition process. **Evidence:** PESA §4(i). **Type:** original practice.
+
+## 14. Which statement best reflects the range of rights addressed by the Forest Rights Act, 2006?
+
+- **A.** Only individual ownership of privately purchased urban plots.
+- **B.** Only an unrestricted commercial right to clear any protected forest.
+- **C.** Only rights already recorded in colonial revenue registers.
+- **D.** Specified individual and community forest rights, including certain livelihood and community-resource uses, subject to statutory conditions.
+
+**Correct: D.** FRA section 3 describes multiple individual and community rights. A is unrelated to forest tenure; B falsely treats recognition as unlimited clearance authority; C incorrectly confines recognition to colonial registers. Eligibility, evidence and procedure still matter. **Evidence:** Ministry of Tribal Affairs FRA overview and the Act's §3. **Type:** original practice.
+
+## 15. Which proposition is closest to the safeguard in FRA section 4(5)?
+
+- **A.** Every pending claim must automatically receive title regardless of evidence.
+- **B.** Forest-dwelling claimants may always be removed before verification begins.
+- **C.** Subject to the Act, relevant forest dwellers shall not be evicted or removed from occupied forest land until recognition and verification are complete.
+- **D.** Completion of a Gram Sabha meeting itself conclusively establishes every claimed boundary.
+
+**Correct: C.** Section 4(5) addresses eviction before completion of the statutory recognition and verification process; it does not predetermine the merits of a claim. A confuses procedural protection with automatic grant; B reverses the safeguard; D mistakes one procedural stage for a final determination. **Evidence:** FRA §4(5), cross-read with §6 procedures. **Type:** original practice.
+

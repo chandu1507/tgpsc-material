@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-27",
+  "topic": "3-1-1",
+  "status": "PARTIAL_EVIDENCE_NOT_APPROVED",
+  "fresh_main_at_start": "96d62fec8360381a54c09a88c6e01c3b59be7e3e",
+  "changes": {
+    "prior_section9_10_words": 406,
+    "new_section9_10_words": 1121,
+    "added_words": 715,
+    "original_questions": 10,
+    "updated_questions": 15,
+    "master_contains_updated_sections": true,
+    "master_contains_mcq15": true,
+    "source_records": 5
+  },
+  "source_claim_ids": [
+    "L01",
+    "L02",
+    "L03",
+    "L04",
+    "L05"
+  ],
+  "source_access_caveats": [
+    "India Code official PESA PDF direct retrieval failed; official act index and accessible reproduced clauses cross-correlated",
+    "Ministry Tribal Affairs official FRA overview directly accessible; Act/Rules PDF HTTP 502; statutory clauses cross-checked in legal reproductions"
+  ],
+  "verified_new_mcqs": [
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "remaining_original_mcqs_to_25": 10,
+  "remaining_legacy_mcq_checks": 10,
+  "all_mains_claim_level_verified": false,
+  "all_75_topics_preserved_by_scope": true,
+  "original_legacy_pdf_untouched": true,
+  "integrated_pdf_regenerated": false,
+  "full_readiness_R1_R8_pass": false,
+  "external_academic_approval": false
+}
