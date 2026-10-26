@@ -204,9 +204,10 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "r1_pass_mains_lengths_corrected_15_original_mcqs_partial_tribal_law_depth_no_integrated_pdf",
-      "notes": "27 Oct verified baseline: legacy 30-page PDF preserved; 18 concepts, initially 16 under300. Turn22 corrected all six existing mains to 215/206/211/209/210/216 body words (not yet fact-checked). Turn23 substantive PESA/FRA depth expansion in existing sections 9–10 (+715 words); original explained MCQs now 15 (five new PESA/FRA items source-correlated, ten existing not independently checked this cycle), ten still missing to 25; original diagrams/integrated CI PDF still outstanding. R1 PASS, R2/R4/R6 IN_PROGRESS, R3/R5/R7/R8 BLOCKED; no academic approval.",
+      "notes": "27 Oct verified baseline: legacy 30-page PDF preserved; 18 concepts, initially 16 under300. Turn22 corrected all six existing mains to 215/206/211/209/210/216 body words (not yet fact-checked). Turn23 substantive PESA/FRA depth expansion in existing sections 9–10 (+715 words); original explained MCQs now 15 (five new PESA/FRA items source-correlated, ten existing not independently checked this cycle), ten still missing to 25; original diagrams/integrated CI PDF still outstanding. R1 PASS, R2/R4/R6 IN_PROGRESS, R3/R5/R7/R8 BLOCKED; no academic approval. 27 Oct Turn24: 25 original explained practice MCQs now in source (10 new, author-side source-correlated; independent review NOT complete); no synchronized integrated PDF or academic approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
-      "readiness_gate_file": "project-control/academic-readiness/3-1-1.json"
+      "readiness_gate_file": "project-control/academic-readiness/3-1-1.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json"
     },
     {
       "id": "3-1-2",
@@ -216,9 +217,10 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/3-1-2.json"
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Turn24: 23 explanations, 22 under 300 words; 10 original explained MCQs, six mains, zero standalone SVG; 27-page original PDF SHA256 9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921 preserved. R1-R8 incomplete.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/3-1-2.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/3-1-2-objective-gap-assessment-2026-10-27.json"
     },
     {
       "id": "3-1-3",
