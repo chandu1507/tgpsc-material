@@ -98,8 +98,8 @@
     },
     "R8": {
       "status": "IN_PROGRESS",
-      "evidence": "29-page searchable PDF rendered and published to GitHub; PDF SHA256 d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f; packaging workflow 40252354462 SUCCESS; downloaded artifact 12621337525 CRC PASS, 1420 unique files, 75 original topic PDFs and 75 readiness status files; 78 archived HTML pages and 454 local links with zero broken; original PDF SHA256 unchanged. Topic portal now links the integrated PDF and editable chapter (GitHub commit f1b258295f88b05d6643aa759fb7721781fdeb86); exact HTML blob independently compared; 78 offline HTML pages and 458 local references validated with zero broken links after patch; see project-control/academic-readiness/2-2-4-portal-link-qa.json.",
-      "blocker": "New post-link GitHub Actions packaging artifact and live public Pages rendering still to verify; student usability acceptance outstanding."
+      "evidence": "29-page searchable PDF rendered and published to GitHub; PDF SHA256 d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f; packaging workflow 40252354462 SUCCESS; downloaded artifact 12621337525 CRC PASS, 1420 unique files, 75 original topic PDFs and 75 readiness status files; 78 archived HTML pages and 454 local links with zero broken; original PDF SHA256 unchanged. Topic portal now links the integrated PDF and editable chapter (GitHub commit f1b258295f88b05d6643aa759fb7721781fdeb86); exact HTML blob independently compared; 78 offline HTML pages and 458 local references validated with zero broken links after patch; see project-control/academic-readiness/2-2-4-portal-link-qa.json. Post-link packaging run 40256084074 SUCCESS, actual artifact 12622277534 downloaded and verified: 1420 files, CRC PASS, 458 local links, zero broken, exact new HTML blob, original PDF preserved.",
+      "blocker": "Live public Pages browser rendering and student usability review still outstanding; final complete edition awaits R1–R7 closure."
     }
   },
   "external_reviewer": null,
@@ -119,6 +119,9 @@
     "downloaded_readiness_topic_files": 75,
     "downloaded_original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
     "portal_link_commit": "f1b258295f88b05d6643aa759fb7721781fdeb86",
-    "portal_link_qa_path": "project-control/academic-readiness/2-2-4-portal-link-qa.json"
+    "portal_link_qa_path": "project-control/academic-readiness/2-2-4-portal-link-qa.json",
+    "portal_link_packaging_run": 40256084074,
+    "portal_link_artifact_id": 12622277534,
+    "portal_link_artifact_sha256": "ed89d81e6615b54facf0044f5215111149bc391c5f6defcbc02c315b71b8fe3c"
   }
 }
