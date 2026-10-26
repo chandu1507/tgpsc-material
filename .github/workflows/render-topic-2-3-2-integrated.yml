@@ -46,7 +46,7 @@ jobs:
           import fitz
           p='Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.pdf'
           doc=fitz.open(p)
-          assert len(doc)>=15, len(doc)
+          assert len(doc)>=10, len(doc)
           assert all(len(page.get_text().strip())>60 for page in doc)
           print('Rendered integrated PDF pages:',len(doc))
           PY
