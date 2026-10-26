@@ -2,7 +2,7 @@
   "topic_id": "2-3-5",
   "title": "Telangana Urbanisation and the Hyderabad Megapolis",
   "date": "2026-10-27",
-  "status": "ASSESSED_REBUILD_REQUIRED",
+  "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -21,16 +21,17 @@
     "R2": "IN_PROGRESS",
     "R3": "BLOCKED",
     "R4": "IN_PROGRESS",
-    "R5": "BLOCKED",
-    "R6": "BLOCKED",
-    "R7": "BLOCKED",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
     "R8": "BLOCKED"
   },
   "evidence": [
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json"
+    "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
+    "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json"
   ],
-  "next_action": "Seven official-source claim correspondences recorded (not complete R4). Local working integrated Markdown/PDF candidate exists but is NOT GitHub-published or Actions-verified; preserve original. Next publish guarded source and renderer, then independently verify 25 MCQs, six mains, R1 and R8.",
+  "next_action": "Integrated editable source and deterministic Topic 5 renderer committed; await actual GitHub Actions PDF, downloaded artifact SHA/CRC/75-topic/portal checks. Then R2-R7 academic audits; R8 remains BLOCKED until verified.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -44,5 +45,15 @@
     "original_svg_diagrams": 0,
     "integrated_pdf": false
   },
-  "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json"
+  "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
+  "integrated_source": {
+    "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
+    "publication_state": "GITHUB_SOURCE_PUBLISHED_PDF_PENDING",
+    "original_practice_mcqs": 25,
+    "model_answers": 6,
+    "schematic_diagrams": 2,
+    "independent_item_audit": false,
+    "qualitative_depth_pass": false,
+    "source_level_mains_audit": false
+  }
 }

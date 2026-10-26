@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "2-3-5",
+  "operation": "publish_integrated_source_and_renderer",
+  "source_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
+  "source_provenance": "prior locally QA-checked working candidate; model answer 6 revised to remove overlap",
+  "draft_mcqs": 25,
+  "draft_mains": 6,
+  "diagram_type": "conceptual SVG flowcharts, not GIS",
+  "original_pdf_sha256": "a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18",
+  "pdf_publication": "PENDING_ACTIONS",
+  "actual_downloaded_artifact": "NOT_YET",
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
+  },
+  "readiness": {
+    "topic_count": 75,
+    "in_progress": 7,
+    "not_assessed": 68,
+    "fully_ready": 0,
+    "independently_approved": 0
+  },
+  "limitations": [
+    "R1 original commission PDF clause-level direct check pending",
+    "R2 full dedup and R3 textbook depth pending",
+    "R4 primary claim-level check incomplete",
+    "R5 all keys and distractors independent validation pending",
+    "R6 six mains answers full source-level review pending",
+    "R7 diagrams schematic not cartographically validated",
+    "R8 no synchronized PDF or downloaded post-render artifact yet"
+  ]
+}

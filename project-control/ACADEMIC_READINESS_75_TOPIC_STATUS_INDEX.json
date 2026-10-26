@@ -7,12 +7,13 @@
     "2-3-1",
     "2-3-2",
     "2-3-3",
-    "2-3-4"
+    "2-3-4",
+    "2-3-5"
   ],
   "not_assessed_count": 68,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; 6 IN_PROGRESS, Topic 2-3-5 ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED; 0 fully R1–R8 ready and 0 independently approved. Topic 2-3-4 has 19-page footer-corrected CI-rendered integrated PDF but post-render artifact/page-level QA and academic gates remain incomplete. Topic 2-3-5 original 8-page PDF preserved; 16/16 core concepts under 150 words, zero explained original MCQs, two mains, no SVG.",
+  "warning": "Exactly 75 original topic slots; 7 IN_PROGRESS, 68 NOT_ASSESSED; zero fully R1–R8 ready and zero independently approved. Topic 2-3-5 integrated Markdown/renderer committed but synchronized CI PDF and actual artifact pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -90,10 +91,8 @@
     "project-control/academic-readiness/6-3-5.json",
     "project-control/academic-readiness/2-2-4.json"
   ],
-  "assessed_rebuild_required": [
-    "2-3-5"
-  ],
-  "last_readiness_update": "2026-10-27: Topic 2-3-5 seven official-source claim correspondences recorded (Census baseline, GHMC 2007/1591, HMDA 2008/2025 boundaries, Master Plan 2031, heritage). R4 IN_PROGRESS, R1/R2 pending, R3/R5/R6/R7/R8 BLOCKED. A 17-page local working PDF and 25 original practice MCQs were produced but NOT GitHub-published or Actions-artifact-verified in this cycle. Exactly 75 topics: six IN_PROGRESS, one ASSESSED_REBUILD_REQUIRED, 68 NOT_ASSESSED, zero fully ready and zero independent approvals.",
+  "assessed_rebuild_required": [],
+  "last_readiness_update": "2026-10-27: Topic 2-3-5 integrated editable master and dedicated renderer/workflow published with 25 draft MCQs, six model answers and schematic diagrams. Model Answer 6 rewritten to remove duplication with Answer 2. R1/R2/R4/R5/R6/R7 IN_PROGRESS, R3/R8 BLOCKED, R9 NOT_STARTED. 7 IN_PROGRESS, 68 NOT_ASSESSED, zero ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -102,6 +101,7 @@
   ],
   "verified_R1_pass_count": 4,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-5-turn21-integrated-source-publication-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",

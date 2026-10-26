@@ -190,9 +190,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "objective_gap_assessed_rebuild_required",
-      "notes": "27 Oct 2026 objective assessment: original 8-page PDF SHA256 a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18 preserved; 16/16 original concepts under 150 words; prior 8-section urbanisation repair exists, 0 explained MCQs, 2 original mains, 0 SVG, no synchronized integrated edition. Academic R1–R8 NOT PASSED.",
-      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "production_review": "integrated_editable_master_and_dedicated_renderer_committed_pdf_artifact_pending",
+      "notes": "27 Oct 2026 objective assessment: original 8-page PDF SHA256 a842add222d65564077c1451a86a6e8d2c001d88aa6c2866f320a1bb5212ea18 preserved; 16/16 original concepts under 150 words; prior 8-section urbanisation repair exists, 0 explained MCQs, 2 original mains, 0 SVG, no synchronized integrated edition. Academic R1–R8 NOT PASSED. 27 Oct: integrated working master source, 25 original practice MCQs, six structured mains, dedicated renderer, diagrams published; academic gates incomplete; original PDF preserved.",
+      "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-5.json",
       "latest_readiness_evidence": "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json"
     },
