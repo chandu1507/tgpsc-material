@@ -103,6 +103,9 @@ def on_page(canvas,doc):
  canvas.setFont('DV',7);canvas.setFillColor(colors.HexColor('#617588'))
  canvas.drawString(46,29,'TGPSC Group I · Paper III / Unit III / Topic 3 · Expanded draft — not academically approved')
  canvas.restoreState()
+from reportlab import rl_config
+rl_config.invariant=1  # deterministic PDF metadata and identifiers
+
 doc=SimpleDocTemplate(str(SRC/'integrated-student-edition-2026-10-27.pdf'),pagesize=A4,rightMargin=46,leftMargin=46,topMargin=52,bottomMargin=57,title=TITLE,author='TGPSC Group I Study Library',pageCompression=1)
 doc.build(story,onFirstPage=on_page,onLaterPages=on_page)
 print('MANUSCRIPT WORDS',len(md.split()),'HTML',len(page),'PDF', (SRC/'integrated-student-edition-2026-10-27.pdf').stat().st_size)
@@ -115,6 +118,13 @@ manifest['historical_creation_inventory']={k:manifest.pop(k,None) for k in ('pre
 manifest['current_topic_inventory_total']=75
 manifest['research_cutoff']='2026-10-27'
 manifest['academic_status']='ASSESSED_REBUILD_REQUIRED; partial author-side checks; independent approval zero'
+# Refresh actual content metrics rather than retaining historical manifest estimates.
+detail=(SRC/'detailed-notes.md').read_text(encoding='utf-8')
+matches=list(re.finditer(r'^##\\s+\\d+\\.\\s+',detail,re.M))
+manifest['concept_chapter_words']=[len(re.findall(r"\\b[\\w’-]+\\b",detail[m.end():(matches[i+1].start() if i+1<len(matches) else len(detail))])) for i,m in enumerate(matches)]
+manifest['major_concept_chapters']=len(matches)
+manifest['manuscript_whitespace_words']=len(md.split())
+manifest['legacy_pdf_pages']=37
 manifest['mains_answer_words']=[210,219,217,219,217,210]
 manifest['original_mcqs']=25
 manifest['mains_answers']=6
