@@ -1,6 +1,6 @@
 # Authoritative Sources and Audit — Industry and Service Sectors
 
-**Audit cut-off:** 24 October 2026. This is an internally checked expanded draft, not an independent academic certification. All URLs are primary institutional sources unless specifically marked as secondary syllabus corroboration. The links are supplied for verification, not as a substitute for a subject-expert review. No source page-number citations are used in the student-facing notes.
+**Audit cut-off:** 27 October 2026 (Cycle43 bounded update; inherited material has earlier source dates). This is an internally checked expanded draft, not an independent academic certification. All URLs are primary institutional sources unless specifically marked as secondary syllabus corroboration. The links are supplied for verification, not as a substitute for a subject-expert review. No source page-number citations are used in the student-facing notes.
 
 | ID | Source and date/period | URL | Used for / caution |
 |---|---|---|---|
@@ -24,6 +24,9 @@
 | S18 | Invest Telangana, industrial and services investment sectors | https://invest.telangana.gov.in/ | Institutional ecosystem and sector map; promotional content treated cautiously. |
 | S19 | Telangana TG-iPASS dashboard, observed October 2026 | https://ipass.telangana.gov.in/UI/TSiPASS/frmSingleWindowDashboard.aspx | Administrative process metrics, not factory output or realised employment. |
 | S20 | Telangana State Portal, 2024 electricity-policy announcement | https://www.telangana.gov.in/news/press-releases/2024/01/telangana-government-to-bring-in-new-power-electricity-policy/ | Power policy intentions; not evidence of a subsequently enacted policy. |
+| S21 | Government of India, Udyam registration classification, current page checked 27 Oct 2026 | https://www.udyogaadhaar.gov.in/Important.aspx | Composite MSME thresholds effective 1 April 2025: micro 2.5/10, small 25/100, medium 125/500 crore; not state subsidy eligibility. |
+| S22 | NITI Aayog, *India's Services Sector: Insights from GVA Trends and State-Level Dynamics*, October 2025 | https://www.niti.gov.in/sites/default/files/2025-10/Indias_Services_Sector_Insights_from_GVA_Trends_State_level_Dynamics.pdf | Telangana services GSVA share 62.4% in 2023–24, 52.8% in 2011–12; 60.3% is period average, not 2023–24. |
+| S23 | Government of Telangana, Next-Gen Life Sciences Policy 2026–2030 (official policy portal) | https://invest.telangana.gov.in/policy-life-sciences/ | Policy period and forward-looking investment/jobs targets, not realised outcomes. |
 
 ## Claims checked and qualifications
 
@@ -36,3 +39,7 @@
 7. **SEO 2026:** Official publication identified, but its full industrial sub-sector tables not exhaustively audited; unsupported latest percentages excluded.
 8. **Official PYQs:** Zero claimed. No source paper/question-number provenance established.
 9. **Academic approval:** Zero; subject expert, legal currency and independent statistical audit remain pending.
+
+10. **Cycle43 bounded checks:** Q4/Q5 against official Udyam current thresholds; Q12 against NITI 2025 GVA report; Q13 against NITI 2025 employment report; Q19 against the state life-sciences policy. All four alternatives for each of these five items were reviewed by the author against the indicated figures/periods; this is NOT an independent 30-key/120-distractor R5 audit.
+11. **Structural proxy:** The approximately 3.11 relative services/non-services output-share-per-worker-share calculation uses rounded 2023–24 values from two separate NITI reports. It is an explanatory ratio, not a direct measured wage, causal effect, or comprehensive labour productivity series.
+12. **Unresolved:** Original Notification 02/2024 not directly authenticated in this cycle; no complete independent review of 30 MCQs, all six mains claims, original diagrams or offline browser accessibility. No independent academic approval.
