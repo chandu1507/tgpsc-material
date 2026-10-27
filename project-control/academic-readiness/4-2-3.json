@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle42 direct assessment: 16 original 400+ word concepts, 30 practice MCQs with initial A9/B15/C5/D1, six 200+ body-word mains, original 28-page PDF preserved. Eight MCQs revised and one original hypothetical 530-word outcomes laboratory added, giving 17 concepts, MCQ distribution A4/B13/C7/D6. Limited official Bhu Bharati and indexed TGPSC 2022 correspondence; direct 2024 syllabus, full current law, all keys/distractors and all mains claims not independently verified. Local 31-page integrated PDF generated and statically QA checked; GitHub CI and downloaded post-edit artifact QA pending.",
-  "next_action": "Render the committed synchronized editable source into GitHub CI PDF/HTML, verify actual downloaded artifact CRC/SHA/75-topic links, then complete independent 30-key/120-distractor, six mains, diagrams and official syllabus audit.",
+  "evidence": "Cycle42 direct assessment: 16 original 400+ word concepts, 30 practice MCQs with initial A9/B15/C5/D1, six 200+ body-word mains, original 28-page PDF preserved. Eight MCQs revised and one original hypothetical 530-word outcomes laboratory added, giving 17 concepts, MCQ distribution A4/B13/C7/D6. Limited official Bhu Bharati and indexed TGPSC 2022 correspondence; direct 2024 syllabus, full current law, all keys/distractors and all mains claims not independently verified. Local 31-page integrated PDF generated and statically QA checked; GitHub CI and downloaded post-edit artifact QA pending. CI 32-page integrated PDF and actual post-edit artifact 12753002653 downloaded: outer/inner CRC PASS, 1628 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 422 file links/1097 DOM fragments zero broken, 64 SPA routes excluded, 18 manifest hashes PASS; no browser accessibility certification.",
+  "next_action": "Complete 30-key/120-distractor and six mains claim-level independent audit, verify diagrams and original 2024 syllabus, test public browser accessibility, then expert review. Do not approve before R1–R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "c612d9c19a2a9059c3a6feac776a772269016a7b01a22c5bd64e0f6c4bf9e581",
@@ -167,6 +167,11 @@
       "not_assessed": 45,
       "fully_ready": 0,
       "approved": 0
-    }
+    },
+    "actual_artifact_qa": "project-control/academic-readiness/4-2-3-cycle42-actual-downloaded-artifact-qa-2026-10-27.json",
+    "actual_artifact_id": 12753002653,
+    "integrated_pdf_pages": 32,
+    "integrated_pdf_sha256": "3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882",
+    "R8": "IN_PROGRESS_NOT_PASS"
   }
 }
