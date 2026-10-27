@@ -45,3 +45,12 @@
 3. Jawaharnagar allegations and court orders require certified case-document verification before asserting liability or quantified health effects.
 4. District-specific Telangana 2026 waste tonnages and recycling rates are intentionally omitted pending a comparable official audited dataset.
 5. Questions below are original practice, **not official PYQs**. Academic approval remains zero until independent subject-expert review.
+
+## Cycle48 bounded primary-source correspondence and original quantitative checks (28 October 2026)
+
+- **CPCB Solid Waste Management portal, consulted 28 October 2026:** https://swm.cpcb.gov.in/ directly states notification on 27 January 2026, commencement on 1 April 2026, four-stream wet/dry/sanitary/special-care segregation, and disjunctive bulk-generator thresholds of 20,000 square metres floor area **or** 40,000 litres/day water use **or** 100 kg/day waste. This supports the **key-level** answers to original MCQs 2 and 3 only, not a comprehensive distractor audit.
+- **MoEFCC rules register, consulted 28 October 2026:** https://moef.gov.in/rules-regulations-3 lists S.O. 388(E) dated 27 January 2026. Notification correspondence does not constitute a clause-by-clause legal audit.
+- **CPCB technology guidance, consulted 28 October 2026:** https://cpcb.nic.in/uploads/MSW/SW_treatment_Technologies.pdf identifies calorific value and moisture as technology-selection factors. Its 1,500 kcal/kg discussion references the 2016 rules, not a freshly verified 2026 threshold.
+- **Original calculations:** 20,000 × 12 = 240,000 MJ/day = 66.667 MWh thermal; assumed 20% conversion = 13.333 MWh electrical. Town example: 60,000 × 0.45 kg = 27 tonnes; 24.3/27 = 90%; 20.3/24.3 = 83.54%; 20.3/27 = 75.19%; 4.5/7 = 64.29%. All numbers are labelled hypothetical, not government observations.
+- **Still pending:** all 30 keys and 120 distractors, claim-level checking of six mains, three diagrams, original commission syllabus authentication, direct browser/accessibility QA and independent expert approval.
+
