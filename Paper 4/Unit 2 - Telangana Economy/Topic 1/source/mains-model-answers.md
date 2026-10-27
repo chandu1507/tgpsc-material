@@ -2,6 +2,10 @@
 
 ## Model answer 1. Assess the agricultural economy of Telangana under Hyderabad State with reference to land tenure and irrigation.
 
+**Evidence test.** Compare delivered irrigation, tenancy security, crop returns and village indebtedness before inferring welfare from project inauguration. Construction, potential and actual water distribution are different measurements.
+
+
+
 **Introduction and historical background.** Agriculture was the main livelihood in the Telugu-speaking districts of Hyderabad State. Semi-arid conditions made rainfall, tank storage and land rights central determinants of rural welfare. The region was not agriculturally uniform: cotton and sugarcane belts coexisted with vulnerable millet-growing drylands.
 
 **Tenure and root causes.** Jagir and diwani arrangements operated with local variation. Powerful intermediaries, insecure tenancy, debt and coercive labour practices in some areas reduced cultivators’ bargaining power. Inequality affected both distribution of surplus and incentives to invest. Women, landless workers and tribal communities faced additional constraints.
@@ -13,6 +17,10 @@
 **Conclusion.** Hyderabad Telangana’s agrarian legacy combined productive assets with deep structural inequality. Sustainable development required land rights, reliable water, accessible credit and fair markets—not irrigation construction alone.
 
 ## Model answer 2. Explain the contribution and limitations of industry and trade in the Hyderabad State economy.
+
+**Evidence test.** Separate direct jobs from supplier purchases, farm payments, transport costs and workplace safety. Incorporation dates and revival announcements cannot prove continuous profitability or broad spillovers.
+
+
 
 **Background.** Hyderabad State contained selective industrial and commercial modernisation before 1956. The Telugu-speaking region benefited from coal, sugar, transport networks and the Hyderabad urban market, although opportunities were unevenly distributed.
 
@@ -69,6 +77,10 @@
 **Conclusion.** The objective is not identical industries in every district but convergence in capabilities and real opportunities. Average prosperity becomes inclusive development only when the lowest-income households share durable gains.
 
 ## Model answer 6. Analyse Telangana’s poverty trends using multidimensional poverty evidence and explain the policy implications.
+
+**Measurement caution.** The 13.18% and 5.88% headcounts belong to NFHS-4 and NFHS-5 periods. Their difference is 7.30 percentage points, or about 55.39% relative to the initial rate. Headcount does not reveal whether all districts or deprivation intensity improved equally.
+
+
 
 **Introduction.** Poverty is broader than insufficient money. Telangana’s development assessment must consider income and consumption poverty alongside deprivation in nutrition, education, housing, sanitation and other basic capabilities.
 
