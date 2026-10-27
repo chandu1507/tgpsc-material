@@ -13,7 +13,7 @@
   "not_assessed_count": 60,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED; zero fully R1-R8 ready and zero independent approvals.",
+  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED; zero R1–R8 ready and zero independent approvals. Topic 3-2-3 synchronized 33-page PDF exists; publication QA and academic checks incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -101,7 +101,7 @@
     "3-2-2",
     "3-2-3"
   ],
-  "last_readiness_update": "27 Oct Cycle30: Topic 3-2-3 Article171 and Q13 correction published; 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED. PDF/diagram QA pending.",
+  "last_readiness_update": "27 Oct Cycle30: Topic 3-2-3 Article171 correction, revised Q13, two SVGs, 33-page synchronized CI PDF SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; downloaded post-render artifact and full page/browser QA pending. 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED, zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
