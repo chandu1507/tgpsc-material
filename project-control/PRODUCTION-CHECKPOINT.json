@@ -424,7 +424,7 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle38_primary_syllabus_verified_budget_lab_mcq_revisions_pdf_pending",
+      "production_review": "cycle38_CI_integrated_23_page_pdf_published_actual_artifact_pending",
       "notes": "Original 21-page PDF SHA256 9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4 preserved. Cycle38 R1 original Commission syllabus PASS, 12 substantial concepts, Telangana 2026-27 budget accounting reconciliation, 25 original MCQs with Q23/Q25 corrected, six mains, three existing diagrams. New CI PDF and independent academic review pending.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-4.json"
@@ -1059,6 +1059,6 @@
     "last_assessed": "4-1-4",
     "evidence": "project-control/academic-readiness/4-1-4-cycle38-primary-syllabus-and-budget-reconciliation-2026-10-27.json"
   },
-  "last_readiness_update": "27 Oct Cycle38: Topic 4-1-4 R1 original Commission PDF p31 PASS; budget reconciliation and original MCQ23/Q25 corrections; CI PDF/actual artifact QA pending.",
+  "last_readiness_update": "27 Oct Cycle38: Topic 4-1-4 original syllabus R1 PASS; CI renderer 40507395889 SUCCESS, 23-page integrated PDF, 3 images and 16 manifest hashes; actual post-render artifact QA pending; R8 IN_PROGRESS.",
   "last_readiness_reconciliation": "75 original topics; 7 IN_PROGRESS, 19 ASSESSED_REBUILD_REQUIRED, 49 NOT_ASSESSED; 10 R1 PASS; zero fully ready and zero independent approvals."
 }
