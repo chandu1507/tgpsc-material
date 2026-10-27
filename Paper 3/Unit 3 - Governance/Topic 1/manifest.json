@@ -26,8 +26,8 @@
   "diagrams": 2,
   "files": {
     "README.md": {
-      "bytes": 519,
-      "sha256": "40f4717ea3315bf81249a8a67e2687eb5e4f34e035b84b8ef4125083fbf6ad60"
+      "bytes": 590,
+      "sha256": "537d389982d4dc77de5cc9b39d93182215bddfe67ce5a00774fca27aa81affc8"
     },
     "complete-notes.pdf": {
       "bytes": 305872,
@@ -42,8 +42,8 @@
       "sha256": "0ee6eb6e1065e7b898616c2ed5a3ddf086cf29835a237eb7844daf0cb6b4d41d"
     },
     "source/build_topic.py": {
-      "bytes": 16960,
-      "sha256": "0b79f67ea40ff4e5abcb2f2b704e150708fa275576c3a595267824621168e54d"
+      "bytes": 17003,
+      "sha256": "34917847bd352fbbc4bd606300cbed5364e0b2f1e42a62cf807f44f5fc858050"
     },
     "source/complete-notes.md": {
       "bytes": 107840,
@@ -55,7 +55,7 @@
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
       "bytes": 308562,
-      "sha256": "27f322e528cc49f252c654a8aed988f17a8e99bdb9f58b7874c607bdc26b72ec"
+      "sha256": "8c9ca58d66464344950b2b4f0f3d5bab13966570554b4337326f6919489f2e81"
     },
     "source/mains-model-answers.md": {
       "bytes": 12616,
