@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-27",
+  "cycle": 42,
+  "topic_id": "4-2-3",
+  "title": "Telangana land reforms: intermediary abolition, tenancy, ceilings, Scheduled Areas",
+  "baseline_main_sha": "046caee23c10b0ad20b06491c0cefbab7a4a7b0b",
+  "original_pdf": {
+    "pages": 28,
+    "sha256": "c612d9c19a2a9059c3a6feac776a772269016a7b01a22c5bd64e0f6c4bf9e581",
+    "preserved": true
+  },
+  "original_assessment": {
+    "concepts": 16,
+    "concepts_under_300": 0,
+    "practice_mcqs": 30,
+    "original_mcq_distribution": {
+      "A": 9,
+      "B": 15,
+      "C": 5,
+      "D": 1
+    },
+    "mains": 6,
+    "body_only_word_counts": [
+      212,
+      203,
+      216,
+      207,
+      210,
+      206
+    ],
+    "diagrams": 3,
+    "official_pyqs_verified": 0
+  },
+  "cycle42_author_repair": {
+    "concepts": 17,
+    "concept_word_counts": [
+      527,
+      493,
+      512,
+      464,
+      415,
+      425,
+      461,
+      415,
+      449,
+      423,
+      442,
+      423,
+      420,
+      436,
+      422,
+      473,
+      530
+    ],
+    "concepts_under_300": 0,
+    "new_concept": "Hypothetical 1000->800->640->500->350->300 hectare land-reform outcome funnel; 30% productive retention of initially identified land; NOT actual Telangana statistics",
+    "mcqs_revised": [
+      4,
+      7,
+      9,
+      14,
+      23,
+      25,
+      26,
+      29
+    ],
+    "mcq_count": 30,
+    "mcq_distribution": {
+      "A": 4,
+      "B": 13,
+      "C": 7,
+      "D": 6
+    },
+    "mains_body_only_word_counts": [
+      212,
+      203,
+      216,
+      207,
+      210,
+      206
+    ],
+    "local_integrated_pdf_pages": 31,
+    "local_integrated_pdf_sha256": "5acee15ff9cfd0e39e9ed8b5668a607aac456c2fa9ef3d023b9e8fac9aead155",
+    "local_pdf_images": 3,
+    "local_pdf_blank_pages": 0,
+    "local_pdf_text_boundary_violations": 0,
+    "local_html_broken_local_links": 0,
+    "local_html_broken_dom_fragments": 0,
+    "local_contact_sheet_inspected": true
+  },
+  "bounded_external_sources": [
+    {
+      "url": "https://bhubharati.telangana.gov.in/BhubharatiDocuments",
+      "observation": "Official government repository directly lists Telangana Act 1/2025 and GO Ms 36 and 39 dated 14 Apr 2025",
+      "supports": "MCQ25 and bounded record-of-rights distinction in MCQ23"
+    },
+    {
+      "url": "https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf",
+      "observation": "Official commission-hosted 2022 scheme web-indexed with matching topic wording; direct PDF fetch failed 502; original Notification 02/2024 not authenticated",
+      "supports": "R1 partial correspondence only"
+    },
+    {
+      "url": "https://indiankanoon.org/doc/171898096/",
+      "observation": "Secondary transcription of Section 5(1) confirms standard-holding land classification; India Code PDF fetch timed out",
+      "supports": "MCQ9 limited corroboration, not primary law certification"
+    }
+  ],
+  "readiness": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "caveats": [
+    "Not a full independent 30-key/120-distractor check",
+    "No independent claim-level review of all six mains answers",
+    "Original diagrams not independently accuracy-certified",
+    "Original 2024 notification not directly authenticated",
+    "Full current 1973 Act and historic Jagir regulation not independently reviewed",
+    "No real district outcome totals used",
+    "Remote GitHub CI integrated PDF and actual downloaded post-edit artifact QA still pending",
+    "Direct browser usability and accessibility not certified"
+  ],
+  "independent_academic_approvals": 0,
+  "counts_after_status_update": {
+    "total": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 23,
+    "not_assessed": 45,
+    "fully_ready": 0,
+    "approved": 0
+  }
+}
