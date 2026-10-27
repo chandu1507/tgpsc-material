@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-27",
+  "cycle": 34,
+  "topic_id": "3-3-5",
+  "inventory_source": "actual Cycle33 GitHub publication artifact and fresh GitHub main",
+  "original_pdf_pages": 31,
+  "original_pdf_sha256": "e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825",
+  "concepts": 18,
+  "concept_word_range": [
+    399,
+    575
+  ],
+  "concepts_under300": 0,
+  "original_practice_mcqs": 25,
+  "revised_existing_mcq_numbers": [
+    3,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    19,
+    21,
+    23,
+    24,
+    25
+  ],
+  "mcq_keys_after_revision": {
+    "A": 10,
+    "B": 5,
+    "C": 5,
+    "D": 5
+  },
+  "structural_four_options_and_key_matches": "25/25 local PASS",
+  "mains_body_only_words": [
+    204,
+    220,
+    227,
+    212,
+    222,
+    237
+  ],
+  "original_svg_diagrams": 3,
+  "local_candidate_pdf_pages": 36,
+  "local_candidate_pdf_sha256": "733f1db01feb7e38b5c3c5ab9fcf50ed17a3a174c25ba9fbad95ffe7bcb9b166",
+  "local_candidate_pdf_embedded_images": 3,
+  "sources": [
+    "https://www.darpg.gov.in/sites/default/files/Sevottam_Guidelines_Sept_2011.pdf",
+    "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_13_14_00009_201314_1517807327213&filename=a2013-14.pdf&type=actfile",
+    "https://www.indiacode.nic.in/bitstream/123456789/12894/1/prevention_of_corruption_act_1988_49_of_1988.pdf",
+    "https://www.indiacode.nic.in/bitstream/123456789/2067/1/A2003-45.pdf",
+    "https://www.indiacode.nic.in/bitstream/123456789/2258/1/A1946-25.pdf",
+    "https://rti.dopt.gov.in/",
+    "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+    "https://darpg.gov.in/sites/default/files/ccadmin12.pdf"
+  ],
+  "limitations": [
+    "No independent expert review",
+    "No complete item-level review of all 25 keys and 100 distractors",
+    "Six mains not claim-level independently audited",
+    "Official TGPSC syllabus primary PDF not directly retrieved",
+    "Direct public browser/accessibility not certified",
+    "Local PDF not proof of remote GitHub Actions artifact"
+  ],
+  "fully_R1_R8_ready": 0,
+  "independent_approvals": 0,
+  "status": "ASSESSED_REBUILD_REQUIRED"
+}
