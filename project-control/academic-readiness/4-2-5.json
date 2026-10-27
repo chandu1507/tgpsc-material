@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle43 direct source assessment: 16 original concepts 314–455 words, 30 practice MCQs A9/B15/C6/D0, six 200+ body-word mains, original 25-page PDF preserved. Added one source-qualified worked laboratory and revised five MCQs; now 17 concepts, 30 MCQs A9/B12/C4/D5. Limited author-side checks using Udyam, two NITI reports and official state policy; NOT a full independent audit. Original 2024 syllabus, all 30 keys/120 distractors, six mains claims, diagrams and browser accessibility pending.",
-  "next_action": "Guarded nonforce merge and CI render of one integrated editable master/HTML/PDF; download actual artifact and verify CRC, original 75 PDFs, links, hashes. Complete 30-key/120-alternative independent review, mains and diagram claims, 2024 official syllabus and accessibility. Zero R9 approvals.",
+  "evidence": "Cycle43 direct source assessment: 16 original concepts 314–455 words, 30 practice MCQs A9/B15/C6/D0, six 200+ body-word mains, original 25-page PDF preserved. Added one source-qualified worked laboratory and revised five MCQs; now 17 concepts, 30 MCQs A9/B12/C4/D5. Limited author-side checks using Udyam, two NITI reports and official state policy; NOT a full independent audit. Original 2024 syllabus, all 30 keys/120 distractors, six mains claims, diagrams and browser accessibility pending. Final actual post-fix downloaded GitHub artifact 12756469781: 1636 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 425 local links/1137 fragments zero broken, 16 manifest hashes PASS, CRC PASS, 29-page PDF with 3 diagrams; browser/accessibility NOT certified. R8 IN_PROGRESS, no academic approval.",
+  "next_action": "Complete independent 30-key/120-distractor review, six mains claims, three diagrams, original 2024 syllabus and direct browser/accessibility; R1-R8 not PASS, R9 zero.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
@@ -95,6 +95,29 @@
     ],
     "independent_approvals": 0,
     "ready_R1_R8": false,
-    "remote_artifact_verified": false
+    "remote_artifact_verified": true,
+    "remote_ci_render": {
+      "run_id": 40556663691,
+      "conclusion": "success",
+      "integrated_pdf_pages": 29,
+      "integrated_pdf_sha256": "8f814b9b8bba63941806486a0848b595b8bc057091cf93398763d4d1e26e1798"
+    },
+    "actual_artifact": {
+      "run_id": 40556821748,
+      "artifact_id": 12756469781,
+      "sha256": "750bfea077d82d46106b8fc2a3b7f444c0b9b1f83d58a4192998a3eb30ab353e",
+      "files": 1636,
+      "original_pdfs": 75,
+      "changed_original_pdfs": 0,
+      "readiness_json": 75,
+      "html_pages": 78,
+      "local_links": 425,
+      "broken_links": 0,
+      "fragments": 1137,
+      "broken_fragments": 0,
+      "spa_routes_excluded": 64,
+      "manifest_hashes_pass": 16,
+      "outer_inner_crc": "PASS"
+    }
   }
 }
