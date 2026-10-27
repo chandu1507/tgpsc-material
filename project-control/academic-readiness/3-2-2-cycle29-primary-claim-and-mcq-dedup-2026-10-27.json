@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-2-2",
+  "title": "Fundamental Rights, Directive Principles, Rule of Law and Fundamental Duties",
+  "original_topic_count": 75,
+  "academic_approval": false,
+  "original_pdf_sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d",
+  "chapter_inventory": {
+    "detailed_chapters": 7,
+    "approximate_word_counts": [
+      1297,
+      1278,
+      1168,
+      1180,
+      985,
+      1268,
+      1142
+    ],
+    "original_practice_mcqs": 25,
+    "structured_mains": 6,
+    "new_original_svg_diagrams": 2
+  },
+  "changes": [
+    "Q16 changed from Article 23 private forced labour to Article 24 hazardous employment of a 12-year-old, removing substantial overlap with Q24",
+    "Q21 revised to distinguish 30 April 2025 Supreme Court digital-KYC holding from hypothetical welfare-portal application",
+    "Both corrections synchronized in source original-mcqs.md, canonical complete-notes.md and offline index.html",
+    "Two original schematic SVGs added and linked from canonical notes and offline HTML"
+  ],
+  "checks": [
+    {
+      "question": 6,
+      "proposed_key": "B",
+      "claim": "Article 37: DPSPs not court-enforceable, fundamental in governance",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "verification": "limited indexed primary text",
+      "independent_key_certification": false,
+      "distractor_set_certified": false
+    },
+    {
+      "question": 16,
+      "proposed_key": "A",
+      "claim": "Article 24: employment below age 14 in factory, mine or hazardous employment prohibited; distinguishes Article 23",
+      "source": "https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf",
+      "verification": "limited indexed primary text; rewritten to remove Q24 duplication",
+      "independent_key_certification": false,
+      "distractor_set_certified": false
+    },
+    {
+      "question": 18,
+      "proposed_key": "A",
+      "claim": "Article 15(2): specified discriminatory access to shops, restaurants, hotels and public facilities",
+      "source": "https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf",
+      "verification": "limited indexed primary text",
+      "independent_key_certification": false,
+      "distractor_set_certified": false
+    },
+    {
+      "question": 20,
+      "proposed_key": "A",
+      "claim": "Article 16(4): enabling State-service reservation for inadequately represented backward classes",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "verification": "limited constitutional correspondence; current case law not fully audited",
+      "independent_key_certification": false,
+      "distractor_set_certified": false
+    },
+    {
+      "question": 21,
+      "proposed_key": "B",
+      "claim": "2025 INSC 599 concerns accessible digital KYC; welfare-portal example is extrapolation, not exact case holding",
+      "source": "https://www.dot.gov.in/static/uploads/2026/03/8ba351ae38e4305f6e53137be1caad2e.pdf",
+      "verification": "official DoT implementation letter plus indexed Supreme Court text; direct official judgment timed out",
+      "independent_key_certification": false,
+      "distractor_set_certified": false
+    },
+    {
+      "question": 24,
+      "proposed_key": "A",
+      "claim": "Article 23 prohibition of begar and forced labour applies to private exploitation",
+      "source": "https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf",
+      "verification": "limited indexed primary text",
+      "independent_key_certification": false,
+      "distractor_set_certified": false
+    },
+    {
+      "question": 25,
+      "proposed_key": "C",
+      "claim": "Article 37 nonjusticiability and Article 41 welfare policy do not alone fix an enforceable cash amount",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "verification": "limited indexed primary text",
+      "independent_key_certification": false,
+      "distractor_set_certified": false
+    }
+  ],
+  "limited_source_correspondences": 7,
+  "remaining_questions_without_even_limited_source_correspondence": 18,
+  "fully_independently_audited_question_sets": 0,
+  "official_pyqs_verified": 0,
+  "source_access": {
+    "tgpsc_notification": "HTTP 403 on direct request; existing syllabus quotation is not independently reverified this turn",
+    "constitution": "India Code/Legislative Department indexed text accessible; direct large 19MB Legislative Department PDF exceeds fetch limit",
+    "supreme_court": "official judgment PDF timed out; DoT official implementation letter and indexed judgment text support narrow case scope"
+  },
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0
+}
