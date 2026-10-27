@@ -1,8 +1,8 @@
 {
   "topic_id": "4-3-3",
   "title": "Eco systems and Bio-diversity",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,50 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle46 first direct structural and bounded primary-source assessment: 16 concepts, concepts 8 and 9 below 300 words, 30 original practice MCQs (A6/B22/C1/D1), six mains body-only 212/210/223/218/233/242 words, 3 diagrams, original 21-page PDF SHA preserved. Only MCQ23/24/25 key claims correspond directly to official Board/CBD sources; NOT full distractor verification. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals.",
+  "next_action": "Substantively expand concepts 8 and 9; full 30-key/120-option, six-mains-claim, diagram, 2024 official syllabus and browser audit; synchronize editable master/HTML/CI PDF and actual artifact QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
+  "cycle46": {
+    "assessment": "FIRST_DIRECT_ASSESSMENT",
+    "concepts": 16,
+    "concept_below_300": [
+      8,
+      9
+    ],
+    "mcqs": 30,
+    "key_distribution": {
+      "A": 6,
+      "B": 22,
+      "C": 1,
+      "D": 1
+    },
+    "mains_body_only": [
+      212,
+      210,
+      223,
+      218,
+      233,
+      242
+    ],
+    "original_pdf_pages": 21,
+    "original_pdf_sha256": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
+    "three_bounded_key_correspondences": [
+      23,
+      24,
+      25
+    ],
+    "evidence": "project-control/academic-readiness/4-3-3-cycle46-first-direct-assessment-2026-10-28.json",
+    "independent_approval": false
+  }
 }
