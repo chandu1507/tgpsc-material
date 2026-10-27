@@ -13,7 +13,7 @@
 | S07 | Invest Telangana, official state investment portal | https://invest.telangana.gov.in/why-telangana/ — state-reported 2025–26 GSDP and per-capita figures |
 | S08 | MoSPI, Periodic Labour Force Survey | https://mospi.gov.in/ — employment comparisons require PLFS rather than inference from GVA shares |
 | S09 | UN System of Environmental-Economic Accounting | https://seea.un.org/ — environmental accounts as complements to GDP |
-| S10 | Notification 02/2024 Annexure-II syllabus reproduction | https://keshav.ugenglish.in/2024/02/tspsc-group-1-notification-022024.html — exact Paper IV Unit I item 1 wording, primary official PDF not fully retrieved |
+| S10 | **TGPSC Notification No. 02/2024 Annexure-II (primary Commission PDF)** | [Official notification, printed page 31](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) — directly retrieved and exact Paper IV Unit I Topic 1 wording checked on 27 October 2026; R1 syllabus mapping only |
 | S11 | TGPSC official scheme/syllabus portal | https://websitenew.tspsc.gov.in/ and https://uat3.cgg.gov.in/website/SyllabusCMS — original commission access route |
 | S12 | MoSPI, National Accounts Statistics publications | https://mospi.gov.in/publication/national-accounts-statistics-2025 — source and method descriptions |
 | S13 | MoSPI, Q1 FY 2026–27 GDP dashboard | https://www.mospi.gov.in/themes/product/6-gross-domestic-product — Q1 real GDP growth reported 7.8%; subject to release revisions |
@@ -31,7 +31,7 @@
 ## Provenance and unresolved checks
 
 - **Official question papers:** No original TGPSC paper plus question number was authenticated for this exact topic. All 25 MCQs and six mains questions are explicitly **original practice**, not PYQs. No official answer key is claimed.
-- **Syllabus:** Exact phrase checked against a published reproduction of Annexure-II; official Notification 02/2024 PDF not fully retrievable in this session. Direct primary-text audit remains open.
+- **Syllabus:** Exact Paper IV Unit I Topic 1 phrase directly verified in the original Commission Notification 02/2024 Annexure-II (printed page 31, PDF index 30) on 27 October 2026. R1 syllabus mapping PASS only; this does not certify textbook accuracy.
 - **National data:** 5 June MoSPI provisional PDF was directly readable. New-series February document was identified through MoSPI indexing, with access restrictions on the full PDF. Subsequent revisions are acknowledged rather than silently merged.
 - **Telangana data:** Official report PDF was identified but exceeded the browser fetch limit; the state portal and investment portal were accessible. State figures are labelled estimates; original PDF numerical table should be checked before academic approval.
 - **Quality:** Arithmetic examples, formulas, counts and cited data vintages were internally checked. A specialist still needs to audit statistical nuance, syllabus completeness and answer suitability.
