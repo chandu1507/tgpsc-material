@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-28",
+  "cycle": 46,
+  "topic_id": "4-3-3",
+  "title": "Ecosystems and Biodiversity",
+  "source_repo": "chandu1507/tgpsc-material",
+  "source_path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 3",
+  "source_basis": "Direct structural inspection of source/core.md, source/original-mcqs.md, source/mains-model-answers.md and original PDF extracted from Cycle45 independently downloaded publication ZIP; source paths also confirmed on fresh main.",
+  "original_pdf_pages": 21,
+  "original_pdf_sha256": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
+  "original_preserved": true,
+  "concepts": 16,
+  "concept_word_counts": [
+    392,
+    345,
+    350,
+    338,
+    337,
+    329,
+    307,
+    295,
+    277,
+    308,
+    301,
+    301,
+    314,
+    342,
+    313,
+    342
+  ],
+  "concepts_under_300": [
+    8,
+    9
+  ],
+  "original_practice_mcqs": 30,
+  "options": 120,
+  "key_distribution": {
+    "A": 6,
+    "B": 22,
+    "C": 1,
+    "D": 1
+  },
+  "mains_body_only_counts": [
+    212,
+    210,
+    223,
+    218,
+    233,
+    242
+  ],
+  "original_diagram_png_count": 3,
+  "source_diagram_svg_count": 3,
+  "bounded_primary_source_correspondences": [
+    {
+      "item": "MCQ23",
+      "key": "C",
+      "claim": "Telangana Biodiversity Board constituted in 2014",
+      "status": "DIRECT_CORRESPONDENCE",
+      "source": "https://tgbiodiversity.org/",
+      "detail": "Board's own website: G.O.Ms.No.21 dated 25 October 2014; Gazette No.85 dated 5 November 2014"
+    },
+    {
+      "item": "MCQ24",
+      "key": "D",
+      "claim": "CBD has three objectives: conservation, sustainable use, equitable benefit-sharing",
+      "status": "DIRECT_CORRESPONDENCE",
+      "source": "https://www.cbd.int/convention/articles/default.shtml?a=cbd-01&lg=0",
+      "detail": "CBD Article 1; option D is outside the three objectives"
+    },
+    {
+      "item": "MCQ25",
+      "key": "A",
+      "claim": "Kunming-Montreal Target 3 concerns effective conservation of at least 30 percent by 2030",
+      "status": "DIRECT_CORRESPONDENCE",
+      "source": "https://www.cbd.int/gbf/targets/3",
+      "detail": "Official CBD Target 3 wording; not evidence of achieved coverage"
+    }
+  ],
+  "verification_scope": "Three answer-key correspondences only. This does NOT certify their full distractor sets or the other 27 keys and 108 distractors.",
+  "official_pyqs_verified": 0,
+  "official_syllabus_directly_verified": false,
+  "R1": "IN_PROGRESS",
+  "R2": "IN_PROGRESS",
+  "R3": "IN_PROGRESS",
+  "R4": "IN_PROGRESS",
+  "R5": "IN_PROGRESS",
+  "R6": "IN_PROGRESS",
+  "R7": "BLOCKED",
+  "R8": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "full_mains_claim_review": false,
+  "diagram_accuracy_certified": false,
+  "browser_accessibility_certified": false,
+  "integrated_pdf_published": false,
+  "independent_academic_approvals": 0,
+  "next_actions": [
+    "Expand concepts 8 and 9 with nonrepetitive worked explanations",
+    "Independently audit all 30 original practice MCQs and 120 options",
+    "Claim-check six mains answers and three diagrams",
+    "Authenticate original Commission 2024 syllabus directly",
+    "Publish synchronized editable master, HTML and deterministic CI PDF; download actual artifact and verify CRC/SHA/75 originals"
+  ]
+}
