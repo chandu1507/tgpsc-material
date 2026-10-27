@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-27",
+  "topic": "4-1-1",
+  "github_actions": {
+    "render_run": 40484344614,
+    "render_conclusion": "success",
+    "packaging_run": 40484475861,
+    "artifact_id": 12724143216,
+    "artifact_digest": "sha256:9c957994c9067416f8a1c862ca4378784e6fee97e31320226ae906f84108d57b"
+  },
+  "actual_downloaded_zip": {
+    "sha256": "9c957994c9067416f8a1c862ca4378784e6fee97e31320226ae906f84108d57b",
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "files": 1589,
+    "original_topic_pdfs": 75,
+    "original_pdf_sha_unchanged_vs_cycle34": "75/75",
+    "readiness_json": 75,
+    "html_pages": 78,
+    "local_file_links_checked": 416,
+    "broken_local_file_links": 0,
+    "dom_fragment_links_checked": 659,
+    "broken_dom_fragments": 0,
+    "spa_hash_routes_excluded": 64
+  },
+  "topic_integrated_pdf": {
+    "pages": 25,
+    "sha256": "0eac4a98fc391a10a567f003a27ed8df41edcab28f4e3262dd596a3745de4ecf",
+    "embedded_diagram_images": 3,
+    "blank_pages": 0,
+    "text_boundary_violations": 0,
+    "all_25_original_mcqs_present": true,
+    "all_six_mains_present": true,
+    "source_case_present": true,
+    "manifest_hashes": "16/16 PASS"
+  },
+  "original_pdf": {
+    "pages": 26,
+    "sha256": "e0a70eca79be03d11a2d92bfd30c544050d9110b11625c718eb63e7366adec34",
+    "preserved": true
+  },
+  "readiness": {
+    "in_progress": 7,
+    "assessed_rebuild_required": 16,
+    "not_assessed": 52,
+    "fully_r1_to_r8_ready": 0,
+    "independent_approvals": 0,
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "limitations": [
+    "No independent verification of all 25 MCQ keys and 100 distractors",
+    "No complete claim-level review of six mains answers",
+    "Official TGPSC syllabus original PDF not fully retrieved",
+    "No complete browser keyboard/screen-reader accessibility certification",
+    "This is publication integrity, not academic approval"
+  ],
+  "library_upload": "/Mounika/TGPSC_ACADEMIC_READINESS_P4_U1_T1_20261027/TGPSC_CYCLE35_VERIFIED_GITHUB_75_TOPICS.zip"
+}
