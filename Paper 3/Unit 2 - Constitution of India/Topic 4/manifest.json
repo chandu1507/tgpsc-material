@@ -168,5 +168,26 @@
   "academic_status": "NOT_APPROVED",
   "publication_state": "synchronized PDF from canonical editable Markdown; independent academic audit pending",
   "integrated_pdf_sha256": "2fb77ecdf0ec2eeaed727916be2e63e146646799d81f9830d255a65f0dd4545e",
-  "integrated_pdf_pages": 34
+  "integrated_pdf_pages": 34,
+  "file_sha256": {
+    "README.md": "3353c4decadb696367b06e94856fcbf0245aebee42baaa02625b6b2d71fbb7e8",
+    "complete-notes.pdf": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f",
+    "index.html": "a9937c984da63fdd030597a065364a295218addd8ddec274d7472ca89c8c1318",
+    "source/complete-notes.md": "03440ab3ef5f110172907d6744ced5ade840ccf32fcce1d1a712613d55bea522",
+    "source/detailed-notes.md": "858f81fa543bc6513fc3656c0e323ab38b497e35588193fa27c0baa124ca2852",
+    "source/independence-accountability.svg": "610e4ce365469bf9c08f354c2fe9074421697602249c377e232613069929317d",
+    "source/integrated-student-edition-2026-10-27.pdf": "2fb77ecdf0ec2eeaed727916be2e63e146646799d81f9830d255a65f0dd4545e",
+    "source/judicial-hierarchy.svg": "11d5bc6f2926d8a65effeae36b087ca32aab0239ceff54d2afa90955526c100c",
+    "source/mains-model-answers.md": "3898af3cd65ec6a349e7c361add5afa379f545c72189c8ccdac82cd5dc50c3ee",
+    "source/original-mcqs.md": "becb189d23f8c4ee7aee736401818dcd64340c1fceabb82729449c75ca082e43",
+    "source/quick-revision.md": "8dbf0eb5cee49ac569fa2cdd993ae980a8c0c2cec9e87573091582d1e6c98149",
+    "source/sources-and-audit.md": "ba0bd44d111723b7f02c1716a30b3a0abebf6f43fac39c04998e9f9d8a1167a0",
+    "source/syllabus-and-summary.md": "fc1b4d7b043929fd1f059f0848695ec76c7bee37e73353bf2a963694ae51754e",
+    "source/visual-learning.md": "ddb8b6af10041249b5a111b701acc4f5a5f9188796beb6d86b86969e25a9992e",
+    "visuals/independence-accountability.png": "6392418ab3e5084d61cd0d9142da89e48df102e372ef71116b021beefb455fb7",
+    "visuals/independence-accountability.svg": "610e4ce365469bf9c08f354c2fe9074421697602249c377e232613069929317d",
+    "visuals/judicial-hierarchy.png": "82e476c780aed678fd9157d3b21aa2c2c3e437ffde03f4cdf5269b626fbfd0c1",
+    "visuals/judicial-hierarchy.svg": "11d5bc6f2926d8a65effeae36b087ca32aab0239ceff54d2afa90955526c100c"
+  },
+  "manifest_hash_method": "SHA256 of exact file bytes; integrated PDF from GitHub Actions; independently checked in downloaded artifact 12712828105"
 }
