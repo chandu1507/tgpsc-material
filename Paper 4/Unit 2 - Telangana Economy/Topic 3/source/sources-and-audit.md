@@ -1,6 +1,6 @@
 # Authoritative Sources, Dated Updates and Internal Audit
 
-**Audit cut-off: 24 October 2026.** The chapter cites named statutes, institutions and official portals. Source IDs appear at the ends of detailed sections for traceability. Sources are not page-number references. URLs are included to permit rechecking; access to a source does not imply independent legal or academic approval.
+**Audit cut-off: 27 October 2026 (Cycle42 bounded additions; earlier historical claims not fully reverified).** The chapter cites named statutes, institutions and official portals. Source IDs appear at the ends of detailed sections for traceability. Sources are not page-number references. URLs are included to permit rechecking; access to a source does not imply independent legal or academic approval.
 
 | ID | Authority and document | Primary link | Claim checked and qualification |
 |---|---|---|---|
@@ -25,6 +25,10 @@
 | S19 | Telangana Revenue Department, Bhu Bharati Rules, G.O.Ms.No.39, 14 April 2025 | https://bhubharati.telangana.gov.in/assets/images/userManuals/G_O_Ms_no_39_Dated_14_04_2025.pdf | Primary dated rules for records, mutation, correction, appeals. |
 | S20 | India Code, Telangana land-reform and assigned-land statutes | https://www.indiacode.nic.in/bitstream/123456789/8693/1/act_1_of_1973.pdf | Legal mechanisms and implementation stages; no unsourced redistribution totals quoted. |
 
+| S21 | Commission-hosted Group-I Scheme and Syllabus PDF, 3 June 2022 URL (web-indexed correspondence only) | https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf | Search-indexed wording matches this land-reform line, but direct PDF fetch returned 502 and the original 2024 notification was not retrieved: **R1 remains IN_PROGRESS**. |
+| S22 | Telangana Bhu Bharati official document repository, checked 27 October 2026 | https://bhubharati.telangana.gov.in/BhubharatiDocuments | Direct HTML confirms Act No.1 of 2025 dated 4 January and separate G.O.Ms.No.36 and G.O.Ms.No.39 dated 14 April 2025. |
+| S23 | Section 5(1) of Telangana Land Reforms (Ceiling on Agricultural Holdings) Act, 1973, secondary legal transcription | https://indiankanoon.org/doc/171898096/ | Statutory land-class/standard-holding principle corroborated; direct India Code PDF timed out on 27 October 2026, so amended bare-Act verification remains pending. |
+
 ## Syllabus provenance
 
 **Commission document to authenticate:** TGPSC Group-I Services Notification 02/2024, Annexure-II, issued 19 February 2024. The exact topic wording was cross-checked against published reproductions at https://prepshark.in/tgpsc/group-1/syllabus and https://keshav.ugenglish.in/2024/02/tspsc-group-1-notification-022024.html. Neither reproduction is a substitute for direct inspection of the original commission-hosted PDF; that remains an academic audit gap.
@@ -43,3 +47,7 @@
 **Still pending independent academic audit:** Direct original commission syllabus PDF; complete historical Jagir Regulation and current case-law treatment; section-by-section currency of amended tenancy/ceiling/tribal regulations; district-wise official Telangana redistribution/possession data; primary Agricultural Census ownership-versus-operation comparisons; legal expert review of all 30 MCQ keys and six mains models. These gaps prevent academic approval.
 
 **Question provenance:** Thirty MCQs and six mains questions are original practice. **Zero official PYQs are verified** because no original TGPSC question paper with question number was authenticated for this topic. Do not retrofit invented PYQ years.
+
+## Cycle42 bounded objective corrections (27 October 2026)
+
+Eight existing original practice MCQs (Q4, Q7, Q9, Q14, Q23, Q25, Q26 and Q29) were rewritten to replace obviously unrelated alternatives with competing land-law mechanisms and improve assessment discrimination. **This is not a completed independent 30-key/120-distractor audit.** Q23 and Q25 have direct official repository support for the 2025 Act and 2025 Rules; Q9 is supported by a secondary transcription of Section 5 while direct India Code retrieval failed; Q4/Q7/Q14/Q26 depend on statutory and constitutional text listed in the register, not all freshly downloaded. Q29 is an analytical inference, not a reported Telangana statistic. The new 17th concept is a fully labelled hypothetical measurement laboratory. No real district surplus, land distribution, beneficiary or retention totals were invented. The original 28-page PDF remains preserved; the integrated edition is a separate derivative and must be independently checked after CI rendering.

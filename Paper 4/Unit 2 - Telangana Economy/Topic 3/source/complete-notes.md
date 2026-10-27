@@ -11,16 +11,16 @@
 
 | Official examinable component | Detailed sections | Core analytical distinction |
 |---|---|---|
-| Land reform concept and purpose | 1–3, 15–16 | Institutional abolition vs actual land distribution |
+| Land reform concept and purpose | 1–3, 15–17 | Institutional abolition vs actual land distribution |
 | First generation, 1947–1970 | 3–8 | Hyderabad legal sequence; national comparisons |
-| Second generation, 1970 onward | 9–10, 13–16 | Ceiling, vesting, assignment and retention |
+| Second generation, 1970 onward | 9–10, 13–17 | Ceiling, vesting, assignment and retention |
 | Zamindari abolition | 3, 5 | National archetype vs Hyderabad's own tenure forms |
 | Jagirdari abolition | 2, 4–5 | 1358 Fasli regulation, revenue vesting |
 | Inamdari abolition | 2, 6 | 1955 Act and occupancy rights |
-| Tenancy reforms | 7, 13, 16 | 1950 Act, protected tenants, Section 38-E |
-| Land ceiling | 9, 15–16 | 1973 Act, standard holdings, tribunal and redistribution |
-| Scheduled Area land alienation | 11–12, 16 | 1959/1963/1970 regulations, PESA, FRA distinctions |
-| Impact of land reforms | 13–16 | Legal, social, economic and gender outcomes |
+| Tenancy reforms | 7, 13, 16–17 | 1950 Act, protected tenants, Section 38-E |
+| Land ceiling | 9, 15–17 | 1973 Act, standard holdings, tribunal and redistribution |
+| Scheduled Area land alienation | 11–12, 16–17 | 1959/1963/1970 regulations, PESA, FRA distinctions |
+| Impact of land reforms | 13–17 | Legal, social, economic and gender outcomes |
 
 ## Topic summary
 
@@ -28,10 +28,7 @@ Land reforms changed agrarian relations by abolishing privileged revenue interme
 
 ## How to study
 
-Read the following standalone quick revision first, then detailed sections 1–16, followed by the visual tables, 30 original MCQs and six original mains model answers. All PYQ provenance is explicitly unverified unless the original question paper and number are available.
-
-
----
+Read the following standalone quick revision first, then detailed sections 1–17, followed by the visual tables, 30 original MCQs and six original mains model answers. All PYQ provenance is explicitly unverified unless the original question paper and number are available.
 
 # Standalone Quick Revision — Land Reforms in Telangana
 
@@ -97,9 +94,6 @@ Read the following standalone quick revision first, then detailed sections 1–1
 4. What is '1/70'? **The 1970 strengthening of Scheduled Area transfer protection.**
 5. What started at Pochampally in 1951? **Bhoodan movement.**
 6. What changed in April 2025? **Bhu Bharati record-of-rights framework and rules.**
-
-
----
 
 # Detailed Notes — Land Reforms and Agrarian Relations in Telangana
 
@@ -297,26 +291,44 @@ The current challenge is to integrate **redistribution, tenure security, tribal 
 
 **Answer-writing discipline:** Begin with a one-sentence definition and a precise chronological anchor. Separate the first and second generations. Name the Hyderabad jagir, inam and tenancy statutes; explain the 1973 ceiling law and 1959/1963/1970 tribal sequence; assess beneficiaries and excluded groups; close with a practical agenda of survey, possession, legal aid, women's titles, irrigation and public accountability. Do not confuse reform *intent*, statute *enactment*, administrative *implementation* and observed *outcome*. This four-part distinction is the strongest protection against simplistic claims. [S03] [S06] [S11] [S14] [S19]
 
+## 17. Quantitative evaluation laboratory: when announced surplus becomes secure cultivation
 
----
+**Purpose and provenance.** The following is a completely hypothetical district exercise, not a Telangana government statistic or a claim about any real beneficiary. Its purpose is to teach how to evaluate land-reform outcomes without confusing an administrative order with a change in livelihood. The sequence is consistent with the distinct declaration, surrender, vesting, possession and disposal stages discussed under the 1973 ceiling framework [S11]; it is not a substitute for a tribunal's case-specific application of that Act.
+
+**Illustrative administrative funnel.** Suppose an annual district report initially identifies **1,000 hectares of potentially surplus land**. After hearings and legally required exclusions, **800 hectares are finally vested**. Survey and enforcement then establish **640 hectares in effective government possession**. The administration **allots 500 hectares** to eligible households. A follow-up field survey finds **350 hectares actually cultivated in the next agricultural season**, and **300 hectares retained in productive use after three seasons**. The sequence is not guaranteed to be linear in real case files; some parcels may be restored, reclassified or challenged on appeal. The denominators below are deliberately held constant only for teaching.
+
+| Stage | Hypothetical hectares | Share of initial 1,000 ha | Distinct verification evidence |
+|---|---:|---:|---|
+| Initially identified | 1,000 | 100% | Preliminary case list and survey numbers |
+| Finally vested | 800 | 80% | Final statutory orders and appeal status |
+| In government possession | 640 | 64% | Possession panchanamas and demarcation |
+| Allotted to beneficiaries | 500 | 50% | Valid allotment orders, parcel maps, beneficiary register |
+| Cultivated next season | 350 | 35% | Field verification, crop records and beneficiary interviews |
+| Retained in productive use after three seasons | 300 | **30%** | Longitudinal verification and lawful title/possession review |
+
+**Compute and interpret, rather than merely quote.** The possession-to-vesting conversion is **640 ÷ 800 = 80%**; allotment-to-possession is **500 ÷ 640 = 78.125%**; first-season cultivation-to-allotment is **350 ÷ 500 = 70%**; three-season productive retention-to-initial identification is **300 ÷ 1,000 = 30%**. A report that celebrates '800 hectares vested' while ignoring the 300-hectare retained-use outcome may overstate the immediate livelihood effect. Conversely, 300 hectares retained does not by itself measure yield, household income, legal security or distributional equity.
+
+**Add a rights-and-equity audit.** For each parcel, independently check whether it lies in a notified Scheduled Area, was formerly inam land, carries a protected-tenancy claim, or is government-assigned land subject to transfer restrictions. A mutation entry alone cannot adjudicate all such disputes. Record sex-disaggregated beneficiary names and whether a woman is a sole or joint rights-holder; distinguish *recorded pattadar*, *actual cultivator*, *tenant* and *landless worker*. Do not convert hectares into beneficiary counts or assume one household received one hectare. Report irrigation access, soil suitability, credit, legal aid, grievances and appeal reversals alongside hectares.
+
+**Mains-answer application.** Begin with the statutory objective, show the six-stage funnel, explain the largest conversion loss, and recommend field demarcation, reasoned orders, secure beneficiary possession and post-allotment support. The administrative objective is not merely a larger number of digital entries: it is defensible rights and sustained use. Where the original case files or official district tables are inaccessible, label the gap **unverified** rather than inventing Telangana redistribution totals. This laboratory is suitable for a diagram, a numerical MCQ and a short evidence-based conclusion, but its illustrative percentages must never be presented as real historical outcomes.
 
 # Visual Learning and Comparison Tables
 
 ## Figure 1 — Legal chronology of Telangana land reform
 
-![Timeline of Telangana land reform from jagir abolition to Bhu Bharati](../visuals/land-reform-timeline.png)
+![Timeline of Telangana land reform from jagir abolition to Bhu Bharati](visuals/land-reform-timeline.png)
 
 The chronology is **not** a claim that every legal process began or ended on one day. It helps separate early intermediary and tenancy reforms from later ceiling, tribal-protection and record-administration measures.
 
 ## Figure 2 — Classify the land before applying a statute
 
-![Five legal layers for classification of Telangana land rights](../visuals/land-rights-layers.png)
+![Five legal layers for classification of Telangana land rights](visuals/land-rights-layers.png)
 
 The same survey number can be the subject of historical tenure, protected tenancy, ceiling, tribal and record-correction questions. These layers are related but not substitutes for each other.
 
 ## Figure 3 — Declared surplus versus productive distribution
 
-![Ceiling-surplus implementation stages](../visuals/redistribution-funnel.png)
+![Ceiling-surplus implementation stages](visuals/redistribution-funnel.png)
 
 A credible land-reform report must distinguish **identified, declared, vested, possessed, allotted and productively used** land. No stage should be counted as another.
 
@@ -340,9 +352,6 @@ A credible land-reform report must distinguish **identified, declared, vested, p
 | PESA, 1996 | Self-governance and Gram Sabha roles | Gram Sabha and state implementation | It independently grants every household private title |
 | Forest Rights Act, 2006 | Recognise eligible forest rights | Gram Sabha, SDLC, DLC | It is identical to the 1/70 transfer regulation |
 | Bhu Bharati Act, 2025 | Modernise land records and appeals | Revenue authorities and CCLA | A portal entry defeats protective statutes |
-
-
----
 
 # Original MCQs with Explanations — Not Official PYQs
 
@@ -369,12 +378,12 @@ C. Deshmukh always meant a protected tenant
 D. Jagirdar always meant a landless labourer  
 **Answer: B.** **Explanation:** The social and legal categories overlap in practice but are not interchangeable in statutory analysis.
 
-**Q4. The principal historical statute governing protected tenancy in Telangana's Hyderabad area is:**
-A. Telangana Tenancy and Agricultural Lands Act, 1950  
-B. Companies Act, 2013  
-C. Urban Land Ceiling Act, 1976 only  
-D. Indian Contract Act, 1872 alone  
-**Answer: A.** **Explanation:** The 1950 Act governs recognised tenancies and protected-tenant rights, including the Section 38-E ownership mechanism.
+**Q4. A protected tenant invokes Section 38-E while another claimant seeks an Occupancy Rights Certificate for former inam land. Which pairing is legally appropriate?**
+A. Section 38-E—1973 ceiling statute; ORC—1977 assigned-land statute  
+B. Section 38-E—Forest Rights Act, 2006; ORC—PESA, 1996  
+C. Section 38-E—Bhu Bharati Act, 2025; ORC—Jagir abolition regulation  
+D. Section 38-E—Telangana Tenancy and Agricultural Lands Act, 1950; ORC—Telangana Abolition of Inams Act, 1955  
+**Answer: D.** **Explanation:** The 1950 tenancy statute provides the protected-tenant ownership route under Section 38-E; the 1955 Inams statute addresses eligible occupancy claims in former inam lands. The mechanisms and eligibility tests must not be conflated [S05, S06].
 
 **Q5. Section 38-E is associated primarily with:**
 A. GST registration  
@@ -390,12 +399,12 @@ C. Telangana Assigned Lands Transfer Act—1949
 D. Forest Rights Act—1970  
 **Answer: A.** **Explanation:** The inam abolition statute is Act VIII of 1955; ceiling legislation dates to 1973, assigned-land transfer restrictions to 1977, and FRA to 2006.
 
-**Q7. An Occupancy Rights Certificate is most directly relevant to disputes over:**
-A. Former inam lands and qualifying occupants  
-B. Bank CRR ratios  
-C. Municipal trade licences  
-D. Goods and Services Tax invoices  
-**Answer: A.** **Explanation:** ORCs arise in the statutory framework for eligible occupancy in former inam lands; their validity must be checked.
+**Q7. Which instrument is most directly associated with registering eligible occupancy rights in former inam land, rather than resolving a tenancy or ceiling case?**
+A. A Section 38-E protected-tenant ownership certificate under the 1950 tenancy law  
+B. A surplus surrender order under the 1973 ceiling law  
+C. An Occupancy Rights Certificate under the Telangana Abolition of Inams Act, 1955  
+D. A restoration order concerning a prohibited transfer of assigned land  
+**Answer: C.** **Explanation:** An ORC relates to qualifying former inam land under the Inams Act. A protected-tenancy ownership certificate and a ceiling-surplus order arise under different statutory mechanisms [S05, S06, S11].
 
 **Q8. The Telangana Land Reforms (Ceiling on Agricultural Holdings) Act is from:**
 A. 1947  
@@ -404,12 +413,12 @@ C. 1973
 D. 2006  
 **Answer: C.** **Explanation:** The Act is Telangana Act 1 of 1973, adapted from the Andhra Pradesh legislation after state bifurcation.
 
-**Q9. Under the 1973 ceiling framework, 'standard holding' is important because:**
-A. Every family receives exactly one acre  
-B. Permissible extent depends on land class and statutory computation  
-C. Only urban flats count as holdings  
-D. It means all land is common property  
-**Answer: B.** **Explanation:** A single universal acreage ceiling is misleading; productivity and land categories enter statutory computation.
+**Q9. A family holds both double-crop wetland and dryland. Why is one uniform acreage ceiling inadequate under the 1973 framework?**
+A. Land classification affects only stamp duty, not ceilings  
+B. The recorded tenant's name alone fixes the acreage ceiling  
+C. All wetland is automatically exempt from agricultural land ceilings  
+D. Section 5 uses land classes and standard-holding extents, while Section 4 also applies family-unit rules  
+**Answer: D.** **Explanation:** The ceiling is not a universal number of acres: statutory land classification and family-unit provisions affect computation. Current amendments and exceptions require checking the applicable Act and rules [S11].
 
 **Q10. Which sequence best measures actual ceiling redistribution?**
 A. Political announcement → newspaper report  
@@ -439,12 +448,12 @@ C. Ban all private property in Telangana
 D. Replace tenancy records with voter lists  
 **Answer: B.** **Explanation:** Assignment often carries non-alienation conditions intended to prevent re-concentration and distress transfers.
 
-**Q14. The Scheduled Areas Land Transfer Regulation originated in:**
-A. 1959  
-B. 1977  
-C. 2006  
-D. 2025  
-**Answer: A.** **Explanation:** Regulation I of 1959 was extended to Telangana Scheduled Areas by Regulation II of 1963 and tightened by Regulation I of 1970.
+**Q14. Which chronology correctly distinguishes the Scheduled Areas Land Transfer Regulation and its Telangana application?**
+A. 1970 original regulation → 1963 extension → 1959 amendment  
+B. 1963 original regulation → 1970 extension → 1959 amendment  
+C. 1959 original regulation → 1970 extension → 1963 amendment  
+D. 1959 regulation → 1963 extension to Telangana Scheduled Areas → 1970 strengthening amendment  
+**Answer: D.** **Explanation:** Regulation I of 1959, Regulation II of 1963 and Regulation I of 1970 have different legal functions. The territorial notification and amended text still require case-specific verification [S14, S15].
 
 **Q15. What is the significance of Regulation I of 1970 ('1/70')?**
 A. It abolished the RBI  
@@ -502,12 +511,12 @@ C. Land lawfully received, demarcated, possessed and cultivated by beneficiaries
 D. Number of newspaper headlines  
 **Answer: C.** **Explanation:** Pledged land may be encumbered or unfit; effective distribution must be tracked through possession and use.
 
-**Q23. The Telangana Bhu Bharati (Record of Rights in Land) Act is from:**
-A. 1949  
-B. 1973  
-C. 2014  
-D. 2025  
-**Answer: D.** **Explanation:** Telangana Act 1 of 2025 established a revised record-of-rights framework; official rules were issued on 14 April 2025.
+**Q23. A farmer asks whether a corrected Bhu Bharati record automatically cancels a statutory restriction on transfer of assigned land. Which answer is most defensible?**
+A. Yes: any electronic mutation repeals older transfer restrictions  
+B. Yes: displaying a private pattadar makes every transfer lawful  
+C. Yes: the 2025 record-of-rights law replaced all tenancy, assignment and tribal-land laws  
+D. No: record maintenance and mutation do not themselves override applicable substantive restrictions on land transfer  
+**Answer: D.** **Explanation:** The Telangana Bhu Bharati Act, 2025 governs record-of-rights administration; legality of an assigned-land transfer must separately be tested under applicable substantive law [S07, S13, S19].
 
 **Q24. Which statement about digital land records is MOST defensible?**
 A. An online entry automatically overrides every court order  
@@ -516,19 +525,19 @@ C. All former jagir lands become private upon mutation
 D. Assigned land is freely transferable if shown online  
 **Answer: B.** **Explanation:** Record correction, ownership adjudication and statutory transfer restrictions are separate legal matters.
 
-**Q25. G.O.Ms.No.39 of 14 April 2025 concerns:**
-A. Telangana Bhu Bharati Record of Rights Rules  
-B. Indian bank nationalisation  
-C. Scheduled Area creation in 1950  
-D. Abolition of Parliament  
-**Answer: A.** **Explanation:** The official Telangana Revenue Department published rules for record maintenance, mutation, appeals and related processes.
+**Q25. Which document dated 14 April 2025 provides procedural rules under the Telangana Bhu Bharati (Record of Rights in Land) Act, 2025?**
+A. The Telangana Assigned Lands (Prohibition of Transfers) Act, 1977  
+B. The Telangana Land Reforms (Ceiling on Agricultural Holdings) Act, 1973  
+C. G.O.Ms.No.39, Revenue (Land Administration-I) Department  
+D. The Hyderabad (Abolition of Jagirs) Regulation, 1358 Fasli  
+**Answer: C.** **Explanation:** The official Telangana Bhu Bharati documents repository lists G.O.Ms.No.39 dated 14 April 2025 as the Rules notification, separately from the Act and G.O.Ms.No.36 [S07, S19].
 
-**Q26. Which constitutional article now protects property against deprivation without authority of law?**
-A. Article 17  
-B. Article 300A  
-C. Article 352  
-D. Article 368 only  
-**Answer: B.** **Explanation:** Property is a constitutional legal right under Article 300A, not the original fundamental right to property.
+**Q26. Executive action deprives a person of land without authority of law. Which constitutional provision directly states the safeguard against such deprivation?**
+A. Article 31A, protection of specified agrarian legislation  
+B. Article 31B, Ninth Schedule provisions  
+C. Article 39(b), a Directive Principle concerning material resources  
+D. Article 300A, deprivation of property only by authority of law  
+**Answer: D.** **Explanation:** Article 300A states the direct textual protection. Articles 31A, 31B and 39(b) have distinct constitutional roles and are not substitutes for that wording [S01].
 
 **Q27. Article 31A is especially relevant to land reform because it:**
 A. Creates a universal individual right to ten acres  
@@ -544,12 +553,12 @@ C. Land under operational control
 D. Size-class distribution of operated area  
 **Answer: B.** **Explanation:** A tenant can operate land owned by another person; operational and ownership distributions differ.
 
-**Q29. Which group is often missed if land reform is assessed only through recorded male pattadars?**
-A. Women cultivators and informal tenants  
-B. All government departments  
-C. Only commercial banks  
-D. Only urban industries  
-**Answer: A.** **Explanation:** Women's labour, oral tenancy and landless workers may be absent from formal title-based measures.
+**Q29. A land-reform evaluation counts only men recorded as pattadars. Which inference is LEAST defensible?**
+A. The count may omit women who cultivate but lack recorded title  
+B. The count may omit oral tenants without pattadar status  
+C. The count may fail to describe outcomes for landless agricultural labourers  
+D. The count accurately measures every adult woman's ownership and cultivation rights  
+**Answer: D.** **Explanation:** Pattadar-only counts cannot establish women's legal and operational rights, informal tenancy or landless-worker outcomes. Ownership, operation and labour participation need separate measures.
 
 **Q30. The strongest administrative response to a disputed Scheduled Area, former-inam parcel is to:**
 A. Register any deed presented first  
@@ -557,9 +566,6 @@ B. Classify the parcel, check notified status and historical tenure, hear affect
 C. Assume all digital records are conclusive  
 D. Ignore tribal and occupancy protections  
 **Answer: B.** **Explanation:** Multiple overlapping legal regimes require careful classification, evidence, notice, lawful remedies and appeal rather than an automatic portal-based decision.
-
-
----
 
 # Mains Answer Blueprints — Land Reforms
 
@@ -573,9 +579,6 @@ D. Ignore tribal and occupancy protections
 | M6 | Distributional impact | Gains; women, tenants, labourers; evidence quality; policy package | Confusing operational holdings with ownership holdings |
 
 Each model answer is complete in `mains-model-answers.md` and reproduced in the topic's full PDF and offline HTML.
-
-
----
 
 # Six Original Mains Questions, Answer Blueprints and Complete Model Answers
 
@@ -704,21 +707,9 @@ Assessment must distinguish declared surplus, vested land, allotted land and act
 ### Measures and conclusion
 Prioritise transparent village records, legal aid, secure tenant documentation, joint or individual women's pattas, irrigation, soil conservation and accessible producer institutions. Evaluate who retains and cultivates the land after several seasons. Reform is successful only when legal recognition becomes durable economic and social agency.
 
-
----
-
-# Official Previous-Year Questions — Provenance Status
-
-**Verified official MCQ PYQs: 0. Verified official mains PYQs: 0.**
-
-No question has been labelled as a verified official TGPSC PYQ because the original examination paper, examination year, and question number were not jointly authenticated. The original practice questions and model answers in this chapter are explicitly new and do not purport to reproduce a commission question. A future academic audit may add official questions only with a scan or official PDF, question number, and checked answer provenance.
-
-
----
-
 # Authoritative Sources, Dated Updates and Internal Audit
 
-**Audit cut-off: 24 October 2026.** The chapter cites named statutes, institutions and official portals. Source IDs appear at the ends of detailed sections for traceability. Sources are not page-number references. URLs are included to permit rechecking; access to a source does not imply independent legal or academic approval.
+**Audit cut-off: 27 October 2026 (Cycle42 bounded additions; earlier historical claims not fully reverified).** The chapter cites named statutes, institutions and official portals. Source IDs appear at the ends of detailed sections for traceability. Sources are not page-number references. URLs are included to permit rechecking; access to a source does not imply independent legal or academic approval.
 
 | ID | Authority and document | Primary link | Claim checked and qualification |
 |---|---|---|---|
@@ -743,6 +734,10 @@ No question has been labelled as a verified official TGPSC PYQ because the origi
 | S19 | Telangana Revenue Department, Bhu Bharati Rules, G.O.Ms.No.39, 14 April 2025 | https://bhubharati.telangana.gov.in/assets/images/userManuals/G_O_Ms_no_39_Dated_14_04_2025.pdf | Primary dated rules for records, mutation, correction, appeals. |
 | S20 | India Code, Telangana land-reform and assigned-land statutes | https://www.indiacode.nic.in/bitstream/123456789/8693/1/act_1_of_1973.pdf | Legal mechanisms and implementation stages; no unsourced redistribution totals quoted. |
 
+| S21 | Commission-hosted Group-I Scheme and Syllabus PDF, 3 June 2022 URL (web-indexed correspondence only) | https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf | Search-indexed wording matches this land-reform line, but direct PDF fetch returned 502 and the original 2024 notification was not retrieved: **R1 remains IN_PROGRESS**. |
+| S22 | Telangana Bhu Bharati official document repository, checked 27 October 2026 | https://bhubharati.telangana.gov.in/BhubharatiDocuments | Direct HTML confirms Act No.1 of 2025 dated 4 January and separate G.O.Ms.No.36 and G.O.Ms.No.39 dated 14 April 2025. |
+| S23 | Section 5(1) of Telangana Land Reforms (Ceiling on Agricultural Holdings) Act, 1973, secondary legal transcription | https://indiankanoon.org/doc/171898096/ | Statutory land-class/standard-holding principle corroborated; direct India Code PDF timed out on 27 October 2026, so amended bare-Act verification remains pending. |
+
 ## Syllabus provenance
 
 **Commission document to authenticate:** TGPSC Group-I Services Notification 02/2024, Annexure-II, issued 19 February 2024. The exact topic wording was cross-checked against published reproductions at https://prepshark.in/tgpsc/group-1/syllabus and https://keshav.ugenglish.in/2024/02/tspsc-group-1-notification-022024.html. Neither reproduction is a substitute for direct inspection of the original commission-hosted PDF; that remains an academic audit gap.
@@ -761,3 +756,7 @@ No question has been labelled as a verified official TGPSC PYQ because the origi
 **Still pending independent academic audit:** Direct original commission syllabus PDF; complete historical Jagir Regulation and current case-law treatment; section-by-section currency of amended tenancy/ceiling/tribal regulations; district-wise official Telangana redistribution/possession data; primary Agricultural Census ownership-versus-operation comparisons; legal expert review of all 30 MCQ keys and six mains models. These gaps prevent academic approval.
 
 **Question provenance:** Thirty MCQs and six mains questions are original practice. **Zero official PYQs are verified** because no original TGPSC question paper with question number was authenticated for this topic. Do not retrofit invented PYQ years.
+
+## Cycle42 bounded objective corrections (27 October 2026)
+
+Eight existing original practice MCQs (Q4, Q7, Q9, Q14, Q23, Q25, Q26 and Q29) were rewritten to replace obviously unrelated alternatives with competing land-law mechanisms and improve assessment discrimination. **This is not a completed independent 30-key/120-distractor audit.** Q23 and Q25 have direct official repository support for the 2025 Act and 2025 Rules; Q9 is supported by a secondary transcription of Section 5 while direct India Code retrieval failed; Q4/Q7/Q14/Q26 depend on statutory and constitutional text listed in the register, not all freshly downloaded. Q29 is an analytical inference, not a reported Telangana statistic. The new 17th concept is a fully labelled hypothetical measurement laboratory. No real district surplus, land distribution, beneficiary or retention totals were invented. The original 28-page PDF remains preserved; the integrated edition is a separate derivative and must be independently checked after CI rendering.

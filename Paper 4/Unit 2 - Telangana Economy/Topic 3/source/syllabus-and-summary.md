@@ -11,16 +11,16 @@
 
 | Official examinable component | Detailed sections | Core analytical distinction |
 |---|---|---|
-| Land reform concept and purpose | 1–3, 15–16 | Institutional abolition vs actual land distribution |
+| Land reform concept and purpose | 1–3, 15–17 | Institutional abolition vs actual land distribution |
 | First generation, 1947–1970 | 3–8 | Hyderabad legal sequence; national comparisons |
-| Second generation, 1970 onward | 9–10, 13–16 | Ceiling, vesting, assignment and retention |
+| Second generation, 1970 onward | 9–10, 13–17 | Ceiling, vesting, assignment and retention |
 | Zamindari abolition | 3, 5 | National archetype vs Hyderabad's own tenure forms |
 | Jagirdari abolition | 2, 4–5 | 1358 Fasli regulation, revenue vesting |
 | Inamdari abolition | 2, 6 | 1955 Act and occupancy rights |
-| Tenancy reforms | 7, 13, 16 | 1950 Act, protected tenants, Section 38-E |
-| Land ceiling | 9, 15–16 | 1973 Act, standard holdings, tribunal and redistribution |
-| Scheduled Area land alienation | 11–12, 16 | 1959/1963/1970 regulations, PESA, FRA distinctions |
-| Impact of land reforms | 13–16 | Legal, social, economic and gender outcomes |
+| Tenancy reforms | 7, 13, 16–17 | 1950 Act, protected tenants, Section 38-E |
+| Land ceiling | 9, 15–17 | 1973 Act, standard holdings, tribunal and redistribution |
+| Scheduled Area land alienation | 11–12, 16–17 | 1959/1963/1970 regulations, PESA, FRA distinctions |
+| Impact of land reforms | 13–17 | Legal, social, economic and gender outcomes |
 
 ## Topic summary
 
@@ -28,4 +28,4 @@ Land reforms changed agrarian relations by abolishing privileged revenue interme
 
 ## How to study
 
-Read the following standalone quick revision first, then detailed sections 1–16, followed by the visual tables, 30 original MCQs and six original mains model answers. All PYQ provenance is explicitly unverified unless the original question paper and number are available.
+Read the following standalone quick revision first, then detailed sections 1–17, followed by the visual tables, 30 original MCQs and six original mains model answers. All PYQ provenance is explicitly unverified unless the original question paper and number are available.
