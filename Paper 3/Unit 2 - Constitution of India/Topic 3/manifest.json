@@ -44,13 +44,8 @@
   "markdown_tables": 5,
   "sources": 12,
   "academic_status": "expanded draft, academic audit outstanding",
-  "publication_state": "Verified: HTML, full editable Markdown, SVG diagrams and manifest published on dedicated GitHub branch; full PDF only in ZIP and Library; main unchanged.",
+  "publication_state": "synchronized integrated PDF from canonical editable master; academic audit incomplete",
   "included_files": [
-    {
-      "path": "README.md",
-      "bytes": 1040,
-      "sha256": "48b1683d4865416083a403a547efb8193a15f5ee94c41761777276f7c7fa04a9"
-    },
     {
       "path": "complete-notes.pdf",
       "bytes": 268535,
@@ -58,18 +53,18 @@
     },
     {
       "path": "index.html",
-      "bytes": 123086,
-      "sha256": "a18b521bfaeb45ce5b168b1eaa041b268d2a70ab09eebff6c1947f670b8bdd46"
+      "bytes": 124872,
+      "sha256": "64b54776fb5e06a043c3c8ff1c625380be35432458bc98b8ce862537fc5d9d49"
     },
     {
       "path": "source/complete-notes.md",
-      "bytes": 103120,
-      "sha256": "34a1a6dc1cb6bb3dd96f91635b20659f1cf3f6ec366cb0646b06fbefd76159b4"
+      "bytes": 107743,
+      "sha256": "59bd6cf918f0ed6b4ef4145b97de7259d727444463f64d16fcd3be29686548f6"
     },
     {
       "path": "source/detailed-notes.md",
-      "bytes": 61835,
-      "sha256": "6fec0f6b7facf98f61cf9e0813a827e7c7fedd3586c64cfd8df35f36c42a3862"
+      "bytes": 63949,
+      "sha256": "8847d057fb489629772fb9713986c0c95bc747895c59675d15507f27fe04d2cc"
     },
     {
       "path": "source/mains-model-answers.md",
@@ -78,8 +73,8 @@
     },
     {
       "path": "source/original-mcqs.md",
-      "bytes": 10914,
-      "sha256": "ad25cf43015c43e6ce128dcbae59e2a2c88fb42aec654dbd0657affc9f06df3f"
+      "bytes": 11227,
+      "sha256": "baf83840aacc4a683a57e7fd9fc457ff3ebe1a9044b5c581e69764690a7a2ec2"
     },
     {
       "path": "source/quick-revision.md",
@@ -88,8 +83,8 @@
     },
     {
       "path": "source/sources-and-audit.md",
-      "bytes": 6405,
-      "sha256": "c07d9b9591a7a9634e6cef2cb8ef32e44878a333ec8e097a1787ed43772f7cbc"
+      "bytes": 7846,
+      "sha256": "ffb3b8ca4d8860aa933710ebe8495fa58631b7a827655323d42daa9de4c73922"
     },
     {
       "path": "source/syllabus-and-summary.md",
@@ -97,23 +92,26 @@
       "sha256": "a9f79a802a0e56ae6f578961f9fb1c384a6445205800393bb09ad366312d0a71"
     },
     {
-      "path": "source/visual-learning.md",
-      "bytes": 2898,
-      "sha256": "9f821bf7561296d755bcede7c1e91bed75deab5dc91d2fec0e7bc7b8414efbec"
+      "path": "source/council-floor-versus-ministry-ceiling.svg",
+      "bytes": 1090,
+      "sha256": "c762d357e899b761964f1161430b77da2ec2ebf89bebc9a07fd17c7e591440f5"
     },
     {
-      "path": "visuals/bill-classification.png",
-      "bytes": 67039,
-      "sha256": "d619a108ffe138aeb3c8e02c4397b5874ab0c33eb0516ebefcef38a968186a3d"
+      "path": "source/state-ordinary-bill-article197.svg",
+      "bytes": 1510,
+      "sha256": "cacb97e5963f5fcdd9e7e345616284cae1a125da1109d8c7a76a4cac2dff8422"
     },
     {
-      "path": "visuals/responsible-government.png",
-      "bytes": 46149,
-      "sha256": "9f7c9369c93ff0e9f77440bc5b852d23b05b766a66d3daf62c237882b6f14476"
+      "path": "source/integrated-student-edition-2026-10-27.pdf",
+      "bytes": 164986,
+      "sha256": "8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51"
     }
   ],
   "github_branch": "topic-archive/p3-u2-t3-20261023",
   "github_path": "drafts/paper3/unit2/topic3",
   "github_full_pdf_included": false,
-  "github_publication_verified": true
+  "github_publication_verified": true,
+  "status": "ASSESSED_REBUILD_REQUIRED; not academically approved",
+  "markdown_words": 14954,
+  "sources_primary_and_secondary": 12
 }
