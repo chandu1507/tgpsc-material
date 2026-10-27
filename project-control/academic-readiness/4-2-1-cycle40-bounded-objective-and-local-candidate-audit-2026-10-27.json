@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-2-1",
+  "baseline_commit": "c1d2eb90fed37213b735b5de2577b1476ba47976",
+  "scope": "First evidence-based assessment, LOCAL synchronized repair candidate; no claim of GitHub-published repair",
+  "topic_inventory": {
+    "original_pdf_count": 1,
+    "original_pdf_sha256": "5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7",
+    "concepts": 16,
+    "concepts_below_300": 0,
+    "original_practice_mcqs": 27,
+    "mcq_key_distribution": {
+      "A": 4,
+      "B": 18,
+      "C": 5,
+      "D": 0
+    },
+    "mains": 6,
+    "mains_body_only_words": [
+      193,
+      199,
+      212,
+      208,
+      229,
+      183
+    ],
+    "diagram_images": 3,
+    "official_pyqs_authenticated": 0
+  },
+  "local_candidate": {
+    "concepts": 17,
+    "concepts_below_300": 0,
+    "practice_mcqs": 27,
+    "revised_question_ids": [
+      16,
+      21,
+      24,
+      27
+    ],
+    "key_distribution": {
+      "A": 3,
+      "B": 16,
+      "C": 6,
+      "D": 2
+    },
+    "mains_body_only_words": [
+      235,
+      239,
+      212,
+      208,
+      229,
+      232
+    ],
+    "pdf_pages": 30,
+    "pdf_sha256": "94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b",
+    "original_pdf_preserved": true,
+    "embedded_diagram_occurrences": 3,
+    "pdf_blank_pages": 0,
+    "pdf_text_boundary_violations": 0,
+    "local_file_links_broken": 0,
+    "local_dom_fragments_broken": 0,
+    "local_manifest_sha256_entries": 18,
+    "github_committed": false,
+    "github_ci_rendered": false,
+    "post_edit_actual_artifact_downloaded": false
+  },
+  "bounded_primary_evidence": [
+    {
+      "source": "NITI Aayog National MPI Progress Review 2023",
+      "url": "https://www.niti.gov.in/hi/node/868",
+      "observation": "NFHS-4 2015-16 Telangana H 13.18%, A 43.29%, MPI about 0.057; NFHS-5 2019-21 H 5.88%, A 40.85%, MPI about 0.024",
+      "math": "7.30 percentage points; 55.39% relative headcount decline",
+      "coverage": "local case and Q24 only"
+    },
+    {
+      "source": "TGPSC Notification 02/2024 official PDF indexed",
+      "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+      "observation": "Full PDF retrieval HTTP 403",
+      "coverage": "R1 IN_PROGRESS, no direct official text match claimed"
+    },
+    {
+      "source": "Telangana Government Reports portal SEO 2026",
+      "url": "https://www.telangana.gov.in/reports/",
+      "observation": "Full 24.6 MB PDF blocked by size; PCI ₹4,18,931 reference-year header not directly checked",
+      "coverage": "R4/R6 incomplete"
+    }
+  ],
+  "academic_gate": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "limitations": [
+    "No remote source edits or PDF published in this assessment commit",
+    "No actual post-edit GitHub Actions artifact to verify",
+    "MCQ key distribution is diagnostic not proof of incorrect answers",
+    "Direct full PDF and browser accessibility review outstanding",
+    "No named independent expert approval"
+  ]
+}

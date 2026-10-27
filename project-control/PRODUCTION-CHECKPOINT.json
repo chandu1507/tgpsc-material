@@ -448,9 +448,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Expanded 11,623-word draft with 23-page PDF, 27 original MCQs, six mains models; original 2026 SEO full-PDF audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle40_bounded_academic_assessment_local_integrated_candidate_not_remote_published",
+      "notes": "27 Oct Cycle40: assessed existing 16 concepts (all >=300 words), 27 original practice MCQs (B18/D0 initial key skew), six mains with pre-edit body-only counts 193/199/212/208/229/183. A synchronized LOCAL ONLY 17-concept candidate includes NITI MPI worked case, Q16/Q21/Q24/Q27 revisions, mains 1/2/6 additions; 30-page PDF, editable Markdown and offline HTML local, NOT committed or GitHub Actions verified. Original 23-page PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Direct original syllabus PDF returned 403; R1 IN_PROGRESS; no independent approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-2-1.json"
     },
     {
