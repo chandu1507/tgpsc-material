@@ -1,6 +1,6 @@
 # Authoritative source register and audit
 
-**Source method:** Primary RBI, Government of India, DICGC and Telangana government materials are used for institutional and dated factual claims. The syllabus line is corroborated by public reproductions; the original Notification 02/2024 PDF was not directly authenticated in this run. Source identifiers in notes refer to the register below; page numbers are intentionally omitted. Accessed 23 October 2026 unless a publication date is stated.
+**Source method:** Primary RBI, Government of India, DICGC and Telangana government materials are used for institutional and dated factual claims. The original Commission-hosted Notification 02/2024 Annexure-II Topic 3 wording was directly checked on 27 October 2026 (S19). This R1 check is not a complete legal or factual audit. Source identifiers in notes refer to the register below; page numbers are intentionally omitted. Accessed 23 October 2026 unless a publication date is stated.
 
 | ID | Source / date | URL | Used for | Audit limitation |
 |---|---|---|---|---|
@@ -25,9 +25,16 @@
 
 ## Explicit verification and provenance gaps
 
-1. The original official Notification 02/2024 PDF was not downloaded for a line-by-line comparison in this run; this chapter's syllabus line is corroborated by two public reproductions, not independently certified against the original scan.
+1. R1 PASS: original Commission-hosted Notification 02/2024 Annexure-II Topic 3 wording directly verified on 27 October 2026 (S19); remaining academic gates are not certified.
 2. No question is described as an official PYQ because no source examination paper plus question number was validated. All 25 MCQs and six mains prompts are newly written practice material.
 3. Monetary policy rates are time-sensitive; only a clearly dated August 2026 snapshot is mentioned. The latest October MPC decision is not independently verified here.
 4. The district government page documents coordination functions but may contain older bank counts; those counts were intentionally excluded.
 5. Banking regulation and PSB counts can change. Before academic approval, a subject specialist should review the current RBI directions, law amendments, and any subsequent institution mergers.
 6. Structural validation, source triangulation and PDF visual inspection are **not independent academic approval**.
+
+| S19 | TGPSC original Notification 02/2024, Annexure-II, printed p.31, PDF index 30, lines 1726–1727; accessed 27 Oct 2026 | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | Exact Money and Banking syllabus | Only this item directly checked |
+| S20 | DICGC, A Guide to Deposit Insurance; accessed 27 Oct 2026 | https://www.dicgc.org.in/guide-to-deposit-insurance | ₹5 lakh same capacity, branches, interest, NBFC exclusions | Guidance, not full legal audit |
+
+## Cycle37 bounded author-side checks
+
+RBI S01 conventional monetary aggregate definitions and DICGC S20 insurance rules were directly checked. MCQs 11 and 25 were revised with source-linked explanations. The other 23 keys, all distractors, six mains answers and diagrams remain pending full academic review. All questions are original practice, not authenticated official PYQs.

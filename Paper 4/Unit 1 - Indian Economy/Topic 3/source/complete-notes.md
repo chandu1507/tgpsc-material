@@ -1,6 +1,6 @@
-# Paper IV · Unit I · Topic 3: Money and Banking
+# TGPSC Group I | Paper IV | Unit I | Topic 3 — Money and Banking
 
-**TGPSC Group I | Economy and Development | Complete expanded study draft | 23 October 2026**
+**Evidence-updated integrated editable student master · 27 October 2026 · NOT independently academically approved**
 
 **Academic status: NOT APPROVED.** All 25 MCQs and six mains prompts are original practice, not authenticated official PYQs.
 
@@ -10,7 +10,7 @@
 
 **TGPSC Group I | Paper IV: Economy and Development | Unit I: Indian Economy and Development | Topic 3: Money and Banking.** Draft prepared 23 October 2026. **Academic status: NOT APPROVED.**
 
-**Notification 02/2024 syllabus wording:** “Money and Banking: Money supply, Structure of Indian Banking and non-banking financial institutions; Reforms in Banking sector; Regulation of credit by RBI”. The line is corroborated by published transcriptions of Annexure-II; the original notification's complete PDF text could not be directly authenticated in this run. [S17]
+**Notification 02/2024 syllabus wording:** “Money and Banking: Money supply, Structure of Indian Banking and non-banking financial institutions; Reforms in Banking sector; Regulation of credit by RBI”. **R1 PRIMARY-SOURCE PASS (27 October 2026):** original Commission Notification 02/2024, Annexure-II, PDF index 30 / printed page 31, lines 1726–1727, directly checked. [Official Commission PDF](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) [S19]. Four syllabus components map to detailed sections 1–3, 4–8, 10–11 and 9/12–14. R1 establishes syllabus correspondence only, not R2–R8 academic accuracy.
 
 | Syllabus component | Core sections | Exam deliverable |
 |---|---|---|
@@ -72,6 +72,16 @@ A money-stock series is measured at a reporting date, not over a financial year 
 
 Telangana's high-volume urban digital economy and rural cash-dependent transactions illustrate why a state-level payment innovation cannot be treated as a national money-supply shock. If a self-help group moves savings from cash to a bank account, measured components shift. If a commercial bank creates a new loan and corresponding deposit, aggregate deposit money can expand. If a bank subsequently writes off a bad loan, its capital and income are affected; the exact monetary effect depends on the related balance-sheet and settlement transactions.
 
+### Worked monetary-aggregate laboratory: M2 and M3 are not nested
+
+**Hypothetical data, not RBI statistics.** Assume currency held by the public ₹100 crore, net bank demand deposits ₹80 crore, other RBI deposits ₹5 crore, bank time deposits ₹300 crore, post-office savings deposits ₹20 crore and all eligible post-office deposits excluding National Savings Certificates ₹50 crore. The last total already includes the ₹20 crore savings component. RBI's conventional definitions yield **M1 = 100 + 80 + 5 = ₹185 crore**, **M2 = 185 + 20 = ₹205 crore**, **M3 = 185 + 300 = ₹485 crore**, and **M4 = 485 + 50 = ₹535 crore**. These are money *stocks* at one date, not a total of payments made over a year. [S01]
+
+**Conceptual trap.** M2 adds post-office savings to M1, whereas M3 adds bank time deposits directly to M1. M3 is not M2 plus time deposits; that incorrect procedure produces ₹505 crore and wrongly includes postal savings in M3. Reserve money M0 is also different: it includes currency *in circulation* and bankers' RBI deposits, while M1 includes currency *with the public* and public demand deposits. Cash held in bank vaults is not public currency. Do not treat a commercial bank's reserve balance at RBI as a household's spendable deposit.
+
+**Transaction experiment.** Transfer ₹10 crore from demand deposits to time deposits within the banking system, keeping everything else unchanged. M1 becomes ₹175 crore and M2 ₹195 crore, while M3 stays ₹485 crore and M4 ₹535 crore: the decrease in one bank-deposit category offsets the increase in another. Withdrawing ₹10 crore in cash from a demand account similarly increases public currency while reducing demand deposits, so M1 need not change. Neither reshuffling alone proves new bank lending or monetary inflation. To assess credit creation, follow the loan asset, matching deposit liability and subsequent interbank settlement.
+
+**Verification method.** RBI also publishes revised monetary aggregates (NM series), which must not be confused with the conventional M1–M4 series. Check the reporting date, net-versus-gross interbank treatment and institutional boundary before comparing figures. UPI transaction value, outstanding shares and new-loan disbursement flows are not automatically additions to M3. The arithmetic above is reproducible from the RBI definitions but its input amounts are deliberately fictional. [S01]
+
 ## 3. How commercial banks create deposit money and why the multiplier is conditional
 
 ### The loan-deposit mechanism
@@ -119,6 +129,16 @@ The **Deposit Insurance and Credit Guarantee Corporation (DICGC)** insures eligi
 ### Service delivery and consumer protection
 
 A bank's social performance includes fair lending, accessible branches, transparent charges, complaint handling and safeguards against unauthorised electronic transactions. RBI's Integrated Ombudsman Scheme provides an escalation channel for specified regulated entities after initial complaint procedures. Banking correspondents extend basic services into villages but may face cash-management, connectivity and agent-incentive problems. For Telangana candidates, the distinction between a bank's prudential safety and the customer's ability to actually use an account is central to evaluating financial inclusion.
+
+### Deposit-insurance laboratory: ownership capacity, not branch count
+
+**Hypothetical insured-bank example.** A depositor holds ₹3.80 lakh in savings at Branch A and ₹2.10 lakh in a fixed deposit including accrued interest at Branch B of the **same insured bank**, both individually in the same right and capacity. Eligible balances total ₹5.90 lakh. DICGC covers **up to ₹5 lakh**, not ₹10 lakh because there are two accounts or branches; ₹0.90 lakh is above the insurance ceiling. Principal and interest are aggregated. The example concerns insurance coverage, not an estimate of what a bank's liquidation estate might ultimately repay. [S08, S20]
+
+**Change the bank or legal capacity, not the account number.** If the same individual holds ₹1.20 lakh at a different insured bank, that second bank's ceiling is calculated separately. Genuine joint accounts and fiduciary capacities may qualify for distinct treatment under the detailed same-right/same-capacity rules, but several individual accounts at one bank cannot multiply coverage. DICGC guidance also aggregates an individual's sole-proprietorship deposits with individual deposits in the relevant capacity. The question is who legally owns the deposit and in what capacity, not which branch issued the passbook.
+
+**Institutional boundary.** DICGC insurance applies to eligible deposits of insured banks, including qualifying commercial and cooperative banks. It does not protect an NBFC fixed deposit, a mutual-fund unit, shares or cryptocurrency. A bank may sell investment products that are not bank deposits. Telangana households comparing a bank FD with a higher-yield NBFC instrument must distinguish legal issuer, liquidity, default risk and statutory coverage rather than assuming identical protection.
+
+**Policy appraisal.** Deposit insurance supports confidence and may reduce incentives for a destabilising run, but it does not replace RBI supervision, adequate capital, liquidity management or credible resolution. Unlimited protection could also weaken depositor risk monitoring; a ceiling balances protection and discipline. In a mains answer, explain per-depositor/per-bank aggregation, principal-plus-interest, ownership capacity and exclusions before discussing financial stability. Do not convert ₹5 lakh into a per-account or per-branch guarantee. [S20]
 
 ## 6. Regional rural banks, cooperatives and rural credit in Telangana
 
@@ -371,6 +391,9 @@ In **Kamareddy**, the Lead District Manager's coordination role illustrates dist
 Do not assert that all NBFCs are prohibited from deposits, all deposits are insured, every repo cut instantly reduces EMIs, the RBI sets the Union Budget, a bank's capital is its CRR cash, a falling NPA stock proves cash recovery, or digital transaction volume equals growth of M3. A strong answer identifies the relevant balance sheet, legal authority, transmission channel and district-level consequence.
 
 
+**Cycle37 calculation checks:** M2 = M1 + post-office savings deposits; M3 = M1 + bank time deposits (not M2 plus time deposits); M4 = M3 + all eligible post-office deposits excluding NSCs. DICGC's ₹5 lakh cap applies per depositor per insured bank in the same right and capacity, aggregating eligible principal and interest across branches—not per account. [S01, S20]
+
+
 ---
 
 # 25 original practice MCQs with explanations
@@ -447,12 +470,12 @@ C. Eligible deposit-taking NBFCs may accept deposits subject to restrictions
 D. All NBFCs issue demand cheques like banks  
 **Answer: C.** NBFC powers vary by registration/category; NBFC deposits are not covered by DICGC. [S08, S12]
 
-**11. Deposit insurance at an insured bank is generally limited to:**
-A. ₹5 lakh per account at each branch  
-B. ₹5 lakh per depositor per insured bank in the same right and capacity  
-C. All principal without limit  
-D. ₹5 lakh for NBFC fixed deposits  
-**Answer: B.** DICGC aggregates eligible balances across branches of the same bank in the same right and capacity; principal plus interest count within the cap. [S08]
+**11. A person holds ₹3.8 lakh in savings and ₹2.1 lakh in a fixed deposit including interest, at different branches of the same DICGC-insured bank, in the same individual capacity. What is the maximum insured amount?**
+A. ₹5.9 lakh because both accounts qualify  
+B. ₹10 lakh because there are two branches  
+C. ₹3.8 lakh because fixed deposits are excluded  
+D. ₹5 lakh because eligible balances are aggregated by depositor, bank and capacity  
+**Answer: D.** The eligible total is ₹5.9 lakh, but the same-right/same-capacity ceiling is ₹5 lakh including interest across branches; ₹0.9 lakh exceeds that ceiling. [S08, S20]
 
 **12. Which institution is especially associated with rural credit development and RRB supervision alongside RBI?**
 A. NABARD  
@@ -545,12 +568,12 @@ C. 40% of ANBC or prescribed equivalent
 D. 100% of total deposits  
 **Answer: C.** The RBI's PSL framework specifies a broad 40% target for the stated bank category, with separate subtargets and exceptions. [S16]
 
-**25. Which conclusion best fits the Telangana district-credit example?**
-A. More branches always guarantee affordable farm credit  
-B. UPI transaction growth alone proves lower farm indebtedness  
-C. District credit planning should assess access, pricing, repayment and grievance outcomes  
-D. RBI directly decides every district crop-loan sanction  
-**Answer: C.** Effective inclusion combines credit reach, sustainability and consumer protection; neither national monetary aggregates nor raw branch counts establish success. [S11]
+**25. In a hypothetical conventional RBI series, M1 is ₹185 crore, bank time deposits ₹300 crore and post-office savings deposits ₹20 crore. Which pair is correct?**
+A. M2 = ₹485 crore; M3 = ₹205 crore  
+B. M2 = ₹505 crore; M3 = ₹485 crore  
+C. M2 = ₹205 crore; M3 = ₹505 crore  
+D. M2 = ₹205 crore; M3 = ₹485 crore  
+**Answer: D.** M2 = 185 + 20 = ₹205 crore; M3 = 185 + 300 = ₹485 crore. M3 does not include M2 as a component. These inputs are hypothetical. [S01]
 
 
 ---
@@ -577,7 +600,7 @@ D. RBI directly decides every district crop-loan sanction
 
 **Measures and mechanisms.** Reserve money, or M0, includes currency in circulation and banks' and others' deposits with the RBI. M1 equals currency with the public, bank demand deposits and other RBI deposits. M2 adds specified post-office savings deposits. Broad money M3 adds bank time deposits to M1, while M4 adds other eligible post-office deposits. Bank lending can create a loan asset and matching deposit liability, but settlement liquidity, capital and credit risk constrain expansion.
 
-**Critical appraisal.** The same payment may circulate repeatedly without creating new M3; UPI transaction value is therefore not money stock. Shifting funds from demand to time deposits can alter M1 without changing M3. Inflation also depends on real output, money demand, velocity, supply shocks and expectations. A drought may raise food prices despite weak credit growth, while credit expansion during spare capacity may support output.
+**Critical appraisal.** The same payment may circulate repeatedly without creating new M3; UPI transaction value is therefore not money stock. Shifting funds from demand to time deposits can alter M1 without changing M3. M2 and M3 are not nested: M2 adds post-office savings, whereas M3 adds bank time deposits directly to M1. Inflation also depends on real output, money demand, velocity, supply shocks and expectations. A drought may raise food prices despite weak credit growth, while credit expansion during spare capacity may support output.
 
 **Conclusion.** RBI aggregates are essential monetary indicators, but interpretation requires balance-sheet evidence and the wider macroeconomic context rather than a fixed money-to-inflation rule.
 
@@ -611,7 +634,7 @@ D. RBI directly decides every district crop-loan sanction
 
 **Selective and prudential measures.** Priority-sector lending targets channel eligible credit toward agriculture and underserved sectors. Exposure limits, risk weights, capital requirements, provisioning, loan-to-value rules and supervision reduce concentration and instability. These instruments can target risk without uniformly restricting every borrower.
 
-**Critical appraisal.** Policy transmission passes through money-market rates, deposits, lending rates, expectations and spending. Fixed-rate contracts, weak bank balance sheets, risk premiums and low borrower demand cause delays. Higher rates cannot directly reverse drought-driven food shortages; aggressive tightening may damage MSMEs.
+**Critical appraisal.** Policy transmission passes through money-market rates, deposits, lending rates, expectations and spending. Fixed-rate contracts, weak bank balance sheets, risk premiums and low borrower demand cause delays. A floating-rate MSME loan may reprice before a fixed-rate housing loan, while deposit rates adjust at another speed. Higher rates cannot directly reverse drought-driven food shortages; aggressive tightening may damage MSMEs.
 
 **Conclusion.** Effective credit regulation combines transparent rate decisions, liquidity management, proportionate prudential rules and coordination with supply-side policy while preserving RBI's statutory accountability.
 
@@ -635,7 +658,7 @@ D. RBI directly decides every district crop-loan sanction
 
 **Benefits and Telangana relevance.** An informal entrepreneur in Karimnagar may obtain equipment finance using cash-flow data rather than property collateral. Microfinance can smooth seasonal income and support women's enterprises when pricing and collection are responsible. Digital onboarding can reduce cost and delay.
 
-**Risks and critical appraisal.** Reliance on wholesale borrowing creates funding and maturity mismatch. Concentrated loan portfolios, opaque charges, multiple borrowing and aggressive collections can harm households. NBFC distress can spread through links with banks and mutual funds. Overregulation could restrict access, but lax oversight socialises systemic costs.
+**Risks and critical appraisal.** Reliance on wholesale borrowing creates funding and maturity mismatch. Concentrated loan portfolios, opaque charges, multiple borrowing and aggressive collections can harm households. NBFC distress can spread through links with banks and mutual funds. Supervisors must distinguish deposit-taking from non-deposit-taking NBFCs, monitor related-party exposures and maturity mismatches, and track risk migration when banks tighten lending. Overregulation could restrict access, but lax oversight socialises systemic costs.
 
 **Conclusion.** Proportionate supervision, transparent effective interest rates, borrower-capacity checks, liquidity safeguards and credible grievance mechanisms allow NBFC innovation without sacrificing financial stability.
 
@@ -644,7 +667,7 @@ D. RBI directly decides every district crop-loan sanction
 
 # Authoritative source register and audit
 
-**Source method:** Primary RBI, Government of India, DICGC and Telangana government materials are used for institutional and dated factual claims. The syllabus line is corroborated by public reproductions; the original Notification 02/2024 PDF was not directly authenticated in this run. Source identifiers in notes refer to the register below; page numbers are intentionally omitted. Accessed 23 October 2026 unless a publication date is stated.
+**Source method:** Primary RBI, Government of India, DICGC and Telangana government materials are used for institutional and dated factual claims. The original Commission-hosted Notification 02/2024 Annexure-II Topic 3 wording was directly checked on 27 October 2026 (S19). This R1 check is not a complete legal or factual audit. Source identifiers in notes refer to the register below; page numbers are intentionally omitted. Accessed 23 October 2026 unless a publication date is stated.
 
 | ID | Source / date | URL | Used for | Audit limitation |
 |---|---|---|---|---|
@@ -669,9 +692,16 @@ D. RBI directly decides every district crop-loan sanction
 
 ## Explicit verification and provenance gaps
 
-1. The original official Notification 02/2024 PDF was not downloaded for a line-by-line comparison in this run; this chapter's syllabus line is corroborated by two public reproductions, not independently certified against the original scan.
+1. R1 PASS: original Commission-hosted Notification 02/2024 Annexure-II Topic 3 wording directly verified on 27 October 2026 (S19); remaining academic gates are not certified.
 2. No question is described as an official PYQ because no source examination paper plus question number was validated. All 25 MCQs and six mains prompts are newly written practice material.
 3. Monetary policy rates are time-sensitive; only a clearly dated August 2026 snapshot is mentioned. The latest October MPC decision is not independently verified here.
 4. The district government page documents coordination functions but may contain older bank counts; those counts were intentionally excluded.
 5. Banking regulation and PSB counts can change. Before academic approval, a subject specialist should review the current RBI directions, law amendments, and any subsequent institution mergers.
 6. Structural validation, source triangulation and PDF visual inspection are **not independent academic approval**.
+
+| S19 | TGPSC original Notification 02/2024, Annexure-II, printed p.31, PDF index 30, lines 1726–1727; accessed 27 Oct 2026 | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | Exact Money and Banking syllabus | Only this item directly checked |
+| S20 | DICGC, A Guide to Deposit Insurance; accessed 27 Oct 2026 | https://www.dicgc.org.in/guide-to-deposit-insurance | ₹5 lakh same capacity, branches, interest, NBFC exclusions | Guidance, not full legal audit |
+
+## Cycle37 bounded author-side checks
+
+RBI S01 conventional monetary aggregate definitions and DICGC S20 insurance rules were directly checked. MCQs 11 and 25 were revised with source-linked explanations. The other 23 keys, all distractors, six mains answers and diagrams remain pending full academic review. All questions are original practice, not authenticated official PYQs.

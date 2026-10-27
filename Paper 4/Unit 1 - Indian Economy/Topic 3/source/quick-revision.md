@@ -46,3 +46,6 @@ In **Kamareddy**, the Lead District Manager's coordination role illustrates dist
 ## E. Common traps
 
 Do not assert that all NBFCs are prohibited from deposits, all deposits are insured, every repo cut instantly reduces EMIs, the RBI sets the Union Budget, a bank's capital is its CRR cash, a falling NPA stock proves cash recovery, or digital transaction volume equals growth of M3. A strong answer identifies the relevant balance sheet, legal authority, transmission channel and district-level consequence.
+
+
+**Cycle37 calculation checks:** M2 = M1 + post-office savings deposits; M3 = M1 + bank time deposits (not M2 plus time deposits); M4 = M3 + all eligible post-office deposits excluding NSCs. DICGC's ₹5 lakh cap applies per depositor per insured bank in the same right and capacity, aggregating eligible principal and interest across branches—not per account. [S01, S20]
