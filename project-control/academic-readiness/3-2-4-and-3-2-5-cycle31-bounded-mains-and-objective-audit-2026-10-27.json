@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-27",
+  "cycle": 31,
+  "topic_ids": [
+    "3-2-4",
+    "3-2-5"
+  ],
+  "assessment": "objective source-level author review; NOT independent academic approval",
+  "baseline_main": "d641aaa07bda5cf7de40b6c47cddb090efbfc78a",
+  "preservation": {
+    "original_topics": 75,
+    "original_pdf_topic_3_2_4_sha256": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f",
+    "original_pdf_topic_3_2_5_sha256": "44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15"
+  },
+  "topic_3_2_4": {
+    "concepts": 11,
+    "mcqs": 25,
+    "mains_body_words_before": [
+      205,
+      210,
+      196,
+      200,
+      200,
+      194
+    ],
+    "mains_body_words_after": [
+      205,
+      210,
+      239,
+      200,
+      200,
+      235
+    ],
+    "original_svgs": 2,
+    "independent_mains_review": false
+  },
+  "topic_3_2_5": {
+    "concepts": 11,
+    "concept_word_counts": [
+      664,
+      646,
+      597,
+      566,
+      480,
+      569,
+      533,
+      520,
+      538,
+      529,
+      448
+    ],
+    "mcqs": 25,
+    "mains_body_words_before": [
+      200,
+      209,
+      201,
+      196,
+      198,
+      214
+    ],
+    "mains_body_words_after": [
+      200,
+      209,
+      201,
+      239,
+      248,
+      214
+    ],
+    "original_svgs": 2,
+    "independent_mains_review": false
+  },
+  "source_correspondences": [
+    {
+      "topic": "3-2-4",
+      "url": "https://www.api.sci.gov.in/supremecourt/2021/30987/30987_2021_4_1505_42656_Judgement_03-Mar-2023.pdf",
+      "scope": "later Supreme Court reiteration of L Chandra Kumar, not original 1997 case"
+    },
+    {
+      "topic": "3-2-4",
+      "url": "https://dashboard.doj.gov.in/ecourts-projects-phaseIII/",
+      "scope": "dynamic national dashboard categories, no static Telangana 2026 metric asserted"
+    },
+    {
+      "topic": "3-2-5",
+      "url": "https://www.mea.gov.in/Images/pdf1/Part9.pdf",
+      "scope": "Article 243ZE MPC drafting and coordination, not compliance audit"
+    },
+    {
+      "topic": "3-2-5",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1664/3/A1956-33.pdf",
+      "scope": "1956 Act sections 6 and 11; no exhaustive appellate-route claim"
+    },
+    {
+      "topic": "3-2-5",
+      "url": "https://www.jalshakti-dowr.gov.in/static/uploads/2024/05/2023041116.pdf",
+      "scope": "historical river-board institutional report, not current operating status"
+    }
+  ],
+  "outstanding": [
+    "Direct official R1 syllabus for 3-2-4 and 3-2-5",
+    "Independent factual audit all 50 MCQ keys and 200 distractors",
+    "Independent claim-level review all 12 mains",
+    "R2 qualitative deduplication",
+    "R7 diagram accuracy",
+    "R8 CI PDF plus actual downloaded artifact, public browser and accessibility"
+  ],
+  "fully_R1_R8_ready": 0,
+  "academic_approvals": 0
+}
