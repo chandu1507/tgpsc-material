@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-27",
+  "cycle": 43,
+  "topic": "4-2-5",
+  "first_actual_artifact": {
+    "run_id": 40556415492,
+    "artifact_id": 12757841459,
+    "downloaded": true,
+    "archive_sha256": "1ff8ad94af28d09f631bd7cc19d2963847335252c2abda3a75d16caa3f7e178c",
+    "outer_inner_crc": "PASS",
+    "original_pdfs": 75,
+    "readiness_records": 75,
+    "local_links_and_fragments": "PASS",
+    "manifest_index_html_sha": "MISMATCH",
+    "overall_qa": "FAIL",
+    "reason": "Manual student-facing link update changed index.html after renderer wrote manifest; archive was packaged before re-render."
+  },
+  "fix": {
+    "script_commit": "c565793a428098b93e1469c6c0301e80b921419e",
+    "renderer_run_id": 40556663691,
+    "renderer_conclusion": "success",
+    "generated_main_commit": "6dc46314572640a3bf19438b4ad669d6c79fba93",
+    "change": "CI publisher now preserves/inserts integrated PDF/master links before hashing HTML and regenerating manifest; final downloaded post-fix artifact must still be checked."
+  },
+  "R8": "IN_PROGRESS_NOT_PASS",
+  "independent_academic_approvals": 0
+}
