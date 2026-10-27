@@ -10,7 +10,7 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 62,
+  "not_assessed_count": 61,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
   "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 6 ASSESSED_REBUILD_REQUIRED (3-1-1 through 3-1-5 and 3-2-1), 62 NOT_ASSESSED; zero fully R1–R8 ready and zero independent approvals.",
@@ -96,9 +96,11 @@
     "3-1-2",
     "3-1-3",
     "3-1-4",
-    "3-1-5"
+    "3-1-5",
+    "3-2-1",
+    "3-2-2"
   ],
-  "last_readiness_update": "27 Oct Cycle27: existing 3-1-5 objectively assessed: original 16-page PDF SHA preserved; 15 concepts, 13 still under300 after two substantive in-place expansions; 30 explained original MCQs, five revised with limited official-source checks, key distribution A7/B8/C10/D5; six mains body counts 240/227/231/234/227/234; three existing SVGs, but no synchronized integrated PDF. R1-R8 not all PASS. 7 IN_PROGRESS, 5 ASSESSED_REBUILD_REQUIRED, 63 NOT_ASSESSED, zero approved.",
+  "last_readiness_update": "27 Oct Cycle29: 7 IN_PROGRESS, 7 ASSESSED_REBUILD_REQUIRED (through 3-2-2), 61 NOT_ASSESSED, 0 R1-R8 ready, 0 independently approved; source-critical Q16/Q21 corrected, diagrams added; synchronized PDF and post-render artifact QA pending.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -109,6 +111,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-2-cycle29-primary-claim-and-mcq-dedup-2026-10-27.json",
     "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
     "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json",
