@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-2-2",
+  "scope": "First individual source and original PDF assessment, bounded official-source correspondence",
+  "original_pdf_pages": 28,
+  "original_pdf_sha256": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
+  "concepts": 14,
+  "concept_words_min": 373,
+  "concept_words_max": 417,
+  "concepts_under_300": 0,
+  "original_four_option_mcqs": 30,
+  "answer_distribution": {
+    "A": 6,
+    "B": 12,
+    "C": 11,
+    "D": 1
+  },
+  "mains_body_words": [
+    224,
+    218,
+    220,
+    226,
+    221,
+    212
+  ],
+  "diagrams": 3,
+  "official_pyqs_authenticated": 0,
+  "verified_source_correspondences": [
+    {
+      "source": "Telangana Directorate of Economics and Statistics official Telangana at a Glance",
+      "url": "https://www.ecostat.telangana.gov.in/telangana_glance.html",
+      "claims": [
+        "Census 2011 population 35,003,674",
+        "overall sex ratio 988",
+        "literacy 66.54%",
+        "male literacy 75.04%",
+        "female literacy 57.99%"
+      ]
+    },
+    {
+      "source": "Ministry of Health and Family Welfare NFHS-5 Phase I Telangana key indicators",
+      "url": "https://www.mohfw.gov.in/sites/default/files/NFHS-5_Phase-I.pdf",
+      "claims": [
+        "Survey overall sex ratio 1,049",
+        "Survey sex ratio at birth 894"
+      ]
+    }
+  ],
+  "limitations": [
+    "Official TGPSC syllabus PDF not directly authenticated in this assessment",
+    "Complete independent MCQ key and 120 distractor audit not done",
+    "Six mains claims and three diagrams not independently reviewed",
+    "No integrated synchronized PDF, CI artifact or browser accessibility certification",
+    "No named expert approval"
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
+  },
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0
+}

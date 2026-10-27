@@ -1,8 +1,8 @@
 {
   "topic_id": "4-2-2",
   "title": "Human Resources: Demography, Literacy, Occupations, Education and Health",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,47 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle41 first direct source and original PDF assessment: 14 detailed concepts (373–417 words), 30 original four-option practice MCQs (A6/B12/C11/D1), six mains model answers with measured section-body counts 224/218/220/226/221/212, three inherited diagrams; preserved original 28-page PDF SHA256 e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2. Direct Telangana Directorate of Economics and Statistics official table confirms Census 2011 population 35,003,674, sex ratio 988, literacy 66.54%, male 75.04%, female 57.99%. Official MoHFW NFHS-5 Phase I Telangana table supports distinct survey overall sex ratio 1,049 and sex ratio at birth 894. Limited correspondence for practice Q2/Q10 and definitions; NOT full key/distractor audit, NOT full mains factual review. Original TGPSC PDF not freshly authenticated, no synchronized integrated edition, browser QA or independent approval.",
+  "next_action": "Validate direct official syllabus and all 30 MCQ keys/120 distractors; improve discriminating alternatives and the D1 key skew without changing correct facts; audit six mains claims and three diagrams; integrate editable master/offline HTML/deterministic PDF; download and verify actual post-edit artifact, browser usability and expert approval.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
+  "cycle41": {
+    "concepts": 14,
+    "concept_word_range": [
+      373,
+      417
+    ],
+    "concepts_under_300": 0,
+    "practice_mcqs": 30,
+    "mcq_key_distribution": {
+      "A": 6,
+      "B": 12,
+      "C": 11,
+      "D": 1
+    },
+    "mains": 6,
+    "mains_body_word_counts": [
+      224,
+      218,
+      220,
+      226,
+      221,
+      212
+    ],
+    "original_pdf_pages": 28,
+    "original_pdf_sha256": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
+    "source_checks": "bounded primary DES Census 2011 and MoHFW NFHS-5 Phase I; not exhaustive",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  }
 }
