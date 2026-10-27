@@ -44,3 +44,9 @@
 - Recover byte access to the original 19-topic master and Topic 5 archive before claiming a complete cumulative archive.
 
 **Status:** expanded draft, **academically approved = 0**, **official verified PYQs = 0**.
+
+## 27 October 2026 — bounded primary-source correspondence (Cycle 31)
+
+- Supreme Court of India, 3 March 2023, official judgment (reiterating *L. Chandra Kumar*, 1997), https://www.api.sci.gov.in/supremecourt/2021/30987/30987_2021_4_1505_42656_Judgement_03-Mar-2023.pdf — supports the retained High Court Articles 226/227 judicial-review principle. This is a later judicial restatement, **not** direct reading of the original 1997 judgment.
+- Department of Justice, eCourts Phase III public dashboard, read 27 October 2026, https://dashboard.doj.gov.in/ecourts-projects-phaseIII/ — confirms programme categories including e-Sewa Kendras and video-conferencing; **no unverified Telangana-specific 2026 figure** is imported. Dashboard values are dynamic.
+- The two mains-answer expansions are author-side legal and policy checks only. The other four answers, all 25 MCQ keys/distractors, R1 official syllabus, R2 deduplication, R7 diagram accuracy and R8 browser accessibility remain **not passed**.
