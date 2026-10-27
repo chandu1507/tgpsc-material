@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 49,
+  "not_assessed_count": 48,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 17 ASSESSED_REBUILD_REQUIRED, 51 NOT_ASSESSED; zero fully R1–R8 ready and zero independent approvals.",
+  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 20 ASSESSED_REBUILD_REQUIRED, 48 NOT_ASSESSED; ten R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -110,9 +110,10 @@
     "4-1-1",
     "4-1-2",
     "4-1-3",
-    "4-1-4"
+    "4-1-4",
+    "4-1-5"
   ],
-  "last_readiness_update": "27 Oct Cycle38: Topic 4-1-4 R1 PASS; CI 23-page PDF; actual artifact 12735981454 downloaded, 1609 files, 75 unchanged original PDFs, CRC/SHA and links PASS; R8 IN_PROGRESS; zero approvals.",
+  "last_readiness_update": "27 Oct Cycle39: Topic 4-1-5 assessed; 15 concepts, 25 MCQs, six mains bodies 235/239/233/230/233/227; local integrated 29-page candidate, CI artifact pending; R1 IN_PROGRESS due official 403, no approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -127,6 +128,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-1-5-cycle39-bounded-primary-source-and-structural-audit-2026-10-27.json",
     "project-control/academic-readiness/4-1-4-cycle38-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-1-4-cycle38-primary-syllabus-and-budget-reconciliation-2026-10-27.json",
     "project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json",
