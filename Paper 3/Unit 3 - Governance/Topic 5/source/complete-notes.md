@@ -1,3 +1,11 @@
+# Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms
+
+**TGPSC Group I | Paper III | Unit III | Topic 5 | Expanded draft | 27 October 2026**
+
+**ACADEMIC STATUS: NOT APPROVED.** All 25 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.
+
+**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.
+
 # Paper III · Unit III · Topic 5 — Ethics, Transparency and Administrative Reforms
 
 **Official syllabus label (Notification 02/2024, Annexure II, Paper III, Governance, item 5):** Ethics and Values of Administration; Neutrality of Civil Services, Committed Bureaucracy, Politician and Civil Servant Relations; Citizen Charters, Gender Sensitization; Transparency and Accountability of Administration; Prevention of Corruption in Administration—Central Vigilance Commission, Central Bureau of Investigation, Lokpal, Lokayuktha, ACB and Consumer Protection Mechanisms; Application and Impact of Right to Information Act 2005; Administrative Reforms.
@@ -26,68 +34,6 @@ This topic studies the transformation of state power from an opaque hierarchy in
 
 First read chapters 1–8 to build the values-to-service framework; then compare institutions in chapters 9–14; then practise RTI routing and the 2025 legal change in chapters 15–16; finally answer reform and case-study questions using chapters 17–18. The quick revision is standalone, while the detailed chapters provide evidence and argumentation. All MCQs below are **original practice**, not verified official PYQs.
 
-
----
-
-# Standalone quick revision — Paper III / Unit III / Topic 5
-
-## Five-minute conceptual map
-
-Ethics concerns **justified use of public power**; legality is its floor, not its ceiling. Public-service values include integrity (no improper private benefit), impartiality (equal criteria), objectivity (evidence), compassion (attention to disadvantage), accountability (answerability and consequences), responsiveness (timely service), and courage (lawful resistance to improper orders). A decision test: **authority → facts → affected groups → lawful options → proportionality → written reasons → appeal/audit**.
-
-Neutrality means non-partisan implementation of lawful government policy. **Constitutionally committed** service is compatible with neutrality; **party-committed** bureaucracy is not. Ministers choose lawful policy and answer politically; officers give candid advice and implement it lawfully. For improper oral instructions, seek written confirmation and follow applicable escalation procedures. Article 311 supplies defined service protections, not immunity.
-
-Citizen Charters should specify **service, eligibility, documents, legitimate fee, clock start, deadline, decision-maker and grievance route**. Sevottam links service standards, grievance redress and institutional capacity. A charter without monitoring and remedy is a publicity document. Gender sensitisation requires safe workplaces, accessible delivery, gender-responsive data and POSH compliance; it is not merely awareness training.
-
-Transparency provides usable records; accountability adds a forum capable of demanding reasons and consequences. CAG/audit, legislative oversight, courts, vigilance, social audits, RTI and grievance mechanisms serve different functions. **RTI obtains existing information; an appeal or grievance seeks correction; an investigation tests alleged offences.**
-
-## Anti-corruption institution comparison
-
-| Institution | Legal character | Main function | Critical limitation |
-|---|---|---|---|
-| CVC | Statutory under CVC Act 2003 | Central vigilance advice/superintendence within statute | Not general criminal court; not universal state jurisdiction |
-| CBI/DSPE | CBI created by 1963 resolution; police powers under DSPE Act 1946 | Investigates offences under lawful jurisdiction | State consent usually relevant under Section 6, subject to exceptions/court orders |
-| Lokpal | Statutory, Lokpal and Lokayuktas Act 2013 | Complaints about specified Union public functionaries | Not every citizen grievance; due-process conditions |
-| Telangana Lokayukta | Telangana Lokayukta Act 1983 | State ombudsman inquiries within statutory remit | Statutory exclusions and admissibility |
-| Telangana ACB | State investigative agency | Corruption investigation in lawful state remit | Allegation not conviction; proper evidence needed |
-| Telangana Vigilance Commission | State advisory body established March 2015 | Prevention and advice on integrity/misconduct | Advice distinct from prosecution |
-| Consumer commissions/CCPA | Consumer Protection Act 2019 | Consumer disputes/class-wide protection | Not general bribery investigators |
-
-## RTI must-know provisions
-
-| Provision | Exam use |
-|---|---|
-| Section 2(f), 2(j) | Existing information, inspection and copies |
-| Section 4 | Proactive disclosure |
-| Section 6 | Citizen request; no reasons ordinarily required; transfer under 6(3) ordinarily within five days |
-| Section 7 | Ordinary 30-day response; 48 hours for life/liberty |
-| Sections 8–11 | Exemptions, copyright-related ground, severability, third-party process |
-| Section 19 | First appeal and second appeal; ordinarily 30 and 90 days respectively |
-| Section 20 | Penalties after due process |
-| Section 24 | Specified security/intelligence exclusions with statutory qualifications |
-| DPDP Act Section 44(3) | Amended RTI Section 8(1)(j); in force from Gazette notification of 13 Nov 2025 |
-
-**Current-affairs anchor (verified official):** Gazette G.S.R. 843(E), 13 November 2025, commenced DPDP Act Section 44(3), altering the RTI personal-information exemption. Telangana's official State Information Commission roster lists its commissioners; verify roster again for later examinations. The Telangana Vigilance Commission's official site records establishment in March 2015. DARPG's Second ARC *Ethics in Governance* report is dated January 2007.
-
-## High-value distinctions and traps
-
-- CVC is statutory, not constitutional. CBI is not created by the DSPE Act as an organisation; DSPE Act supplies its principal police-power foundation.
-- A Lokpal complaint is not an RTI application, and an RTI appeal cannot by itself order all underlying service remedies.
-- Civil-service neutrality is not policy obstruction; committed bureaucracy must be committed to the Constitution rather than a party.
-- Corruption accusation, departmental misconduct, criminal charge and conviction are four different propositions.
-- Charter timelines are not automatically enforceable compensation rights unless supported by law/rules.
-- Central RTI Online portal is not for Telangana state public authorities.
-- RTI's Section 8(1)(j) changed after November 2025; old coaching notes may be outdated.
-- A citizen can seek inspection and copies, but not require a PIO to create a new analytical report.
-- A public-interest argument does not justify disclosing every person's medical or identity records.
-- Administrative reforms must be evaluated by **quality, access, equity and correction**, not only files closed.
-
-## Mains answer blueprint
-
-Define the issue in 2–3 lines; name the relevant constitutional or statutory authority; explain 2–3 operational mechanisms; insert one Telangana-specific application; critically examine at least one institutional trade-off; conclude with a measurable reform or remedy. Use subheadings suited to the question rather than repeating a universal template.
-
-
----
 
 # Detailed textbook notes
 
@@ -318,17 +264,19 @@ Define the issue in 2–3 lines; name the relevant constitutional or statutory a
 **Evaluation.** Success is not the number of raids, RTI replies or portal logins. It is verified machine uptime, timely access for patients, fair procurement, reasoned accountability and reduced repeat failure. This integrated approach demonstrates how ethical values become enforceable institutional practice rather than isolated definitions.
 
 
----
-
 # Visual learning and comparison tables
 
 ## Diagram A — An ethical administrative decision
+
+![Original Diagram A learning diagram](visuals/ethical-decision.png)
 
 `Legal authority → Verify evidence → Identify affected groups → Test options and conflicts → Record reasons → Implement → Appeal and audit`
 
 The flow guards against both illegal benevolence and mechanical indifference. A decision must be traceable after the official is transferred.
 
 ## Diagram B — Choosing the appropriate accountability forum
+
+![Original Diagram B learning diagram](visuals/forum-routing.png)
 
 `Need existing records? → RTI/PIO → first appeal → Information Commission`  
 `Need correction of service? → Department grievance/statutory appeal`  
@@ -339,6 +287,8 @@ The flow guards against both illegal benevolence and mechanical indifference. A 
 The same episode can require several paths, but the evidentiary standards and remedies differ.
 
 ## Diagram C — The administrative reform feedback loop
+
+![Original Diagram C learning diagram](visuals/reform-loop.png)
 
 `Map citizen journey → Publish service standard → Deliver and record → Review grievances/appeals → Independent audit → Redesign rule/process → Re-measure outcomes`
 
@@ -354,8 +304,63 @@ A dashboard should measure correctness, accessibility and appeal reversals, not 
 | RTI vs grievance | Obtain existing records | Seek service correction or redress |
 | Ethics vs legality | Justified, fair use of power | Minimum enforceable authority and procedure |
 
+# Standalone quick revision — Paper III / Unit III / Topic 5
 
----
+## Five-minute conceptual map
+
+Ethics concerns **justified use of public power**; legality is its floor, not its ceiling. Public-service values include integrity (no improper private benefit), impartiality (equal criteria), objectivity (evidence), compassion (attention to disadvantage), accountability (answerability and consequences), responsiveness (timely service), and courage (lawful resistance to improper orders). A decision test: **authority → facts → affected groups → lawful options → proportionality → written reasons → appeal/audit**.
+
+Neutrality means non-partisan implementation of lawful government policy. **Constitutionally committed** service is compatible with neutrality; **party-committed** bureaucracy is not. Ministers choose lawful policy and answer politically; officers give candid advice and implement it lawfully. For improper oral instructions, seek written confirmation and follow applicable escalation procedures. Article 311 supplies defined service protections, not immunity.
+
+Citizen Charters should specify **service, eligibility, documents, legitimate fee, clock start, deadline, decision-maker and grievance route**. Sevottam links service standards, grievance redress and institutional capacity. A charter without monitoring and remedy is a publicity document. Gender sensitisation requires safe workplaces, accessible delivery, gender-responsive data and POSH compliance; it is not merely awareness training.
+
+Transparency provides usable records; accountability adds a forum capable of demanding reasons and consequences. CAG/audit, legislative oversight, courts, vigilance, social audits, RTI and grievance mechanisms serve different functions. **RTI obtains existing information; an appeal or grievance seeks correction; an investigation tests alleged offences.**
+
+## Anti-corruption institution comparison
+
+| Institution | Legal character | Main function | Critical limitation |
+|---|---|---|---|
+| CVC | Statutory under CVC Act 2003 | Central vigilance advice/superintendence within statute | Not general criminal court; not universal state jurisdiction |
+| CBI/DSPE | CBI created by 1963 resolution; police powers under DSPE Act 1946 | Investigates offences under lawful jurisdiction | State consent usually relevant under Section 6, subject to exceptions/court orders |
+| Lokpal | Statutory, Lokpal and Lokayuktas Act 2013 | Complaints about specified Union public functionaries | Not every citizen grievance; due-process conditions |
+| Telangana Lokayukta | Telangana Lokayukta Act 1983 | State ombudsman inquiries within statutory remit | Statutory exclusions and admissibility |
+| Telangana ACB | State investigative agency | Corruption investigation in lawful state remit | Allegation not conviction; proper evidence needed |
+| Telangana Vigilance Commission | State advisory body established March 2015 | Prevention and advice on integrity/misconduct | Advice distinct from prosecution |
+| Consumer commissions/CCPA | Consumer Protection Act 2019 | Consumer disputes/class-wide protection | Not general bribery investigators |
+
+## RTI must-know provisions
+
+| Provision | Exam use |
+|---|---|
+| Section 2(f), 2(j) | Existing information, inspection and copies |
+| Section 4 | Proactive disclosure |
+| Section 6 | Citizen request; no reasons ordinarily required; transfer under 6(3) ordinarily within five days |
+| Section 7 | Ordinary 30-day response; 48 hours for life/liberty |
+| Sections 8–11 | Exemptions, copyright-related ground, severability, third-party process |
+| Section 19 | First appeal and second appeal; ordinarily 30 and 90 days respectively |
+| Section 20 | Penalties after due process |
+| Section 24 | Specified security/intelligence exclusions with statutory qualifications |
+| DPDP Act Section 44(3) | Amended RTI Section 8(1)(j); in force from Gazette notification of 13 Nov 2025 |
+
+**Current-affairs anchor (verified official):** Gazette G.S.R. 843(E), 13 November 2025, commenced DPDP Act Section 44(3), altering the RTI personal-information exemption. Telangana's official State Information Commission roster lists its commissioners; verify roster again for later examinations. The Telangana Vigilance Commission's official site records establishment in March 2015. DARPG's Second ARC *Ethics in Governance* report is dated January 2007.
+
+## High-value distinctions and traps
+
+- CVC is statutory, not constitutional. CBI is not created by the DSPE Act as an organisation; DSPE Act supplies its principal police-power foundation.
+- A Lokpal complaint is not an RTI application, and an RTI appeal cannot by itself order all underlying service remedies.
+- Civil-service neutrality is not policy obstruction; committed bureaucracy must be committed to the Constitution rather than a party.
+- Corruption accusation, departmental misconduct, criminal charge and conviction are four different propositions.
+- Charter timelines are not automatically enforceable compensation rights unless supported by law/rules.
+- Central RTI Online portal is not for Telangana state public authorities.
+- RTI's Section 8(1)(j) changed after November 2025; old coaching notes may be outdated.
+- A citizen can seek inspection and copies, but not require a PIO to create a new analytical report.
+- A public-interest argument does not justify disclosing every person's medical or identity records.
+- Administrative reforms must be evaluated by **quality, access, equity and correction**, not only files closed.
+
+## Mains answer blueprint
+
+Define the issue in 2–3 lines; name the relevant constitutional or statutory authority; explain 2–3 operational mechanisms; insert one Telangana-specific application; critically examine at least one institutional trade-off; conclude with a measurable reform or remedy. Use subheadings suited to the question rather than repeating a universal template.
+
 
 # Original practice MCQs — NOT official PYQs
 
@@ -379,14 +384,14 @@ D. Transparency—court judgment; RTI—personal preference
 
 **Answer: A.** Integrity is a standard of conduct; an audit trail is a process that makes conduct traceable.
 
-### MCQ 3. Which is the best first response to an apparently unlawful oral procurement direction?
+### MCQ 3. A procurement officer receives an oral instruction to waive a published eligibility criterion for one bidder. What is the most defensible immediate response?
 
-A. Seek written clarification and record legal concerns
-B. Immediately leak confidential files online
-C. Approve without examination
-D. Destroy the file
+A. Waive the criterion but note the instruction in a private diary.
+B. Seek written clarification, preserve the record and raise the legal concern through the authorised channel.
+C. Cancel the tender without examining the governing procurement rules.
+D. Publish confidential bids before the evaluation is complete.
 
-**Answer: A.** Documenting authority and legal concerns preserves due process and responsibility while permitting lawful escalation.
+**Answer: B.** A written, reviewable decision and lawful escalation protect fairness. A private diary is not an adequate official record; automatic cancellation or disclosure can itself violate procedure.
 
 ### MCQ 4. Committed bureaucracy is compatible with neutrality when commitment is primarily to:
 
@@ -397,32 +402,32 @@ D. The official’s private ideology
 
 **Answer: A.** Commitment to constitutional purposes does not require partisan allegiance.
 
-### MCQ 5. A Citizen Charter most usefully specifies:
+### MCQ 5. Which feature makes a Citizen Charter operational rather than merely aspirational?
 
-A. Service standard, deadline, officer and grievance route
-B. Only departmental mission statement
-C. Only the minister’s biography
-D. Only last year’s expenditure
+A. A statement of departmental values without measurable commitments.
+B. A promise that every application will be approved.
+C. Published eligibility, service standards, responsible authority and grievance escalation.
+D. A list of completed projects without application procedures.
 
-**Answer: A.** An operational charter gives citizens verifiable entitlements and routes for remedy.
+**Answer: C.** A charter should communicate measurable standards and remedies. It does not itself guarantee statutory compensation or automatic approval; the other choices omit service accountability.
 
-### MCQ 6. Sevottam is associated with:
+### MCQ 6. Which combination correctly identifies the three modules of the Sevottam service-delivery framework?
 
-A. Citizen Charters, grievance redress and service capability
-B. Only election management
-C. Only police investigation
-D. Only constitutional amendment
+A. Financial audit, legislative questions and judicial review.
+B. Recruitment reform, police reform and electoral reform.
+C. Citizen satisfaction surveys, elections and disciplinary penalties.
+D. Citizen Charter effectiveness, public grievance redress and service-delivery capability.
 
-**Answer: A.** DARPG’s Sevottam model integrates service standards, grievance redress and delivery capacity.
+**Answer: D.** DARPG's model explicitly combines charter effectiveness, grievance redress and organisational service capability. The alternatives combine separate accountability tools rather than Sevottam modules.
 
-### MCQ 7. Under the POSH Act, 2013, workplace harassment redress is primarily connected to:
+### MCQ 7. A woman complains of workplace sexual harassment at an establishment with fewer than ten workers, where no Internal Committee is constituted. Under the POSH Act, which statutory forum is ordinarily relevant?
 
-A. Internal/Local Committees as applicable
-B. Central Vigilance Commission in every case
-C. Election Commission
-D. CAG audit alone
+A. The Central Vigilance Commission for every workplace.
+B. The district-level Local Committee constituted under the Act.
+C. The Central Information Commission.
+D. The employer's audit committee acting as the statutory POSH committee.
 
-**Answer: A.** The POSH framework creates specified complaint committees and employer duties; it is not a general CVC function.
+**Answer: B.** Section 6 provides a Local Committee route where an Internal Committee is absent because the establishment has fewer than ten workers (and for complaints against the employer). CVC/CIC/audit bodies are not substitutes.
 
 ### MCQ 8. Which statement best separates transparency and accountability?
 
@@ -433,41 +438,41 @@ D. Transparency always requires personal medical records
 
 **Answer: A.** Answerability and corrective power add to disclosure; the two concepts are related but not identical.
 
-### MCQ 9. Which provision concerns public servants being bribed under the Prevention of Corruption Act, 1988 as amended?
+### MCQ 9. A public servant seeks an undue advantage to process an otherwise lawful application. Which provision most directly addresses the public servant being bribed?
 
-A. Section 7
-B. Section 4 of RTI
-C. Article 280
-D. Section 19 of the Constitution
+A. Section 8 of the Prevention of Corruption Act, concerning bribing a public servant.
+B. Section 7A of that Act, concerning influence over a public servant.
+C. Section 7 of the Prevention of Corruption Act, 1988, as amended.
+D. Section 19 of the Right to Information Act, concerning appeals.
 
-**Answer: A.** Section 7 addresses the offence relating to a public servant being bribed; other sections cover different conduct.
+**Answer: C.** The amended Section 7 covers a public servant obtaining, accepting or attempting to obtain an undue advantage; an otherwise proper eventual decision does not automatically negate the offence. Sections 8 and 7A cover different conduct.
 
-### MCQ 10. The CVC acquired statutory status through:
+### MCQ 10. Which enactment provides the Central Vigilance Commission's statutory foundation?
 
-A. Central Vigilance Commission Act, 2003
-B. Consumer Protection Act, 2019
-C. RTI Act, 2005
-D. DSPE Act, 1946
+A. Delhi Special Police Establishment Act, 1946.
+B. Lokpal and Lokayuktas Act, 2013.
+C. Prevention of Corruption (Amendment) Act, 2018.
+D. Central Vigilance Commission Act, 2003.
 
-**Answer: A.** The CVC Act 2003 is its statutory foundation; the institution originally began in 1964.
+**Answer: D.** The CVC Act 2003 provides the statutory commission. The DSPE Act concerns investigative police powers, the Lokpal Act creates another institution, and the 2018 amendment changed corruption offences.
 
-### MCQ 11. The CBI’s core police powers are principally grounded in:
+### MCQ 11. The CBI was constituted by executive resolution in 1963. Which statute principally supplies the police powers exercised by its DSPE wing?
 
-A. Delhi Special Police Establishment Act, 1946
-B. Telangana Lokayukta Act, 1983
-C. POSH Act, 2013
-D. Article 243G alone
+A. Central Vigilance Commission Act, 2003.
+B. Delhi Special Police Establishment Act, 1946.
+C. Lokpal and Lokayuktas Act, 2013.
+D. Right to Information Act, 2005.
 
-**Answer: A.** The CBI was established by executive resolution in 1963; the DSPE Act supplies the principal statutory police powers.
+**Answer: B.** The DSPE Act provides the police establishment's core statutory powers. The other Acts address vigilance, ombudsman complaints or access to information; they do not replace the DSPE legal basis.
 
-### MCQ 12. Which DSPE Act provision generally concerns state-government consent?
+### MCQ 12. Which DSPE Act section generally requires state consent for the establishment to exercise jurisdiction in a state, subject to recognised legal exceptions?
 
-A. Section 6
-B. Section 2 of RTI
-C. Section 44 of DPDP
-D. Section 7 of POSH
+A. Section 3, notification of offences to be investigated.
+B. Section 5, extension of jurisdiction to other areas.
+C. Section 6, consent of the State Government.
+D. Section 4, superintendence and administration.
 
-**Answer: A.** Section 6 deals with consent to exercise DSPE powers in states, subject to applicable exceptions and judicial directions.
+**Answer: C.** Section 6 addresses state consent; Section 5 concerns extension and must be read together with Section 6. Court-directed investigations raise a distinct constitutional exception, not a rewriting of Section 6.
 
 ### MCQ 13. The national Lokpal is established under:
 
@@ -505,32 +510,32 @@ D. DSPE Act, 1946
 
 **Answer: A.** The 2019 consumer statute established the Central Consumer Protection Authority.
 
-### MCQ 17. RTI Section 4 is primarily concerned with:
+### MCQ 17. Which RTI Act provision primarily imposes proactive publication and record-management obligations on public authorities?
 
-A. Proactive disclosure by public authorities
-B. A citizen’s criminal trial
-C. State police consent
-D. Appointment of ministers
+A. Section 6, request procedure.
+B. Section 7, disposal of requests.
+C. Section 19, appeals.
+D. Section 4, obligations of public authorities.
 
-**Answer: A.** Section 4 establishes specified disclosure and record-management duties.
+**Answer: D.** Section 4 is the proactive-disclosure and record-management provision. Sections 6, 7 and 19 regulate applications, decisions and appeals respectively.
 
-### MCQ 18. The ordinary RTI response period under Section 7 is:
+### MCQ 18. Subject to the RTI Act's special rules and exclusions, what is the ordinary time limit for a PIO to decide a request?
 
-A. 30 days
-B. 180 days
-C. One year
-D. 24 hours in every case
+A. 48 hours for all requests.
+B. 30 days from receipt of the request.
+C. 45 days for every request.
+D. 90 days, matching a second appeal.
 
-**Answer: A.** Thirty days is the ordinary rule; life/liberty requests and special circumstances have different provisions.
+**Answer: B.** Section 7(1) ordinarily provides 30 days. The 48-hour life-or-liberty rule and other statutory variations should not be collapsed into a universal deadline.
 
-### MCQ 19. Information concerning life or liberty ordinarily attracts which RTI response period?
+### MCQ 19. Where information sought concerns the life or liberty of a person, what special response period does RTI Section 7(1) prescribe?
 
-A. 48 hours
-B. 60 days
-C. 90 days
-D. Six months
+A. Five days, the general transfer period under Section 6(3).
+B. Thirty days, with no exception.
+C. Forty-eight hours from receipt of the request.
+D. Ninety days, the ordinary appeal period.
 
-**Answer: A.** The RTI Act contains a 48-hour rule where the information concerns life or liberty.
+**Answer: C.** The life-or-liberty proviso to Section 7(1) prescribes 48 hours. The five-day transfer and ordinary 30-day rules govern different circumstances.
 
 ### MCQ 20. An RTI application to a central ministry should ordinarily use:
 
@@ -541,14 +546,14 @@ D. Consumer Commission only
 
 **Answer: A.** The central online portal covers central public authorities and warns against using it for state authorities.
 
-### MCQ 21. Which section enables severing exempt portions of a record for disclosure of the remainder?
+### MCQ 21. A requested record contains both disclosable material and a separable exempt portion. Which RTI provision specifically permits disclosure of the non-exempt part?
 
-A. RTI Section 10
-B. RTI Section 24 only
-C. DSPE Section 6
-D. CVC Section 1
+A. Section 8, exemptions from disclosure.
+B. Section 9, rejection on specified copyright grounds.
+C. Section 11, third-party consultation procedure.
+D. Section 10, severability.
 
-**Answer: A.** Section 10 provides for severability where exempt material can be separated.
+**Answer: D.** Section 10 permits access to reasonably severable non-exempt portions. Sections 8, 9 and 11 concern different statutory tests or procedures.
 
 ### MCQ 22. Which development changed RTI Section 8(1)(j) with effect in November 2025?
 
@@ -559,35 +564,33 @@ D. 73rd Constitutional Amendment
 
 **Answer: A.** Gazette G.S.R. 843(E) commenced DPDP Section 44(3), amending RTI’s personal-information exemption.
 
-### MCQ 23. An RTI applicant asks an officer to create a fresh statistical model not held by the authority. The most accurate response is:
+### MCQ 23. An applicant demands that a department invent a new predictive statistical model rather than supply an existing record. Which interpretation best reflects the RTI Act?
 
-A. RTI generally provides existing held information, not mandatory creation of new analysis
-B. All such requests must be accepted
-C. RTI is a consumer refund procedure
-D. The CVC must answer every statistical question
+A. The PIO must commission any new model requested by an applicant.
+B. RTI generally provides access to existing information held or controlled by the authority, not creation of fresh analysis.
+C. The Information Commission must produce all requested calculations itself.
+D. All statistical records are automatically exempt from RTI.
 
-**Answer: A.** RTI concerns information held or controlled by a public authority; it is not a general research-commissioning power.
+**Answer: B.** The Act's definition and right of access concern information held by or under the control of a public authority. An existing calculation or dataset may be disclosable; the Act does not ordinarily compel a newly created research model.
 
-### MCQ 24. Which report of the Second ARC specifically addresses ethics in governance?
+### MCQ 24. Which Second Administrative Reforms Commission report is titled 'Ethics in Governance'?
 
-A. Fourth Report, January 2007
-B. Fifteenth Finance Commission report
-C. Sarkaria Commission only
-D. Punchhi Commission only
+A. Tenth Report, Refurbishing of Personnel Administration.
+B. Twelfth Report, Citizen Centric Administration.
+C. Fourth Report, January 2007.
+D. Eleventh Report, Promoting e-Governance.
 
-**Answer: A.** The Second ARC’s Fourth Report is Ethics in Governance; other ARC reports address personnel and citizen-centric administration.
+**Answer: C.** The Second ARC's Fourth Report is Ethics in Governance (January 2007). The other report numbers refer to distinct administrative reform subjects.
 
-### MCQ 25. A district dashboard shows fast complaint closure but high appeal reversals. Best inference?
+### MCQ 25. A district reports that 95% of grievances were closed within deadline, but independent appeals frequently reverse the original decisions. What is the most defensible inference?
 
-A. Speed alone may conceal incorrect or unfair decisions
-B. Every complaint was properly resolved
-C. No further evaluation is needed
-D. All officials committed criminal offences
+A. The closure rate proves that nearly all grievances were correctly resolved.
+B. The reversals prove criminal misconduct by every deciding official.
+C. The appeal system should be abolished to improve closure statistics.
+D. Timeliness must be assessed alongside decision accuracy, reasons, accessibility and appeal outcomes.
 
-**Answer: A.** Appeal reversals are a quality signal; assess accuracy, reasons, accessibility and independent outcomes.
+**Answer: D.** A fast closure rate measures processing speed, not substantive correctness. Appeal reversals warrant sample review; they do not alone prove offences or justify removing appellate safeguards.
 
-
----
 
 # Original mains practice: question-specific blueprints and complete model answers
 
@@ -686,8 +689,6 @@ D. All officials committed criminal offences
 **Conclusion.** Pilot reforms in selected mandals, compare baseline and post-reform timeliness, correctness and inclusion, then scale only after independent assessment. Administrative reform succeeds when the citizen’s actual burden falls, not when departmental statistics merely look better.
 
 
----
-
 # Primary-source register, current affairs and academic audit
 
 **Research cut-off:** 23 October 2026. The entries below are source identifiers used in the chapter, not claims of academic peer review. Official pages may change; recheck before the examination. No source page numbers are included in the student notes.
@@ -735,3 +736,20 @@ D. All officials committed criminal offences
 4. State service rules, commission membership and consumer pecuniary jurisdiction may change; the chapter avoids unsourced universal thresholds and treats the official current rules as controlling.
 5. Statutory text, institutional webpages and administrative guidance have been internally cross-checked for role and date. **No independent academic review or line-by-line legal peer audit has occurred.**
 6. PDF/HTML/ZIP validation is a production check, not proof that every factual assertion is error-free.
+
+## 27 October 2026 — Cycle 34 bounded practice-MCQ editorial and source audit
+
+Fifteen EXISTING original practice questions (3, 5, 6, 7, 9, 10, 11, 12, 17, 18, 19, 21, 23, 24, 25) were rewritten in place with more discriminating alternatives and option-specific explanations. All 25 remain newly authored practice questions; none is claimed as a verified official PYQ. Original 31-page PDF is retained. The revised bank's A/B/C/D answer distribution is 10/5/5/5, but balance is not evidence of factual correctness.
+
+Dated author-side primary-source correspondences (not independent academic certification):
+
+- [C34-01] DARPG, *Designing and Implementing Sevottam* (September 2011), service standards, grievance redress, service capability (Q5–Q6): https://www.darpg.gov.in/sites/default/files/Sevottam_Guidelines_Sept_2011.pdf
+- [C34-02] India Code, *Sexual Harassment of Women at Workplace Act, 2013*, sections 4 and 6, Internal/Local Committees (Q7): https://upload.indiacode.nic.in/showfile?actid=AC_CEN_13_14_00009_201314_1517807327213&filename=a2013-14.pdf&type=actfile
+- [C34-03] India Code, *Prevention of Corruption Act, 1988* (as amended), section 7 (Q9): https://www.indiacode.nic.in/bitstream/123456789/12894/1/prevention_of_corruption_act_1988_49_of_1988.pdf
+- [C34-04] India Code, *Central Vigilance Commission Act, 2003* (Q10): https://www.indiacode.nic.in/bitstream/123456789/2067/1/A2003-45.pdf
+- [C34-05] India Code, *Delhi Special Police Establishment Act, 1946*, sections 2–6 (Q11–Q12): https://www.indiacode.nic.in/bitstream/123456789/2258/1/A1946-25.pdf
+- [C34-06] DoPT official RTI legislation index and amended RTI text, sections 2, 4, 6, 7, 10, 19 (Q17–Q19, Q21, Q23): https://rti.dopt.gov.in/
+- [C34-07] DARPG, Second ARC Fourth Report, *Ethics in Governance* (January 2007), Q3 and Q24: https://darpg.gov.in/sites/default/files/ethics4.pdf
+- [C34-08] DARPG, Second ARC Twelfth Report, *Citizen Centric Administration*, Sevottam service quality and grievance outcomes (Q25): https://darpg.gov.in/sites/default/files/ccadmin12.pdf
+
+Verification boundary: item-level author-side comparisons to the listed government texts for the relevant legal/institutional propositions; no independent examiner, no complete legal audit of all 25 questions and 100 alternatives, no independent mains claim audit, and no direct official Commission syllabus PDF retrieval. Q3/Q25 remain evaluative scenarios, not statutory holdings. R1/R4/R5/R6 remain unpassed; R9 not started.
