@@ -83,6 +83,7 @@ while i<len(tokens):
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
     if tag=='h2' and ('Part D' in inl.content or 'Part E' in inl.content or 'Part F' in inl.content):story.append(PageBreak())
+    if 'Original schematic A' in inl.content:story.append(PageBreak()) # keep the two new diagrams together, avoid an orphan heading
     story.append(Paragraph(val,styles[key]));i+=3;continue
  if t.type=='table_open':current_table=[];i+=1;continue
  if t.type=='tr_open':row=[];i+=1;continue
