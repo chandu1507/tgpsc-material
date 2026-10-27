@@ -72,12 +72,12 @@ C. Eligible deposit-taking NBFCs may accept deposits subject to restrictions
 D. All NBFCs issue demand cheques like banks  
 **Answer: C.** NBFC powers vary by registration/category; NBFC deposits are not covered by DICGC. [S08, S12]
 
-**11. Deposit insurance at an insured bank is generally limited to:**
-A. ₹5 lakh per account at each branch  
-B. ₹5 lakh per depositor per insured bank in the same right and capacity  
-C. All principal without limit  
-D. ₹5 lakh for NBFC fixed deposits  
-**Answer: B.** DICGC aggregates eligible balances across branches of the same bank in the same right and capacity; principal plus interest count within the cap. [S08]
+**11. A person holds ₹3.8 lakh in savings and ₹2.1 lakh in a fixed deposit including interest, at different branches of the same DICGC-insured bank, in the same individual capacity. What is the maximum insured amount?**
+A. ₹5.9 lakh because both accounts qualify  
+B. ₹10 lakh because there are two branches  
+C. ₹3.8 lakh because fixed deposits are excluded  
+D. ₹5 lakh because eligible balances are aggregated by depositor, bank and capacity  
+**Answer: D.** The eligible total is ₹5.9 lakh, but the same-right/same-capacity ceiling is ₹5 lakh including interest across branches; ₹0.9 lakh exceeds that ceiling. [S08, S20]
 
 **12. Which institution is especially associated with rural credit development and RRB supervision alongside RBI?**
 A. NABARD  
@@ -170,9 +170,9 @@ C. 40% of ANBC or prescribed equivalent
 D. 100% of total deposits  
 **Answer: C.** The RBI's PSL framework specifies a broad 40% target for the stated bank category, with separate subtargets and exceptions. [S16]
 
-**25. Which conclusion best fits the Telangana district-credit example?**
-A. More branches always guarantee affordable farm credit  
-B. UPI transaction growth alone proves lower farm indebtedness  
-C. District credit planning should assess access, pricing, repayment and grievance outcomes  
-D. RBI directly decides every district crop-loan sanction  
-**Answer: C.** Effective inclusion combines credit reach, sustainability and consumer protection; neither national monetary aggregates nor raw branch counts establish success. [S11]
+**25. In a hypothetical conventional RBI series, M1 is ₹185 crore, bank time deposits ₹300 crore and post-office savings deposits ₹20 crore. Which pair is correct?**
+A. M2 = ₹485 crore; M3 = ₹205 crore  
+B. M2 = ₹505 crore; M3 = ₹485 crore  
+C. M2 = ₹205 crore; M3 = ₹505 crore  
+D. M2 = ₹205 crore; M3 = ₹485 crore  
+**Answer: D.** M2 = 185 + 20 = ₹205 crore; M3 = 185 + 300 = ₹485 crore. M3 does not include M2 as a component. These inputs are hypothetical. [S01]

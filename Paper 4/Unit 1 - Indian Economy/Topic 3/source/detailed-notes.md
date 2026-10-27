@@ -40,6 +40,16 @@ A money-stock series is measured at a reporting date, not over a financial year 
 
 Telangana's high-volume urban digital economy and rural cash-dependent transactions illustrate why a state-level payment innovation cannot be treated as a national money-supply shock. If a self-help group moves savings from cash to a bank account, measured components shift. If a commercial bank creates a new loan and corresponding deposit, aggregate deposit money can expand. If a bank subsequently writes off a bad loan, its capital and income are affected; the exact monetary effect depends on the related balance-sheet and settlement transactions.
 
+### Worked monetary-aggregate laboratory: M2 and M3 are not nested
+
+**Hypothetical data, not RBI statistics.** Assume currency held by the public ₹100 crore, net bank demand deposits ₹80 crore, other RBI deposits ₹5 crore, bank time deposits ₹300 crore, post-office savings deposits ₹20 crore and all eligible post-office deposits excluding National Savings Certificates ₹50 crore. The last total already includes the ₹20 crore savings component. RBI's conventional definitions yield **M1 = 100 + 80 + 5 = ₹185 crore**, **M2 = 185 + 20 = ₹205 crore**, **M3 = 185 + 300 = ₹485 crore**, and **M4 = 485 + 50 = ₹535 crore**. These are money *stocks* at one date, not a total of payments made over a year. [S01]
+
+**Conceptual trap.** M2 adds post-office savings to M1, whereas M3 adds bank time deposits directly to M1. M3 is not M2 plus time deposits; that incorrect procedure produces ₹505 crore and wrongly includes postal savings in M3. Reserve money M0 is also different: it includes currency *in circulation* and bankers' RBI deposits, while M1 includes currency *with the public* and public demand deposits. Cash held in bank vaults is not public currency. Do not treat a commercial bank's reserve balance at RBI as a household's spendable deposit.
+
+**Transaction experiment.** Transfer ₹10 crore from demand deposits to time deposits within the banking system, keeping everything else unchanged. M1 becomes ₹175 crore and M2 ₹195 crore, while M3 stays ₹485 crore and M4 ₹535 crore: the decrease in one bank-deposit category offsets the increase in another. Withdrawing ₹10 crore in cash from a demand account similarly increases public currency while reducing demand deposits, so M1 need not change. Neither reshuffling alone proves new bank lending or monetary inflation. To assess credit creation, follow the loan asset, matching deposit liability and subsequent interbank settlement.
+
+**Verification method.** RBI also publishes revised monetary aggregates (NM series), which must not be confused with the conventional M1–M4 series. Check the reporting date, net-versus-gross interbank treatment and institutional boundary before comparing figures. UPI transaction value, outstanding shares and new-loan disbursement flows are not automatically additions to M3. The arithmetic above is reproducible from the RBI definitions but its input amounts are deliberately fictional. [S01]
+
 ## 3. How commercial banks create deposit money and why the multiplier is conditional
 
 ### The loan-deposit mechanism
@@ -87,6 +97,16 @@ The **Deposit Insurance and Credit Guarantee Corporation (DICGC)** insures eligi
 ### Service delivery and consumer protection
 
 A bank's social performance includes fair lending, accessible branches, transparent charges, complaint handling and safeguards against unauthorised electronic transactions. RBI's Integrated Ombudsman Scheme provides an escalation channel for specified regulated entities after initial complaint procedures. Banking correspondents extend basic services into villages but may face cash-management, connectivity and agent-incentive problems. For Telangana candidates, the distinction between a bank's prudential safety and the customer's ability to actually use an account is central to evaluating financial inclusion.
+
+### Deposit-insurance laboratory: ownership capacity, not branch count
+
+**Hypothetical insured-bank example.** A depositor holds ₹3.80 lakh in savings at Branch A and ₹2.10 lakh in a fixed deposit including accrued interest at Branch B of the **same insured bank**, both individually in the same right and capacity. Eligible balances total ₹5.90 lakh. DICGC covers **up to ₹5 lakh**, not ₹10 lakh because there are two accounts or branches; ₹0.90 lakh is above the insurance ceiling. Principal and interest are aggregated. The example concerns insurance coverage, not an estimate of what a bank's liquidation estate might ultimately repay. [S08, S20]
+
+**Change the bank or legal capacity, not the account number.** If the same individual holds ₹1.20 lakh at a different insured bank, that second bank's ceiling is calculated separately. Genuine joint accounts and fiduciary capacities may qualify for distinct treatment under the detailed same-right/same-capacity rules, but several individual accounts at one bank cannot multiply coverage. DICGC guidance also aggregates an individual's sole-proprietorship deposits with individual deposits in the relevant capacity. The question is who legally owns the deposit and in what capacity, not which branch issued the passbook.
+
+**Institutional boundary.** DICGC insurance applies to eligible deposits of insured banks, including qualifying commercial and cooperative banks. It does not protect an NBFC fixed deposit, a mutual-fund unit, shares or cryptocurrency. A bank may sell investment products that are not bank deposits. Telangana households comparing a bank FD with a higher-yield NBFC instrument must distinguish legal issuer, liquidity, default risk and statutory coverage rather than assuming identical protection.
+
+**Policy appraisal.** Deposit insurance supports confidence and may reduce incentives for a destabilising run, but it does not replace RBI supervision, adequate capital, liquidity management or credible resolution. Unlimited protection could also weaken depositor risk monitoring; a ceiling balances protection and discipline. In a mains answer, explain per-depositor/per-bank aggregation, principal-plus-interest, ownership capacity and exclusions before discussing financial stability. Do not convert ₹5 lakh into a per-account or per-branch guarantee. [S20]
 
 ## 6. Regional rural banks, cooperatives and rural credit in Telangana
 

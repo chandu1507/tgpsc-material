@@ -6,7 +6,7 @@
 
 **Measures and mechanisms.** Reserve money, or M0, includes currency in circulation and banks' and others' deposits with the RBI. M1 equals currency with the public, bank demand deposits and other RBI deposits. M2 adds specified post-office savings deposits. Broad money M3 adds bank time deposits to M1, while M4 adds other eligible post-office deposits. Bank lending can create a loan asset and matching deposit liability, but settlement liquidity, capital and credit risk constrain expansion.
 
-**Critical appraisal.** The same payment may circulate repeatedly without creating new M3; UPI transaction value is therefore not money stock. Shifting funds from demand to time deposits can alter M1 without changing M3. Inflation also depends on real output, money demand, velocity, supply shocks and expectations. A drought may raise food prices despite weak credit growth, while credit expansion during spare capacity may support output.
+**Critical appraisal.** The same payment may circulate repeatedly without creating new M3; UPI transaction value is therefore not money stock. Shifting funds from demand to time deposits can alter M1 without changing M3. M2 and M3 are not nested: M2 adds post-office savings, whereas M3 adds bank time deposits directly to M1. Inflation also depends on real output, money demand, velocity, supply shocks and expectations. A drought may raise food prices despite weak credit growth, while credit expansion during spare capacity may support output.
 
 **Conclusion.** RBI aggregates are essential monetary indicators, but interpretation requires balance-sheet evidence and the wider macroeconomic context rather than a fixed money-to-inflation rule.
 
@@ -40,7 +40,7 @@
 
 **Selective and prudential measures.** Priority-sector lending targets channel eligible credit toward agriculture and underserved sectors. Exposure limits, risk weights, capital requirements, provisioning, loan-to-value rules and supervision reduce concentration and instability. These instruments can target risk without uniformly restricting every borrower.
 
-**Critical appraisal.** Policy transmission passes through money-market rates, deposits, lending rates, expectations and spending. Fixed-rate contracts, weak bank balance sheets, risk premiums and low borrower demand cause delays. Higher rates cannot directly reverse drought-driven food shortages; aggressive tightening may damage MSMEs.
+**Critical appraisal.** Policy transmission passes through money-market rates, deposits, lending rates, expectations and spending. Fixed-rate contracts, weak bank balance sheets, risk premiums and low borrower demand cause delays. A floating-rate MSME loan may reprice before a fixed-rate housing loan, while deposit rates adjust at another speed. Higher rates cannot directly reverse drought-driven food shortages; aggressive tightening may damage MSMEs.
 
 **Conclusion.** Effective credit regulation combines transparent rate decisions, liquidity management, proportionate prudential rules and coordination with supply-side policy while preserving RBI's statutory accountability.
 
@@ -64,6 +64,6 @@
 
 **Benefits and Telangana relevance.** An informal entrepreneur in Karimnagar may obtain equipment finance using cash-flow data rather than property collateral. Microfinance can smooth seasonal income and support women's enterprises when pricing and collection are responsible. Digital onboarding can reduce cost and delay.
 
-**Risks and critical appraisal.** Reliance on wholesale borrowing creates funding and maturity mismatch. Concentrated loan portfolios, opaque charges, multiple borrowing and aggressive collections can harm households. NBFC distress can spread through links with banks and mutual funds. Overregulation could restrict access, but lax oversight socialises systemic costs.
+**Risks and critical appraisal.** Reliance on wholesale borrowing creates funding and maturity mismatch. Concentrated loan portfolios, opaque charges, multiple borrowing and aggressive collections can harm households. NBFC distress can spread through links with banks and mutual funds. Supervisors must distinguish deposit-taking from non-deposit-taking NBFCs, monitor related-party exposures and maturity mismatches, and track risk migration when banks tighten lending. Overregulation could restrict access, but lax oversight socialises systemic costs.
 
 **Conclusion.** Proportionate supervision, transparent effective interest rates, borrower-capacity checks, liquidity safeguards and credible grievance mechanisms allow NBFC innovation without sacrificing financial stability.

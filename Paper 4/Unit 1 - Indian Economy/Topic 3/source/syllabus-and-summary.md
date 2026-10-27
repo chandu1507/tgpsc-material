@@ -2,7 +2,7 @@
 
 **TGPSC Group I | Paper IV: Economy and Development | Unit I: Indian Economy and Development | Topic 3: Money and Banking.** Draft prepared 23 October 2026. **Academic status: NOT APPROVED.**
 
-**Notification 02/2024 syllabus wording:** “Money and Banking: Money supply, Structure of Indian Banking and non-banking financial institutions; Reforms in Banking sector; Regulation of credit by RBI”. The line is corroborated by published transcriptions of Annexure-II; the original notification's complete PDF text could not be directly authenticated in this run. [S17]
+**Notification 02/2024 syllabus wording:** “Money and Banking: Money supply, Structure of Indian Banking and non-banking financial institutions; Reforms in Banking sector; Regulation of credit by RBI”. **R1 PRIMARY-SOURCE PASS (27 October 2026):** original Commission Notification 02/2024, Annexure-II, PDF index 30 / printed page 31, lines 1726–1727, directly checked. [Official Commission PDF](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) [S19]. Four syllabus components map to detailed sections 1–3, 4–8, 10–11 and 9/12–14. R1 establishes syllabus correspondence only, not R2–R8 academic accuracy.
 
 | Syllabus component | Core sections | Exam deliverable |
 |---|---|---|

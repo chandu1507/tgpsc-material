@@ -411,10 +411,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "10,984-word expanded draft; 27-page complete PDF; 15 substantive sections, 25 original explained MCQs, six mains answers (202–219 words), three diagrams; 18-source audit. Original notification PDF and independent academic audit outstanding.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/4-1-3.json"
+      "production_review": "cycle37_official_R1_and_bounded_source_repair_pending_CI",
+      "notes": "Original 27-page PDF SHA256 2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0 preserved. 15 concepts >=300 words, 25 original practice MCQs, six mains. Cycle37 primary Commission syllabus R1 PASS, RBI M2/M3 and DICGC worked labs, Q11/Q25 revised, mains M1/M4/M6 expanded body-only 218/206/201/212/203/207. Full independent audit and remote CI PDF pending.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/4-1-3.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json"
     },
     {
       "id": "4-1-4",
@@ -1005,14 +1006,14 @@
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
     "pilot_in_progress": 7,
-    "topics_not_assessed": 64,
+    "topics_not_assessed": 50,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle26 canonical reconciliation: 7 IN_PROGRESS, 4 ASSESSED_REBUILD_REQUIRED, 64 NOT_ASSESSED; 75 original PDFs preserved. 3-1-4 assessed; eight MCQ keys source-correlated only; no independent approvals.",
+    "note": "Cycle37: 7 IN_PROGRESS, 18 ASSESSED_REBUILD_REQUIRED, 50 NOT_ASSESSED; nine R1 PASS; zero academic approvals.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
     "last_verified_package_run": 40383038864,
     "last_verified_package_artifact": 12679083916,
@@ -1025,24 +1026,39 @@
       "2-3-4",
       "2-3-5"
     ],
-    "last_topic": "3-1-4",
+    "last_topic": "4-1-3",
     "topics_assessed_rebuild_required": [
       "3-1-1",
       "3-1-2",
       "3-1-3",
-      "3-1-4"
+      "3-1-4",
+      "3-1-5",
+      "3-2-1",
+      "3-2-2",
+      "3-2-3",
+      "3-2-4",
+      "3-2-5",
+      "3-3-1",
+      "3-3-2",
+      "3-3-3",
+      "3-3-4",
+      "3-3-5",
+      "4-1-1",
+      "4-1-2",
+      "4-1-3"
     ]
   },
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 15,
-    "not_assessed": 53,
+    "assessed_rebuild_required": 18,
+    "not_assessed": 50,
+    "verified_R1_pass": 9,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "3-3-5",
-    "evidence": "project-control/academic-readiness/3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json"
+    "last_assessed": "4-1-3",
+    "evidence": "project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json"
   },
-  "last_readiness_update": "27 Oct Cycle34 post-render: Topic 3-3-5 synchronized 36-page CI PDF and offline HTML published; downloaded artifact 12721128624 independently CRC/SHA/75-topic/link/manifest checked; zero academic approvals.",
-  "last_readiness_reconciliation": "27 Oct Cycle34 post-render: 75 originals, 7 IN_PROGRESS, 15 ASSESSED_REBUILD_REQUIRED, 53 NOT_ASSESSED, zero R1-R8 ready/approved. Topic 3-3-5 R8 IN_PROGRESS, not PASS; direct browser/accessibility and independent academic verification outstanding."
+  "last_readiness_update": "27 Oct Cycle37: 4-1-3 primary R1 PASS and bounded source/MCQ/mains repair; remote CI and downloaded artifact pending.",
+  "last_readiness_reconciliation": "75 original topics; 7 IN_PROGRESS, 18 ASSESSED_REBUILD_REQUIRED, 50 NOT_ASSESSED; 9 R1 PASS; zero fully ready and zero independent approvals."
 }
