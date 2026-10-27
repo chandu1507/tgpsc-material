@@ -123,7 +123,7 @@
     "4-3-4",
     "4-3-5"
   ],
-  "last_readiness_update": "28 Oct Cycle48: Topic 4-3-4 CI-rendered 31-page PDF and actual downloaded GitHub ZIP verified (75 original PDFs unchanged, 22/22 manifest hashes, 431 local links, 1137 DOM fragments zero broken); Topic 4-3-5 first assessed. 7/30/38; zero R1–R8 ready and zero approvals.",
+  "last_readiness_update": "28 Oct Cycle48 corrected source: Topic 4-3-4 31-page PDF and downloaded ZIP artifact 12777079371 independently verified for CRC, all 75 original hashes, 22 manifest hashes, 431 local links, 1137 fragments. 30 MCQs = 30 keys + 90 distractors. Topic 4-3-5 assessed. 7/30/38, zero full R1–R8 ready, zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -138,6 +138,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-3-4-cycle48-corrected-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-4-cycle48-actual-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json",
     "project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json",
