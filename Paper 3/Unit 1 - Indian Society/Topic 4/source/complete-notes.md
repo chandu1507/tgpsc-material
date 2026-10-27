@@ -548,7 +548,7 @@ Avoid claiming that political statehood automatically solved rural social inequa
 The lasting measure of social movement success is not mobilisation alone but enforceable access to land, welfare, schooling, safe work, dignity and democratic participation.
 
 ### Implementation and outcome test
-**Implementation test:** Compare movement demands with verifiable changes in land access, women’s safety, education and local decision-making. Recognise disagreements between organisations and distinguish symbolic gains from service outcomes. Telangana statehood and anti-arrack histories cannot be collapsed into one undifferentiated social-movement narrative.
+**Implementation test:** Compare movement demands with verifiable changes in land access, women’s safety, education and local decision-making. Recognise disagreements between organisations and distinguish symbolic gains from service outcomes. Telangana statehood and anti-arrack histories cannot be collapsed into one undifferentiated social-movement narrative. An outcome audit must distinguish immediate announcements from sustained enforcement, accessible grievance channels, representation of excluded groups, and independently measurable improvements in livelihoods and safety.
 
 
 
