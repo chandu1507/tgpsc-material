@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-27",
+  "cycle": 33,
+  "repository": "chandu1507/tgpsc-material",
+  "baseline_main": "afa4b89b53b9da8f05123029954cd46b48e48b44",
+  "total_existing_topics": 75,
+  "status_after": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 14,
+    "NOT_ASSESSED": 54,
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0
+  },
+  "topics": {
+    "3-3-3": {
+      "legacy_pdf_pages": 37,
+      "legacy_pdf_sha256": "d7ea1aca5e13e1d71283bb58d0de064e047064f03a6a60b26eb1501395d5bcfc",
+      "concept_count": 14,
+      "concepts_under_300": 0,
+      "concept_word_range": [
+        410,
+        614
+      ],
+      "mcqs": 25,
+      "mcq_revised": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        11,
+        16,
+        18,
+        20,
+        24
+      ],
+      "keys_after": {
+        "A": 4,
+        "B": 9,
+        "C": 6,
+        "D": 6
+      },
+      "mains_body_only": [
+        210,
+        219,
+        217,
+        219,
+        217,
+        210
+      ],
+      "visuals_existing_png": 2,
+      "integrated_pdf": "pending CI actual artifact",
+      "verified_primary_correspondences": [
+        "Article243G Eleventh Schedule",
+        "SERP MEPMA",
+        "VB-G RAM G 2025 Act and 1 July 2026 commencement",
+        "NFSA PHH 5kg and AAY 35kg",
+        "RTE ages 6–14"
+      ],
+      "limitations": [
+        "Full official syllabus PDF inaccessible",
+        "15 inherited MCQ keys and all distractors unverified independently",
+        "six mains not claim-level audited",
+        "visuals not independently academically certified",
+        "public browser and accessibility not verified"
+      ]
+    },
+    "3-3-4": {
+      "legacy_pdf_pages": 35,
+      "legacy_pdf_sha256": "0d4fb8463bbced10bc1f481020e9b2350f77ae646f1c0dcdd910781a33a98a63",
+      "concept_count": 14,
+      "concepts_under_300": 0,
+      "concept_word_range": [
+        459,
+        633
+      ],
+      "mcqs": 25,
+      "keys": {
+        "A": 4,
+        "B": 8,
+        "C": 11,
+        "D": 2
+      },
+      "mains_body_only": [
+        233,
+        234,
+        230,
+        237,
+        236,
+        244
+      ],
+      "limitations": [
+        "No independent full MCQ/distractor audit",
+        "No direct official syllabus primary PDF",
+        "Mains factual audit and visuals pending",
+        "Integrated synchronized PDF not generated"
+      ]
+    }
+  },
+  "primary_sources": [
+    "https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf",
+    "https://khammam.telangana.gov.in/drda-serp/",
+    "https://kamareddy.telangana.gov.in/mepma/",
+    "https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse",
+    "https://www.dord.gov.in/static/uploads/2026/05/6c0a4feea975932109261916ea1fc699.pdf",
+    "https://dfpd.gov.in/implementation-of-nfsa/en",
+    "https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/AssmntCCE.pdf"
+  ],
+  "verification_note": "Official sources read/search-indexed; some PDFs direct retrieval incomplete. No invented page-level archival checks. Numeric depth is not academic approval."
+}

@@ -350,9 +350,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle33_objective_gap_assessment_author_side_not_approved",
+      "notes": "14 concepts 410–614 words; 25 MCQs (ten rewritten with bounded source checks), 6 mains bodies 210/219/217/219/217/210; 2 PNG diagrams; 37-page legacy PDF preserved, integrated CI PDF pending. Academic R1–R8 not fully passed; no independent approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-3-3.json"
     },
     {
@@ -362,9 +362,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "13,745 words; 14 concept chapters; 25 original explained MCQs; 6 mains models (218–229 words); 3 diagrams; 35-page PDF. Official primary syllabus PDF full retrieval pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle33_objective_gap_assessment_author_side_not_approved",
+      "notes": "14 concepts 459–633 words; 25 MCQs; 6 mains bodies 233/234/230/237/236/244; 35-page original PDF preserved, existing visuals not independently verified. Academic R1–R8 not fully passed; no independent approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-3-4.json"
     },
     {
@@ -1029,13 +1029,14 @@
   },
   "academic_readiness_summary": {
     "in_progress": 7,
-    "assessed_rebuild_required": 5,
-    "not_assessed": 63,
+    "assessed_rebuild_required": 14,
+    "not_assessed": 54,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "3-1-5",
-    "evidence": "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json"
+    "evidence": "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
+    "total_topics": 75
   },
-  "last_readiness_update": "27 Oct Cycle29 final actual artifact verified; 7 IN_PROGRESS, 7 ASSESSED_REBUILD_REQUIRED, 61 NOT_ASSESSED; 0 fully ready, 0 independent approvals.",
+  "last_readiness_update": "27 Oct Cycle33: 75 original topics, 7 IN_PROGRESS, 14 ASSESSED_REBUILD_REQUIRED, 54 NOT_ASSESSED; topics 3-3-3 and 3-3-4 individually assessed; integrated 3-3-3 CI artifact pending actual download and QA; zero fully ready or independently approved.",
   "last_readiness_reconciliation": "27 Oct Cycle31: 75 originals, 7 IN_PROGRESS, 10 ASSESSED_REBUILD_REQUIRED, 58 NOT_ASSESSED, 0 fully ready/approved. Topics 3-2-4 and 3-2-5 integrated 34/28-page CI PDFs, actual artifact 12712828105 downloaded and CRC/SHA/link verified; R8 remains IN_PROGRESS."
 }

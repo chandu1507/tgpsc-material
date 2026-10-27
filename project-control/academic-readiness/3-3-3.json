@@ -1,8 +1,8 @@
 {
   "topic_id": "3-3-3",
   "title": "Urban and Rural Development, Participation, Poverty Alleviation and Social Rights",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,55 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "BLOCKED",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle33 individual source/PDF/MCQ/mains inventory, bounded primary-source correspondence and preserved-original hashes; see project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json. No complete R1–R8 verification.",
+  "next_action": "Complete direct syllabus comparison, all MCQ keys and distractors, six mains claim audits, diagram review and accessible synchronized publication; do not claim R9.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_cycle33": {
+    "legacy_pdf_sha256": "d7ea1aca5e13e1d71283bb58d0de064e047064f03a6a60b26eb1501395d5bcfc",
+    "legacy_pdf_pages": 37,
+    "explanatory_concepts": 14,
+    "concepts_below_300": 0,
+    "original_practice_mcqs": 25,
+    "mains_answers": 6,
+    "mains_body_only_word_counts": [
+      210,
+      219,
+      217,
+      219,
+      217,
+      210
+    ],
+    "mcq_answer_distribution": {
+      "A": 4,
+      "B": 9,
+      "C": 6,
+      "D": 6
+    },
+    "mcq_revisions": [
+      2,
+      3,
+      4,
+      7,
+      8,
+      11,
+      16,
+      18,
+      20,
+      24
+    ],
+    "source_check_scope": "10 revised keys author-side checked against accessible official materials; remaining 15 and all distractors lack independent audit",
+    "r1_direct_official_pdf_verified": false,
+    "integrated_pdf": "CI pending; original preserved",
+    "independent_approval": false
+  }
 }

@@ -10,3 +10,5 @@ Expanded draft dated 23 October 2026; **not academically approved**.
 - `manifest.json`: counts, SHA256 hashes and verification limitations.
 
 **All questions are original practice, not official PYQs.** Current legal update: VB-G RAM G Act 2025 effective 1 July 2026. The official TGPSC PDF returned 403 on direct retrieval. The prior 19-topic master is not in this package.
+
+**Cycle33 integrated edition:** `source/integrated-student-edition-2026-10-27.pdf` is rendered from the canonical editable `source/complete-notes.md` by the guarded CI workflow. The 37-page `complete-notes.pdf` is preserved unchanged. Ten original MCQs received bounded author-side source checks; R1–R8 and independent approval remain incomplete.

@@ -39,3 +39,16 @@
 5. **Legal nuance:** Health under Article 21 is an interpreted constitutional right, not unlimited free treatment; Article 21A covers ages 6–14; NFSA entitlement denominators are different for PHH and AAY.
 6. **Practice questions:** All MCQs and mains prompts are newly written original practice questions; no official past question is asserted or simulated as verified.
 7. **Academic approval:** Structural checks and source cross-checking are not a full subject-expert legal/factual audit. This chapter remains **NOT APPROVED**.
+
+## 27 October 2026 — bounded primary-source correspondence, not R4/R5 approval
+
+Ten existing practice MCQs (Q2, Q3, Q4, Q7, Q8, Q11, Q16, Q18, Q20 and Q24) were rewritten to improve key distribution, remove obviously impossible alternatives and sharpen legal or administrative distinctions. The author checked their principal propositions against the following accessible official materials. This does **not** constitute independent verification of every distractor, and the other fifteen MCQs remain unaudited.
+
+- Constitution (73rd Amendment), Article 243G and Eleventh Schedule: https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf and https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf (Q2).
+- Telangana Khammam DRDA/SERP federation profile: https://khammam.telangana.gov.in/drda-serp/ ; Telangana MEPMA urban mission: https://kamareddy.telangana.gov.in/mepma/ (Q3–Q4).
+- India Code Act 36 of 2025: https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse ; Ministry of Rural Development/PIB release dated 11 May 2026: https://www.dord.gov.in/static/uploads/2026/05/6c0a4feea975932109261916ea1fc699.pdf (Q7–Q8).
+- Department of Food and Public Distribution, NFSA implementation and FAQs: https://dfpd.gov.in/implementation-of-nfsa/en and https://dfpd.gov.in/faqs/en (Q11, Q24; the exact authentication-failure fallback is not independently certified).
+- Ministry of Education, RTE guidance: https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/AssmntCCE.pdf (Q16).
+- Constitutional framework and existing chapter source register for Article 21 and public-health policy (Q18); conceptual programme-output/outcome distinction (Q20).
+
+The revised answer distribution is A4/B9/C6/D6. A balanced distribution is not evidence of correctness. No official PYQs are claimed. All six mains bodies satisfy the numerical 200–250-word target, but factual claim-by-claim review is still pending. The direct TGPSC syllabus PDF remains inaccessible and R1 is not PASS.

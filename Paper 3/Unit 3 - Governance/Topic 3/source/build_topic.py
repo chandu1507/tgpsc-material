@@ -9,10 +9,10 @@ from reportlab.lib.pagesizes import A4
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from PIL import Image as PILImage
-ROOT=Path('/mnt/data/TGPSC_P3_U3_T3');SRC=ROOT/'source'
+ROOT=Path(__file__).resolve().parent.parent;SRC=ROOT/'source'
 TITLE='Programmes, Agencies and Institutions for Urban and Rural Development; Participatory Development; Poverty Alleviation; Women Empowerment; Rights to Health, Food Security and Education'
 parts=['syllabus-and-summary.md','detailed-notes.md','visual-learning.md','quick-revision.md','original-mcqs.md','mains-model-answers.md','sources-and-audit.md']
-header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 3 | Expanded draft | 23 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All 25 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
+header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 3 | Expanded draft | 27 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All 25 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
 md=header+'\n\n'.join((SRC/p).read_text(encoding='utf-8') for p in parts)
 (SRC/'complete-notes.md').write_text(md,encoding='utf-8')
 # offline HTML
@@ -25,7 +25,7 @@ from bs4 import BeautifulSoup
 soup=BeautifulSoup(htmlbody,'html.parser');toc=[]
 for i,h in enumerate(soup.find_all('h2')):
  id=f'section-{i+1}';h['id']=id;toc.append(f'<a href="#{id}">{html.escape(h.get_text())}</a>')
-page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(TITLE)} — TGPSC</title><style>{css}</style></head><body><header><h1>TGPSC Group I · Paper III · Unit III · Topic 3</h1><p>Urban and rural development · Participatory development · Poverty alleviation · Women empowerment · Health, food and education rights</p><p><span class="badge">Expanded draft — academically unapproved</span> &nbsp; 25 original MCQs · 6 mains models</p><p><a style="color:#ffd4aa" href="../../../index.html">← 75-topic offline study portal</a> &nbsp; <a style="color:#ffd4aa" href="complete-notes.pdf">Read PDF</a> &nbsp; <a style="color:#ffd4aa" href="source/complete-notes.md">Editable Markdown</a></p></header><main><nav><b>Chapter contents</b><div class="toc">{''.join(toc)}</div></nav>{str(soup)}</main><footer>Original study draft; no official PYQs claimed. Research cutoff: 23 October 2026.</footer></body></html>'''
+page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(TITLE)} — TGPSC</title><style>{css}</style></head><body><header><h1>TGPSC Group I · Paper III · Unit III · Topic 3</h1><p>Urban and rural development · Participatory development · Poverty alleviation · Women empowerment · Health, food and education rights</p><p><span class="badge">Expanded draft — academically unapproved</span> &nbsp; 25 original MCQs · 6 mains models</p><p><a style="color:#ffd4aa" href="../../../index.html">← 75-topic offline study portal</a> &nbsp; <a style="color:#ffd4aa" href="source/integrated-student-edition-2026-10-27.pdf">Read integrated PDF</a> &nbsp; <a style="color:#ffd4aa" href="source/complete-notes.md">Editable Markdown</a></p></header><main><nav><b>Chapter contents</b><div class="toc">{''.join(toc)}</div></nav>{str(soup)}</main><footer>Original study draft; no official PYQs claimed. Source register updated: 27 October 2026.</footer></body></html>'''
 (ROOT/'index.html').write_text(page,encoding='utf-8')
 # reportlab PDF
 pdfmetrics.registerFont(TTFont('DV','/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'))
@@ -103,6 +103,21 @@ def on_page(canvas,doc):
  canvas.setFont('DV',7);canvas.setFillColor(colors.HexColor('#617588'))
  canvas.drawString(46,29,'TGPSC Group I · Paper III / Unit III / Topic 3 · Expanded draft — not academically approved')
  canvas.restoreState()
-doc=SimpleDocTemplate(str(ROOT/'complete-notes.pdf'),pagesize=A4,rightMargin=46,leftMargin=46,topMargin=52,bottomMargin=57,title=TITLE,author='TGPSC Group I Study Library',pageCompression=1)
+doc=SimpleDocTemplate(str(SRC/'integrated-student-edition-2026-10-27.pdf'),pagesize=A4,rightMargin=46,leftMargin=46,topMargin=52,bottomMargin=57,title=TITLE,author='TGPSC Group I Study Library',pageCompression=1)
 doc.build(story,onFirstPage=on_page,onLaterPages=on_page)
-print('MANUSCRIPT WORDS',len(md.split()),'HTML',len(page),'PDF', (ROOT/'complete-notes.pdf').stat().st_size)
+print('MANUSCRIPT WORDS',len(md.split()),'HTML',len(page),'PDF', (SRC/'integrated-student-edition-2026-10-27.pdf').stat().st_size)
+
+# Synchronize a manifest without touching the preserved original complete-notes.pdf.
+manifest_path=ROOT/'manifest.json'
+manifest=json.loads(manifest_path.read_text(encoding='utf-8'))
+manifest['new_topics_this_run']=0
+manifest['historical_creation_inventory']={k:manifest.pop(k,None) for k in ('previous_indicated_drafts','indicated_drafts_after_run','indicated_remaining_after_run')}
+manifest['current_topic_inventory_total']=75
+manifest['research_cutoff']='2026-10-27'
+manifest['academic_status']='ASSESSED_REBUILD_REQUIRED; partial author-side checks; independent approval zero'
+manifest['mains_answer_words']=[210,219,217,219,217,210]
+manifest['original_mcqs']=25
+manifest['mains_answers']=6
+manifest['integrated_student_pdf']={'path':'source/integrated-student-edition-2026-10-27.pdf','sha256':hashlib.sha256((SRC/'integrated-student-edition-2026-10-27.pdf').read_bytes()).hexdigest(),'legacy_pdf_preserved':True}
+manifest['file_sha256']={str(f.relative_to(ROOT)):hashlib.sha256(f.read_bytes()).hexdigest() for f in sorted(ROOT.rglob('*')) if f.is_file() and f.name!='manifest.json'}
+manifest_path.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\\n',encoding='utf-8')

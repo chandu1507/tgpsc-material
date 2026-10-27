@@ -9,26 +9,26 @@ C. A government order is an impact measure.
 D. Expenditure and learning achievement are identical measures.  
 **Answer: B.** **Explanation:** Installation is a delivered product; functionality and safe use describe the service actually experienced. Impacts such as reduced waterborne illness require further causal evidence. [S14]
 
-### Q2. The Eleventh Schedule of the Constitution is best understood as:
-A. Automatically transferring all 29 subjects, staff and finance to every Panchayat.  
-B. Listing potential Panchayat subjects, with devolution shaped by state law and implementation.  
-C. Governing only municipal corporations.  
-D. Creating a separate federal legislature.  
-**Answer: B.** **Explanation:** Article 243G enables state legislation to confer powers. Listing a subject alone does not fund or staff it. [S2]
+### Q2. What does Article 243G, read with the Eleventh Schedule, establish about Panchayat functions?
+A. The Schedule exclusively assigns district-planning-committee powers to Panchayats.  
+B. Every State must automatically transfer all 29 listed subjects, staff and budgets without legislation.  
+C. The Schedule itself prescribes a uniform list of Panchayat taxes across States.  
+D. State legislatures may confer Panchayat powers by law, including responsibilities relating to listed subjects; listing alone is not devolution.  
+**Answer: D.** **Explanation:** Article 243G enables State legislation; the Eleventh Schedule lists subject areas, but does not itself transfer functions, funds or staff. [S2; Legislative Department, Constitution (73rd Amendment), Article 243G]
 
-### Q3. Which pairing correctly describes Telangana community institutions?
-A. SERP—urban slum regulation; MEPMA—rural crop insurance.  
-B. SERP—rural poverty/community institutions; MEPMA—urban poverty/community institutions.  
-C. Both are elected Panchayats.  
-D. Both are constitutional courts.  
-**Answer: B.** **Explanation:** SERP and MEPMA serve different geographic and organizational mandates; neither replaces local government. [S5,S8]
+### Q3. Which institutional pairing correctly identifies the principal geographic emphasis of two Telangana poverty-reduction agencies?
+A. SERP—rural livelihoods and community institutions; MEPMA—urban livelihoods and community institutions.  
+B. SERP—urban street-vendor support; MEPMA—rural Gram Sabha administration.  
+C. SERP—both urban and rural municipal poverty programmes; MEPMA—only rural agriculture.  
+D. SERP—urban municipal taxation; MEPMA—State rural employment-guarantee administration.  
+**Answer: A.** **Explanation:** Official Telangana district profiles describe SERP's rural SHG federations and MEPMA's urban poverty mission. Neither replaces elected local government. [S5,S8]
 
-### Q4. In the SERP federation model, which order moves from local group to larger federation?
-A. Zilla Samakhya → SHG → Gram Sabha → Village Organization.  
-B. SHG → Village Organization → Mandal Samakhya → Zilla Samakhya.  
-C. Mandal Samakhya → municipal ward → SHG → Parliament.  
-D. Village Organization → District Court → SHG → Municipality.  
-**Answer: B.** **Explanation:** The Khammam district profile explicitly describes this progression of member institutions. [S6]
+### Q4. Which progression correctly moves from an individual Telangana rural women's self-help group to successively higher federations?
+A. SHG → Mandal Samakhya → Village Organization → Zilla Samakhya.  
+B. Village Organization → SHG → Zilla Samakhya → Mandal Samakhya.  
+C. SHG → Zilla Samakhya → Village Organization → Mandal Samakhya.  
+D. SHG → Village Organization → Mandal Samakhya → Zilla Samakhya.  
+**Answer: D.** **Explanation:** Telangana's Khammam DRDA/SERP profile explicitly gives this ascending institutional sequence. [S6]
 
 ### Q5. A ward meeting is called after the final budget and project list have already been fixed. This is primarily:
 A. Binding community control.  
@@ -44,19 +44,19 @@ C. Financial audit is performed only by private companies.
 D. Social audit automatically replaces courts.  
 **Answer: B.** **Explanation:** Social audit can verify worksite reality against muster rolls and payments, while both approaches may examine documents.
 
-### Q7. As of October 2026, the operative central rural wage-employment guarantee statute is:
-A. The MGNREGA Act, 2005, unchanged.  
-B. The VB-G RAM G Act, 2025, effective from 1 July 2026.  
-C. The RTE Act, 2009.  
-D. The NFSA, 2013.  
-**Answer: B.** **Explanation:** Act 36 of 2025 replaced MGNREGA with effect from 1 July 2026; historical MGNREGA data must be labeled historical. [S3,S4]
+### Q7. Which statement correctly describes the legal transition in India's central rural wage-employment guarantee as of October 2026?
+A. The 2005 MGNREGA remained the sole operative Act until 31 December 2026.  
+B. The 2025 replacement Act commenced on 1 April 2026 with a 100-day guarantee.  
+C. The 2025 Act commenced on 1 July 2026 but retained MGNREGA as a parallel statutory guarantee.  
+D. The VB-G RAM G Act, 2025 commenced on 1 July 2026, replacing the 2005 Act and providing a 125-day household guarantee.  
+**Answer: D.** **Explanation:** India Code identifies Act 36 of 2025, and the Ministry of Rural Development's 11 May 2026 commencement release confirms the 1 July 2026 transition and household entitlement. [S3,S4]
 
-### Q8. The VB-G RAM G Act's basic statutory wage-employment guarantee is:
-A. 125 days per adult worker.  
-B. 100 days per village.  
-C. 125 days per eligible rural household in a financial year.  
-D. 365 days per household.  
-**Answer: C.** **Explanation:** The household, not each individual adult, is the unit; eligible adults volunteer for unskilled manual work. [S3,S4]
+### Q8. Under the VB-G RAM G Act, 2025, what is the statutory unit and quantum of the basic rural wage-employment guarantee?
+A. At least 125 days of wage employment in a financial year for an eligible rural household whose adult members volunteer for unskilled manual work.  
+B. At least 125 days for each adult in an eligible household, independently of other adults' employment.  
+C. Exactly 125 workdays for every Gram Panchayat, to be divided among all requesting households.  
+D. A ceiling of 100 days per eligible rural household under the replacement Act.  
+**Answer: A.** **Explanation:** The entitlement belongs to the rural household, not independently to each adult or to the Panchayat. India Code's Act 36 of 2025 identifies the 125-day guarantee. [S3]
 
 ### Q9. Which is the most defensible assessment of an SHG enterprise loan?
 A. Loan sanctioned proves poverty elimination.  
@@ -72,12 +72,12 @@ C. A central university.
 D. The National Food Security Authority.  
 **Answer: B.** **Explanation:** Telangana's Panchayat Raj department describes its role in supplementing SHG credit flows. [S5]
 
-### Q11. Under the NFSA, a Priority Household beneficiary's basic grain entitlement is:
-A. 35 kg per person per month.  
-B. 5 kg per eligible person per month.  
-C. 5 kg per family per year.  
-D. Unlimited grain on request.  
-**Answer: B.** **Explanation:** Priority Household entitlement uses a per-person denominator; AAY uses a per-household denominator. [S19,S20]
+### Q11. Under the National Food Security Act, 2013, what is the basic monthly grain entitlement for a person in an identified Priority Household?
+A. Thirty-five kilograms per household, irrespective of its number of eligible persons.  
+B. Five kilograms per household, irrespective of its number of eligible persons.  
+C. Thirty-five kilograms per person in the Priority Household category.  
+D. Five kilograms per eligible person in the Priority Household category.  
+**Answer: D.** **Explanation:** DFPD specifies 5 kg per eligible person monthly for PHH; AAY instead receives 35 kg per eligible household monthly. State top-ups do not alter this national denominator. [S19,S20]
 
 ### Q12. A five-member NFSA Priority Household is entitled under the central minimum formula to:
 A. 5 kg total monthly.  
@@ -107,12 +107,12 @@ C. All AAY households now receive only 6 kg total.
 D. Every resident automatically qualifies.  
 **Answer: B.** **Explanation:** Distinguish the national statutory minimum from state implementation and verify card category. [S11,S19]
 
-### Q16. Article 21A and the RTE Act principally address:
-A. Free compulsory education ages 6–14.  
-B. Universal free doctoral education.  
-C. Only technical colleges.  
-D. Only preschool for ages 0–3.  
-**Answer: A.** **Explanation:** The constitutional age range is 6–14; other age groups have different policy arrangements. [S23]
+### Q16. Which age band is expressly covered by Article 21A and the Right of Children to Free and Compulsory Education Act, 2009?
+A. All children aged three to eighteen years.  
+B. All children aged six to eighteen years.  
+C. All children aged three to six years only.  
+D. Children aged six to fourteen years.  
+**Answer: D.** **Explanation:** Article 21A and the RTE Act address free compulsory elementary education for ages 6–14; other age groups have distinct policy provisions. [S23]
 
 ### Q17. Which indicator best detects a learning crisis despite high school enrollment?
 A. Number of classroom walls painted.  
@@ -121,12 +121,12 @@ C. School gate size.
 D. Total announcements made.  
 **Answer: B.** **Explanation:** Enrollment measures access; learning assessments test whether education produces capabilities. [S24]
 
-### Q18. Which statement about health rights is most accurate?
-A. Article 21 means every private treatment must be reimbursed without condition.  
-B. Health-related obligations arise from Article 21 jurisprudence, DPSPs and applicable laws/schemes; exact benefits have conditions.  
-C. Health is wholly unrelated to the Constitution.  
-D. Only hospitalization matters.  
-**Answer: B.** **Explanation:** Constitutional interpretation does not erase programme eligibility, package rules or primary-care obligations. [S2,S18]
+### Q18. Which statement most accurately describes the legal basis of health-related public obligations in India?
+A. Article 21 automatically requires unrestricted reimbursement of any private medical procedure.  
+B. Health obligations arise exclusively from nonjusticiable Directive Principles, without any Article 21 jurisprudence.  
+C. Providing a hospitalization insurance card by itself exhausts all constitutional public-health responsibilities.  
+D. Article 21 jurisprudence, Directive Principles and applicable laws and schemes operate together, while particular benefits remain subject to their legal conditions.  
+**Answer: D.** **Explanation:** Constitutional interpretation and Directive Principles inform public-health duties, but particular insurance and service benefits depend on the applicable law and programme rules. [S2,S18]
 
 ### Q19. Telangana district material describes Rajiv Aarogyasri as providing:
 A. Unlimited universal reimbursement for every outpatient purchase.  
@@ -135,12 +135,12 @@ C. Free houses to all beneficiaries.
 D. School fee waivers for all children.  
 **Answer: B.** **Explanation:** The described ceiling is scheme-specific and not proof that every procedure is covered. [S12]
 
-### Q20. A village is marked as having 100% tap connections, but tail-end homes get contaminated water. The main error is:
-A. Measuring service functionality instead of coverage.  
-B. Treating connection coverage as equivalent to safe reliable supply.  
-C. Using water quality tests.  
-D. Asking residents about outages.  
-**Answer: B.** **Explanation:** Functionality, quality and regularity are necessary to judge the programme's real outcome. [S14]
+### Q20. A village reports a water connection at every household, but tail-end homes regularly receive unsafe water. What does this chiefly demonstrate?
+A. Connection coverage is an output and cannot substitute for measuring reliable, safe service outcomes.  
+B. A completed network proves safe supply even without water-quality tests.  
+C. Water-quality testing alone is sufficient to establish continuous household supply.  
+D. Once every household is connected, service interruptions are irrelevant to programme evaluation.  
+**Answer: A.** **Explanation:** Infrastructure coverage is distinct from reliable, safe household supply; outcomes require field verification. [S14]
 
 ### Q21. PMAY-U 2.0 and Telangana's Indiramma Indlu are:
 A. Identical names for one statute.  
@@ -163,12 +163,12 @@ C. 10,000 sanctions were reported, but completion, occupancy and impact require 
 D. No verification is needed.  
 **Answer: C.** **Explanation:** Sanction is an administrative stage, not a completed welfare outcome. [S9]
 
-### Q24. For a migrant worker facing ration authentication failure, the most appropriate principle is:
-A. Permanent exclusion without a hearing.  
-B. Record correction, a lawful alternative access route and accessible grievance redress.  
-C. Treat a device error as conclusive fraud.  
-D. Require a hospital certificate for every grain transaction.  
-**Answer: B.** **Explanation:** Digital controls must coexist with procedural fairness and remedies for genuine eligible people. [S20,S22]
+### Q24. An eligible migrant household cannot authenticate its ration transaction because the point-of-sale device fails. What is the soundest administrative response?
+A. Treat the failed authentication as proof that the household is ineligible.  
+B. Permanently delete the beneficiary record to prevent duplicate claims.  
+C. Check the applicable alternative verification and portability procedure, correct records where needed, and provide accessible grievance redress without assuming fraud.  
+D. Deny all subsequent transactions until the household returns permanently to its home State.  
+**Answer: C.** **Explanation:** DFPD describes NFSA interstate portability; device failure is not by itself proof of fraud. Exact fallback mechanisms must be checked against operative orders. [S20,S22]
 
 ### Q25. Which package best represents inclusive district-level development evaluation?
 A. Only expenditure and launch events.  
