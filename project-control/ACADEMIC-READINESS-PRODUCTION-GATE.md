@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Cycle38 actual downloaded publication artifact QA — 27 October 2026
+
+Packaging run **40507807300 SUCCESS**, artifact **12735981454 ACTUALLY DOWNLOADED**. Outer/inner ZIP CRC PASS; SHA256 `bda16f07a5406b79dd991453c5dfbb7ebdfdf10511aa8959760903c1979c5d89` matched GitHub digest. **1609 files, exactly 75 original topic PDFs (75/75 SHA unchanged), 75 readiness JSON, 78 HTML, 484 local file links and 831 DOM fragments with ZERO broken**, SPA hash routes excluded from DOM-fragment interpretation; 16/16 chapter manifest hashes PASS. Topic 4-1-4 integrated **23-page PDF** SHA256 `b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e`, 3 images, 0 blank pages, 0 text-boundary violations; original 21-page PDF preserved. Contact-sheet visual inspection completed, final source page relatively sparse. **R8 IN_PROGRESS, NOT PASS**: browser accessibility and academic checks remain outstanding. 75 topics: **7 IN_PROGRESS, 19 ASSESSED_REBUILD_REQUIRED, 49 NOT_ASSESSED, 10 R1 PASS, ZERO fully R1–R8 ready and ZERO independent approvals**. Evidence `project-control/academic-readiness/4-1-4-cycle38-downloaded-artifact-qa-2026-10-27.json`.
+
 ## Cycle38 CI render verified — 27 October 2026
 
 GitHub Actions renderer **40507395889 SUCCESS**. The guarded workflow generated synchronized Topic **4-1-4** 23-page searchable integrated PDF, SHA256 `b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e`, with 3 embedded diagram images, 0 blank pages, 0 detected text-boundary violations, and 16/16 chapter manifest hashes. Original 21-page PDF SHA256 `9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4` preserved. **R8 IN_PROGRESS, NOT PASS** until actual post-render artifact CRC/SHA/75-topic and browser QA. R9 NOT_STARTED; zero approvals.

@@ -26,7 +26,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending. CI renderer 40507395889 SUCCESS: 23-page PDF SHA256 b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e, 3 images, 16/16 manifest; actual post-render archive QA pending.",
+  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending. CI renderer 40507395889 SUCCESS: 23-page PDF SHA256 b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e, 3 images, 16/16 manifest; actual post-render archive QA pending. Actual packaging run 40507807300 artifact 12735981454 downloaded and independently verified: 1609 files, 75 unchanged originals, CRC/SHA, 484 file links and 831 fragments zero broken, 16 manifest hashes. R8 still IN_PROGRESS.",
   "next_action": "Actual post-render GitHub artifact download/CRC/SHA/75-topic link QA; independent 25 MCQ/100 distractor, six mains, three diagrams and browser accessibility audits.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -47,6 +47,9 @@
     "ci_renderer_run": 40507395889,
     "ci_integrated_pdf_pages": 23,
     "ci_integrated_pdf_sha256": "b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e",
-    "manifest_hashes": 16
+    "manifest_hashes": 16,
+    "actual_artifact_qa": "project-control/academic-readiness/4-1-4-cycle38-downloaded-artifact-qa-2026-10-27.json",
+    "actual_packaging_run": 40507807300,
+    "actual_artifact_id": 12735981454
   }
 }
