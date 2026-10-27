@@ -1,6 +1,6 @@
 # TGPSC Group I | Paper IV | Unit I | Topic 2 — Poverty and Unemployment
 
-**Expanded draft · 23 October 2026 · Not academically approved**
+**Evidence-updated draft · 27 October 2026 · NOT independently academically approved**
 
 # Paper IV — Economy and Development | Unit I — Indian Economy and Development | Topic 2
 
@@ -8,7 +8,7 @@
 
 > Poverty and Unemployment: Concepts of Poverty - Income-based Poverty, non income Poverty- capability approach (Human Poverty Index), Measurement of Poverty and trends in Poverty; Concepts, estimates and trends of Unemployment.
 
-**Source status:** Wording checked against the public reproduction of Group I Notification 02/2024 (S01). The original TGPSC-hosted Annexure-II PDF could not be fully retrieved in this run; direct official PDF cross-check remains an audit item. No student-facing source page numbers are used.
+**Source status (27 October 2026): R1 PRIMARY-SOURCE PASS.** Directly retrieved the Commission-hosted Notification 02/2024, Annexure-II, PDF index page 30 (printed page 31), lines 1719–1725. The exact Topic 2 wording above matches that official source, allowing for PDF line-break hyphenation. This verifies syllabus correspondence only, not academic accuracy of the chapter. [Official PDF](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v).
 
 ## Topic summary
 
@@ -32,7 +32,6 @@ Unemployment is measured among the labour force, not the whole population. LFPR,
 ## Learning outcomes
 
 After completing the chapter, a candidate should be able to calculate and interpret headcount, poverty gap, MPI, LFPR, WPR and UR; identify the source and year of major India/Telangana figures; explain why survey design changes affect trends; distinguish HPI from MPI and HDI; diagnose a labour-market scenario; and write a balanced Telangana-focused mains answer with clear policy mechanisms and limitations.
-
 
 # Standalone quick revision — Poverty and Unemployment
 
@@ -78,7 +77,6 @@ After completing the chapter, a candidate should be able to calculate and interp
 ## Telangana answer scaffold
 
 **Background:** NITI MPI observed improvement; rural/urban disparities remain. **Mechanisms:** income insecurity, weak services, migration, gender constraints, job quality. **Institutions:** SERP, MEPMA, district administration, health/education agencies; current national rural employment guarantee. **Evaluation:** real earnings, job retention, school learning, nutrition, service quality, beneficiary grievance data. **Conclusion:** combine productive jobs, capability investments and portable risk protection.
-
 
 # Detailed textbook notes: Poverty and Unemployment
 
@@ -228,6 +226,21 @@ Data disputes are not an excuse to reject evidence. They are a reason to triangu
 
 **Model analytical frame for Telangana.** Begin with observed NITI MPI improvement and its rural–urban gap; then identify possible blind spots such as rental insecurity, migration and informal employment. Add PLFS-based concepts without inventing a Telangana unemployment percentage. Discuss public services, productive jobs and portable protection as complementary interventions. Conclude with a monitoring plan: survey-based poverty and employment rates, administrative service quality, independent audits and citizen grievance data. This structure links evidence to governance and avoids both uncritical celebration and unsubstantiated pessimism.
 
+
+### Worked measurement laboratory — poverty depth, multidimensional deprivation and labour-force denominators
+
+The following are **invented teaching datasets**, not official estimates for India or Telangana. They show how the same economic situation can produce different indicators. In an examination answer, state the unit of analysis, threshold, reference period and denominator before calculating. Real sample surveys require appropriate weights and questionnaire definitions; these tiny examples are unweighted arithmetic exercises.
+
+**Case A — Headcount versus poverty gap.** Five persons have comparable monthly consumption of ₹500, ₹900, ₹1,200, ₹1,500 and ₹1,800. Assume a hypothetical poverty line of ₹1,000 per person per month. Two persons fall below the line, so the headcount ratio **H = 2/5 = 40%**. Their proportional shortfalls are (1,000−500)/1,000 = 0.50 and (1,000−900)/1,000 = 0.10. Under the Foster–Greer–Thorbecke poverty-gap definition, include **zero for each non-poor person**: **P1 = (0.50 + 0.10 + 0 + 0 + 0)/5 = 0.12 = 12%**. The average proportional shortfall *among the two poor persons* is 0.60/2 = 30%; that is **not** the population-normalised P1. Squaring the shortfalls gives **P2 = (0.50² + 0.10²)/5 = 0.052 = 5.2%**. The three measures therefore report incidence (40%), population-normalised depth (12%) and severity (5.2%).
+
+Imagine the two poor persons instead consume ₹950 each while the other three values stay above the line. The headcount remains **40%**, yet P1 falls to (0.05 + 0.05)/5 = **2%**. An intervention can materially reduce deprivation without immediately changing the headcount. Conversely, a person moving from ₹999 to ₹1,001 changes headcount classification while receiving only a tiny absolute improvement. Neither observation means the indicator is useless; it means headcount and gap answer different questions. These calculations do not estimate an Indian poverty rate, and the ₹1,000 threshold is entirely illustrative.
+
+**Case B — MPI is incidence multiplied by intensity.** Suppose four fictional households have *already computed weighted deprivation scores* of 0.50, 0.40, 0.20 and 0.10 under one specified indicator system. With a poverty identification cutoff of one-third, the first two households qualify as multidimensionally poor. **H = 2/4 = 0.50**. Their mean deprivation intensity is **A = (0.50 + 0.40)/2 = 0.45**. Thus **MPI = H × A = 0.225**. It is not 22.5% of people below an income line. If one poor household's weighted score falls from 0.50 to 0.35 while still exceeding the cutoff, H stays 0.50 but A becomes (0.35 + 0.40)/2 = 0.375 and MPI becomes **0.1875**. Scores in this example are given, not derived from actual NFHS responses; real National MPI construction requires indicator-specific deprivation thresholds and weights, plus population weighting. The index cannot by itself establish a household's monetary poverty status.
+
+**Case C — Unemployment can fall without a single additional job.** Take a hypothetical population of 1,000 persons in a clearly specified eligible age group. Suppose 540 are employed, 30 unemployed (available and seeking work under the chosen survey definition), and 430 outside the labour force. The labour force is 570. **LFPR = 570/1,000 = 57%**; **WPR = 540/1,000 = 54%**; **UR = 30/570 × 100 ≈ 5.26%**. Now suppose ten unemployed persons stop seeking and cease to satisfy the survey's labour-force criterion, with no new employment. The labour force becomes 560, unemployment becomes 20, and employment stays 540. The reported UR falls to **20/560 × 100 ≈ 3.57%**, while WPR remains **54%** and LFPR falls to **56%**. This illustrates a *possible* denominator effect, not a claim about what happened in PLFS 2025. Official PLFS estimates are survey-weighted and must be labelled by usual status or current weekly status, age group, geography and reporting period.
+
+**How to apply this in Telangana.** For a district anti-poverty programme, combine a representative household poverty headcount with a gap measure, health and education deprivations, and evidence of job quality. For a youth-employment programme, report employment retained after six months, real earnings, hours, safety and gender barriers alongside LFPR and UR. Do not treat training enrolment, registered jobseekers or administrative beneficiary totals as representative unemployment or poverty rates. Before and after comparisons require attention to seasonality, prices, survey design and a credible counterfactual. These are design principles, not a claim that any particular district programme has achieved a measured effect.
+
 ## 13. Exam synthesis: debates, causality and a Telangana policy blueprint
 
 An excellent Group I answer starts with a **conceptual distinction**, not a scheme catalogue. Poverty may mean inadequate command over consumption, multiple simultaneous deprivations or lack of substantive capabilities. Unemployment means lack of work under a specific search/availability definition, while underemployment means inadequate use of time or skills despite being counted as employed. These distinctions determine the denominator, evidence and policy response. Present the statistical identity where relevant, then apply the framework to a plausible Telangana case.
@@ -241,7 +254,6 @@ A third case involves a village affected by drought. A wage-work safety net can 
 **Contrasting positions.** A growth-first perspective argues that productivity and enterprise expansion create the resources to reduce poverty; a redistribution-first perspective emphasises inequality and immediate basic needs; a capability perspective insists that education, health, freedom and agency are ends in themselves. These positions are not necessarily mutually exclusive. A fiscally sustainable strategy can prioritise basic services and risk protection while enabling labour-intensive productive investment. What matters is implementation quality, local context and honest measurement.
 
 The defensible conclusion is that poverty reduction is not proven by a single index, and employment success is not proven by a low UR alone. Telangana should assess deprivation, job quantity, job quality and social inclusion together, using disaggregated, date-stamped evidence. This is both sound economics and sound public administration.
-
 
 # Visual learning and comparison charts
 
@@ -283,7 +295,6 @@ Productive employment, basic capabilities and shock protection reinforce one ano
 | Seasonal | Predictable work cycles | Farm lean season | Diversification, seasonal protection |
 | Disguised | Very low marginal productivity | Excess family labour on small farm | Productive non-farm jobs |
 | Underemployment | Insufficient hours/skill use | Part-time work despite seeking more | Hours, job quality, earnings |
-
 
 # Original practice MCQs — not official previous-year questions
 
@@ -443,12 +454,12 @@ C. 125 days
 D. 100 hours
 **Answer: C.** India Code and the Ministry of Rural Development identify a 125-day household guarantee under the new framework.
 
-### Q23. Which of these statements about HCES 2023–24 is accurate?
-A. They measure national MPI intensity
-B. ₹4,122 rural and ₹6,996 urban are average MPCE figures excluding specified imputations
-C. Both amounts are official national poverty lines
-D. They are youth unemployment percentages
-**Answer: B.** The numbers are average monthly consumption per person; they are not poverty cut-offs.
+### Q23. Which interpretation correctly identifies the HCES 2023–24 national MPCE figures of ₹4,122 (rural) and ₹6,996 (urban)?
+A. They are the official monthly poverty lines for rural and urban India
+B. They are average monthly consumption per person **without imputing the value of specified free welfare items**
+C. They are the **with-imputation** averages, while ₹4,247 and ₹7,078 exclude imputation
+D. They are median monthly earnings of employed rural and urban persons
+**Answer: B.** MoSPI's HCES 2023–24 press note reports ₹4,122/₹6,996 **without** the specified free-welfare-item imputations, versus ₹4,247/₹7,078 **with** them. Both pairs are mean MPCE statistics, not official poverty lines or worker earnings. Distractor A confuses an average with a threshold; C reverses the two explicitly labelled series; D confuses household consumption with wages. [MoSPI HCES press note, 27 December 2024; S04/S16.]
 
 ### Q24. Which is the strongest reason not to compare a $2.15 (2017 PPP) poverty estimate directly with $3.00 (2021 PPP)?
 A. The PPP benchmark, line and survey harmonisation changed
@@ -457,13 +468,12 @@ C. PPP is the same as the market exchange rate
 D. The newer line measures only unemployment
 **Answer: A.** World Bank’s 2025 update changed several methodological elements, so series must be harmonised.
 
-### Q25. A district reports 10,000 new training enrolments but no data on placements or wages. Which evaluation criticism is strongest?
-A. It proves all trainees are employed
-B. It directly measures MPI
-C. It establishes a causal reduction in poverty
-D. It reports inputs/outputs without employment outcomes
-**Answer: D.** Training enrolment is an output, not proof of job placement, retention, higher real wages or reduced deprivation.
-
+### Q25. Four persons have consumption of ₹50, ₹80, ₹120 and ₹150 against a hypothetical per-person poverty line of ₹100. What is the **population-normalised poverty-gap index (P1)**?
+A. 50% — the headcount ratio below the line
+B. 17.5% — the total proportional shortfall divided by all four persons
+C. 35% — the average proportional shortfall among the two poor persons
+D. 7.25% — the squared poverty-gap index (P2)
+**Answer: B.** The poor persons have proportional shortfalls (100−50)/100 = 0.50 and (100−80)/100 = 0.20. P1 = (0.50 + 0.20 + 0 + 0)/4 = **0.175 = 17.5%**. A is the correct *headcount*, not P1; C is the poor-only mean gap, not population-normalised P1; D is P2 = (0.50² + 0.20²)/4 = 0.0725. This is a fabricated arithmetic exercise, not an official survey estimate. [FGT definitions; worked measurement laboratory in detailed notes.]
 
 # Mains answer blueprints
 
@@ -479,7 +489,6 @@ Use a question-specific structure. Do not paste the same generic scheme list int
 | M6 Telangana strategy | Working poverty and resilience | Jobs, services, safety nets, institutions | Leakage, exclusion, outcomes vs outputs | Disaggregated accountability |
 
 **Word control:** Aim for 200–250 words per complete answer. Use Introduction/Background, Causes/Objectives, Evidence/Measures, Critical Appraisal and Conclusion as appropriate to the question. Quantitative facts require their reference years. Do not add unsupported current district rankings or official PYQ labels.
-
 
 # Original mains practice — structured model answers
 
@@ -557,14 +566,13 @@ Use a question-specific structure. Do not paste the same generic scheme list int
 
 **Conclusion.** Sustainable poverty reduction requires productive employment, universal-quality basic services and reliable protection against shocks. The state should publish date-stamped outcomes and correct programmes that miss vulnerable households.
 
-
 # Authoritative source register and audit notes
 
 The links below are source identifiers used within the detailed chapter. Sources were checked for the specific statements attributed to them. Historical committee percentages and concept definitions should still undergo independent academic review. No external source is represented as a verified official PYQ.
 
 | ID | Institution / dated source | Verified use and caution | Primary or official link |
 |---|---|---|---|
-| S01 | TGPSC Group I Notification 02/2024 syllabus reproduction | Exact Topic 2 wording; original commission PDF access gap | https://keshav.ugenglish.in/2024/02/tspsc-group-1-notification-022024.html |
+| S01 | **TGPSC Notification 02/2024 original official PDF**, Annexure-II, printed p. 31 (PDF index 30), lines 1719–1725, directly retrieved 27 October 2026 | Exact Paper IV, Unit I, Topic 2 syllabus wording; R1 correspondence PASS only | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v |
 | S02 | TGPSC Group I scheme/syllabus listing | Official syllabus index, original annexure not directly retrieved | https://uat3.cgg.gov.in/website/SyllabusCMS |
 | S03 | MoSPI / PIB, 27 March 2026, PLFS Annual Report 2025 | LFPR 59.3, WPR 57.4, UR 3.1, youth 9.9, sampling redesign | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2246009&lang=1&reg=1 |
 | S04 | MoSPI, HCES 2023–24 Fact Sheet | Average MPCE ₹4,122/₹6,996; not poverty lines | https://www.mospi.gov.in/sites/default/files/publication_reports/HCES%20FactSheet%202023-24.pdf |
@@ -579,11 +587,20 @@ The links below are source identifiers used within the detailed chapter. Sources
 | S13 | Telangana government, Socio Economic Outlook reports portal | Official 2026 report location; no unverified state labour rate quoted | https://www.telangana.gov.in/reports/ |
 | S14 | World Bank, 2026, reproducibility package for 2011–12 to 2023–24 | Latest methodological work; do not invent unverified 2023–24 poverty rate | https://reproducibility.worldbank.org/catalog/541 |
 | S15 | MoSPI, PLFS Annual Report 2025 official PDF | Full technical sampling and definitions reference | https://www.mospi.gov.in/uploads/latestReleases/latest_release_1774607827733_3e8964a9-268b-4cc9-ad65-cfc8a9e32f08_Press_note_AR_PLFS_2025_23032025_V2.1_26032026_final.pdf |
+| S16 | **MoSPI HCES 2023–24 press note, 27 December 2024** | ₹4,122/₹6,996 without specified free-welfare imputations versus ₹4,247/₹7,078 with; directly checked 27 October 2026; MCQ Q23 | https://mospi.gov.in/sites/default/files/press_release/HCES_Press_Note_2023-24_27122024_rev.pdf |
 
 ## Verification and provenance gaps
 
-1. **Original official syllabus annexure:** The exact line was cross-checked with a public reproduction and official index, but the commission-hosted Notification 02/2024 PDF was not fully retrieved. Recheck against the primary PDF before academic approval.
+1. **Original official syllabus annexure:** PRIMARY-SOURCE R1 PASS on 27 October 2026: Commission-hosted Notification 02/2024, Annexure-II, PDF index 30 (printed page 31), lines 1719–1725 directly retrieved. This does not certify other gates.
 2. **Official previous-year questions:** No original TGPSC question paper with a matching question number was validated. All MCQs and mains prompts are explicitly original practice; none is labelled a verified official PYQ.
 3. **Telangana PLFS 2025 and district poverty:** No current Telangana unemployment rate or fresh district ranking is asserted without a directly checked official table. NITI's projected MPI figures are labelled projections.
 4. **Committee historical ratios:** Tendulkar 21.9% and Rangarajan 29.5% are conventional 2011–12 comparisons. Direct committee-report primary PDFs and line details remain on the independent academic-audit checklist.
 5. **Academic status:** Structurally checked draft only. No external subject expert has certified completeness, legal interpretation, or examination suitability.
+
+## Cycle36 bounded MCQ and quantitative audit (27 October 2026)
+
+- **Q23 (revised):** Source S16 confirms both MPCE series and their precise imputation distinction. All four options were examined: A is a threshold/mean category error; C reverses series; D is earnings, not consumption. Key B source-supported.
+- **Q25 (replaced in place):** Original arithmetic exercise. Independently recomputed P0 = 2/4 = 50%; P1 = (0.5+0.2)/4 = 17.5%; poor-only gap = 35%; P2 = (0.25+0.04)/4 = 7.25%. Four distinct options, B uniquely correct. This checks arithmetic, not an archival source.
+- **Q15 and Q16 (unchanged):** MoSPI/PIB S03 (27 March 2026) explicitly reports 15+ usual-status UR 3.1%, LFPR 59.3%, WPR 57.4% and 15–29 youth UR 9.9%. These key correspondences were rechecked; complete alternative-by-alternative audit for the inherited question bank is NOT claimed.
+- **Q22 (unchanged):** India Code S10 states 125 days; PIB S11 states commencement 1 July 2026. Source correspondence checked, but legal implementation outcomes and full legislative interpretation are not certified.
+- **Remaining questions:** All 25 have four options and marked answers, but most inherited distractors and claim-level explanations are not independently verified. R5 remains IN_PROGRESS; no official PYQs are claimed.

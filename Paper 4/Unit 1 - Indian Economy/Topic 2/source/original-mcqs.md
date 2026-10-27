@@ -156,12 +156,12 @@ C. 125 days
 D. 100 hours
 **Answer: C.** India Code and the Ministry of Rural Development identify a 125-day household guarantee under the new framework.
 
-### Q23. Which of these statements about HCES 2023–24 is accurate?
-A. They measure national MPI intensity
-B. ₹4,122 rural and ₹6,996 urban are average MPCE figures excluding specified imputations
-C. Both amounts are official national poverty lines
-D. They are youth unemployment percentages
-**Answer: B.** The numbers are average monthly consumption per person; they are not poverty cut-offs.
+### Q23. Which interpretation correctly identifies the HCES 2023–24 national MPCE figures of ₹4,122 (rural) and ₹6,996 (urban)?
+A. They are the official monthly poverty lines for rural and urban India
+B. They are average monthly consumption per person **without imputing the value of specified free welfare items**
+C. They are the **with-imputation** averages, while ₹4,247 and ₹7,078 exclude imputation
+D. They are median monthly earnings of employed rural and urban persons
+**Answer: B.** MoSPI's HCES 2023–24 press note reports ₹4,122/₹6,996 **without** the specified free-welfare-item imputations, versus ₹4,247/₹7,078 **with** them. Both pairs are mean MPCE statistics, not official poverty lines or worker earnings. Distractor A confuses an average with a threshold; C reverses the two explicitly labelled series; D confuses household consumption with wages. [MoSPI HCES press note, 27 December 2024; S04/S16.]
 
 ### Q24. Which is the strongest reason not to compare a $2.15 (2017 PPP) poverty estimate directly with $3.00 (2021 PPP)?
 A. The PPP benchmark, line and survey harmonisation changed
@@ -170,9 +170,9 @@ C. PPP is the same as the market exchange rate
 D. The newer line measures only unemployment
 **Answer: A.** World Bank’s 2025 update changed several methodological elements, so series must be harmonised.
 
-### Q25. A district reports 10,000 new training enrolments but no data on placements or wages. Which evaluation criticism is strongest?
-A. It proves all trainees are employed
-B. It directly measures MPI
-C. It establishes a causal reduction in poverty
-D. It reports inputs/outputs without employment outcomes
-**Answer: D.** Training enrolment is an output, not proof of job placement, retention, higher real wages or reduced deprivation.
+### Q25. Four persons have consumption of ₹50, ₹80, ₹120 and ₹150 against a hypothetical per-person poverty line of ₹100. What is the **population-normalised poverty-gap index (P1)**?
+A. 50% — the headcount ratio below the line
+B. 17.5% — the total proportional shortfall divided by all four persons
+C. 35% — the average proportional shortfall among the two poor persons
+D. 7.25% — the squared poverty-gap index (P2)
+**Answer: B.** The poor persons have proportional shortfalls (100−50)/100 = 0.50 and (100−80)/100 = 0.20. P1 = (0.50 + 0.20 + 0 + 0)/4 = **0.175 = 17.5%**. A is the correct *headcount*, not P1; C is the poor-only mean gap, not population-normalised P1; D is P2 = (0.50² + 0.20²)/4 = 0.0725. This is a fabricated arithmetic exercise, not an official survey estimate. [FGT definitions; worked measurement laboratory in detailed notes.]

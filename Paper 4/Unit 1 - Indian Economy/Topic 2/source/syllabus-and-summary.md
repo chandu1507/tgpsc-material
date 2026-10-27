@@ -4,7 +4,7 @@
 
 > Poverty and Unemployment: Concepts of Poverty - Income-based Poverty, non income Poverty- capability approach (Human Poverty Index), Measurement of Poverty and trends in Poverty; Concepts, estimates and trends of Unemployment.
 
-**Source status:** Wording checked against the public reproduction of Group I Notification 02/2024 (S01). The original TGPSC-hosted Annexure-II PDF could not be fully retrieved in this run; direct official PDF cross-check remains an audit item. No student-facing source page numbers are used.
+**Source status (27 October 2026): R1 PRIMARY-SOURCE PASS.** Directly retrieved the Commission-hosted Notification 02/2024, Annexure-II, PDF index page 30 (printed page 31), lines 1719–1725. The exact Topic 2 wording above matches that official source, allowing for PDF line-break hyphenation. This verifies syllabus correspondence only, not academic accuracy of the chapter. [Official PDF](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v).
 
 ## Topic summary
 
