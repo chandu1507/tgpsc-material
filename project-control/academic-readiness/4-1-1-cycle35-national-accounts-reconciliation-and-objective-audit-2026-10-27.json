@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-1-1",
+  "scope": "Existing Paper IV Unit I Topic 1; no new topic",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approved": false,
+  "independent_approvals": 0,
+  "original_pdf": {
+    "pages": 26,
+    "sha256": "e0a70eca79be03d11a2d92bfd30c544050d9110b11625c718eb63e7366adec34",
+    "preserved": true
+  },
+  "structural_inventory": {
+    "major_concepts": 12,
+    "concept_words_approx": [
+      605,
+      544,
+      627,
+      521,
+      525,
+      496,
+      394,
+      532,
+      517,
+      504,
+      494,
+      420
+    ],
+    "concepts_under_300": 0,
+    "original_mcqs": 25,
+    "four_option_mcqs": 25,
+    "original_mains": 6,
+    "existing_raster_diagrams": 3,
+    "authenticated_official_pyqs": 0
+  },
+  "source_verified": {
+    "authority": "National Statistics Office, MoSPI, 5 June 2026 provisional estimates FY 2025-26, Statement 1 (constant 2022-23 prices), PDF page 12 (0-index page 11)",
+    "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1780655857536_5ac01869-ca4a-422d-b7a7-57b81da60932_Press_Note_on_GDP_Estimates_for_Q4_2025-26_and_PE_FY_2025-26_F.pdf",
+    "amounts_in_crore": {
+      "gva": 29491088,
+      "net_product_taxes": 2820946,
+      "gdp": 32312034,
+      "gni": 31865977,
+      "nni": 27486593,
+      "statistical_discrepancy": 389909
+    },
+    "checked_identities": {
+      "gva_plus_net_taxes_equals_gdp": true,
+      "gni_minus_gdp_negative_primary_income": -446057,
+      "gni_minus_nni_consumption_fixed_capital": 4379384
+    },
+    "source_scope": "Author-side primary publication and arithmetic correspondence; June 2026 provisional vintage, not later revisions."
+  },
+  "local_candidate": {
+    "integrated_editable_master": true,
+    "searchable_pdf_pages": 23,
+    "pdf_sha256": "3bf4f0fce189da1433c965c1f48b3f5d164e35accd4142e43756d58b226f70c6",
+    "pdf_diagram_images": 3,
+    "pdf_blank_pages": 0,
+    "pdf_text_boundary_violations": 0,
+    "github_ci_render_verified": false,
+    "actual_github_artifact_verified": false
+  },
+  "gates": {
+    "R1": "BLOCKED",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "unresolved": [
+    "Direct TGPSC Notification 02/2024 Annexure-II primary PDF text check",
+    "Original Telangana Socio-Economic Outlook 2026 numerical tables",
+    "All 25 MCQ keys and all 100 distractors independently checked",
+    "All six mains claim-level review",
+    "Diagram accuracy and browser accessibility",
+    "CI generated integrated PDF and downloaded actual artifact verification"
+  ],
+  "note": "All 25 MCQs and six mains are original practice, not authenticated PYQs. The limited MoSPI source verification does not constitute academic approval."
+}
