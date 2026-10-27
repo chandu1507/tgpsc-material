@@ -1,5 +1,7 @@
 # TGPSC Group I — Academic Readiness Production Gate
 
+**Cycle48 downloaded-artifact verification:** GitHub Actions package run **40598411665 SUCCESS**, artifact **12777755938 actually downloaded**; outer SHA256 `4044f4c4c7988b86056b5b3cbd6cd9bcb3da9e239a43952ba3257d6baf876d78` matches GitHub digest. Outer/inner ZIP CRC PASS, **1,668 files, exactly 75 original topic PDFs with 75/75 hashes unchanged, 75 readiness JSON, 78 HTML pages, 431 local links and 1,137 DOM fragments with zero broken**, 62 SPA hash routes excluded, **22/22 Topic 4-3-4 manifest hashes PASS**. New **31-page PDF** SHA256 `5d6576bbe038f78c71704b3b66ccf871c9681b5d29adbc1de227395c3287eeac`, three images, zero blank pages/boundary defects; contact sheet inspected. **R8 IN_PROGRESS, NOT PASS** because public-browser/accessibility and independent academic audits remain incomplete. Evidence: `project-control/academic-readiness/4-3-4-cycle48-actual-downloaded-artifact-qa-2026-10-28.json`.
+
 ## Cycle48 Topic 4-3-4 substantive expansion and Topic 4-3-5 first assessment — 28 October 2026
 
 **Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 30 ASSESSED_REBUILD_REQUIRED, 38 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready; ZERO independent academic approvals.**
