@@ -1,8 +1,8 @@
 {
   "topic_id": "4-3-1",
   "title": "Environment vs Development: Environmentalism, Protection Policy and Policy Instruments",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,34 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle44 direct original assessment: 16 substantive concepts 320–363 words, 30 original practice MCQs A5/B21/C4/D0, six mains body-only 196/199/211/203/201/188, three original diagrams, 27-page original PDF SHA d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260 preserved. A LOCAL ONLY coherent editable master/26-page PDF/HTML candidate adds a quantitative hypothetical load laboratory, revises Q14/Q23/Q29, extends all six mains to 247/246/248/247/245/233 body-only words and adds a schematic. Local link/fragment and PDF QA PASS. NOT committed/CI rendered or verified in a new GitHub artifact. Limited source checks: India Code, official EIA explainer, Telangana PCB, CPCB SWM portal, UNFCCC April 2026 NDC. All 30 keys/120 distractors, all mains claims, original diagrams, direct 2024 syllabus, remote browser accessibility and expert approval pending.",
+  "next_action": "Integrate Cycle44 candidate master, schematic, HTML and deterministic CI PDF into GitHub without altering original 27-page PDF; verify actual post-edit GitHub artifact and 75-topic CRC/SHA/link checks; independently audit MCQs, mains and diagrams.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
+  "cycle44": {
+    "candidate_status": "LOCAL_ONLY",
+    "audit_path": "project-control/academic-readiness/4-3-1-cycle44-local-candidate-and-bounded-source-audit-2026-10-28.json",
+    "concepts": 17,
+    "mcqs": 30,
+    "mains_body_only_counts": [
+      247,
+      246,
+      248,
+      247,
+      245,
+      233
+    ],
+    "integrated_local_pdf_sha256": "b8fb9423e9434453aa56e7af27b3988cb99b211e1c3fffe2bcd2b9fcc31f8674",
+    "independent_approval": false
+  }
 }

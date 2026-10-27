@@ -1,0 +1,118 @@
+{
+  "cycle": 44,
+  "date": "2026-10-28",
+  "topic_id": "4-3-1",
+  "scope": "FIRST_DIRECT_INDIVIDUAL_ASSESSMENT_AND_LOCAL_ONLY_CANDIDATE",
+  "source_commit": "b10302af6d8b4c2443b2ea2cdaa0ad0aa3ca6130",
+  "original_pdf": {
+    "pages": 27,
+    "sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
+    "preserved": true
+  },
+  "original_chapter": {
+    "concepts": 16,
+    "concepts_under_300": 0,
+    "concept_word_range": [
+      320,
+      363
+    ],
+    "original_practice_mcqs": 30,
+    "mcq_answer_distribution": {
+      "A": 5,
+      "B": 21,
+      "C": 4,
+      "D": 0
+    },
+    "original_mains": 6,
+    "original_mains_body_only_counts": [
+      196,
+      199,
+      211,
+      203,
+      201,
+      188
+    ],
+    "original_diagrams": 3
+  },
+  "local_candidate": {
+    "status": "LOCAL_ONLY_NOT_GITHUB_COMMITTED_OR_CI_RENDERED",
+    "concepts": 17,
+    "concepts_below_300": 0,
+    "min_concept_words": 328,
+    "new_worked_concept": "Hypothetical industrial effluent concentration versus cumulative mass load; 3 x 2 MLD x 50 mg/L = 300 kg/day; illustrative 180 kg/day additional-load budget; cleaner treatment 3 x 2 MLD x 20 mg/L = 120 kg/day",
+    "revised_mcqs": [
+      14,
+      23,
+      29
+    ],
+    "mcqs": 30,
+    "mcq_answer_distribution": {
+      "A": 5,
+      "B": 18,
+      "C": 4,
+      "D": 3
+    },
+    "mains_body_only_counts": [
+      247,
+      246,
+      248,
+      247,
+      245,
+      233
+    ],
+    "original_schematic_diagram_added": 1,
+    "integrated_pdf_pages": 26,
+    "integrated_pdf_sha256": "b8fb9423e9434453aa56e7af27b3988cb99b211e1c3fffe2bcd2b9fcc31f8674",
+    "pdf_blank_pages": 0,
+    "pdf_text_boundary_violations": 0,
+    "pdf_embedded_images": 4,
+    "offline_html_broken_file_links": 0,
+    "offline_html_broken_fragments": 0
+  },
+  "direct_bounded_source_checks": [
+    {
+      "claim": "Environment Protection Act 1986 identity",
+      "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/1876",
+      "limitation": "Not full amendment audit"
+    },
+    {
+      "claim": "EIA Notification 2006 framework",
+      "url": "https://ies.gov.in/arthapedia/concept/environment-impact-assessment-eia-india",
+      "limitation": "Not all current exemptions/amendments"
+    },
+    {
+      "claim": "Telangana CFE versus CFO",
+      "url": "https://sangareddy.telangana.gov.in/pollution-control-board/",
+      "limitation": "Not all categories require EC"
+    },
+    {
+      "claim": "Solid Waste Management Rules 2026 notification/effect/four-stream",
+      "url": "https://swmp.cpcb.gov.in/hi",
+      "limitation": "Not proof of local implementation"
+    },
+    {
+      "claim": "India NDC 2031-2035 targets",
+      "url": "https://www.unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf",
+      "location": "PDF page 10",
+      "limitation": "Future targets, not achieved outcomes"
+    }
+  ],
+  "baseline_publication": {
+    "github_packaging_run_id": 40557156284,
+    "artifact_id": 12758135535,
+    "sha256": "4829fbf52ee9a75b0c1f4b8e7936a374d836cc97856862a1e2dbf6e9b08a2545",
+    "zip_outer_inner_crc": "PASS",
+    "original_pdfs": 75,
+    "original_pdfs_unchanged_against_cycle42": 75,
+    "readiness_json": 75
+  },
+  "no_official_pyqs_authenticated": true,
+  "all_30_keys_and_120_distractors_independently_checked": false,
+  "all_six_mains_claims_independently_checked": false,
+  "original_three_diagrams_academically_certified": false,
+  "direct_official_2024_syllabus_authenticated": false,
+  "remote_integrated_pdf": false,
+  "direct_browser_accessibility_certified": false,
+  "fully_R1_R8_ready": false,
+  "independent_approvals": 0
+}

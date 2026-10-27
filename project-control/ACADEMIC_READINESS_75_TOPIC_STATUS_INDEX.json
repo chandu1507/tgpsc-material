@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "total_topics": 75,
   "pilot_in_progress": [
     "2-2-4",
@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 43,
+  "not_assessed_count": 42,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 25 ASSESSED_REBUILD_REQUIRED, 43 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle43 actual post-fix artifact integrity verified; browser academic accessibility not certified.",
+  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 26 ASSESSED_REBUILD_REQUIRED, 42 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle44 Topic4-3-1 corrected candidate LOCAL ONLY; GitHub still has original chapter.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -116,9 +116,10 @@
     "4-2-2",
     "4-2-3",
     "4-2-4",
-    "4-2-5"
+    "4-2-5",
+    "4-3-1"
   ],
-  "last_readiness_update": "27 Oct Cycle43: 7 IN_PROGRESS, 25 ASSESSED_REBUILD_REQUIRED, 43 NOT_ASSESSED; 10 R1 PASS; zero ready/approved. Topic4-2-5 CI 29-page PDF and actual downloaded post-fix artifact 12756469781 integrity PASS; R8 IN_PROGRESS not PASS. First artifact hash mismatch recorded and corrected.",
+  "last_readiness_update": "28 Oct Cycle44: 4-3-1 directly assessed; corrected local candidate not remotely integrated. Counts 7/26/42, 10 R1 PASS, zero ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -133,6 +134,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-3-1-cycle44-local-candidate-and-bounded-source-audit-2026-10-28.json",
     "project-control/academic-readiness/4-2-5-cycle43-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-2-5-cycle43-first-downloaded-artifact-mismatch-and-ci-fix-2026-10-27.json",
     "project-control/academic-readiness/4-2-5-cycle43-bounded-source-and-structural-audit-2026-10-27.json",
@@ -156,45 +158,6 @@
     "project-control/academic-readiness/3-3-1-cycle32-downloaded-artifact-qa-verified-2026-10-27.json",
     "project-control/academic-readiness/3-3-1-and-3-3-2-cycle32-objective-and-source-audit-2026-10-27.json",
     "project-control/academic-readiness/3-2-4-and-3-2-5-cycle31-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/3-2-4-and-3-2-5-cycle31-bounded-mains-and-objective-audit-2026-10-27.json",
-    "project-control/academic-readiness/3-2-4-cycle30-objective-gap-audit-2026-10-27.json",
-    "project-control/academic-readiness/3-2-3-cycle30-article171-source-audit-2026-10-27.json",
-    "project-control/academic-readiness/3-2-2-cycle29-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/3-2-2-cycle29-primary-claim-and-mcq-dedup-2026-10-27.json",
-    "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
-    "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
-    "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-objective-gap-assessment-2026-10-27.json",
-    "project-control/academic-readiness/2-3-4-render-qa.json",
-    "project-control/academic-readiness/2-3-4-objective-gap-assessment-2026-10-26.json",
-    "project-control/academic-readiness/2-3-3-render-qa.json",
-    "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json",
-    "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-turn13-final-monsoon-consistency-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-primary-statistics-check-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-objective-gap-assessment-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-final-integrated-artifact-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-official-syllabus-mapping-preflight-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-integrated-artifact-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-3-1-integrated-build-preflight-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-mcq-revised-artifact-qa-verified-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-corrected-remote-publication-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-editorial-correction-2026-10-26.json",
-    "project-control/academic-readiness/2-2-4-official-syllabus-r1-verified.json",
-    "project-control/academic-readiness/2-2-5-depth-mcq-preflight-2026-10-26.json",
-    "project-control/academic-readiness/2-2-5-primary-source-recovery-2026-10-26.md",
-    "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json",
-    "project-control/academic-readiness/3-1-1-turn24-ten-original-mcq-source-check-2026-10-27.json",
-    "project-control/academic-readiness/3-1-2-objective-gap-assessment-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn24-three-in-place-concept-expansions-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-turn24-two-original-svg-learning-aids-2026-10-27.json",
-    "project-control/academic-readiness/3-1-3-objective-gap-assessment-2026-10-27.json",
-    "project-control/academic-readiness/3-1-1-and-3-1-3-cycle25-downloaded-artifact-qa-2026-10-27.json"
+    "project-control/academic-readiness/3-2-4-and-3-2-5-cycle31-bounded-mains-and-objective-audit-2026-10-27.json"
   ]
 }
