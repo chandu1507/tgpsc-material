@@ -103,7 +103,7 @@
     "3-2-4",
     "3-2-5"
   ],
-  "last_readiness_update": "27 Oct Cycle31: 3-2-4 M3/M6 corrected, 3-2-5 assessed and Q4/Q5 corrected; 7 IN_PROGRESS, 10 ASSESSED_REBUILD_REQUIRED, 58 NOT_ASSESSED. CI integrated PDF pending.",
+  "last_readiness_update": "27 Oct Cycle31: 75 originals; 7 IN_PROGRESS, 10 ASSESSED_REBUILD_REQUIRED, 58 NOT_ASSESSED; two synchronized 34/28-page integrated PDFs and actual artifact 12712828105 CRC/SHA/link verified; R8 IN_PROGRESS, approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -114,6 +114,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-4-and-3-2-5-cycle31-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-2-4-and-3-2-5-cycle31-bounded-mains-and-objective-audit-2026-10-27.json",
     "project-control/academic-readiness/3-2-4-cycle30-objective-gap-audit-2026-10-27.json",
     "project-control/academic-readiness/3-2-3-cycle30-article171-source-audit-2026-10-27.json",
