@@ -320,6 +320,18 @@ proportionality where relevant  Select proper complaint / court forum
 | Right / welfare aspiration | Judicially enforceable within legal limits | Directive guides policy | Article 21A versus Article 45 |
 | Policy announcement / operative law | Public commitment | Enacted and commenced legal rule | Check Gazette, rules, notifications and litigation |
 
+### Original schematic A — identify the governing duty
+
+![Decision pathway distinguishing State action, horizontal rights, public duties and statutory claims](rights-duty-remedy.svg)
+
+*Interpretive schematic, not a substitute for the governing Article, statute or case law.*
+
+### Original schematic B — from a Directive Principle to an entitlement
+
+![Pathway from nonjusticiable Article 41 policy to an enforceable statutory entitlement](dpsp-entitlement-path.svg)
+
+*Article 37 does not make Part IV directly enforceable; a statute may create an enforceable claim.*
+
 ## Original practice MCQs with explanations (NOT official PYQs)
 
 **Q1. Which Article defines State for Part III?**
@@ -442,13 +454,13 @@ D. Kesavananda
 
 **Answer: B.** Shreya Singhal v Union of India (2015) invalidated section 66A of the IT Act because of vague and overbroad speech restrictions. The judgment does not invalidate every law regulating threats or incitement.
 
-**Q16. A private employer is directly relevant to which constitutional ban?**
-A. Article 23 forced labour
-B. Article 44
-C. Article 50
-D. Article 40
+**Q16. A privately operated hazardous workshop employs a 12-year-old child. Which constitutional provision most directly addresses this employment, even without proof of debt bondage?**
+A. Article 24
+B. Article 23(1)
+C. Article 21A
+D. Article 39(e)
 
-**Answer: A.** Article 23 prohibits trafficking and forced labour, including private exploitation. Article 44 concerns a uniform civil code; Article 50 separation of judiciary from executive; Article 40 village panchayats. Private employment is not a general exemption from all rights.
+**Answer: A.** Article 24 directly prohibits employment of children below fourteen in factories, mines and other hazardous employment. Article 23(1) concerns trafficking, begar and similar forced labour, which would require additional facts; Article 21A concerns education of ages six to fourteen; Article 39(e) is a Directive Principle addressing protection of workers and children. The Child and Adolescent Labour (Prohibition and Regulation) Act supplies additional statutory rules. This is an original practice scenario, not an official PYQ.
 
 **Q17. Which Article concerns environment in DPSPs?**
 A. 48A
@@ -490,7 +502,7 @@ B. Provide an accessible alternative and human review under applicable law
 C. Abolish identity checks for everyone
 D. Treat the dispute solely as a private contract
 
-**Answer: B.** The 2025 *Pragya Prasun/Amar Jain* ruling linked accessible digital KYC to dignity, equality and disability-law obligations. Equality of code is not equality of opportunity where a predictable disability barrier exists. A valid verification objective remains, but it must be pursued through reasonable accommodation and lawful alternatives.
+**Answer: B.** In *Pragya Prasun & Ors. v Union of India & Ors.*, decided on 30 April 2025 (2025 INSC 599), the Supreme Court addressed inaccessible digital KYC/e-KYC/video KYC affecting persons with disabilities and required accessible verification alternatives. The welfare-portal example in this question is an **application of that accessibility principle**, not the precise factual dispute or an automatic holding about every government portal. A lawful identity check may continue, but accessible alternatives and appropriate human assistance should be considered under the applicable disability and scheme rules.
 
 **Q22. A State announces a reservation policy in a press conference, but no applicable law or operative order is shown. What should an administrator do?**
 A. Apply the announcement immediately
@@ -612,5 +624,9 @@ D. Article 41 is a Fundamental Duty
 7. **Supreme Court, Just Rights for Children Alliance v S. Harish**, 15 October 2026, 2026 INSC 1149 — judgment text reproduced by a case-law service; authenticated Supreme Court PDF still requires direct cross-check before quoting. https://litigationindia.com/judgments/just-rights-for-children-alliance-anr-vs-s-harish-ors-fdb508
 8. **India Code**, statutory texts including RTE Act 2009, RPwD Act 2016, POSH Act 2013, Protection of Civil Rights Act 1955, SC/ST (Prevention of Atrocities) Act 1989, and National Green Tribunal Act 2010. https://www.indiacode.nic.in/
 9. **Supreme Court official portal** for further authentication of Maneka Gandhi, Minerva Mills, Indra Sawhney, Puttaswamy, Shreya Singhal, Kaushal Kishor and other cases. https://www.sci.gov.in/
+
+**Source-critical update (27 October 2026).** Q16 and Q24 formerly tested essentially the same forced-labour rule. Q16 now tests Article 24's independent prohibition of hazardous child employment, while Q24 retains Article 23's forced-labour scenario. Q21's digital-welfare example is an analogy to the Supreme Court's 30 April 2025 digital-KYC judgment, not an assertion that the judgment decided an identical welfare-portal dispute. The 25 items remain original practice questions, not independently certified or official PYQs.
+
+10. **Department of Telecommunications, 13 May 2025 implementation letter**, confirming the 30 April 2025 accessible digital KYC judgment and its official PDF URL: https://www.dot.gov.in/static/uploads/2026/03/8ba351ae38e4305f6e53137be1caad2e.pdf
 
 **Internal accuracy review:** official syllabus wording checked; citizen/person distinction and Article 12/13 distinction checked; Articles 15(2), 16(4), 21A, 37, 48A, 51A, 226 and 300A distinguished; 2025 Telangana Gazette distinguished from contested BC proposals; original questions labelled as practice only; model-answer word counts validated by script; source links supplied without page-number references in student-facing notes. **Not yet academically approved:** independent law-faculty review, full authenticated judgment-by-judgment ratio check, current notification-specific Telangana recruitment rules, external MCQ psychometric review and official PYQ source verification remain outstanding.
