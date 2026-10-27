@@ -6,22 +6,19 @@
   "topic": 3,
   "title": "Urban and Rural Development, Participatory Development, Poverty Alleviation, Women Empowerment and Rights to Health, Food and Education",
   "syllabus": "Notification 02/2024 Annexure II Paper III Governance item 3; official PDF indexed but direct host HTTP 403; exact wording checked against published reproduction",
-  "research_cutoff": "2026-10-23",
-  "new_topics_this_run": 1,
-  "previous_indicated_drafts": 27,
-  "indicated_drafts_after_run": 28,
-  "indicated_remaining_after_run": 47,
+  "research_cutoff": "2026-10-27",
+  "new_topics_this_run": 0,
   "academically_approved": 0,
   "verified_official_pyqs": 0,
   "original_mcqs": 25,
   "mains_answers": 6,
   "mains_answer_words": [
-    224,
-    235,
-    233,
-    236,
-    234,
-    231
+    210,
+    219,
+    217,
+    219,
+    217,
+    210
   ],
   "major_concept_chapters": 14,
   "concept_chapter_words": [
@@ -48,21 +45,33 @@
   "original_19_topic_master_available": false,
   "new_topic_published_to_github": false,
   "file_sha256": {
+    "README.md": "43b88acaffff9d567604ddeed3d27bea59f9b89deed2baa8ade49930e642fe88",
     "complete-notes.pdf": "d7ea1aca5e13e1d71283bb58d0de064e047064f03a6a60b26eb1501395d5bcfc",
-    "index.html": "aad61c35be8c37a8b0ba1c624753fe8279875718f6187f58f3ecce6c8a805015",
+    "index.html": "eee04eb0a8a65887bab16b9fd17450e7b3a27d45d70fbf2e2e8f5491f48da4c5",
     "source/build_diagrams.py": "8c4929026ff9826bc086a8349f3601e099d52781ece922af5170731004e3e7a4",
-    "source/build_topic.py": "c899f0d805c5c26844fa9ffb938ca838d8adb1143c0602287e515d0380a8e03e",
-    "source/complete-notes.md": "2cd8e6e974e21d9b36a2b1a171b29634752dc861bd5c085c7eb6561e262251b3",
-    "source/detailed-notes.md": "9c0fcd0fcf1ad07264044fdcfcb392e70e5ca29c0e91ef2fc98e8a78f22dcb80",
+    "source/build_topic.py": "99705ab291ec5a6316a321dec853089dfb91a788e5e74a011ac8f3688488da62",
+    "source/complete-notes.md": "af8d4e5dbfc6549898a13799e002814c39360e66e858a435edf26e54870d3773",
+    "source/detailed-notes.md": "68169f8400425b4f0e77ee1f54329f263b7749a0a8305137d58503c34cd89b63",
+    "source/integrated-student-edition-2026-10-27.pdf": "df09759bac568900fea135b89783483843adbfc5ffba4e4f01473ae3f94e3e87",
     "source/mains-model-answers.md": "3808767d25bcede81aaef404d019cb450c072e5dc2806e8500a9d19c87bc3a0f",
-    "source/original-mcqs.md": "3b19f27c2953c8152fbad7d800470d6c29f03e6ef3caba0912eb9f2c23e18724",
+    "source/original-mcqs.md": "5b960fb4dfbfcb51960fd7fb06ffe3bb6e982568bb99e134f50621c1e7d293e4",
     "source/quick-revision.md": "c26e8d6706b0f4628a31103710e0fe79d0da3d5fd05f622c16d243eea2f84633",
-    "source/sources-and-audit.md": "35a2975042e230a5a92e5ba36af6948678ef9f475c0ff7153304dfa68b38cc18",
+    "source/sources-and-audit.md": "eb3e4424303b9c38c03e219f10b403f9b63f16197fbc25b34be5847e544d7ecf",
     "source/syllabus-and-summary.md": "db46dda23eafbb9803d5861cc816114b6e3a1a8c1d03dd89f19f406686d1a91d",
     "source/visual-learning.md": "4f86faca2dea2e3a1ce318c6f0735eebd7330251abd4015132db475706b390fa",
     "visuals/development-accountability.png": "b59c871d79b060cea853b42c391993b7eef7d8d3e4d0ec0e60f5942e260fd3ba",
-    "visuals/rights-triangle.png": "b6297ecaa214082eaed50477e310d90b68e2200dfd3b744040c003b9a7fbfe8c",
-    "README.md": "567e12111447081228a64555bfebe61dd159ae287a578e0e227192793d1eb368"
+    "visuals/rights-triangle.png": "b6297ecaa214082eaed50477e310d90b68e2200dfd3b744040c003b9a7fbfe8c"
   },
-  "academic_status": "Expanded draft; no full independent academic audit"
+  "academic_status": "ASSESSED_REBUILD_REQUIRED; partial author-side checks; independent approval zero",
+  "historical_creation_inventory": {
+    "previous_indicated_drafts": 27,
+    "indicated_drafts_after_run": 28,
+    "indicated_remaining_after_run": 47
+  },
+  "current_topic_inventory_total": 75,
+  "integrated_student_pdf": {
+    "path": "source/integrated-student-edition-2026-10-27.pdf",
+    "sha256": "df09759bac568900fea135b89783483843adbfc5ffba4e4f01473ae3f94e3e87",
+    "legacy_pdf_preserved": true
+  }
 }
