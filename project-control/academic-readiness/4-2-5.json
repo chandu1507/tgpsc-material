@@ -1,8 +1,8 @@
 {
   "topic_id": "4-2-5",
   "title": "Industry and Service Sectors: Industrial Development, MSMEs, Services, Employment and ICT Policy",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,84 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle43 direct source assessment: 16 original concepts 314–455 words, 30 practice MCQs A9/B15/C6/D0, six 200+ body-word mains, original 25-page PDF preserved. Added one source-qualified worked laboratory and revised five MCQs; now 17 concepts, 30 MCQs A9/B12/C4/D5. Limited author-side checks using Udyam, two NITI reports and official state policy; NOT a full independent audit. Original 2024 syllabus, all 30 keys/120 distractors, six mains claims, diagrams and browser accessibility pending.",
+  "next_action": "Guarded nonforce merge and CI render of one integrated editable master/HTML/PDF; download actual artifact and verify CRC, original 75 PDFs, links, hashes. Complete 30-key/120-alternative independent review, mains and diagram claims, 2024 official syllabus and accessibility. Zero R9 approvals.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
+  "cycle43": {
+    "cycle": 43,
+    "date": "2026-10-27",
+    "concepts": 17,
+    "original_concepts": 16,
+    "concepts_under_300": 0,
+    "original_mcqs": 30,
+    "revised_mcqs": [
+      4,
+      5,
+      12,
+      13,
+      19
+    ],
+    "answer_distribution": {
+      "A": 9,
+      "B": 12,
+      "C": 4,
+      "D": 5
+    },
+    "mains_body_only_words": [
+      209,
+      211,
+      201,
+      213,
+      205,
+      214
+    ],
+    "inherited_diagrams": 3,
+    "official_pyqs_verified": 0,
+    "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
+    "primary_correspondences": [
+      {
+        "claim": "MSME classification 2025",
+        "url": "https://www.udyogaadhaar.gov.in/Important.aspx",
+        "questions": [
+          4,
+          5
+        ]
+      },
+      {
+        "claim": "Telangana GSVA services share 2023-24",
+        "url": "https://www.niti.gov.in/sites/default/files/2025-10/Indias_Services_Sector_Insights_from_GVA_Trends_State_level_Dynamics.pdf",
+        "questions": [
+          12
+        ]
+      },
+      {
+        "claim": "Telangana services employment share 2023-24",
+        "url": "https://www.niti.gov.in/node/2028",
+        "questions": [
+          13
+        ]
+      },
+      {
+        "claim": "Telangana life sciences policy 2026-2030",
+        "url": "https://invest.telangana.gov.in/policy-life-sciences/",
+        "questions": [
+          19
+        ]
+      }
+    ],
+    "independent_approvals": 0,
+    "ready_R1_R8": false,
+    "remote_artifact_verified": false
+  }
 }

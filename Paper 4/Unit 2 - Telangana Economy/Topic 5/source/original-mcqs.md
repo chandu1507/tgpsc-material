@@ -29,23 +29,23 @@ D. GSVA always exceeds GSDP
 
 **Correct answer: A.** GSDP at market prices reconciles sectoral basic-price GSVA with net product taxes.
 
-### MCQ 4. The revised micro-enterprise investment threshold effective April 2025 is?
+### MCQ 4. Under the national MSME classification effective 1 April 2025, which pair gives the **micro** enterprise upper ceilings for eligible investment and annual turnover?
 
-A. ₹1 crore  
-B. ₹2.5 crore  
-C. ₹10 crore  
-D. ₹25 crore
+A. ₹1 crore investment and ₹5 crore turnover (the previous limits)  
+B. ₹2.5 crore investment and ₹5 crore turnover  
+C. ₹5 crore investment and ₹10 crore turnover  
+D. ₹2.5 crore investment and ₹10 crore turnover
 
-**Correct answer: B.** The central 2025 revision increased the micro investment limit to ₹2.5 crore, with turnover limit ₹10 crore; both conditions apply.
+**Correct answer: D.** Both ceilings apply jointly. The central Udyam portal records ₹2.5 crore and ₹10 crore effective 1 April 2025; A is the pre-April 2025 pair, while B and C mix or misstate thresholds. [S21]
 
-### MCQ 5. Under revised 2025 classification, which pair corresponds to a medium enterprise upper limit?
+### MCQ 5. Which investment-and-turnover pair is the **medium** enterprise upper limit under the central classification effective 1 April 2025?
 
-A. ₹25 crore investment and ₹100 crore turnover  
-B. ₹50 crore and ₹250 crore  
-C. ₹125 crore and ₹500 crore  
-D. ₹2.5 crore and ₹10 crore
+A. ₹50 crore investment and ₹250 crore turnover  
+B. ₹125 crore investment and ₹250 crore turnover  
+C. ₹25 crore investment and ₹100 crore turnover  
+D. ₹125 crore investment and ₹500 crore turnover
 
-**Correct answer: C.** The central composite limits for medium enterprises became ₹125 crore investment and ₹500 crore turnover.
+**Correct answer: D.** The joint medium ceilings are ₹125 crore investment and ₹500 crore turnover. A is the previous medium pair; B mixes old turnover with new investment; C is the current small-enterprise pair. [S21]
 
 ### MCQ 6. What is the primary institutional purpose of TS-iPASS?
 
@@ -101,23 +101,23 @@ D. Every district benefited equally
 
 **Correct answer: B.** Export receipts do not alone reveal job quality, district distribution, real value added or wage growth.
 
-### MCQ 12. NITI Aayog's 2025 analysis reported Telangana services GSVA share in 2023–24 as?
+### MCQ 12. In NITI Aayog's 2025 GVA analysis, what was Telangana's **services share of GSVA in 2023–24**, rather than its period average or employment share?
 
-A. 34.8%  
-B. 62.4%  
-C. 18.9%  
-D. 29.7%
+A. 52.8% (services GSVA share in 2011–12)  
+B. 60.3% (average services GSVA share over the analysed period)  
+C. 34.8% (services workforce share in 2023–24)  
+D. 62.4% (services GSVA share in 2023–24)
 
-**Correct answer: B.** The 62.4% figure refers to services share in GSVA; 34.8% refers to the services workforce share.
+**Correct answer: D.** The 2025 NITI GVA report gives 62.4% for 2023–24, compared with 52.8% in 2011–12; 60.3% is a period average, and 34.8% is the employment measure from a separate NITI report. [S22, S13]
 
-### MCQ 13. NITI Aayog's services workforce share for Telangana in 2023–24 was approximately?
+### MCQ 13. NITI Aayog's 2025 employment report places the share of Telangana workers employed in services in **2023–24** at approximately which value?
 
-A. 62.4%  
-B. 52.8%  
-C. 34.8%  
-D. 66.6%
+A. 29.7% (all-India services employment share)  
+B. 62.4% (Telangana services GSVA share)  
+C. 18.9% (Telangana rural services workforce share)  
+D. 34.8% (Telangana total services workforce share)
 
-**Correct answer: C.** The reported services employment share is 34.8%, illustrating that output and workforce shares have different denominators.
+**Correct answer: D.** The state profile reports 34.8% of Telangana's workforce in services in 2023–24, versus 29.7% nationally; 18.9% is the rural figure. Do not confuse output shares with employment shares. [S13, S22]
 
 ### MCQ 14. Which factor most directly creates agglomeration economies?
 
@@ -164,14 +164,14 @@ D. 2026–2036
 
 **Correct answer: C.** The official Second ICT Policy is dated 2021–2026; policy goals must not be mistaken for achieved outcomes.
 
-### MCQ 19. Which statement about Telangana Next-Gen Life Sciences Policy 2026–2030 is correct?
+### MCQ 19. How should a candidate interpret Telangana's **Next-Gen Life Sciences Policy 2026–2030** as of its 2026 launch?
 
-A. Its job targets are already measured achievements  
-B. It is a sector-specific strategic policy with forward-looking targets  
-C. It abolishes TS-iPASS  
-D. It classifies all MSMEs nationally
+A. Its stated 2030 investment and employment targets are already audited achievements  
+B. It changes India's statutory MSME classification limits for every state  
+C. It replaces the Telangana Second ICT Policy 2021–2026 with the same policy text  
+D. It is a state sectoral strategy with forward-looking investment and job targets requiring later outcome verification
 
-**Correct answer: B.** The 2026–2030 life-sciences document expresses ambitions and incentives; achievement requires separate observed data.
+**Correct answer: D.** The Telangana policy is explicitly dated 2026–2030 and sets future ambitions. Neither the existence of a policy nor a target proves completed investment or realised employment; it also does not rewrite national MSME thresholds. [S15, S23]
 
 ### MCQ 20. Which of the following is an industrial–service linkage?
 

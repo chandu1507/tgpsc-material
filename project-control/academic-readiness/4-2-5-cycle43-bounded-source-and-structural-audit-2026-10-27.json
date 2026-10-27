@@ -1,0 +1,107 @@
+{
+  "cycle": 43,
+  "date": "2026-10-27",
+  "topic": "4-2-5",
+  "baseline_main_sha": "e064f2a2f076669d4231128727c6650ca77a13df",
+  "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
+  "original_pdf_preserved": true,
+  "assessment": {
+    "original_concepts": 16,
+    "original_concept_word_range": [
+      314,
+      455
+    ],
+    "original_mcqs": 30,
+    "original_distribution": {
+      "A": 9,
+      "B": 15,
+      "C": 6,
+      "D": 0
+    },
+    "original_mains_body_only": [
+      209,
+      211,
+      201,
+      213,
+      205,
+      214
+    ],
+    "diagrams": 3,
+    "verified_official_pyqs": 0
+  },
+  "author_repair": {
+    "concepts": 17,
+    "mcqs": 30,
+    "revised": [
+      4,
+      5,
+      12,
+      13,
+      19
+    ],
+    "distribution": {
+      "A": 9,
+      "B": 12,
+      "C": 4,
+      "D": 5
+    },
+    "new_concept": "Worked MSME classification cases and bounded services/non-services 2023-24 output-share per worker-share ratio ~3.11; hypothetical cases clearly marked",
+    "mains_unchanged": true
+  },
+  "sources": [
+    {
+      "claim": "MSME classification 2025",
+      "url": "https://www.udyogaadhaar.gov.in/Important.aspx",
+      "questions": [
+        4,
+        5
+      ]
+    },
+    {
+      "claim": "Telangana GSVA services share 2023-24",
+      "url": "https://www.niti.gov.in/sites/default/files/2025-10/Indias_Services_Sector_Insights_from_GVA_Trends_State_level_Dynamics.pdf",
+      "questions": [
+        12
+      ]
+    },
+    {
+      "claim": "Telangana services employment share 2023-24",
+      "url": "https://www.niti.gov.in/node/2028",
+      "questions": [
+        13
+      ]
+    },
+    {
+      "claim": "Telangana life sciences policy 2026-2030",
+      "url": "https://invest.telangana.gov.in/policy-life-sciences/",
+      "questions": [
+        19
+      ]
+    }
+  ],
+  "unresolved": [
+    "2024 Commission notification not directly authenticated",
+    "Remaining 25 MCQ keys and all 120 alternatives require independent audit",
+    "Six mains claims not independently reviewed",
+    "Three diagrams not accuracy certified",
+    "Browser accessibility not tested",
+    "CI PDF and actual post-edit artifact not yet verified"
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0,
+  "counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 25,
+    "NOT_ASSESSED": 43
+  }
+}

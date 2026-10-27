@@ -12,12 +12,12 @@
 |---|---|---|
 | Industrial development | §§1, 3, 14 | Historical evolution, clusters and regional imbalance |
 | Structure and growth of industry | §§2–3 | GSVA/GSDP, manufacturing, construction, output vs employment |
-| MSME sector | §§4, 13 | 2025 classification, credit, payments, 2024 Telangana policy |
+| MSME sector | §§4, 13, 17 | 2025 classification, credit, payments, 2024 Telangana policy |
 | Revival of sick industries | §7 | Viability, TIHCL, restructuring and IBC |
 | Industrial infrastructure—power | §§6, 12 | TGIIC, parks, electricity reliability, logistics, pollution |
 | Industrial Policy of Telangana | §§5, 15 | TS-iPASS, T-IDEA, T-PRIDE, sectoral policy |
-| Structure and growth of services | §§8, 11 | IT/ITeS, GCCs, trade, health, finance and logistics |
-| Employment trends in both sectors | §9 | NITI Aayog dated evidence, gender, rural–urban, job quality |
+| Structure and growth of services | §§8, 11, 17 | IT/ITeS, GCCs, trade, health, finance and logistics |
+| Employment trends in both sectors | §§9, 17 | NITI Aayog dated evidence, gender, rural–urban, job quality |
 | ICT Policy of Telangana | §10 | Second ICT Policy 2021–2026, digital inclusion, institutions |
 | Integrated critical appraisal | §§13–16 | Public subsidy, sustainability, regional convergence |
 
@@ -27,4 +27,4 @@ Telangana combines advanced manufacturing, especially life sciences and precisio
 
 ## How to study
 
-Read standalone quick revision, then the sixteen detailed sections and three diagrams. Attempt thirty original MCQs without viewing the explanations. Practise six structured mains answers with the blueprints. Recheck the dated source register before the examination, because policies and economic estimates change.
+Read standalone quick revision, then the seventeen detailed sections and three diagrams. Attempt thirty original MCQs without viewing the explanations. Practise six structured mains answers with the blueprints. Recheck the dated source register before the examination, because policies and economic estimates change.

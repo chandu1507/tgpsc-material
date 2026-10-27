@@ -12,12 +12,12 @@
 |---|---|---|
 | Industrial development | §§1, 3, 14 | Historical evolution, clusters and regional imbalance |
 | Structure and growth of industry | §§2–3 | GSVA/GSDP, manufacturing, construction, output vs employment |
-| MSME sector | §§4, 13 | 2025 classification, credit, payments, 2024 Telangana policy |
+| MSME sector | §§4, 13, 17 | 2025 classification, credit, payments, 2024 Telangana policy |
 | Revival of sick industries | §7 | Viability, TIHCL, restructuring and IBC |
 | Industrial infrastructure—power | §§6, 12 | TGIIC, parks, electricity reliability, logistics, pollution |
 | Industrial Policy of Telangana | §§5, 15 | TS-iPASS, T-IDEA, T-PRIDE, sectoral policy |
-| Structure and growth of services | §§8, 11 | IT/ITeS, GCCs, trade, health, finance and logistics |
-| Employment trends in both sectors | §9 | NITI Aayog dated evidence, gender, rural–urban, job quality |
+| Structure and growth of services | §§8, 11, 17 | IT/ITeS, GCCs, trade, health, finance and logistics |
+| Employment trends in both sectors | §§9, 17 | NITI Aayog dated evidence, gender, rural–urban, job quality |
 | ICT Policy of Telangana | §10 | Second ICT Policy 2021–2026, digital inclusion, institutions |
 | Integrated critical appraisal | §§13–16 | Public subsidy, sustainability, regional convergence |
 
@@ -27,8 +27,7 @@ Telangana combines advanced manufacturing, especially life sciences and precisio
 
 ## How to study
 
-Read standalone quick revision, then the sixteen detailed sections and three diagrams. Attempt thirty original MCQs without viewing the explanations. Practise six structured mains answers with the blueprints. Recheck the dated source register before the examination, because policies and economic estimates change.
-
+Read standalone quick revision, then the seventeen detailed sections and three diagrams. Attempt thirty original MCQs without viewing the explanations. Practise six structured mains answers with the blueprints. Recheck the dated source register before the examination, because policies and economic estimates change.
 
 ---
 
@@ -59,7 +58,6 @@ Read standalone quick revision, then the sixteen detailed sections and three dia
 **Current-affairs discipline.** Telangana MSME Policy 2024, revised central MSME classification 2025, Next-Gen Life Sciences Policy 2026–2030 and NITI Aayog 2025 services analysis are dated sources. For each, distinguish law, policy, target, budget estimate and observed result. Avoid unsupported latest 2026 industrial shares from unreviewed tables.
 
 **Five-line conclusion for mains.** Telangana has strong life sciences, engineering, IT and business services. Clusters generate innovation and productivity, but benefits are uneven. MSMEs need prompt payments, finance, technology and market access. Regional centres need skills, utilities and viable logistics. Success is measured by decent jobs, surviving firms, real incomes, inclusion and environmental quality.
-
 
 ---
 
@@ -257,6 +255,17 @@ An effective agenda would strengthen MSME payments and technology adoption, eval
 
 **Conclusion.** Telangana's industrial and services success must be judged by the quality and distribution of economic opportunities. The decisive question for Group I analysis is not whether the state can attract capital or host advanced technology—it can—but whether its institutions convert those strengths into durable enterprises, decent work, regional convergence, fiscal prudence and environmental sustainability.
 
+## 17. Worked laboratory: MSME classification and the services output–employment gap
+
+**Purpose and statistical provenance.** A serious evaluation of Telangana's structural transformation must distinguish a business's legal size category, its sector's contribution to output, and the number and quality of jobs created. These are three different questions. The central Udyam registration portal records the MSME composite limits effective **1 April 2025**: micro, investment up to ₹2.5 crore **and** turnover up to ₹10 crore; small, investment up to ₹25 crore and turnover up to ₹100 crore; medium, investment up to ₹125 crore and turnover up to ₹500 crore. The two conditions are joint ceilings, not alternatives. These are national enterprise classifications; they do not by themselves establish eligibility for every Telangana subsidy or concession. [S21]
+
+**Worked classification A: crossing one threshold.** Consider a *hypothetical* enterprise with eligible investment of ₹2.4 crore and annual turnover of ₹11 crore. It is **not micro**, because its turnover exceeds ₹10 crore even though investment is below ₹2.5 crore. It falls within the small upper ceilings, assuming all other statutory classification conditions are met. This is why memorising only investment limits produces incorrect MCQ answers.
+
+**Worked classification B: crossing a different threshold.** A hypothetical enterprise with ₹26 crore eligible investment and ₹8 crore turnover is not small: ₹26 crore exceeds the ₹25 crore small-enterprise investment ceiling. It falls within the medium upper ceilings, subject to other applicable rules. A third hypothetical enterprise with ₹130 crore investment and ₹90 crore turnover exceeds the medium investment ceiling; its low turnover alone cannot preserve MSME status. The examples deliberately ignore ownership aggregation and other administrative rules, which require separate verification in actual registration cases.
+
+**Output versus employment, with a transparent calculation.** NITI Aayog's 2025 analyses report that in **2023–24**, services contributed **62.4% of Telangana's GSVA** and accounted for **34.8% of its workforce**. The non-services residual shares are therefore 37.6% of GSVA and 65.2% of employment. A descriptive *relative value-added-per-worker proxy* is (62.4/34.8) ÷ (37.6/65.2) ≈ **3.11**. This means the services sector's output share per worker share was roughly 3.11 times the corresponding residual-sector ratio in those rounded datasets. It does **not** prove that an individual service worker earned 3.11 times as much, that service jobs are all formal, or that services caused productivity growth. The two published series have distinct statistical collection methods and denominators; use the ratio only as a bounded structural comparison, not a measured wage or causal productivity estimate. [S22, S13]
+
+**Policy application and limitations.** A state can simultaneously report high-value IT exports, a growing services GSVA share, and inadequate job access for rural women or workers without specialised credentials. An industrial-park evaluation should therefore track operating firms, net new jobs, wage quality, local procurement, pollution control, enterprise survival and district distribution. Compare planned investment with completed investment and outcomes; compare nominal with constant-price output; separate policy targets from audited achievements. In mains answers, present the legal definition, state the data year, show the denominator, then identify the distributional and evidentiary limits. **Conclusion:** enterprise classification, sectoral output and labour-market inclusion must be analysed together but never treated as interchangeable indicators.
 
 ---
 
@@ -292,7 +301,6 @@ Approval and infrastructure inputs must be followed through to operational outco
 | TIHCL loan sanctioned | Revival assistance | Successful sustained rehabilitation |
 | Policy target | Intended future outcome | Achievement at the time of announcement |
 
-
 ---
 
 # 30 Original Practice MCQs — Answers and Explanations
@@ -326,23 +334,23 @@ D. GSVA always exceeds GSDP
 
 **Correct answer: A.** GSDP at market prices reconciles sectoral basic-price GSVA with net product taxes.
 
-### MCQ 4. The revised micro-enterprise investment threshold effective April 2025 is?
+### MCQ 4. Under the national MSME classification effective 1 April 2025, which pair gives the **micro** enterprise upper ceilings for eligible investment and annual turnover?
 
-A. ₹1 crore  
-B. ₹2.5 crore  
-C. ₹10 crore  
-D. ₹25 crore
+A. ₹1 crore investment and ₹5 crore turnover (the previous limits)  
+B. ₹2.5 crore investment and ₹5 crore turnover  
+C. ₹5 crore investment and ₹10 crore turnover  
+D. ₹2.5 crore investment and ₹10 crore turnover
 
-**Correct answer: B.** The central 2025 revision increased the micro investment limit to ₹2.5 crore, with turnover limit ₹10 crore; both conditions apply.
+**Correct answer: D.** Both ceilings apply jointly. The central Udyam portal records ₹2.5 crore and ₹10 crore effective 1 April 2025; A is the pre-April 2025 pair, while B and C mix or misstate thresholds. [S21]
 
-### MCQ 5. Under revised 2025 classification, which pair corresponds to a medium enterprise upper limit?
+### MCQ 5. Which investment-and-turnover pair is the **medium** enterprise upper limit under the central classification effective 1 April 2025?
 
-A. ₹25 crore investment and ₹100 crore turnover  
-B. ₹50 crore and ₹250 crore  
-C. ₹125 crore and ₹500 crore  
-D. ₹2.5 crore and ₹10 crore
+A. ₹50 crore investment and ₹250 crore turnover  
+B. ₹125 crore investment and ₹250 crore turnover  
+C. ₹25 crore investment and ₹100 crore turnover  
+D. ₹125 crore investment and ₹500 crore turnover
 
-**Correct answer: C.** The central composite limits for medium enterprises became ₹125 crore investment and ₹500 crore turnover.
+**Correct answer: D.** The joint medium ceilings are ₹125 crore investment and ₹500 crore turnover. A is the previous medium pair; B mixes old turnover with new investment; C is the current small-enterprise pair. [S21]
 
 ### MCQ 6. What is the primary institutional purpose of TS-iPASS?
 
@@ -398,23 +406,23 @@ D. Every district benefited equally
 
 **Correct answer: B.** Export receipts do not alone reveal job quality, district distribution, real value added or wage growth.
 
-### MCQ 12. NITI Aayog's 2025 analysis reported Telangana services GSVA share in 2023–24 as?
+### MCQ 12. In NITI Aayog's 2025 GVA analysis, what was Telangana's **services share of GSVA in 2023–24**, rather than its period average or employment share?
 
-A. 34.8%  
-B. 62.4%  
-C. 18.9%  
-D. 29.7%
+A. 52.8% (services GSVA share in 2011–12)  
+B. 60.3% (average services GSVA share over the analysed period)  
+C. 34.8% (services workforce share in 2023–24)  
+D. 62.4% (services GSVA share in 2023–24)
 
-**Correct answer: B.** The 62.4% figure refers to services share in GSVA; 34.8% refers to the services workforce share.
+**Correct answer: D.** The 2025 NITI GVA report gives 62.4% for 2023–24, compared with 52.8% in 2011–12; 60.3% is a period average, and 34.8% is the employment measure from a separate NITI report. [S22, S13]
 
-### MCQ 13. NITI Aayog's services workforce share for Telangana in 2023–24 was approximately?
+### MCQ 13. NITI Aayog's 2025 employment report places the share of Telangana workers employed in services in **2023–24** at approximately which value?
 
-A. 62.4%  
-B. 52.8%  
-C. 34.8%  
-D. 66.6%
+A. 29.7% (all-India services employment share)  
+B. 62.4% (Telangana services GSVA share)  
+C. 18.9% (Telangana rural services workforce share)  
+D. 34.8% (Telangana total services workforce share)
 
-**Correct answer: C.** The reported services employment share is 34.8%, illustrating that output and workforce shares have different denominators.
+**Correct answer: D.** The state profile reports 34.8% of Telangana's workforce in services in 2023–24, versus 29.7% nationally; 18.9% is the rural figure. Do not confuse output shares with employment shares. [S13, S22]
 
 ### MCQ 14. Which factor most directly creates agglomeration economies?
 
@@ -461,14 +469,14 @@ D. 2026–2036
 
 **Correct answer: C.** The official Second ICT Policy is dated 2021–2026; policy goals must not be mistaken for achieved outcomes.
 
-### MCQ 19. Which statement about Telangana Next-Gen Life Sciences Policy 2026–2030 is correct?
+### MCQ 19. How should a candidate interpret Telangana's **Next-Gen Life Sciences Policy 2026–2030** as of its 2026 launch?
 
-A. Its job targets are already measured achievements  
-B. It is a sector-specific strategic policy with forward-looking targets  
-C. It abolishes TS-iPASS  
-D. It classifies all MSMEs nationally
+A. Its stated 2030 investment and employment targets are already audited achievements  
+B. It changes India's statutory MSME classification limits for every state  
+C. It replaces the Telangana Second ICT Policy 2021–2026 with the same policy text  
+D. It is a state sectoral strategy with forward-looking investment and job targets requiring later outcome verification
 
-**Correct answer: B.** The 2026–2030 life-sciences document expresses ambitions and incentives; achievement requires separate observed data.
+**Correct answer: D.** The Telangana policy is explicitly dated 2026–2030 and sets future ambitions. Neither the existence of a policy nor a target proves completed investment or realised employment; it also does not rewrite national MSME thresholds. [S15, S23]
 
 ### MCQ 20. Which of the following is an industrial–service linkage?
 
@@ -569,8 +577,6 @@ D. Software exports alone
 
 **Correct answer: B.** A multidimensional assessment connects growth to operational firms, decent work, regional distribution and sustainability.
 
-
-
 ---
 
 # Mains Answer Blueprints
@@ -585,7 +591,6 @@ D. Software exports alone
 | Q6 ICT policy and sustainability | 2021–2026 ICT framework | Innovation institutions, GCCs, manufacturing linkages | Digital divide, energy, privacy, unverified targets | Inclusive and responsible digital transformation |
 
 **Answer structure:** Introduce a Telangana-specific fact or institutional context; identify causes/objectives; explain measures and mechanisms; compare benefits and limitations; conclude with two or three measurable reforms. The six complete answers follow this structure and are original practice, not official PYQs.
-
 
 ---
 
@@ -665,19 +670,17 @@ D. Software exports alone
 
 **Conclusion and way forward.** Link ICT strategy to regional skill pipelines, manufacturing suppliers, accessible public services, energy efficiency and responsible data governance. Measure viable firms, innovation outcomes, formal jobs and inclusion rather than event counts. Telangana's technological leadership will be durable only when it raises economy-wide productivity and social welfare.
 
-
 ---
 
 # Official PYQ provenance register
 
 **No official MCQ or mains PYQ is reproduced or labelled verified in this chapter.** An original TGPSC question-paper scan/PDF and exact question number have not been matched to the chapter's questions. All thirty MCQs and six mains questions are original practice. Future additions must record examination name, paper, year, question number, exact source URL and a manual answer-key audit before being called official.
 
-
 ---
 
 # Authoritative Sources and Audit — Industry and Service Sectors
 
-**Audit cut-off:** 24 October 2026. This is an internally checked expanded draft, not an independent academic certification. All URLs are primary institutional sources unless specifically marked as secondary syllabus corroboration. The links are supplied for verification, not as a substitute for a subject-expert review. No source page-number citations are used in the student-facing notes.
+**Audit cut-off:** 27 October 2026 (Cycle43 bounded update; inherited material has earlier source dates). This is an internally checked expanded draft, not an independent academic certification. All URLs are primary institutional sources unless specifically marked as secondary syllabus corroboration. The links are supplied for verification, not as a substitute for a subject-expert review. No source page-number citations are used in the student-facing notes.
 
 | ID | Source and date/period | URL | Used for / caution |
 |---|---|---|---|
@@ -701,6 +704,9 @@ D. Software exports alone
 | S18 | Invest Telangana, industrial and services investment sectors | https://invest.telangana.gov.in/ | Institutional ecosystem and sector map; promotional content treated cautiously. |
 | S19 | Telangana TG-iPASS dashboard, observed October 2026 | https://ipass.telangana.gov.in/UI/TSiPASS/frmSingleWindowDashboard.aspx | Administrative process metrics, not factory output or realised employment. |
 | S20 | Telangana State Portal, 2024 electricity-policy announcement | https://www.telangana.gov.in/news/press-releases/2024/01/telangana-government-to-bring-in-new-power-electricity-policy/ | Power policy intentions; not evidence of a subsequently enacted policy. |
+| S21 | Government of India, Udyam registration classification, current page checked 27 Oct 2026 | https://www.udyogaadhaar.gov.in/Important.aspx | Composite MSME thresholds effective 1 April 2025: micro 2.5/10, small 25/100, medium 125/500 crore; not state subsidy eligibility. |
+| S22 | NITI Aayog, *India's Services Sector: Insights from GVA Trends and State-Level Dynamics*, October 2025 | https://www.niti.gov.in/sites/default/files/2025-10/Indias_Services_Sector_Insights_from_GVA_Trends_State_level_Dynamics.pdf | Telangana services GSVA share 62.4% in 2023–24, 52.8% in 2011–12; 60.3% is period average, not 2023–24. |
+| S23 | Government of Telangana, Next-Gen Life Sciences Policy 2026–2030 (official policy portal) | https://invest.telangana.gov.in/policy-life-sciences/ | Policy period and forward-looking investment/jobs targets, not realised outcomes. |
 
 ## Claims checked and qualifications
 
@@ -713,3 +719,7 @@ D. Software exports alone
 7. **SEO 2026:** Official publication identified, but its full industrial sub-sector tables not exhaustively audited; unsupported latest percentages excluded.
 8. **Official PYQs:** Zero claimed. No source paper/question-number provenance established.
 9. **Academic approval:** Zero; subject expert, legal currency and independent statistical audit remain pending.
+
+10. **Cycle43 bounded checks:** Q4/Q5 against official Udyam current thresholds; Q12 against NITI 2025 GVA report; Q13 against NITI 2025 employment report; Q19 against the state life-sciences policy. All four alternatives for each of these five items were reviewed by the author against the indicated figures/periods; this is NOT an independent 30-key/120-distractor R5 audit.
+11. **Structural proxy:** The approximately 3.11 relative services/non-services output-share-per-worker-share calculation uses rounded 2023–24 values from two separate NITI reports. It is an explanatory ratio, not a direct measured wage, causal effect, or comprehensive labour productivity series.
+12. **Unresolved:** Original Notification 02/2024 not directly authenticated in this cycle; no complete independent review of 30 MCQs, all six mains claims, original diagrams or offline browser accessibility. No independent academic approval.
