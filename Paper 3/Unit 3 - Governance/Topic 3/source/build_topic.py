@@ -120,4 +120,4 @@ manifest['original_mcqs']=25
 manifest['mains_answers']=6
 manifest['integrated_student_pdf']={'path':'source/integrated-student-edition-2026-10-27.pdf','sha256':hashlib.sha256((SRC/'integrated-student-edition-2026-10-27.pdf').read_bytes()).hexdigest(),'legacy_pdf_preserved':True}
 manifest['file_sha256']={str(f.relative_to(ROOT)):hashlib.sha256(f.read_bytes()).hexdigest() for f in sorted(ROOT.rglob('*')) if f.is_file() and f.name!='manifest.json'}
-manifest_path.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\\n',encoding='utf-8')
+manifest_path.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
