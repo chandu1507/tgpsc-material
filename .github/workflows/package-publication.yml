@@ -53,9 +53,34 @@ jobs:
           echo '::error::Could not publish ZIP after three attempts.'
           exit 1
       - name: Preserve committed ZIP as downloadable workflow artifact
+        id: snapshot_artifact
         uses: actions/upload-artifact@v4
         with:
           name: tgpsc-github-publication-snapshot
           path: downloads/TGPSC_GITHUB_PUBLICATION_SNAPSHOT.zip
           if-no-files-found: error
           retention-days: 90
+      - name: Record reusable artifact pointer (not a QA approval)
+        shell: bash
+        env:
+          ARTIFACT_ID: ${{ steps.snapshot_artifact.outputs.artifact-id }}
+          ARTIFACT_DIGEST: ${{ steps.snapshot_artifact.outputs.artifact-digest }}
+          ARTIFACT_URL: ${{ steps.snapshot_artifact.outputs.artifact-url }}
+        run: |
+          set -euo pipefail
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 - <<'PY'
+          import json,os,pathlib,datetime
+          path=pathlib.Path('project-control/academic-readiness/latest-publication-artifact-pointer.json')
+          path.parent.mkdir(parents=True,exist_ok=True)
+          data={'run_id':int(os.environ['GITHUB_RUN_ID']),'artifact_id':int(os.environ['ARTIFACT_ID']),'artifact_digest':os.environ['ARTIFACT_DIGEST'],'artifact_url':os.environ['ARTIFACT_URL'],'name':'tgpsc-github-publication-snapshot','recorded_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'independently_downloaded_and_qa_verified':False}
+          path.write_text(json.dumps(data,indent=2)+'\n')
+          PY
+            git add project-control/academic-readiness/latest-publication-artifact-pointer.json
+            git commit -m 'Record latest TGPSC publication artifact pointer (unverified)'
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Pointer push raced main; retry $attempt"
+          done
+          exit 1
