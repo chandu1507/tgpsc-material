@@ -3,6 +3,13 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Current controlling reconciliation — 27 October 2026, Cycle27
+
+Read `project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json` for the canonical 75-topic count. **7 IN_PROGRESS, 5 ASSESSED_REBUILD_REQUIRED (3-1-1 through 3-1-5), 63 NOT_ASSESSED, 0 fully R1–R8 ready, 0 independent approvals.** Earlier dated snapshots below are historical, not current counts.
+
+Topic 3-1-5 has now been individually assessed: original 16-page PDF preserved; 15 numbered explanatory concepts, 13 still under 300 words after two in-place expansions; 30 explained original MCQs, five revised and limited source-correlated; six 200–250-word mains bodies but claim-level audits pending; three existing SVGs with unverified visual accuracy; no new synchronized integrated PDF. R1 direct official syllabus mapping, R2 deduplication, R4 full source audit, R5 remaining 25 item checks and R8 publication all remain incomplete. Evidence: `project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json`. No R9 or academic approval.
+
+
 ## Order of work
 For EACH existing topic, finish gates R1–R8 before initiating the independent academic audit (R9). Do not add a topic or replace the preserved original PDF until the consolidated edition passes checks.
 
