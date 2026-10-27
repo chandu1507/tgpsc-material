@@ -550,9 +550,10 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "cycle47_first_direct_structural_and_bounded_source_assessment",
-      "notes": "Original 23-page PDF SHA256 1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159 preserved. 18 concepts, 2 below300 (10/17), 30 original MCQs (A2/B26/C2/D0), six mains body-only 220/219/207/214/216/209, three diagrams. MCQ2 and MCQ3 bounded current 2026 CPCB rules correspondences only. No full key/distractor, mains, diagram, syllabus or browser audit. Not approved.",
+      "notes": "Original 23-page PDF SHA256 1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159 preserved. 18 concepts, 2 below300 (10/17), 30 original MCQs (A2/B26/C2/D0), six mains body-only 220/219/207/214/216/209, three diagrams. MCQ2 and MCQ3 bounded current 2026 CPCB rules correspondences only. No full key/distractor, mains, diagram, syllabus or browser audit. Not approved. 28 Oct Cycle48: concepts 10 and 17 expanded with hypothetical RDF energy balance and municipal waste-service dashboard; editable master source updated; deterministic CI PDF and downloaded post-edit artifact QA pending. No independent academic approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
-      "readiness_gate_file": "project-control/academic-readiness/4-3-4.json"
+      "readiness_gate_file": "project-control/academic-readiness/4-3-4.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json"
     },
     {
       "id": "4-3-5",
@@ -561,10 +562,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published original full draft with 30 original MCQs and six structured mains models; independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/4-3-5.json"
+      "production_review": "first_direct_assessment_primary_ndc_bounded_verification_rebuild_required",
+      "notes": "28 Oct Cycle48: original 25-page PDF preserved; 16 concepts all >=300, 30 MCQs A3/B24/C3/D0, six mains 215/206/215/207/206/214 body-only; UNFCCC April 2026 NDC directly checked for MCQ20/21 key-level correspondence only. Full MCQ/distractor, mains, diagrams, syllabus and browser checks pending; no independent approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/4-3-5.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json"
     },
     {
       "id": "5-1-1",
