@@ -103,8 +103,8 @@
     },
     {
       "path": "source/integrated-student-edition-2026-10-27.pdf",
-      "bytes": 164986,
-      "sha256": "8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51"
+      "bytes": 164300,
+      "sha256": "bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05"
     }
   ],
   "github_branch": "topic-archive/p3-u2-t3-20261023",
