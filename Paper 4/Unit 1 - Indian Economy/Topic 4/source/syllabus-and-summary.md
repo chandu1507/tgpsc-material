@@ -4,7 +4,7 @@
 TGPSC Group I | Economy and Development | Expanded English study draft | 24 October 2026  
 **Academic status: NOT APPROVED.** This manuscript is not a substitute for a subject-expert audit.
 
-**Notification 02/2024 syllabus line (corroborated reproduction):** “Public Finance: Tax structure, Central and state taxes; Government expenditure in revenue and capital account; Public debt: composition- internal and external debt; Monetary Policy, Fiscal Policy; Union Budget: Budget Analysis.” Direct authentication of the commission-hosted original PDF is still an open provenance task; this exact wording is corroborated by the published 2024 transcription [S12].
+**R1 PRIMARY-SOURCE PASS (27 October 2026).** The Commission-hosted original Notification 02/2024, Annexure-II, printed page 31 (PDF index 30), Paper IV, Indian Economy and Development, item 4, directly states: “Public Finance: Tax structure, Central and state taxes; Government expenditure in revenue and capital account; Public debt: composition- internal and external debt; Monetary Policy, Fiscal Policy; Union Budget: Budget Analysis.” The original PDF page was visually inspected, not inferred from the secondary transcription. [S16]
 
 | Exact syllabus element | Where studied | What to practise |
 |---|---|---|

@@ -4,7 +4,7 @@
 TGPSC Group I | Economy and Development | Expanded English study draft | 24 October 2026  
 **Academic status: NOT APPROVED.** This manuscript is not a substitute for a subject-expert audit.
 
-**Notification 02/2024 syllabus line (corroborated reproduction):** “Public Finance: Tax structure, Central and state taxes; Government expenditure in revenue and capital account; Public debt: composition- internal and external debt; Monetary Policy, Fiscal Policy; Union Budget: Budget Analysis.” Direct authentication of the commission-hosted original PDF is still an open provenance task; this exact wording is corroborated by the published 2024 transcription [S12].
+**R1 PRIMARY-SOURCE PASS (27 October 2026).** The Commission-hosted original Notification 02/2024, Annexure-II, printed page 31 (PDF index 30), Paper IV, Indian Economy and Development, item 4, directly states: “Public Finance: Tax structure, Central and state taxes; Government expenditure in revenue and capital account; Public debt: composition- internal and external debt; Monetary Policy, Fiscal Policy; Union Budget: Budget Analysis.” The original PDF page was visually inspected, not inferred from the secondary transcription. [S16]
 
 | Exact syllabus element | Where studied | What to practise |
 |---|---|---|
@@ -212,6 +212,22 @@ For comparison, the 2025–26 RE fiscal deficit was **4.4% of GDP**, and total e
 
 Telangana's official **Budget in Brief 2026–27** reports **total expenditure of ₹3,24,234 crore** including debt repayment and relevant capital-account transactions. The commonly cited **₹3,01,209 crore** is expenditure **excluding debt repayment**, as presented in PRS's budget analysis. Both numbers can be correct when the denominator is explained; confusing them leads to false comparisons. The state projected **revenue receipts ₹2,41,264 crore**, **revenue expenditure ₹2,34,406 crore**, **revenue surplus ₹6,858 crore**, **fiscal deficit ₹58,459 crore**, and **primary deficit ₹37,154 crore**. Its projected GSDP is **₹19,61,701 crore**. These are 2026–27 budget estimates, not audited results. [S04, S11]
 
+### Worked 2026–27 Telangana budget reconciliation: three distinct fiscal measures
+
+The numbers below are **2026–27 Budget Estimates (BE)**, not audited expenditure. PRS's March 2026 budget analysis reproduces the state budget tables and distinguishes the gross and net accounting perimeters [S11]; the state Budget in Brief is the underlying official budget publication [S04]. Work each calculation before drawing a policy conclusion.
+
+| Step | Arithmetic (₹ crore) | What the result means |
+|---|---:|---|
+| Gross expenditure less scheduled debt-principal repayment | 3,24,234 − 23,025 = **3,01,209** | Net expenditure used in the fiscal-deficit presentation; the ₹23,025 is repayment of principal, not new development spending. |
+| Net expenditure less non-borrowing receipts | 3,01,209 − 2,42,750 = **58,459** | Planned fiscal deficit (rounding to whole crore); it is not gross expenditure minus tax revenue. |
+| Revenue receipts less revenue expenditure | 2,41,264 − 2,34,406 = **6,858** | Budgeted **revenue surplus**, even though the overall budget has a fiscal deficit. |
+| Fiscal deficit less interest payments | 58,459 − 21,304 = **37,155** | Approximate **primary deficit** using rounded inputs; the published detailed figure is ₹37,154 crore. Do not mistake a one-crore rounding difference for an accounting contradiction. |
+| Interest payments divided by revenue receipts | 21,304 ÷ 2,41,264 × 100 ≈ **8.83%** | A BE debt-service-pressure indicator; this ratio does not capture principal repayments or guarantees. |
+
+**Why the perimeters matter.** Subtracting the ₹23,025 crore principal repayment once is necessary when comparing the PRS net-expenditure series with receipts excluding borrowings. Subtracting it again from ₹3,01,209 crore would understate spending and the deficit. Likewise, treating ₹79,984 crore of gross planned borrowing as the fiscal deficit ignores debt redemption and other financing items. A revenue surplus can coexist with a fiscal deficit because capital outlay and other capital transactions still require finance. The published ₹58,459 crore fiscal deficit is roughly **3.0%** of the projected ₹19,61,701 crore GSDP; this is a planned ratio, not evidence that the year closed at that level.
+
+**Interpretation versus evidence.** The 2025–26 revised net-expenditure estimate was ₹2,61,211 crore, against ₹3,01,209 crore budgeted for 2026–27: an approximately **15.3% planned increase** over RE. This is not a measured increase in services delivered. A mains answer should examine execution, capital-project completion, the previous year's revenue-estimate accuracy, the difference between committed expenditure and discretionary schemes, and separately disclosed guarantees. The correct comparison requires consistent years, BE/RE/Actuals labels and debt-repayment treatment. [S04, S11]
+
 ### What the composition reveals
 
 Capital outlay was budgeted at **₹47,267 crore**, including sizeable allocations for irrigation, welfare-related capital works and roads/bridges. The state also planned lending/advances and repayment transactions, which must not be mislabeled as new physical infrastructure. Revenue expenditure includes social transfers, salaries, pensions, interest and routine service delivery. An irrigation project illustrates the central trade-off: the dam or canal is capital expenditure, while electricity, repairs, extension services and water governance determine whether the asset raises farm productivity. A high capital-outlay percentage is insufficient without lifecycle budgeting.
@@ -368,17 +384,17 @@ A. Crowding in  B. Tax evasion  C. Automatic debt cancellation  D. Revenue recei
 A. Fiscal deficit target of 4.3% of GDP  B. A verified final actual for 2026–27  C. An audited CAG closing balance for March 2027  D. An ex-post final tax collection  
 **Answer: A.** The Union Budget proposed a 4.3% deficit; the financial year had not closed as of October 2026.
 
-**23.** Telangana's 2026–27 ₹3,24,234 crore and ₹3,01,209 crore expenditure figures differ principally because:  
-A. One is measured in dollars  B. One includes debt repayment and the other excludes it  C. One excludes all taxes  D. They refer to different states  
-**Answer: B.** The official gross total includes debt repayment; PRS presents net expenditure excluding it.
+**23.** Telangana's 2026–27 Budget Estimates report gross expenditure of ₹3,24,234 crore and scheduled principal repayment of ₹23,025 crore. What is expenditure **excluding debt repayment**, on the PRS comparison basis?  
+A. ₹3,47,259 crore  B. ₹3,24,234 crore  C. ₹23,025 crore  D. ₹3,01,209 crore  
+**Answer: D.** Subtract principal repayment once: ₹3,24,234 − ₹23,025 = ₹3,01,209 crore. A adds the repayment, B leaves it included, and C reports only the repayment. This is the 2026–27 BE perimeter, not an audited actual. [S04, S11]
 
 **24.** The GST Council's recommendations of 8 October 2026 should be treated as:  
 A. Automatically enacted laws on the meeting date  B. Proposals requiring relevant legal action and commencement checks  C. A new Finance Commission award  D. RBI monetary policy  
 **Answer: B.** Council recommendations are institutionally important but do not by themselves establish commencement of statutory amendments.
 
-**25.** A district reports ₹200 crore spent on water infrastructure. Which is the strongest evidence of long-run public value?  
-A. Size of the allocation alone  B. Number of inauguration events  C. Reliable water delivery, maintenance, cost and health outcomes  D. Only the number of tenders  
-**Answer: C.** Evaluation links financial inputs to outputs, outcomes, lifecycle costs and beneficiary experience.
+**25.** Telangana's 2026–27 Budget Estimates include ₹21,304 crore interest payments and ₹2,41,264 crore revenue receipts. Approximately what share of revenue receipts is absorbed by interest?  
+A. 8.8%  B. 11.3%  C. 17.0%  D. 21.3%  
+**Answer: A.** ₹21,304 ÷ ₹2,41,264 × 100 ≈ 8.83%. B reverses the ratio conceptually; C confuses a different year or basis; D treats the numerator's first digits as a percentage. This measures planned interest pressure, not total debt service or audited 2026–27 spending. [S11]
 
 
 ---
@@ -482,7 +498,7 @@ Each blueprint is followed by a complete model answer with question-specific sub
 
 # Authoritative source register and internal audit
 
-**Source handling:** Source identifiers in the text refer to this register. Primary documents are prioritised for legal and budget claims. Dated budget figures are labelled BE/RE/Actuals. The commission's original Notification 02/2024 PDF remains a direct-access gap; the syllabus wording is corroborated by a published transcription, not falsely presented as a newly authenticated primary extract.
+**Source handling:** Source identifiers in the text refer to this register. Primary documents are prioritised for legal and budget claims. Dated budget figures are labelled BE/RE/Actuals. The Commission-hosted original Notification 02/2024 Annexure-II printed page 31 was directly visually inspected on 27 October 2026; R1 syllabus correspondence passes for this topic. This does not certify the other academic gates.
 
 | ID | Source / scope | Link | Verification / caution |
 |---|---|---|---|
@@ -501,10 +517,12 @@ Each blueprint is followed by a complete model answer with question-specific sub
 | S13 | CAG of India, Union and state finance audits | https://cag.gov.in/ | Official audited actuals; audit year must match claim |
 | S14 | Finance Commission, Article 280 and reports | https://fincomindia.nic.in/ | Commission recommendations vs accepted policy distinction |
 | S15 | CBIC GST laws and notifications | https://cbic-gst.gov.in/ | Check actual legal commencement of GST Council proposals |
+| S16 | TGPSC Notification No. 02/2024, Annexure-II, printed p. 31, Paper IV Unit I item 4 | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | **Original commission PDF page directly inspected 27 Oct 2026**; R1 PASS only |
 
 **Internally checked:** 2026–27 Union BE total expenditure ₹53,47,315 crore, capital expenditure ₹12,21,821 crore, effective capex ₹17,14,523 crore, fiscal deficit ₹16,95,768 crore/4.3%, revenue deficit ₹5,92,344 crore/1.5%; Telangana BE fiscal deficit ₹58,458.71 crore, revenue surplus ₹6,857.76 crore, gross expenditure ₹3,24,234 crore; GST 57th meeting date 8 October 2026. Figures are rounded in narrative. [S02, S04, S07]
 
-**Open academic checks:** Original notification PDF comparison; clause-level review of any 2026 GST legislative amendments and commencement; legal verification of state-specific tax changes; deeper evaluation of 2026–27 budget outcomes when Actuals become available; independent subject-expert review of all definitions, worked calculations, MCQ distractors and model answers. **Academic approval remains zero.**
+**Open academic checks:** Clause-level review of any 2026 GST legislative amendments and commencement; legal verification of state-specific tax changes; deeper evaluation of 2026–27 budget outcomes when Actuals become available; independent subject-expert review of all definitions, worked calculations, MCQ distractors and model answers. **Academic approval remains zero.**
 
 **Official PYQ provenance gap:** No original TGPSC question paper and question number has been attached or authenticated for the questions in this topic. Therefore none is labelled official or verified PYQ.
 
+**Cycle38 bounded claim checks (27 October 2026):** Official Commission Notification 02/2024 p. 31 item 4 confirms syllabus. PRS Telangana Budget Analysis 2026–27 (published March 2026) explicitly reports gross expenditure ₹3,24,234 crore, debt repayment ₹23,025 crore, net expenditure ₹3,01,209 crore, non-borrowing receipts ₹2,42,750 crore, interest payments ₹21,304 crore and revenue receipts ₹2,41,264 crore; the arithmetic in Section 11 and practice Q23/Q25 was recalculated. The Union Budget at a Glance 2026–27 reports ₹53,47,315 crore total expenditure and ₹16,95,768 crore fiscal deficit. The 57th GST Council meeting date of 8 October 2026 is listed on the Council website. These bounded source checks do **not** certify the remaining 23 MCQs or any distractor set independently; no independent academic approval.

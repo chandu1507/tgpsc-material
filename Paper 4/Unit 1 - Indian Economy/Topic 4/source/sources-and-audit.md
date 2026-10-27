@@ -1,6 +1,6 @@
 # Authoritative source register and internal audit
 
-**Source handling:** Source identifiers in the text refer to this register. Primary documents are prioritised for legal and budget claims. Dated budget figures are labelled BE/RE/Actuals. The commission's original Notification 02/2024 PDF remains a direct-access gap; the syllabus wording is corroborated by a published transcription, not falsely presented as a newly authenticated primary extract.
+**Source handling:** Source identifiers in the text refer to this register. Primary documents are prioritised for legal and budget claims. Dated budget figures are labelled BE/RE/Actuals. The Commission-hosted original Notification 02/2024 Annexure-II printed page 31 was directly visually inspected on 27 October 2026; R1 syllabus correspondence passes for this topic. This does not certify the other academic gates.
 
 | ID | Source / scope | Link | Verification / caution |
 |---|---|---|---|
@@ -19,9 +19,12 @@
 | S13 | CAG of India, Union and state finance audits | https://cag.gov.in/ | Official audited actuals; audit year must match claim |
 | S14 | Finance Commission, Article 280 and reports | https://fincomindia.nic.in/ | Commission recommendations vs accepted policy distinction |
 | S15 | CBIC GST laws and notifications | https://cbic-gst.gov.in/ | Check actual legal commencement of GST Council proposals |
+| S16 | TGPSC Notification No. 02/2024, Annexure-II, printed p. 31, Paper IV Unit I item 4 | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | **Original commission PDF page directly inspected 27 Oct 2026**; R1 PASS only |
 
 **Internally checked:** 2026–27 Union BE total expenditure ₹53,47,315 crore, capital expenditure ₹12,21,821 crore, effective capex ₹17,14,523 crore, fiscal deficit ₹16,95,768 crore/4.3%, revenue deficit ₹5,92,344 crore/1.5%; Telangana BE fiscal deficit ₹58,458.71 crore, revenue surplus ₹6,857.76 crore, gross expenditure ₹3,24,234 crore; GST 57th meeting date 8 October 2026. Figures are rounded in narrative. [S02, S04, S07]
 
-**Open academic checks:** Original notification PDF comparison; clause-level review of any 2026 GST legislative amendments and commencement; legal verification of state-specific tax changes; deeper evaluation of 2026–27 budget outcomes when Actuals become available; independent subject-expert review of all definitions, worked calculations, MCQ distractors and model answers. **Academic approval remains zero.**
+**Open academic checks:** Clause-level review of any 2026 GST legislative amendments and commencement; legal verification of state-specific tax changes; deeper evaluation of 2026–27 budget outcomes when Actuals become available; independent subject-expert review of all definitions, worked calculations, MCQ distractors and model answers. **Academic approval remains zero.**
 
 **Official PYQ provenance gap:** No original TGPSC question paper and question number has been attached or authenticated for the questions in this topic. Therefore none is labelled official or verified PYQ.
+
+**Cycle38 bounded claim checks (27 October 2026):** Official Commission Notification 02/2024 p. 31 item 4 confirms syllabus. PRS Telangana Budget Analysis 2026–27 (published March 2026) explicitly reports gross expenditure ₹3,24,234 crore, debt repayment ₹23,025 crore, net expenditure ₹3,01,209 crore, non-borrowing receipts ₹2,42,750 crore, interest payments ₹21,304 crore and revenue receipts ₹2,41,264 crore; the arithmetic in Section 11 and practice Q23/Q25 was recalculated. The Union Budget at a Glance 2026–27 reports ₹53,47,315 crore total expenditure and ₹16,95,768 crore fiscal deficit. The 57th GST Council meeting date of 8 October 2026 is listed on the Council website. These bounded source checks do **not** certify the remaining 23 MCQs or any distractor set independently; no independent academic approval.
