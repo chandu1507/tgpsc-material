@@ -1,12 +1,12 @@
 {
   "topic_id": "3-3-5",
   "title": "Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
-  "prior_repair_reported": false,
+  "prior_repair_reported": true,
   "inventory_baseline": {
     "path": "Paper 3/Unit 3 - Governance/Topic 5",
     "files": 18,
@@ -17,17 +17,46 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "BLOCKED",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle34 individual original-source/PDF/MCQ/mains/diagram inventory and 15 in-place MCQ revisions with dated limited government-source correspondences. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json.",
+  "next_action": "Verify 25 keys and 100 distractors independently, all six mains claims, syllabus source, diagrams, deduplication, actual rendered CI PDF and downloaded GitHub artifact CRC/SHA/links/browser QA; R9 only after all R1-R8 PASS and named expert.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_cycle34": {
+    "legacy_pdf_sha256": "e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825",
+    "legacy_pdf_pages": 31,
+    "explanatory_concepts": 18,
+    "concept_word_min": 399,
+    "concept_word_max": 575,
+    "concepts_below_300": 0,
+    "original_practice_mcqs": 25,
+    "mcq_revisions_in_place": 15,
+    "mcq_answer_distribution": {
+      "A": 10,
+      "B": 5,
+      "C": 5,
+      "D": 5
+    },
+    "mains_answers": 6,
+    "mains_body_only_word_counts": [
+      204,
+      220,
+      227,
+      212,
+      222,
+      237
+    ],
+    "existing_original_svg_diagrams": 3,
+    "r1_official_pdf_directly_verified": false,
+    "independent_academic_approval": false,
+    "integrated_pdf": "local 36-page candidate; remote CI and downloaded artifact pending"
+  }
 }
