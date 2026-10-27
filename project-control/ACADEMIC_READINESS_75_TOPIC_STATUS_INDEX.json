@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 39,
+  "not_assessed_count": 38,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 29 ASSESSED_REBUILD_REQUIRED, 39 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle47 Topic 4-3-3 actual artifact verified, Topic 4-3-4 first direct assessment.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 30 ASSESSED_REBUILD_REQUIRED, 38 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready; ZERO independent approvals. Cycle48 post-edit GitHub artifact verification pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -120,9 +120,10 @@
     "4-3-1",
     "4-3-2",
     "4-3-3",
-    "4-3-4"
+    "4-3-4",
+    "4-3-5"
   ],
-  "last_readiness_update": "28 Oct Cycle47: 4-3-3 synchronized CI PDF/HTML downloaded artifact QA PASS for integrity; 4-3-4 first direct assessment; counts 7/29/39.",
+  "last_readiness_update": "28 Oct Cycle48: Topic 4-3-4 substantive quantitative expansion and guarded CI publisher prepared; Topic 4-3-5 first direct structural and UNFCCC NDC audit. 7/30/38; no R1-R8 PASS or independent approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -137,6 +138,8 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json",
+    "project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json",
     "project-control/academic-readiness/4-3-4-cycle47-first-direct-assessment-2026-10-28.json",
     "project-control/academic-readiness/4-3-3-cycle47-actual-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-3-cycle46-first-direct-assessment-2026-10-28.json",
