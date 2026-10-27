@@ -3,9 +3,9 @@
   "title": "Land Reforms: First and Second Generations, Intermediary Abolition, Tenancy, Ceilings and Scheduled Areas",
   "syllabus": "Land reforms: I generation (1947-1970) and II generation land reforms (1970 onwards)- Abolition of Intermediaries : Zamindari, Jagirdari and Inamdari -Tenancy Reforms : Land ceiling ; Land alienation in Scheduled areas ; Impact of land reforms.",
   "status": "expanded_draft_not_academically_approved",
-  "source_audit": "internal_only",
+  "source_audit": "bounded_author_side_cycle42_not_independent",
   "topic_word_count": 13401,
-  "detailed_sections": 16,
+  "detailed_sections": 17,
   "pdf_pages": 28,
   "original_mcqs": 30,
   "original_mains_models": 6,
@@ -22,14 +22,14 @@
   "official_pyqs_verified": 0,
   "file_sha256": {
     "complete-notes.pdf": "c612d9c19a2a9059c3a6feac776a772269016a7b01a22c5bd64e0f6c4bf9e581",
-    "index.html": "fc5fe48f80761ed5c1cf22f3c4142380ad3a36d7b76d8e2e9f1869736c330ecb",
-    "QA-REPORT.md": "aa54435aa394b42549b286bb9865cbce8411d9cb8f9b31b901a6b479c7cacce7",
-    "README.md": "f404520f1781022896b12221de884858111b930cacf22578ff2298dd80c167e0",
-    "source/original-mcqs.md": "03f1860b86b8c04e025742c7966b14b2f7b2070915ef335e5e071979e9436265",
-    "source/sources-and-audit.md": "0b8d2d4c145b320084b98225c9d0f91cff05d371f5108c3908b13c7bde8b0885",
-    "source/complete-notes.md": "4f53e205369fa08b7c31ac28b11637242c88ecb4744767d461287edac97241f5",
-    "source/detailed-notes.md": "584593cfbb9d92f5ec59841dcd6483fa3e6f12f7cfbb3ef12cc87ab1d9a5769b",
-    "source/syllabus-and-summary.md": "59d10767fa891a7e4fc16b1556b59fb33a0151bf27b6bc95f6a96c084c20c13b",
+    "index.html": "7e599a073c21283a074e3689f1400f7436a1742de0a511865a776ab545c65881",
+    "QA-REPORT.md": "12e36d9ce6b5a20e3144b3dba9421b3fd7c162b221da4f157eee9daf79ddce3f",
+    "README.md": "3a3195d444bae4f7b7e75f7771ae2d69db5f8c7f8163b1ab3a645f2c58d0cbac",
+    "source/original-mcqs.md": "0ac2abda024085e0e74fefb7ec69baba5bf01545d087d8f635faea3f25a4f6e6",
+    "source/sources-and-audit.md": "ef44256848ba1fa4377cc49745281e4bec34702d0f62bf840906f89fe5138c8d",
+    "source/complete-notes.md": "710208d46f702e58c474005448f1f24f697f05e26c5693fd2efcf7db4368f734",
+    "source/detailed-notes.md": "5f3e71c659dcc0d0783c64a42d56e7ab04002333765c1eedb4c1026a1f41cbe3",
+    "source/syllabus-and-summary.md": "7a87d0e1cdbefdc635c89419f6ac058e661cb60d32e07c0dfa982ad9d44535bf",
     "source/answer-blueprints.md": "5eff2c8979c2d13f35dd900ca82a40daf88406a3ea67f98144505382a8c7cf33",
     "source/mains-model-answers.md": "9d538a0f0d983970fe973d7173019fcc901c68aa42615e7e9325d2f988984296",
     "source/quick-revision.md": "cf51bce609cf3295fd245653f3a5a8247dd8c531d645c002c2914e3132c1c565",
@@ -37,12 +37,15 @@
     "source/visual-learning.md": "c747c5ee44a9708923255410ec64ae5dd24413c25abb14b1a83844453530ad9e",
     "visuals/redistribution-funnel.png": "c2b6910d3838491b2b0100937614d1f824e6949053e772a32d27f922245c563d",
     "visuals/land-reform-timeline.png": "8633e43f9d643ed1649362a58f101dd76a383475d22a52be8407b177dff6d74b",
-    "visuals/land-rights-layers.png": "7920025e2d77b3254d3063f3eb386ecf1d2c9d92ab89c88ffd44053e103bd0dc"
+    "visuals/land-rights-layers.png": "7920025e2d77b3254d3063f3eb386ecf1d2c9d92ab89c88ffd44053e103bd0dc",
+    "source/integrated-student-edition-2026-10-27.pdf": "3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882"
   },
   "source_exceptions": [
     "original commission-hosted Group I Notification 02/2024 PDF not directly authenticated",
     "complete Hyderabad Jagir Regulation and amended historical case law require direct audit",
     "district-level official Telangana land redistribution/possession outcomes not audited"
   ],
-  "date": "2026-10-24"
+  "date": "2026-10-27",
+  "integrated_pdf_pages": 32,
+  "integrated_pdf_sha256": "3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882"
 }
