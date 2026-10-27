@@ -267,8 +267,8 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Cycle28: seven substantial concepts, 20->25 explained MCQs (five author-side official-source correlated), six mains; original 25-page PDF preserved; R1-R8 unfinished, R9 not started.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-1.json"
     },
     {

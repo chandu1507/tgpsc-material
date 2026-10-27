@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 63,
+  "not_assessed_count": 62,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 5 ASSESSED_REBUILD_REQUIRED (3-1-1 through 3-1-5), 63 NOT_ASSESSED; zero fully R1–R8 ready and zero independent approvals.",
+  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 6 ASSESSED_REBUILD_REQUIRED (3-1-1 through 3-1-5 and 3-2-1), 62 NOT_ASSESSED; zero fully R1–R8 ready and zero independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",

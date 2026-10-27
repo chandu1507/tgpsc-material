@@ -3,7 +3,11 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
-## Current controlling reconciliation — 27 October 2026, Cycle27
+## Current controlling reconciliation — 27 October 2026, Cycle28 (supersedes Cycle27 and earlier snapshots)
+
+The 75-topic status index controls: **7 IN_PROGRESS, 6 ASSESSED_REBUILD_REQUIRED (3-1-1 through 3-1-5 and 3-2-1), 62 NOT_ASSESSED, 0 fully R1–R8 ready, 0 independent approvals**. Topic 3-2-1 was individually assessed: original 25-page PDF SHA-256 `15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21` preserved; seven substantive concepts (694–871 words); 25 original explained MCQs after five source-correlated additions; six mains drafts approximately 200–250 words; two existing PNG diagrams but no original standalone SVG; no synchronized new PDF. Source correspondence for the five new MCQs is author-side only, not independent R5 approval. R1–R6 incomplete, R7/R8 BLOCKED. Evidence: `project-control/academic-readiness/3-2-1-cycle28-constitutional-mcq-and-objective-audit-2026-10-27.json`. **R9 NOT_STARTED.**
+
+## Historical controlling reconciliation — 27 October 2026, Cycle27
 
 Read `project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json` for the canonical 75-topic count. **7 IN_PROGRESS, 5 ASSESSED_REBUILD_REQUIRED (3-1-1 through 3-1-5), 63 NOT_ASSESSED, 0 fully R1–R8 ready, 0 independent approvals.** Earlier dated snapshots below are historical, not current counts.
 

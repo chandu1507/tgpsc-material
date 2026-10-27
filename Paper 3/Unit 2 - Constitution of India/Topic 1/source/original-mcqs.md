@@ -82,3 +82,22 @@ A. 42nd  B. 44th  C. 86th  D. 101st
 A. It became the 131st Amendment Act  B. It failed to pass Lok Sabha in April 2026  C. It abolished Article 368  D. It created Telangana  
 **Answer: B.** The proposal failed to secure the necessary majority on 17 April 2026; it must not be described as enacted law.
 
+**Q21.** Which voting threshold does Article 368(2) prescribe in each House for a constitutional amendment Bill?  
+A. A simple majority of members present and voting at a joint sitting  B. A majority of the total membership and at least two-thirds of members present and voting in each House  C. Two-thirds of the total membership in each House in every case  D. A simple majority in each House followed by ratification by all States  
+**Answer: B.** Article 368 requires two simultaneous majorities in each House; there is no joint sitting for this purpose. Option A wrongly substitutes an ordinary-law voting route; C misstates the two-thirds denominator; D wrongly universalises State ratification. [S2]
+
+**Q22.** Under the proviso to Article 368(2), which proposed change requires ratification by at least half of the State legislatures?  
+A. Every amendment concerning Fundamental Rights  B. An amendment changing a List in the Seventh Schedule  C. Every parliamentary statute affecting State administration  D. Every amendment to the Preamble, irrespective of its subject  
+**Answer: B.** The proviso expressly includes changes to the Seventh Schedule Lists. A and D are not automatic ratification categories; C concerns ordinary statutes rather than the enumerated constitutional amendment subjects. [S2]
+
+**Q23.** Which statement correctly describes Article 4 in relation to State reorganisation?  
+A. It makes every Article 3 law an Article 368 amendment  B. It gives an affected State legislature a binding veto  C. It permits necessary First and Fourth Schedule changes in an Article 3 law without treating that law as an Article 368 amendment  D. It requires a separate constitutional amendment before Parliament can alter State boundaries  
+**Answer: C.** Article 4(1) authorises necessary Schedule and consequential provisions, and Article 4(2) expressly excludes such laws from the Article 368 amendment procedure. A and D contradict Article 4(2); B confuses the Article 3 consultation requirement with consent. [S2]
+
+**Q24.** What distinguishes High Court writ jurisdiction under Article 226 from the Supreme Court's Article 32 jurisdiction?  
+A. Article 226 can be used only to enforce Fundamental Rights  B. Article 226 permits writs for Fundamental Rights and for other legal purposes  C. Article 226 applies only after the Supreme Court has refused an Article 32 petition  D. Article 226 allows High Courts to amend constitutional text  
+**Answer: B.** Article 226(1) explicitly extends beyond Part III rights; Article 32 specifically provides a remedy for enforcing Fundamental Rights. A narrows Article 226 incorrectly; C invents an exhaustion prerequisite; D confuses judicial remedies with constitutional amendment. [S2, S14]
+
+**Q25.** Which statement most accurately describes the Supreme Court's Article 32 jurisdiction?  
+A. It provides an original remedy for enforcement of Fundamental Rights, including specified writs  B. It authorises only advisory opinions requested by the President  C. It replaces Article 226 jurisdiction of High Courts  D. It authorises the Court to create a new State by writ  
+**Answer: A.** Article 32 empowers the Supreme Court to enforce Fundamental Rights by appropriate directions, orders and writs. B confuses it with advisory jurisdiction under Article 143; C contradicts the coexistence of High Court writ powers; D confuses adjudication with the Article 3 legislative route. [S2, S14]

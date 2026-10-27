@@ -1,8 +1,8 @@
 {
   "topic_id": "3-2-1",
   "title": "Evolution of Indian Constitution: Drafting, Philosophy, Preamble, Basic Structure and Amendments",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,50 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": [
+    "project-control/academic-readiness/3-2-1-cycle28-constitutional-mcq-and-objective-audit-2026-10-27.json"
+  ],
+  "next_action": "Verify official syllabus directly at Commission host; editorial dedup of 9,431-word compiled notes; independently audit 25 keys and 100 distractors, all six mains, and legal case claims; produce original accurate SVGs, synchronized CI PDF, page-level/accessibility/browser QA and actual post-render ZIP integrity.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "objective_gap_2026_10_27": {
+    "original_pdf_pages": 25,
+    "original_pdf_sha256": "15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21",
+    "original_pdf_preserved": true,
+    "seven_detailed_concepts_word_counts": [
+      787,
+      710,
+      707,
+      694,
+      763,
+      759,
+      871
+    ],
+    "numbered_detailed_concepts": 7,
+    "concepts_under_300": 0,
+    "original_mcqs_after_revision": 25,
+    "new_mcqs_author_source_correlated": 5,
+    "mains_answers": 6,
+    "mains_body_approximate_words": [
+      208,
+      203,
+      208,
+      213,
+      227,
+      222
+    ],
+    "standalone_original_svg": 0,
+    "existing_png_diagrams": 2,
+    "synchronized_integrated_pdf": false,
+    "post_commit_artifact_qa": "PENDING"
+  }
 }

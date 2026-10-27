@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-27",
+  "cycle": 28,
+  "topic_id": "3-2-1",
+  "repository": "chandu1507/tgpsc-material",
+  "base_main_commit": "7dc3d0fde472bb8d90c36242f223d59dbeb3420b",
+  "academic_approval": false,
+  "source_file_baseline_sha": {
+    "original_mcqs": "490af7b66fdc56ee7a932d0aadbcfdd4e0b547f6",
+    "complete_notes": "57d771d9c34b09012ea69b8afbe1f7bd54ebcd1f",
+    "detailed_notes": "dd52e3d185b159404d46a180701187db1e731814"
+  },
+  "original_pdf": {
+    "pages": 25,
+    "sha256": "15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21",
+    "unchanged": true,
+    "verified_from_prior_downloaded_cycle27_artifact": true
+  },
+  "objective_findings": {
+    "detailed_concepts": 7,
+    "concept_word_counts": [
+      787,
+      710,
+      707,
+      694,
+      763,
+      759,
+      871
+    ],
+    "concepts_below_300": 0,
+    "compiled_master_words_approx": 9431,
+    "prior_original_mcqs": 20,
+    "new_original_mcqs": 5,
+    "total_original_mcqs": 25,
+    "mains_drafts": 6,
+    "mains_body_approx_words": [
+      208,
+      203,
+      208,
+      213,
+      227,
+      222
+    ],
+    "standalone_original_svg": 0,
+    "existing_png_visuals": 2
+  },
+  "new_item_claim_check": [
+    {
+      "item": 21,
+      "key": "B",
+      "claim": "Article 368 special majority in each House; no joint sitting",
+      "source": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "status": "author_source_correspondence"
+    },
+    {
+      "item": 22,
+      "key": "B",
+      "claim": "Article 368 proviso requires ratification for change to Seventh Schedule lists",
+      "source": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "status": "author_source_correspondence"
+    },
+    {
+      "item": 23,
+      "key": "C",
+      "claim": "Article 4(1)-(2) First/Fourth Schedules and non-368 route",
+      "source": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "status": "author_source_correspondence"
+    },
+    {
+      "item": 24,
+      "key": "B",
+      "claim": "Article 226 rights and any other purpose; Article 32 rights enforcement",
+      "sources": [
+        "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+        "https://www.constitutionofindia.net/articles/article-226-power-of-high-courts-to-issue-certain-writs/"
+      ],
+      "status": "author_source_correspondence"
+    },
+    {
+      "item": 25,
+      "key": "A",
+      "claim": "Article 32 original writ jurisdiction for Fundamental Rights",
+      "source": "https://www.sci.gov.in/jurisdiction/",
+      "status": "author_source_correspondence"
+    }
+  ],
+  "limitations": [
+    "Five new MCQ keys and each new alternative were checked against specified constitutional text, but no independent expert reviewed them.",
+    "All 20 inherited MCQ keys and distractors require item-level review.",
+    "Six mains answers have not received claim-by-claim independent checks; word counts are approximate.",
+    "R1 syllabus mapping uses a mirrored Notification 02/2024, not a fresh directly retrieved Commission-hosted PDF.",
+    "Two PNG diagrams exist, not original SVGs; diagram accuracy and accessibility not certified.",
+    "No new synchronized integrated PDF or post-commit downloaded Actions artifact has been verified.",
+    "Original PDF SHA is verified from the actual downloaded prior Cycle27 publication archive, not from a new Actions run."
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
+  },
+  "fully_ready": false,
+  "independent_reviewer": null,
+  "approval": false
+}
