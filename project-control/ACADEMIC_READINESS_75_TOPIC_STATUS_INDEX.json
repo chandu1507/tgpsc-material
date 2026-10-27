@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 53,
+  "not_assessed_count": 52,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 15 ASSESSED_REBUILD_REQUIRED, 53 NOT_ASSESSED; zero fully R1–R8 ready and zero independent academic approvals.",
+  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 16 ASSESSED_REBUILD_REQUIRED, 52 NOT_ASSESSED; zero fully R1–R8 ready and zero independent academic approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -106,9 +106,10 @@
     "3-3-2",
     "3-3-3",
     "3-3-4",
-    "3-3-5"
+    "3-3-5",
+    "4-1-1"
   ],
-  "last_readiness_update": "27 Oct Cycle34 post-render: 3-3-5 integrated 36-page PDF rendered in CI; packaging run 40477615167 artifact 12721128624 actually downloaded; 1583 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 416 local links and 688 fragments zero broken, outer/inner CRC PASS. R8 IN_PROGRESS not PASS; R9 NOT_STARTED.",
+  "last_readiness_update": "27 Oct Cycle35: 4-1-1 individually assessed, 12 concepts >300 words, 25 four-option original MCQs, six original mains; June 2026 MoSPI Statement 1 identity reconciliation checked; local 23-page integrated PDF candidate, NOT GitHub artifact verified; R1/R7/R8 BLOCKED, approvals zero.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -119,6 +120,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/4-1-1-cycle35-national-accounts-reconciliation-and-objective-audit-2026-10-27.json",
     "project-control/academic-readiness/3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json",
     "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-actual-downloaded-artifact-qa-2026-10-27.json",
