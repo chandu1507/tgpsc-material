@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Cycle35 official syllabus retrieval — 27 October 2026
+
+Directly retrieved the Commission's original **Notification No. 02/2024 Annexure-II**, printed page 31 (PDF index 30), and checked the exact Paper IV Unit I Topic 1 national-income wording. **Topic 4-1-1 R1 PASS**; the verified R1 mapping count increases from 6 to **7**. This does not pass R2–R8, does not authenticate PYQs, and does not confer academic approval. The editable master and source register were updated; a synchronized CI PDF and actual downloaded artifact must be reverified after this source change. Evidence: `project-control/academic-readiness/4-1-1-cycle35-official-notification-r1-syllabus-correspondence-2026-10-27.json`.
+
 ## Cycle35 downloaded GitHub publication artifact — 27 October 2026
 
 Topic **4-1-1** 25-page searchable integrated PDF rendered in CI (run **40484344614**), SHA256 `0eac4a98fc391a10a567f003a27ed8df41edcab28f4e3262dd596a3745de4ecf`, three embedded images; original 26-page PDF preserved. Packaging run **40484475861** succeeded; artifact **12724143216** ACTUALLY DOWNLOADED, outer/inner ZIP CRC PASS and outer SHA256 `9c957994c9067416f8a1c862ca4378784e6fee97e31320226ae906f84108d57b` matched GitHub. **1589 files; 75 original topic PDFs (75/75 SHA unchanged vs Cycle34), 75 readiness JSON, 78 HTML, 416 local file links and 659 DOM fragments checked with ZERO broken, 64 SPA hash routes excluded, 16/16 Topic 4-1-1 manifest hashes PASS.** This is publication QA, not subject-expert certification; R8 **IN_PROGRESS**, not PASS. Exactly 75 topics: **7 IN_PROGRESS, 16 ASSESSED_REBUILD_REQUIRED, 52 NOT_ASSESSED; ZERO fully R1–R8 ready and ZERO independent approvals**. Evidence: `project-control/academic-readiness/4-1-1-cycle35-downloaded-github-artifact-qa-2026-10-27.json`.
