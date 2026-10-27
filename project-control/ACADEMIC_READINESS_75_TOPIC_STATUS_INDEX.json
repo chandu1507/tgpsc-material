@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 42,
+  "not_assessed_count": 41,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 26 ASSESSED_REBUILD_REQUIRED, 42 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle44 Topic4-3-1 corrected candidate LOCAL ONLY; GitHub still has original chapter.",
+  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 27 ASSESSED_REBUILD_REQUIRED, 41 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle45 4-3-1 integrated CI PDF and downloaded artifact QA verified; 4-3-2 assessed, rebuild required.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -117,9 +117,10 @@
     "4-2-3",
     "4-2-4",
     "4-2-5",
-    "4-3-1"
+    "4-3-1",
+    "4-3-2"
   ],
-  "last_readiness_update": "28 Oct Cycle44: 4-3-1 directly assessed; corrected local candidate not remotely integrated. Counts 7/26/42, 10 R1 PASS, zero ready/approved.",
+  "last_readiness_update": "28 Oct Cycle45: 4-3-1 integrated PDF/HTML CI published and actual artifact verified; 4-3-2 first direct assessment. Counts 7/27/41, 10 R1 PASS, zero ready/approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -134,6 +135,8 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-3-2-cycle45-first-structural-and-source-audit-2026-10-28.json",
+    "project-control/academic-readiness/4-3-1-cycle45-actual-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-1-cycle44-local-candidate-and-bounded-source-audit-2026-10-28.json",
     "project-control/academic-readiness/4-2-5-cycle43-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-2-5-cycle43-first-downloaded-artifact-mismatch-and-ci-fix-2026-10-27.json",
