@@ -162,6 +162,22 @@ For comparison, the 2025–26 RE fiscal deficit was **4.4% of GDP**, and total e
 
 Telangana's official **Budget in Brief 2026–27** reports **total expenditure of ₹3,24,234 crore** including debt repayment and relevant capital-account transactions. The commonly cited **₹3,01,209 crore** is expenditure **excluding debt repayment**, as presented in PRS's budget analysis. Both numbers can be correct when the denominator is explained; confusing them leads to false comparisons. The state projected **revenue receipts ₹2,41,264 crore**, **revenue expenditure ₹2,34,406 crore**, **revenue surplus ₹6,858 crore**, **fiscal deficit ₹58,459 crore**, and **primary deficit ₹37,154 crore**. Its projected GSDP is **₹19,61,701 crore**. These are 2026–27 budget estimates, not audited results. [S04, S11]
 
+### Worked 2026–27 Telangana budget reconciliation: three distinct fiscal measures
+
+The numbers below are **2026–27 Budget Estimates (BE)**, not audited expenditure. PRS's March 2026 budget analysis reproduces the state budget tables and distinguishes the gross and net accounting perimeters [S11]; the state Budget in Brief is the underlying official budget publication [S04]. Work each calculation before drawing a policy conclusion.
+
+| Step | Arithmetic (₹ crore) | What the result means |
+|---|---:|---|
+| Gross expenditure less scheduled debt-principal repayment | 3,24,234 − 23,025 = **3,01,209** | Net expenditure used in the fiscal-deficit presentation; the ₹23,025 is repayment of principal, not new development spending. |
+| Net expenditure less non-borrowing receipts | 3,01,209 − 2,42,750 = **58,459** | Planned fiscal deficit (rounding to whole crore); it is not gross expenditure minus tax revenue. |
+| Revenue receipts less revenue expenditure | 2,41,264 − 2,34,406 = **6,858** | Budgeted **revenue surplus**, even though the overall budget has a fiscal deficit. |
+| Fiscal deficit less interest payments | 58,459 − 21,304 = **37,155** | Approximate **primary deficit** using rounded inputs; the published detailed figure is ₹37,154 crore. Do not mistake a one-crore rounding difference for an accounting contradiction. |
+| Interest payments divided by revenue receipts | 21,304 ÷ 2,41,264 × 100 ≈ **8.83%** | A BE debt-service-pressure indicator; this ratio does not capture principal repayments or guarantees. |
+
+**Why the perimeters matter.** Subtracting the ₹23,025 crore principal repayment once is necessary when comparing the PRS net-expenditure series with receipts excluding borrowings. Subtracting it again from ₹3,01,209 crore would understate spending and the deficit. Likewise, treating ₹79,984 crore of gross planned borrowing as the fiscal deficit ignores debt redemption and other financing items. A revenue surplus can coexist with a fiscal deficit because capital outlay and other capital transactions still require finance. The published ₹58,459 crore fiscal deficit is roughly **3.0%** of the projected ₹19,61,701 crore GSDP; this is a planned ratio, not evidence that the year closed at that level.
+
+**Interpretation versus evidence.** The 2025–26 revised net-expenditure estimate was ₹2,61,211 crore, against ₹3,01,209 crore budgeted for 2026–27: an approximately **15.3% planned increase** over RE. This is not a measured increase in services delivered. A mains answer should examine execution, capital-project completion, the previous year's revenue-estimate accuracy, the difference between committed expenditure and discretionary schemes, and separately disclosed guarantees. The correct comparison requires consistent years, BE/RE/Actuals labels and debt-repayment treatment. [S04, S11]
+
 ### What the composition reveals
 
 Capital outlay was budgeted at **₹47,267 crore**, including sizeable allocations for irrigation, welfare-related capital works and roads/bridges. The state also planned lending/advances and repayment transactions, which must not be mislabeled as new physical infrastructure. Revenue expenditure includes social transfers, salaries, pensions, interest and routine service delivery. An irrigation project illustrates the central trade-off: the dam or canal is capital expenditure, while electricity, repairs, extension services and water governance determine whether the asset raises farm productivity. A high capital-outlay percentage is insufficient without lifecycle budgeting.

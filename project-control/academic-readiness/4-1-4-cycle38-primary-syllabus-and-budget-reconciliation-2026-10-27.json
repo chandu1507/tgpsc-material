@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-1-4",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "r1": {
+    "status": "PASS",
+    "original_commission_pdf": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "printed_page": 31,
+    "pdf_index_zero_based": 30,
+    "item": 4,
+    "verification": "Direct visual screenshot of original Commission Annexure-II page, not secondary transcription"
+  },
+  "original_pdf_sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4",
+  "concept_count": 12,
+  "concepts_under_300": 0,
+  "original_mcqs": 25,
+  "revised_mcqs": [
+    23,
+    25
+  ],
+  "mains": 6,
+  "existing_diagrams": 3,
+  "budget_reconciliation": {
+    "gross": 324234,
+    "debt_repayment": 23025,
+    "net": 301209,
+    "non_borrowing_receipts": 242750,
+    "fiscal_deficit": 58459,
+    "revenue_receipts": 241264,
+    "revenue_expenditure": 234406,
+    "revenue_surplus": 6858,
+    "interest": 21304,
+    "primary_deficit_rounded": 37155,
+    "primary_deficit_published": 37154,
+    "interest_to_revenue_percent": 8.83,
+    "source": "https://prsindia.org/budgets/states/telangana-budget-analysis-2026-27",
+    "year": "2026-27 BE",
+    "note": "PRS secondary crosscheck; original state Budget in Brief also cited"
+  },
+  "other_primary_sources": [
+    "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+    "https://gstcouncil.gov.in/press-release",
+    "https://www.telangana.gov.in/wp-content/uploads/2026/05/Budget-in-Brief.pdf"
+  ],
+  "limitations": [
+    "23 other MCQs and 100 distractors not independently checked",
+    "six mains claims not independently checked",
+    "diagram accuracy and accessibility not certified",
+    "CI PDF and downloaded artifact pending"
+  ],
+  "fully_R1_R8_ready": false,
+  "independent_approvals": 0
+}

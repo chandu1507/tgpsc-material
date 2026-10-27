@@ -1,8 +1,8 @@
 {
   "topic_id": "4-1-4",
   "title": "Public Finance: Tax Structure, Government Expenditure, Public Debt, Monetary and Fiscal Policy, Union Budget Analysis",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,32 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending.",
+  "next_action": "Guarded CI render, actual downloaded artifact CRC/SHA/75-topic QA, complete independent 25 keys/100 distractors, six mains, diagrams, accessibility; R9 only after R1-R8 PASS.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4",
+  "cycle38": {
+    "r1": "PASS",
+    "concepts": 12,
+    "concepts_under_300": 0,
+    "mcqs": 25,
+    "revised_mcqs": [
+      23,
+      25
+    ],
+    "mains": 6,
+    "diagrams": 3,
+    "r8": "BLOCKED",
+    "independent_approvals": 0
+  }
 }

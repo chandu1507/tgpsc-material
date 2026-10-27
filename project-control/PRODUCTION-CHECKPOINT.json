@@ -424,9 +424,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "10,205-word expanded draft; 21-page complete PDF; 12 substantive sections, 25 original explained MCQs, six 200–250-word structured mains answers, three diagrams, 15 source entries. Original notification PDF and independent academic audit outstanding.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle38_primary_syllabus_verified_budget_lab_mcq_revisions_pdf_pending",
+      "notes": "Original 21-page PDF SHA256 9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4 preserved. Cycle38 R1 original Commission syllabus PASS, 12 substantial concepts, Telangana 2026-27 budget accounting reconciliation, 25 original MCQs with Q23/Q25 corrected, six mains, three existing diagrams. New CI PDF and independent academic review pending.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-4.json"
     },
     {
@@ -1006,14 +1006,14 @@
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
     "pilot_in_progress": 7,
-    "topics_not_assessed": 50,
+    "topics_not_assessed": 49,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle37: 7 IN_PROGRESS, 18 ASSESSED_REBUILD_REQUIRED, 50 NOT_ASSESSED; nine R1 PASS; zero academic approvals.",
+    "note": "Cycle38: 7 IN_PROGRESS, 19 ASSESSED_REBUILD_REQUIRED, 49 NOT_ASSESSED; ten direct R1 PASS; zero academic approvals.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
     "last_verified_package_run": 40383038864,
     "last_verified_package_artifact": 12679083916,
@@ -1051,14 +1051,14 @@
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 18,
-    "not_assessed": 50,
-    "verified_R1_pass": 9,
+    "assessed_rebuild_required": 19,
+    "not_assessed": 49,
+    "verified_R1_pass": 10,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "4-1-3",
-    "evidence": "project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json"
+    "last_assessed": "4-1-4",
+    "evidence": "project-control/academic-readiness/4-1-4-cycle38-primary-syllabus-and-budget-reconciliation-2026-10-27.json"
   },
-  "last_readiness_update": "27 Oct Cycle37: Topic 4-1-3 direct R1 PASS; GitHub renderer 40500141700 SUCCESS, synchronized 28-page integrated PDF; post-render artifact QA and independent academic review pending.",
-  "last_readiness_reconciliation": "75 original topics; 7 IN_PROGRESS, 18 ASSESSED_REBUILD_REQUIRED, 50 NOT_ASSESSED; 9 R1 PASS; zero fully ready and zero independent approvals."
+  "last_readiness_update": "27 Oct Cycle38: Topic 4-1-4 R1 original Commission PDF p31 PASS; budget reconciliation and original MCQ23/Q25 corrections; CI PDF/actual artifact QA pending.",
+  "last_readiness_reconciliation": "75 original topics; 7 IN_PROGRESS, 19 ASSESSED_REBUILD_REQUIRED, 49 NOT_ASSESSED; 10 R1 PASS; zero fully ready and zero independent approvals."
 }

@@ -90,14 +90,14 @@ A. Crowding in  B. Tax evasion  C. Automatic debt cancellation  D. Revenue recei
 A. Fiscal deficit target of 4.3% of GDP  B. A verified final actual for 2026–27  C. An audited CAG closing balance for March 2027  D. An ex-post final tax collection  
 **Answer: A.** The Union Budget proposed a 4.3% deficit; the financial year had not closed as of October 2026.
 
-**23.** Telangana's 2026–27 ₹3,24,234 crore and ₹3,01,209 crore expenditure figures differ principally because:  
-A. One is measured in dollars  B. One includes debt repayment and the other excludes it  C. One excludes all taxes  D. They refer to different states  
-**Answer: B.** The official gross total includes debt repayment; PRS presents net expenditure excluding it.
+**23.** Telangana's 2026–27 Budget Estimates report gross expenditure of ₹3,24,234 crore and scheduled principal repayment of ₹23,025 crore. What is expenditure **excluding debt repayment**, on the PRS comparison basis?  
+A. ₹3,47,259 crore  B. ₹3,24,234 crore  C. ₹23,025 crore  D. ₹3,01,209 crore  
+**Answer: D.** Subtract principal repayment once: ₹3,24,234 − ₹23,025 = ₹3,01,209 crore. A adds the repayment, B leaves it included, and C reports only the repayment. This is the 2026–27 BE perimeter, not an audited actual. [S04, S11]
 
 **24.** The GST Council's recommendations of 8 October 2026 should be treated as:  
 A. Automatically enacted laws on the meeting date  B. Proposals requiring relevant legal action and commencement checks  C. A new Finance Commission award  D. RBI monetary policy  
 **Answer: B.** Council recommendations are institutionally important but do not by themselves establish commencement of statutory amendments.
 
-**25.** A district reports ₹200 crore spent on water infrastructure. Which is the strongest evidence of long-run public value?  
-A. Size of the allocation alone  B. Number of inauguration events  C. Reliable water delivery, maintenance, cost and health outcomes  D. Only the number of tenders  
-**Answer: C.** Evaluation links financial inputs to outputs, outcomes, lifecycle costs and beneficiary experience.
+**25.** Telangana's 2026–27 Budget Estimates include ₹21,304 crore interest payments and ₹2,41,264 crore revenue receipts. Approximately what share of revenue receipts is absorbed by interest?  
+A. 8.8%  B. 11.3%  C. 17.0%  D. 21.3%  
+**Answer: A.** ₹21,304 ÷ ₹2,41,264 × 100 ≈ 8.83%. B reverses the ratio conceptually; C confuses a different year or basis; D treats the numerator's first digits as a percentage. This measures planned interest pressure, not total debt service or audited 2026–27 spending. [S11]
