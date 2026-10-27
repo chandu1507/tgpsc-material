@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle39 direct original Commission PDF retrieval HTTP 403, so R1 not passed. Fifteen concepts 362\u2013634 words, original worked outcome-evaluation case, 25 original MCQs with Q21/Q25 rewritten; six mains bodies now 235/239/233/230/233/227 words. NITI Twelfth Plan, Cabinet Secretariat 2015 Governing Council notification and Telangana Rising 2047 state PDF checked for limited claims; all 25 keys and 100 distractors NOT independently audited. Local 29-page integrated PDF candidate generated, not yet verified in GitHub Actions artifact. ZERO approvals.",
-  "next_action": "Direct Commission Notification 02/2024 p31 R1 verification; complete all 25 MCQ keys and 100 distractors, six mains claim checks and three diagram accuracy reviews; CI-integrated PDF, actual artifact SHA/CRC/75-topic/link and browser accessibility QA.",
+  "evidence": "Cycle39 official TGPSC original PDF fresh retrieval 403, so R1 IN_PROGRESS. Fifteen concepts 362–634 words; Q21/Q25 revised; six mains body-only 235/239/233/230/233/227. Guarded CI produced 31-page integrated PDF SHA256 718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846; actual downloaded GitHub packaging run 40516112070 artifact 12739623188 independently verified: outer/inner CRC, SHA matching GitHub, 1614 files, 75 unchanged original PDFs, 75 readiness JSON, 78 HTML, 485 relative href/src links and 966 DOM fragments zero broken, 64 SPA route occurrences excluded, 17/17 manifest hashes. R8 IN_PROGRESS, no accessibility certification, zero approvals.",
+  "next_action": "R1 original Commission notification direct retrieval; all 25 MCQ keys/100 distractors, six mains claims, three diagram academic accuracy, direct browser accessibility and independent expert approval. R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "01f2cfa032761978ef783941b01b7085511ffda76dd4d77a616ee5f94d189ad4",
@@ -72,6 +72,10 @@
     "R9": "NOT_STARTED",
     "independent_approvals": 0,
     "ci_integrated_pdf_sha256": "718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846",
-    "ci_integrated_pdf_pages": 31
+    "ci_integrated_pdf_pages": 31,
+    "ci_renderer_commit": "aaa2dd03f21ac7600a69e1726dcc023d0f38b6cf",
+    "packaging_run": 40516112070,
+    "actual_artifact_id": 12739623188,
+    "actual_artifact_qa": "project-control/academic-readiness/4-1-5-cycle39-actual-downloaded-artifact-qa-2026-10-27.json"
   }
 }
