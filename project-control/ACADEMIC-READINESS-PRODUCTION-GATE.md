@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Cycle35 downloaded GitHub publication artifact — 27 October 2026
+
+Topic **4-1-1** 25-page searchable integrated PDF rendered in CI (run **40484344614**), SHA256 `0eac4a98fc391a10a567f003a27ed8df41edcab28f4e3262dd596a3745de4ecf`, three embedded images; original 26-page PDF preserved. Packaging run **40484475861** succeeded; artifact **12724143216** ACTUALLY DOWNLOADED, outer/inner ZIP CRC PASS and outer SHA256 `9c957994c9067416f8a1c862ca4378784e6fee97e31320226ae906f84108d57b` matched GitHub. **1589 files; 75 original topic PDFs (75/75 SHA unchanged vs Cycle34), 75 readiness JSON, 78 HTML, 416 local file links and 659 DOM fragments checked with ZERO broken, 64 SPA hash routes excluded, 16/16 Topic 4-1-1 manifest hashes PASS.** This is publication QA, not subject-expert certification; R8 **IN_PROGRESS**, not PASS. Exactly 75 topics: **7 IN_PROGRESS, 16 ASSESSED_REBUILD_REQUIRED, 52 NOT_ASSESSED; ZERO fully R1–R8 ready and ZERO independent approvals**. Evidence: `project-control/academic-readiness/4-1-1-cycle35-downloaded-github-artifact-qa-2026-10-27.json`.
+
 ## Cycle35 controlling reconciliation — 27 October 2026
 
 **Exactly 75 existing topics: 7 IN_PROGRESS, 16 ASSESSED_REBUILD_REQUIRED, 52 NOT_ASSESSED. ZERO R1–R8 fully ready and ZERO independent academic approvals.** Paper IV Topic 4-1-1 assessed: 12 substantial concepts, 25 original four-option MCQs, six original mains, three existing diagrams. Added a primary-source arithmetic case from MoSPI's 5 June 2026 FY 2025–26 provisional Statement 1 and corrected its source-register URL. Local integrated PDF candidate has 23 searchable pages, but GitHub CI render and actual artifact download have NOT yet been verified. R1, R7 and R8 remain BLOCKED; R9 NOT_STARTED. Evidence: `project-control/academic-readiness/4-1-1-cycle35-national-accounts-reconciliation-and-objective-audit-2026-10-27.json`.
