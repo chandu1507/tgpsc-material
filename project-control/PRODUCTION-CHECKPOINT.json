@@ -278,8 +278,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle29_28_page_corrected_ci_pdf_rendered_postrender_artifact_pending",
-      "notes": "27 Oct Cycle29: seven 985–1297-word constitutional chapters, 25 original explained MCQs, Q16 duplicate forced-labour item replaced with Article 24 child-employment question, Q21 digital-KYC case scope qualified, seven limited source correspondences, two original SVG diagrams. Original legacy PDF SHA256 a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d preserved; integrated CI PDF pending. R1-R8 incomplete; zero academic approvals. CI run 40448120479 SUCCESS; 28-page integrated PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831; manifest 12 files synchronized; full post-render package QA pending.",
+      "production_review": "cycle29_28_page_ci_pdf_actual_postrender_artifact_crc_hash_links_verified_academic_gates_incomplete",
+      "notes": "27 Oct Cycle29: seven 985–1297-word constitutional chapters, 25 original explained MCQs, Q16 duplicate forced-labour item replaced with Article 24 child-employment question, Q21 digital-KYC case scope qualified, seven limited source correspondences, two original SVG diagrams. Original legacy PDF SHA256 a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d preserved; integrated CI PDF pending. R1-R8 incomplete; zero academic approvals. CI run 40448120479 SUCCESS; 28-page integrated PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831; manifest 12 files synchronized; full post-render package QA pending. Final packaging run 40448473538 artifact 12708959142 actually downloaded: 1544 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 474 static links/686 fragments zero broken, 64 SPA routes excluded, ZIP CRC PASS, PDF SHA matches. Full accessibility/browser and academic verification pending.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-2.json"
     },
@@ -1036,5 +1036,5 @@
     "last_assessed": "3-1-5",
     "evidence": "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json"
   },
-  "last_readiness_update": "27 Oct Cycle29: Topic 3-2-2 final corrected 28-page CI PDF; 7 IN_PROGRESS, 7 ASSESSED_REBUILD_REQUIRED, 61 NOT_ASSESSED, 0 ready, 0 approved. Final artifact download pending."
+  "last_readiness_update": "27 Oct Cycle29 final actual artifact verified; 7 IN_PROGRESS, 7 ASSESSED_REBUILD_REQUIRED, 61 NOT_ASSESSED; 0 fully ready, 0 independent approvals."
 }
