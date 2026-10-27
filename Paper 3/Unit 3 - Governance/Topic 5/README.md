@@ -1,3 +1,3 @@
-# P3-U3-T5 expanded draft
+# P3-U3-T5 academic-readiness working edition (27 October 2026)
 
-31-page complete PDF, full offline HTML, editable Markdown, 3 original diagrams, 25 original explained MCQs, 6 complete mains model answers and 22-source audit. No official PYQs claimed. Not academically approved.
+Original 31-page `complete-notes.pdf` preserved unchanged. The synchronized editable student master is `source/complete-notes.md`, its searchable integrated edition is `source/integrated-student-edition-2026-10-27.pdf`, and the offline chapter is `index.html`. There are 18 detailed concepts, 25 original practice MCQs (15 revised in place), six mains answers and three original diagrams. All remain academically unapproved; no official PYQs claimed.
