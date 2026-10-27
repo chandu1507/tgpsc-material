@@ -11,25 +11,100 @@
   "original_diagrams": 3,
   "source_register_count": 21,
   "files": {
-    "README.md": "ba5c6a57fe347a4c3272e213cf9c8afeb72a358b1ddc7aaa9a8f6dfe6fcf63c3",
-    "complete-notes.pdf": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
-    "index.html": "71b1edb321d5e88bd9f8dd0554bf84996803e366cccdeb6b1c8c6e3010e95fd5",
-    "source/answer-blueprints.md": "fc44a89c58266db14da0adc6e79b032efeed51c38470011459919bd69f8f9fb5",
-    "source/complete-notes.md": "f9d366adb6ac6700538578c5bed4bcbd4d30ce7fa6998cf811cfdef132ce24ce",
-    "source/core.md": "14be16a65962352634c93597c32774061e32ba5de35be091117094b3adec39d1",
-    "source/mains-model-answers.md": "6673fe44957290c5d01ff033d76ab6370601f4501b1e9b1f9237bef520f7e67b",
-    "source/original-mcqs.md": "d0c3bee02cd0c8e6bb67f98c87597b6004ee0a86a201dc317cfefefcad46ecf4",
-    "source/quick-revision.md": "ad32f482542ad32e54ede43becc27549db09c844b3077a2794f7f4c39698e9a8",
-    "source/sources-and-audit.md": "e9babef84105e95dc2e01de4308ac78ec2bdc2e8191dc2a94734a82676598cc9",
-    "source/summary.md": "d8f5599a765117c24bc3971229ead0f1325b54711b43e0d6acfdc1935ed6bd69",
-    "source/syllabus-and-summary.md": "a9b74e1e282ec82f75e1a97d4937b120dd089cdf99a514224b81f08b4739a43b",
-    "source/verified-pyqs.md": "07e6f32b73ef2e62871f8b949943fba0cd155f0d61aae0b4c1cc59155d6d71f8",
-    "source/visual-learning.md": "08db23179c152e8df42711ec2d110b9c0589fa86f01c999a4a41985d936ee89f",
-    "visuals/biodiversity-levels.png": "aa85ed201d179423d641914b088ef095cc7560e3506d96083cdf55c70b4d1f9b",
-    "visuals/biodiversity-levels.svg": "dd07c8d5ac6fa526417fd3d7ae61265067d57832c6b3441adfe9c70fbbcdee8a",
-    "visuals/ecosystem-management.png": "02400fdc42f082a8f1b91e435d5b5418ffeb4c1cdbc2520ef1b0900b77ff0b0d",
-    "visuals/ecosystem-management.svg": "3d2ef9e193ff8fee30194f6cf26d65e43d76ce83d781d763346776b9346ea5a7",
-    "visuals/energy-flow.png": "8feb8347886cccd3ea00255832b8f953dce9868a1709cd5e08db3ee82518ced9",
-    "visuals/energy-flow.svg": "e35922057fb0d7494d127d3a6121e66fe7d50d56f4d4f9f9e2ffe8e14171f678"
-  }
+    "README.md": {
+      "sha256": "0d23a98f0567c2bc2e374c35beb507519b31e838bd655604699ecbe2c7a3ea0b",
+      "bytes": 690
+    },
+    "complete-notes.pdf": {
+      "sha256": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
+      "bytes": 192560
+    },
+    "index.html": {
+      "sha256": "695d7634e3c1800814d13b66c7b043e4fb451a92529c1bec7622460a8ffbd6f2",
+      "bytes": 94339
+    },
+    "source/answer-blueprints.md": {
+      "sha256": "fc44a89c58266db14da0adc6e79b032efeed51c38470011459919bd69f8f9fb5",
+      "bytes": 2755
+    },
+    "source/complete-notes.md": {
+      "sha256": "103f2601827a3036d381b90db0b273789b1eb5cdfcdb27cc5e4a25a2818b73ba",
+      "bytes": 82536
+    },
+    "source/core.md": {
+      "sha256": "ea02a465520fcf3d180b89266ec283da2be9359f595a261a4f71ad9616220c3e",
+      "bytes": 43791
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "6673fe44957290c5d01ff033d76ab6370601f4501b1e9b1f9237bef520f7e67b",
+      "bytes": 12201
+    },
+    "source/original-mcqs.md": {
+      "sha256": "d0c3bee02cd0c8e6bb67f98c87597b6004ee0a86a201dc317cfefefcad46ecf4",
+      "bytes": 9639
+    },
+    "source/quick-revision.md": {
+      "sha256": "ad32f482542ad32e54ede43becc27549db09c844b3077a2794f7f4c39698e9a8",
+      "bytes": 2716
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "16215ef22379e12f371e7dc5dea82b8478af40110f7e5f6294d543da179e1981",
+      "bytes": 7576
+    },
+    "source/summary.md": {
+      "sha256": "d8f5599a765117c24bc3971229ead0f1325b54711b43e0d6acfdc1935ed6bd69",
+      "bytes": 1281
+    },
+    "source/syllabus-and-summary.md": {
+      "sha256": "a9b74e1e282ec82f75e1a97d4937b120dd089cdf99a514224b81f08b4739a43b",
+      "bytes": 1712
+    },
+    "source/verified-pyqs.md": {
+      "sha256": "07e6f32b73ef2e62871f8b949943fba0cd155f0d61aae0b4c1cc59155d6d71f8",
+      "bytes": 323
+    },
+    "source/visual-learning.md": {
+      "sha256": "08db23179c152e8df42711ec2d110b9c0589fa86f01c999a4a41985d936ee89f",
+      "bytes": 278
+    },
+    "visuals/biodiversity-levels.png": {
+      "sha256": "aa85ed201d179423d641914b088ef095cc7560e3506d96083cdf55c70b4d1f9b",
+      "bytes": 25924
+    },
+    "visuals/biodiversity-levels.svg": {
+      "sha256": "dd07c8d5ac6fa526417fd3d7ae61265067d57832c6b3441adfe9c70fbbcdee8a",
+      "bytes": 2398
+    },
+    "visuals/ecosystem-management.png": {
+      "sha256": "02400fdc42f082a8f1b91e435d5b5418ffeb4c1cdbc2520ef1b0900b77ff0b0d",
+      "bytes": 30492
+    },
+    "visuals/ecosystem-management.svg": {
+      "sha256": "3d2ef9e193ff8fee30194f6cf26d65e43d76ce83d781d763346776b9346ea5a7",
+      "bytes": 2436
+    },
+    "visuals/energy-flow.png": {
+      "sha256": "cbc5688e90ad3067129cf0232486f651af612ccd31224967a28801ae1af246a5",
+      "bytes": 34577
+    },
+    "visuals/energy-flow.svg": {
+      "sha256": "e35922057fb0d7494d127d3a6121e66fe7d50d56f4d4f9f9e2ffe8e14171f678",
+      "bytes": 2393
+    },
+    "QA-REPORT.md": {
+      "sha256": "c11854c587aaab659aa3cc5969ab28966765a81b51fbaefaf86ae7197f8a25fd",
+      "bytes": 930
+    },
+    "source/integrated-student-edition-cycle47.pdf": {
+      "sha256": "46abe32cf6a0be20fe7e435f4dbd89f295741a5cc0f46b66a3e0e2edc7bf7c72",
+      "bytes": 234522
+    }
+  },
+  "detailed_sections": 16,
+  "diagram_count": 3,
+  "original_mcqs": 30,
+  "integrated_pdf_pages": 29,
+  "integrated_pdf_sha256": "46abe32cf6a0be20fe7e435f4dbd89f295741a5cc0f46b66a3e0e2edc7bf7c72",
+  "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
+  "academic_approval": "not_approved"
 }
