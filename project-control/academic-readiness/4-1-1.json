@@ -17,7 +17,7 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "BLOCKED",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
@@ -68,5 +68,10 @@
     "artifact": 12724143216,
     "qa_file": "project-control/academic-readiness/4-1-1-cycle35-downloaded-github-artifact-qa-2026-10-27.json",
     "verified": true
+  },
+  "cycle35_R1_primary_syllabus": {
+    "status": "PASS",
+    "source": "project-control/academic-readiness/4-1-1-cycle35-official-notification-r1-syllabus-correspondence-2026-10-27.json",
+    "scope": "Official Notification 02/2024 Annexure-II exact Topic 1 line; not academic approval"
   }
 }
