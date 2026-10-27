@@ -152,6 +152,12 @@ Riparian vegetation stabilises banks, shades streams, filters some runoff and pr
 
 Wetland monitoring should use a basket of indicators: water quality, seasonal hydroperiod, native species, fish community, bird use, sediment, inflows and human pressures. Bird counts alone may fluctuate with migration and weather. A strong mains answer explains ecological processes, identifies competing uses and proposes catchment-scale governance rather than a single engineering fix.
 
+
+
+**Worked wetland laboratory — separate nutrient concentration from pollutant mass.** Consider an explicitly *hypothetical* feeder stream entering a village tank at 5 million litres per day (MLD), with total phosphorus concentration of 4 mg/L. The incoming phosphorus load is 5,000,000 L/day × 4 mg/L ÷ 1,000,000 mg/kg = **20 kg/day**. If an upstream treatment and runoff-control programme lowers concentration to 1 mg/L while flow remains 5 MLD, the incoming load becomes **5 kg/day**, a reduction of **15 kg/day (75%)**. The calculation does not claim that a Telangana tank actually has these measurements, nor that a 75% load reduction guarantees immediate ecological recovery. Sediment can release previously stored phosphorus, and oxygen dynamics depend on temperature, algal biomass, mixing and biological oxygen demand.
+
+A scientifically defensible monitoring design therefore samples inflows at multiple seasons, estimates loads rather than only grab-sample concentrations, and records dissolved oxygen at different times of day. It pairs chemistry with biological evidence: submerged vegetation, native fish recruitment, macroinvertebrates and wetland-bird habitat. A single clear-water photograph is not a restoration indicator. If a new embankment eliminates shallow vegetated margins, improved public access may coexist with biodiversity loss. For a mains answer, present the sequence **catchment pressures → nutrient and sediment loads → ecosystem response → management intervention → repeated outcome monitoring**, and identify who maintains drains, regulates discharges and publishes results. The method is transferable to Telangana tanks without inventing district-level field observations.
+
 ## 9. Population ecology, carrying capacity and community dynamics
 
 Population size changes through births, deaths, immigration and emigration. Exponential growth assumes unconstrained proportional increase; logistic growth introduces resource limitation and an idealised carrying capacity K. Real populations rarely follow smooth curves because rainfall, disease, predation, migration and human disturbance vary. Carrying capacity is not a permanent numerical property of a forest; it changes with habitat quality, seasons and management.
@@ -163,6 +169,14 @@ Ecological succession is directional change in community composition after distu
 Interactions such as competition, predation, mutualism and facilitation influence succession. Nurse plants can protect seedlings from heat; herbivores may suppress some species and benefit others. A wetland recovering after pollution may pass through phases of algal dominance, submerged plants and changing fish assemblages. Managers should establish reference conditions and realistic recovery timelines rather than declare success after one season.
 
 **Conservation consequence:** Protecting habitat area without connectivity can leave populations genetically isolated. Conversely, corridors without core habitat protection may facilitate movement but not reproduction. A credible landscape plan considers habitat quality, dispersal routes, human livelihoods and long-term monitoring together.
+
+
+
+**Worked population-accounting laboratory — abundance is not carrying capacity.** Suppose a hypothetical wetland bird population has **120 individuals** at the beginning of a year, with 18 births, 12 deaths, 5 immigrants and 7 emigrants. The demographic identity is **N(next) = N(now) + births − deaths + immigration − emigration**. It gives **120 + 18 − 12 + 5 − 7 = 124**, a net increase of four individuals, or **3.33% of the starting population**. This accounting is not evidence that breeding conditions improved: immigration could conceal poor local recruitment, and imperfect detection could bias counts. A field team should distinguish marked individuals, nesting success, juvenile survival and temporary visitors.
+
+Contrast that observed accounting identity with a theoretical logistic model. If an analyst *assumes* intrinsic growth rate r = 0.20 per year, carrying capacity K = 200 and N = 120, the model's instantaneous growth term is **rN(1 − N/K) = 0.20 × 120 × 0.40 = 9.6 individuals per year**. It is a model output, not the observed four-individual increase. One cannot infer that the habitat's true K equals 200 from a single count. K may change when a tank dries, invasive plants expand, food availability shifts or disturbance intensifies. Monitoring should use repeated surveys and, where feasible, detection-adjusted estimates.
+
+The conservation lesson is that a stable headcount can conceal genetic isolation, an ageing population or declining breeding success. Corridors should be evaluated by actual movement and successful reproduction, not only mapped width. A Telangana district answer can specify baseline counts, age structure, breeding indicators, habitat quality, connectivity and a multi-year evaluation window, while clearly labelling any numerical example as hypothetical.
 
 ## 10. Biodiversity: three levels and multiple values
 
@@ -614,7 +628,7 @@ No verified official PYQs have been inserted for this topic. An item will be lab
 
 # Sources, dated updates and verification audit
 
-**Evidence rule:** Syllabus wording was checked directly against the commission-hosted Notification 02/2024. Dated source facts are distinguished from targets, projections and conceptual illustrations. No page numbers appear in the student-facing notes.
+**Evidence rule:** The inherited chapter reproduces the 2024 Commission syllabus wording, but the original Commission PDF was not directly reauthenticated during Cycle47; R1 remains IN_PROGRESS. Dated source facts are distinguished from targets, projections and conceptual illustrations. No page numbers appear in the student-facing notes.
 
 ## Dated, source-verified developments
 
@@ -657,3 +671,7 @@ No verified official PYQs have been inserted for this topic. An item will be lab
 3. Audit source availability and official question-paper provenance separately. No original practice question is represented as a PYQ.
 4. Inspect complete PDF for visual defects and validate every HTML image/link path.
 5. Academic status remains **not approved** until independent review.
+
+## Cycle47 bounded source-correspondence and worked-example audit (28 October 2026)
+
+The original practice MCQ23 answer C corresponds to the Telangana Biodiversity Board's 2014 constitution record (https://tgbiodiversity.org/). MCQ24 answer D corresponds to the three objectives of Convention on Biological Diversity Article 1 (https://www.cbd.int/convention/articles/default.shtml?a=cbd-01&lg=0). MCQ25 answer A corresponds to Kunming–Montreal Target 3 (https://www.cbd.int/gbf/targets/3); it is a 2030 conservation target, not evidence of achievement. These are three bounded author-side key correspondences only: the remaining 27 keys and all 120 answer options require independent checking. The quantitative laboratories in concepts 8 and 9 are hypothetical, not observed Telangana field measurements. All six mains and three inherited diagrams require claim-level and accuracy review. No official PYQ authentication or independent academic approval is claimed.

@@ -118,9 +118,10 @@
     "4-2-4",
     "4-2-5",
     "4-3-1",
-    "4-3-2"
+    "4-3-2",
+    "4-3-3"
   ],
-  "last_readiness_update": "28 Oct Cycle45: 4-3-1 integrated PDF/HTML CI published and actual artifact verified; 4-3-2 first direct assessment. Counts 7/27/41, 10 R1 PASS, zero ready/approved.",
+  "last_readiness_update": "28 Oct Cycle47: Topic 4-3-3 source repair and CI publisher staged; 7 IN_PROGRESS / 28 ASSESSED_REBUILD_REQUIRED / 40 NOT_ASSESSED; 0 ready, 0 approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -135,6 +136,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-3-3-cycle46-first-direct-assessment-2026-10-28.json",
     "project-control/academic-readiness/4-3-2-cycle45-first-structural-and-source-audit-2026-10-28.json",
     "project-control/academic-readiness/4-3-1-cycle45-actual-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-1-cycle44-local-candidate-and-bounded-source-audit-2026-10-28.json",

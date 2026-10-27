@@ -1,6 +1,6 @@
 # Sources, dated updates and verification audit
 
-**Evidence rule:** Syllabus wording was checked directly against the commission-hosted Notification 02/2024. Dated source facts are distinguished from targets, projections and conceptual illustrations. No page numbers appear in the student-facing notes.
+**Evidence rule:** The inherited chapter reproduces the 2024 Commission syllabus wording, but the original Commission PDF was not directly reauthenticated during Cycle47; R1 remains IN_PROGRESS. Dated source facts are distinguished from targets, projections and conceptual illustrations. No page numbers appear in the student-facing notes.
 
 ## Dated, source-verified developments
 
@@ -43,3 +43,7 @@
 3. Audit source availability and official question-paper provenance separately. No original practice question is represented as a PYQ.
 4. Inspect complete PDF for visual defects and validate every HTML image/link path.
 5. Academic status remains **not approved** until independent review.
+
+## Cycle47 bounded source-correspondence and worked-example audit (28 October 2026)
+
+The original practice MCQ23 answer C corresponds to the Telangana Biodiversity Board's 2014 constitution record (https://tgbiodiversity.org/). MCQ24 answer D corresponds to the three objectives of Convention on Biological Diversity Article 1 (https://www.cbd.int/convention/articles/default.shtml?a=cbd-01&lg=0). MCQ25 answer A corresponds to Kunming–Montreal Target 3 (https://www.cbd.int/gbf/targets/3); it is a 2030 conservation target, not evidence of achievement. These are three bounded author-side key correspondences only: the remaining 27 keys and all 120 answer options require independent checking. The quantitative laboratories in concepts 8 and 9 are hypothetical, not observed Telangana field measurements. All six mains and three inherited diagrams require claim-level and accuracy review. No official PYQ authentication or independent academic approval is claimed.
