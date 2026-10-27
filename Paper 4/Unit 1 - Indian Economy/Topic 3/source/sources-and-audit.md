@@ -23,8 +23,11 @@
 | S17 | Public reproduction of TGPSC Notification 02/2024 Annexure-II | https://prepshark.in/tgpsc/group-1/syllabus | Exact topic syllabus wording | Secondary transcription; direct commission PDF still outstanding |
 | S18 | Public copy of Group I notification wording | https://keshav.ugenglish.in/2024/02/tspsc-group-1-notification-022024.html | Cross-check syllabus line | Secondary reproduction |
 
-| S19 | TGPSC original Notification 02/2024, Annexure-II, printed p.31, PDF index 30, lines 1726–1727; accessed 27 Oct 2026 | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | Exact Money and Banking syllabus | Only this item directly checked |
-| S20 | DICGC, A Guide to Deposit Insurance; accessed 27 Oct 2026 | https://www.dicgc.org.in/guide-to-deposit-insurance | ₹5 lakh same capacity, branches, interest, NBFC exclusions | Guidance, not full legal audit |
+### Cycle37 directly checked primary references
+
+**[S19] Original TGPSC Notification 02/2024, Annexure-II.** The Commission-hosted PDF, printed page 31 (PDF index 30), lines 1726–1727, contains the Money and Banking syllabus wording. [Open the Commission notification](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v). Directly checked 27 October 2026. This establishes R1 syllabus correspondence only.
+
+**[S20] DICGC, A Guide to Deposit Insurance.** [Official DICGC guide](https://www.dicgc.org.in/guide-to-deposit-insurance), directly checked 27 October 2026, explains the ₹5 lakh limit per depositor per insured bank in the same right and capacity, inclusion of principal and interest, aggregation across branches and exclusion of NBFC deposits. This is bounded source correspondence, not a legal specialist review.
 
 ## Explicit verification and provenance gaps
 
