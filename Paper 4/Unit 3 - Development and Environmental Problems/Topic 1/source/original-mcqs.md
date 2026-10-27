@@ -93,12 +93,12 @@ C. Publicity without documents
 D. Only consultation with landowners  
 **Answer: B.** Timing, information and responsiveness determine procedural quality; non-title livelihood users may also be affected.
 
-**Q14.** A project is assessed in isolation although ten similar projects draw from one aquifer. The missing analysis is:  
-A. Exchange-rate analysis  
-B. Cumulative impact  
-C. Corporate branding  
-D. Nominal GDP  
-**Answer: B.** Shared ecological capacity can be exceeded by combined pressures even if each project appears modest.
+**Q14.** Three hypothetical factories each discharge 2 MLD at 50 mg/L of the same pollutant into one stream. Which inference is justified?  
+A. The combined load is 50 kg/day because the concentration is 50 mg/L  
+B. The combined load is 100 kg/day regardless of the number of factories  
+C. Three individual concentration readings alone prove the receiving stream is safe  
+D. The combined load is 300 kg/day; receiving-water safety requires additional cumulative assessment  
+**Answer: D.** For each factory, load = 2 MLD × 50 mg/L = 100 kg/day. Three contribute 300 kg/day. Concentration compliance does not by itself establish receiving-water capacity. All values are hypothetical, not Telangana regulatory standards.
 
 **Q15.** Which instrument directly specifies an enforceable maximum discharge concentration?  
 A. Emission/effluent performance standard  
@@ -156,12 +156,12 @@ C. They apply only to national capitals
 D. They abolish environmental compensation  
 **Answer: B.** Distinct special-waste categories retain their separate regulatory frameworks.
 
-**Q23.** Telangana's CFE and CFO typically refer to:  
-A. Census and finance orders  
-B. Consent for Establishment and Consent for Operation  
-C. Carbon-free exports and corporate finance  
-D. Central forest examination and court filing  
-**Answer: B.** These are distinct regulatory stages under pollution-control consent processes.
+**Q23.** A proposed Telangana industrial unit may require both environmental clearance and pollution-board consents under the laws applicable to its activity. Which statement correctly distinguishes the processes?  
+A. Consent for Establishment and Consent for Operation are identical approvals issued at the same stage  
+B. A municipal trade licence automatically replaces environmental clearance  
+C. Environmental clearance always removes the need for state pollution-board consent  
+D. CFE is a pre-establishment pollution-board consent; CFO concerns operation, while environmental clearance is a separate project-appraisal decision where applicable  
+**Answer: D.** Telangana's official consent procedures distinguish CFE and CFO stages. Prior EC under the applicable EIA notification is not interchangeable with either. The required combination depends on the project's legal category; do not assume every activity needs EC.
 
 **Q24.** A riverfront promenade is built while untreated sewage still enters the river. Which criticism is most defensible?  
 A. Every promenade is illegal  
@@ -198,12 +198,12 @@ C. Only carbon prices
 D. Only total GDP  
 **Answer: B.** Distributional and recognitional justice are related but distinct dimensions.
 
-**Q29.** A factory has a valid permit but routinely bypasses treatment equipment. The primary governance failure is:  
-A. Lack of any written permit  
-B. Monitoring and enforcement of actual operations  
-C. Insufficient publicity for the factory  
-D. Absence of a corporate logo  
-**Answer: B.** Paper compliance is not outcome compliance; inspections and independent sampling are necessary.
+**Q29.** A factory reports a compliant effluent concentration in one scheduled sample, but investigators suspect treatment bypass at other times. Which additional evidence most directly tests actual discharge performance?  
+A. The factory's advertising expenditure and logo  
+B. The number of environmental awards displayed at its entrance  
+C. A copy of the permit without operating records  
+D. Independently verified flow records, time-representative sampling, treatment uptime and unannounced inspection findings  
+**Answer: D.** A single concentration snapshot may miss bypass or short high-load episodes. Flow × concentration gives pollutant mass per unit time, while independent sampling and operational records test whether the treatment process actually runs.
 
 **Q30.** Which policy mix is strongest for an industrial cluster affecting a vulnerable watershed?  
 A. Subsidies alone  
