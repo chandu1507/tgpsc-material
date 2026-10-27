@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle37 original Commission Annexure-II R1 PASS, 15 concepts >=300 words, worked M2/M3 and DICGC labs, two revised MCQs and three length-corrected mains. Full item/claim/diagram/CI-browser audits incomplete.",
-  "next_action": "Publish synchronized integrated PDF/HTML; independently download actual Actions artifact and check original 75 PDFs, links, CRC and hashes; complete remaining item/claim and accessibility reviews.",
+  "next_action": "Actual post-render GitHub packaging artifact download and CRC/SHA/75-original/link/manifest verification; direct browser/accessibility and academic claim audits pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0",
@@ -74,6 +74,11 @@
       6
     ],
     "R9": "NOT_STARTED",
-    "external_academic_approval": false
+    "external_academic_approval": false,
+    "ci_renderer_run": 40500141700,
+    "ci_integrated_pdf_sha256": "145ca134c1a91345f91119384a9eb9f5b539ccf97b9f4faf887286e49c1e1476",
+    "ci_pdf_pages": 28,
+    "ci_embedded_images": 3,
+    "actual_downloaded_post_render_artifact_verified": false
   }
 }
