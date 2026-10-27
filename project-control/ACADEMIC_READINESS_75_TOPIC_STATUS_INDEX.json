@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 38,
+  "not_assessed_count": 37,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 30 ASSESSED_REBUILD_REQUIRED, 38 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready; ZERO independent approvals. Cycle48 post-edit GitHub artifact verification pending.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 31 ASSESSED_REBUILD_REQUIRED, 37 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle49 5-1-1 assessment-only; no new integrated PDF or post-edit artifact.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -121,9 +121,10 @@
     "4-3-2",
     "4-3-3",
     "4-3-4",
-    "4-3-5"
+    "4-3-5",
+    "5-1-1"
   ],
-  "last_readiness_update": "28 Oct Cycle48 corrected source: Topic 4-3-4 31-page PDF and downloaded ZIP artifact 12777079371 independently verified for CRC, all 75 original hashes, 22 manifest hashes, 431 local links, 1137 fragments. 30 MCQs = 30 keys + 90 distractors. Topic 4-3-5 assessed. 7/30/38, zero full R1–R8 ready, zero approvals.",
+  "last_readiness_update": "Cycle49 28 Oct: Topic 5-1-1 first direct artifact/source assessment; 16 concepts >=300, 30 MCQs, six mains >=200 body words, six bounded key checks; no R1 PASS, no full academic approval. Reconciled checkpoint/index 7/31/37; Cycle48 artifact 12777204607 independently verified.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -138,6 +139,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-1-1-cycle49-direct-artifact-and-bounded-primary-source-audit-2026-10-28.json",
     "project-control/academic-readiness/4-3-4-cycle48-corrected-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-4-cycle48-actual-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json",

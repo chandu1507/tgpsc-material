@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-28",
+  "topic_id": "5-1-1",
+  "assessment": "FIRST_DIRECT_ACADEMIC_READINESS_ASSESSMENT",
+  "source_git_main": "fa0d9fba9b2a18ca16c0062f3ee36d783ac3c7dc",
+  "source_artifact": {
+    "run_id": 40599162064,
+    "artifact_id": 12777204607,
+    "outer_sha256": "0b60b064f987c887a28af261857547b3cbbff0894c3e8a80a26218d44caccdd1",
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "inner_files": 1670,
+    "original_topic_pdfs": 75,
+    "readiness_json": 75,
+    "source_git_blob": "43fc2d894139b49d256c975ca30119acab14f127",
+    "master_sha256": "67837306e18aac989b8c0753d058a6eeda6dfb317aa20f72d206d537a03b1d85",
+    "manifest_pdf_hash_match": true
+  },
+  "original_pdf": {
+    "sha256": "d19428bc6a21a5cd5722e3aff26acbb895e97a97e6b1d71b138fbd5e9c1ed63f",
+    "pages": 27,
+    "images": 3,
+    "blank_pages": 0,
+    "preserved": true
+  },
+  "structural": {
+    "concept_count": 16,
+    "concept_word_counts_including_heading": [
+      433,
+      362,
+      393,
+      410,
+      389,
+      377,
+      377,
+      353,
+      339,
+      328,
+      313,
+      325,
+      365,
+      351,
+      350,
+      347
+    ],
+    "concepts_below_300": 0,
+    "original_practice_mcqs": 30,
+    "mcq_options_per_item": 4,
+    "mcq_key_distribution": {
+      "A": 9,
+      "B": 17,
+      "C": 4,
+      "D": 0
+    },
+    "invalid_mcq_shapes": 0,
+    "mains_count": 6,
+    "mains_body_only_words": [
+      211,
+      228,
+      230,
+      203,
+      214,
+      220
+    ],
+    "body_count_method": "Unicode word tokens in mains-model-answers.md excluding bold sentence-style subheading labels; manuscript manifest's larger counts include labels",
+    "original_diagrams": 3,
+    "official_pyqs_claimed": 0
+  },
+  "bounded_key_checks": [
+    {
+      "q": 7,
+      "key": "C",
+      "status": "ARITHMETIC_CHECK",
+      "finding": "Incremental gross value added ₹(140−100)−25 = ₹15; illustrative baseline assumptions disclosed."
+    },
+    {
+      "q": 14,
+      "key": "A",
+      "status": "PRIMARY_SOURCE_CORRESPONDENCE",
+      "source": "https://dst.gov.in/sites/default/files/Strides%20E-NewsLetter%20Volume6%20Issue.pdf",
+      "finding": "DST August 2024 material describes three Vigyan Dhara components."
+    },
+    {
+      "q": 15,
+      "key": "B",
+      "status": "PRIMARY_SOURCE_CORRESPONDENCE",
+      "source": "https://dst.gov.in/anrf-executive-council-approves-major-decisions-regarding-operationalization-rdi-fund",
+      "finding": "Cabinet approved ₹1 lakh crore RDI Fund 1 July 2025, to catalyse private-sector R&D; not a completed disbursement."
+    },
+    {
+      "q": 16,
+      "key": "A",
+      "status": "PRIMARY_SOURCE_CORRESPONDENCE",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291780&lang=1&reg=48",
+      "finding": "30 July 2026 PIB parliamentary response lists GERD 0.84% of GDP for 2023–24, not 2026–27."
+    },
+    {
+      "q": 18,
+      "key": "B",
+      "status": "PRIMARY_SOURCE_CORRESPONDENCE",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115865&lang=2&reg=3",
+      "finding": "27 March 2025 PIB parliamentary response confirms National Quantum Mission eight-year outlay ₹6,003.65 crore."
+    },
+    {
+      "q": 22,
+      "key": "B",
+      "status": "PRIMARY_SOURCE_CORRESPONDENCE",
+      "source": "https://new1.isro.gov.in/NisarData_soil_moisture_products.html",
+      "finding": "14 February 2026 ISRO 100m soil-moisture announcement discusses derived estimates, calibration and field validation; not exact readings for each plant."
+    }
+  ],
+  "syllabus": {
+    "status": "IN_PROGRESS",
+    "prior_manuscript_cites": "2024 Commission Notification 02/2024 Annexure-II Paper V Section I Item 1",
+    "fresh_2024_pdf_opened": true,
+    "targeted_2024_item_direct_recheck": false,
+    "corroborating_2022_official": "https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf",
+    "note": "Do not award R1 PASS solely on a manuscript assertion or an older syllabus."
+  },
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "unresolved": [
+    "Full independent correctness check for all 30 MCQ keys and 90 distractors; answer distribution D0 is a design warning, not proof of incorrect keys.",
+    "Claim-level checking of all six mains answers, all historical attributions and all 2026 policy figures.",
+    "Accuracy and accessibility audit of all three diagrams.",
+    "Direct targeted 2024 official syllabus wording authentication.",
+    "Direct full-resolution browser accessibility and offline interaction tests.",
+    "No newly rendered post-edit PDF or post-edit Actions artifact in this assessment-only cycle."
+  ],
+  "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+  "fully_R1_R8_ready": false,
+  "independent_expert": null,
+  "independently_approved": false
+}
