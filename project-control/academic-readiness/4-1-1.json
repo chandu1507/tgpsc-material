@@ -55,12 +55,12 @@
     "authenticated_official_pyqs": 0
   },
   "cycle35_ci_render": {
-    "workflow_run": 40484344614,
+    "workflow_run": 40484874651,
     "conclusion": "success",
     "pages": 25,
-    "sha256": "0eac4a98fc391a10a567f003a27ed8df41edcab28f4e3262dd596a3745de4ecf",
+    "sha256": "9572c19695eede6369ac5a8c8bf582ec0694ffa6d51a1f1ff4b2b5c74f2e97af",
     "original_pdf_preserved": true,
-    "artifact_qa_pending": false,
+    "artifact_qa_pending": true,
     "academic_approval": false
   },
   "cycle35_actual_downloaded_artifact": {
