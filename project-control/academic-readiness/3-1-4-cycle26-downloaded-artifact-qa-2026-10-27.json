@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-27",
+  "scope": "ACTUAL downloaded GitHub Actions artifact; independently checked",
+  "source_run_id": 40429483360,
+  "source_artifact_id": 12700414111,
+  "source_commit": "6be41b83c92e3e07b0afe8c8d40b5aa408d0fe69",
+  "outer_zip_sha256": "d25ff9d65435db7d59457ca9466efa01653422acac7f57639ce888602c61c634",
+  "github_reported_artifact_sha256": "d25ff9d65435db7d59457ca9466efa01653422acac7f57639ce888602c61c634",
+  "outer_crc": "PASS",
+  "inner_crc": "PASS",
+  "files": 1533,
+  "original_topic_pdfs": 75,
+  "original_pdf_hashes_equal_previous_verified_cycle": 75,
+  "readiness_json": 75,
+  "html_pages": 78,
+  "static_file_links_checked": 408,
+  "static_file_links_broken": 0,
+  "dom_fragment_links_checked": 686,
+  "dom_fragment_links_broken": 0,
+  "spa_routes_excluded": 64,
+  "topic_3_1_4": {
+    "original_pdf_sha256": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3",
+    "six_mains_body_word_counts": [
+      220,
+      221,
+      207,
+      213,
+      205,
+      224
+    ],
+    "original_four_option_mcqs": 30,
+    "integrated_pdf_created_this_cycle": false
+  },
+  "readiness_status": {
+    "total": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 4,
+    "not_assessed": 64,
+    "fully_R1_R8_ready": 0,
+    "independently_approved": 0
+  },
+  "limits": [
+    "No direct public browser or full accessibility test",
+    "No complete MCQ distractor/mains claim audit",
+    "No new integrated student PDF",
+    "Static link checks do not execute JavaScript navigation"
+  ]
+}
