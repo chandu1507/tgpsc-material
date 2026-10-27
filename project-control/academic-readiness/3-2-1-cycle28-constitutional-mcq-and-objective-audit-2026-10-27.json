@@ -105,5 +105,9 @@
   },
   "fully_ready": false,
   "independent_reviewer": null,
-  "approval": false
+  "approval": false,
+  "offline_portal_mcq_count": 25,
+  "offline_portal_source_sync": true,
+  "manifest_reconciled": true,
+  "legacy_pdf_remains_unsynchronized": true
 }

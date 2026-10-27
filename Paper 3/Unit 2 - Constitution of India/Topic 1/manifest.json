@@ -12,15 +12,15 @@
   "existing_topic_drafts_preserved_in_this_archive": 0,
   "previous_library_checkpoint": "TGPSC_GROUP1_PAPER3_UNIT1_TOPIC5_SOCIAL_POLICIES_DRAFT.zip (located, raw bytes inaccessible)",
   "cumulative_archive_complete": false,
-  "notes_word_count": 9318,
+  "notes_word_count": 9950,
   "major_concept_count": 7,
-  "original_mcq_count": 20,
+  "original_mcq_count": 25,
   "original_mains_model_answer_count": 6,
   "files": [
     {
       "path": "index.html",
-      "bytes": 88099,
-      "sha256": "d941a2cfc28345dfc3c5b33e5b1d3f929b4b24d992f90f9d7f1433f7e2c9fd80"
+      "bytes": 92019,
+      "sha256": "87c16d7021c7016103c48248337eb2b3f54f43bd32c91cc2ed32264353ba641b"
     },
     {
       "path": "complete-notes.pdf",
@@ -34,8 +34,8 @@
     },
     {
       "path": "source/complete-notes.md",
-      "bytes": 72220,
-      "sha256": "f9f7a8f099fc2dd1d2c2161b3f99e73ab396a22b1f247b55e28e024fc018a1f3"
+      "bytes": 75670,
+      "sha256": "dda89da835b98257dcf70f54351cdfbacb92594ffac17fa87bf5397ccc33968a"
     },
     {
       "path": "source/syllabus-and-summary.md",
@@ -49,8 +49,8 @@
     },
     {
       "path": "source/sources-and-audit.md",
-      "bytes": 4158,
-      "sha256": "f8b42e0a2f339a0b504bf1e5ae7f3be01437423fec803c5c9a50f964d2baac68"
+      "bytes": 4448,
+      "sha256": "d7a6dd10b72376a7b5db96af8ff005a7b1ac23098a6796afe8b44a2542d47df8"
     },
     {
       "path": "source/detailed-notes.md",
@@ -59,8 +59,8 @@
     },
     {
       "path": "source/original-mcqs.md",
-      "bytes": 5856,
-      "sha256": "ccff2d9a8f84dadbdac0d40d4b4f22a27abba8422784933485aab9139287bb42"
+      "bytes": 9305,
+      "sha256": "cccedabbd559d88769eff06d3410d12208d5fe280299dd85fcad31fe6f7b2f72"
     },
     {
       "path": "source/mains-model-answers.md",
@@ -82,5 +82,7 @@
       "bytes": 881,
       "sha256": "e48ee042f30676c84a5e9ad6e1e70ae1762095627450c01d4514f1fa7cd9cb8d"
     }
-  ]
+  ],
+  "integrated_pdf_synchronized": false,
+  "publication_note": "Offline HTML and Markdown contain 25 original MCQs; complete-notes.pdf remains the preserved legacy PDF and is not synchronized with this revision."
 }
