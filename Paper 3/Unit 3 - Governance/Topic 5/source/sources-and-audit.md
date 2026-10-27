@@ -45,3 +45,20 @@
 4. State service rules, commission membership and consumer pecuniary jurisdiction may change; the chapter avoids unsourced universal thresholds and treats the official current rules as controlling.
 5. Statutory text, institutional webpages and administrative guidance have been internally cross-checked for role and date. **No independent academic review or line-by-line legal peer audit has occurred.**
 6. PDF/HTML/ZIP validation is a production check, not proof that every factual assertion is error-free.
+
+## 27 October 2026 — Cycle 34 bounded practice-MCQ editorial and source audit
+
+Fifteen EXISTING original practice questions (3, 5, 6, 7, 9, 10, 11, 12, 17, 18, 19, 21, 23, 24, 25) were rewritten in place with more discriminating alternatives and option-specific explanations. All 25 remain newly authored practice questions; none is claimed as a verified official PYQ. Original 31-page PDF is retained. The revised bank's A/B/C/D answer distribution is 10/5/5/5, but balance is not evidence of factual correctness.
+
+Dated author-side primary-source correspondences (not independent academic certification):
+
+- [C34-01] DARPG, *Designing and Implementing Sevottam* (September 2011), service standards, grievance redress, service capability (Q5–Q6): https://www.darpg.gov.in/sites/default/files/Sevottam_Guidelines_Sept_2011.pdf
+- [C34-02] India Code, *Sexual Harassment of Women at Workplace Act, 2013*, sections 4 and 6, Internal/Local Committees (Q7): https://upload.indiacode.nic.in/showfile?actid=AC_CEN_13_14_00009_201314_1517807327213&filename=a2013-14.pdf&type=actfile
+- [C34-03] India Code, *Prevention of Corruption Act, 1988* (as amended), section 7 (Q9): https://www.indiacode.nic.in/bitstream/123456789/12894/1/prevention_of_corruption_act_1988_49_of_1988.pdf
+- [C34-04] India Code, *Central Vigilance Commission Act, 2003* (Q10): https://www.indiacode.nic.in/bitstream/123456789/2067/1/A2003-45.pdf
+- [C34-05] India Code, *Delhi Special Police Establishment Act, 1946*, sections 2–6 (Q11–Q12): https://www.indiacode.nic.in/bitstream/123456789/2258/1/A1946-25.pdf
+- [C34-06] DoPT official RTI legislation index and amended RTI text, sections 2, 4, 6, 7, 10, 19 (Q17–Q19, Q21, Q23): https://rti.dopt.gov.in/
+- [C34-07] DARPG, Second ARC Fourth Report, *Ethics in Governance* (January 2007), Q3 and Q24: https://darpg.gov.in/sites/default/files/ethics4.pdf
+- [C34-08] DARPG, Second ARC Twelfth Report, *Citizen Centric Administration*, Sevottam service quality and grievance outcomes (Q25): https://darpg.gov.in/sites/default/files/ccadmin12.pdf
+
+Verification boundary: item-level author-side comparisons to the listed government texts for the relevant legal/institutional propositions; no independent examiner, no complete legal audit of all 25 questions and 100 alternatives, no independent mains claim audit, and no direct official Commission syllabus PDF retrieval. Q3/Q25 remain evaluative scenarios, not statutory holdings. R1/R4/R5/R6 remain unpassed; R9 not started.
