@@ -50,3 +50,10 @@
 
 - **[S15] Government of India, Andhra Pradesh Reorganisation Act 2014.** https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6E.pdf  
   Used for: State formation legal framework. Audit note: Official legislation URL; detailed sections to be rechecked during independent legal audit.
+
+## Cycle 41 bounded evidence and arithmetic review — 27 October 2026
+
+- NITI Aayog, *National MPI: A Progress Review 2023*, Telangana NFHS-4/NFHS-5 state table: H 13.18%/5.88%, intensity 43.29%/40.85%, MPI approximately 0.057/0.024. Calculated difference 7.30 percentage points, relative decline approximately 55.39%. Official source: https://www.niti.gov.in/hi/node/868 . Bounded to new concept 17 and Q24, not all inherited claims.
+- Telangana Socio-Economic Outlook 2026 full official PCI year-specific table not directly authenticated; R4/R6 incomplete. Official portal: https://www.telangana.gov.in/reports/ .
+- Commission-hosted Notification 02/2024 returned 403 in prior direct retrieval; R1 remains IN_PROGRESS.
+- Original practice Q16, Q21, Q24, Q27 rewritten, Q21 explicitly hypothetical. All 27 keys and 108 distractors still need complete independent review. Mains 1/2/6 expanded; all six mains, three diagrams and browser accessibility remain unaudited. No expert approval.

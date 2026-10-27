@@ -152,14 +152,14 @@ D. Exports plus imports
 **Answer: B. Explanation:** GSDP at market prices equals aggregate GSVA plus product taxes less product subsidies.
 
 
-### Q16. Sector shares of 15.1%, 16.3% and 68.6% in Telangana’s 2025–26 Outlook refer to:
+### Q16. The estimated current-price GSVA shares are primary 15.1%, secondary 16.3%, and tertiary 68.6%. By how many percentage points does tertiary exceed primary and secondary combined?
 
-A. Workforce employment shares  
-B. Current-price GSVA composition  
-C. 2011 census shares  
-D. Tax receipts
+A. 53.5 percentage points  
+B. 31.4 percentage points  
+C. 37.2 percentage points  
+D. 68.6 percentage points  
 
-**Answer: B. Explanation:** These are estimated primary, secondary and tertiary shares of gross value added.
+**Answer: C. Explanation:** 68.6 − (15.1 + 16.3) = 37.2 percentage points. A subtracts only primary, B repeats the non-tertiary share, and D repeats the tertiary share. These are GSVA, not employment, shares.
 
 
 ### Q17. Which sector has the largest estimated 2025–26 GSVA share in Telangana?
@@ -202,14 +202,14 @@ D. They always have the same value
 **Answer: A. Explanation:** Net domestic product deducts consumption of fixed capital.
 
 
-### Q21. Telangana 2025–26 per capita income of about ₹4,18,931 is:
+### Q21. A hypothetical state has NSDP of ₹16 lakh crore and population of 4 crore in the same year. What is per-capita NSDP?
 
-A. The wage of every worker  
-B. An average based on net state income and population  
-C. Median family income  
-D. A poverty threshold
+A. ₹40,000  
+B. ₹4,00,000  
+C. ₹16,00,000  
+D. ₹1,60,000  
 
-**Answer: B. Explanation:** Per capita income is an average, not a universal salary or median.
+**Answer: B. Explanation:** ₹16 lakh crore divided by 4 crore people = ₹4 lakh per person. A is ten times too small, C confuses aggregate and individual income, and D uses a wrong divisor. This is hypothetical, not Telangana's actual NSDP.
 
 
 ### Q22. Which measure directly summarises household income inequality?
@@ -232,14 +232,14 @@ D. 15.1%
 **Answer: A. Explanation:** 5.88% is the NFHS 2019–21 multidimensional-poverty headcount, not a 2026 figure.
 
 
-### Q24. The fall from 13.18% to 5.88% is:
+### Q24. Telangana's MPI headcount fell from 13.18% in NFHS-4 (2015–16) to 5.88% in NFHS-5 (2019–21). Which is correct?
 
-A. 7.30 percentage points  
-B. 7.30% relative  
-C. 13.18 percentage points  
-D. 5.88 percentage points
+A. 7.30% relative fall and 55.39 percentage-point fall  
+B. 55.39 percentage-point fall and 7.30% relative fall  
+C. 13.18 percentage-point fall and 5.88% relative fall  
+D. 7.30 percentage-point fall and approximately 55.39% relative fall  
 
-**Answer: A. Explanation:** Subtracting headcount percentages gives 7.30 percentage points; the relative decline is a different calculation.
+**Answer: D. Explanation:** The difference is 7.30 percentage points; 7.30 ÷ 13.18 × 100 ≈ 55.39% relative decline. A and B reverse units; C confuses endpoints with changes. These are historical survey periods.
 
 
 ### Q25. MPI is calculated conceptually as:
@@ -262,12 +262,12 @@ D. It eliminates poverty automatically
 **Answer: B. Explanation:** Spatial agglomeration raises value added but does not guarantee inclusive distribution.
 
 
-### Q27. The most reliable approach to assessing deprivation under united AP is to:
+### Q27. An analyst attributes all irrigation expenditure recorded in Hyderabad to benefits received by Hyderabad district. What evidence best tests this claim?
 
-A. Use one unsourced revenue-loss number  
-B. Compare comparable district outcomes and documented safeguards across time  
-C. Ignore irrigation and education  
-D. Treat the capital as all of Telangana
+A. Colour of expenditure ledger  
+B. Only statewide GSDP  
+C. Only the party announcing the project  
+D. Project locations, actual delivered water, beneficiary districts and comparable time periods  
 
-**Answer: B. Explanation:** Regional claims need definitions, comparable baselines, fiscal evidence and institutional records.
+**Answer: D. Explanation:** Accounting location is not necessarily the place of water delivery or beneficiary incidence. Geocoded project and delivery records are needed; the other alternatives cannot establish regional benefits.
 

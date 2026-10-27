@@ -1,7 +1,3 @@
-# Paper IV — Economy and Development | Unit II — Telangana Economy | Topic 1
-
----
-
 # Syllabus map and learning objectives
 
 **Official syllabus line (Notification 02/2024, Annexure-II, Paper IV, Unit II, Topic 1; wording corroborated against public reproduction, original TGPSC PDF direct verification pending):** “Telangana economy in Hyderabad State (Agriculture, Industry and Trade); Telangana economy in United AP (1956-2014)- Deprivation and Under development; Structure and Growth of Telangana economy: Sectoral trends in GSDP ; Per capita income; Income inequalities and Poverty.”
@@ -19,8 +15,6 @@
 
 **Learning outcomes:** Explain Telangana's historical economic institutions; assess regional-deprivation arguments without invented statistics; interpret 2025–26 state accounts correctly; distinguish prosperity from inequality; construct an evidence-led mains answer.
 
----
-
 # Topic summary
 
 Telangana's economic history has three linked phases. In Hyderabad State, agriculture was shaped by semi-arid conditions, unequal tenure, tank irrigation and local markets, while coal mining, sugar processing and Hyderabad's urban economy created selective industrial modernisation. Between 1956 and 2014, integration into Andhra Pradesh brought investment and metropolitan growth alongside disputes over safeguards, employment, fiscal allocation and water. Since state formation on 2 June 2014, the economy has become strongly services-led, yet rural livelihoods and district disparities remain central policy concerns.
@@ -28,8 +22,6 @@ Telangana's economic history has three linked phases. In Hyderabad State, agricu
 **2025–26 statistical snapshot (Telangana Socio-Economic Outlook 2026, estimates):** GSDP approximately ₹17,82,198 crore at current prices; primary, secondary and tertiary GSVA shares **15.1%, 16.3%, 68.6%**; per capita income about **₹4,18,931** at current prices. **NITI Aayog MPI (NFHS-based):** multidimensional poverty headcount **13.18% in 2015–16** and **5.88% in 2019–21**. Do not treat those poverty figures as 2026 observations.
 
 The analytical thread is **historical institutions → allocation of public resources → structural transformation → distributional outcomes**. A strong answer compares rival interpretations, labels statistical vintages and distinguishes aggregate output from household welfare.
-
----
 
 # Standalone quick revision — flexible last-minute sheet
 
@@ -73,8 +65,6 @@ The analytical thread is **historical institutions → allocation of public reso
 ## Common mistakes to avoid
 
 Do not label NITI's 2019–21 MPI as current 2026 poverty. Do not present the 2026–27 budget projection as realised GSDP. Do not assume an average income is a median salary. Do not claim every Telangana district was stagnant between 1956 and 2014. Do not present a political allegation as an audited budget statistic. Do not confuse GSVA sector shares with GSDP or employment shares.
-
----
 
 # Detailed textbook-grade notes
 
@@ -351,8 +341,19 @@ Use a four-part structure: (1) historical baseline and definitions, (2) mechanis
 ### Final judgement
 The central development challenge is to translate Telangana's metropolitan productive strength into durable district-level capabilities and decent work. That requires an empirically grounded combination of education, health, water governance, rural enterprise, infrastructure, transparent public finance and environmental stewardship. An answer that can distinguish **historical grievance from measured outcomes**, and **aggregate growth from inclusion**, will be stronger than a one-sided narrative.
 
+## 17. Worked evidence laboratory: Telangana multidimensional poverty and interpretation
 
----
+**Concept.** The National Multidimensional Poverty Index (MPI) measures overlapping deprivations in health, education and living standards, not income poverty alone. The headcount ratio H is the proportion of people classified as multidimensionally poor; intensity A is their average weighted deprivation. MPI = H × A, with both factors expressed as proportions. Headcount measures incidence, while intensity measures severity among those classified as poor.
+
+**Period-specific source.** NITI Aayog's *National MPI: A Progress Review 2023* reports Telangana's headcount at 13.18% in NFHS-4 (2015–16) and 5.88% in NFHS-5 (2019–21). Corresponding intensities are 43.29% and 40.85%. Multiplying gives 0.1318 × 0.4329 ≈ 0.0571 and 0.0588 × 0.4085 ≈ 0.0240, consistent with published MPI values after rounding. The survey dates matter: neither is an October 2026 poverty measurement.
+
+**Percentage points and relative percentages.** Subtracting 5.88 from 13.18 yields **7.30 percentage points**. Dividing 7.30 by 13.18 and multiplying by 100 yields approximately **55.39% relative decline**. These are different quantities. Writing only “poverty fell 7.30%” is ambiguous and risks mistaking a percentage-point difference for a relative change.
+
+**Illustrative district, not a factual estimate.** In an imaginary district with 10,000 residents in both periods, applying the statewide rates would imply 1,318 and 588 classified as poor, a difference of 730. This is an arithmetic teaching example, not a district survey finding. Actual district populations, migration, sampling variation and deprivation profiles differ. Applying a statewide average to a particular district without evidence commits an ecological inference error.
+
+**Policy meaning.** An improved statewide MPI does not establish that all rural, tribal, urban-informal or other social groups improved equally. Headcount alone cannot show whether deprivation intensity, household income inequality or vulnerability to illness and drought also improved. Income poverty, consumption poverty, MPI headcount, intensity and vulnerability require distinct indicators. To evaluate programmes, examine indicator-specific deprivation, district disaggregation, service quality and repeated observations with consistent definitions.
+
+**Mains blueprint.** Define H, A and MPI; state the two NFHS periods; calculate 7.30 percentage points and 55.39% relative change; distinguish incidence from intensity; identify the limits of geographic inference; recommend district-level monitoring of nutrition, schooling, sanitation, health and livelihoods. Evidence: NITI Aayog, *National MPI: A Progress Review 2023*, Telangana state table (S07). This source check does not independently authenticate all inherited chapter claims.
 
 # Visual learning and comparison tables
 
@@ -385,8 +386,6 @@ The central development challenge is to translate Telangana's metropolitan produ
 | Per capita income | ₹4,18,931 | 2025–26 estimate | Current-price PCI; not median salary [S03] |
 | Telangana MPI headcount | 13.18% → 5.88% | NFHS 2015–16 → 2019–21 | 7.30 percentage-point fall, not 2026 poverty [S07] |
 | 2026–27 projected GSDP | ₹19,61,701 crore | 2026–27 budget | **Projection**, not actual [S06] |
-
----
 
 # Original practice MCQs — not official PYQs
 
@@ -542,14 +541,14 @@ D. Exports plus imports
 **Answer: B. Explanation:** GSDP at market prices equals aggregate GSVA plus product taxes less product subsidies.
 
 
-### Q16. Sector shares of 15.1%, 16.3% and 68.6% in Telangana’s 2025–26 Outlook refer to:
+### Q16. The estimated current-price GSVA shares are primary 15.1%, secondary 16.3%, and tertiary 68.6%. By how many percentage points does tertiary exceed primary and secondary combined?
 
-A. Workforce employment shares  
-B. Current-price GSVA composition  
-C. 2011 census shares  
-D. Tax receipts
+A. 53.5 percentage points  
+B. 31.4 percentage points  
+C. 37.2 percentage points  
+D. 68.6 percentage points  
 
-**Answer: B. Explanation:** These are estimated primary, secondary and tertiary shares of gross value added.
+**Answer: C. Explanation:** 68.6 − (15.1 + 16.3) = 37.2 percentage points. A subtracts only primary, B repeats the non-tertiary share, and D repeats the tertiary share. These are GSVA, not employment, shares.
 
 
 ### Q17. Which sector has the largest estimated 2025–26 GSVA share in Telangana?
@@ -592,14 +591,14 @@ D. They always have the same value
 **Answer: A. Explanation:** Net domestic product deducts consumption of fixed capital.
 
 
-### Q21. Telangana 2025–26 per capita income of about ₹4,18,931 is:
+### Q21. A hypothetical state has NSDP of ₹16 lakh crore and population of 4 crore in the same year. What is per-capita NSDP?
 
-A. The wage of every worker  
-B. An average based on net state income and population  
-C. Median family income  
-D. A poverty threshold
+A. ₹40,000  
+B. ₹4,00,000  
+C. ₹16,00,000  
+D. ₹1,60,000  
 
-**Answer: B. Explanation:** Per capita income is an average, not a universal salary or median.
+**Answer: B. Explanation:** ₹16 lakh crore divided by 4 crore people = ₹4 lakh per person. A is ten times too small, C confuses aggregate and individual income, and D uses a wrong divisor. This is hypothetical, not Telangana's actual NSDP.
 
 
 ### Q22. Which measure directly summarises household income inequality?
@@ -622,14 +621,14 @@ D. 15.1%
 **Answer: A. Explanation:** 5.88% is the NFHS 2019–21 multidimensional-poverty headcount, not a 2026 figure.
 
 
-### Q24. The fall from 13.18% to 5.88% is:
+### Q24. Telangana's MPI headcount fell from 13.18% in NFHS-4 (2015–16) to 5.88% in NFHS-5 (2019–21). Which is correct?
 
-A. 7.30 percentage points  
-B. 7.30% relative  
-C. 13.18 percentage points  
-D. 5.88 percentage points
+A. 7.30% relative fall and 55.39 percentage-point fall  
+B. 55.39 percentage-point fall and 7.30% relative fall  
+C. 13.18 percentage-point fall and 5.88% relative fall  
+D. 7.30 percentage-point fall and approximately 55.39% relative fall  
 
-**Answer: A. Explanation:** Subtracting headcount percentages gives 7.30 percentage points; the relative decline is a different calculation.
+**Answer: D. Explanation:** The difference is 7.30 percentage points; 7.30 ÷ 13.18 × 100 ≈ 55.39% relative decline. A and B reverse units; C confuses endpoints with changes. These are historical survey periods.
 
 
 ### Q25. MPI is calculated conceptually as:
@@ -652,17 +651,14 @@ D. It eliminates poverty automatically
 **Answer: B. Explanation:** Spatial agglomeration raises value added but does not guarantee inclusive distribution.
 
 
-### Q27. The most reliable approach to assessing deprivation under united AP is to:
+### Q27. An analyst attributes all irrigation expenditure recorded in Hyderabad to benefits received by Hyderabad district. What evidence best tests this claim?
 
-A. Use one unsourced revenue-loss number  
-B. Compare comparable district outcomes and documented safeguards across time  
-C. Ignore irrigation and education  
-D. Treat the capital as all of Telangana
+A. Colour of expenditure ledger  
+B. Only statewide GSDP  
+C. Only the party announcing the project  
+D. Project locations, actual delivered water, beneficiary districts and comparable time periods  
 
-**Answer: B. Explanation:** Regional claims need definitions, comparable baselines, fiscal evidence and institutional records.
-
-
----
+**Answer: D. Explanation:** Accounting location is not necessarily the place of water delivery or beneficiary incidence. Geocoded project and delivery records are needed; the other alternatives cannot establish regional benefits.
 
 # Mains answer blueprints — original practice
 
@@ -677,11 +673,13 @@ D. Treat the capital as all of Telangana
 | PCI and inequality | Average income is not distribution | NSDP/GSDP distinction, district gaps, Gini | No unsupported household claims | Opportunity convergence |
 | Poverty and inclusive growth | Monetary and multidimensional lenses | NITI 2015–16 vs 2019–21 MPI, rural/urban | Cannot attribute all change to one scheme | Capabilities and resilience |
 
----
-
 # Mains model answers — original practice (not official PYQs)
 
 ## Model answer 1. Assess the agricultural economy of Telangana under Hyderabad State with reference to land tenure and irrigation.
+
+**Evidence test.** Compare delivered irrigation, tenancy security, crop returns and village indebtedness before inferring welfare from project inauguration. Construction, potential and actual water distribution are different measurements.
+
+
 
 **Introduction and historical background.** Agriculture was the main livelihood in the Telugu-speaking districts of Hyderabad State. Semi-arid conditions made rainfall, tank storage and land rights central determinants of rural welfare. The region was not agriculturally uniform: cotton and sugarcane belts coexisted with vulnerable millet-growing drylands.
 
@@ -694,6 +692,10 @@ D. Treat the capital as all of Telangana
 **Conclusion.** Hyderabad Telangana’s agrarian legacy combined productive assets with deep structural inequality. Sustainable development required land rights, reliable water, accessible credit and fair markets—not irrigation construction alone.
 
 ## Model answer 2. Explain the contribution and limitations of industry and trade in the Hyderabad State economy.
+
+**Evidence test.** Separate direct jobs from supplier purchases, farm payments, transport costs and workplace safety. Incorporation dates and revival announcements cannot prove continuous profitability or broad spillovers.
+
+
 
 **Background.** Hyderabad State contained selective industrial and commercial modernisation before 1956. The Telugu-speaking region benefited from coal, sugar, transport networks and the Hyderabad urban market, although opportunities were unevenly distributed.
 
@@ -751,6 +753,10 @@ D. Treat the capital as all of Telangana
 
 ## Model answer 6. Analyse Telangana’s poverty trends using multidimensional poverty evidence and explain the policy implications.
 
+**Measurement caution.** The 13.18% and 5.88% headcounts belong to NFHS-4 and NFHS-5 periods. Their difference is 7.30 percentage points, or about 55.39% relative to the initial rate. Headcount does not reveal whether all districts or deprivation intensity improved equally.
+
+
+
 **Introduction.** Poverty is broader than insufficient money. Telangana’s development assessment must consider income and consumption poverty alongside deprivation in nutrition, education, housing, sanitation and other basic capabilities.
 
 **Measurement framework.** Monetary poverty compares income or consumption with a threshold. NITI Aayog’s Multidimensional Poverty Index instead combines the proportion of people deprived (**headcount H**) with the average weighted deprivation among them (**intensity A**), so MPI = H × A.
@@ -762,16 +768,6 @@ D. Treat the capital as all of Telangana
 **Policy priorities.** Combine nutrition and school quality with primary healthcare, reliable water, decent employment, housing and shock-responsive protection. Publish district-disaggregated outcomes and monitor whether improvements reach marginalised communities.
 
 **Conclusion.** Telangana’s progress should be recognised without confusing poverty reduction with the end of inequality. Durable inclusion requires both rising productivity and accessible basic capabilities.
-
----
-
-# Official previous-year questions: provenance register
-
-**Verified official MCQ PYQs: 0. Verified official mains PYQs: 0.**
-
-No original TGPSC Group I question paper with the question number and corresponding topic-specific wording was retrieved and authenticated during this production run. This chapter therefore contains **original practice questions only**, not questions presented as official previous-year examination questions. When authentic source papers are available, record examination name, paper, year, question number, exact question text, official URL, and answer-key provenance before inclusion.
-
----
 
 # Authoritative-source register and audit
 
@@ -825,3 +821,10 @@ No original TGPSC Group I question paper with the question number and correspond
 
 - **[S15] Government of India, Andhra Pradesh Reorganisation Act 2014.** https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6E.pdf  
   Used for: State formation legal framework. Audit note: Official legislation URL; detailed sections to be rechecked during independent legal audit.
+
+## Cycle 41 bounded evidence and arithmetic review — 27 October 2026
+
+- NITI Aayog, *National MPI: A Progress Review 2023*, Telangana NFHS-4/NFHS-5 state table: H 13.18%/5.88%, intensity 43.29%/40.85%, MPI approximately 0.057/0.024. Calculated difference 7.30 percentage points, relative decline approximately 55.39%. Official source: https://www.niti.gov.in/hi/node/868 . Bounded to new concept 17 and Q24, not all inherited claims.
+- Telangana Socio-Economic Outlook 2026 full official PCI year-specific table not directly authenticated; R4/R6 incomplete. Official portal: https://www.telangana.gov.in/reports/ .
+- Commission-hosted Notification 02/2024 returned 403 in prior direct retrieval; R1 remains IN_PROGRESS.
+- Original practice Q16, Q21, Q24, Q27 rewritten, Q21 explicitly hypothetical. All 27 keys and 108 distractors still need complete independent review. Mains 1/2/6 expanded; all six mains, three diagrams and browser accessibility remain unaudited. No expert approval.
