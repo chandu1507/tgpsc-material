@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-27",
+  "topic": "4-1-5",
+  "pages": 31,
+  "pdf_sha256": "718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846",
+  "embedded_images": 3,
+  "blank_pages": 0,
+  "text_boundary_violations": 0,
+  "original_pdf_sha256": "01f2cfa032761978ef783941b01b7085511ffda76dd4d77a616ee5f94d189ad4",
+  "manifest_hashes": 17,
+  "mains_body_only_words": [
+    235,
+    239,
+    233,
+    230,
+    233,
+    227
+  ],
+  "academically_approved": false,
+  "browser_accessibility_certified": false,
+  "r1": "IN_PROGRESS"
+}
