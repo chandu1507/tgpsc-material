@@ -1,5 +1,16 @@
 # TGPSC Group I — Academic Readiness Production Gate
 
+## Cycle46 Topic 4-3-3 first direct assessment and Topic 4-3-2 bounded source correction — 28 October 2026
+
+**Controlling counts: exactly 75 existing original topics/PDFs; 7 IN_PROGRESS, 28 ASSESSED_REBUILD_REQUIRED, 40 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready; ZERO independent academic approvals.**
+
+**Topic 4-3-3 (Ecosystems and Biodiversity)** original 21-page PDF SHA256 `f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9` preserved. Direct source assessment: 16 concepts, two below 300 words (8:295; 9:277); 30 original four-option practice MCQs (A6/B22/C1/D1); six mains body-only counts 212/210/223/218/233/242; three original diagrams. MCQ23 Telangana Biodiversity Board 2014, MCQ24 CBD Article 1 objectives and MCQ25 Kunming-Montreal Target 3 each received **bounded primary-authority key correspondence**; remaining 27 keys and ALL distractors are not independently audited. Original 2024 Commission syllabus not directly re-authenticated. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, R9 NOT_STARTED; **no integrated CI PDF yet**. Evidence: `project-control/academic-readiness/4-3-3-cycle46-first-direct-assessment-2026-10-28.json`.
+
+**Topic 4-3-2** original MCQ4 forest cover **21,179.04 km²**, tree cover **3,517.66 km²**, combined **24,696.70 km²** directly correspond to the Ministry of Environment's **6 February 2025 parliamentary answer**, hosted by PIB (`https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2100254&lang=2&reg=48`). This supersedes the Cycle45 *not directly verified* limitation for **this one claim only**. It does NOT certify the remaining keys, distractors, mains or diagrams. Evidence: `project-control/academic-readiness/4-3-2-cycle46-mcq4-government-table-verification-2026-10-28.json`.
+
+**Publication limitation:** Cycle46 updates are source-evidence and control records only. No new integrated PDF rendered or downloaded post-edit GitHub artifact CRC/SHA/75-topic QA claimed. Previous Cycle45 independently verified artifact remains the publication baseline. Preserve all 75 originals; no 76th topic, official PYQ fabrication, or academic approval.
+
+
 ## Cycle45 actual GitHub artifact QA and Topic 4-3-2 first direct assessment — 28 October 2026
 
 Exactly **75** original topics/PDFs: **7 IN_PROGRESS, 27 ASSESSED_REBUILD_REQUIRED, 41 NOT_ASSESSED**; **10 directly verified R1 PASS**, **ZERO fully R1–R8 ready**, **ZERO independent academic approvals**.

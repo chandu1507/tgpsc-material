@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "Cycle45 direct first assessment: 16 core concepts, three below 300 words (296/294/299), 30 four-option original MCQs with key distribution A3/B26/C1/D0, six mains body-only 208/208/204/202/212/202 words, 3 inherited diagrams, original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved. Official FSI ISFR 2023 Telangana Table10.25.2 verifies 21,179.04 sq km forest cover; tree cover 3,517.66 sq km in Q4 NOT independently verified. CGWB 2024 district groundwater tables located but claim-level review incomplete. All MCQ keys/distractors, mains, syllabus, diagrams and browser QA pending.",
-  "next_action": "Substantively expand core concepts 9,11,13; correct B26/30 key concentration through genuine item review (not arbitrary answer reassignment); verify MCQ4 tree-cover claim from FSI Vol I; full MCQ/distractor, mains, diagram and syllabus audit; integrate deterministic PDF and actual artifact QA.",
+  "evidence": "Cycle45 direct first assessment: 16 core concepts, three below 300 words (296/294/299), 30 four-option original MCQs with key distribution A3/B26/C1/D0, six mains body-only 208/208/204/202/212/202 words, 3 inherited diagrams, original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved. Official FSI ISFR 2023 Telangana Table10.25.2 verifies 21,179.04 sq km forest cover; tree cover 3,517.66 sq km in Q4 NOT independently verified. CGWB 2024 district groundwater tables located but claim-level review incomplete. All MCQ keys/distractors, mains, syllabus, diagrams and browser QA pending. Cycle46: MCQ4 ISFR 2023 forest/tree cover figures directly verified against Ministry of Environment 6 February 2025 parliamentary response; prior Cycle45 NOT_DIRECTLY_VERIFIED limitation superseded for this one claim only. No full question audit.",
+  "next_action": "Expand concepts 9, 11 and 13; audit 30 MCQs/120 options (MCQ4 figures now directly checked), mains, diagrams, original syllabus; render and verify synchronized PDF and downloaded artifact.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
@@ -57,5 +57,13 @@
     ],
     "pdf_pages": 21,
     "independent_approval": false
+  },
+  "cycle46": {
+    "verified_item": "MCQ4",
+    "status": "DIRECT_PRIMARY_GOVERNMENT_TABLE_CORRESPONDENCE",
+    "source": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2100254&lang=2&reg=48",
+    "evidence": "project-control/academic-readiness/4-3-2-cycle46-mcq4-government-table-verification-2026-10-28.json",
+    "full_key_distractor_audit": false,
+    "academic_approval": false
   }
 }

@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 41,
+  "not_assessed_count": 40,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 27 ASSESSED_REBUILD_REQUIRED, 41 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle45 4-3-1 integrated CI PDF and downloaded artifact QA verified; 4-3-2 assessed, rebuild required.",
+  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 28 ASSESSED_REBUILD_REQUIRED, 40 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle46 4-3-3 first assessed and 4-3-2 MCQ4 bounded government-source verified; no post-edit CI PDF or downloaded artifact claimed.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
