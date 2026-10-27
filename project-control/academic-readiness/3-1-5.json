@@ -27,7 +27,8 @@
     "R8": "BLOCKED"
   },
   "evidence": [
-    "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json"
+    "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
+    "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json"
   ],
   "next_action": "Direct R1 syllabus clause mapping; expand 13 shallow concepts; deduplicate provenance master; independently audit remaining 25 MCQs/all 120 distractors and six mains; verify SVG accuracy; build one synchronized CI PDF, inspect every page, download and QA actual publication artifact.",
   "external_reviewer": null,
@@ -54,6 +55,14 @@
       234
     ],
     "standalone_svg_diagrams": 3,
-    "synchronized_integrated_pdf": false
+    "synchronized_integrated_pdf": false,
+    "publication_artifact_qa": {
+      "run_id": 40435163083,
+      "artifact_id": 12703876181,
+      "original_pdfs_preserved": 75,
+      "zip_crc": "PASS",
+      "static_broken_links": 0,
+      "integrated_pdf": false
+    }
   }
 }
