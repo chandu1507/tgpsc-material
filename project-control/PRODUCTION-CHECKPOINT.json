@@ -472,11 +472,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle42_bounded_assessment_source_repair_branch_pending_ci_pdf",
-      "notes": "Original 28-page PDF preserved. Cycle42: 17 explanatory concepts (none under 300 words), 30 original practice MCQs (8 revised; A4/B13/C7/D6), six 200+ body-word mains, 3 diagrams, 530-word hypothetical land-outcomes funnel; local 31-page integrated candidate. Full independent audit and CI publication pending.",
+      "production_review": "cycle42_integrated_ci_pdf_published_actual_artifact_verified_academic_audit_pending",
+      "notes": "Original 28-page PDF preserved. GitHub CI 32-page synchronized PDF SHA256 3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882; actual artifact 12753002653 downloaded, CRC/SHA/75 originals and links verified; R8 IN_PROGRESS, not PASS. 17 concepts, 30 practice MCQs (8 revised), six mains, zero academic approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-2-3.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/4-2-3-cycle42-bounded-source-objective-and-local-candidate-qa-2026-10-27.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/4-2-3-cycle42-actual-downloaded-artifact-qa-2026-10-27.json"
     },
     {
       "id": "4-2-4",
@@ -934,15 +934,15 @@
   "next_sequential_topic": null,
   "next_new_topic": null,
   "latest_verified_publication": {
-    "topic_id": "4-2-1",
+    "topic_id": "4-2-3",
     "date": "2026-10-27",
-    "publication_status": "github_CI_render_and_downloaded_artifact_integrity_verified_not_academic_approval",
+    "publication_status": "github_ci_pdf_and_downloaded_artifact_integrity_verified_not_academic_approval",
     "academic_status": "not_approved",
     "published_pdf_pairs": 75,
     "html_slots": 75,
-    "publication_commit": "15244bafddd635ec2f6d686a47a1ca3960d6eaaf",
-    "packaging_run_id": 40535641217,
-    "artifact_id": 12747978502,
+    "publication_commit": "bea7801ddec6284852bdd97e8e46361cc78f21a2",
+    "packaging_run_id": 40546670994,
+    "artifact_id": 12753002653,
     "pages_run_id": 40204448553,
     "unique_archive_entries": 1620,
     "independent_live_browser_status": "unverified",
@@ -951,8 +951,8 @@
     "cycle33_artifact_sha256": "566e6b961500c1b0ff82d9178f0009956cd57c4e5560bda53ee77eaaded534f7",
     "cycle33_qa_evidence": "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-actual-downloaded-artifact-qa-2026-10-27.json",
     "academic_approval": 0,
-    "artifact_sha256": "7b0d679a41059825915d062a34f7d7a6146bf11eaab0455ad987c9f994fc1692",
-    "qa_evidence": "project-control/academic-readiness/4-2-1-cycle41-actual-downloaded-artifact-qa-2026-10-27.json"
+    "artifact_sha256": "7fe6206b00bd8e9733beeb1b9e5a5c001ac7d0fd934dc7fd025104406e863512",
+    "qa_evidence": "project-control/academic-readiness/4-2-3-cycle42-actual-downloaded-artifact-qa-2026-10-27.json"
   },
   "latest_quality_repair": {
     "topic_id": "2-1-1",
@@ -1067,6 +1067,6 @@
     "last_assessed": "4-2-4",
     "evidence": "project-control/academic-readiness/4-2-4-cycle42-first-direct-source-and-objective-assessment-2026-10-27.json"
   },
-  "last_readiness_update": "27 Oct Cycle42: Topic 4-2-3 source repair and CI PDF rendered, downloaded post-edit artifact QA pending; Topic 4-2-4 first assessed. Status 7/24/44; zero ready/approved.",
+  "last_readiness_update": "27 Oct Cycle42: Topic 4-2-3 CI 32-page PDF and actual artifact 12753002653 independently verified; Topic 4-2-4 first assessed. Status 7/24/44, 10 R1 PASS, zero ready/approved.",
   "last_readiness_reconciliation": "Exactly 75 original topics; 7 IN_PROGRESS, 24 ASSESSED_REBUILD_REQUIRED, 44 NOT_ASSESSED; 10 R1 PASS; zero fully R1-R8 ready and zero independent approvals."
 }
