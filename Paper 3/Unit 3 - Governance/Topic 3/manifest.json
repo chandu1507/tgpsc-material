@@ -20,24 +20,9 @@
     217,
     210
   ],
-  "major_concept_chapters": 14,
-  "concept_chapter_words": [
-    623,
-    610,
-    554,
-    582,
-    574,
-    574,
-    532,
-    532,
-    535,
-    558,
-    496,
-    460,
-    519,
-    427
-  ],
-  "manuscript_whitespace_words": 13381,
+  "major_concept_chapters": 0,
+  "concept_chapter_words": [],
+  "manuscript_whitespace_words": 14236,
   "pdf_pages": 37,
   "source_register_entries": 25,
   "diagrams": 2,
@@ -49,10 +34,10 @@
     "complete-notes.pdf": "d7ea1aca5e13e1d71283bb58d0de064e047064f03a6a60b26eb1501395d5bcfc",
     "index.html": "eee04eb0a8a65887bab16b9fd17450e7b3a27d45d70fbf2e2e8f5491f48da4c5",
     "source/build_diagrams.py": "8c4929026ff9826bc086a8349f3601e099d52781ece922af5170731004e3e7a4",
-    "source/build_topic.py": "99705ab291ec5a6316a321dec853089dfb91a788e5e74a011ac8f3688488da62",
+    "source/build_topic.py": "e0c4a0fcc4f944137a971b2bf7f28a49a3a9fd8a95b7607a5845e618ec132c2f",
     "source/complete-notes.md": "af8d4e5dbfc6549898a13799e002814c39360e66e858a435edf26e54870d3773",
     "source/detailed-notes.md": "68169f8400425b4f0e77ee1f54329f263b7749a0a8305137d58503c34cd89b63",
-    "source/integrated-student-edition-2026-10-27.pdf": "df09759bac568900fea135b89783483843adbfc5ffba4e4f01473ae3f94e3e87",
+    "source/integrated-student-edition-2026-10-27.pdf": "2cb424bc397ebbed50abcf132ff072177888f640b8860446d943bfeb535ee7e9",
     "source/mains-model-answers.md": "3808767d25bcede81aaef404d019cb450c072e5dc2806e8500a9d19c87bc3a0f",
     "source/original-mcqs.md": "5b960fb4dfbfcb51960fd7fb06ffe3bb6e982568bb99e134f50621c1e7d293e4",
     "source/quick-revision.md": "c26e8d6706b0f4628a31103710e0fe79d0da3d5fd05f622c16d243eea2f84633",
@@ -64,14 +49,15 @@
   },
   "academic_status": "ASSESSED_REBUILD_REQUIRED; partial author-side checks; independent approval zero",
   "historical_creation_inventory": {
-    "previous_indicated_drafts": 27,
-    "indicated_drafts_after_run": 28,
-    "indicated_remaining_after_run": 47
+    "previous_indicated_drafts": null,
+    "indicated_drafts_after_run": null,
+    "indicated_remaining_after_run": null
   },
   "current_topic_inventory_total": 75,
   "integrated_student_pdf": {
     "path": "source/integrated-student-edition-2026-10-27.pdf",
-    "sha256": "df09759bac568900fea135b89783483843adbfc5ffba4e4f01473ae3f94e3e87",
+    "sha256": "2cb424bc397ebbed50abcf132ff072177888f640b8860446d943bfeb535ee7e9",
     "legacy_pdf_preserved": true
-  }
+  },
+  "legacy_pdf_pages": 37
 }
