@@ -35,6 +35,15 @@
 | S20 | UNFCCC Paris Agreement: https://unfccc.int/process-and-meetings/the-paris-agreement | Climate governance and NDC context. |
 | S21 | Central Pollution Control Board: https://cpcb.nic.in/ | Technical and regulatory institution; site-specific values not invented. |
 
+## Cycle44 direct-source checks and bounded corrections — 28 October 2026
+
+- **India Code, Environment (Protection) Act 1986, Act 29 of 1986:** official legislation listing corroborates Act identity and commencement; section 2(a) relational definition also checked against accessible consolidated legal text. Source: https://www.indiacode.nic.in/indiacode/handle/123456789/1876 . The complete current amending history was not audited.
+- **Government of India, Indian Economic Service / Arthapedia:** official explainer identifies the EIA Notification 2006 and the prior environmental-clearance mechanism for specified categories. Source: https://ies.gov.in/arthapedia/concept/environment-impact-assessment-eia-india . Current sector-specific exemptions and amendments require separate primary Gazette checks.
+- **Telangana government, Sangareddy District Pollution Control Board page:** directly identifies distinct CFE and CFO approvals and their processing through TGiPASS/OCMMS. Source: https://sangareddy.telangana.gov.in/pollution-control-board/ . This supports the *distinction*, not a claim that every project must hold both.
+- **CPCB central Solid Waste Management portal:** directly states notification on **27 January 2026**, effect from **1 April 2026**, and four-stream source segregation. Source: https://swmp.cpcb.gov.in/hi . Administrative portal descriptions are not measured municipal compliance.
+- **UNFCCC, India's submitted NDC 2031–2035, page 10 (PDF page index 9):** directly confirms 47% GDP-emissions-intensity reduction relative to 2005, about 60% cumulative installed electric-power capacity from non-fossil sources and a 3.5–4.0 GtCO2e forest/tree sink by 2035. Source: https://www.unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf . These are targets, not observed outcomes; absolute emissions are distinct from emissions intensity.
+- **Original quantitative teaching exercise:** three hypothetical factories × 2 MLD × 50 mg/L = **300 kg/day**; improved 20 mg/L case = **120 kg/day**. The illustrative 180 kg/day catchment budget is *invented for instruction*, not an official standard. MCQs Q14/Q23/Q29 revised in place; all 30 keys and 120 distractors still need independent verification.
+
 ## Provenance and quality gaps
 
 **Official MCQ PYQs:** No original TGPSC question paper plus question number was authenticated for this exact chapter. Therefore **zero official MCQ PYQs** are reproduced. The 30 MCQs are explicitly original practice.

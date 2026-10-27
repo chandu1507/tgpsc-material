@@ -21,6 +21,3 @@
 **Current, dated facts.** Solid Waste Management Rules 2026 were notified 27 January 2026 and commenced 1 April 2026, replacing the 2016 general SWM rules (with savings for prior actions). India's April 2026 NDC for 2031–35 targets 47% lower GDP emissions intensity than 2005, about 60% non-fossil *installed electric capacity* and a 3.5–4.0 billion-tonne CO2e forest/tree carbon sink by 2035. These are targets, not achieved 2026 values; do not mistake installed capacity for electricity generated.
 
 **Mains evaluation frame.** Define the conflict → identify the affected ecological service and vulnerable groups → cite law/institution → compare at least two alternatives → choose a combination of enforceable standards, transparent participation and cost-effective incentives → propose measurable monitoring → conclude with intergenerational equity. The best answer avoids both 'all industry is harmful' and 'environmental clearance is a formality'.
-
----
-

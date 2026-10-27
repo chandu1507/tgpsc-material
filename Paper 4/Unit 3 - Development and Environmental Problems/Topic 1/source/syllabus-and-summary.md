@@ -14,8 +14,8 @@ The published Group I Paper IV Unit III Topic 1 wording is: **“Environment vs 
 | Environment versus development | §§4–6 | Externalities, sustainability, equity, trade-offs, appraisal |
 | Environmentalism | §§7–8 | Intellectual history, ethics, movements, participation |
 | Environmental protection policy | §§9–12 | Constitution, NEP 2006, laws, EIA, institutions |
-| Environmental policy instruments | §§13–16 | Command-control, economic, information, rights, governance |
-| Telangana applications | §§4, 8, 11, 15–16 | TGPCB, industrial consent, Musi, urban forests, waste |
+| Environmental policy instruments | §§13–17 | Command-control, economic, information, rights, governance |
+| Telangana applications | §§4, 8, 11, 15–17 | TGPCB, industrial consent, Musi, urban forests, waste |
 
 ## Topic summary
 
@@ -23,7 +23,4 @@ The environment is a connected system of land, air, water, living organisms, peo
 
 ## How to use this chapter
 
-Begin with the standalone revision, study the sixteen concept chapters, inspect the three original diagrams and the instrument comparison, then answer the thirty original MCQs. Write six mains answers under the question-specific blueprints. Dates in the current-affairs register are part of the facts; policy targets are not measured outcomes. All source URLs are collected at the end for verification, not inserted as distracting source page numbers.
-
----
-
+Begin with the standalone revision, study the seventeen concept chapters, inspect the three original diagrams and the instrument comparison, then answer the thirty original MCQs. Write six mains answers under the question-specific blueprints. Dates in the current-affairs register are part of the facts; policy targets are not measured outcomes. All source URLs are collected at the end for verification, not inserted as distracting source page numbers.

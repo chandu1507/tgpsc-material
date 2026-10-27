@@ -11,3 +11,7 @@
 ![Clearance and compliance](../visuals/clearance-pathway.png)
 
 **Diagram 3:** Alternatives and impact appraisal precede the decision; consent, operation and monitoring are distinct ongoing obligations.
+
+**Cycle44 original teaching diagram — cumulative effluent load (hypothetical only):**
+
+![Hypothetical three-factory cumulative load calculation](../visuals/cumulative-load-laboratory.png)

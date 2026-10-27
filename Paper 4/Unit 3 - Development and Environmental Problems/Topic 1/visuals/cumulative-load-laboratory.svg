@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="320" viewBox="0 0 920 320">
+<rect width="920" height="320" rx="18" fill="#f4f8fc"/>
+<text x="28" y="40" font-family="DejaVu Sans,Arial" font-size="22" font-weight="bold" fill="#18344f">Cumulative effluent load — hypothetical teaching example</text>
+<text x="28" y="75" font-family="DejaVu Sans,Arial" font-size="17" fill="#18344f">Each factory: 2 MLD × 50 mg/L = 100 kg/day</text>
+<g fill="#e2eef7" stroke="#3576a1" stroke-width="2">
+<rect x="30" y="100" width="175" height="65" rx="10"/><rect x="230" y="100" width="175" height="65" rx="10"/><rect x="430" y="100" width="175" height="65" rx="10"/>
+</g>
+<g font-family="DejaVu Sans,Arial" font-size="18" fill="#18344f" text-anchor="middle">
+<text x="117" y="128">Factory A</text><text x="117" y="152">100 kg/day</text>
+<text x="317" y="128">Factory B</text><text x="317" y="152">100 kg/day</text>
+<text x="517" y="128">Factory C</text><text x="517" y="152">100 kg/day</text>
+</g>
+<path d="M 615 132 L 670 132" stroke="#3576a1" stroke-width="4"/>
+<polygon points="670,132 658,124 658,140" fill="#3576a1"/>
+<rect x="686" y="101" width="202" height="66" rx="10" fill="#fce4e4" stroke="#bd4747" stroke-width="2"/>
+<text x="787" y="127" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="18" fill="#8b2525">Combined load</text>
+<text x="787" y="151" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="18" font-weight="bold" fill="#8b2525">300 kg/day</text>
+<text x="30" y="208" font-family="DejaVu Sans,Arial" font-size="17" fill="#18344f">Illustrative additional-load budget: 180 kg/day → exceedance: 120 kg/day</text>
+<text x="30" y="243" font-family="DejaVu Sans,Arial" font-size="17" fill="#176c4c">At 20 mg/L each (same flow): combined load = 120 kg/day</text>
+<text x="30" y="287" font-family="DejaVu Sans,Arial" font-size="14" fill="#4a596a">Not actual discharge monitoring, consent limits or official watershed capacity.</text>
+</svg>
