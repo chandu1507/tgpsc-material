@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 61,
+  "not_assessed_count": 60,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 6 ASSESSED_REBUILD_REQUIRED (3-1-1 through 3-1-5 and 3-2-1), 62 NOT_ASSESSED; zero fully R1–R8 ready and zero independent approvals.",
+  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED; zero fully R1-R8 ready and zero independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -98,9 +98,10 @@
     "3-1-4",
     "3-1-5",
     "3-2-1",
-    "3-2-2"
+    "3-2-2",
+    "3-2-3"
   ],
-  "last_readiness_update": "27 Oct Cycle29: Topic 3-2-2 synchronized 28-page PDF and downloaded GitHub artifact verified (1544 files, 75 originals, CRC/hash/links PASS); 7 IN_PROGRESS, 7 ASSESSED_REBUILD_REQUIRED, 61 NOT_ASSESSED, zero academic approvals.",
+  "last_readiness_update": "27 Oct Cycle30: Topic 3-2-3 Article171 and Q13 correction published; 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED. PDF/diagram QA pending.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -111,6 +112,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-3-cycle30-article171-source-audit-2026-10-27.json",
     "project-control/academic-readiness/3-2-2-cycle29-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-2-2-cycle29-primary-claim-and-mcq-dedup-2026-10-27.json",
     "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json",

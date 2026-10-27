@@ -290,9 +290,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "article171_source_critical_revision_published_render_and_academic_review_pending",
+      "notes": "27 Oct Cycle30: ten existing substantial concepts, 25 original MCQs, six mains; Article171 proviso and separate Art164 17-minister ceiling expanded; Q13 revised; five limited key source checks. Original PDF unchanged. All R1-R8 remain incomplete, no R9.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-3.json"
     },
     {

@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-2-3",
+  "baseline_commit": "cede12f8c8fe0d99e09ba69a65df162f5a94ac47",
+  "scope": "Author-side source-critical correction; no independent academic signoff",
+  "claims": [
+    {
+      "id": "Article171",
+      "finding": "One-third ceiling plus forty-member floor; 119 Assembly and 40 Council",
+      "sources": [
+        "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+        "https://www.telangana.gov.in/departments/legislative-affairs/"
+      ]
+    },
+    {
+      "id": "Article164",
+      "finding": "15% of 119 =17.85, maximum 17 ministers, minimum 12",
+      "sources": [
+        "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf"
+      ]
+    },
+    {
+      "id": "PRS2025",
+      "finding": "Telangana Council 11 sitting days in calendar 2025, descriptive only",
+      "sources": [
+        "https://prsindia.org/legislatures/states/annual-review-of-state-laws/annual-review-of-state-laws-2025"
+      ]
+    }
+  ],
+  "source_correlated_mcq_keys": [
+    5,
+    12,
+    13,
+    14,
+    23
+  ],
+  "total_mcqs": 25,
+  "mains": 6,
+  "original_pdf_sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24",
+  "all_r1_r8_ready": false,
+  "independent_approvals": 0,
+  "unverified": [
+    "fresh official TGPSC R1",
+    "complete legal claim audit",
+    "25 keys and all distractors independently",
+    "six mains",
+    "diagrams",
+    "synchronized PDF",
+    "browser accessibility"
+  ]
+}

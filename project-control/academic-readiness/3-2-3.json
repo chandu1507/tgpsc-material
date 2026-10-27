@@ -1,8 +1,8 @@
 {
   "topic_id": "3-2-3",
   "title": "System of Government: Parliament, Union and State Executives and Legislatures",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -14,20 +14,44 @@
     "md_files": 9,
     "complete_notes_words": 14306,
     "detailed_notes_words": 8740,
-    "supplement_md_count": 0
+    "supplement_md_count": 0,
+    "major_concepts": 10,
+    "concept_word_counts_before": [
+      999,
+      1034,
+      867,
+      877,
+      762,
+      887,
+      790,
+      817,
+      858,
+      741
+    ],
+    "original_mcqs": 25,
+    "structured_mains": 6,
+    "mains_author_side_body_words": [
+      227,
+      230,
+      224,
+      218,
+      219,
+      230
+    ],
+    "original_pdf_sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24"
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "27 Oct Cycle30: actual 10 concepts, 25 original MCQs, six mains inspected. Added substantive Article171 forty-member minimum proviso vs one-third Council ceiling and separate Art164 ministry 17 maximum; revised Q13 in detailed notes, integrated master and offline HTML; five limited author-side source correspondences Q5/Q12/Q13/Q14/Q23. No independent distractor, mains, R1, accessibility or PDF synchronization certification.",
+  "next_action": "Add accurate original diagrams, produce synchronized PDF via guarded CI, download actual artifact, verify 75 originals and links, complete independent academic review.",
   "external_reviewer": null,
   "student_accepted": false
 }
