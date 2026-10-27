@@ -28,16 +28,16 @@
       "bytes": 365964
     },
     "index.html": {
-      "sha256": "a3a367a9132fc3425a377948683fe6cff6681e95212dcc4d0f3fe1e4ef81c915",
-      "bytes": 109875
+      "sha256": "3a4457341338fc644006a8cc3b32308956ade06fcd787ba3715aa24544e54a8f",
+      "bytes": 109902
     },
     "source/answer-blueprints.md": {
       "sha256": "41366b92a40b1e7f8a44bf343ed073c499e77cacbb3c737e1284a23c5f82c3f7",
       "bytes": 1265
     },
     "source/complete-notes.md": {
-      "sha256": "022940bc0862d427697b7fa6ac7655e9a0899fab4a39915cacc766fe8d58df7a",
-      "bytes": 97391
+      "sha256": "c50642b7021de566cb61c398bacc2967ee31f153580a5e936241ca911ba8a2e0",
+      "bytes": 97417
     },
     "source/core.md": {
       "sha256": "206a1977b6c8faa6f213c41af4591df00dd13131bba3087aa884d91c55f20c93",
@@ -56,8 +56,8 @@
       "bytes": 3351
     },
     "source/sources-and-audit.md": {
-      "sha256": "5f5f222e279d1bd013d4f631e8f39290c1be656eb1c0623299a2a0e143cc252f",
-      "bytes": 8417
+      "sha256": "12299147a6a3ba46299a0af52e1e159bfd46f07ae1628efcfa77f110314aeb68",
+      "bytes": 8443
     },
     "source/summary.md": {
       "sha256": "a258cfe90416df5e93fd81a41595fe471d933bb62de9e496d2ebc2ed45fca688",
@@ -100,19 +100,19 @@
       "bytes": 4482
     },
     "QA-REPORT.md": {
-      "sha256": "f63de2021a414e47fa53bf3c573c2e4eaec2ffca6a896401d3e619d5015524d2",
+      "sha256": "51733ef297d5601c33090ccec2a1183bf101da48a694ee549a7b7a6329d95a13",
       "bytes": 930
     },
     "source/integrated-student-edition-cycle48.pdf": {
-      "sha256": "5d6576bbe038f78c71704b3b66ccf871c9681b5d29adbc1de227395c3287eeac",
-      "bytes": 345819
+      "sha256": "1f70a28731601acd4a43427ca6aa2f33e2b3917790dde65df6fbd61764cf606c",
+      "bytes": 345840
     }
   },
   "detailed_sections": 18,
   "diagram_count": 3,
   "original_mcqs": 30,
   "integrated_pdf_pages": 31,
-  "integrated_pdf_sha256": "5d6576bbe038f78c71704b3b66ccf871c9681b5d29adbc1de227395c3287eeac",
+  "integrated_pdf_sha256": "1f70a28731601acd4a43427ca6aa2f33e2b3917790dde65df6fbd61764cf606c",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
   "academic_approval": "not_approved"
 }
