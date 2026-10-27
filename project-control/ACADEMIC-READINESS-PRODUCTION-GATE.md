@@ -1,5 +1,16 @@
 # TGPSC Group I — Academic Readiness Production Gate
 
+## Cycle48 Topic 4-3-4 substantive expansion and Topic 4-3-5 first assessment — 28 October 2026
+
+**Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 30 ASSESSED_REBUILD_REQUIRED, 38 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready; ZERO independent academic approvals.**
+
+**Topic 4-3-4:** Preserved original 23-page PDF SHA256 `1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159`. Expanded concepts 10 (RDF thermal vs electrical energy and emissions) and 17 (municipal waste service dashboard with separate generation, collection, segregation and recovery denominators), each using explicitly hypothetical calculations. 18 concepts >=300 words. Original 30 MCQs and six mains retained; CPCB 2026 portal provides bounded MCQ2/3 key-level correspondence, not full distractor verification. Guarded deterministic renderer and offline publisher introduced; **post-edit actual GitHub artifact verification not yet claimed at this checkpoint**. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, R9 NOT_STARTED. Evidence: `project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json`.
+
+**Topic 4-3-5:** First direct assessment of original 25-page PDF SHA256 `7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7`. 16 concepts all >=300 words, 30 original MCQs A3/B24/C3/D0, six mains body-only 215/206/215/207/206/214, three diagrams. Directly inspected the UNFCCC April 2026 India NDC (2031–35) PDF: 47% GDP emissions-intensity reduction by 2035 relative to 2005, about 60% non-fossil installed electric capacity, 3.5–4.0 billion tonnes CO2-eq forest/tree carbon sink. These are **future commitments**, not measured achievements. Only MCQ20/21 keys have bounded correspondence; 28 other keys and ALL distractors, six mains claims, diagrams, syllabus and browser QA remain pending. Evidence: `project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json`.
+
+No official PYQ invention, 76th topic, false R1/R8 PASS or academic approval.
+
+
 ## Cycle47 Topic 4-3-3 actual downloaded artifact and Topic 4-3-4 first direct assessment — 28 October 2026
 
 **Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 29 ASSESSED_REBUILD_REQUIRED, 39 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready; ZERO independent academic approvals.**
