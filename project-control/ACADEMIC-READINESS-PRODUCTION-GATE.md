@@ -1,5 +1,15 @@
 # TGPSC Group I — Academic Readiness Production Gate
 
+## Cycle47 Topic 4-3-3 actual downloaded artifact and Topic 4-3-4 first direct assessment — 28 October 2026
+
+**Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 29 ASSESSED_REBUILD_REQUIRED, 39 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready; ZERO independent academic approvals.**
+
+**Topic 4-3-3:** Concepts 8 and 9 expanded with original hypothetical phosphorus-load and population-accounting examples, in one synchronized editable master and CI-rendered 29-page PDF. Renderer run 40591249588 SUCCESS after correcting an initial mains-regex syntax failure. Post-render packaging run 40591405374 SUCCESS, artifact 12774925781 ACTUALLY DOWNLOADED: outer SHA256 b5f5d87e022ccc76431d3446b3f762e3a4f738fddf022742557779b5d5c72f5d matches GitHub digest; outer/inner CRC PASS, 1658 files, exactly 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 430 local file links and 1137 DOM fragments zero broken, 63 SPA routes excluded, 22/22 manifest hashes PASS. Integrated PDF SHA256 46abe32cf6a0be20fe7e435f4dbd89f295741a5cc0f46b66a3e0e2edc7bf7c72, 29 pages, 3 diagrams, zero blank/boundary defects; all pages inspected as contact sheet. **R8 IN_PROGRESS, not PASS**; no direct browser accessibility or independent 30-key/120-option/six-mains/diagram audit. Evidence: `project-control/academic-readiness/4-3-3-cycle47-actual-downloaded-artifact-qa-2026-10-28.json`.
+
+**Topic 4-3-4:** First direct assessment of preserved original 23-page PDF SHA256 1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159. 18 concepts, concepts 10 (288 words) and 17 (298 words) shallow; 30 original practice MCQs A2/B26/C2/D0; six mains body-only 220/219/207/214/216/209 words; three diagrams. MCQ2/3 have bounded direct key correspondence with CPCB's 2026 SWM portal, **not** a full distractor audit. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, R9 NOT_STARTED. Evidence: `project-control/academic-readiness/4-3-4-cycle47-first-direct-assessment-2026-10-28.json`.
+
+No official PYQ invention, 76th topic, false R1/R8 PASS or independent academic approval.
+
 ## Cycle46 Topic 4-3-3 first direct assessment and Topic 4-3-2 bounded source correction — 28 October 2026
 
 **Controlling counts: exactly 75 existing original topics/PDFs; 7 IN_PROGRESS, 28 ASSESSED_REBUILD_REQUIRED, 40 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready; ZERO independent academic approvals.**

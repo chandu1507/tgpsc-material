@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-28",
+  "cycle": 47,
+  "topic_id": "4-3-4",
+  "scope": "FIRST_DIRECT_STRUCTURAL_AND_TWO_BOUNDED_PRIMARY_SOURCE_KEY_CORRESPONDENCES",
+  "original_pdf_pages": 23,
+  "original_pdf_sha256": "1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159",
+  "original_preserved": true,
+  "concepts": 18,
+  "concept_word_counts": [
+    459,
+    419,
+    438,
+    381,
+    370,
+    336,
+    348,
+    311,
+    311,
+    288,
+    344,
+    314,
+    341,
+    321,
+    338,
+    307,
+    298,
+    329
+  ],
+  "concepts_under_300": [
+    10,
+    17
+  ],
+  "original_practice_mcqs": 30,
+  "options": 120,
+  "key_distribution": {
+    "A": 2,
+    "B": 26,
+    "C": 2,
+    "D": 0
+  },
+  "mains_body_only_word_counts": [
+    220,
+    219,
+    207,
+    214,
+    216,
+    209
+  ],
+  "original_diagram_png_count": 3,
+  "bounded_correspondences": [
+    {
+      "mcq": 2,
+      "key": "B",
+      "claim": "2026 SWM rules require wet/dry/sanitary/special-care source segregation from 1 April 2026",
+      "source": "https://swm.cpcb.gov.in/",
+      "status": "DIRECT_CPCB_KEY_CORRESPONDENCE_ONLY"
+    },
+    {
+      "mcq": 3,
+      "key": "B",
+      "claim": "Bulk waste generator qualifying floor area at least 20,000 m² is an alternative to other thresholds",
+      "source": "https://swmp.cpcb.gov.in/hi",
+      "status": "DIRECT_CPCB_KEY_CORRESPONDENCE_ONLY"
+    }
+  ],
+  "full_mcq_key_audit": false,
+  "full_distractor_audit": false,
+  "full_mains_claim_audit": false,
+  "diagram_accuracy_certified": false,
+  "official_2024_syllabus_directly_reauthenticated": false,
+  "independent_academic_approvals": 0,
+  "R1": "IN_PROGRESS",
+  "R2": "IN_PROGRESS",
+  "R3": "IN_PROGRESS",
+  "R4": "IN_PROGRESS",
+  "R5": "IN_PROGRESS",
+  "R6": "IN_PROGRESS",
+  "R7": "BLOCKED",
+  "R8": "BLOCKED",
+  "R9": "NOT_STARTED"
+}

@@ -13,7 +13,11 @@ assert len({t['id'] for t in cp['topics']}) == 75
 assert len(ix['paths']) == len(set(ix['paths'])) == 75
 assert len(list(Path('project-control/academic-readiness').glob('[2-6]-[1-3]-[1-5].json'))) == 75
 counts = {s:sum(t['readiness_status']==s for t in cp['topics']) for s in ['IN_PROGRESS','ASSESSED_REBUILD_REQUIRED','NOT_ASSESSED']}
-assert counts == {'IN_PROGRESS':7,'ASSESSED_REBUILD_REQUIRED':28,'NOT_ASSESSED':40}, counts
+assert sum(counts.values()) == 75, counts
+assert counts['IN_PROGRESS'] == len(ix['pilot_in_progress']), counts
+assert counts['ASSESSED_REBUILD_REQUIRED'] == len(ix['assessed_rebuild_required']), counts
+assert counts['NOT_ASSESSED'] == ix['not_assessed_count'], counts
+assert set(ix['assessed_rebuild_required']) == {t['id'] for t in cp['topics'] if t['readiness_status']=='ASSESSED_REBUILD_REQUIRED'}
 assert cp['academically_approved'] == ix['independently_academically_approved_count'] == 0
 assert all((Path(t['path'])/'complete-notes.pdf').is_file() for t in cp['topics'])
 original = hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()
