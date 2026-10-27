@@ -17,7 +17,7 @@
   "original_mcqs": 25,
   "original_mains_models": 6,
   "verified_official_pyqs": 0,
-  "words": 11662,
+  "words": 11700,
   "files": {
     "README.md": {
       "sha256": "478077c1fa5719b2028c944a4e566ad8b6e0144d362eac216fe490c0085aa381",
@@ -28,24 +28,24 @@
       "bytes": 235532
     },
     "index.html": {
-      "sha256": "27b8eae7806d7ccc2c69d2973850363993676d2a44e7816e5257cca462e5fb7c",
-      "bytes": 93168
+      "sha256": "89990b191ead88c852f4cf837327565e6239bbbfb36e03a40105ee57ff84b4c3",
+      "bytes": 93502
     },
     "source/answer-blueprints.md": {
       "sha256": "a53f2ee012d5ccafc5995d14a4f49b28902c055a5d493c6f03c6350204753182",
       "bytes": 1565
     },
     "source/complete-notes.md": {
-      "sha256": "1d9075302d712852624e9a0ca11692dfca5b20babe7cb4719cd62ef27d88f707",
-      "bytes": 84882
+      "sha256": "e61bff4b1e0eadbc6fb7bdf8bb7e12a939914908f1325d977cf85c95ba0c5d90",
+      "bytes": 85192
     },
     "source/detailed-notes.md": {
       "sha256": "d20a3e8074db2258f66b488682c431968249682ad89157031a2575a51019ab7d",
       "bytes": 48681
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "0eac4a98fc391a10a567f003a27ed8df41edcab28f4e3262dd596a3745de4ecf",
-      "bytes": 251594
+      "sha256": "9572c19695eede6369ac5a8c8bf582ec0694ffa6d51a1f1ff4b2b5c74f2e97af",
+      "bytes": 252077
     },
     "source/mains-model-answers.md": {
       "sha256": "46f3de9f96d025d5db24a3ec8a6971a89b6c3b387d7ffd4a3aaddfe26d8d4df3",
@@ -60,12 +60,12 @@
       "bytes": 4556
     },
     "source/sources-and-audit.md": {
-      "sha256": "438cfd8fef5f3a9dc7a48206f1d37ae22d5041c68ff66eb0613aae6e934502cc",
-      "bytes": 5901
+      "sha256": "8869a512c1ab7c021366fd6627750cd87247b8c163d4c414197d29c26796b2f0",
+      "bytes": 6145
     },
     "source/syllabus-and-summary.md": {
-      "sha256": "8b5b1081a0c3f17cf9df07eeb72cbe1191c3080b1bc8aaa1316f8a439f0219d4",
-      "bytes": 2262
+      "sha256": "735508a2b3c30a4006665628b8123056e3a650eb66fd0e9f5f685695c86fccb4",
+      "bytes": 2328
     },
     "source/visual-learning.md": {
       "sha256": "1a3078015efd6236e2b608d1bef3c261d2912b52a469b745932b890d4063245a",
