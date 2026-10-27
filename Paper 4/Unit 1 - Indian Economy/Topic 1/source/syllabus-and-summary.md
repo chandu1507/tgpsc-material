@@ -2,7 +2,7 @@
 
 **TGPSC Group I | Paper IV: Economy and Development | Unit I: Indian Economy and Development | Topic 1: National Income.** Draft prepared 23 October 2026. **Academic status: NOT APPROVED.**
 
-**Notification 02/2024 syllabus wording:** “National Income -Concepts and Measurement of National Income- Nominal and Real Income; Structure and growth of Indian economy – Sectoral trends in National Income of India”. This line is cross-checked against published reproductions of Annexure-II. Direct full-text retrieval from the original commission notification was unavailable in this run; see source audit. [S10]
+**Notification 02/2024 syllabus wording:** “National Income -Concepts and Measurement of National Income- Nominal and Real Income; Structure and growth of Indian economy – Sectoral trends in National Income of India”. This line was directly checked against the Commission's original Notification No. 02/2024, Annexure-II, printed page 31 (PDF page index 30), on 27 October 2026. This establishes syllabus correspondence (R1) only; it does not establish academic correctness. [S10]
 
 | Exact syllabus component | Sections | What to be able to explain |
 |---|---|---|
