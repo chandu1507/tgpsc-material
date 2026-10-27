@@ -51,10 +51,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle31 objective audit of actual archived and GitHub source: 11 concepts 448–664 words; 25 explained four-option original MCQs; six mains directly recounted 200/209/201/239/248/214 after source-based expansion of Q4 and Q5; two original SVGs embedded in canonical Markdown. Original 32-page PDF preserved SHA256 44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15. Limited primary-source correspondence: Constitution Article 243ZE (MEA), Inter-State River Water Disputes Act sections 6 and 11 (India Code), Ministry of Jal Shakti historical KRMB/GRMB report. Full independent MCQ/distractor/mains audits, R1 direct notification, qualitative deduplication, diagram correctness and synchronized PDF/accessibility remain pending. ZERO approvals.",
-  "next_action": "Render synchronized integrated PDF and verify actual GitHub Actions artifact, then independent R1–R8 checks of all questions, sources, diagrams, accessible public portal.",
+  "evidence": "Cycle31 objective audit of actual archived and GitHub source: 11 concepts 448–664 words; 25 explained four-option original MCQs; six mains directly recounted 200/209/201/239/248/214 after source-based expansion of Q4 and Q5; two original SVGs embedded in canonical Markdown. Original 32-page PDF preserved SHA256 44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15. Limited primary-source correspondence: Constitution Article 243ZE (MEA), Inter-State River Water Disputes Act sections 6 and 11 (India Code), Ministry of Jal Shakti historical KRMB/GRMB report. Full independent MCQ/distractor/mains audits, R1 direct notification, qualitative deduplication, diagram correctness and synchronized PDF/accessibility remain pending. ZERO approvals. Cycle31 GitHub Actions synchronized integrated PDF for Topic 3-2-5 actually packaged and independently downloaded from run 40458404442 artifact 12712828105; outer/inner CRC, original 75 PDF hashes, static links and PDF text boundaries checked. Full browser accessibility not certified; R8 not PASS.",
+  "next_action": "Independent academic claim and MCQ audits, direct official syllabus, diagram factual checks, public browser accessibility; preserve original 75 PDFs.",
   "external_reviewer": null,
   "student_accepted": false,
   "last_updated_cycle": 31
