@@ -472,10 +472,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending_independent_academic_audit",
-      "notes": "Expanded original 28-page PDF, 13,401-word Markdown, 30 explained MCQs, six 200–250-word mains models, three diagrams; original syllabus PDF, historical Jagir full text, and district-level outcomes require direct audit.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/4-2-3.json"
+      "production_review": "cycle42_bounded_assessment_source_repair_branch_pending_ci_pdf",
+      "notes": "Original 28-page PDF preserved. Cycle42: 17 explanatory concepts (none under 300 words), 30 original practice MCQs (8 revised; A4/B13/C7/D6), six 200+ body-word mains, 3 diagrams, 530-word hypothetical land-outcomes funnel; local 31-page integrated candidate. Full independent audit and CI publication pending.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-3.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/4-2-3-cycle42-bounded-source-objective-and-local-candidate-qa-2026-10-27.json"
     },
     {
       "id": "4-2-4",
@@ -1057,14 +1058,14 @@
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 22,
-    "not_assessed": 46,
+    "assessed_rebuild_required": 23,
+    "not_assessed": 45,
     "verified_R1_pass": 10,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "4-2-2",
-    "evidence": "project-control/academic-readiness/4-2-2-cycle41-first-source-and-objective-assessment-2026-10-27.json"
+    "last_assessed": "4-2-3",
+    "evidence": "project-control/academic-readiness/4-2-3-cycle42-bounded-source-objective-and-local-candidate-qa-2026-10-27.json"
   },
-  "last_readiness_update": "27 Oct Cycle41: Topic 4-2-1 canonical source and 31-page PDF remotely integrated; artifact 12747978502 actually downloaded and checked; Topic 4-2-2 first assessed; 7/22/46 statuses, zero fully ready and approved.",
-  "last_readiness_reconciliation": "Exactly 75 original topics; 7 IN_PROGRESS, 22 ASSESSED_REBUILD_REQUIRED, 46 NOT_ASSESSED; 10 R1 PASS; zero fully R1-R8 ready and zero independent approvals."
+  "last_readiness_update": "27 Oct Cycle42: Topic 4-2-3 bounded source and objective assessment with 8 MCQ corrections and one hypothetical outcomes concept; local 31-page candidate, GitHub CI publication pending. Status 7/23/45, zero ready/approved.",
+  "last_readiness_reconciliation": "Exactly 75 original topics; 7 IN_PROGRESS, 23 ASSESSED_REBUILD_REQUIRED, 45 NOT_ASSESSED; 10 R1 PASS; zero fully R1-R8 ready and zero independent approvals."
 }
