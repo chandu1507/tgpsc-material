@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-1-2",
+  "source_pr": "https://github.com/chandu1507/tgpsc-material/pull/5",
+  "renderer_run_id": 40491965831,
+  "renderer_conclusion": "success",
+  "integrated_pdf_pages": 30,
+  "integrated_pdf_sha256": "3bc20012e60012aed9ef8e254b452c1767d481f02a11c2e1795efb05e8bb3b69",
+  "embedded_images": 3,
+  "blank_pages": 0,
+  "text_boundary_violations": 0,
+  "original_pdf_sha256": "c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1",
+  "manifest_hashes": 16,
+  "local_candidate_pages": 28,
+  "local_candidate_sha256": "874f3d4370b2368a693b844333749b353ac58a500ffebfe4a174296c675bb9bf",
+  "difference": "Different rendering environments; CI output is publication authority, not the local candidate",
+  "post_render_packaging_artifact_downloaded": false,
+  "academic_approved": false,
+  "R8": "IN_PROGRESS",
+  "R9": "NOT_STARTED"
+}
