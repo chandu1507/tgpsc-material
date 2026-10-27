@@ -1,8 +1,8 @@
 {
   "topic_id": "4-2-1",
   "title": "Telangana Economy: Hyderabad State, United AP, Growth, Inequality and Poverty",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,64 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle40: direct inspection of source and preserved PDF found 16 concepts all >=300 words, 27 original MCQs with B18/D0 skew and implausible distractors, and mains body-only counts 193/199/212/208/229/183 (three <200). Local candidate ONLY: 17 concepts, 27 MCQs, revised Q16/21/24/27, six mains 235/239/212/208/229/232, three diagrams, 30-page synchronized local PDF SHA256 94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b; original PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Local-only artifact is NOT a GitHub commit, CI run, actual downloaded artifact, or R8 pass. Official NITI MPI table directly checked for 13.18/5.88 and intensity 43.29/40.85; official TGPSC PDF direct retrieval 403; full SEO 2026 24.6 MB inaccessible. Zero academic approvals.",
+  "next_action": "Commit and render coherent candidate through guarded CI; independently download actual post-edit artifact and verify 75 originals, hashes, links, CRC, PDF; inspect full SEO 2026 reference-year table and official syllabus PDF; check all 27 MCQ keys/108 distractors, six mains factual claims, three diagrams, accessibility, expert approval.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7",
+  "cycle40": {
+    "concepts_original": 16,
+    "concepts_local_candidate": 17,
+    "concepts_under_300": 0,
+    "mcqs": 27,
+    "original_mcq_key_distribution": {
+      "A": 4,
+      "B": 18,
+      "C": 5,
+      "D": 0
+    },
+    "candidate_mcq_key_distribution": {
+      "A": 3,
+      "B": 16,
+      "C": 6,
+      "D": 2
+    },
+    "revised_mcqs_local_only": [
+      16,
+      21,
+      24,
+      27
+    ],
+    "mains_pre_edit_body_words": [
+      193,
+      199,
+      212,
+      208,
+      229,
+      183
+    ],
+    "mains_local_candidate_body_words": [
+      235,
+      239,
+      212,
+      208,
+      229,
+      232
+    ],
+    "local_pdf_pages": 30,
+    "local_pdf_sha256": "94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b",
+    "original_pdf_sha256": "5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7",
+    "local_only_not_remote_certified": true,
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  }
 }
