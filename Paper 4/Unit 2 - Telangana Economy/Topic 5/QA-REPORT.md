@@ -28,7 +28,7 @@
     205,
     214
   ],
-  "local_file_links_checked": 4,
+  "local_file_links_checked": 7,
   "broken_file_links": [],
   "broken_fragments": [],
   "spa_routes_excluded": 0,
