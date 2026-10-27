@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle47 first direct assessment: 18 concepts (10 and 17 under300), 30 original practice MCQs A2/B26/C2/D0, six mains body-only 220/219/207/214/216/209, three diagrams; MCQ2/3 limited CPCB 2026 rule key correspondences; all distractors and other 28 keys pending. Original 23-page PDF preserved. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals.",
-  "next_action": "Full independent MCQ key and distractor audit, six mains claim audit, three diagrams, official syllabus, full-resolution browser accessibility; R8 cannot PASS on ZIP integrity alone.",
+  "next_action": "Download post-correction packaging artifact and verify CRC, original 75 hashes, source correction, 31-page PDF, offline links and manifest; then independent academic review.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159",
@@ -69,12 +69,16 @@
     ],
     "all_18_concepts_at_least_300": true,
     "source_correspondences": "CPCB 2026 portal MCQ2/3 key-level only",
-    "integrated_pdf": "CI_RENDERED_31_PAGES_DOWNLOADED_ARTIFACT_QA_PASS_FOR_INTEGRITY",
+    "integrated_pdf": "CORRECTED_CI_RENDER_31_PAGES_ARTIFACT_QA_PENDING",
     "independent_approval": false,
     "evidence": "project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json",
     "ci_render_qa": "project-control/academic-readiness/4-3-4-cycle48-ci-render-qa-2026-10-28.json",
     "actual_downloaded_artifact_qa": "project-control/academic-readiness/4-3-4-cycle48-actual-downloaded-artifact-qa-2026-10-28.json",
     "github_artifact_id": 12777755938,
-    "github_artifact_sha256": "4044f4c4c7988b86056b5b3cbd6cd9bcb3da9e239a43952ba3257d6baf876d78"
+    "github_artifact_sha256": "4044f4c4c7988b86056b5b3cbd6cd9bcb3da9e239a43952ba3257d6baf876d78",
+    "option_denominator_correction": "30 four-option MCQs = 30 keyed answers + 90 distractors (120 total options)",
+    "corrected_pdf_sha256": "1f70a28731601acd4a43427ca6aa2f33e2b3917790dde65df6fbd61764cf606c",
+    "corrected_renderer_run_id": 40598853009,
+    "previous_artifact_qa": "SUPERSEDED_BY_CORRECTED_SOURCE"
   }
 }
