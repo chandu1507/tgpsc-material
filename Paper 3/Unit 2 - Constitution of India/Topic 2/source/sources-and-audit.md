@@ -1,6 +1,6 @@
 ## Authoritative sources and internal checks
 
-**Primary sources verified for this draft (source identifiers appear in the research log; no PDF page-number citations are printed in the notes):**
+**Sources cited or partially corroborated for this draft (source identifiers appear in the research log; no PDF page-number citations are printed in the notes):**
 
 1. **TGPSC Notification 02/2024, 19 February 2024, Annexure II**, Paper III, Section II, Topic 2 — exact wording. https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v
 2. **Legislative Department, Constitution of India, consolidated English edition as on 1 May 2024** — Parts III, IV, IVA, Articles 226 and 300A; verify later amendment changes independently when relevant. https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf
@@ -13,3 +13,7 @@
 9. **Supreme Court official portal** for further authentication of Maneka Gandhi, Minerva Mills, Indra Sawhney, Puttaswamy, Shreya Singhal, Kaushal Kishor and other cases. https://www.sci.gov.in/
 
 **Internal accuracy review:** official syllabus wording checked; citizen/person distinction and Article 12/13 distinction checked; Articles 15(2), 16(4), 21A, 37, 48A, 51A, 226 and 300A distinguished; 2025 Telangana Gazette distinguished from contested BC proposals; original questions labelled as practice only; model-answer word counts validated by script; source links supplied without page-number references in student-facing notes. **Not yet academically approved:** independent law-faculty review, full authenticated judgment-by-judgment ratio check, current notification-specific Telangana recruitment rules, external MCQ psychometric review and official PYQ source verification remain outstanding.
+
+**Source-critical update (27 October 2026).** Q16 and Q24 formerly tested essentially the same forced-labour rule. Q16 now tests Article 24's independent prohibition of hazardous child employment, while Q24 retains Article 23's forced-labour scenario. Q21's digital-welfare example is an analogy to the Supreme Court's 30 April 2025 digital-KYC judgment, not an assertion that the judgment decided an identical welfare-portal dispute. The 25 items remain original practice questions, not independently certified or official PYQs.
+
+10. **Department of Telecommunications, 13 May 2025 implementation letter**, confirming the 30 April 2025 accessible digital KYC judgment and its official PDF URL: https://www.dot.gov.in/static/uploads/2026/03/8ba351ae38e4305f6e53137be1caad2e.pdf
