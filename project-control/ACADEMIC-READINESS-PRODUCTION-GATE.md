@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Cycle35 controlling reconciliation — 27 October 2026
+
+**Exactly 75 existing topics: 7 IN_PROGRESS, 16 ASSESSED_REBUILD_REQUIRED, 52 NOT_ASSESSED. ZERO R1–R8 fully ready and ZERO independent academic approvals.** Paper IV Topic 4-1-1 assessed: 12 substantial concepts, 25 original four-option MCQs, six original mains, three existing diagrams. Added a primary-source arithmetic case from MoSPI's 5 June 2026 FY 2025–26 provisional Statement 1 and corrected its source-register URL. Local integrated PDF candidate has 23 searchable pages, but GitHub CI render and actual artifact download have NOT yet been verified. R1, R7 and R8 remain BLOCKED; R9 NOT_STARTED. Evidence: `project-control/academic-readiness/4-1-1-cycle35-national-accounts-reconciliation-and-objective-audit-2026-10-27.json`.
+
 ## Cycle34 post-render and actual downloaded GitHub artifact verification — 27 October 2026
 
 GitHub Actions renderer generated Topic **3-3-5** 36-page integrated searchable PDF, SHA256 `3d0785bd3facd5e1726b08d8a99d13117e2b7ccd069d978669e36c84347a731d`. Packaging run **40477615167** succeeded; artifact **12721128624** was ACTUALLY DOWNLOADED, digest matched GitHub (`a9b799590ef93979d106fc8f7ef16921d41d723825fb0f80b610a49004ea1ca9`), outer/inner CRC PASS, 1583 files, exactly 75 original PDFs with 75/75 unchanged SHA, 75 readiness JSON, 78 HTML pages, 416 local links and 688 DOM fragments checked with ZERO broken, 64 SPA hash routes excluded, 19/19 chapter manifest hashes matched. PDF has 3 embedded diagram images, 0 blank pages, 0 detected text-boundary violations. These are **publication-integrity checks only**; direct browser usability/accessibility and independent academic review remain unverified. Topic 3-3-5 **R8 IN_PROGRESS**, not PASS. **0 fully R1–R8 ready; 0 independent approvals; R9 NOT_STARTED.** Evidence: `project-control/academic-readiness/3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json`.

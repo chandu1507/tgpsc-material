@@ -17,7 +17,6 @@
 
 **How to study:** Read sections 1–5 to master identities and methods; sections 6–11 to interpret Indian and Telangana sectoral change; section 12 for evaluation. Attempt the MCQs before reading explanations, then use the six 200–250-word models as timed writing practice. All questions are **original practice**; no authenticated official PYQ is asserted.
 
-
 ---
 
 # Detailed textbook notes: National income and India's structural transformation
@@ -79,6 +78,16 @@ If households spend ₹500, government ₹150, gross investment ₹250, exports 
 ### Institutions, strengths and limitations
 
 Production estimates can be weak for rapidly changing digital services and informal enterprises; income estimates can suffer from mixed-income classification; expenditure estimates can struggle with inventories, household consumption surveys and external-trade adjustments. Rather than declaring one approach universally superior, ask which source is timely and complete for a sector. NSO integrates MCA21 company filings, GST data, government budgets, crop estimates, industrial surveys, financial-sector information and enterprise surveys. A district administrator should not assume that a rise in registered GST turnover proves the same increase in real output: inflation, formalisation and changes in compliance also affect receipts. Triangulation across sources is the basis of credible national accounts.
+
+### Worked national-accounts reconciliation: read the 5 June 2026 tables correctly
+
+The National Statistics Office's **5 June 2026 Provisional Estimates (PE) for FY 2025–26** provide a useful test of whether the identities are understood rather than memorised. **All amounts in this paragraph are ₹ crore at constant 2022–23 prices**, taken from *Statement 1* of that dated release. GVA at basic prices is **2,94,91,088** and net taxes on products are **28,20,946**. The bridge is therefore **GDP at market prices = 2,94,91,088 + 28,20,946 = 3,23,12,034**. The product-tax bridge is not another productive sector: it changes the valuation basis from basic to market prices. Do not add net product taxes to GDP a second time. [S05]
+
+The same table reports **GNI = 3,18,65,977**. Hence **net primary income from the rest of the world = GNI − GDP = −4,46,057**. This is an accounting residual derived from the published aggregates, **not** a direct measure of migrant remittances: personal transfers usually belong to secondary income, while GNI adjusts for primary income. The table reports **NNI = 2,74,86,593**; therefore **consumption of fixed capital = GNI − NNI = 43,79,384**. A negative external primary-income balance does not imply that India's domestic production was negative; it means GNI was below GDP in this vintage. [S05]
+
+**Expenditure reconciliation requires care.** The same statement lists consumption, capital formation, exports, imports and a statistical discrepancy. Do not omit changes in stocks or valuables, or assume independently measured expenditure components add to published GDP without a discrepancy. In the constant-price table, the published discrepancy for FY 2025–26 is **3,89,909 crore**. It is a measurement-reconciliation item, not a new physical product or an invitation to adjust an individual sector's output. These numbers are a **June 2026 provisional vintage**; later revisions, including those incorporating updated industrial and price series, must be dated separately. Never combine the June 2026 GVA with a revised August 2026 GDP and describe the difference as product taxes. [S05]
+
+**Exam application.** A 10-mark question may give GVA, product taxes and subsidies and ask for GDP; a 15-mark question may additionally ask why GDP, GNI and NNI differ. Write the identity first, show units and price basis, substitute numbers, explain the economic meaning, and end with the limits of the aggregate for welfare. For sectoral growth questions, distinguish constant-price rates from current-price sector shares before drawing conclusions about jobs or living standards.
 
 ## 4. Nominal versus real income, deflators and inflation
 
@@ -244,7 +253,6 @@ One school argues that growth must precede redistribution because the tax base f
 
 A national-income answer should close with a three-part test. First, **measure correctly**: specify the aggregate, price basis, base year, geography and revision vintage. Second, **interpret cautiously**: distinguish value-added shares from employment, nominal from real, domestic from national and growth from welfare. Third, **apply to policy**: link sectoral change to productive jobs, public services, distribution and ecological resilience. This is more persuasive than reciting a list of abbreviations or claiming that higher GDP by itself proves successful development.
 
-
 ---
 
 # Visual learning and exam tables
@@ -279,7 +287,6 @@ Broad-sector percentages are rounded approximations from the **5 June 2026** MoS
 | Sectoral share vs employment | Value added composition vs worker allocation | Claiming services employ 54% of workers |
 | GSDP vs state budget | Production within state vs fiscal receipts/expenditure | Treating ₹17.82 lakh crore as budget |
 | First/second advance vs provisional | Different data completeness and revision vintages | Mixing 7.6% February and 7.7% June estimates |
-
 
 ---
 
@@ -328,7 +335,6 @@ Telangana's official Socio-Economic Outlook 2026 estimated **FY 2025–26 GSDP �
 10. GDP growth is neither a poverty statistic nor a sustainability indicator.
 
 **Mains answer skeleton:** define aggregate → show formula/measurement → give a dated, price-specific Indian statistic → explain Telangana implication → critically evaluate informality/distribution/ecology → conclude with complementary indicators. **PYQ provenance:** no official question paper and number established for this chapter; all supplied practice is original.
-
 
 ---
 
@@ -439,7 +445,6 @@ A. Nominal turnover  B. Real GVA divided by sectoral employment  C. Headline CPI
 A. The state's annual budget  B. All deposits held in Telangana banks  C. Value of current production within Telangana's economic territory  D. Every resident's disposable income  
 **Answer: C.** GSDP is the state analogue of territorial GDP. It is not government revenue, bank deposits or a direct household-income survey.
 
-
 ---
 
 # Answer blueprints — original practice
@@ -454,7 +459,6 @@ A. The state's annual budget  B. All deposits held in Telangana banks  C. Value 
 | M6 welfare | GDP is production, not well-being | Real output, fiscal capacity, investment | Care, ecology, inequality, informal jobs | Human-development and environmental dashboard |
 
 **Timing guidance:** In a 200-word answer, spend roughly 25–35 words on the introduction, 110–130 on concepts and evidence, 35–45 on critique, and 15–25 on the conclusion. These are flexible targets, not mandatory proportions; question-specific relevance matters more than fixed headings.
-
 
 ---
 
@@ -536,7 +540,6 @@ A. The state's annual budget  B. All deposits held in Telangana banks  C. Value 
 
 **Measures and conclusion.** Pair real per-capita income with employment quality, poverty, learning outcomes, nutrition, district gaps, air and water quality, and fiscal sustainability. Evaluate public investment by service outcomes rather than expenditure alone. GDP is a necessary dashboard instrument, not a sufficient verdict on development.
 
-
 ---
 
 # Primary-source register, dated current affairs and audit
@@ -549,7 +552,7 @@ A. The state's annual budget  B. All deposits held in Telangana banks  C. Value 
 | S02 | MoSPI, new GDP series, 27 February 2026 | https://mospi.gov.in/uploads/latestReleases/latest_release_1772189865181_f040336d-bc57-4aed-b80f-586d9ccb279e_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf — 2022–23 base-year introduction; secondary indexing accessible, direct retrieval intermittently denied |
 | S03 | MoSPI, National Accounts FAQ | https://mospi.gov.in/faq — methodology, GSDP guidance, double deflation, discrepancy and later price-series revisions |
 | S04 | MoSPI, National Accounts Statistics dashboard | https://esankhyiki.mospi.gov.in/ — contemporary GDP releases and statistical indicators |
-| S05 | MoSPI, 5 June 2026 provisional FY 2025–26 GDP estimates | https://www.mospi.gov.in/uploads/latestreleasesfiles/1780656381622-Press%20Note%20on%20GDP%20Estimates%20for%20Q4%202025-26%20and%20PE%20FY%202025-26_F.pdf — 7.7% real growth, ₹346.36 lakh crore nominal GDP, GVA and broad-sector composition |
+| S05 | MoSPI, 5 June 2026 provisional FY 2025–26 GDP estimates | https://www.mospi.gov.in/uploads/latestReleases/latest_release_1780655857536_5ac01869-ca4a-422d-b7a7-57b81da60932_Press_Note_on_GDP_Estimates_for_Q4_2025-26_and_PE_FY_2025-26_F.pdf — 7.7% real growth, ₹346.36 lakh crore nominal GDP, GVA and broad-sector composition |
 | S06 | Government of Telangana, Socio-Economic Outlook 2026 | https://www.telangana.gov.in/wp-content/uploads/2026/08/Socio-Economic-Outlook-2026.pdf — GSDP, sectoral structure, PCI; official file identified but too large for current direct text retrieval |
 | S07 | Invest Telangana, official state investment portal | https://invest.telangana.gov.in/why-telangana/ — state-reported 2025–26 GSDP and per-capita figures |
 | S08 | MoSPI, Periodic Labour Force Survey | https://mospi.gov.in/ — employment comparisons require PLFS rather than inference from GVA shares |
@@ -576,3 +579,5 @@ A. The state's annual budget  B. All deposits held in Telangana banks  C. Value 
 - **National data:** 5 June MoSPI provisional PDF was directly readable. New-series February document was identified through MoSPI indexing, with access restrictions on the full PDF. Subsequent revisions are acknowledged rather than silently merged.
 - **Telangana data:** Official report PDF was identified but exceeded the browser fetch limit; the state portal and investment portal were accessible. State figures are labelled estimates; original PDF numerical table should be checked before academic approval.
 - **Quality:** Arithmetic examples, formulas, counts and cited data vintages were internally checked. A specialist still needs to audit statistical nuance, syllabus completeness and answer suitability.
+
+**27 October 2026 — worked identity check (author-side, limited).** Reconciled the 5 June MoSPI Statement 1 FY 2025–26 constant-price GVA, net product taxes, GDP, GNI, NNI and statistical discrepancy arithmetically; figures and vintage are now included in the detailed chapter. The verified primary-source URL is S05 above. This does not verify the complete chapter or supersede later MoSPI revisions.
