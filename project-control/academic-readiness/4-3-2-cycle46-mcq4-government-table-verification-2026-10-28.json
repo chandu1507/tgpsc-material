@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "cycle": 46,
+  "topic_id": "4-3-2",
+  "scope": "Bounded correction to previous Cycle45 source-verification status; not a full MCQ audit.",
+  "claim": "ISFR 2023 Telangana forest cover 21,179.04 sq km; tree cover 3,517.66 sq km; combined 24,696.70 sq km",
+  "evidence": "Ministry of Environment, Forest and Climate Change written parliamentary answer published 6 February 2025 on the Press Information Bureau website.",
+  "source": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2100254&lang=2&reg=48",
+  "verification": "DIRECT_PRIMARY_GOVERNMENT_TABLE_CORRESPONDENCE",
+  "affected_item": "Original practice MCQ4 answer B, figures only; other options and key distribution still require independent full-item audit.",
+  "old_cycle45_claim_status": "NOT_DIRECTLY_VERIFIED",
+  "new_claim_status": "DIRECTLY_VERIFIED",
+  "original_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
+  "full_R4_R6": false,
+  "full_R1_R8_ready": false,
+  "independent_academic_approvals": 0
+}
