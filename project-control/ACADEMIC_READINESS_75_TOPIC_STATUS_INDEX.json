@@ -113,7 +113,7 @@
     "4-1-4",
     "4-1-5"
   ],
-  "last_readiness_update": "27 Oct Cycle39: Topic 4-1-5 assessed; 15 concepts, 25 MCQs, six mains bodies 235/239/233/230/233/227; local integrated 29-page candidate, CI artifact pending; R1 IN_PROGRESS due official 403, no approvals.",
+  "last_readiness_update": "27 Oct Cycle39: 7 IN_PROGRESS, 20 ASSESSED_REBUILD_REQUIRED, 48 NOT_ASSESSED, 10 R1 PASS, 0 fully ready/approved. Topic 4-1-5 31-page CI PDF; downloaded artifact 12739623188 1614 files, 75 unchanged original PDFs, 485 local links and 966 fragments zero broken, 17 manifest hashes; R8 IN_PROGRESS, R1 IN_PROGRESS.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -128,6 +128,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-1-5-cycle39-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-1-5-cycle39-bounded-primary-source-and-structural-audit-2026-10-27.json",
     "project-control/academic-readiness/4-1-4-cycle38-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-1-4-cycle38-primary-syllabus-and-budget-reconciliation-2026-10-27.json",
