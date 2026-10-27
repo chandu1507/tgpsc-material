@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "3-2-2",
+  "source": "Actual GitHub Actions artifact ZIP downloaded and independently opened",
+  "renderer_run_id": 40448365148,
+  "packaging_run_id": 40448473538,
+  "artifact_id": 12708959142,
+  "downloaded_outer_zip_sha256": "b98a766183dbc5bd5eb18600afeab98455e51c80738e5cba92fb2c9a84a0086c",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "total_files": 1544,
+  "original_topic_pdfs": 75,
+  "original_pdf_sha256_unchanged_vs_cycle28": 75,
+  "per_topic_readiness_json": 75,
+  "html_pages": 78,
+  "local_file_links_checked": 474,
+  "broken_local_file_links": 0,
+  "dom_fragment_links_checked": 686,
+  "broken_dom_fragments": 0,
+  "spa_hash_routes_excluded_from_dom_fragment_check": 64,
+  "topic_3_2_2": {
+    "original_pdf_sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d",
+    "integrated_pdf_pages": 28,
+    "integrated_pdf_sha256": "1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831",
+    "searchable_all_pages": true,
+    "manifest_entries": 12,
+    "manifest_sha_and_byte_checks": "12/12 PASS",
+    "mcq_count": 25,
+    "original_diagrams": 2,
+    "all_pages_contact_sheet_gross_layout_reviewed": true,
+    "diagram_page_19_full_resolution_reviewed": true,
+    "complete_accessibility_review": false,
+    "direct_public_browser_review": false
+  },
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 7,
+    "NOT_ASSESSED": 61
+  },
+  "fully_R1_to_R8_ready": 0,
+  "independent_academic_approvals": 0,
+  "limitations": [
+    "Full claim-level 25-key and 100-distractor audit incomplete",
+    "All six mains require independent factual review",
+    "Official TGPSC notification directly returned 403; R1 remains IN_PROGRESS",
+    "Browser usability and comprehensive PDF accessibility not certified",
+    "Packaging integrity is not academic approval"
+  ]
+}
