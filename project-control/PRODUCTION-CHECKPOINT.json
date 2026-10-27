@@ -302,9 +302,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "objective_judicial_system_audit_mains_length_discrepancy",
+      "notes": "27 Oct Cycle30: 11 substantial concepts 605–910 words, 25 original MCQs, six mains. Direct body-only counts 205/210/196/200/200/194 contradict older manifest 220/228/208/211/212/208; M3/M6 below 200. Two existing SVGs; original 42-page PDF preserved. All academic gates incomplete.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-4.json"
     },
     {

@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Current controlling reconciliation — 27 October 2026, Cycle30B
+
+Exactly **75 original topics**: **7 IN_PROGRESS, 9 ASSESSED_REBUILD_REQUIRED, 59 NOT_ASSESSED**, **0 fully R1–R8 ready**, **0 independently approved**. Topic 3-2-3 has a corrected 32-page synchronized integrated PDF (renderer 40452389432, SHA256 bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05), but complete academic/browser QA remains incomplete. Topic 3-2-4 was objectively assessed: 11 substantive concepts, 25 original MCQs, six mains. Direct body-only counts 205/210/196/200/200/194 contradict historical manifest 220/228/208/211/212/208; answers M3/M6 are below 200. No claim of academic approval. Evidence: project-control/academic-readiness/3-2-4-cycle30-objective-gap-audit-2026-10-27.json.
+
 ## Current controlling reconciliation — 27 October 2026, Cycle30
 
 Exactly **75 original topics**: **7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED**. Topic 3-2-3's Article 171(1) forty-member minimum and one-third ceiling were reconciled with Telangana's 119/40 legislative strengths; Article 164(1A)'s separate 17-minister ceiling was clarified. Practice Q13 was rewritten in the editable master and HTML. Five limited author-side key source correspondences do NOT constitute independent review of 25 keys and 100 distractors. R1-R8 remain incomplete; zero ready and zero independently approved; R9 NOT_STARTED. Evidence: project-control/academic-readiness/3-2-3-cycle30-article171-source-audit-2026-10-27.json.

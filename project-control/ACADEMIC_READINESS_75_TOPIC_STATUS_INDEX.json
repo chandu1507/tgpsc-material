@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 60,
+  "not_assessed_count": 59,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED; zero R1–R8 ready and zero independent approvals. Topic 3-2-3 synchronized 33-page PDF exists; publication QA and academic checks incomplete.",
+  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 9 ASSESSED_REBUILD_REQUIRED, 59 NOT_ASSESSED, zero fully R1–R8 ready and zero independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -99,9 +99,10 @@
     "3-1-5",
     "3-2-1",
     "3-2-2",
-    "3-2-3"
+    "3-2-3",
+    "3-2-4"
   ],
-  "last_readiness_update": "27 Oct Cycle30: Topic 3-2-3 Article171 correction, revised Q13, two SVGs, 33-page synchronized CI PDF SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; downloaded post-render artifact and full page/browser QA pending. 7 IN_PROGRESS, 8 ASSESSED_REBUILD_REQUIRED, 60 NOT_ASSESSED, zero approvals.",
+  "last_readiness_update": "27 Oct Cycle30: Topic 3-2-3 32-page corrected PDF rendered; Topic 3-2-4 audited with 2 mains below 200 body words and historical count mismatch. 7 IN_PROGRESS, 9 ASSESSED_REBUILD_REQUIRED, 59 NOT_ASSESSED.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -112,6 +113,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-4-cycle30-objective-gap-audit-2026-10-27.json",
     "project-control/academic-readiness/3-2-3-cycle30-article171-source-audit-2026-10-27.json",
     "project-control/academic-readiness/3-2-2-cycle29-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-2-2-cycle29-primary-claim-and-mcq-dedup-2026-10-27.json",

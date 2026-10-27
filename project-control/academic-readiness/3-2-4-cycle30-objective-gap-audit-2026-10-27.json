@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-27",
+  "cycle": 30,
+  "topic_id": "3-2-4",
+  "assessment": "objective gap audit, not academic approval",
+  "baseline_commit": "a0f23a87ce6ffb7683fd7e238ea6e2a32d4c35e6",
+  "original_pdf_sha256": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f",
+  "concepts": 11,
+  "concept_words": [
+    834,
+    760,
+    740,
+    910,
+    888,
+    849,
+    735,
+    755,
+    768,
+    795,
+    605
+  ],
+  "mcqs": 25,
+  "mains": 6,
+  "manifest_mains_body_words": [
+    220,
+    228,
+    208,
+    211,
+    212,
+    208
+  ],
+  "direct_mains_body_only_recount": [
+    205,
+    210,
+    196,
+    200,
+    200,
+    194
+  ],
+  "body_word_method": "Exclude question lines and ### subheading labels; whitespace-token count of answer prose; not independently reviewed.",
+  "mains_below_200": [
+    3,
+    6
+  ],
+  "original_svg_diagrams": 2,
+  "original_pdf_pages": 42,
+  "source_correspondences": [
+    {
+      "claim": "Tribunal decisions remain subject to High Court constitutional review under Articles 226/227, L Chandra Kumar",
+      "url": "https://api.sci.gov.in/supremecourt/2023/50191/50191_2023_4_1501_65055_Judgement_16-Oct-2025.pdf",
+      "scope": "Supreme Court later judgment reiteration, not direct original 1997 judgment"
+    },
+    {
+      "claim": "eCourts Phase III supports assisted digital services and e-Sewa Kendras; current figures are time-sensitive",
+      "url": "https://dashboard.doj.gov.in/ecourts-projects-phaseIII/",
+      "scope": "official dashboard; no fixed Telangana count imported into chapter"
+    }
+  ],
+  "academic_approvals": 0,
+  "unverified": [
+    "R1 fresh official syllabus",
+    "all 25 MCQ keys/distractors",
+    "six mains factual checks",
+    "SVG accuracy",
+    "synchronized PDF",
+    "accessibility"
+  ]
+}

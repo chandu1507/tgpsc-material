@@ -1,8 +1,8 @@
 {
   "topic_id": "3-2-4",
   "title": "Judicial System: Courts, Tribunals, Judicial Review, Independence and Accountability",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -14,20 +14,54 @@
     "md_files": 9,
     "complete_notes_words": 13855,
     "detailed_notes_words": 8730,
-    "supplement_md_count": 0
+    "supplement_md_count": 0,
+    "major_concept_chapters": 11,
+    "concept_words_current": [
+      834,
+      760,
+      740,
+      910,
+      888,
+      849,
+      735,
+      755,
+      768,
+      795,
+      605
+    ],
+    "original_explained_mcqs": 25,
+    "structured_mains": 6,
+    "mains_body_words_recount_excluding_question_and_subheading_labels": [
+      205,
+      210,
+      196,
+      200,
+      200,
+      194
+    ],
+    "mains_manifest_historical_counts": [
+      220,
+      228,
+      208,
+      211,
+      212,
+      208
+    ],
+    "original_pdf_sha256": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f",
+    "existing_original_svg_diagrams": 2
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "27 Oct Cycle30: direct current source audit found 11 substantial concepts 605–910 words, 25 original explained MCQs, six mains; body-only recount 205/210/196/200/200/194 contradicts historical manifest 220/228/208/211/212/208. M3 and M6 below 200-word minimum. Two existing SVG diagrams need visual accuracy check. Limited Supreme Court 2025 judgment reiteration of L Chandra Kumar and official eCourts Phase III scope reviewed; NOT complete R4/R5/R6. No synchronized new PDF; original 42-page PDF preserved.",
+  "next_action": "Expand M3 and M6 in source and consolidated master to >=200 body words with factual checks, then full MCQ distractor audit, R1 direct notification, SVG QA and synchronized PDF.",
   "external_reviewer": null,
   "student_accepted": false
 }
