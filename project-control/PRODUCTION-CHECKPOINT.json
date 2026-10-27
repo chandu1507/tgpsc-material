@@ -498,10 +498,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "11,589-word complete Markdown, 25-page PDF, 16 substantive sections, 30 explained original MCQs, six 200–250-word structured mains models, three diagrams, 20-source audit; independent academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/4-2-5.json"
+      "production_review": "cycle43_17_concept_5_mcq_repair_ci_publication_pending",
+      "notes": "Original 25-page PDF SHA256 cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6 preserved. Cycle43 17 explanatory concepts (all >=300 words), 30 original practice MCQs (Q4/5/12/13/19 revised with bounded official-source checks), six body-only mains 209/211/201/213/205/214, three original diagrams. Integrated source and guarded CI renderer proposed; remote artifact not yet verified. R1-R8 NOT PASS; independent approvals ZERO.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-5.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/4-2-5-cycle43-bounded-source-and-structural-audit-2026-10-27.json"
     },
     {
       "id": "4-3-1",
