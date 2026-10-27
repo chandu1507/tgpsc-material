@@ -1,8 +1,8 @@
 {
   "topic_id": "3-2-2",
   "title": "Fundamental Rights, Directive Principles, Rule of Law and Fundamental Duties",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -14,20 +14,34 @@
     "md_files": 7,
     "complete_notes_words": 13147,
     "detailed_notes_words": 8367,
-    "supplement_md_count": 0
+    "supplement_md_count": 0,
+    "major_concept_chapters": 7,
+    "chapter_words_approx": [
+      1297,
+      1278,
+      1168,
+      1180,
+      985,
+      1268,
+      1142
+    ],
+    "original_mcqs": 25,
+    "structured_mains": 6,
+    "original_svg_diagrams": 2,
+    "original_pdf_sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d"
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding.",
+  "next_action": "Verify official syllabus directly; review 25 MCQ keys and 100 distractors; audit six mains and all source claims; render synchronized PDF; verify actual downloaded Actions artifact and browser accessibility.",
   "external_reviewer": null,
   "student_accepted": false
 }
