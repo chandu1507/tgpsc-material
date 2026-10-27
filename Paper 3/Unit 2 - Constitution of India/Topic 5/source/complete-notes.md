@@ -310,6 +310,14 @@ For a ten-mark question, begin with the constitutional provision, identify the i
 
 # Visual learning and comparison charts
 
+**Original conceptual diagrams (not empirical GIS maps or independently certified illustrations):**
+
+![Federal Governance](federal-governance.svg)
+
+![Water Dispute Process](water-dispute-process.svg)
+
+
+
 ## Diagram A — Indian multilevel constitutional governance
 
 Union (Union List; national standards; Finance Commission; GST Council) → State (State List; departments; devolution laws; State Finance Commission) → Elected local government (Panchayats under Part IX; Municipalities under Part IXA) → Citizen services and accountability. **Feedback flows upward** through elections, Gram Sabhas, ward committees, audits and courts. **Spillovers flow sideways** across state boundaries, requiring councils, boards and tribunals.
@@ -605,7 +613,7 @@ Article 243Q envisages different classes of urban local bodies. Part IXA provide
 The Greater Hyderabad Municipal Corporation, Hyderabad Metropolitan Development Authority, surrounding municipalities and sectoral utilities operate across an interconnected urban region. Flooding can arise from upstream land-use change, blocked drains and roads planned by different agencies. A single ward cannot solve a watershed-wide problem.
 
 ### Critical appraisal / implementation gaps
-Municipalities often have limited own-source revenue, uneven technical staffing and weak control over agencies responsible for core services. Metropolitan authorities can coordinate infrastructure, yet may distance decisions from elected representatives. Formal committees without integrated budgets or shared data cannot resolve overlapping mandates.
+Municipalities often have limited own-source revenue, uneven technical staffing and weak control over agencies responsible for core services. Metropolitan authorities can coordinate infrastructure, yet may distance decisions from elected representatives. Formal committees without integrated budgets or shared data cannot resolve overlapping mandates. Article 243ZE requires a Metropolitan Planning Committee to prepare a draft development plan for the metropolitan area, taking account of municipal and panchayat plans, common infrastructure and environmental conservation. This constitutional coordination role must be distinguished from the statutory powers of development authorities.
 
 ### Conclusion / way forward
 Strengthen property-tax administration, public asset registers, ward consultation and metropolitan watershed planning. Planning authorities should coordinate across boundaries while reporting transparently to elected institutions. Democratic accountability and technical integration must advance together.
@@ -622,7 +630,7 @@ State List Entry 17 is subject to Union List Entry 56. Article 262 authorizes Pa
 Awards concern legal entitlements, but actual river flows vary with rainfall, storage and upstream withdrawals. States may disagree over gauges, historic use, new projects and drought sharing. Drinking-water and irrigation demands peak at different times; hydropower operations add further complexity. Political incentives can discourage compromise.
 
 ### Critical appraisal
-A tribunal provides a rule-based forum, but an award without transparent measurements and compliance machinery may lead to recurring conflict. Conversely, technical committees without legal legitimacy cannot replace adjudication. Ecology and displaced communities must be considered alongside interstate claims.
+A tribunal provides a rule-based forum, but an award without transparent measurements and compliance machinery may lead to recurring conflict. Conversely, technical committees without legal legitimacy cannot replace adjudication. Under Section 6 of the Inter-State River Water Disputes Act, 1956, publication of a tribunal decision in the Official Gazette gives it binding effect on the parties. Section 11 restricts ordinary court jurisdiction over referable water disputes. Neither provision, by itself, supplies operational flow measurements or resolves competing drought protocols. Ecology and displaced communities must be considered alongside interstate claims.
 
 ### Conclusion / measures
 Establish joint telemetry, seasonal reservoir protocols, independent verification, drought-trigger rules and public compliance reports. Use adjudicatory institutions for legal rights and competent boards for operational coordination. Durable settlement combines law, hydrology and cooperative federalism.
@@ -686,6 +694,13 @@ Publish a joint basin account, verify gauges independently, agree on seasonal de
 ## Audit status
 
 **Academically approved: NO.** Independent full source-to-claim review, line-by-line legal review, numerical verification and a second subject-expert reading remain pending. The official Notification 02/2024 PDF was not freshly retrieved in this run; the syllabus wording is cross-checked with an attributed reproduction. There is no claim of an official verified PYQ.
+
+## 27 October 2026 — bounded primary-source correspondence (Cycle 31)
+
+- Ministry of External Affairs, official Constitution Part IXA extract, https://www.mea.gov.in/Images/pdf1/Part9.pdf — Article 243ZE Metropolitan Planning Committee: draft metropolitan development plan, municipal and panchayat plans, shared infrastructure and environmental conservation. Does not establish whether Hyderabad's current institutions fully comply.
+- India Code, Inter-State River Water Disputes Act, 1956, official statutory PDF, https://www.indiacode.nic.in/bitstream/123456789/1664/3/A1956-33.pdf — Sections 6 and 11 checked for Gazette publication/binding effect and statutory jurisdictional bar. This check does not establish every possible appellate route.
+- Ministry of Jal Shakti, official annual report, https://www.jalshakti-dowr.gov.in/static/uploads/2024/05/2023041116.pdf — describes KRMB/GRMB constitution and the 2014 Reorganisation Act; historical report is not proof of 2026 operating status.
+- Two mains expansions are author-side source correspondences, not independent review. R1, all 25 MCQ keys/distractors, remaining mains claims, R2, R7 and R8 remain **not passed**.
 
 
 ---
