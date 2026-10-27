@@ -166,5 +166,7 @@
     }
   ],
   "academic_status": "NOT_APPROVED",
-  "publication_state": "edited source and offline HTML; integrated PDF pending CI rendering and downloaded-artifact verification"
+  "publication_state": "synchronized PDF from canonical editable Markdown; independent academic audit pending",
+  "integrated_pdf_sha256": "2fb77ecdf0ec2eeaed727916be2e63e146646799d81f9830d255a65f0dd4545e",
+  "integrated_pdf_pages": 34
 }
