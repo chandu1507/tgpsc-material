@@ -56,7 +56,7 @@ png = root/'visuals/waste-hierarchy.png'
 assert svg.exists()
 cairosvg.svg2png(url=str(svg),write_to=str(png),output_width=920,output_height=320)
 pdf = src/'integrated-student-edition-cycle48.pdf'
-subprocess.run([sys.executable,'scripts/render_topic_4_3_3_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
+subprocess.run([sys.executable,'scripts/render_topic_4_3_4_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
 doc = fitz.open(pdf)
 blank = [i+1 for i,p in enumerate(doc) if len(p.get_text().strip()) < 60]
 images = sum(len(p.get_images()) for p in doc)
