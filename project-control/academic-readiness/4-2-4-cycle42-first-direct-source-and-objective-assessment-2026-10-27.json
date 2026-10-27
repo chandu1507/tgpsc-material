@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-27",
+  "cycle": 42,
+  "topic_id": "4-2-4",
+  "title": "Agriculture and allied sectors, irrigation, drylands, credit and producer institutions",
+  "baseline_main_sha": "bea7801ddec6284852bdd97e8e46361cc78f21a2",
+  "original_pdf": {
+    "pages": 28,
+    "sha256": "92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147",
+    "preserved": true
+  },
+  "source_inventory": {
+    "detailed_concepts": 17,
+    "concept_word_range": [
+      384,
+      457
+    ],
+    "concepts_under_300": 0,
+    "original_practice_mcqs": 30,
+    "mcq_key_distribution": {
+      "A": 8,
+      "B": 21,
+      "C": 1,
+      "D": 0
+    },
+    "mains_model_answers": 6,
+    "mains_body_only_word_counts": [
+      223,
+      246,
+      228,
+      227,
+      235,
+      230
+    ],
+    "inherited_diagrams": 3,
+    "official_pyqs_verified": 0
+  },
+  "bounded_checks": [
+    {
+      "question": "Q4",
+      "claim": "Cropping intensity for GCA 18,000 ha / NSA 12,000 ha is 150%",
+      "check": "arithmetic verified: 18000/12000*100=150; correct option C",
+      "source": "direct computation"
+    },
+    {
+      "question": "Q6",
+      "claim": "Telangana Agriculture Census 2021-22 mean operational holding 0.89 ha, down from 1.00 ha 2015-16",
+      "check": "corresponds to web-indexed official Telangana DES Socio-Economic Outlook 2024 PDF; full PDF returned 502 on direct fetch, so bounded, not page-inspected",
+      "source": "https://ecostat.telangana.gov.in/PDF/PUBLICATIONS/Socio_Economic_Outlook_2024.pdf"
+    },
+    {
+      "question": "Q25",
+      "claim": "2026-27 Rythu Bharosa budget allocation does not prove disbursement",
+      "check": "budget-estimate-versus-actual distinction correct; PRS 20 March 2026 analysis lists Rs 18,000 crore BE, not paid amount",
+      "source": "https://prsindia.org/budgets/states/telangana-budget-analysis-2026-27"
+    }
+  ],
+  "unresolved": [
+    "MCQ distribution B21/30 and D0, with many implausible alternatives; complete 30-key/120-distractor independent verification pending",
+    "Direct 2024 TGPSC notification not freshly authenticated",
+    "Official SEO 2024 PDF not fully inspected due 502, despite indexed excerpt",
+    "All six mains claim-level review pending",
+    "Original diagram accuracy and offline browser accessibility not certified",
+    "No synchronized integrated post-edit PDF",
+    "No expert academic approval"
+  ],
+  "readiness": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "academic_approvals": 0,
+  "counts_after_status_update": {
+    "total": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 24,
+    "not_assessed": 44,
+    "fully_ready": 0,
+    "approved": 0
+  }
+}

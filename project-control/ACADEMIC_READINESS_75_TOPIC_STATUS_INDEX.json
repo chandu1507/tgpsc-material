@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 45,
+  "not_assessed_count": 44,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 23 ASSESSED_REBUILD_REQUIRED, 45 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle42 4-2-3 assessed, local derivative not yet GitHub CI-published.",
+  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 24 ASSESSED_REBUILD_REQUIRED, 44 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle42 4-2-4 first assessed; original PDF preserved.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
