@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Cycle38 CI render verified — 27 October 2026
+
+GitHub Actions renderer **40507395889 SUCCESS**. The guarded workflow generated synchronized Topic **4-1-4** 23-page searchable integrated PDF, SHA256 `b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e`, with 3 embedded diagram images, 0 blank pages, 0 detected text-boundary violations, and 16/16 chapter manifest hashes. Original 21-page PDF SHA256 `9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4` preserved. **R8 IN_PROGRESS, NOT PASS** until actual post-render artifact CRC/SHA/75-topic and browser QA. R9 NOT_STARTED; zero approvals.
+
 ## Cycle38 controlling reconciliation — 27 October 2026
 
 **Exactly 75 original topics: 7 IN_PROGRESS, 19 ASSESSED_REBUILD_REQUIRED, 49 NOT_ASSESSED; ten direct R1 syllabus mappings PASS; ZERO fully R1–R8 ready and ZERO independent academic approvals.** Topic 4-1-4 original Commission Notification 02/2024 Annexure-II printed page 31 item 4 R1 PASS. Twelve substantial concepts; original Telangana 2026–27 fiscal-perimeter calculation laboratory; practice Q23/Q25 corrected and source-checked against PRS budget tables. All 25 keys/100 distractors, six mains claims, three diagrams and browser accessibility still require full review. Original 21-page PDF preserved. Local PDF candidate exists but CI render and downloaded GitHub artifact QA are pending; **R8 BLOCKED, R9 NOT_STARTED**. Evidence: `project-control/academic-readiness/4-1-4-cycle38-primary-syllabus-and-budget-reconciliation-2026-10-27.json`.

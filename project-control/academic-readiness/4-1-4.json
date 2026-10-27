@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending.",
-  "next_action": "Guarded CI render, actual downloaded artifact CRC/SHA/75-topic QA, complete independent 25 keys/100 distractors, six mains, diagrams, accessibility; R9 only after R1-R8 PASS.",
+  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending. CI renderer 40507395889 SUCCESS: 23-page PDF SHA256 b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e, 3 images, 16/16 manifest; actual post-render archive QA pending.",
+  "next_action": "Actual post-render GitHub artifact download/CRC/SHA/75-topic link QA; independent 25 MCQ/100 distractor, six mains, three diagrams and browser accessibility audits.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4",
@@ -42,7 +42,11 @@
     ],
     "mains": 6,
     "diagrams": 3,
-    "r8": "BLOCKED",
-    "independent_approvals": 0
+    "r8": "IN_PROGRESS",
+    "independent_approvals": 0,
+    "ci_renderer_run": 40507395889,
+    "ci_integrated_pdf_pages": 23,
+    "ci_integrated_pdf_sha256": "b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e",
+    "manifest_hashes": 16
   }
 }
