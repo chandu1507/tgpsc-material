@@ -5,10 +5,10 @@
   "topic": 3,
   "title": "Money and Banking",
   "academic_status": "not_approved",
-  "production_status": "expanded_draft",
-  "syllabus_verification": "corroborated_secondary_original_pdf_pending",
-  "word_count": 10984,
-  "pdf_pages": 27,
+  "production_status": "cycle37_CI_integrated_pdf_and_offline_html; browser accessibility pending",
+  "syllabus_verification": "Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS",
+  "word_count": 12416,
+  "pdf_pages": 28,
   "detailed_sections": 15,
   "original_mcqs": 25,
   "original_mains_answers": 6,
@@ -24,65 +24,70 @@
   "sources": 18,
   "official_pyqs_verified": 0,
   "files": {
+    "README.md": {
+      "sha256": "2af45ef9cca5e91d8bf9c678864ed85d62c28b33f9832c036e243f1068b119d9",
+      "bytes": 259
+    },
     "complete-notes.pdf": {
-      "bytes": 323450,
-      "sha256": "2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0"
+      "sha256": "2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0",
+      "bytes": 323450
     },
     "index.html": {
-      "bytes": 95849,
-      "sha256": "65b28e8a2f30e09186c1b7b3d9847c7f543e2736e388b72d45abaa94d86952f6"
+      "sha256": "17d553f041e8d0329a697c3b3ddb1d851b2a047d2742b3f97f8f144043367d88",
+      "bytes": 113841
     },
     "source/answer-blueprints.md": {
-      "bytes": 1843,
-      "sha256": "1e8aa76bb46b2e25ad40ac85371aae6a9fe175f872c620efcc4300322f378b81"
+      "sha256": "1e8aa76bb46b2e25ad40ac85371aae6a9fe175f872c620efcc4300322f378b81",
+      "bytes": 1843
     },
     "source/complete-notes.md": {
-      "bytes": 82635,
-      "sha256": "f3f8211573660477ec871ab6a7937f5c560fdf5d8de4c602bc2cb80bdb0660f7"
+      "sha256": "9b6594dd30e9be69dc7ec3c22aa9553a87e767735db8072a48fdc5e8010bc0da",
+      "bytes": 89719
     },
     "source/detailed-notes.md": {
-      "bytes": 45151,
-      "sha256": "2d02cd0ce39ee646f6d6f6fd0a7ff7cd61b0b2edc18765571bec8ce1ab97333b"
+      "sha256": "b0f9eec6831df08cb01aca4af2517ccdda74179801f4af99ebc12e2d493b3560",
+      "bytes": 49926
+    },
+    "source/integrated-student-edition-2026-10-27.pdf": {
+      "sha256": "145ca134c1a91345f91119384a9eb9f5b539ccf97b9f4faf887286e49c1e1476",
+      "bytes": 350943
     },
     "source/mains-model-answers.md": {
-      "bytes": 10790,
-      "sha256": "b6888e37f14204196d732d3a3dbd444bbd32c5497af205def54ced10c47d9cc1"
+      "sha256": "830b12a7b33face57d4d62580c2782b8b3c857ce105092ee67f75fcbce70b11c",
+      "bytes": 11198
     },
     "source/original-mcqs.md": {
-      "bytes": 8717,
-      "sha256": "479df08ce3d4796a2fb7bfed96af0dac3d0bd2dd2df05e293085b4d72b34bccc"
+      "sha256": "d11798f27093a0173c68cb34d80e9cb5dc47d6037da8fc12c2cb30522a995b1b",
+      "bytes": 8891
     },
     "source/quick-revision.md": {
-      "bytes": 5929,
-      "sha256": "abe5fe6ec29da7e263f6dffa78f88db98145830614bb618772e4d68e866927e2"
+      "sha256": "8826cfb4e3dca5b5405e5fb3c111308f296fd1423527fdc30ad267989d4eb8f1",
+      "bytes": 6304
     },
     "source/sources-and-audit.md": {
-      "bytes": 5314,
-      "sha256": "573a444d263f3815c49997a100bb1855efe575335a2a63ea8050968e7e8b5357"
+      "sha256": "d192285a9579aab4c499b2cd98055ccb5a0b7c2c4c92fe61e477bbac34f286a7",
+      "bytes": 6259
     },
     "source/syllabus-and-summary.md": {
-      "bytes": 2503,
-      "sha256": "f10b4edd856632680da52cdb78170b2932b8aeec1280f8fe04fbb03d06328507"
+      "sha256": "4132efdaf265d2e1ae02acd054a8a5885e120864c5b1b907a1f1d5730eb40b6c",
+      "bytes": 2869
     },
     "source/visual-learning.md": {
-      "bytes": 2061,
-      "sha256": "e5c18fb5b11ec01a9e7667731a2de89dc4b66a6e09bda9156b28ecfd101339a8"
+      "sha256": "e5c18fb5b11ec01a9e7667731a2de89dc4b66a6e09bda9156b28ecfd101339a8",
+      "bytes": 2061
     },
     "visuals/credit-creation.png": {
-      "bytes": 84292,
-      "sha256": "687c74591bb2f980a5a92ae51880b4d82b9c5771df37be0f355f336de46801dd"
+      "sha256": "687c74591bb2f980a5a92ae51880b4d82b9c5771df37be0f355f336de46801dd",
+      "bytes": 84292
     },
     "visuals/financial-system.png": {
-      "bytes": 65152,
-      "sha256": "2ba9b8b0622428e2f9546c5c3fc09c5b44e380119246d21440bb7cbf21efd92b"
+      "sha256": "2ba9b8b0622428e2f9546c5c3fc09c5b44e380119246d21440bb7cbf21efd92b",
+      "bytes": 65152
     },
     "visuals/policy-transmission.png": {
-      "bytes": 77132,
-      "sha256": "2c303ad9f61e010a8e961e7941b606d65ff836f5b1622e9abb0e00368a3d22d2"
-    },
-    "README.md": {
-      "bytes": 259,
-      "sha256": "2af45ef9cca5e91d8bf9c678864ed85d62c28b33f9832c036e243f1068b119d9"
+      "sha256": "2c303ad9f61e010a8e961e7941b606d65ff836f5b1622e9abb0e00368a3d22d2",
+      "bytes": 77132
     }
-  }
+  },
+  "date": "2026-10-27"
 }
