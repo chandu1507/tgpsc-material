@@ -100,4 +100,4 @@ A. Automatically enacted laws on the meeting date  B. Proposals requiring releva
 
 **25.** Telangana's 2026–27 Budget Estimates include ₹21,304 crore interest payments and ₹2,41,264 crore revenue receipts. Approximately what share of revenue receipts is absorbed by interest?  
 A. 8.8%  B. 11.3%  C. 17.0%  D. 21.3%  
-**Answer: A.** ₹21,304 ÷ ₹2,41,264 × 100 ≈ 8.83%. B reverses the ratio conceptually; C confuses a different year or basis; D treats the numerator's first digits as a percentage. This measures planned interest pressure, not total debt service or audited 2026–27 spending. [S11]
+**Answer: A.** ₹21,304 ÷ ₹2,41,264 × 100 ≈ 8.83%. B would require an unjustified smaller receipts denominator; C mixes in a different year's interest burden; D mistakes the ₹21,304 crore numerator for a percentage. This measures planned interest pressure, not total debt service or audited 2026–27 spending. [S11]
