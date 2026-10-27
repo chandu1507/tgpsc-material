@@ -170,9 +170,9 @@ C. UPSC.
 D. Committee on Public Undertakings.  
 **Answer: D.** COPU focuses on selected public-sector enterprises and relevant audit material; it does not manage them daily.
 
-### Q25. Which statement about digital privacy is the most defensible?
-A. Every notified rule necessarily commenced in full on the date of publication.  
-B. The DPDP Act, 2023 and Rules, 2025 require attention to their actual commencement and phased implementation.  
-C. Transparency requires publishing all personal beneficiary records.  
-D. Government contractors have no data-security obligations.  
-**Answer: B.** The Act and notified rules have implementation provisions and phased timing; one must verify commencement before claiming a particular duty is currently enforceable.
+### Q25. Which statement correctly describes commencement under Rule 1 of the Digital Personal Data Protection Rules, 2025?
+A. All 23 rules came into force immediately upon Gazette publication.  
+B. Rules 3, 5–16, 22 and 23 came into force on publication; the rest are deferred.  
+C. Rule 4 takes effect after eighteen months, while Rules 17–21 take effect after one year.  
+D. Rules 1, 2 and 17–21 took effect on publication; Rule 4 is deferred one year, and Rules 3, 5–16, 22 and 23 eighteen months.  
+**Answer: D.** Gazette G.S.R. 846(E), dated 13 November 2025, Rule 1(2)–(4) specifies these three commencement groups [S20]. The Act's commencement notifications must be examined separately; the question concerns the Rules, not every obligation under the Act.

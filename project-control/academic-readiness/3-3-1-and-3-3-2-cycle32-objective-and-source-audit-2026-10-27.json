@@ -1,0 +1,107 @@
+{
+  "cycle": "32",
+  "date": "2026-10-27",
+  "baseline_main_sha": "3bef3779cee8985c6c158f12471d8fbaf70216bb",
+  "scope": "Exactly 75 original topics; assessed only existing 3-3-1 and 3-3-2",
+  "method": "Actual prior downloaded GitHub ZIP + fresh GitHub files + author-side official-source correspondence; NOT independent expert approval",
+  "topics": {
+    "3-3-1": {
+      "legacy_pdf_sha256": "c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372",
+      "legacy_pdf_pages": 37,
+      "concepts": 13,
+      "concepts_under_300": 0,
+      "mcqs": 25,
+      "mcq_answer_distribution": {
+        "A": 6,
+        "B": 6,
+        "C": 7,
+        "D": 6
+      },
+      "mains": 6,
+      "mains_body_words": [
+        224,
+        218,
+        237,
+        230,
+        232,
+        233
+      ],
+      "original_svgs": 2,
+      "repair": "Gazette G.S.R.846(E) Rule 1 phased commencement; hypothetical MeeSeva certificate denial case; source-grounded Q25 rewrite; separate PDF renderer guarded",
+      "R1_R8_fully_ready": false
+    },
+    "3-3-2": {
+      "legacy_pdf_sha256": "93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24",
+      "legacy_pdf_pages": 43,
+      "concepts": 15,
+      "concepts_under_300": 0,
+      "mcqs": 25,
+      "mcq_answer_distribution": {
+        "A": 5,
+        "B": 14,
+        "C": 5,
+        "D": 1
+      },
+      "mains": 6,
+      "mains_body_words": [
+        221,
+        216,
+        218,
+        221,
+        212,
+        221
+      ],
+      "original_svgs": 2,
+      "problem": "Distractor plausibility and strong B skew; no synchronized integrated PDF",
+      "R1_R8_fully_ready": false
+    }
+  },
+  "bounded_sources": [
+    {
+      "question": "3-3-1 Q6",
+      "claim": "MeeSeva G2C/G2B",
+      "url": "https://www.telangana.gov.in/services/meeseva-services/0/"
+    },
+    {
+      "question": "3-3-1 Q7",
+      "claim": "Cabinet Secretariat 1961 business rules",
+      "url": "https://cabsec.gov.in/aboutus/functions"
+    },
+    {
+      "question": "3-3-1 Q22-24",
+      "claim": "Estimates 30 LS; PAC/COPU 15 LS+7 RS",
+      "url": "https://sansad.in/ls/committee/introduction"
+    },
+    {
+      "question": "3-3-1 Q25",
+      "claim": "DPDP Rules 2025 Rule 1 three commencement groups",
+      "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf"
+    },
+    {
+      "question": "3-3-2 Q7",
+      "claim": "Telangana Panchayat Raj Act 2018 three rural tiers",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/8492/1/Act%205%20of%202018.pdf"
+    },
+    {
+      "question": "3-3-2 Q8",
+      "claim": "Telangana Municipalities Act 2019 GHMC exclusion",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/13843/1/AAA2019tell.pdf"
+    }
+  ],
+  "limits": [
+    "No independent audit of all 50 MCQ keys or 200 distractors",
+    "No complete six-mains claim-level checks per topic",
+    "Fresh direct official TGPSC notification access not established",
+    "SVG accuracy and public-browser accessibility unverified",
+    "Original Supreme Court Rajendra N Shah judgment not directly retrieved this cycle",
+    "R9 not started; no named external reviewer"
+  ],
+  "global_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 12,
+    "NOT_ASSESSED": 56,
+    "total": 75,
+    "ready": 0,
+    "approved": 0
+  }
+}

@@ -3,7 +3,11 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
-## Current controlling reconciliation — 27 October 2026, Cycle30B
+## Current controlling reconciliation — 27 October 2026, Cycle32 (supersedes Cycle31 and earlier)
+
+Exactly **75 original topics**: **7 IN_PROGRESS, 12 ASSESSED_REBUILD_REQUIRED, 56 NOT_ASSESSED**, **0 fully R1–R8 ready**, **0 independent academic approvals**. Topics 3-3-1 and 3-3-2 were objectively assessed from actual existing source files. Both have numerically substantive concepts, 25 original MCQs and six mains, but complete MCQ/distractor, mains-claim, source, diagram and browser checks remain unfinished. Topic 3-3-1 received in-place Gazette Rule 1 DPDP timing, worked hypothetical case and Q25 corrections; a guarded separate integrated PDF renderer is being published, but successful remote rendering and downloaded-artifact QA must be independently confirmed before R8 can advance. Topic 3-3-2's answer distribution is A5/B14/C5/D1, warranting item-level editorial review. Evidence: `project-control/academic-readiness/3-3-1-and-3-3-2-cycle32-objective-and-source-audit-2026-10-27.json`. **R9 NOT_STARTED.**
+
+## Historical controlling reconciliation — 27 October 2026, Cycle30B
 
 Exactly **75 original topics**: **7 IN_PROGRESS, 9 ASSESSED_REBUILD_REQUIRED, 59 NOT_ASSESSED**, **0 fully R1–R8 ready**, **0 independently approved**. Topic 3-2-3 has a corrected 32-page synchronized integrated PDF (renderer 40452389432, SHA256 bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05), but complete academic/browser QA remains incomplete. Topic 3-2-4 was objectively assessed: 11 substantive concepts, 25 original MCQs, six mains. Direct body-only counts 205/210/196/200/200/194 contradict historical manifest 220/228/208/211/212/208; answers M3/M6 are below 200. No claim of academic approval. Evidence: project-control/academic-readiness/3-2-4-cycle30-objective-gap-audit-2026-10-27.json.
 

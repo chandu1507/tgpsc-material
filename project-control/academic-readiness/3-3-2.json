@@ -1,8 +1,8 @@
 {
   "topic_id": "3-3-2",
   "title": "Governance at State and District Levels; Local Institutions and Administrative Controls",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,17 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "BLOCKED",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle32 objective: 15 detailed concepts all >300 words, 25 original MCQs with A5/B14/C5/D1 skew, six mains body-only 221/216/218/221/212/221, two SVGs, legacy 43-page PDF SHA 93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24. No synchronized new PDF. Full source and distractor audit not done.",
+  "next_action": "Independently audit MCQ keys and all distractors (14 B/1 D), direct syllabus source, six mains, SVG accuracy; consolidate source and synchronize integrated PDF.",
   "external_reviewer": null,
   "student_accepted": false
 }

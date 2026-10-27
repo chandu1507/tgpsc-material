@@ -326,9 +326,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle32_objective_assessment_and_academic_rebuild_required",
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending. Cycle32 objective assessment: concept depth numerical pass; academic source, MCQ, mains, diagram and browser checks incomplete. Topic 3-3-1 receives in-place DPDP timing/Q25 repair and separate integrated PDF render workflow; Topic 3-3-2 remains unsynchronized.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-3-1.json"
     },
     {
@@ -338,9 +338,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle32_objective_assessment_and_academic_rebuild_required",
+      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending. Cycle32 objective assessment: concept depth numerical pass; academic source, MCQ, mains, diagram and browser checks incomplete. Topic 3-3-1 receives in-place DPDP timing/Q25 repair and separate integrated PDF render workflow; Topic 3-3-2 remains unsynchronized.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-3-2.json"
     },
     {
