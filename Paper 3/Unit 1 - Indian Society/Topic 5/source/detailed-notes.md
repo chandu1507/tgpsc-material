@@ -48,6 +48,14 @@ Saksham Anganwadi and Poshan 2.0 integrates early childhood nutrition services, 
 
 Telangana district planning should connect Anganwadi centres, schools, healthcare, Child Welfare Committees, District Child Protection Units and police child-help mechanisms. Measures should distinguish stunting, wasting and anaemia; each has a different meaning and intervention pathway. A strong answer highlights protection and nutritional outcomes as well as attendance.
 
+### Implementation case: continuity across child services
+
+Consider a hypothetical child who moves with a construction-worker household from a Telangana mandal to Hyderabad. The child's Anganwadi record, school admission and immunisation history may be held by different offices. A district response should arrange immediate access to age-appropriate services while records are transferred, rather than treating missing documents as proof of ineligibility. Nutrition teams can monitor growth and refer suspected illness; teachers must assess learning needs; child-protection staff should investigate specific risks without automatically treating poverty or migration as grounds for institutional care.
+
+Mission Vatsalya supports the Juvenile Justice care-and-protection system. A Child Welfare Committee handles statutory decisions for children in need of care and protection, whereas a Juvenile Justice Board has a different role for children in conflict with law. Ministry guidance favours family-based non-institutional care where safe and appropriate. The child helpline 1098 is linked to emergency response 112, but a helpline contact is not itself evidence of a resolved case. District Child Protection Units should coordinate referrals with safeguards for privacy, consent where appropriate, and follow-up.
+
+For evaluation, separately record uninterrupted nutrition service, learning progression, safe resolution of protection concerns and family reunification where appropriate. These outcomes cannot be inferred from registrations or expenditure alone. [Sources: Ministry of Women and Child Development, Mission Vatsalya programme guidance; Mission Saksham Anganwadi and Poshan 2.0 programme description, accessed 27 October 2026.]
+
 ## 04 Older persons: income, care and dignity
 
 ### Meaning and policy background
@@ -75,6 +83,12 @@ For persons with benchmark disabilities, the Act includes at least 4% reservatio
 ### Telangana application, challenges and outcome measurement
 
 Telangana answers should cover ramps and lifts, accessible Telugu/Urdu information, sign-language support, adaptive examinations, school inclusion and rural transport. Outcomes include actual school progression, employment retention, equal wage opportunity and accessible public services—not merely the count of certificates issued.
+
+### Distinguish legal thresholds before quoting reservation figures
+
+Four frequently confused provisions have different scopes. Article 21A establishes the general six-to-fourteen-year constitutional guarantee of free and compulsory education. Section 31 of the Rights of Persons with Disabilities Act, 2016 provides a specific six-to-eighteen-year education right for children with benchmark disabilities. Section 32 requires at least five per cent reservation of seats in government and government-aided higher educational institutions for persons with benchmark disabilities. Section 34 addresses not less than four per cent of specified vacancies in government establishments, subject to the statutory categories and conditions. These are not interchangeable percentages or universal private-sector quotas. A mains answer should identify the legal beneficiary, institution and entitlement before comparing policies.
+
+A district implementation audit should follow an applicant's complete journey: accessible information, usable transport, non-discriminatory admission, reasonable examination accommodation, accessible toilets and digital services, timely decisions, and a functioning grievance channel. For example, a wheelchair ramp at a college is inadequate if the examination room is upstairs or an online form cannot be used with assistive technology. Measure successful participation and retention, not simply the number of disability certificates or ramps. [Sources: India Code, Rights of Persons with Disabilities Act 2016, sections 31–34; Ministry of Education, Article 21A guidance, accessed 27 October 2026.]
 
 ## 06 Scheduled Castes: discrimination, mobility and entitlements
 
