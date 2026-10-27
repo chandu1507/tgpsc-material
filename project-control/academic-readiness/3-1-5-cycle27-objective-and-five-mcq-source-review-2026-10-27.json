@@ -1,0 +1,206 @@
+{
+  "topic_id": "3-1-5",
+  "date": "2026-10-27",
+  "cycle": 27,
+  "audit_kind": "Fresh GitHub main + downloaded prior publication snapshot objective audit; limited primary-source editorial corrections",
+  "source_of_truth": {
+    "head_before_edits": "ae9c618139d9372a16bbc225ef323eaf156b12cc",
+    "prior_actual_downloaded_publication": "TGPSC_CYCLE26_FINAL_75_TOPICS_VERIFIED_GITHUB_ARTIFACT.zip (inner ZIP)",
+    "git_blob_comparison": "Source detailed-notes, MCQ, mains, complete master and legacy PDF SHA1 blobs matched GitHub main before edits"
+  },
+  "original_preservation": {
+    "path": "Paper 3/Unit 1 - Indian Society/Topic 5/complete-notes.pdf",
+    "pages": 16,
+    "sha256": "01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01",
+    "github_blob": "1f290e490a0ff5e50e4e505431609d553049dd86",
+    "edited": false
+  },
+  "objective_before": {
+    "numbered_detailed_concepts": 15,
+    "under_300_words": 15,
+    "concept_word_counts": [
+      205,
+      202,
+      198,
+      184,
+      189,
+      180,
+      185,
+      184,
+      167,
+      174,
+      163,
+      150,
+      170,
+      171,
+      202
+    ],
+    "explained_original_mcqs": 30,
+    "mcq_keys": {
+      "A": 9,
+      "B": 10,
+      "C": 11,
+      "D": 0
+    },
+    "structured_mains": 6,
+    "mains_body_words": [
+      240,
+      227,
+      231,
+      234,
+      227,
+      234
+    ],
+    "standalone_original_svg_files": 3,
+    "integrated_synchronized_pdf": false,
+    "complete_master_is_provenance_concatenation": true
+  },
+  "editorial_changes": {
+    "two_in_place_expansions": [
+      "03 Children: survival, learning and protection (198 to 428 words): service continuity, CWC/JJB distinction, family-based care, helpline, measurable outcomes",
+      "05 Disability: reasonable accommodation and inclusion (189 to 400 words): Article 21A vs RPwD sections 31/32/34, operational accessibility audit"
+    ],
+    "five_mcq_items_revised": [
+      3,
+      5,
+      10,
+      13,
+      20
+    ],
+    "mcq_improvements": "Replaced implausible distractors with competing real schemes, statutory thresholds, or legal instruments; corrected keys after moving verified answers to option D. Source-checked limited answer/distractor correspondence, not full independent MCQ audit.",
+    "files": [
+      "Paper 3/Unit 1 - Indian Society/Topic 5/source/detailed-notes.md",
+      "Paper 3/Unit 1 - Indian Society/Topic 5/source/original-explained-mcqs.md",
+      "Paper 3/Unit 1 - Indian Society/Topic 5/source/complete-notes.md"
+    ],
+    "content_commits": [
+      "beb51e84bdca6a1500eac464e8c719afe7b0b0db",
+      "706d9c2df77b9699e1efbaaa200e0281c07201b6",
+      "037d769f416b43a2a9273bb1cf24de8b67ae486d",
+      "8d139f871bda84ecc7ba0030c836da41dc8cef4d",
+      "0458de3d74e90213f49c8679b707d640683e3e0f"
+    ]
+  },
+  "objective_after": {
+    "numbered_detailed_concepts": 15,
+    "concept_word_counts": [
+      205,
+      202,
+      428,
+      184,
+      400,
+      180,
+      185,
+      184,
+      167,
+      174,
+      163,
+      150,
+      170,
+      171,
+      202
+    ],
+    "under_300_words": 13,
+    "explained_original_mcqs": 30,
+    "unique_mcq_numbers": 30,
+    "all_30_four_options_and_answer_text_match": true,
+    "mcq_keys": {
+      "A": 7,
+      "B": 8,
+      "C": 10,
+      "D": 5
+    },
+    "mains_body_words": [
+      240,
+      227,
+      231,
+      234,
+      227,
+      234
+    ],
+    "master_mcq_and_detailed_sections_exactly_match_component_sources": true,
+    "source_git_blobs": {
+      "detailed": "81deb444cb2aa1253a70811576ad2ab1e4e647fd",
+      "mcq": "6d7fc198fd66089811a9ebc98a44292dc9e8cabf",
+      "master": "44bd72be0c2a3e931676c0a782ea4aa0a82d12c6"
+    }
+  },
+  "limited_primary_claim_checks": [
+    {
+      "mcq": 3,
+      "claim": "Mission Shakti has two sub-schemes Sambal and Samarthya, distinct from Vatsalya and Poshan 2.0",
+      "sources": [
+        "https://www.wcd.gov.in/women/mission-shakti",
+        "https://wcd.gov.in/offerings/mission-vatsalya-scheme",
+        "https://wcd.gov.in/offerings/nutrition-mission-saksham-anganwadi-and-poshan-2-0-mission-saksham-anganwadi-poshan-2-0"
+      ],
+      "access": "Official HTML read 27 Oct 2026",
+      "scope": "Correct key and named-programme distractor correspondence"
+    },
+    {
+      "mcq": 5,
+      "claim": "Mission Vatsalya supports JJ Act child protection; Poshan 2.0 nutrition, PM POSHAN school meals, Samagra Shiksha school education",
+      "sources": [
+        "https://wcd.gov.in/offerings/mission-vatsalya-scheme",
+        "https://wcd.gov.in/offerings/nutrition-mission-saksham-anganwadi-and-poshan-2-0-mission-saksham-anganwadi-poshan-2-0",
+        "https://pmposhan.education.gov.in/aboutus.html",
+        "https://samagra.education.gov.in/about.html"
+      ],
+      "access": "MWCD HTML directly read; Education programme pages indexed, PM POSHAN direct open timed out",
+      "scope": "Limited key and programme-function correspondence"
+    },
+    {
+      "mcq": 10,
+      "claim": "RPwD Act s34 four per cent government employment, s32 five per cent higher education; s34 component one-per-cent categories",
+      "sources": [
+        "https://www.indiacode.nic.in/bitstream/123456789/13684/1/a2016-49_act.pdf"
+      ],
+      "access": "Official India Code PDF directly opened, 36 pages; sections 31-34 indexed/read",
+      "scope": "Legal text correspondence; statutory caveats retained"
+    },
+    {
+      "mcq": 13,
+      "claim": "Telangana SDF enacted by State Act 18/2017; G.O.Ms.No.53 dated 13 Sep 2017 issued rules",
+      "sources": [
+        "https://telangana.gov.in/wp-content/uploads/2023/05/Scheduled_Castes_Special_Develop_FundSCSDF.pdf"
+      ],
+      "access": "Government 2023-24 budget PDF indexed; 2026 PDF direct open returned 502",
+      "scope": "State law number and government order distinction; not original Gazette consultation"
+    },
+    {
+      "mcq": 20,
+      "claim": "Article 21A ages 6-14; RPwD s31 special entitlement ages 6-18",
+      "sources": [
+        "https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/fcebill.pdf",
+        "https://www.indiacode.nic.in/bitstream/123456789/13684/1/a2016-49_act.pdf"
+      ],
+      "access": "Ministry of Education indexed document; India Code official PDF directly opened",
+      "scope": "Age-scope distinction"
+    }
+  ],
+  "unresolved": [
+    "Official TGPSC Notification 02/2024 exact Topic 3-1-5 subclause mapping not re-read; R1 cannot pass",
+    "13/15 detailed concepts remain under 300 words; qualitative textbook depth still incomplete",
+    "25 of 30 MCQs have no individual source/distractor review; revised five are not an external independent academic audit",
+    "Six mains body lengths meet 200-250 but full factual claim audits pending",
+    "Three SVG files exist; diagram factual accuracy and rendered layout not inspected in this cycle",
+    "Master still contains Part A supplement and Part D legacy notes as provenance concatenation, not R2 deduplication",
+    "No new integrated synchronized PDF or deterministic CI render; original 16-page PDF preserved",
+    "No new post-edit downloaded Actions artifact or ZIP CRC QA at evidence creation; pending later workflow",
+    "Direct public-browser accessibility not tested; R8 blocked",
+    "R9 external review not initiated, approvals zero"
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approved": false
+}
