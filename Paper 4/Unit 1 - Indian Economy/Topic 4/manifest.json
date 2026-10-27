@@ -5,70 +5,80 @@
   "topic": 4,
   "title": "Public Finance",
   "academic_status": "not_approved",
-  "production_status": "expanded_draft",
+  "production_status": "cycle38_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "source_syllabus_status": "corroborated_secondary_original_notification_pdf_not_authenticated",
-  "date": "2026-10-24",
+  "date": "2026-10-27",
   "original_mcqs": 25,
   "original_mains": 6,
   "verified_official_pyqs": 0,
-  "word_count": 10205,
+  "word_count": 10765,
   "files": {
+    "README.md": {
+      "sha256": "9c44f6930fbc31f1a14db351b426b0b267e0f10727ec15d0cef1528151a6bc1f",
+      "bytes": 189
+    },
     "complete-notes.pdf": {
-      "bytes": 269102,
-      "sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4"
+      "sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4",
+      "bytes": 269102
     },
     "index.html": {
-      "bytes": 82917,
-      "sha256": "ffafdd9bca16a3639feb57764a05c1e42862efc19878294ff8af6ebe1df8a764"
-    },
-    "source/visual-learning.md": {
-      "bytes": 2070,
-      "sha256": "81f2efbdbcc0e708d7f248f54fd20554f855a9e9b64d36532988586d0ca431a3"
-    },
-    "source/mains-model-answers.md": {
-      "bytes": 11542,
-      "sha256": "5533214afaca24da4e44159621606030b64166b2874eb7894f9f6d39283e5ada"
-    },
-    "source/quick-revision.md": {
-      "bytes": 4274,
-      "sha256": "4377513dd97d02053cce232de38faa0d68c76b104fe839e758085f7100a3a283"
+      "sha256": "9f38159568e98bed91731b925cfc22d2a7d85980a9ea12a4aceacb42b34417ef",
+      "bytes": 98391
     },
     "source/answer-blueprints.md": {
-      "bytes": 1671,
-      "sha256": "ffe26bcd63994c8e4406d04021316b0293d08d0e15470b213efb49d155086554"
+      "sha256": "ffe26bcd63994c8e4406d04021316b0293d08d0e15470b213efb49d155086554",
+      "bytes": 1671
     },
     "source/complete-notes.md": {
-      "bytes": 75286,
-      "sha256": "22c340f54b7b65e9355b52a1a50a63d650a3dae3b2bff324a34574aaee908aa6"
+      "sha256": "89d9b44cdb18f853377c55614894ea5385a826d9f39223cbe6148746be538884",
+      "bytes": 79691
     },
     "source/detailed-notes.md": {
-      "bytes": 40000,
-      "sha256": "792f88e4c89a3c3b6a328af1bfc7a0d0a6d8c73d633289d461b046352be22fe2"
+      "sha256": "5f5d21ae5d847a8b4778d5348b30f64ebd24555c8b9fc5cda81e5b64b2445420",
+      "bytes": 42870
+    },
+    "source/integrated-student-edition-2026-10-27.pdf": {
+      "sha256": "b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e",
+      "bytes": 295116
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "5533214afaca24da4e44159621606030b64166b2874eb7894f9f6d39283e5ada",
+      "bytes": 11542
     },
     "source/original-mcqs.md": {
-      "bytes": 8472,
-      "sha256": "75a36e5a32110d96dd62bde547c66c9049292b80daaeeca033edc3ecafab67cf"
+      "sha256": "a07a16673a1eb5a606d70c03383982bf244e0bee4856de03ab651a0cd2b24be9",
+      "bytes": 8768
+    },
+    "source/quick-revision.md": {
+      "sha256": "4377513dd97d02053cce232de38faa0d68c76b104fe839e758085f7100a3a283",
+      "bytes": 4274
     },
     "source/sources-and-audit.md": {
-      "bytes": 4212,
-      "sha256": "532c2f3c538cee3f531ce4698d92bfe1ee1eb3790e67f01c8d5e1c9327c4cd1d"
+      "sha256": "c7cc85164ef22832aec3e73465e28b80771406b6553bcc67807f5b70f67e4252",
+      "bytes": 5382
     },
     "source/syllabus-and-summary.md": {
-      "bytes": 2995,
-      "sha256": "c6cbd901803d9ce5cc7b79f762448b33959b1b27de230343302b91684ce3fb0c"
+      "sha256": "e10c3a4051b2a404b550a0dc70ffb9b4e53fd8ff433a2519a37ca621c74d45f6",
+      "bytes": 3065
     },
-    "visuals/policy-interaction.png": {
-      "bytes": 48356,
-      "sha256": "9aeaa8265e3fcd9178939ed61697ff0aabec2878bd2204d1b651be993ba4dd15"
-    },
-    "visuals/tax-federalism.png": {
-      "bytes": 47890,
-      "sha256": "c2b64d6d6e5f9cc6230dc1d4a6e65c02e66244f26b023bdb446abf48c06a897e"
+    "source/visual-learning.md": {
+      "sha256": "81f2efbdbcc0e708d7f248f54fd20554f855a9e9b64d36532988586d0ca431a3",
+      "bytes": 2070
     },
     "visuals/fiscal-flow.png": {
-      "bytes": 53794,
-      "sha256": "86938fbbeff71088019d458c10db4e463f105db66a5eaa90d2540807469c9b35"
+      "sha256": "86938fbbeff71088019d458c10db4e463f105db66a5eaa90d2540807469c9b35",
+      "bytes": 53794
+    },
+    "visuals/policy-interaction.png": {
+      "sha256": "9aeaa8265e3fcd9178939ed61697ff0aabec2878bd2204d1b651be993ba4dd15",
+      "bytes": 48356
+    },
+    "visuals/tax-federalism.png": {
+      "sha256": "c2b64d6d6e5f9cc6230dc1d4a6e65c02e66244f26b023bdb446abf48c06a897e",
+      "bytes": 47890
     }
   },
-  "sources": 15
+  "sources": 15,
+  "syllabus_verification": "Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS",
+  "pdf_pages": 23
 }
