@@ -24,7 +24,7 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle40: direct inspection of source and preserved PDF found 16 concepts all >=300 words, 27 original MCQs with B18/D0 skew and implausible distractors, and mains body-only counts 193/199/212/208/229/183 (three <200). Local candidate ONLY: 17 concepts, 27 MCQs, revised Q16/21/24/27, six mains 235/239/212/208/229/232, three diagrams, 30-page synchronized local PDF SHA256 94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b; original PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Local-only artifact is NOT a GitHub commit, CI run, actual downloaded artifact, or R8 pass. Official NITI MPI table directly checked for 13.18/5.88 and intensity 43.29/40.85; official TGPSC PDF direct retrieval 403; full SEO 2026 24.6 MB inaccessible. Zero academic approvals.",
   "next_action": "Commit and render coherent candidate through guarded CI; independently download actual post-edit artifact and verify 75 originals, hashes, links, CRC, PDF; inspect full SEO 2026 reference-year table and official syllabus PDF; check all 27 MCQ keys/108 distractors, six mains factual claims, three diagrams, accessibility, expert approval.",
@@ -76,5 +76,10 @@
     "local_only_not_remote_certified": true,
     "R9": "NOT_STARTED",
     "independent_approvals": 0
+  },
+  "cycle41": {
+    "remote_integrated_edition_rendered": true,
+    "ci_integrated_pdf_sha256": "7a6186c20c663d67b9a40b0f40f51887fd55070bb95190d919e016c613b19679",
+    "ci_integrated_pdf_pages": 31
   }
 }

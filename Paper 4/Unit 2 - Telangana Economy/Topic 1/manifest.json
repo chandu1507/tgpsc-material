@@ -5,11 +5,11 @@
   "topic": 1,
   "title": "Telangana Economy: Hyderabad State, United Andhra Pradesh, Structure, Growth, Inequality and Poverty",
   "syllabus": "Telangana economy in Hyderabad State (Agriculture, Industry and Trade); Telangana economy in United AP (1956-2014)- Deprivation and Under development; Structure and Growth of Telangana economy: Sectoral trends in GSDP ; Per capita income; Income inequalities and Poverty.",
-  "production_status": "expanded_draft_not_academically_approved",
+  "production_status": "cycle41_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "academic_status": "not_approved",
-  "word_count_complete_markdown": 11626,
+  "word_count_complete_markdown": 12277,
   "word_count_detailed_notes": 6908,
-  "pdf_pages": 23,
+  "pdf_pages": 31,
   "original_explained_mcqs": 27,
   "original_mains_model_answers": 6,
   "mains_answer_word_counts": [
@@ -41,73 +41,79 @@
     "official_2026_outlook_full_pdf_audit": false
   },
   "files": {
-    "index.html": {
-      "bytes": 96921,
-      "sha256": "bdf608822c83645eeae53f8bf76f39fc283a11e053f64bc6e360be05fd068d77"
+    "QA-REPORT.md": {
+      "sha256": "1d73b0309a9d84cf7424c0130a7855ae63be6e46b9d087b333938532e8f7c066",
+      "bytes": 1000
     },
     "README.md": {
-      "bytes": 388,
-      "sha256": "983c8ae572b69b091c69d77e599b1d8762087f48496e893154d512c8d950a2cf"
+      "sha256": "983c8ae572b69b091c69d77e599b1d8762087f48496e893154d512c8d950a2cf",
+      "bytes": 388
     },
     "complete-notes.pdf": {
-      "bytes": 246820,
-      "sha256": "5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7"
+      "sha256": "5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7",
+      "bytes": 246820
     },
-    "QA-REPORT.md": {
-      "bytes": 1000,
-      "sha256": "1d73b0309a9d84cf7424c0130a7855ae63be6e46b9d087b333938532e8f7c066"
-    },
-    "source/verified-pyqs.md": {
-      "bytes": 614,
-      "sha256": "824c9ba010d02fef0002e5efd59647f5cfbd271141cd476f4b0a1f59416ed781"
+    "index.html": {
+      "sha256": "a7389eac7b75d61e5438b97ce8faddb48930e485a481c931d41cb5e9ee4b5f9c",
+      "bytes": 124439
     },
     "source/answer-blueprints.md": {
-      "bytes": 1542,
-      "sha256": "ac357aeea8e897cf9fa90c906f0491e141c5bf6bb3dd8d0962605723fd53a10c"
-    },
-    "source/visual-learning.md": {
-      "bytes": 2219,
-      "sha256": "b2f2b3909cc19b3c3e6cc18e8fd6c0a265d494450120bb66b7935199058c166d"
+      "sha256": "ac357aeea8e897cf9fa90c906f0491e141c5bf6bb3dd8d0962605723fd53a10c",
+      "bytes": 1542
     },
     "source/complete-notes.md": {
-      "bytes": 87799,
-      "sha256": "0c2b4c70a39f9fbc008a076510ba56150770387b2e61e3ec0237c80d56ac6a15"
-    },
-    "source/quick-revision.md": {
-      "bytes": 3570,
-      "sha256": "80d322010dbd14b76f9c2722b0c8f5423947ca3f15453d7022b9a298211ed31b"
-    },
-    "source/original-mcqs.md": {
-      "bytes": 8347,
-      "sha256": "b578b9a482b694694cfe84a99b6212713bd4c84a3757b274cdced3e14c8ecbcb"
-    },
-    "source/sources-and-audit.md": {
-      "bytes": 5335,
-      "sha256": "46b8e1def09c47de7004ae568966b68b03add61c78ba5842a13cf3bf29e8823f"
+      "sha256": "d56316eb3463fd7f184939ca5c9257f138f4e0e928bbc82809a7659af190de92",
+      "bytes": 92468
     },
     "source/detailed-notes.md": {
-      "bytes": 51536,
-      "sha256": "675dc9e428c31a7357c65e75ac7bd5e57ffbd3edd81db3d9f6bf72aa6ca2b51d"
+      "sha256": "ca7ccecd93787e25ef343f9feb961929c1b00dd54ebc722e78b2911d3e9fd6e7",
+      "bytes": 54409
+    },
+    "source/integrated-student-edition-2026-10-27.pdf": {
+      "sha256": "7a6186c20c663d67b9a40b0f40f51887fd55070bb95190d919e016c613b19679",
+      "bytes": 323767
     },
     "source/mains-model-answers.md": {
-      "bytes": 11359,
-      "sha256": "eba61cca3f4b723d81981aba8b5749c815b62511153e65b92866bc47f99d650c"
+      "sha256": "983eae814083288bb945220f333cc5511b15f6209d1d3bf74602c0cea2674325",
+      "bytes": 12105
+    },
+    "source/original-mcqs.md": {
+      "sha256": "e1b0d0038a0b48c32f57a5a91d8ebfd8ffa02bbda0b176315d271c826cf94b3b",
+      "bytes": 9155
+    },
+    "source/quick-revision.md": {
+      "sha256": "80d322010dbd14b76f9c2722b0c8f5423947ca3f15453d7022b9a298211ed31b",
+      "bytes": 3570
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "1f6c10006bc9056c4948d34568b675a9b4774de61cb5dbd0ee9e5d716edb200a",
+      "bytes": 6325
     },
     "source/syllabus-and-summary.md": {
-      "bytes": 3137,
-      "sha256": "22da5a859188eea9ff307d7fb6b103450a32174b801eaeb858f2372861864eae"
+      "sha256": "22da5a859188eea9ff307d7fb6b103450a32174b801eaeb858f2372861864eae",
+      "bytes": 3137
     },
-    "visuals/historical-timeline.png": {
-      "bytes": 37581,
-      "sha256": "38fb0cc3ab2c32807471f66b301f6d0cbb0ac699d8caf57058b351c6d7b4196b"
+    "source/verified-pyqs.md": {
+      "sha256": "824c9ba010d02fef0002e5efd59647f5cfbd271141cd476f4b0a1f59416ed781",
+      "bytes": 614
     },
-    "visuals/mpi-headcount.png": {
-      "bytes": 67404,
-      "sha256": "20617dac9e86c7044d88260e9f27f8ec4f284dd04c3b510941b6be049ac688b0"
+    "source/visual-learning.md": {
+      "sha256": "b2f2b3909cc19b3c3e6cc18e8fd6c0a265d494450120bb66b7935199058c166d",
+      "bytes": 2219
     },
     "visuals/gsva-sector-shares.png": {
-      "bytes": 62584,
-      "sha256": "4b343b48626574e81bb112f2f1249cce052c74b2c7e6530da54ddd751ad2defb"
+      "sha256": "4b343b48626574e81bb112f2f1249cce052c74b2c7e6530da54ddd751ad2defb",
+      "bytes": 62584
+    },
+    "visuals/historical-timeline.png": {
+      "sha256": "38fb0cc3ab2c32807471f66b301f6d0cbb0ac699d8caf57058b351c6d7b4196b",
+      "bytes": 37581
+    },
+    "visuals/mpi-headcount.png": {
+      "sha256": "20617dac9e86c7044d88260e9f27f8ec4f284dd04c3b510941b6be049ac688b0",
+      "bytes": 67404
     }
-  }
+  },
+  "date": "2026-10-27",
+  "syllabus_provenance": "Official TGPSC PDF fresh retrieval 403: R1 IN_PROGRESS, not PASS"
 }
