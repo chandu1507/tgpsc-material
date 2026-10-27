@@ -50,6 +50,14 @@ for i,p in enumerate(doc):
    x0,y0,x1,y1=b['bbox']
    if x0<8 or y0<0 or x1>p.rect.width-8 or y1>p.rect.height-2:viol.append(i+1)
 assert not viol,viol
+# Keep student-facing integrated PDF and editable-source links present before hashing HTML.
+html_path=root/'index.html'
+html_text=html_path.read_text()
+if 'id="cycle43-downloads"' not in html_text:
+ anchor='<p class="status">Expanded draft — independent academic audit pending. All questions are original practice.</p>'
+ links='<p class="small" id="cycle43-downloads"><strong>Cycle43 synchronized edition:</strong> <a href="source/integrated-student-edition-2026-10-27.pdf">Read the integrated PDF (29 pages)</a> · <a href="source/complete-notes.md">Editable Markdown master</a> · <a href="complete-notes.pdf">Preserved original PDF</a>. <em>Academic R1–R8 incomplete; no independent approval.</em></p>'
+ assert anchor in html_text
+ html_path.write_text(html_text.replace(anchor,anchor+links))
 soup=BeautifulSoup((root/'index.html').read_text(),'html.parser')
 main=soup.find('main');assert main
 aside=soup.find('nav',id='chapter-toc')
