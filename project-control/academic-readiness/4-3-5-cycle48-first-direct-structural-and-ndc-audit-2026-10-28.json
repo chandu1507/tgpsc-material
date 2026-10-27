@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-28",
+  "topic_id": "4-3-5",
+  "cycle": 48,
+  "assessment": "FIRST_DIRECT_STRUCTURAL_AND_BOUNDED_PRIMARY_SOURCE_CHECK",
+  "original_pdf_pages": 25,
+  "original_pdf_sha256": "7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7",
+  "concepts": 16,
+  "concepts_below_300": [],
+  "original_mcqs": 30,
+  "key_distribution": {
+    "A": 3,
+    "B": 24,
+    "C": 3,
+    "D": 0
+  },
+  "mains": 6,
+  "mains_body_only": [
+    215,
+    206,
+    215,
+    207,
+    206,
+    214
+  ],
+  "diagrams": 3,
+  "bounded_direct_primary_correspondences": [
+    {
+      "question": 20,
+      "key": "B",
+      "claim": "47 percent GDP emissions intensity reduction by 2035 relative to 2005",
+      "source": "https://unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf",
+      "location": "PDF page 10, numbered target 3"
+    },
+    {
+      "question": 21,
+      "key": "B",
+      "claim": "about 60 percent cumulative installed electric power capacity from non-fossil sources by 2035",
+      "source": "https://unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf",
+      "location": "PDF page 10, numbered target 4"
+    },
+    {
+      "question": null,
+      "key": null,
+      "claim": "3.5 to 4.0 billion tonnes CO2 equivalent carbon sink by 2035 compared with 2005",
+      "source": "https://unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf",
+      "location": "PDF page 10, numbered target 5"
+    }
+  ],
+  "qualification": "NDC targets are future commitments, not observed 2035 achievements; installed capacity is not generation; intensity reduction is not absolute emissions reduction.",
+  "remaining_keys_unverified": 28,
+  "all_distractors_unverified": 120,
+  "all_six_mains_claim_audits_pending": true,
+  "diagram_accuracy_pending": true,
+  "original_2024_commission_syllabus_direct_authentication_pending": true,
+  "public_browser_accessibility_pending": true,
+  "original_practice_not_official_pyq": true,
+  "R1_to_R6": "IN_PROGRESS",
+  "R7_R8": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "independent_academic_approval": false
+}
