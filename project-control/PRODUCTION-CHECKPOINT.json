@@ -303,7 +303,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "cycle31_source_based_mains_corrected_pdf_ci_pending",
-      "notes": "27 Oct Cycle30: 11 substantial concepts 605–910 words, 25 original MCQs, six mains. Direct body-only counts 205/210/196/200/200/194 contradict older manifest 220/228/208/211/212/208; M3/M6 below 200. Two existing SVGs; original 42-page PDF preserved. All academic gates incomplete. 27 Oct Cycle31: M3/M6 body-only length corrected to 239/235 directly in source, master and offline HTML; bounded Supreme Court/eCourts correspondence. Two existing SVGs linked in master; CI PDF pending. R6 IN_PROGRESS, NOT PASS.",
+      "notes": "27 Oct Cycle30: 11 substantial concepts 605–910 words, 25 original MCQs, six mains. Direct body-only counts 205/210/196/200/200/194 contradict older manifest 220/228/208/211/212/208; M3/M6 below 200. Two existing SVGs; original 42-page PDF preserved. All academic gates incomplete. 27 Oct Cycle31: M3/M6 body-only length corrected to 239/235 directly in source, master and offline HTML; bounded Supreme Court/eCourts correspondence. Two existing SVGs linked in master; CI PDF pending. R6 IN_PROGRESS, NOT PASS. Cycle31 post-render: synchronized GitHub PDF downloaded in artifact 12712828105, CRC/SHA/original preservation and static links passed; R8 IN_PROGRESS (browser accessibility pending).",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-4.json"
     },
@@ -315,7 +315,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "cycle31_objective_audit_and_source_based_mains_corrected_pdf_ci_pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Cycle31: objective assessment of actual 11 concepts (448–664 words), 25 original explained MCQs, six mains body-only 200/209/201/239/248/214 after Q4/Q5 correction, 2 original SVGs linked in canonical master. Primary-source limited check of Article 243ZE and ISRWD Act sections 6/11; original 32-page PDF preserved. All R1–R8 NOT fully passed; CI PDF pending, zero independent approvals.",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Cycle31: objective assessment of actual 11 concepts (448–664 words), 25 original explained MCQs, six mains body-only 200/209/201/239/248/214 after Q4/Q5 correction, 2 original SVGs linked in canonical master. Primary-source limited check of Article 243ZE and ISRWD Act sections 6/11; original 32-page PDF preserved. All R1–R8 NOT fully passed; CI PDF pending, zero independent approvals. Cycle31 post-render: synchronized GitHub PDF downloaded in artifact 12712828105, CRC/SHA/original preservation and static links passed; R8 IN_PROGRESS (browser accessibility pending).",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-5.json"
     },
@@ -1037,5 +1037,5 @@
     "evidence": "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json"
   },
   "last_readiness_update": "27 Oct Cycle29 final actual artifact verified; 7 IN_PROGRESS, 7 ASSESSED_REBUILD_REQUIRED, 61 NOT_ASSESSED; 0 fully ready, 0 independent approvals.",
-  "last_readiness_reconciliation": "27 Oct Cycle31: 75 original topics, 7 IN_PROGRESS, 10 ASSESSED_REBUILD_REQUIRED, 58 NOT_ASSESSED, 0 fully ready, 0 approvals; Topics 3-2-4/5 mains corrected and canonical masters updated, synchronized CI PDF pending."
+  "last_readiness_reconciliation": "27 Oct Cycle31: 75 originals, 7 IN_PROGRESS, 10 ASSESSED_REBUILD_REQUIRED, 58 NOT_ASSESSED, 0 fully ready/approved. Topics 3-2-4 and 3-2-5 integrated 34/28-page CI PDFs, actual artifact 12712828105 downloaded and CRC/SHA/link verified; R8 remains IN_PROGRESS."
 }
