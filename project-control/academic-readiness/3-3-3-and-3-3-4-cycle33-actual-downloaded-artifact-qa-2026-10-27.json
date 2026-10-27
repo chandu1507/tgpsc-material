@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-27",
+  "cycle": 33,
+  "run_id": 40470295916,
+  "artifact_id": 12718372213,
+  "artifact_sha256": "566e6b961500c1b0ff82d9178f0009956cd57c4e5560bda53ee77eaaded534f7",
+  "downloaded_and_inspected": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "inner_file_count": 1577,
+  "original_topic_pdf_count": 75,
+  "original_topic_pdf_hashes_unchanged_vs_cycle32": 75,
+  "per_topic_readiness_json_count": 75,
+  "readiness_statuses": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 14,
+    "NOT_ASSESSED": 54
+  },
+  "html_pages": 78,
+  "local_file_links_checked": 416,
+  "broken_local_file_links": 0,
+  "dom_fragment_links_checked": 687,
+  "broken_dom_fragments": 0,
+  "spa_routes_excluded": 64,
+  "topic_3_3_3": {
+    "integrated_pdf_pages": 39,
+    "integrated_pdf_sha256": "2cb424bc397ebbed50abcf132ff072177888f640b8860446d943bfeb535ee7e9",
+    "legacy_pdf_sha256": "d7ea1aca5e13e1d71283bb58d0de064e047064f03a6a60b26eb1501395d5bcfc",
+    "blank_pages": 0,
+    "text_boundary_violations": 0,
+    "manifest_hashes_checked": 16,
+    "manifest_hash_mismatches": 0,
+    "mcqs": 25,
+    "mains": 6,
+    "answer_keys": {
+      "A": 4,
+      "B": 9,
+      "C": 6,
+      "D": 6
+    }
+  },
+  "limits": [
+    "Direct browser and full-resolution accessibility unverified",
+    "All 25 MCQ keys and 100 distractors not independently signed off",
+    "All six mains claims not independently checked",
+    "Official TGPSC primary syllabus PDF inaccessible",
+    "No independent academic approval"
+  ],
+  "academic_approvals": 0,
+  "qa_method": "Independently downloaded GitHub Actions artifact ZIP, compared outer digest to GitHub, CRC both layers, original PDF SHA against Cycle32 actual ZIP, parsed all 78 HTML pages, distinguished SPA routes from DOM fragments, checked topic PDF and manifest."
+}

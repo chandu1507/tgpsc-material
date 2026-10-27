@@ -941,7 +941,12 @@
     "artifact_id": 12603335945,
     "pages_run_id": 40204448553,
     "unique_archive_entries": 1262,
-    "independent_live_browser_status": "unverified"
+    "independent_live_browser_status": "unverified",
+    "cycle33_verified_run": 40470295916,
+    "cycle33_verified_artifact": 12718372213,
+    "cycle33_artifact_sha256": "566e6b961500c1b0ff82d9178f0009956cd57c4e5560bda53ee77eaaded534f7",
+    "cycle33_qa_evidence": "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-actual-downloaded-artifact-qa-2026-10-27.json",
+    "academic_approval": 0
   },
   "latest_quality_repair": {
     "topic_id": "2-1-1",
@@ -1037,6 +1042,6 @@
     "evidence": "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
     "total_topics": 75
   },
-  "last_readiness_update": "27 Oct Cycle33: 75 original topics, 7 IN_PROGRESS, 14 ASSESSED_REBUILD_REQUIRED, 54 NOT_ASSESSED; topics 3-3-3 and 3-3-4 individually assessed; integrated 3-3-3 CI artifact pending actual download and QA; zero fully ready or independently approved.",
+  "last_readiness_update": "27 Oct Cycle33: 75 original topics, 7 IN_PROGRESS, 14 ASSESSED_REBUILD_REQUIRED, 54 NOT_ASSESSED. 3-3-3 39-page synchronized integrated PDF rendered; actual GitHub artifact 12718372213 downloaded and QA passed (1577 files, 75 original PDFs preserved, zero broken checked links/fragments). 3-3-4 objective assessment complete; R1–R8 zero fully ready, independent approvals zero.",
   "last_readiness_reconciliation": "27 Oct Cycle31: 75 originals, 7 IN_PROGRESS, 10 ASSESSED_REBUILD_REQUIRED, 58 NOT_ASSESSED, 0 fully ready/approved. Topics 3-2-4 and 3-2-5 integrated 34/28-page CI PDFs, actual artifact 12712828105 downloaded and CRC/SHA/link verified; R8 remains IN_PROGRESS."
 }

@@ -107,7 +107,7 @@
     "3-3-3",
     "3-3-4"
   ],
-  "last_readiness_update": "27 Oct Cycle33: 75 originals, 7 IN_PROGRESS, 14 ASSESSED_REBUILD_REQUIRED, 54 NOT_ASSESSED. 3-3-3 deterministic integrated 39-page PDF rendered in guarded CI (SHA256 2cb424bc397ebbed50abcf132ff072177888f640b8860446d943bfeb535ee7e9), original PDF preserved; actual post-render packaging artifact still needs download and independent QA. Approvals zero.",
+  "last_readiness_update": "27 Oct Cycle33: 75 original topics, 7 IN_PROGRESS, 14 ASSESSED_REBUILD_REQUIRED, 54 NOT_ASSESSED. 3-3-3 39-page synchronized integrated PDF rendered; actual GitHub artifact 12718372213 downloaded and QA passed (1577 files, 75 original PDFs preserved, zero broken checked links/fragments). 3-3-4 objective assessment complete; R1–R8 zero fully ready, independent approvals zero.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -118,6 +118,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-3-3-cycle33-render-qa.json",
     "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json",
     "project-control/academic-readiness/3-3-1-cycle32-downloaded-artifact-qa-verified-2026-10-27.json",
