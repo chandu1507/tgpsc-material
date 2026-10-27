@@ -28,13 +28,13 @@ assert len(concepts) == 17 and min(concept_words) >= 300, concept_words
 mcq = (src/'original-mcqs.md').read_text()
 assert len(re.findall(r'(?m)^\*\*Q\d+\.',mcq)) == 30
 assert len(re.findall(r'(?m)^\*\*Answer: [ABCD]\.\*\*',mcq)) == 30
-blocks = re.split(r'(?m)(?=^\\*\\*Q\\d+\\.\\*\\*)', mcq)
-blocks = [b for b in blocks if re.match(r'^\\*\\*Q\\d+\\.\\*\\*', b)]
+blocks = re.split(r'(?m)(?=^\*\*Q\d+\.\*\*)', mcq)
+blocks = [b for b in blocks if re.match(r'^\*\*Q\d+\.\*\*', b)]
 assert len(blocks) == 30, len(blocks)
 for n, block in enumerate(blocks, 1):
     assert block.startswith(f'**Q{n}.**'), n
-    assert all(re.search(rf'(?m)^{a}\\. ', block) for a in 'ABCD'), n
-    assert re.search(r'\\*\\*Answer: [ABCD]\\.\\*\\*', block), n
+    assert all(re.search(rf'(?m)^{a}\. ', block) for a in 'ABCD'), n
+    assert re.search(r'\*\*Answer: [ABCD]\.\*\*', block), n
 mains = (src/'mains-model-answers.md').read_text()
 answer_bodies = re.split(r'(?m)^## Model Answer \d+\..*$', mains)[1:]
 assert len(answer_bodies)==6
