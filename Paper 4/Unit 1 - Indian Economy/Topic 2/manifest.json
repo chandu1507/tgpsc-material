@@ -2,10 +2,10 @@
   "id": "4-1-2",
   "title": "Poverty and Unemployment: Income/Non-income Poverty, Capability and HPI, Measurement and Trends, Unemployment Concepts and Trends",
   "status": "expanded_draft_not_academically_approved",
-  "date": "2026-10-23",
-  "source_syllabus": "Notification 02/2024, Paper IV, Unit I, Topic 2; direct official annexure audit pending",
+  "date": "2026-10-27",
+  "source_syllabus": "Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS",
   "counts": {
-    "words": 12339,
+    "words": 13418,
     "detailed_sections": 13,
     "original_mcqs": 25,
     "mains_models": 6,
@@ -18,31 +18,82 @@
       242
     ],
     "diagrams": 3,
-    "pdf_pages": 27
+    "pdf_pages": 30
   },
   "official_pyqs_verified": 0,
   "notes": "All 25 MCQs and six mains prompts are original practice; historical ratios are method-dependent. No official PYQ asserted.",
   "files": {
-    "README.md": "370c4d6ecd4ed9f9d16abf22d83edc1ddb4fbdac141090cf8ff29731ef04dcf6",
-    "complete-notes.pdf": "c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1",
-    "index.html": "91a238f7ef63a73ccf4aa103dc26f0e12fa86b69e1274d432d0eafbfe94f830c",
-    "source/answer-blueprints.md": "ef9253128461b96ce1ccf47850d9f1502023eb92496c1c9f7479f79524e9d4a7",
-    "source/complete-notes.md": "ee6dd56fac5e664d8d15a4f2d9cead73619b1147c50e7575b08f94a7338c5e74",
-    "source/detailed-notes.md": "542bf855b9fd205d29e291980b19b13471b4b443ebfd1e691e0c9e7bb3e918e7",
-    "source/mains-model-answers.md": "9cf1f93127565a46ba0d63ca0011ae28309fd35853cb1d3136df39cae1cad7f7",
-    "source/original-mcqs.md": "0481ca1d907e873a6f0a4f2b9f6cf84fe4360d887e7688145016ef3620e8d7cd",
-    "source/quick-revision.md": "db5698cdd8ef134ff5eef1f129e3353d61ac290bc60d7f0b70bcd841c67f0672",
-    "source/sources-and-audit.md": "97480737e9b1606270ea80b56b33658e660b89b24045cfc5011fa87ff218ed94",
-    "source/syllabus-and-summary.md": "1290908963a6e662b6189abfcb5a7ce1aa6118fb6b3bb6aa52cb2dbc3bfc88c9",
-    "source/visual-learning.md": "395e1ae498559e0910e1c49786aee8d1145e78696bb9d7151358ff41010af607",
-    "visuals/labour-force-flow.png": "8bb09c194e1216b7923f2083b01b4a27911acc9f1015482e059d8843de6135f1",
-    "visuals/poverty-measurement.png": "e5ecb8226a632af366f14d7695ffebd373219a7a128c51bb4e492082c686b75f",
-    "visuals/telangana-policy.png": "6c25476fdb75d0a44886796c9cbf596ea60c093ac234064fb4b5cbc7683680fc"
+    "README.md": {
+      "sha256": "370c4d6ecd4ed9f9d16abf22d83edc1ddb4fbdac141090cf8ff29731ef04dcf6",
+      "bytes": 430
+    },
+    "complete-notes.pdf": {
+      "sha256": "c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1",
+      "bytes": 278637
+    },
+    "index.html": {
+      "sha256": "25f6655936d6545bda9b3c107f42b16ecd9a98445a2c205dc1c2dd7cd21b2d53",
+      "bytes": 122881
+    },
+    "source/answer-blueprints.md": {
+      "sha256": "ef9253128461b96ce1ccf47850d9f1502023eb92496c1c9f7479f79524e9d4a7",
+      "bytes": 1718
+    },
+    "source/complete-notes.md": {
+      "sha256": "3c8f72c70b8d9298c38f041fda72e9469ea79266e7a121a983df7fd1c7a1d430",
+      "bytes": 96022
+    },
+    "source/detailed-notes.md": {
+      "sha256": "43b83fad9dbf28e720af677e064cde3a7692903bfc91c6d7455b3b2476451190",
+      "bytes": 55378
+    },
+    "source/integrated-student-edition-2026-10-27.pdf": {
+      "sha256": "3bc20012e60012aed9ef8e254b452c1767d481f02a11c2e1795efb05e8bb3b69",
+      "bytes": 309770
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "9cf1f93127565a46ba0d63ca0011ae28309fd35853cb1d3136df39cae1cad7f7",
+      "bytes": 11275
+    },
+    "source/original-mcqs.md": {
+      "sha256": "3c10077b6326624a6f7db0df879610c8b10c39d8c6a86761c3a25a776b427191",
+      "bytes": 10496
+    },
+    "source/quick-revision.md": {
+      "sha256": "db5698cdd8ef134ff5eef1f129e3353d61ac290bc60d7f0b70bcd841c67f0672",
+      "bytes": 4241
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "0ba9fc55a9cf488a7feaad66a1606131149f56e424ce8582074be6f034c5aee9",
+      "bytes": 6388
+    },
+    "source/syllabus-and-summary.md": {
+      "sha256": "ca77182224f2386346b2734ab147ae35ad5dab715331130e7638ffaf095850ec",
+      "bytes": 3549
+    },
+    "source/visual-learning.md": {
+      "sha256": "395e1ae498559e0910e1c49786aee8d1145e78696bb9d7151358ff41010af607",
+      "bytes": 2804
+    },
+    "visuals/labour-force-flow.png": {
+      "sha256": "8bb09c194e1216b7923f2083b01b4a27911acc9f1015482e059d8843de6135f1",
+      "bytes": 44702
+    },
+    "visuals/poverty-measurement.png": {
+      "sha256": "e5ecb8226a632af366f14d7695ffebd373219a7a128c51bb4e492082c686b75f",
+      "bytes": 51749
+    },
+    "visuals/telangana-policy.png": {
+      "sha256": "6c25476fdb75d0a44886796c9cbf596ea60c093ac234064fb4b5cbc7683680fc",
+      "bytes": 54123
+    }
   },
   "source_gaps": [
     "Original commission PDF annexure not fully retrievable",
     "No source-verified official PYQs",
     "Independent academic and legal audit pending",
     "No direct verified 2026 Telangana PLFS district statistics"
-  ]
+  ],
+  "academic_status": "not_approved",
+  "production_status": "cycle36_CI_integrated_pdf_and_offline_html; browser accessibility pending"
 }
