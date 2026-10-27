@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-27",
+  "topic": "4-1-3",
+  "packaging_run_id": 40500551861,
+  "artifact_id": 12733010561,
+  "artifact_digest": "sha256:919fe537173d1e9b58bc0c9ac4c0839c24743e55fbe8fb6a3674c7e76cb482fe",
+  "actually_downloaded": true,
+  "downloaded_outer_zip_sha256": "919fe537173d1e9b58bc0c9ac4c0839c24743e55fbe8fb6a3674c7e76cb482fe",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "packaged_files": 1603,
+  "original_topic_pdfs": 75,
+  "original_pdf_hashes_unchanged_vs_cycle36": 75,
+  "per_topic_readiness_json": 75,
+  "html_pages": 78,
+  "relative_file_links_checked": 419,
+  "broken_relative_links": 0,
+  "dom_fragments_checked": 770,
+  "broken_dom_fragments": 0,
+  "spa_hash_routes_excluded": 64,
+  "integrated_pdf": {
+    "pages": 28,
+    "sha256": "6fa3f16a6223b6cb675513c3cc71947f0adfe4cbfabee5de6304e06f00cec09a",
+    "images": 3,
+    "blank_pages": 0,
+    "text_boundary_violations": 0,
+    "full_resolution_last_page_checked": true,
+    "all_pages_contact_sheet_checked": true,
+    "original_pdf_sha256": "2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0"
+  },
+  "manifest_hashes": {
+    "pass": 16,
+    "total": 16
+  },
+  "component_source_sync": {
+    "pass": 8,
+    "total": 8
+  },
+  "original_mcqs": 25,
+  "mcq_answer_distribution": {
+    "A": 8,
+    "B": 9,
+    "C": 6,
+    "D": 2
+  },
+  "mains_body_only_words": [
+    218,
+    209,
+    201,
+    213,
+    205,
+    209
+  ],
+  "mains_count_method": "split on ## Mains N headings, remove title line and bold subheading labels, regex word tokens; count direct actual artifact source; differs slightly from earlier author-side whitespace counts",
+  "publication_integrity_pass": true,
+  "direct_public_browser_usability_certified": false,
+  "comprehensive_accessibility_certified": false,
+  "independent_academic_review": false,
+  "fully_R1_R8_ready": 0,
+  "academic_approvals": 0,
+  "limitations": [
+    "source register final page sparse; previous raw-pipe formatting corrected",
+    "23 inherited MCQ keys and all distractors remain independently unchecked",
+    "all six mains require claim-level independent factual audit",
+    "diagram factual validation pending",
+    "no verified official PYQ provenance",
+    "publication integrity does not confer academic approval"
+  ]
+}
