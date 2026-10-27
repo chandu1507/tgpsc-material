@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Cycle36 controlling reconciliation — 27 October 2026
+
+**Exactly 75 original topics: 7 IN_PROGRESS, 17 ASSESSED_REBUILD_REQUIRED, 51 NOT_ASSESSED. Eight direct R1 syllabus mappings PASS; zero fully R1–R8 ready, zero independent approvals.** Topic 4-1-2 directly matched original TGPSC Notification 02/2024 Annexure-II PDF index 30, printed page 31, lines 1719–1725. All 13 concepts exceed 300 words; a substantive original FGT/MPI/UR measurement laboratory was integrated. Two of 25 original practice MCQs (Q23/Q25) were revised, five key correspondences received bounded author-side checks; all distractors and six mains still require independent claim review. Original 27-page PDF preserved SHA256 `c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1`. A local synchronized 28-page PDF exists but remote CI and downloaded-artifact QA must be verified separately. R1 PASS, R2–R8 IN_PROGRESS, R9 NOT_STARTED.
+
 ## Cycle35 official syllabus retrieval — 27 October 2026
 
 Directly retrieved the Commission's original **Notification No. 02/2024 Annexure-II**, printed page 31 (PDF index 30), and checked the exact Paper IV Unit I Topic 1 national-income wording. **Topic 4-1-1 R1 PASS**; the verified R1 mapping count increases from 6 to **7**. This does not pass R2–R8, does not authenticate PYQs, and does not confer academic approval. The editable master and source register were updated; a synchronized CI PDF and actual downloaded artifact must be reverified after this source change. Evidence: `project-control/academic-readiness/4-1-1-cycle35-official-notification-r1-syllabus-correspondence-2026-10-27.json`.

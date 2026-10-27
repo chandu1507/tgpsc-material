@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 52,
+  "not_assessed_count": 51,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 16 ASSESSED_REBUILD_REQUIRED, 52 NOT_ASSESSED; zero fully R1–R8 ready and zero independent academic approvals.",
+  "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 17 ASSESSED_REBUILD_REQUIRED, 51 NOT_ASSESSED; zero fully R1–R8 ready and zero independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -107,9 +107,10 @@
     "3-3-3",
     "3-3-4",
     "3-3-5",
-    "4-1-1"
+    "4-1-1",
+    "4-1-2"
   ],
-  "last_readiness_update": "27 Oct Cycle35 final: 4-1-1 R1 PASS directly against official TGPSC Notification 02/2024 Annexure-II; 25-page CI integrated PDF with 3 diagrams, 25 original MCQs, six mains; actual run 40484940015 artifact 12724552224 downloaded CRC/SHA/75-topic checks PASS; R8 IN_PROGRESS, 7/16/52, 0 approvals.",
+  "last_readiness_update": "27 October Cycle36: 4-1-2 direct R1 PASS, 13 concepts, quantitative lab, Q23/Q25 corrected, local 28-page PDF; remote artifact pending.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -117,9 +118,10 @@
     "2-3-2",
     "2-3-5",
     "3-1-1",
-    "4-1-1"
+    "4-1-1",
+    "4-1-2"
   ],
-  "verified_R1_pass_count": 7,
+  "verified_R1_pass_count": 8,
   "recent_evidence": [
     "project-control/academic-readiness/4-1-1-cycle35-final-r1-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-1-1-cycle35-official-notification-r1-syllabus-correspondence-2026-10-27.json",
