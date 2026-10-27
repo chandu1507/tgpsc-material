@@ -50,23 +50,20 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "27 Oct Cycle30: actual 10 concepts, 25 original MCQs, six mains inspected. Added substantive Article171 forty-member minimum proviso vs one-third Council ceiling and separate Art164 ministry 17 maximum; revised Q13 in detailed notes, integrated master and offline HTML; five limited author-side source correspondences Q5/Q12/Q13/Q14/Q23. No independent distractor, mains, R1, accessibility or PDF synchronization certification. GitHub CI renderer run 40452135732 SUCCESS, 33-page searchable integrated PDF, SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; page18 330 chars and page33 490 chars require layout review; post-render downloaded archive and browser accessibility NOT verified.",
-  "next_action": "Trigger a new packaging workflow from an external commit, download the actual post-render artifact, check CRC/SHA/original 75 PDFs/links, inspect 33 pages; then complete R1-R7.",
+  "evidence": "27 Oct Cycle30: actual 10 concepts, 25 original MCQs, six mains inspected. Added substantive Article171 forty-member minimum proviso vs one-third Council ceiling and separate Art164 ministry 17 maximum; revised Q13 in detailed notes, integrated master and offline HTML; five limited author-side source correspondences Q5/Q12/Q13/Q14/Q23. No independent distractor, mains, R1, accessibility or PDF synchronization certification. GitHub CI renderer run 40452135732 SUCCESS, 33-page searchable integrated PDF, SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; page18 330 chars and page33 490 chars require layout review; post-render downloaded archive and browser accessibility NOT verified. Cycle30 correction: contact-sheet page18 orphan visual heading identified in initial 33-page render; renderer PageBreak removed, rerender run 40452389432 SUCCESS, now 32 searchable pages SHA256 bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05. Actual final post-render artifact download pending.",
+  "next_action": "Download final post-render packaging artifact, inspect all 32 pages, check 75 original PDFs/CRC/links, save /Mounika/, then independent R1-R7 academic audit.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
     "path": "Paper 3/Unit 2 - Constitution of India/Topic 3/source/integrated-student-edition-2026-10-27.pdf",
-    "pages": 33,
-    "sha256": "8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51",
-    "renderer_run": 40452135732,
+    "pages": 32,
+    "sha256": "bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05",
+    "renderer_run": 40452389432,
     "original_pdf_sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24",
     "source_manifest_verified_by_ci": true,
     "post_render_artifact_download_verified": false,
     "contact_sheet_review": false,
     "public_browser_verified": false,
-    "near_empty_text_pages": [
-      18,
-      33
-    ]
+    "known_layout_issue": "Final page contains short source-audit tail; no blank pages per automated QA"
   }
 }
