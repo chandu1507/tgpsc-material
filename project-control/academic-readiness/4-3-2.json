@@ -1,8 +1,8 @@
 {
   "topic_id": "4-3-2",
   "title": "Natural Resources: Forests, Water, Land and Minerals",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,45 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle45 direct first assessment: 16 core concepts, three below 300 words (296/294/299), 30 four-option original MCQs with key distribution A3/B26/C1/D0, six mains body-only 208/208/204/202/212/202 words, 3 inherited diagrams, original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved. Official FSI ISFR 2023 Telangana Table10.25.2 verifies 21,179.04 sq km forest cover; tree cover 3,517.66 sq km in Q4 NOT independently verified. CGWB 2024 district groundwater tables located but claim-level review incomplete. All MCQ keys/distractors, mains, syllabus, diagrams and browser QA pending.",
+  "next_action": "Substantively expand core concepts 9,11,13; correct B26/30 key concentration through genuine item review (not arbitrary answer reassignment); verify MCQ4 tree-cover claim from FSI Vol I; full MCQ/distractor, mains, diagram and syllabus audit; integrate deterministic PDF and actual artifact QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
+  "cycle45": {
+    "assessment": "FIRST_DIRECT_ASSESSMENT",
+    "concepts": 16,
+    "concept_below_300": 3,
+    "concept_shallow_ids": [
+      9,
+      11,
+      13
+    ],
+    "mcqs": 30,
+    "key_distribution": {
+      "A": 3,
+      "B": 26,
+      "C": 1,
+      "D": 0
+    },
+    "mains_body_counts": [
+      208,
+      208,
+      204,
+      202,
+      212,
+      202
+    ],
+    "pdf_pages": 21,
+    "independent_approval": false
+  }
 }

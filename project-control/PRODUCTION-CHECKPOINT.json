@@ -511,8 +511,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle44_direct_assessment_local_candidate_remote_integration_pending",
-      "notes": "Cycle44 direct original assessment: 16 substantive concepts 320–363 words, 30 original practice MCQs A5/B21/C4/D0, six mains body-only 196/199/211/203/201/188, three original diagrams, 27-page original PDF SHA d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260 preserved. A LOCAL ONLY coherent editable master/26-page PDF/HTML candidate adds a quantitative hypothetical load laboratory, revises Q14/Q23/Q29, extends all six mains to 247/246/248/247/245/233 body-only words and adds a schematic. Local link/fragment and PDF QA PASS. NOT committed/CI rendered or verified in a new GitHub artifact. Limited source checks: India Code, official EIA explainer, Telangana PCB, CPCB SWM portal, UNFCCC April 2026 NDC. All 30 keys/120 distractors, all mains claims, original diagrams, direct 2024 syllabus, remote browser accessibility and expert approval pending.",
+      "production_review": "cycle45_integrated_ci_published_actual_downloaded_artifact_integrity_verified_academic_audit_pending",
+      "notes": "Cycle45 coherent 17-concept master, 30 original MCQs (Q14/Q23/Q29 revised), six 200+ body-word mains, four diagrams including original hypothetical cumulative-load schematic. CI 28-page integrated PDF SHA256 e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f. Packaging run 40573418884 artifact 12766127068 actually downloaded, ZIP digest 438fec3b5bd34d8b24ae0e939466b58464ccf7e45967b29d2ae3a62e7db2290f, outer/inner CRC PASS, 1647 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 429 local links and 1137 fragments zero broken, 64 SPA routes excluded, 21/21 manifest hashes. R8 IN_PROGRESS not PASS; no complete independent academic or browser accessibility review.",
       "published_commit": "006485feb2495805077841957532ab42ac00e7ac",
       "pdf_blob_sha": "a12453c4b8d9cd4789afdcc837a9a80eb321d41a",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
@@ -525,9 +525,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending_independent_audit",
-      "notes": "Expanded 10k+ word original draft, 21-page PDF, 30 explained original MCQs, six 200–250 word mains answers, three diagrams; primary-source audit incomplete for exact official syllabus and district groundwater tables.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "first_direct_structural_and_bounded_primary_source_assessment_rebuild_required",
+      "notes": "Cycle45 first direct assessment: original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved; 16 core concepts, three below300 words (296/294/299), 30 original four-option practice MCQs (keys A3/B26/C1/D0), six mains body-only 208/208/204/202/212/202 words, three inherited diagrams. Official FSI ISFR 2023 Telangana Table10.25.2 directly corroborates forest cover 21,179.04 km²; tree cover 3,517.66 km² and district groundwater numerical claims not directly authenticated. Complete MCQ/distractor, mains, syllabus, diagrams, browser QA pending; NOT academically approved.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-3-2.json"
     },
     {
@@ -935,25 +935,25 @@
   "next_sequential_topic": null,
   "next_new_topic": null,
   "latest_verified_publication": {
-    "topic_id": "4-2-5",
-    "date": "2026-10-27",
+    "topic_id": "4-3-1",
+    "date": "2026-10-28",
     "publication_status": "github_artifact_integrity_verified_not_academic_approval",
     "academic_status": "not_approved",
     "published_pdf_pairs": 75,
     "html_slots": 75,
-    "publication_commit": "bea7801ddec6284852bdd97e8e46361cc78f21a2",
-    "packaging_run_id": 40557156284,
-    "artifact_id": 12758135535,
+    "publication_commit": "0faa1834620997e0a0d95c9c935aadfb5ea59e39",
+    "packaging_run_id": 40573418884,
+    "artifact_id": 12766127068,
     "pages_run_id": 40204448553,
-    "unique_archive_entries": 1637,
+    "unique_archive_entries": 1647,
     "independent_live_browser_status": "unverified",
     "cycle33_verified_run": 40470295916,
     "cycle33_verified_artifact": 12718372213,
     "cycle33_artifact_sha256": "566e6b961500c1b0ff82d9178f0009956cd57c4e5560bda53ee77eaaded534f7",
     "cycle33_qa_evidence": "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-actual-downloaded-artifact-qa-2026-10-27.json",
     "academic_approval": 0,
-    "artifact_sha256": "4829fbf52ee9a75b0c1f4b8e7936a374d836cc97856862a1e2dbf6e9b08a2545",
-    "qa_evidence": "project-control/academic-readiness/4-2-5-cycle43-actual-downloaded-artifact-qa-2026-10-27.json"
+    "artifact_sha256": "438fec3b5bd34d8b24ae0e939466b58464ccf7e45967b29d2ae3a62e7db2290f",
+    "qa_evidence": "project-control/academic-readiness/4-3-1-cycle45-actual-downloaded-artifact-qa-2026-10-28.json"
   },
   "latest_quality_repair": {
     "topic_id": "2-1-1",
@@ -1011,17 +1011,17 @@
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
     "pilot_in_progress": 7,
-    "topics_not_assessed": 42,
+    "topics_not_assessed": 41,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle44: 7 IN_PROGRESS, 26 ASSESSED_REBUILD_REQUIRED, 42 NOT_ASSESSED; 10 direct R1 PASS, zero ready/approved. 4-3-1 corrected candidate LOCAL ONLY.",
+    "note": "Cycle45: 7 IN_PROGRESS, 27 ASSESSED_REBUILD_REQUIRED, 41 NOT_ASSESSED; 10 R1 PASS; 4-3-1 CI-published and downloaded artifact verified; 4-3-2 first assessment, rebuild required. Zero fully ready/approved.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40557156284,
-    "last_verified_package_artifact": 12758135535,
+    "last_verified_package_run": 40573418884,
+    "last_verified_package_artifact": 12766127068,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1031,7 +1031,7 @@
       "2-3-4",
       "2-3-5"
     ],
-    "last_topic": "4-3-1",
+    "last_topic": "4-3-2",
     "topics_assessed_rebuild_required": [
       "3-1-1",
       "3-1-2",
@@ -1058,20 +1058,21 @@
       "4-2-3",
       "4-2-4",
       "4-2-5",
-      "4-3-1"
+      "4-3-1",
+      "4-3-2"
     ]
   },
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 26,
-    "not_assessed": 42,
+    "assessed_rebuild_required": 27,
+    "not_assessed": 41,
     "verified_R1_pass": 10,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "4-3-1",
-    "evidence": "project-control/academic-readiness/4-3-1-cycle44-local-candidate-and-bounded-source-audit-2026-10-28.json"
+    "last_assessed": "4-3-2",
+    "evidence": "project-control/academic-readiness/4-3-2-cycle45-first-structural-and-source-audit-2026-10-28.json"
   },
-  "last_readiness_update": "28 Oct Cycle44: Topic 4-3-1 assessed and local corrected candidate built, NOT remote-published. 7 IN_PROGRESS, 26 ASSESSED_REBUILD_REQUIRED, 42 NOT_ASSESSED; 10 R1 PASS, zero fully ready/approved.",
-  "last_readiness_reconciliation": "Exactly 75 original topics; 7 IN_PROGRESS, 26 ASSESSED_REBUILD_REQUIRED, 42 NOT_ASSESSED; 10 directly verified R1 PASS; zero fully R1-R8 ready and zero independent approvals."
+  "last_readiness_update": "28 Oct Cycle45: Topic 4-3-1 integrated CI PDF and actual downloaded artifact QA passed; Topic 4-3-2 first assessment found 3 shallow concepts and B26/30 MCQ key concentration. 7 IN_PROGRESS, 27 ASSESSED_REBUILD_REQUIRED, 41 NOT_ASSESSED; 10 R1 PASS; zero fully ready/approved.",
+  "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 27 ASSESSED_REBUILD_REQUIRED, 41 NOT_ASSESSED; 10 directly verified R1 PASS; zero fully R1-R8 ready and zero independent approvals."
 }

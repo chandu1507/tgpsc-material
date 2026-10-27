@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-28",
+  "cycle": 45,
+  "topic_id": "4-3-2",
+  "title": "Natural Resources: Forests, Water, Land and Minerals",
+  "source_repo": "chandu1507/tgpsc-material",
+  "source_path": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 2",
+  "original_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
+  "original_pdf_pages": 21,
+  "concepts": 16,
+  "concept_word_counts": [
+    387,
+    361,
+    346,
+    348,
+    355,
+    309,
+    320,
+    333,
+    296,
+    330,
+    294,
+    338,
+    299,
+    310,
+    301,
+    309
+  ],
+  "concepts_under_300": [
+    9,
+    11,
+    13
+  ],
+  "original_mcqs": 30,
+  "option_count": 120,
+  "key_distribution": {
+    "A": 3,
+    "B": 26,
+    "C": 1,
+    "D": 0
+  },
+  "mains_body_only_word_counts": [
+    208,
+    208,
+    204,
+    202,
+    212,
+    202
+  ],
+  "inherited_diagrams": 3,
+  "source_correspondences": [
+    {
+      "claim": "ISFR 2023 Telangana forest cover 21,179.04 km2",
+      "status": "DIRECTLY_VERIFIED",
+      "source": "https://forests.telangana.gov.in/Documents/FAG/FAG_2023.pdf",
+      "location": "Table 10.25.2 printed page 277"
+    },
+    {
+      "claim": "MCQ4 tree cover 3,517.66 km2",
+      "status": "NOT_DIRECTLY_VERIFIED",
+      "source": "FSI ISFR 2023 Vol I needed"
+    },
+    {
+      "claim": "CGWB 2024 district groundwater tables",
+      "status": "SOURCE_LOCATED_NOT_CLAIM_LEVEL_AUDITED",
+      "source": "https://www.jalshakti-dowr.gov.in/static/uploads/2024/12/ef14a888b8fda9609ebb2d776720b52a.pdf"
+    }
+  ],
+  "R1": "IN_PROGRESS",
+  "R2_R6": "IN_PROGRESS",
+  "R7_R8": "BLOCKED",
+  "official_pyqs_verified": 0,
+  "fully_r1_r8_ready": false,
+  "independent_academic_approval": false,
+  "limitations": "No full key/distractor, mains claim, diagram, official syllabus or browser QA."
+}
