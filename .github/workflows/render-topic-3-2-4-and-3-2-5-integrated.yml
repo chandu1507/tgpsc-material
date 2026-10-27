@@ -1,0 +1,99 @@
+name: Render Topics 3-2-4 and 3-2-5 Integrated Editions
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 3/Unit 2 - Constitution of India/Topic 4/source/**'
+      - 'Paper 3/Unit 2 - Constitution of India/Topic 5/source/**'
+      - 'scripts/render_topic_3_2_4.py'
+      - 'scripts/render_topic_3_2_5.py'
+      - '.github/workflows/render-topic-3-2-4-and-3-2-5-integrated.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-3-2-4-3-2-5-integrated-render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install rendering dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libcairo2-dev pkg-config libffi-dev
+          python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'svglib>=1.5,<2' 'pymupdf>=1.24,<2'
+      - name: Guarded render of both topics and synchronized manifests
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python - <<'PY'
+          import pathlib,json,hashlib
+          root=pathlib.Path('project-control/academic-readiness')
+          index=json.loads(pathlib.Path('project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json').read_text())
+          checkpoint=json.loads(pathlib.Path('project-control/PRODUCTION-CHECKPOINT.json').read_text())
+          assert index['total_topics']==checkpoint['total_topics']==75
+          assert len(checkpoint['topics'])==75
+          assert len(list(root.glob('[2-6]-[1-3]-[1-5].json')))==75
+          assert sum(t['readiness_status']=='ASSESSED_REBUILD_REQUIRED' for t in checkpoint['topics'])>=10
+          for t,sha in [('4','1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f'),('5','44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15')]:
+              p=pathlib.Path('Paper 3/Unit 2 - Constitution of India/Topic '+t+'/complete-notes.pdf')
+              assert hashlib.sha256(p.read_bytes()).hexdigest()==sha,(t,'legacy original modified')
+          PY
+            for topic in 4 5; do
+              chapter="Paper 3/Unit 2 - Constitution of India/Topic $topic"
+              python "scripts/render_topic_3_2_${topic}.py" \
+                --input "$chapter/source/complete-notes.md" \
+                --output "$chapter/source/integrated-student-edition-2026-10-27.pdf" \
+                --qa "project-control/academic-readiness/3-2-${topic}-cycle31-render-qa.json"
+            done
+            python - <<'PY'
+          import json,pathlib,hashlib,fitz
+          for t,min_pages,title in [('4',28,'Judicial System'),('5',23,'Federal System')]:
+              root=pathlib.Path('Paper 3/Unit 2 - Constitution of India/Topic '+t)
+              pdf=root/'source/integrated-student-edition-2026-10-27.pdf'
+              doc=fitz.open(pdf)
+              assert len(doc)>=min_pages,(t,len(doc))
+              assert all(len(p.get_text().strip())>60 for p in doc)
+              assert title in doc[0].get_text(),(t,'wrong chapter')
+              for p in doc:
+                  for b in p.get_text('dict')['blocks']:
+                      if b['type']==0:
+                          x0,y0,x1,y1=b['bbox']
+                          assert x0>=25 and x1<=p.rect.width-20 and y0>=5 and y1<=p.rect.height-10,(t,'text outside page')
+              html=(root/'index.html').read_text()
+              assert 'href="source/integrated-student-edition-2026-10-27.pdf"' in html
+              mpath=root/'manifest.json'
+              m=json.loads(mpath.read_text())
+              if 'file_sha256' in m:
+                  m['file_sha256']['source/integrated-student-edition-2026-10-27.pdf']=hashlib.sha256(pdf.read_bytes()).hexdigest()
+              m['integrated_pdf_sha256']=hashlib.sha256(pdf.read_bytes()).hexdigest()
+              m['integrated_pdf_pages']=len(doc)
+              m['publication_state']='synchronized PDF from canonical editable Markdown; independent academic audit pending'
+              m['academically_approved']=0
+              mpath.write_text(json.dumps(m,indent=2,ensure_ascii=False)+'\n')
+              print('Topic',t,'rendered',len(doc),'pages, SHA',m['integrated_pdf_sha256'])
+          PY
+            git add -- 'Paper 3/Unit 2 - Constitution of India/Topic 4/source/integrated-student-edition-2026-10-27.pdf' \
+              'Paper 3/Unit 2 - Constitution of India/Topic 5/source/integrated-student-edition-2026-10-27.pdf' \
+              'Paper 3/Unit 2 - Constitution of India/Topic 4/manifest.json' \
+              'Paper 3/Unit 2 - Constitution of India/Topic 5/manifest.json' \
+              project-control/academic-readiness/3-2-{4,5}-cycle31-render-qa.json
+            if git diff --cached --quiet; then echo 'Already synchronized'; exit 0; fi
+            git commit -m 'Synchronize Topics 3-2-4 and 3-2-5 integrated PDFs and manifests'
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Nonforce push raced main; retry $attempt"
+          done
+          exit 1
