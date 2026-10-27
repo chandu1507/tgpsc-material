@@ -58,10 +58,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "27 Oct Cycle30: direct current source audit found 11 substantial concepts 605–910 words, 25 original explained MCQs, six mains; body-only recount 205/210/196/200/200/194 contradicts historical manifest 220/228/208/211/212/208. M3 and M6 below 200-word minimum. Two existing SVG diagrams need visual accuracy check. Limited Supreme Court 2025 judgment reiteration of L Chandra Kumar and official eCourts Phase III scope reviewed; NOT complete R4/R5/R6. No synchronized new PDF; original 42-page PDF preserved. Cycle31: source and consolidated master plus offline HTML corrected M3 and M6 to body-only 239/235 words; source-limited 2023 Supreme Court reiteration and eCourts Phase III dashboard correspondence. No complete factual review or independent approval. Two SVGs embedded in canonical source; integrated PDF workflow pending.",
-  "next_action": "Complete six mains claim-level checks, all 25 MCQ key/distractor audits, direct official syllabus, diagram accuracy, integrated PDF artifact/browser accessibility; zero academic approval.",
+  "evidence": "27 Oct Cycle30: direct current source audit found 11 substantial concepts 605–910 words, 25 original explained MCQs, six mains; body-only recount 205/210/196/200/200/194 contradicts historical manifest 220/228/208/211/212/208. M3 and M6 below 200-word minimum. Two existing SVG diagrams need visual accuracy check. Limited Supreme Court 2025 judgment reiteration of L Chandra Kumar and official eCourts Phase III scope reviewed; NOT complete R4/R5/R6. No synchronized new PDF; original 42-page PDF preserved. Cycle31: source and consolidated master plus offline HTML corrected M3 and M6 to body-only 239/235 words; source-limited 2023 Supreme Court reiteration and eCourts Phase III dashboard correspondence. No complete factual review or independent approval. Two SVGs embedded in canonical source; integrated PDF workflow pending. Cycle31 GitHub Actions synchronized integrated PDF for Topic 3-2-4 actually packaged and independently downloaded from run 40458404442 artifact 12712828105; outer/inner CRC, original 75 PDF hashes, static links and PDF text boundaries checked. Full browser accessibility not certified; R8 not PASS.",
+  "next_action": "Independent academic claim and MCQ audits, direct official syllabus, diagram factual checks, public browser accessibility; preserve original 75 PDFs.",
   "external_reviewer": null,
   "student_accepted": false,
   "last_updated_cycle": 31
