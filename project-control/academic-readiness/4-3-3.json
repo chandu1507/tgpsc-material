@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle46 first direct structural and bounded primary-source assessment: 16 concepts, concepts 8 and 9 below 300 words, 30 original practice MCQs (A6/B22/C1/D1), six mains body-only 212/210/223/218/233/242 words, 3 diagrams, original 21-page PDF SHA preserved. Only MCQ23/24/25 key claims correspond directly to official Board/CBD sources; NOT full distractor verification. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals.",
-  "next_action": "Cycle47 source expansions for concepts 8 and 9 staged; verify actual CI PDF and downloaded artifact, then independent 30-key/120-option, six mains, diagrams, 2024 syllabus and browser audit.",
+  "next_action": "Complete 30 MCQ keys and 120 options, six mains claim-level review, three diagram checks, 2024 Commission syllabus direct R1 and public browser accessibility; actual Cycle47 artifact QA verified but NOT academic PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
@@ -64,9 +64,13 @@
     "independent_approval": false
   },
   "cycle47": {
-    "source_repair": "Two original hypothetical quantitative laboratories in concepts 8 and 9; no new topic",
-    "pdf": "PENDING_GITHUB_CI",
-    "R8": "BLOCKED_PENDING_POST_EDIT_ARTIFACT_QA",
+    "source_repair": "Concepts 8/9 expanded with hypothetical wetland and population calculations",
+    "integrated_pdf_pages": 29,
+    "integrated_pdf_sha256": "46abe32cf6a0be20fe7e435f4dbd89f295741a5cc0f46b66a3e0e2edc7bf7c72",
+    "artifact_id": 12774925781,
+    "run_id": 40591405374,
+    "actual_downloaded_qa": "project-control/academic-readiness/4-3-3-cycle47-actual-downloaded-artifact-qa-2026-10-28.json",
+    "R8": "IN_PROGRESS",
     "independent_approval": false
   }
 }

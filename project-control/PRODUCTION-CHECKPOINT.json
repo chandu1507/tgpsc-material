@@ -537,8 +537,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "first_direct_assessment_independent_audit_pending",
-      "notes": "Cycle46 direct structural audit: original 21-page PDF preserved, 16 concepts (2 below 300), 30 original MCQs A6/B22/C1/D1, six mains 212/210/223/218/233/242 body-only words, 3 diagrams. MCQ23/24/25 bounded direct primary-source correspondences, not full audit. R1–R6 IN_PROGRESS, R7/R8 BLOCKED; zero academic approval.",
+      "production_review": "cycle47_integrated_ci_pdf_published_actual_artifact_verified_academic_audit_pending",
+      "notes": "Cycle47 29-page CI integrated PDF SHA256 46abe32cf6a0be20fe7e435f4dbd89f295741a5cc0f46b66a3e0e2edc7bf7c72; 16 concepts >=300 words; 30 original practice MCQs, six mains, three diagrams. Post-edit GitHub artifact 12774925781 actually downloaded: 1658 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 430 local links/1137 DOM fragments zero broken, outer/inner CRC PASS. R8 IN_PROGRESS; zero independent approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-3-3.json"
     },
@@ -549,9 +549,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Substantive original draft; 2026 waste rules and Telangana cases; independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle47_first_direct_structural_and_bounded_source_assessment",
+      "notes": "Original 23-page PDF SHA256 1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159 preserved. 18 concepts, 2 below300 (10/17), 30 original MCQs (A2/B26/C2/D0), six mains body-only 220/219/207/214/216/209, three diagrams. MCQ2 and MCQ3 bounded current 2026 CPCB rules correspondences only. No full key/distractor, mains, diagram, syllabus or browser audit. Not approved.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-3-4.json"
     },
     {
