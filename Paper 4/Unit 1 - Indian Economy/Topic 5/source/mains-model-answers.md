@@ -10,6 +10,8 @@
 
 **Critical appraisal.** Industrial licensing sometimes protected inefficient firms and encouraged rent-seeking. Public enterprises varied in performance. Regional disparities persisted, and high output growth did not consistently produce secure, productive employment. Environmental costs and displacement were often inadequately included in project appraisal. A target or completed asset should not be confused with measured welfare impact.
 
+A fair assessment should compare planned outputs with observed outcomes and distinguish historical correlation from causal attribution. A dam, factory or school may be an important public asset, but its benefits depend on operation, maintenance and access.
+
 **Conclusion.** The balanced legacy is institution-building alongside coordination and incentive failures. Telangana should retain long-horizon planning for skills, irrigation, logistics and health, but combine it with fiscal realism, district-level indicators, transparent appraisal and independent evaluation.
 
 ## Mains 2. Explain inclusive growth under the Twelfth Five-Year Plan and evaluate its relevance to Telangana.
@@ -21,6 +23,8 @@
 **Measures and mechanisms.** Effective inclusion requires quality schooling, nutrition, primary healthcare, financial access, safe transport and opportunities for women and disadvantaged groups. Social protection helps households manage risk; productive public investment creates long-term capabilities. Programme success should be assessed through learning, health outcomes, job quality and access, not only money spent or facilities constructed.
 
 **Critical appraisal and Telangana relevance.** Telangana's metropolitan growth generates high-value jobs, yet rural and tribal districts face different service and market constraints. Irrigation without groundwater accounting can undermine sustainability; credit without training and market access may not produce viable enterprises. District-disaggregated data and social audits are needed to reveal exclusion hidden by state averages.
+
+The Plan’s published title is evidence of its stated ambition, not proof that every inclusion target was attained. Evaluation should compare districts and social groups over time and make ecological trade-offs explicit rather than using aggregate growth as the sole scorecard.
 
 **Conclusion.** Inclusive growth is a governance standard, not a slogan. Telangana can operationalise it through outcome-based district plans, women-centred services, ecologically sound agriculture and accountable investments in human capital.
 
@@ -34,6 +38,8 @@
 
 **Critical appraisal.** The older system coordinated large investments but was criticised for centralised bargaining and uniform priorities. The newer model offers flexibility and data-driven collaboration, yet advisory recommendations can lack implementation leverage. Competitive rankings can be distorted by weak data or selective attention to indicators.
 
+The Governing Council was constituted by a Cabinet Secretariat notification on 16 February 2015, separately from NITI Aayog’s formation on 1 January. The distinction matters: an advisory forum does not itself possess the Finance Commission’s tax-devolution powers.
+
 **Conclusion.** Formal Five-Year Plans ended after the Twelfth Plan in 2017, but planning did not. Union and state budgets, sectoral missions and long-term strategies continue. Telangana Rising 2047 is an example of strategic planning whose success depends on realistic financing, local participation and independently measured outcomes.
 
 ## Mains 4. Analyse the causes, instruments and consequences of India's 1991 liberalisation.
@@ -45,6 +51,8 @@
 **Key measures.** The July 1991 industrial policy reduced licensing and public-sector reservations. Trade barriers were lowered in stages. The Reserve Bank records exchange-rate adjustment in 1991, a dual-rate system in 1992 and a unified market-determined rate in 1993. Banking regulation evolved, while foreign-exchange management later shifted from FERA to FEMA.
 
 **Critical appraisal.** Competition, technology access and export opportunities expanded, but gains varied across workers, firms and regions. Import-competing enterprises faced adjustment costs, and financial integration increased exposure to external shocks. Liberalisation is not identical to unrestricted capital-account convertibility or elimination of all regulation. Effective competition policy and public-service investment remained necessary to protect citizens and sustain productivity.
+
+The sequence of exchange-rate changes illustrates why reform must be dated carefully: the 1991 adjustment, the 1992 dual-rate arrangement and the March 1993 unification were distinct policy steps, not a single overnight adoption of full convertibility.
 
 **Conclusion.** Reform benefits depend on capable institutions. Telangana's pharmaceutical and IT industries illustrate global opportunities; district-level skills, infrastructure, labour safeguards and environmental compliance are necessary to distribute those gains more widely.
 
@@ -58,6 +66,8 @@
 
 **Critical appraisal and safeguards.** Poor valuation can transfer public wealth cheaply. An unregulated private monopoly can raise prices or reduce access. Transparent bidding, competition scrutiny, service standards, independent regulators and worker-transition protections are therefore essential. Electricity, water and transport involve public-service obligations that market revenue alone may not finance. The contract must specify service continuity, grievance redressal and penalties for non-performance.
 
+Fiscal appraisal should compare the discounted stream of service obligations and contingent liabilities, not merely the one-time sale receipt. Where a natural monopoly exists, an independent regulator and enforceable service standards may matter more than the identity of the shareholder.
+
 **Telangana example and conclusion.** State transport and electricity systems must balance affordability, reliability, environmental benefits and fiscal cost. The right question is not whether ownership is public or private, but which arrangement delivers measurable quality, access, accountability and long-term value to citizens.
 
 ## Mains 6. Examine the opportunities and challenges of globalisation for Telangana's development strategy.
@@ -69,5 +79,7 @@
 **Risks and contrasting views.** Benefits are uneven when investment concentrates in existing metropolitan clusters. Global demand shocks, geopolitical restrictions and supply-chain disruptions expose firms to external risk. Automation may reduce labour demand even when export revenues grow. Foreign investment announcements must be distinguished from realised capital expenditure and sustained employment.
 
 **Policy measures.** Telangana should build district-level supplier networks, quality-testing facilities, industry-linked apprenticeships and affordable freight connections. Environmental safeguards, especially industrial wastewater treatment, must accompany manufacturing expansion. Skill and social-protection systems should support workers displaced by technological or trade changes. Official DPIIT data should be used with consistent periods and a distinction between FDI equity and total FDI inflow.
+
+The Telangana Rising 2047 vision distinguishes CURE, PURE and RARE regional economies. This is a useful planning lens for connecting urban export hubs with peri-urban suppliers and rural producers, but its proposed investments should not be reported as realised jobs.
 
 **Conclusion.** Globalisation is an opportunity, not a substitute for domestic institutions. Balanced Telangana development requires converting international investment into local productivity, decent employment, technological learning and ecologically sustainable growth beyond Hyderabad.

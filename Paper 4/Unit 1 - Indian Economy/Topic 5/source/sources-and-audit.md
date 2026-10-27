@@ -21,6 +21,8 @@ The following links are primary government sources or the best accessible public
 | S15 | [Government of Telangana, Telangana Rising vision and survey](https://www.telangana.gov.in/telanganarising/), 2025 | Public consultation framing; no assumption that consultation alone proves representativeness. |
 | S16 | [TGPSC Group I syllabus public reproduction](https://iasexamportal.com/tspsc/syllabus/group-i-services-exam), accessed 24 October 2026 | Wording of Paper IV, Unit I, Topic 5 corroborated; **not** a substitute for direct authenticated Notification 02/2024 PDF. |
 | S17 | [NITI Aayog Planning Commission archive](https://www.niti.gov.in/planning-commission-archive), historical documents | Plan chronology and archived documents; exact archival URL availability may vary. |
+| S18 | [Government of Telangana, *Telangana Rising 2047* vision PDF](https://tgswc.telangana.gov.in/wp-content/uploads/2025/12/TelanganaRising-2047.pdf), December 2025 | Original state vision directly retrieved in Cycle 39; CURE/PURE/RARE definitions and aspirational status; not evidence of completed outcomes. |
+| S19 | [Cabinet Secretariat notification on NITI Governing Council](https://www.niti.gov.in/sites/default/files/2021-09/Composition_of_Governing_Council_of_NITI_Aayog-Cab_Secretariat_Notification_dated_16-02-2015.pdf), 16 February 2015 | Primary notification distinguishes Governing Council composition date from NITI's 1 January establishment. |
 
 ## Current-affairs integration, with dates
 
@@ -35,3 +37,8 @@ The following links are primary government sources or the best accessible public
 ## Academic audit and PYQ provenance
 
 **Status: EXPANDED DRAFT, NOT ACADEMICALLY APPROVED.** Original commission-hosted Notification 02/2024 PDF was not directly authenticated in this run; syllabus wording is corroborated from a published reproduction. Official TGPSC or UPSC question-paper PDFs and question numbers were not supplied or verified, so **zero questions are labelled official PYQs**. All 25 MCQs and six mains questions are original practice. Historical achievements are qualitative where attribution or comparability would otherwise require a separate statistical series. Current policy announcements are clearly labelled as intentions rather than outcomes. A future academic audit should check every quantitative statement, legal reference, Plan-era target, citation link, district example and question key against original records.
+
+
+## Cycle 39 bounded source and answer-length audit — 27 October 2026
+
+Directly accessed NITI's archival Twelfth Plan Volume I and the 16 February 2015 Cabinet Secretariat Governing Council notification; also inspected the Government of Telangana's published *Telangana Rising 2047* PDF. These support the bounded institutional and policy-framework claims in new Section 15, revised practice Q21/Q25 and mains M2/M3/M6. The programme budget and outcome data in Section 15 are explicitly **hypothetical classroom values**. All six mains were lengthened in place using body-only counting, not headings. The official Commission Notification 02/2024 URL returned HTTP 403 in this cycle; R1 cannot be promoted to PASS on the basis of the third-party reproduction alone. No official PYQ has been authenticated, no external expert has approved the chapter, and no complete independent 25-key/100-distractor audit is claimed.

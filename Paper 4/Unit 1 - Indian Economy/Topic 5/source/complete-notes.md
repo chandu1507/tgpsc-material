@@ -24,10 +24,6 @@ Indian economic planning began as a response to low savings, food shortages, ind
 
 For a historical question, use chronology, the underlying development problem, policy mechanism, measured achievements and limitations. For an institutional comparison, distinguish legal status, composition, fiscal authority, outputs and accountability. For an LPG evaluation, distinguish economic efficiency from distributional effects and add Telangana-specific examples. For a policy recommendation, state the responsible institution and measurable outcome; avoid claims that a target has already been achieved merely because a government announced it.
 
-
-
----
-
 # Standalone Quick Revision — Planning in the Indian Economy
 
 ## Sixty-second recall
@@ -79,10 +75,6 @@ Telangana was created on **2 June 2014**. The government launched its **Telangan
 ## Common traps
 
 Never say NITI Aayog is a constitutional body, that it prepares a Thirteenth Five-Year Plan, that all disinvestment is privatisation, or that a government vision is proof of achieved growth. The original official Group I question papers and question numbers have not been authenticated for this chapter: the questions below are **original practice**, not verified PYQs.
-
-
-
----
 
 # Detailed Textbook Notes — Planning in the Indian Economy
 
@@ -322,9 +314,29 @@ The state has several tools: budgets and legislative committees, the Comptroller
 ### Final synthesis
 India's trajectory from Five-Year Plans to NITI Aayog is best understood as a change in the *method* of planning, not an end to purposeful economic development policy. The historical record warns against both centralised overconfidence and market fundamentalism. Public coordination is needed for human capabilities, environmental protection and complementary infrastructure; competitive markets can improve innovation and efficiency; democratic oversight protects legitimacy and distributional fairness. Telangana's development choices make this synthesis practical: the challenge is to convert a high-growth vision into fiscally viable, geographically balanced and environmentally durable outcomes.
 
+## 15. Worked policy evaluation: distinguish a development vision, a budget, a completed facility and a durable job
 
+### The planning problem and the evidence hierarchy
 
----
+A modern development vision describes a desired future, not a completed result. The Government of Telangana's *Telangana Rising 2047* document uses the Core Urban Region Economy (CURE), Peri-Urban Region Economy (PURE), and Rural Agriculture Region Economy (RARE) as a three-region planning framework. The official vision explains their complementary roles, but publication of a vision does not establish that proposed investments, employment or ecological improvements have occurred. For examination answers, separate a **vision**, a **budget sanction**, an **actual expenditure**, an **administrative output**, and a **verified social outcome**. These five quantities answer different questions and cannot be substituted for one another.
+
+### An original numerical illustration — entirely hypothetical
+
+Suppose a Telangana department announces a three-year district skills programme with a **₹120 crore budget ceiling** and **20 proposed training centres**. By the end of the observation year, it has disbursed **₹96 crore**, independently recorded **₹84 crore of eligible expenditure**, completed **15 centres**, and established that only **12 are operational**. The programme registers **8,000 learners**; **6,000 finish** training; and **3,000 are verified in employment six months later**. These are fabricated classroom figures for learning arithmetic, **not Telangana government statistics**.
+
+The completion rate is **6,000 ÷ 8,000 = 75%**. Six-month employment among completers is **3,000 ÷ 6,000 = 50%**, while employment among all entrants is **37.5%**. The operational-centre rate is **12 ÷ 20 = 60%** of the original target, not 75% merely because 15 buildings were completed. Eligible expenditure per six-month employed person is **₹84 crore ÷ 3,000 = ₹2.8 lakh**; using the budget ceiling instead would produce **₹4 lakh**, a different denominator that must be labelled. Disbursement of ₹96 crore is neither proof of ₹96 crore of eligible expenditure nor evidence of programme effectiveness.
+
+### Why even the calculated outcome is not a causal impact
+
+The 3,000 employed participants may have obtained work without training. A defensible impact evaluation would need a credible comparison group, baseline employment, comparable follow-up periods, dropout analysis and checks for migration or self-employment. Job *quality* matters: a brief, insecure placement is not equivalent to sustained employment with adequate wages. If some districts lack functioning centres, a state average can conceal exclusion. Sex, caste, disability and district-disaggregated reporting may reveal who did not benefit, provided privacy and small-sample protections are observed.
+
+### Applying the framework to CURE, PURE and RARE
+
+A planning answer can propose distinct indicators for each region without pretending that the vision is already implemented. For CURE, track commute times, affordable housing, air quality and access to skilled work; for PURE, logistics reliability, industrial safety, wastewater treatment and local supplier participation; for RARE, farm income stability, irrigation efficiency, value-addition and rural non-farm employment. Cross-region indicators should measure whether rural suppliers and workers actually connect to urban and peri-urban markets. Such indicators are **suggested evaluation measures**, not claims that the Telangana vision already publishes them as achieved results.
+
+### Mains-answer conclusion
+
+Planning remains relevant after the last Five-Year Plan because government must still choose priorities under scarce resources. A strong answer moves from **objective → funded instrument → verified output → measured outcome → independent impact assessment**, identifies the responsible institution, and distinguishes a policy target from an audited achievement. The Twelfth Plan's emphasis on inclusion and sustainability supports this evaluative logic; it does not justify treating every subsequent announcement as evidence of progress.
 
 # Visual Learning — Three Original Diagrams
 
@@ -347,10 +359,6 @@ The figures are newly drawn for this chapter and are conceptual study aids, not 
 ![LPG policy channels, risks and safeguards](../visuals/lpg-policy-map.png)
 
 **Interpretation:** Reforms change incentives; market institutions, skills, environmental rules and safety nets influence their distributional effects.
-
-
-
----
 
 # Original MCQ Practice — 25 Questions with Answer Explanations
 
@@ -516,13 +524,13 @@ D. A legally authorised budget expenditure
 
 **Answer: A.** Announcements, MoUs, financial closure, capital spending and operational jobs are different stages and must be tracked separately.
 
-### Q21. Telangana Rising 2047's CURE–PURE–RARE framework is best understood as:
-A. Three constitutional lists  
-B. A state strategy differentiating core urban, peri-urban and rural-agriculture regions  
-C. Three RBI monetary aggregates  
-D. Three national Five-Year Plans
+### Q21. Under Telangana Rising 2047, which regional description is correctly matched?
+A. CURE — rural-agriculture economy beyond the Regional Ring Road  
+B. PURE — peri-urban economy connecting the Outer Ring Road and Regional Ring Road  
+C. RARE — high-density core urban economy within the Outer Ring Road  
+D. CURE — a constitutional urban-government tier created by the Seventy-Fourth Amendment
 
-**Answer: B.** The framework differentiates regional development needs; it is a state policy vision, not a constitutional classification.
+**Answer: B.** The state vision distinguishes the core urban CURE, peri-urban PURE and rural-agriculture RARE planning regions. These are policy regions, not new constitutional tiers. The vision describes aspirations; it does not establish completed projects.
 
 ### Q22. Which pair is correctly matched?
 A. Second Plan — Liberalised Exchange Rate Management System  
@@ -548,17 +556,13 @@ D. Every export automatically benefits every district equally
 
 **Answer: A.** Channels differ; FDI measures must be specified and benefits depend on local institutions and distribution.
 
-### Q25. The most accurate statement about planning in India after 2017 is:
-A. All economic strategy is unconstitutional  
-B. NITI Aayog now runs the Thirteenth Five-Year Plan  
-C. Formal Five-Year Plans ended, but strategic planning continues through budgets and missions  
-D. States may not prepare long-term visions
+### Q25. A state publishes a 2047 growth vision after the Twelfth Five-Year Plan ended. Which inference is justified?
+A. The vision itself establishes that the projected 2047 GSDP has already been achieved  
+B. NITI Aayog must approve a Thirteenth Five-Year Plan before the state can prepare budgets  
+C. Formal national Five-Year Plans ended, but state strategies still require financing and outcome verification  
+D. The vision automatically substitutes for audited expenditure accounts and independent impact evaluation
 
-**Answer: C.** Ending the Five-Year Plan cycle did not eliminate national, sectoral or state-level strategy, fiscal planning and monitoring.
-
-
-
----
+**Answer: C.** The Twelfth Plan (2012–17) was the final formal Five-Year Plan. A later state vision is a strategic intention, not a budget appropriation, realised investment or measured outcome. A, B and D confuse different institutions and evidence levels.
 
 # Original Mains Answer Blueprints
 
@@ -570,10 +574,6 @@ D. States may not prepare long-term visions
 | Evaluate 1991 liberalisation | Crisis → industrial/trade/forex reforms → gains → adjustment costs → safeguards | 1991 policy, RBI exchange-rate timeline, Telangana pharma/IT |
 | Privatisation and public interest | Define disinvestment/control → efficiency rationale → risks → regulatory safeguards | Transport/electricity public-service obligations |
 | Globalisation and Telangana | Channels → gains → vulnerabilities → district inclusion → policy package | Hyderabad exports, local supplier chains, skill, wastewater, logistics |
-
-
-
----
 
 # Six Original Mains Model Answers — approximately 200–250 words each
 
@@ -587,6 +587,8 @@ D. States may not prepare long-term visions
 
 **Critical appraisal.** Industrial licensing sometimes protected inefficient firms and encouraged rent-seeking. Public enterprises varied in performance. Regional disparities persisted, and high output growth did not consistently produce secure, productive employment. Environmental costs and displacement were often inadequately included in project appraisal. A target or completed asset should not be confused with measured welfare impact.
 
+A fair assessment should compare planned outputs with observed outcomes and distinguish historical correlation from causal attribution. A dam, factory or school may be an important public asset, but its benefits depend on operation, maintenance and access.
+
 **Conclusion.** The balanced legacy is institution-building alongside coordination and incentive failures. Telangana should retain long-horizon planning for skills, irrigation, logistics and health, but combine it with fiscal realism, district-level indicators, transparent appraisal and independent evaluation.
 
 ## Mains 2. Explain inclusive growth under the Twelfth Five-Year Plan and evaluate its relevance to Telangana.
@@ -598,6 +600,8 @@ D. States may not prepare long-term visions
 **Measures and mechanisms.** Effective inclusion requires quality schooling, nutrition, primary healthcare, financial access, safe transport and opportunities for women and disadvantaged groups. Social protection helps households manage risk; productive public investment creates long-term capabilities. Programme success should be assessed through learning, health outcomes, job quality and access, not only money spent or facilities constructed.
 
 **Critical appraisal and Telangana relevance.** Telangana's metropolitan growth generates high-value jobs, yet rural and tribal districts face different service and market constraints. Irrigation without groundwater accounting can undermine sustainability; credit without training and market access may not produce viable enterprises. District-disaggregated data and social audits are needed to reveal exclusion hidden by state averages.
+
+The Plan’s published title is evidence of its stated ambition, not proof that every inclusion target was attained. Evaluation should compare districts and social groups over time and make ecological trade-offs explicit rather than using aggregate growth as the sole scorecard.
 
 **Conclusion.** Inclusive growth is a governance standard, not a slogan. Telangana can operationalise it through outcome-based district plans, women-centred services, ecologically sound agriculture and accountable investments in human capital.
 
@@ -611,6 +615,8 @@ D. States may not prepare long-term visions
 
 **Critical appraisal.** The older system coordinated large investments but was criticised for centralised bargaining and uniform priorities. The newer model offers flexibility and data-driven collaboration, yet advisory recommendations can lack implementation leverage. Competitive rankings can be distorted by weak data or selective attention to indicators.
 
+The Governing Council was constituted by a Cabinet Secretariat notification on 16 February 2015, separately from NITI Aayog’s formation on 1 January. The distinction matters: an advisory forum does not itself possess the Finance Commission’s tax-devolution powers.
+
 **Conclusion.** Formal Five-Year Plans ended after the Twelfth Plan in 2017, but planning did not. Union and state budgets, sectoral missions and long-term strategies continue. Telangana Rising 2047 is an example of strategic planning whose success depends on realistic financing, local participation and independently measured outcomes.
 
 ## Mains 4. Analyse the causes, instruments and consequences of India's 1991 liberalisation.
@@ -622,6 +628,8 @@ D. States may not prepare long-term visions
 **Key measures.** The July 1991 industrial policy reduced licensing and public-sector reservations. Trade barriers were lowered in stages. The Reserve Bank records exchange-rate adjustment in 1991, a dual-rate system in 1992 and a unified market-determined rate in 1993. Banking regulation evolved, while foreign-exchange management later shifted from FERA to FEMA.
 
 **Critical appraisal.** Competition, technology access and export opportunities expanded, but gains varied across workers, firms and regions. Import-competing enterprises faced adjustment costs, and financial integration increased exposure to external shocks. Liberalisation is not identical to unrestricted capital-account convertibility or elimination of all regulation. Effective competition policy and public-service investment remained necessary to protect citizens and sustain productivity.
+
+The sequence of exchange-rate changes illustrates why reform must be dated carefully: the 1991 adjustment, the 1992 dual-rate arrangement and the March 1993 unification were distinct policy steps, not a single overnight adoption of full convertibility.
 
 **Conclusion.** Reform benefits depend on capable institutions. Telangana's pharmaceutical and IT industries illustrate global opportunities; district-level skills, infrastructure, labour safeguards and environmental compliance are necessary to distribute those gains more widely.
 
@@ -635,6 +643,8 @@ D. States may not prepare long-term visions
 
 **Critical appraisal and safeguards.** Poor valuation can transfer public wealth cheaply. An unregulated private monopoly can raise prices or reduce access. Transparent bidding, competition scrutiny, service standards, independent regulators and worker-transition protections are therefore essential. Electricity, water and transport involve public-service obligations that market revenue alone may not finance. The contract must specify service continuity, grievance redressal and penalties for non-performance.
 
+Fiscal appraisal should compare the discounted stream of service obligations and contingent liabilities, not merely the one-time sale receipt. Where a natural monopoly exists, an independent regulator and enforceable service standards may matter more than the identity of the shareholder.
+
 **Telangana example and conclusion.** State transport and electricity systems must balance affordability, reliability, environmental benefits and fiscal cost. The right question is not whether ownership is public or private, but which arrangement delivers measurable quality, access, accountability and long-term value to citizens.
 
 ## Mains 6. Examine the opportunities and challenges of globalisation for Telangana's development strategy.
@@ -647,19 +657,9 @@ D. States may not prepare long-term visions
 
 **Policy measures.** Telangana should build district-level supplier networks, quality-testing facilities, industry-linked apprenticeships and affordable freight connections. Environmental safeguards, especially industrial wastewater treatment, must accompany manufacturing expansion. Skill and social-protection systems should support workers displaced by technological or trade changes. Official DPIIT data should be used with consistent periods and a distinction between FDI equity and total FDI inflow.
 
+The Telangana Rising 2047 vision distinguishes CURE, PURE and RARE regional economies. This is a useful planning lens for connecting urban export hubs with peri-urban suppliers and rural producers, but its proposed investments should not be reported as realised jobs.
+
 **Conclusion.** Globalisation is an opportunity, not a substitute for domestic institutions. Balanced Telangana development requires converting international investment into local productivity, decent employment, technological learning and ecologically sustainable growth beyond Hyderabad.
-
-
-
----
-
-# Official Previous-Year Question Provenance
-
-No original TGPSC Group I or UPSC source question paper and exact question number were independently authenticated for this chapter. Therefore **no official PYQ is reproduced or claimed as verified**. The MCQs and mains questions in this chapter are original practice authored for the study library, with explanations or full model answers. A future provenance audit must record examination, year, paper, question number, verbatim wording, official source URL, and any answer-key corrections before an item can be labelled a verified PYQ.
-
-
-
----
 
 # Authoritative Sources, Dated Updates and Audit Register
 
@@ -684,6 +684,8 @@ The following links are primary government sources or the best accessible public
 | S15 | [Government of Telangana, Telangana Rising vision and survey](https://www.telangana.gov.in/telanganarising/), 2025 | Public consultation framing; no assumption that consultation alone proves representativeness. |
 | S16 | [TGPSC Group I syllabus public reproduction](https://iasexamportal.com/tspsc/syllabus/group-i-services-exam), accessed 24 October 2026 | Wording of Paper IV, Unit I, Topic 5 corroborated; **not** a substitute for direct authenticated Notification 02/2024 PDF. |
 | S17 | [NITI Aayog Planning Commission archive](https://www.niti.gov.in/planning-commission-archive), historical documents | Plan chronology and archived documents; exact archival URL availability may vary. |
+| S18 | [Government of Telangana, *Telangana Rising 2047* vision PDF](https://tgswc.telangana.gov.in/wp-content/uploads/2025/12/TelanganaRising-2047.pdf), December 2025 | Original state vision directly retrieved in Cycle 39; CURE/PURE/RARE definitions and aspirational status; not evidence of completed outcomes. |
+| S19 | [Cabinet Secretariat notification on NITI Governing Council](https://www.niti.gov.in/sites/default/files/2021-09/Composition_of_Governing_Council_of_NITI_Aayog-Cab_Secretariat_Notification_dated_16-02-2015.pdf), 16 February 2015 | Primary notification distinguishes Governing Council composition date from NITI's 1 January establishment. |
 
 ## Current-affairs integration, with dates
 
@@ -698,3 +700,8 @@ The following links are primary government sources or the best accessible public
 ## Academic audit and PYQ provenance
 
 **Status: EXPANDED DRAFT, NOT ACADEMICALLY APPROVED.** Original commission-hosted Notification 02/2024 PDF was not directly authenticated in this run; syllabus wording is corroborated from a published reproduction. Official TGPSC or UPSC question-paper PDFs and question numbers were not supplied or verified, so **zero questions are labelled official PYQs**. All 25 MCQs and six mains questions are original practice. Historical achievements are qualitative where attribution or comparability would otherwise require a separate statistical series. Current policy announcements are clearly labelled as intentions rather than outcomes. A future academic audit should check every quantitative statement, legal reference, Plan-era target, citation link, district example and question key against original records.
+
+
+## Cycle 39 bounded source and answer-length audit — 27 October 2026
+
+Directly accessed NITI's archival Twelfth Plan Volume I and the 16 February 2015 Cabinet Secretariat Governing Council notification; also inspected the Government of Telangana's published *Telangana Rising 2047* PDF. These support the bounded institutional and policy-framework claims in new Section 15, revised practice Q21/Q25 and mains M2/M3/M6. The programme budget and outcome data in Section 15 are explicitly **hypothetical classroom values**. All six mains were lengthened in place using body-only counting, not headings. The official Commission Notification 02/2024 URL returned HTTP 403 in this cycle; R1 cannot be promoted to PASS on the basis of the third-party reproduction alone. No official PYQ has been authenticated, no external expert has approved the chapter, and no complete independent 25-key/100-distractor audit is claimed.

@@ -235,3 +235,27 @@ The state has several tools: budgets and legislative committees, the Comptroller
 
 ### Final synthesis
 India's trajectory from Five-Year Plans to NITI Aayog is best understood as a change in the *method* of planning, not an end to purposeful economic development policy. The historical record warns against both centralised overconfidence and market fundamentalism. Public coordination is needed for human capabilities, environmental protection and complementary infrastructure; competitive markets can improve innovation and efficiency; democratic oversight protects legitimacy and distributional fairness. Telangana's development choices make this synthesis practical: the challenge is to convert a high-growth vision into fiscally viable, geographically balanced and environmentally durable outcomes.
+
+## 15. Worked policy evaluation: distinguish a development vision, a budget, a completed facility and a durable job
+
+### The planning problem and the evidence hierarchy
+
+A modern development vision describes a desired future, not a completed result. The Government of Telangana's *Telangana Rising 2047* document uses the Core Urban Region Economy (CURE), Peri-Urban Region Economy (PURE), and Rural Agriculture Region Economy (RARE) as a three-region planning framework. The official vision explains their complementary roles, but publication of a vision does not establish that proposed investments, employment or ecological improvements have occurred. For examination answers, separate a **vision**, a **budget sanction**, an **actual expenditure**, an **administrative output**, and a **verified social outcome**. These five quantities answer different questions and cannot be substituted for one another.
+
+### An original numerical illustration — entirely hypothetical
+
+Suppose a Telangana department announces a three-year district skills programme with a **₹120 crore budget ceiling** and **20 proposed training centres**. By the end of the observation year, it has disbursed **₹96 crore**, independently recorded **₹84 crore of eligible expenditure**, completed **15 centres**, and established that only **12 are operational**. The programme registers **8,000 learners**; **6,000 finish** training; and **3,000 are verified in employment six months later**. These are fabricated classroom figures for learning arithmetic, **not Telangana government statistics**.
+
+The completion rate is **6,000 ÷ 8,000 = 75%**. Six-month employment among completers is **3,000 ÷ 6,000 = 50%**, while employment among all entrants is **37.5%**. The operational-centre rate is **12 ÷ 20 = 60%** of the original target, not 75% merely because 15 buildings were completed. Eligible expenditure per six-month employed person is **₹84 crore ÷ 3,000 = ₹2.8 lakh**; using the budget ceiling instead would produce **₹4 lakh**, a different denominator that must be labelled. Disbursement of ₹96 crore is neither proof of ₹96 crore of eligible expenditure nor evidence of programme effectiveness.
+
+### Why even the calculated outcome is not a causal impact
+
+The 3,000 employed participants may have obtained work without training. A defensible impact evaluation would need a credible comparison group, baseline employment, comparable follow-up periods, dropout analysis and checks for migration or self-employment. Job *quality* matters: a brief, insecure placement is not equivalent to sustained employment with adequate wages. If some districts lack functioning centres, a state average can conceal exclusion. Sex, caste, disability and district-disaggregated reporting may reveal who did not benefit, provided privacy and small-sample protections are observed.
+
+### Applying the framework to CURE, PURE and RARE
+
+A planning answer can propose distinct indicators for each region without pretending that the vision is already implemented. For CURE, track commute times, affordable housing, air quality and access to skilled work; for PURE, logistics reliability, industrial safety, wastewater treatment and local supplier participation; for RARE, farm income stability, irrigation efficiency, value-addition and rural non-farm employment. Cross-region indicators should measure whether rural suppliers and workers actually connect to urban and peri-urban markets. Such indicators are **suggested evaluation measures**, not claims that the Telangana vision already publishes them as achieved results.
+
+### Mains-answer conclusion
+
+Planning remains relevant after the last Five-Year Plan because government must still choose priorities under scarce resources. A strong answer moves from **objective → funded instrument → verified output → measured outcome → independent impact assessment**, identifies the responsible institution, and distinguishes a policy target from an audited achievement. The Twelfth Plan's emphasis on inclusion and sustainability supports this evaluative logic; it does not justify treating every subsequent announcement as evidence of progress.
