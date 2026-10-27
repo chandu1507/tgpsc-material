@@ -3,6 +3,10 @@ Date: 2026-10-26
 Scope: existing 75 topics only (Papers II–VI × 3 units × 5 topics).
 This is a production checklist, not academic approval. Do not set academic_status=approved from this file.
 
+## Cycle37 controlling reconciliation — 27 October 2026
+
+**75 original topics: 7 IN_PROGRESS, 18 ASSESSED_REBUILD_REQUIRED, 50 NOT_ASSESSED; nine direct R1 syllabus mappings PASS; zero fully R1–R8 ready and zero independent approvals.** Topic 4-1-3 official Notification 02/2024 Annexure-II PDF index 30/printed page 31 lines 1726–1727 directly matched (R1 PASS). Fifteen substantive concepts exceed 300 words; two original quantitative learning laboratories explain M2/M3 and DICGC. Original MCQs Q11/Q25 and mains M1/M4/M6 corrected in place; author-side checks do not certify other MCQs, all distractors, six mains factual claims or diagrams. Original 27-page PDF SHA256 `2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0` preserved. CI synchronized PDF, actual downloaded artifact and full browser QA pending. R9 NOT_STARTED. Evidence: `project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json`.
+
 ## Cycle36 controlling reconciliation — 27 October 2026
 
 **Exactly 75 original topics: 7 IN_PROGRESS, 17 ASSESSED_REBUILD_REQUIRED, 51 NOT_ASSESSED. Eight direct R1 syllabus mappings PASS; zero fully R1–R8 ready, zero independent approvals.** Topic 4-1-2 directly matched original TGPSC Notification 02/2024 Annexure-II PDF index 30, printed page 31, lines 1719–1725. All 13 concepts exceed 300 words; a substantive original FGT/MPI/UR measurement laboratory was integrated. Two of 25 original practice MCQs (Q23/Q25) were revised, five key correspondences received bounded author-side checks; all distractors and six mains still require independent claim review. Original 27-page PDF preserved SHA256 `c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1`. A local synchronized 28-page PDF exists but remote CI and downloaded-artifact QA must be verified separately. R1 PASS, R2–R8 IN_PROGRESS, R9 NOT_STARTED.
