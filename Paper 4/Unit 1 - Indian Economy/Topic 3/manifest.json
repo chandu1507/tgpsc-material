@@ -7,7 +7,7 @@
   "academic_status": "not_approved",
   "production_status": "cycle37_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "syllabus_verification": "Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS",
-  "word_count": 12416,
+  "word_count": 12450,
   "pdf_pages": 28,
   "detailed_sections": 15,
   "original_mcqs": 25,
@@ -33,24 +33,24 @@
       "bytes": 323450
     },
     "index.html": {
-      "sha256": "17d553f041e8d0329a697c3b3ddb1d851b2a047d2742b3f97f8f144043367d88",
-      "bytes": 113841
+      "sha256": "e615dac9b5d96d09e797409882f8c5ffce7d77110dc57e4724fafcf927adbd7f",
+      "bytes": 114421
     },
     "source/answer-blueprints.md": {
       "sha256": "1e8aa76bb46b2e25ad40ac85371aae6a9fe175f872c620efcc4300322f378b81",
       "bytes": 1843
     },
     "source/complete-notes.md": {
-      "sha256": "9b6594dd30e9be69dc7ec3c22aa9553a87e767735db8072a48fdc5e8010bc0da",
-      "bytes": 89719
+      "sha256": "45d520b5b3a088b0d790248563f1f0b46a42f9ae12faa0c5b60cffaf8639cd83",
+      "bytes": 90077
     },
     "source/detailed-notes.md": {
       "sha256": "b0f9eec6831df08cb01aca4af2517ccdda74179801f4af99ebc12e2d493b3560",
       "bytes": 49926
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "145ca134c1a91345f91119384a9eb9f5b539ccf97b9f4faf887286e49c1e1476",
-      "bytes": 350943
+      "sha256": "6fa3f16a6223b6cb675513c3cc71947f0adfe4cbfabee5de6304e06f00cec09a",
+      "bytes": 351897
     },
     "source/mains-model-answers.md": {
       "sha256": "830b12a7b33face57d4d62580c2782b8b3c857ce105092ee67f75fcbce70b11c",
@@ -65,8 +65,8 @@
       "bytes": 6304
     },
     "source/sources-and-audit.md": {
-      "sha256": "d192285a9579aab4c499b2cd98055ccb5a0b7c2c4c92fe61e477bbac34f286a7",
-      "bytes": 6259
+      "sha256": "5c272cd7fd575678faaf22b8ad8662e41cec5678c19ee3771d6d6a597222be18",
+      "bytes": 6617
     },
     "source/syllabus-and-summary.md": {
       "sha256": "4132efdaf265d2e1ae02acd054a8a5885e120864c5b1b907a1f1d5730eb40b6c",
