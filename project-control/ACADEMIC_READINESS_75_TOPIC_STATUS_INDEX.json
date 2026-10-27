@@ -13,7 +13,7 @@
   "not_assessed_count": 43,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 originals: 7 IN_PROGRESS, 25 ASSESSED_REBUILD_REQUIRED, 43 NOT_ASSESSED; 10 directly verified R1 PASS, ZERO fully R1-R8 ready, ZERO independent approvals. Cycle43 Topic4-2-5 assessed and bounded repairs proposed; CI artifact not yet verified.",
+  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 25 ASSESSED_REBUILD_REQUIRED, 43 NOT_ASSESSED; 10 directly verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle43 actual post-fix artifact integrity verified; browser academic accessibility not certified.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -118,7 +118,7 @@
     "4-2-4",
     "4-2-5"
   ],
-  "last_readiness_update": "27 Oct Cycle43: Topic4-2-5 17 concepts, five MCQ corrections, limited primary-source checks. No independent R1-R8 PASS; remote PDF/actual artifact verification pending. Index assessed array repaired to match checkpoint.",
+  "last_readiness_update": "27 Oct Cycle43: 7 IN_PROGRESS, 25 ASSESSED_REBUILD_REQUIRED, 43 NOT_ASSESSED; 10 R1 PASS; zero ready/approved. Topic4-2-5 CI 29-page PDF and actual downloaded post-fix artifact 12756469781 integrity PASS; R8 IN_PROGRESS not PASS. First artifact hash mismatch recorded and corrected.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -133,6 +133,8 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-2-5-cycle43-actual-downloaded-artifact-qa-2026-10-27.json",
+    "project-control/academic-readiness/4-2-5-cycle43-first-downloaded-artifact-mismatch-and-ci-fix-2026-10-27.json",
     "project-control/academic-readiness/4-2-5-cycle43-bounded-source-and-structural-audit-2026-10-27.json",
     "project-control/academic-readiness/4-2-2-cycle41-first-source-and-objective-assessment-2026-10-27.json",
     "project-control/academic-readiness/4-2-1-cycle41-actual-downloaded-artifact-qa-2026-10-27.json",
