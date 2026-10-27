@@ -5,8 +5,8 @@ on:
     paths:
       - 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/source/**'
       - 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/visuals/waste-hierarchy.svg'
-      - 'scripts/publish_topic_4_3_3.py'
-      - 'scripts/render_topic_4_3_3_integrated.py'
+      - 'scripts/publish_topic_4_3_4.py'
+      - 'scripts/render_topic_4_3_4_integrated.py'
       - '.github/workflows/render-topic-4-3-4-integrated.yml'
   workflow_dispatch:
 permissions:
@@ -36,7 +36,7 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
-            python scripts/publish_topic_4_3_3.py
+            python scripts/publish_topic_4_3_4.py
             git add -- 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/index.html' 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/manifest.json' 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/README.md' 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/QA-REPORT.md' 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/visuals/waste-hierarchy.png' 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/source/integrated-student-edition-cycle48.pdf' 'project-control/academic-readiness/4-3-4-cycle48-ci-render-qa-2026-10-28.json'
             if git diff --cached --quiet; then
               echo 'Already synchronized'
