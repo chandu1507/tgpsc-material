@@ -112,7 +112,7 @@
     "4-1-3",
     "4-1-4"
   ],
-  "last_readiness_update": "27 Oct Cycle38: Topic 4-1-4 R1 original Commission PDF p31 PASS; budget reconciliation and original MCQ23/Q25 corrections; CI PDF/actual artifact QA pending.",
+  "last_readiness_update": "27 Oct Cycle38: Topic 4-1-4 R1 PASS; CI 23-page PDF; actual artifact 12735981454 downloaded, 1609 files, 75 unchanged original PDFs, CRC/SHA and links PASS; R8 IN_PROGRESS; zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -127,6 +127,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-1-4-cycle38-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-1-4-cycle38-primary-syllabus-and-budget-reconciliation-2026-10-27.json",
     "project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json",
     "project-control/academic-readiness/4-1-1-cycle35-final-r1-downloaded-artifact-qa-2026-10-27.json",
