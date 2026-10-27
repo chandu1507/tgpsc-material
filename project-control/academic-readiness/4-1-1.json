@@ -60,7 +60,13 @@
     "pages": 25,
     "sha256": "0eac4a98fc391a10a567f003a27ed8df41edcab28f4e3262dd596a3745de4ecf",
     "original_pdf_preserved": true,
-    "artifact_qa_pending": true,
+    "artifact_qa_pending": false,
     "academic_approval": false
+  },
+  "cycle35_actual_downloaded_artifact": {
+    "run": 40484475861,
+    "artifact": 12724143216,
+    "qa_file": "project-control/academic-readiness/4-1-1-cycle35-downloaded-github-artifact-qa-2026-10-27.json",
+    "verified": true
   }
 }
