@@ -8,22 +8,22 @@
   "verified_official_mains_pyqs": 0,
   "original_mcqs": 30,
   "mains_models": 6,
-  "detailed_sections": 16,
-  "diagram_count": 3,
+  "detailed_sections": 17,
+  "diagram_count": 4,
   "pdf_pages": 27,
   "manuscript_words": 11207,
   "files": {
     "index.html": {
-      "sha256": "db49acda79838f16aea10f60e917d9879ba75576888c7b2ed7fbf8408cb2d794",
-      "bytes": 96586
+      "sha256": "35521898ac65c2520a45357ceccc0f1d16b2f872f14614316ce580b71b3eb6da",
+      "bytes": 105376
     },
     "complete-notes.pdf": {
       "sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
       "bytes": 454256
     },
     "README.md": {
-      "sha256": "07c3114257503eec458691a468ed8177998907a1c0caf10db6edaa1bfa4be851",
-      "bytes": 274
+      "sha256": "e45c0eec6ee0f0c416478c1d2e59a01737c4538ce26de5d5d832d2323ececa15",
+      "bytes": 682
     },
     "visuals/policy-instruments.png": {
       "sha256": "bc2138e1c1eeaf2f61cc7d6ac16f86efadf482153e56bb4fa2809cb581ca3883",
@@ -38,12 +38,12 @@
       "bytes": 119424
     },
     "source/quick-revision.md": {
-      "sha256": "9b5fe0e01db82f501f93fe54eafe14186b79706b928a47adff6de342fc781deb",
-      "bytes": 5160
+      "sha256": "65d8dd62a0c1e7b0f4cad549364573c346846aa341a71fa6fb6c93fefa63af8b",
+      "bytes": 5154
     },
     "source/complete-notes.md": {
-      "sha256": "81719935dc0079796f9b96f9eb28acd791f292aa764afa1807eefc2ea345b428",
-      "bytes": 86505
+      "sha256": "f308382f8d1e2930450db624b6b1e4a95bbcba02a02aecd8914aaede6835be0d",
+      "bytes": 94739
     },
     "source/answer-blueprints.md": {
       "sha256": "5545471e493dc3b19741a20e63d8ae6e35cfb33d224e71ad69f6969cf2c33617",
@@ -58,28 +58,44 @@
       "bytes": 636
     },
     "source/mains-model-answers.md": {
-      "sha256": "ca86a60e6a38b92af93a78da58108872fd0208482b193aee45e885518175922d",
-      "bytes": 11520
+      "sha256": "93fd9414a167035ac252d7e0d989846988f18d869b5cb47379ed7dbc28e76937",
+      "bytes": 12898
     },
     "source/original-mcqs.md": {
-      "sha256": "39e3eaa90861f60a9708423bb7520319231ec9cb44dc8f0b10d10371136fd0be",
-      "bytes": 11202
+      "sha256": "a20b4e158fcca0f4d31ca90a156dda2b58ede11d649b59c1758c9e16215806d4",
+      "bytes": 12567
     },
     "source/syllabus-and-summary.md": {
-      "sha256": "4c27bac2f6dfd8c4d6610338b2b2ebe2d3863e17308a57989debaf0aebff0dc1",
-      "bytes": 3289
+      "sha256": "d134321f2723afbba2de986077a2fe770b9cc79b46bb2bc49db4af3c47560f81",
+      "bytes": 3285
     },
     "source/detailed-notes.md": {
-      "sha256": "ec1c9931b725c5145bb62a97f64c47163a0226f67b6cf31d1fc627437f25edbf",
-      "bytes": 42598
+      "sha256": "4ed050fc9f3727692adea16ccf0a9e2067f707fc0a2cc236641605f805f906e9",
+      "bytes": 46988
     },
     "source/visual-learning.md": {
-      "sha256": "9e5ba8e70a263658ec2c623d728981e3e490e0213f14316b295c1551a1839985",
-      "bytes": 643
+      "sha256": "3f4a2beca7ed3f4580eae8caad06fae6457ef9260c527051cfcac19286f1ffe4",
+      "bytes": 834
     },
     "source/sources-and-audit.md": {
-      "sha256": "8430eb7894e040b29d0bf7963ac7d2525b3ec9f651f1709f4091a889536b8b76",
-      "bytes": 8289
+      "sha256": "b5daa8cbce687b32ce88558bc8dcdb2e60856b5eb7bf90f950b5222c9cb1bad6",
+      "bytes": 10532
+    },
+    "QA-REPORT.md": {
+      "sha256": "d5f9ac3e51b89500458ac0f1d132efec8fddbc35e5115e3d5eb0f68f4a9c6e8e",
+      "bytes": 930
+    },
+    "source/integrated-student-edition-cycle45.pdf": {
+      "sha256": "e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f",
+      "bytes": 478770
+    },
+    "visuals/cumulative-load-laboratory.svg": {
+      "sha256": "99cf46caa29f54f0111b6f4016308b00a2186fbe122f51db3bc55f9013687eac",
+      "bytes": 1979
+    },
+    "visuals/cumulative-load-laboratory.png": {
+      "sha256": "65f589135c60686875d244b0dcbaff8e38d137146fe098c4625ae471bca875d5",
+      "bytes": 48007
     }
   },
   "known_gaps": [
@@ -87,5 +103,8 @@
     "Original TGPSC PYQs not verified",
     "Commission Notification 02/2024 full line-by-line audit pending",
     "Individual legal amendments/court orders need ongoing update"
-  ]
+  ],
+  "integrated_pdf_pages": 28,
+  "integrated_pdf_sha256": "e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f",
+  "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending"
 }

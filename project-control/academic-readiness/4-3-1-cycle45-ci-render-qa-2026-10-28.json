@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-28",
+  "topic": "4-3-1",
+  "cycle": 45,
+  "original_pdf_sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
+  "original_preserved": true,
+  "integrated_pdf_sha256": "e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f",
+  "integrated_pdf_pages": 28,
+  "pdf_images": 4,
+  "blank_pages": [],
+  "text_boundary_violations": [],
+  "concept_count": 17,
+  "min_concept_words": 328,
+  "original_mcqs": 30,
+  "mains_body_counts": [
+    233,
+    233,
+    233,
+    230,
+    230,
+    220
+  ],
+  "html_file_links_checked": 9,
+  "broken_files": [],
+  "html_fragment_links_checked": 2,
+  "broken_fragments": [],
+  "spa_routes_excluded": 1,
+  "source_checks": "bounded author-side only",
+  "independent_academic_approvals": 0,
+  "R8": "IN_PROGRESS_NOT_PASS",
+  "actual_downloaded_post_edit_artifact_qa": false,
+  "browser_accessibility_certified": false
+}
