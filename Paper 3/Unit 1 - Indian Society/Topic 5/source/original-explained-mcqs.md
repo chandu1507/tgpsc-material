@@ -24,16 +24,15 @@ D. Statutes never concern welfare
 **Explanation:** An executive scheme and an Act have different legal status; enforceability depends on the precise instrument.
 
 ## MCQ 3
-**Question:** Mission Shakti consists of which two major sub-schemes?
+**Question:** Which pair comprises the two sub-schemes of Mission Shakti, as described by the Ministry of Women and Child Development?
 
-A. Poshan and Vatsalya
+A. Sambal and Mission Vatsalya
 B. Sambal and Samarthya
-C. PESA and FRA
-D. PM POSHAN and Samagra Shiksha
+C. Samarthya and Mission Poshan 2.0
+D. Mission Vatsalya and Mission Poshan 2.0
 
 **Correct answer: B. Sambal and Samarthya**
-**Explanation:** Sambal addresses safety/security and Samarthya empowerment, as MWCD describes.
-
+**Explanation:** The Ministry names Sambal (safety/security) and Samarthya (empowerment) as Mission Shakti's two sub-schemes. Mission Vatsalya is the separate child-protection programme, while Mission Poshan 2.0 concerns nutrition and early-childhood services. All four names denote real programmes or sub-schemes, but only option B pairs the two within Mission Shakti. [MWCD Mission Shakti, Mission Vatsalya and Mission Poshan 2.0 programme pages; checked 27 October 2026.]
 ## MCQ 4
 **Question:** Which is the most defensible indicator of women’s economic empowerment?
 
@@ -46,16 +45,15 @@ D. Number of scheme posters
 **Explanation:** Control over resources and sustainable participation indicate agency beyond enrolment.
 
 ## MCQ 5
-**Question:** Which of the following is a child-protection scheme connected with the JJ Act?
+**Question:** Which programme finances child care and protection services connected with the Juvenile Justice (Care and Protection of Children) Act?
 
 A. Mission Vatsalya
-B. Mission Shakti Sambal
+B. Mission Saksham Anganwadi and Poshan 2.0
 C. PM POSHAN
-D. MGNREGA
+D. Samagra Shiksha
 
 **Correct answer: A. Mission Vatsalya**
-**Explanation:** Mission Vatsalya supports child-care and protection services under the Juvenile Justice framework.
-
+**Explanation:** Mission Vatsalya supports child-protection institutions and services under the Juvenile Justice framework. Poshan 2.0 primarily addresses nutrition and early childhood services; PM POSHAN supports school meals; Samagra Shiksha is an integrated school-education programme. Each alternative is a genuine social-sector programme, but the statutory child-protection connection identifies A. [MWCD Mission Vatsalya/Poshan 2.0; Ministry of Education PM POSHAN/Samagra Shiksha, checked 27 October 2026.]
 ## MCQ 6
 **Question:** A child has low height-for-age. Which indicator is involved?
 
@@ -101,16 +99,15 @@ D. MGNREGA 2005
 **Explanation:** RPwD Act 2016 addresses non-discrimination, inclusion and accessibility.
 
 ## MCQ 10
-**Question:** Under the RPwD Act, government employment reservation for benchmark disability is generally cited as at least:
+**Question:** Under section 34 of the Rights of Persons with Disabilities Act, 2016, the minimum reservation in government-establishment vacancies for persons with benchmark disabilities is generally:
 
-A. 1%
-B. 2%
+A. 3%
+B. 5%
 C. 4%
-D. 10%
+D. 1%
 
 **Correct answer: C. 4%**
-**Explanation:** Section 34 specifies not less than 4% of vacancies in government establishments, subject to the Act.
-
+**Explanation:** Section 34 prescribes not less than four per cent of the relevant government-establishment vacancies, with statutory conditions and distribution among categories. Five per cent is the separate higher-education seat reservation in section 32; one per cent is used for specified component categories within section 34, not the overall minimum. Three per cent is not the section 34 total. [India Code, RPwD Act 2016, sections 32–34; checked 27 October 2026.]
 ## MCQ 11
 **Question:** Which is a whole-journey accessibility indicator?
 
@@ -134,16 +131,15 @@ D. POSH Act 2013
 **Explanation:** The SC/ST PoA Act provides a distinct protective framework beyond general welfare schemes.
 
 ## MCQ 13
-**Question:** The Telangana SC/ST Special Development Fund framework is established by:
+**Question:** Which instrument enacted Telangana's SC/ST Special Development Fund framework, rather than merely issuing its implementing rules?
 
-A. State Act 18 of 2017
-B. The 2020 National Education Policy
-C. Article 21A alone
-D. National Health Policy 2017
+A. Telangana State Act 18 of 2017
+B. Telangana G.O.Ms.No.53 dated 13 September 2017
+C. Union Act 18 of 2017
+D. Telangana State Act 18 of 2018
 
-**Correct answer: A. State Act 18 of 2017**
-**Explanation:** The Telangana 2017 Act provides a statutory framework for earmarked development resources.
-
+**Correct answer: A. Telangana State Act 18 of 2017**
+**Explanation:** The Telangana State Scheduled Castes and Scheduled Tribes Special Development Fund (Planning, Allocation and Utilization of Financial Resources) Act, 2017 is State Act 18/2017. G.O.Ms.No.53 of 13 September 2017 concerns rules under that Act, not its enactment. The Union and 2018 alternatives misidentify the legislature or year. [Telangana Government Scheduled Castes Special Development Fund budget statement, 2023–24; checked 27 October 2026.]
 ## MCQ 14
 **Question:** Which measure is the strongest evidence of an effective SC student hostel programme?
 
@@ -211,16 +207,15 @@ D. Article 41
 **Explanation:** Article 30(1) concerns religious and linguistic minorities’ educational institutions.
 
 ## MCQ 20
-**Question:** Article 21A directly concerns free compulsory education for:
+**Question:** Article 21A of the Constitution of India directly guarantees free and compulsory education for which age group?
 
-A. 0–3 years
+A. 3–6 years
 B. 6–14 years
-C. 14–21 years
-D. All adults
+C. 6–18 years
+D. 14–18 years
 
 **Correct answer: B. 6–14 years**
-**Explanation:** The constitutional guarantee under Article 21A covers children aged six to fourteen.
-
+**Explanation:** Article 21A covers children aged six to fourteen. Early-childhood care below six is addressed separately in Article 45; section 31 of the RPwD Act gives a distinct six-to-eighteen-year entitlement to children with benchmark disabilities. Neither expands Article 21A itself to all children under eighteen. [Ministry of Education, Article 21A/86th Amendment guidance; India Code RPwD Act section 31; checked 27 October 2026.]
 ## MCQ 21
 **Question:** Samagra Shiksha is best described as:
 
