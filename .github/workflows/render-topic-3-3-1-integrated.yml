@@ -73,6 +73,9 @@ jobs:
           m=json.loads((root/'manifest.json').read_text())
           assert m['original_mcqs']==25 and m['mains_model_answers']==6
           assert m['academic_approvals']==0
+          for rel,entry in m['files'].items():
+              f=root/rel
+              assert f.is_file() and hashlib.sha256(f.read_bytes()).hexdigest()==entry['sha256'],('manifest mismatch',rel)
           qa={'topic_id':'3-3-1','pdf_pages':len(doc),'pdf_sha256':hashlib.sha256(pdf.read_bytes()).hexdigest(),'legacy_pdf_sha256':'c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372','text_boundaries_pass':True,'blank_pages':0,'academic_approved':False,'browser_accessibility_verified':False}
           out=pathlib.Path('project-control/academic-readiness/3-3-1-cycle32-render-qa.json')
           out.write_text(json.dumps(qa,indent=2)+'\n')
