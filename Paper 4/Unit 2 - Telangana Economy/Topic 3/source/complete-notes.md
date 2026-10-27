@@ -385,13 +385,6 @@ C. Section 38-E—Bhu Bharati Act, 2025; ORC—Jagir abolition regulation
 D. Section 38-E—Telangana Tenancy and Agricultural Lands Act, 1950; ORC—Telangana Abolition of Inams Act, 1955  
 **Answer: D.** **Explanation:** The 1950 tenancy statute provides the protected-tenant ownership route under Section 38-E; the 1955 Inams statute addresses eligible occupancy claims in former inam lands. The mechanisms and eligibility tests must not be conflated [S05, S06].
 
-
-A. Telangana Tenancy and Agricultural Lands Act, 1950  
-B. Companies Act, 2013  
-C. Urban Land Ceiling Act, 1976 only  
-D. Indian Contract Act, 1872 alone  
-**Answer: A.** **Explanation:** The 1950 Act governs recognised tenancies and protected-tenant rights, including the Section 38-E ownership mechanism.
-
 **Q5. Section 38-E is associated primarily with:**
 A. GST registration  
 B. Recognition or vesting of ownership in eligible protected tenants  
@@ -413,13 +406,6 @@ C. An Occupancy Rights Certificate under the Telangana Abolition of Inams Act, 1
 D. A restoration order concerning a prohibited transfer of assigned land  
 **Answer: C.** **Explanation:** An ORC relates to qualifying former inam land under the Inams Act. A protected-tenancy ownership certificate and a ceiling-surplus order arise under different statutory mechanisms [S05, S06, S11].
 
-
-A. Former inam lands and qualifying occupants  
-B. Bank CRR ratios  
-C. Municipal trade licences  
-D. Goods and Services Tax invoices  
-**Answer: A.** **Explanation:** ORCs arise in the statutory framework for eligible occupancy in former inam lands; their validity must be checked.
-
 **Q8. The Telangana Land Reforms (Ceiling on Agricultural Holdings) Act is from:**
 A. 1947  
 B. 1950  
@@ -433,13 +419,6 @@ B. The recorded tenant's name alone fixes the acreage ceiling
 C. All wetland is automatically exempt from agricultural land ceilings  
 D. Section 5 uses land classes and standard-holding extents, while Section 4 also applies family-unit rules  
 **Answer: D.** **Explanation:** The ceiling is not a universal number of acres: statutory land classification and family-unit provisions affect computation. Current amendments and exceptions require checking the applicable Act and rules [S11].
-
-
-A. Every family receives exactly one acre  
-B. Permissible extent depends on land class and statutory computation  
-C. Only urban flats count as holdings  
-D. It means all land is common property  
-**Answer: B.** **Explanation:** A single universal acreage ceiling is misleading; productivity and land categories enter statutory computation.
 
 **Q10. Which sequence best measures actual ceiling redistribution?**
 A. Political announcement → newspaper report  
@@ -475,13 +454,6 @@ B. 1963 original regulation → 1970 extension → 1959 amendment
 C. 1959 original regulation → 1970 extension → 1963 amendment  
 D. 1959 regulation → 1963 extension to Telangana Scheduled Areas → 1970 strengthening amendment  
 **Answer: D.** **Explanation:** Regulation I of 1959, Regulation II of 1963 and Regulation I of 1970 have different legal functions. The territorial notification and amended text still require case-specific verification [S14, S15].
-
-
-A. 1959  
-B. 1977  
-C. 2006  
-D. 2025  
-**Answer: A.** **Explanation:** Regulation I of 1959 was extended to Telangana Scheduled Areas by Regulation II of 1963 and tightened by Regulation I of 1970.
 
 **Q15. What is the significance of Regulation I of 1970 ('1/70')?**
 A. It abolished the RBI  
@@ -546,13 +518,6 @@ C. Yes: the 2025 record-of-rights law replaced all tenancy, assignment and triba
 D. No: record maintenance and mutation do not themselves override applicable substantive restrictions on land transfer  
 **Answer: D.** **Explanation:** The Telangana Bhu Bharati Act, 2025 governs record-of-rights administration; legality of an assigned-land transfer must separately be tested under applicable substantive law [S07, S13, S19].
 
-
-A. 1949  
-B. 1973  
-C. 2014  
-D. 2025  
-**Answer: D.** **Explanation:** Telangana Act 1 of 2025 established a revised record-of-rights framework; official rules were issued on 14 April 2025.
-
 **Q24. Which statement about digital land records is MOST defensible?**
 A. An online entry automatically overrides every court order  
 B. A digital record can improve administration but does not itself resolve every title dispute  
@@ -567,26 +532,12 @@ C. G.O.Ms.No.39, Revenue (Land Administration-I) Department
 D. The Hyderabad (Abolition of Jagirs) Regulation, 1358 Fasli  
 **Answer: C.** **Explanation:** The official Telangana Bhu Bharati documents repository lists G.O.Ms.No.39 dated 14 April 2025 as the Rules notification, separately from the Act and G.O.Ms.No.36 [S07, S19].
 
-
-A. Telangana Bhu Bharati Record of Rights Rules  
-B. Indian bank nationalisation  
-C. Scheduled Area creation in 1950  
-D. Abolition of Parliament  
-**Answer: A.** **Explanation:** The official Telangana Revenue Department published rules for record maintenance, mutation, appeals and related processes.
-
 **Q26. Executive action deprives a person of land without authority of law. Which constitutional provision directly states the safeguard against such deprivation?**
 A. Article 31A, protection of specified agrarian legislation  
 B. Article 31B, Ninth Schedule provisions  
 C. Article 39(b), a Directive Principle concerning material resources  
 D. Article 300A, deprivation of property only by authority of law  
 **Answer: D.** **Explanation:** Article 300A states the direct textual protection. Articles 31A, 31B and 39(b) have distinct constitutional roles and are not substitutes for that wording [S01].
-
-
-A. Article 17  
-B. Article 300A  
-C. Article 352  
-D. Article 368 only  
-**Answer: B.** **Explanation:** Property is a constitutional legal right under Article 300A, not the original fundamental right to property.
 
 **Q27. Article 31A is especially relevant to land reform because it:**
 A. Creates a universal individual right to ten acres  
@@ -608,13 +559,6 @@ B. The count may omit oral tenants without pattadar status
 C. The count may fail to describe outcomes for landless agricultural labourers  
 D. The count accurately measures every adult woman's ownership and cultivation rights  
 **Answer: D.** **Explanation:** Pattadar-only counts cannot establish women's legal and operational rights, informal tenancy or landless-worker outcomes. Ownership, operation and labour participation need separate measures.
-
-
-A. Women cultivators and informal tenants  
-B. All government departments  
-C. Only commercial banks  
-D. Only urban industries  
-**Answer: A.** **Explanation:** Women's labour, oral tenancy and landless workers may be absent from formal title-based measures.
 
 **Q30. The strongest administrative response to a disputed Scheduled Area, former-inam parcel is to:**
 A. Register any deed presented first  
