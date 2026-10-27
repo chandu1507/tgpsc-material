@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "Cycle48 first direct assessment: original 25-page PDF SHA 7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7, 16 concepts all >=300, 30 MCQs A3/B24/C3/D0, six mains body-only 215/206/215/207/206/214, three diagrams; UNFCCC April 2026 NDC primary PDF bounded MCQ20/21 key correspondences only; remaining 28 keys, 120 distractors, all mains and diagrams pending.",
-  "next_action": "Claim-level review all six mains, independently audit 30 MCQ keys/120 distractors, diagrams, direct syllabus; then synchronized integrated master/PDF and actual artifact QA.",
+  "evidence": "Cycle48 first direct assessment: original 25-page PDF SHA 7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7, 16 concepts all >=300, 30 MCQs A3/B24/C3/D0, six mains body-only 215/206/215/207/206/214, three diagrams; UNFCCC April 2026 NDC primary PDF bounded MCQ20/21 key correspondences only; remaining 28 keys, 90 distractors (120 total answer options), all mains and diagrams pending.",
+  "next_action": "Claim-level review all six mains, independently audit 30 MCQ keys/90 distractors (120 total answer options), diagrams, direct syllabus; then synchronized integrated master/PDF and actual artifact QA.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7",
