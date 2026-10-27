@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-27",
+  "cycle": 39,
+  "topic_id": "4-1-5",
+  "base_main_sha": "d50da3919bdd6e338f42266236fe1ba360d486a1",
+  "source_state": "Bounded author-side assessment, not independent academic approval",
+  "baseline": {
+    "topics": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 19,
+    "not_assessed": 49,
+    "r1_pass": 10,
+    "academic_approvals": 0
+  },
+  "post_assessment": {
+    "topics": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 20,
+    "not_assessed": 48,
+    "r1_pass": 10,
+    "fully_ready": 0,
+    "academic_approvals": 0
+  },
+  "topic": {
+    "title": "Planning in the Indian Economy: Five-Year Plans, Twelfth Plan Inclusive Growth, NITI Aayog and LPG",
+    "concepts": 15,
+    "concept_word_counts": [
+      634,
+      539,
+      548,
+      528,
+      545,
+      460,
+      495,
+      464,
+      476,
+      396,
+      362,
+      430,
+      444,
+      433,
+      548
+    ],
+    "mcqs": 25,
+    "revised_mcqs": [
+      21,
+      25
+    ],
+    "original_practice_not_official_pyq": true,
+    "mains": 6,
+    "mains_body_only_words": [
+      235,
+      239,
+      233,
+      230,
+      233,
+      227
+    ],
+    "original_diagrams": 3,
+    "original_pdf_sha256": "01f2cfa032761978ef783941b01b7085511ffda76dd4d77a616ee5f94d189ad4",
+    "local_pdf_pages": 29,
+    "local_pdf_sha256": "0bea843c146c9bcb41eab3ccb3712223c5af4f79eab6dd6c4faa80e3e3f0187f"
+  },
+  "source_checks": [
+    {
+      "claim": "Twelfth Plan (2012–17) Faster, More Inclusive and Sustainable Growth",
+      "primary": "https://digitallibrary.niti.gov.in/items/286a1677-46ea-4dce-a740-0b33d256850d",
+      "result": "bounded correspondence"
+    },
+    {
+      "claim": "NITI Governing Council constituted 16 February 2015, separate from NITI formation 1 January",
+      "primary": "https://www.niti.gov.in/sites/default/files/2021-09/Composition_of_Governing_Council_of_NITI_Aayog-Cab_Secretariat_Notification_dated_16-02-2015.pdf",
+      "result": "bounded correspondence"
+    },
+    {
+      "claim": "CURE/PURE/RARE are regional planning strategy, not constitutional tiers or completed results",
+      "primary": "https://tgswc.telangana.gov.in/wp-content/uploads/2025/12/TelanganaRising-2047.pdf",
+      "result": "bounded correspondence"
+    },
+    {
+      "claim": "TGPSC Notification 02/2024 original printed p31",
+      "primary": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+      "result": "HTTP 403 fresh retrieval; R1 not passed"
+    }
+  ],
+  "hypothetical_training_lab": {
+    "budget_crore": 120,
+    "disbursed_crore": 96,
+    "eligible_spent_crore": 84,
+    "proposed_centres": 20,
+    "completed_centres": 15,
+    "operational_centres": 12,
+    "entrants": 8000,
+    "completers": 6000,
+    "six_month_employed": 3000,
+    "completion_rate": 0.75,
+    "employment_among_completers": 0.5,
+    "operational_rate": 0.6,
+    "cost_per_sustained_placement_lakh": 2.8,
+    "not_real_telanganastatistics": true
+  },
+  "remaining": [
+    "all 25 MCQ keys and 100 distractors independent check",
+    "six mains claim-level source review",
+    "diagram accuracy review",
+    "official syllabus direct R1",
+    "GitHub CI PDF and actual downloaded artifact QA",
+    "offline browser/accessibility"
+  ],
+  "r9": "NOT_STARTED",
+  "external_approvals": 0
+}
