@@ -1,8 +1,8 @@
 {
   "topic_id": "4-3-5",
   "title": "Global Environmental Issues: Climate Change, Global Warming, Impacts and Sustainable Development",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,26 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle48 first direct assessment: original 25-page PDF SHA 7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7, 16 concepts all >=300, 30 MCQs A3/B24/C3/D0, six mains body-only 215/206/215/207/206/214, three diagrams; UNFCCC April 2026 NDC primary PDF bounded MCQ20/21 key correspondences only; remaining 28 keys, 120 distractors, all mains and diagrams pending.",
+  "next_action": "Claim-level review all six mains, independently audit 30 MCQ keys/120 distractors, diagrams, direct syllabus; then synchronized integrated master/PDF and actual artifact QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7",
+  "cycle48": {
+    "evidence": "project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json",
+    "bounded_verified_mcq_keys": [
+      20,
+      21
+    ],
+    "independent_approval": false
+  }
 }
