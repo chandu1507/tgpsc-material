@@ -436,8 +436,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle39_bounded_source_audit_mains_length_and_mcq_revision_ci_pending",
-      "notes": "11,732-word complete Markdown; 34-page PDF; 14 substantive sections; 25 explained original MCQs; six 200–250-word mains answers; three diagrams; 17-source register. Direct official syllabus PDF authentication and independent academic audit pending. Cycle39: 15 concepts, 25 original MCQs (Q21/Q25 corrected), six body-only mains 235/239/233/230/233/227, hypothetical planning-outcome laboratory; local 29-page candidate only; original PDF preserved, independent approval zero.",
+      "production_review": "cycle39_source_audit_ci_integrated_pdf_and_downloaded_artifact_verified",
+      "notes": "11,732-word complete Markdown; 34-page PDF; 14 substantive sections; 25 explained original MCQs; six 200–250-word mains answers; three diagrams; 17-source register. Direct official syllabus PDF authentication and independent academic audit pending. Cycle39: 15 concepts, 25 original MCQs (Q21/Q25 corrected), six body-only mains 235/239/233/230/233/227, hypothetical planning-outcome laboratory; 31-page GitHub CI PDF, downloaded artifact CRC/SHA/75 original PDFs/links verified; original PDF preserved, independent approval zero.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-5.json"
     },
