@@ -30,6 +30,18 @@
 9. **Telangana seats:** Official Telangana department reports 119 Assembly and 40 Council seats; avoid third-party claims of 43 Council seats or confusing sanctioned strength with filled vacancies.
 10. **Original questions:** 25 new MCQs and six mains practice questions; zero official PYQ labels; no invented TGPSC question numbers.
 
+## 27 October 2026 — Article 171 primary-text and practice-item review
+
+Government of India, Legislative Department, Constitution of India, Article 171(1)–(5): https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf . Article 164(1A): https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf . Telangana Legislative Affairs: https://www.telangana.gov.in/departments/legislative-affairs/ . PRS Annual Review of State Laws 2025: https://prsindia.org/legislatures/states/annual-review-of-state-laws/annual-review-of-state-laws-2025 .
+
+- Q5: Article 164(1A) 15% of 119 = 17.85, so maximum whole-number ministry is 17 including CM; separate minimum twelve.
+- Q12: Article 169 requires Assembly special resolution followed by Parliamentary law; resolution alone does not abolish a Council.
+- Q13: rewritten to test Article 171 one-third ceiling and forty-member proviso rather than rote teacher-seat recall.
+- Q14: Article 197 specifies three-month and one-month stages for Assembly-origin ordinary bills; no state joint sitting.
+- Q23: PRS's 11 Telangana Council sitting days refer to calendar year 2025, not a 2026 tally or statutory minimum.
+
+These are five limited author-side answer-key source correspondences, not an independent review of all 25 keys and 100 distractors. Six mains answers remain unverified claim by claim. No R1–R8 PASS or R9 approval is claimed.
+
 ## Outstanding full academic-audit tasks (do not mark approved)
 
 - Independent constitutional-law expert review of every doctrinal nuance and judgment interpretation, including the Article 200/201 opinion and subsequent developments after this cut-off.

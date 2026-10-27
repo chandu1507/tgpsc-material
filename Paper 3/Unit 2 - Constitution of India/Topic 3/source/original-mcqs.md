@@ -86,12 +86,12 @@ C. Simple Council majority alone
 D. Presidential ordinance alone  
 **Answer: B.** The Assembly resolution has prescribed majorities; Parliament then acts by law. A state resolution does not itself abolish the Council.
 
-### Q13. Which category elects approximately one-twelfth of members of a state Legislative Council under Article 171?
-A. School teachers meeting statutory qualifications  
-B. Lok Sabha MPs  
-C. District Collectors  
-D. Judges of High Court  
-**Answer: A.** Qualified teachers elect about one-twelfth; qualified graduates elect another one-twelfth. Other categories include local authorities and MLAs, plus Governor nominations.
+### Q13. Telangana has 119 Assembly seats and a 40-seat Legislative Council. Which constitutional explanation resolves the apparent one-third ceiling problem?
+A. The one-third limit applies only to Union Territories.  
+B. Article 171(1) also requires a minimum of forty Council members, so the general ceiling must be read with its proviso.  
+C. Council seats are excluded from every constitutional numerical limit.  
+D. The Governor may enlarge the Council to any size by executive order.  
+**Answer: B.** The general ceiling of one-third of 119 is about 39.67, but Article 171(1)'s proviso requires at least forty Council members. Telangana officially reports a 40-seat Council. Article 164(1A)'s ministerial ceiling is separate. [S2][S3]
 
 ### Q14. For an ordinary bill initially passed by a state Assembly, Article 197 permits the Assembly to prevail after prescribed Council delays of:
 A. Six months and six months  

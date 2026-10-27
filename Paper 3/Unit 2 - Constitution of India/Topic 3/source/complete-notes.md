@@ -215,6 +215,16 @@ The case for a strong Chief Minister is speed and coherence across departments; 
 
 Article 168 allows a state legislature to comprise the Governor and one or two Houses. Telangana is bicameral: Legislative Assembly (Vidhan Sabha) and Legislative Council (Vidhan Parishad). Article 170 governs Assembly composition and direct election. Article 171 governs Council composition: as nearly as may be, one-third elected by local-authority electorates, one-twelfth by graduates, one-twelfth by teachers, one-third by MLAs, and the remainder nominated by the Governor for special knowledge or practical experience in literature, science, art, cooperative movement and social service. These are **approximate constitutional fractions**, implemented through election law and actual seat allocation; not every seat is filled by a general public vote. Council members serve six-year terms with one-third retiring every two years, while the Assembly ordinarily lasts five years unless sooner dissolved (Article 172).
 
+### Article 171's ceiling and forty-member proviso: a Telangana case study
+
+**Read the full provision.** Article 171(1) generally caps a State Legislative Council at one-third of the Legislative Assembly's membership, but its proviso requires at least forty Council members. Telangana's Assembly has 119 seats. One-third of 119 is approximately 39.67, yet the Telangana Legislative Affairs Department reports a 40-seat Council. The minimum-size proviso must be read with the general ceiling. Ignoring that proviso creates a false allegation that Telangana's fortieth Council seat is automatically unconstitutional. [S2][S3]
+
+**Do not mix up two institutions.** Article 164(1A) sets a different ceiling for the State Council of Ministers, including the Chief Minister: no more than fifteen percent of Assembly membership, with a minimum of twelve. For 119 Assembly seats, fifteen percent is 17.85, so a whole-number ministry cannot exceed seventeen members. Article 171's forty-member floor applies to a legislative chamber; it is not permission to appoint forty ministers. Nor does Article 164 require the ministry to draw a specified number of members from the Legislative Council.
+
+**Composition is not a simple rounding exercise.** Article 171(3) uses approximate fractions for local-authority, graduate, teacher, Assembly-elected and nominated categories. Applicable election law determines actual allocations. Graduates and teachers must meet qualifying conditions; these are not universal adult electorates. The Council can question ministers and reconsider legislation, but Article 164(2) makes the ministry collectively responsible to the Assembly. This difference explains why Council strength, ministerial strength and confidence votes must be analysed separately.
+
+**Exam application.** A numerical question about forty Council members tests Article 171 and its proviso; a question about seventeen ministers tests Article 164(1A). A mains answer should quote both rules, show the arithmetic, identify the institutions concerned, and explain the Assembly's primacy in executive accountability. [S2][S3]
+
 Article 169 permits Parliament to create or abolish a state Legislative Council by law after the state Assembly passes a resolution supported by a majority of its total membership and not less than two-thirds of members present and voting. The Assembly's resolution is necessary but does not itself create or abolish the Council; Parliament must enact the law. A state cannot abolish its Council by ordinary state legislation. Bicameralism is justified as a second look at complex legislation and a route for experienced professionals, teachers and local bodies to contribute. Critics point to cost, patronage nominations, indirect electoral incentives and the risk of repeating party debates without substantive revision.
 
 ### Ordinary bills and Council delay
@@ -488,12 +498,12 @@ C. Simple Council majority alone
 D. Presidential ordinance alone  
 **Answer: B.** The Assembly resolution has prescribed majorities; Parliament then acts by law. A state resolution does not itself abolish the Council.
 
-### Q13. Which category elects approximately one-twelfth of members of a state Legislative Council under Article 171?
-A. School teachers meeting statutory qualifications  
-B. Lok Sabha MPs  
-C. District Collectors  
-D. Judges of High Court  
-**Answer: A.** Qualified teachers elect about one-twelfth; qualified graduates elect another one-twelfth. Other categories include local authorities and MLAs, plus Governor nominations.
+### Q13. Telangana has 119 Assembly seats and a 40-seat Legislative Council. Which constitutional explanation resolves the apparent one-third ceiling problem?
+A. The one-third limit applies only to Union Territories.  
+B. Article 171(1) also requires a minimum of forty Council members, so the general ceiling must be read with its proviso.  
+C. Council seats are excluded from every constitutional numerical limit.  
+D. The Governor may enlarge the Council to any size by executive order.  
+**Answer: B.** The general ceiling of one-third of 119 is about 39.67, but Article 171(1)'s proviso requires at least forty Council members. Telangana officially reports a 40-seat Council. Article 164(1A)'s ministerial ceiling is separate. [S2][S3]
 
 ### Q14. For an ordinary bill initially passed by a state Assembly, Article 197 permits the Assembly to prevail after prescribed Council delays of:
 A. Six months and six months  
@@ -688,6 +698,18 @@ D. Governor can personally vote on every Assembly bill.
 8. **Legislative sittings:** PRS 2025 review's 11-day Telangana Council figure is historical descriptive evidence, not a mandatory minimum.
 9. **Telangana seats:** Official Telangana department reports 119 Assembly and 40 Council seats; avoid third-party claims of 43 Council seats or confusing sanctioned strength with filled vacancies.
 10. **Original questions:** 25 new MCQs and six mains practice questions; zero official PYQ labels; no invented TGPSC question numbers.
+
+## 27 October 2026 — Article 171 primary-text and practice-item review
+
+Government of India, Legislative Department, Constitution of India, Article 171(1)–(5): https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf . Article 164(1A): https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf . Telangana Legislative Affairs: https://www.telangana.gov.in/departments/legislative-affairs/ . PRS Annual Review of State Laws 2025: https://prsindia.org/legislatures/states/annual-review-of-state-laws/annual-review-of-state-laws-2025 .
+
+- Q5: Article 164(1A) 15% of 119 = 17.85, so maximum whole-number ministry is 17 including CM; separate minimum twelve.
+- Q12: Article 169 requires Assembly special resolution followed by Parliamentary law; resolution alone does not abolish a Council.
+- Q13: rewritten to test Article 171 one-third ceiling and forty-member proviso rather than rote teacher-seat recall.
+- Q14: Article 197 specifies three-month and one-month stages for Assembly-origin ordinary bills; no state joint sitting.
+- Q23: PRS's 11 Telangana Council sitting days refer to calendar year 2025, not a 2026 tally or statutory minimum.
+
+These are five limited author-side answer-key source correspondences, not an independent review of all 25 keys and 100 distractors. Six mains answers remain unverified claim by claim. No R1–R8 PASS or R9 approval is claimed.
 
 ## Outstanding full academic-audit tasks (do not mark approved)
 
