@@ -10,7 +10,7 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 47,
+  "not_assessed_count": 46,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
   "warning": "Exactly 75 original topics: 7 IN_PROGRESS, 21 ASSESSED_REBUILD_REQUIRED, 47 NOT_ASSESSED; ten verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
@@ -112,9 +112,10 @@
     "4-1-3",
     "4-1-4",
     "4-1-5",
-    "4-2-1"
+    "4-2-1",
+    "4-2-2"
   ],
-  "last_readiness_update": "27 Oct Cycle40: 7 IN_PROGRESS, 21 ASSESSED_REBUILD_REQUIRED, 47 NOT_ASSESSED, 10 R1 PASS, ZERO fully R1-R8 ready/approved. Topic 4-2-1 assessed; 30-page synchronized candidate LOCAL ONLY, no GitHub CI or post-edit artifact certification. R1 IN_PROGRESS due 403.",
+  "last_readiness_update": "27 Oct Cycle41: 7 IN_PROGRESS, 22 ASSESSED_REBUILD_REQUIRED, 46 NOT_ASSESSED; 10 R1 PASS; zero ready/approved. Topic 4-2-1 remote CI 31-page integrated PDF and actual downloaded artifact QA PASS for integrity; Topic 4-2-2 first assessed with bounded DES/NFHS evidence. R8 not PASS.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -129,6 +130,8 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/4-2-2-cycle41-first-source-and-objective-assessment-2026-10-27.json",
+    "project-control/academic-readiness/4-2-1-cycle41-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-2-1-cycle40-bounded-objective-and-local-candidate-audit-2026-10-27.json",
     "project-control/academic-readiness/4-1-5-cycle39-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-1-5-cycle39-bounded-primary-source-and-structural-audit-2026-10-27.json",

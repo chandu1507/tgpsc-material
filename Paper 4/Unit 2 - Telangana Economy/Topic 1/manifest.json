@@ -8,17 +8,17 @@
   "production_status": "cycle41_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "academic_status": "not_approved",
   "word_count_complete_markdown": 12277,
-  "word_count_detailed_notes": 6908,
+  "word_count_detailed_notes": 7294,
   "pdf_pages": 31,
   "original_explained_mcqs": 27,
   "original_mains_model_answers": 6,
   "mains_answer_word_counts": [
-    208,
-    211,
+    220,
+    227,
+    215,
+    218,
     228,
-    228,
-    237,
-    222
+    257
   ],
   "original_diagrams": 3,
   "verified_official_pyqs": 0,
@@ -28,7 +28,7 @@
   "editable_source_complete": true,
   "qa": {
     "pdf_rendered": true,
-    "pdf_visual_review_pending": false,
+    "pdf_visual_review_pending": true,
     "pdf_visually_inspected_pages": [
       1,
       14,
@@ -38,7 +38,9 @@
     "html_visual_links_checked": true,
     "sha256_manifest": true,
     "independent_academic_audit": false,
-    "official_2026_outlook_full_pdf_audit": false
+    "official_2026_outlook_full_pdf_audit": false,
+    "pdf_contact_sheet_inspected_pages": 31,
+    "browser_accessibility_certified": false
   },
   "files": {
     "QA-REPORT.md": {

@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle40: direct inspection of source and preserved PDF found 16 concepts all >=300 words, 27 original MCQs with B18/D0 skew and implausible distractors, and mains body-only counts 193/199/212/208/229/183 (three <200). Local candidate ONLY: 17 concepts, 27 MCQs, revised Q16/21/24/27, six mains 235/239/212/208/229/232, three diagrams, 30-page synchronized local PDF SHA256 94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b; original PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Local-only artifact is NOT a GitHub commit, CI run, actual downloaded artifact, or R8 pass. Official NITI MPI table directly checked for 13.18/5.88 and intensity 43.29/40.85; official TGPSC PDF direct retrieval 403; full SEO 2026 24.6 MB inaccessible. Zero academic approvals.",
-  "next_action": "Commit and render coherent candidate through guarded CI; independently download actual post-edit artifact and verify 75 originals, hashes, links, CRC, PDF; inspect full SEO 2026 reference-year table and official syllabus PDF; check all 27 MCQ keys/108 distractors, six mains factual claims, three diagrams, accessibility, expert approval.",
+  "evidence": "Cycle40: direct inspection of source and preserved PDF found 16 concepts all >=300 words, 27 original MCQs with B18/D0 skew and implausible distractors, and mains body-only counts 193/199/212/208/229/183 (three <200). Local candidate ONLY: 17 concepts, 27 MCQs, revised Q16/21/24/27, six mains 235/239/212/208/229/232, three diagrams, 30-page synchronized local PDF SHA256 94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b; original PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Local-only artifact is NOT a GitHub commit, CI run, actual downloaded artifact, or R8 pass. Official NITI MPI table directly checked for 13.18/5.88 and intensity 43.29/40.85; official TGPSC PDF direct retrieval 403; full SEO 2026 24.6 MB inaccessible. Zero academic approvals. Cycle41 REMOTE MERGED: one MPI worked concept integrated into canonical source, Q16/21/24/27 corrected, mains 1/2/6 evidence tests expanded. CI renderer 40535641301 SUCCESS; actual artifact 12747978502 from packaging run 40535641217 DOWNLOADED; 31-page PDF SHA256 7a6186c20c663d67b9a40b0f40f51887fd55070bb95190d919e016c613b19679; 75 original PDFs unchanged, 1620 files, CRC, links and manifest PASS. This remote edition differs from the earlier local-only 30-page candidate; no claim that its SHA matches that candidate. R8 IN_PROGRESS, not PASS. Zero independent academic approvals.",
+  "next_action": "Independently verify all 27 MCQ keys and 108 distractors, six mains claims and three diagrams; authenticate original TGPSC syllabus and full SEO 2026 PCI table; complete browser accessibility/usability and named expert review.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7",
@@ -78,8 +78,30 @@
     "independent_approvals": 0
   },
   "cycle41": {
-    "remote_integrated_edition_rendered": true,
-    "ci_integrated_pdf_sha256": "7a6186c20c663d67b9a40b0f40f51887fd55070bb95190d919e016c613b19679",
-    "ci_integrated_pdf_pages": 31
+    "remote_source_integrated": true,
+    "renderer_run": 40535641301,
+    "renderer_conclusion": "success",
+    "packaging_run": 40535641217,
+    "artifact_id": 12747978502,
+    "artifact_actually_downloaded": true,
+    "artifact_sha256": "7b0d679a41059825915d062a34f7d7a6146bf11eaab0455ad987c9f994fc1692",
+    "files": 1620,
+    "original_pdf_hash_changes": 0,
+    "readiness_json_count": 75,
+    "html_pages": 78,
+    "broken_local_links": 0,
+    "broken_dom_fragments": 0,
+    "pdf_pages": 31,
+    "pdf_sha256": "7a6186c20c663d67b9a40b0f40f51887fd55070bb95190d919e016c613b19679",
+    "mains_body_words": [
+      220,
+      227,
+      215,
+      218,
+      228,
+      257
+    ],
+    "r8": "IN_PROGRESS",
+    "academic_approvals": 0
   }
 }
