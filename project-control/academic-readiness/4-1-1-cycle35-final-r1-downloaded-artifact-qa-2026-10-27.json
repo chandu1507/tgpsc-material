@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-1-1",
+  "R1": "PASS",
+  "R8": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "official_R1_source": "project-control/academic-readiness/4-1-1-cycle35-official-notification-r1-syllabus-correspondence-2026-10-27.json",
+  "github_actions": {
+    "render_run": 40484874651,
+    "render": "SUCCESS",
+    "packaging_run": 40484940015,
+    "artifact_id": 12724552224,
+    "artifact_digest": "sha256:87ab8dec9f33f6ee7d3ad1c51a8305ecd2c8a6e4baa8818fef0281e2ca2243e6"
+  },
+  "downloaded_artifact": {
+    "outer_sha256": "87ab8dec9f33f6ee7d3ad1c51a8305ecd2c8a6e4baa8818fef0281e2ca2243e6",
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "files": 1591,
+    "original_pdfs": 75,
+    "original_pdf_hashes_unchanged_vs_cycle34": 75,
+    "readiness_json": 75,
+    "html_pages": 78,
+    "local_links_checked": 416,
+    "local_links_broken": 0,
+    "dom_fragments_checked": 659,
+    "dom_fragments_broken": 0,
+    "spa_routes_excluded": 64
+  },
+  "topic_pdf": {
+    "integrated_pages": 25,
+    "integrated_sha256": "9572c19695eede6369ac5a8c8bf582ec0694ffa6d51a1f1ff4b2b5c74f2e97af",
+    "embedded_images": 3,
+    "blank_pages": 0,
+    "text_boundary_violations": 0,
+    "original_26_page_sha256": "e0a70eca79be03d11a2d92bfd30c544050d9110b11625c718eb63e7366adec34",
+    "manifest_sha_checks": "16/16 PASS",
+    "all_25_mcqs_and_six_mains_present": true
+  },
+  "statuses": {
+    "in_progress": 7,
+    "assessed_rebuild_required": 16,
+    "not_assessed": 52,
+    "fully_ready": 0,
+    "independent_approved": 0,
+    "verified_R1_pass": 7
+  },
+  "library_saved": "/Mounika/TGPSC_ACADEMIC_READINESS_P4_U1_T1_20261027/TGPSC_CYCLE35_FINAL_R1_VERIFIED_75_TOPIC_GITHUB_ARTIFACT.zip",
+  "limits": [
+    "Source and publication integrity are not independent academic verification",
+    "25 MCQ keys and all distractors require item-level expert audit",
+    "Six mains require claim-level review",
+    "Full browser accessibility not certified",
+    "No new topic or official PYQ claimed"
+  ]
+}
