@@ -23,7 +23,14 @@ C. Deshmukh always meant a protected tenant
 D. Jagirdar always meant a landless labourer  
 **Answer: B.** **Explanation:** The social and legal categories overlap in practice but are not interchangeable in statutory analysis.
 
-**Q4. The principal historical statute governing protected tenancy in Telangana's Hyderabad area is:**
+**Q4. A protected tenant invokes Section 38-E while another claimant seeks an Occupancy Rights Certificate for former inam land. Which pairing is legally appropriate?**
+A. Section 38-E—1973 ceiling statute; ORC—1977 assigned-land statute  
+B. Section 38-E—Forest Rights Act, 2006; ORC—PESA, 1996  
+C. Section 38-E—Bhu Bharati Act, 2025; ORC—Jagir abolition regulation  
+D. Section 38-E—Telangana Tenancy and Agricultural Lands Act, 1950; ORC—Telangana Abolition of Inams Act, 1955  
+**Answer: D.** **Explanation:** The 1950 tenancy statute provides the protected-tenant ownership route under Section 38-E; the 1955 Inams statute addresses eligible occupancy claims in former inam lands. The mechanisms and eligibility tests must not be conflated [S05, S06].
+
+
 A. Telangana Tenancy and Agricultural Lands Act, 1950  
 B. Companies Act, 2013  
 C. Urban Land Ceiling Act, 1976 only  
@@ -44,7 +51,14 @@ C. Telangana Assigned Lands Transfer Act—1949
 D. Forest Rights Act—1970  
 **Answer: A.** **Explanation:** The inam abolition statute is Act VIII of 1955; ceiling legislation dates to 1973, assigned-land transfer restrictions to 1977, and FRA to 2006.
 
-**Q7. An Occupancy Rights Certificate is most directly relevant to disputes over:**
+**Q7. Which instrument is most directly associated with registering eligible occupancy rights in former inam land, rather than resolving a tenancy or ceiling case?**
+A. A Section 38-E protected-tenant ownership certificate under the 1950 tenancy law  
+B. A surplus surrender order under the 1973 ceiling law  
+C. An Occupancy Rights Certificate under the Telangana Abolition of Inams Act, 1955  
+D. A restoration order concerning a prohibited transfer of assigned land  
+**Answer: C.** **Explanation:** An ORC relates to qualifying former inam land under the Inams Act. A protected-tenancy ownership certificate and a ceiling-surplus order arise under different statutory mechanisms [S05, S06, S11].
+
+
 A. Former inam lands and qualifying occupants  
 B. Bank CRR ratios  
 C. Municipal trade licences  
@@ -58,7 +72,14 @@ C. 1973
 D. 2006  
 **Answer: C.** **Explanation:** The Act is Telangana Act 1 of 1973, adapted from the Andhra Pradesh legislation after state bifurcation.
 
-**Q9. Under the 1973 ceiling framework, 'standard holding' is important because:**
+**Q9. A family holds both double-crop wetland and dryland. Why is one uniform acreage ceiling inadequate under the 1973 framework?**
+A. Land classification affects only stamp duty, not ceilings  
+B. The recorded tenant's name alone fixes the acreage ceiling  
+C. All wetland is automatically exempt from agricultural land ceilings  
+D. Section 5 uses land classes and standard-holding extents, while Section 4 also applies family-unit rules  
+**Answer: D.** **Explanation:** The ceiling is not a universal number of acres: statutory land classification and family-unit provisions affect computation. Current amendments and exceptions require checking the applicable Act and rules [S11].
+
+
 A. Every family receives exactly one acre  
 B. Permissible extent depends on land class and statutory computation  
 C. Only urban flats count as holdings  
@@ -93,7 +114,14 @@ C. Ban all private property in Telangana
 D. Replace tenancy records with voter lists  
 **Answer: B.** **Explanation:** Assignment often carries non-alienation conditions intended to prevent re-concentration and distress transfers.
 
-**Q14. The Scheduled Areas Land Transfer Regulation originated in:**
+**Q14. Which chronology correctly distinguishes the Scheduled Areas Land Transfer Regulation and its Telangana application?**
+A. 1970 original regulation → 1963 extension → 1959 amendment  
+B. 1963 original regulation → 1970 extension → 1959 amendment  
+C. 1959 original regulation → 1970 extension → 1963 amendment  
+D. 1959 regulation → 1963 extension to Telangana Scheduled Areas → 1970 strengthening amendment  
+**Answer: D.** **Explanation:** Regulation I of 1959, Regulation II of 1963 and Regulation I of 1970 have different legal functions. The territorial notification and amended text still require case-specific verification [S14, S15].
+
+
 A. 1959  
 B. 1977  
 C. 2006  
@@ -156,7 +184,14 @@ C. Land lawfully received, demarcated, possessed and cultivated by beneficiaries
 D. Number of newspaper headlines  
 **Answer: C.** **Explanation:** Pledged land may be encumbered or unfit; effective distribution must be tracked through possession and use.
 
-**Q23. The Telangana Bhu Bharati (Record of Rights in Land) Act is from:**
+**Q23. A farmer asks whether a corrected Bhu Bharati record automatically cancels a statutory restriction on transfer of assigned land. Which answer is most defensible?**
+A. Yes: any electronic mutation repeals older transfer restrictions  
+B. Yes: displaying a private pattadar makes every transfer lawful  
+C. Yes: the 2025 record-of-rights law replaced all tenancy, assignment and tribal-land laws  
+D. No: record maintenance and mutation do not themselves override applicable substantive restrictions on land transfer  
+**Answer: D.** **Explanation:** The Telangana Bhu Bharati Act, 2025 governs record-of-rights administration; legality of an assigned-land transfer must separately be tested under applicable substantive law [S07, S13, S19].
+
+
 A. 1949  
 B. 1973  
 C. 2014  
@@ -170,14 +205,28 @@ C. All former jagir lands become private upon mutation
 D. Assigned land is freely transferable if shown online  
 **Answer: B.** **Explanation:** Record correction, ownership adjudication and statutory transfer restrictions are separate legal matters.
 
-**Q25. G.O.Ms.No.39 of 14 April 2025 concerns:**
+**Q25. Which document dated 14 April 2025 provides procedural rules under the Telangana Bhu Bharati (Record of Rights in Land) Act, 2025?**
+A. The Telangana Assigned Lands (Prohibition of Transfers) Act, 1977  
+B. The Telangana Land Reforms (Ceiling on Agricultural Holdings) Act, 1973  
+C. G.O.Ms.No.39, Revenue (Land Administration-I) Department  
+D. The Hyderabad (Abolition of Jagirs) Regulation, 1358 Fasli  
+**Answer: C.** **Explanation:** The official Telangana Bhu Bharati documents repository lists G.O.Ms.No.39 dated 14 April 2025 as the Rules notification, separately from the Act and G.O.Ms.No.36 [S07, S19].
+
+
 A. Telangana Bhu Bharati Record of Rights Rules  
 B. Indian bank nationalisation  
 C. Scheduled Area creation in 1950  
 D. Abolition of Parliament  
 **Answer: A.** **Explanation:** The official Telangana Revenue Department published rules for record maintenance, mutation, appeals and related processes.
 
-**Q26. Which constitutional article now protects property against deprivation without authority of law?**
+**Q26. Executive action deprives a person of land without authority of law. Which constitutional provision directly states the safeguard against such deprivation?**
+A. Article 31A, protection of specified agrarian legislation  
+B. Article 31B, Ninth Schedule provisions  
+C. Article 39(b), a Directive Principle concerning material resources  
+D. Article 300A, deprivation of property only by authority of law  
+**Answer: D.** **Explanation:** Article 300A states the direct textual protection. Articles 31A, 31B and 39(b) have distinct constitutional roles and are not substitutes for that wording [S01].
+
+
 A. Article 17  
 B. Article 300A  
 C. Article 352  
@@ -198,7 +247,14 @@ C. Land under operational control
 D. Size-class distribution of operated area  
 **Answer: B.** **Explanation:** A tenant can operate land owned by another person; operational and ownership distributions differ.
 
-**Q29. Which group is often missed if land reform is assessed only through recorded male pattadars?**
+**Q29. A land-reform evaluation counts only men recorded as pattadars. Which inference is LEAST defensible?**
+A. The count may omit women who cultivate but lack recorded title  
+B. The count may omit oral tenants without pattadar status  
+C. The count may fail to describe outcomes for landless agricultural labourers  
+D. The count accurately measures every adult woman's ownership and cultivation rights  
+**Answer: D.** **Explanation:** Pattadar-only counts cannot establish women's legal and operational rights, informal tenancy or landless-worker outcomes. Ownership, operation and labour participation need separate measures.
+
+
 A. Women cultivators and informal tenants  
 B. All government departments  
 C. Only commercial banks  
