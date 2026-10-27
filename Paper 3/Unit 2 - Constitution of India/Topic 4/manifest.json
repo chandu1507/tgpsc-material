@@ -15,12 +15,12 @@
   "original_mcqs": 25,
   "mains_answers": 6,
   "mains_answer_body_words": [
-    220,
-    228,
-    208,
-    211,
-    212,
-    208
+    205,
+    210,
+    239,
+    200,
+    200,
+    235
   ],
   "major_concept_chapters": 11,
   "concept_chapter_words": [
@@ -164,5 +164,7 @@
       "bytes": 2651,
       "sha256": "11d5bc6f2926d8a65effeae36b087ca32aab0239ceff54d2afa90955526c100c"
     }
-  ]
+  ],
+  "academic_status": "NOT_APPROVED",
+  "publication_state": "edited source and offline HTML; integrated PDF pending CI rendering and downloaded-artifact verification"
 }
