@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-2-1",
+  "workflow_run_id": 40525056798,
+  "workflow_conclusion": "success",
+  "artifact_id": 12744340740,
+  "artifact_head_sha": "ce13405055719775b215dbfb6b6d41080d127228",
+  "downloaded_actual_zip_sha256": "8acccd756f6c76f960412f1401dac8404582f14c95df51eb0f05c5011041d274",
+  "github_artifact_digest": "sha256:8acccd756f6c76f960412f1401dac8404582f14c95df51eb0f05c5011041d274",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "files": 1616,
+  "original_topic_pdfs": 75,
+  "original_topic_pdf_hashes_unchanged_vs_cycle39": 75,
+  "readiness_json_records": 75,
+  "html_pages": 78,
+  "relative_file_links_checked": 485,
+  "relative_file_links_broken": 0,
+  "dom_fragment_links_checked": 966,
+  "dom_fragment_links_broken": 0,
+  "spa_hash_routes_excluded_from_dom_fragment_checks": 64,
+  "topic_4_2_1_status": "ASSESSED_REBUILD_REQUIRED",
+  "counts": {
+    "in_progress": 7,
+    "assessed_rebuild_required": 21,
+    "not_assessed": 47
+  },
+  "academically_approved": 0,
+  "important_scope_limit": "This GitHub publication archive contains the control-only assessment commit, NOT the locally repaired Topic 4-2-1 Markdown, HTML or integrated 30-page PDF. No claim of remote PDF integration, complete MCQ audit, independent academic correctness or direct browser accessibility.",
+  "local_candidate_pdf_sha256": "94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b",
+  "local_candidate_status": "LOCAL ONLY, not in this downloaded artifact",
+  "independent_expert_approvals": 0
+}
