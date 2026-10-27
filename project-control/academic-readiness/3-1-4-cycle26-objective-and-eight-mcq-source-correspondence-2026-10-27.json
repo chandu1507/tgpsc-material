@@ -1,0 +1,144 @@
+{
+  "topic_id": "3-1-4",
+  "date": "2026-10-27",
+  "audit_kind": "objective gap + limited primary-source MCQ key correspondence",
+  "scope": "Existing original topic; no 76th topic, no academic approval",
+  "baseline": {
+    "publication_source": "Cycle25 actual downloaded GitHub ZIP; all inspected source Git blob hashes equal fresh main before this cycle",
+    "original_pdf": {
+      "path": "Paper 3/Unit 1 - Indian Society/Topic 4/complete-notes.pdf",
+      "pages": 14,
+      "sha256": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3"
+    },
+    "separate_depth_repair_pdf": {
+      "pages": 21,
+      "sha256": "e21c5dbeb4c06d07f2ceed29ce12dcaca6bec9399f28b3bd9828895184dd726d"
+    },
+    "source_markdown_blobs_before_edit": {
+      "detailed_notes": "c1129e1ca039e6b83a22b7c1702293d70b16f7ce",
+      "original_mcqs": "a018902ed81ebbbb821fccad9c7a44d95fb12d70",
+      "depth_repair": "c5e851f8478c91b7beac8b06ad1c99a20a77cd16",
+      "structured_mains": "f6f267d631bf9b4616cd9ded713b5a0b247325b1",
+      "consolidated_master": "b17a45008de25bdcbdbb1efccc632e6b27b10531"
+    }
+  },
+  "objective_counts": {
+    "detailed_notes_major_concepts": 8,
+    "detailed_notes_concept_body_word_counts": [
+      453,
+      426,
+      397,
+      403,
+      380,
+      361,
+      360,
+      392
+    ],
+    "major_concepts_under_300": 0,
+    "earlier_repair_words_approx": 4439,
+    "consolidated_master_words_approx": 12879,
+    "master_is_provenance_concatenation_not_deduplicated": true,
+    "original_practice_mcqs": 30,
+    "all_have_four_options_and_answer_explanations": true,
+    "unique_stems": 30,
+    "answer_distribution": {
+      "A": 13,
+      "B": 6,
+      "C": 8,
+      "D": 3
+    },
+    "authenticated_official_pyqs": 0,
+    "mains_answers": 6,
+    "mains_body_words_before_edit": [
+      220,
+      221,
+      207,
+      213,
+      205,
+      199
+    ],
+    "mains_body_words_after_edit": [
+      220,
+      221,
+      207,
+      213,
+      205,
+      224
+    ],
+    "original_standalone_svg_diagrams": 0,
+    "synchronized_integrated_pdf": false
+  },
+  "editorial_change": {
+    "paths": [
+      "Paper 3/Unit 1 - Indian Society/Topic 4/source/structured-mains-answers-revised.md",
+      "Paper 3/Unit 1 - Indian Society/Topic 4/source/complete-notes.md"
+    ],
+    "change": "Expanded Q6 implementation/outcome test by 25 substantive words; corrected body count from 199 to 224; preserved original PDFs",
+    "commits": [
+      "eaef0b1c9f76485ba1fda718fecf8424757ff84f",
+      "eba2f7c1e536195e10710bbde08b3865a2276b8d"
+    ]
+  },
+  "limited_mcq_key_source_correspondence": [
+    {
+      "questions": [
+        6,
+        7,
+        10
+      ],
+      "finding": "Jogini is included; dedication void irrespective of consent; Telangana adaptation under G.O.Ms.No.14 dated 28 Apr 2016",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/8621/1/act_10_of_1988.pdf",
+      "access": "Official indexed PDF text returned by search; full PDF open timed out; do not claim direct full-page inspection",
+      "result": "KEY_CORRESPONDENCE_ONLY"
+    },
+    {
+      "questions": [
+        11,
+        14
+      ],
+      "finding": "Chronic fluoride excess linked to dental/skeletal disease; 2014 NPPCF desirable drinking-water level 1.0 mg/L",
+      "source": "https://dghs.mohfw.gov.in/nppcf.php",
+      "access": "Direct official government HTML read, last updated 17 Apr 2025",
+      "result": "KEY_CORRESPONDENCE_ONLY"
+    },
+    {
+      "questions": [
+        13
+      ],
+      "finding": "District Fluoride Monitoring Centre established 14 Nov 2013, per Nalgonda District administration",
+      "source": "https://nalgonda.telangana.gov.in/floride-monitoring/",
+      "access": "Direct official district government HTML read; page last updated 24 May 2018",
+      "result": "KEY_CORRESPONDENCE_ONLY"
+    },
+    {
+      "questions": [
+        16,
+        17
+      ],
+      "finding": "PCMA 2006; section 3 generally voidable; sections 12 and 14 specify void cases",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/2055/4/a2007-06.pdf",
+      "access": "Official indexed PDF text returned by search; full PDF open timed out; do not claim direct full-page inspection",
+      "result": "KEY_CORRESPONDENCE_ONLY"
+    }
+  ],
+  "caveats": [
+    "8 of 30 answer keys have limited source correspondence, NOT 30 independently verified items",
+    "No complete independent distractor-level audit; Q6/Q10/Q14/Q16 distractors are too easily eliminated",
+    "Primary law PDF full-text reading timed out; do not assert page-by-page legal audit",
+    "No direct official TGPSC syllabus PDF re-read in this cycle; R1 not PASS",
+    "No qualitative human dedup or full claims audit",
+    "No integrated new PDF, CI render, post-render artifact or public browser QA in this cycle",
+    "R9 not started; independent approvals remain zero"
+  ],
+  "gate_assessment": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
+  },
+  "priority_next": "Deduplicate the recovered 12.9k-word master into one coherent student chapter; direct syllabus mapping; review all 30 MCQ keys/120 distractors and six mains claims; produce accurate original SVG diagrams, deterministic integrated PDF, and actual post-render artifact integrity QA."
+}
