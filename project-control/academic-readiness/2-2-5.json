@@ -2,7 +2,7 @@
   "topic_id": "2-2-5",
   "title": "People's Movement against Nizam's Rule",
   "date": "2026-10-26",
-  "status": "MCQ_19_LOGIC_CORRECTED_TEN_SOURCE_CHECKS_TWENTY_PENDING",
+  "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "readiness_gate_file": "project-control/academic-readiness/2-2-5.json",
@@ -84,5 +84,7 @@
   "mcq_discrimination_revision_report": "project-control/academic-readiness/2-2-5-mcq-discrimination-correction-2026-10-26.json",
   "verified_mcq_revision_artifact_qa": "project-control/academic-readiness/2-2-5-mcq-revised-artifact-qa-verified-2026-10-26.json",
   "mcq_claim_review": "project-control/academic-readiness/2-2-5-mcq-claim-source-review-2026-10-26.json",
-  "latest_postrender_qa": "project-control/academic-readiness/2-2-5-mcq19-corrected-artifact-qa-2026-10-26.json"
+  "latest_postrender_qa": "project-control/academic-readiness/2-2-5-mcq19-corrected-artifact-qa-2026-10-26.json",
+  "legacy_status_detail": "MCQ_19_LOGIC_CORRECTED_TEN_SOURCE_CHECKS_TWENTY_PENDING",
+  "status_enum_reconciled_date": "2026-10-27"
 }

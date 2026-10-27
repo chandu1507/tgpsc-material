@@ -109,5 +109,19 @@
   "offline_portal_mcq_count": 25,
   "offline_portal_source_sync": true,
   "manifest_reconciled": true,
-  "legacy_pdf_remains_unsynchronized": true
+  "legacy_pdf_remains_unsynchronized": true,
+  "status_enum_reconciliation": {
+    "date": "2026-10-27",
+    "correction": "Two pre-existing 2-2-4/2-2-5 readiness JSON status values were noncanonical; changed only the top-level status to IN_PROGRESS and preserved old detailed strings in legacy_status_detail.",
+    "legacy_status_values": {
+      "2-2-4": "READINESS_IN_PROGRESS",
+      "2-2-5": "MCQ_19_LOGIC_CORRECTED_TEN_SOURCE_CHECKS_TWENTY_PENDING"
+    },
+    "canonical_project_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 6,
+      "NOT_ASSESSED": 62
+    },
+    "note": "No R1-R8 gate promoted and no approval asserted."
+  }
 }
