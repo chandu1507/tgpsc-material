@@ -48,7 +48,7 @@ Expert members can improve understanding of service rules, disciplinary procedur
 In *L. Chandra Kumar* (1997), the Supreme Court held that judicial review under Articles 226/227 and 32 forms part of the basic structure. Tribunals can function as specialised first forums but cannot displace High Court constitutional review. The *Madras Bar Association* decisions similarly scrutinise executive dominance and tribunal independence.
 
 ### Critical appraisal and Telangana example
-A Telangana-based Union employee may first approach CAT for an eligible service dispute, then seek constitutional review through the appropriate High Court route. This protects legality but can create an additional litigation layer. Vacant benches and distant sittings can defeat the promised efficiency.
+A Telangana-based Union employee may first approach CAT for an eligible service dispute, then seek constitutional review through the appropriate High Court route. This protects legality but can create an additional litigation layer. Vacant benches and distant sittings can defeat the promised efficiency. The Supreme Court reiterated in 2023 that constitutional review of tribunal decisions survives before the appropriate High Court. This is a safeguard against executive control, not an automatic second merits trial. Reform must address the independence of appointments and practical access to review.
 
 ### Conclusion
 Tribunals are constitutionally compatible when they complement, rather than replace, independent courts. Reform should secure fair appointments, accessible benches, reasoned orders and review pathways, not merely announce faster disposal targets.
@@ -99,7 +99,7 @@ Article 39A and the Legal Services Authorities Act, 1987 support free legal serv
 Pilot electronic summons, early legal-aid screening and witness coordination in selected district courts. Track case age, adjournment reasons, unrepresented accused, quality of representation and execution of decrees. Refer suitable voluntary disputes to ordinary Lok Adalats; use Permanent Lok Adalats only within their public-utility jurisdiction.
 
 ### Critical appraisal
-A disposal-only target may encourage coerced settlements or rushed orders. Rural connectivity, disability access, court staffing and forensic delays must be addressed alongside software. Protect urgent bail, maintenance and domestic-violence cases from administrative queue displacement.
+A disposal-only target may encourage coerced settlements or rushed orders. Rural connectivity, disability access, court staffing and forensic delays must be addressed alongside software. Protect urgent bail, maintenance and domestic-violence cases from administrative queue displacement. The Department of Justice eCourts Phase III dashboard reports e-Sewa Kendras and video-conferencing services, but infrastructure counts alone do not measure fair outcomes. Publish a district-level baseline and evaluate whether assisted filing actually improves access for rural, disabled and unrepresented litigants.
 
 ### Conclusion
 The test is not how many files close, but whether a person obtains timely, reasoned and enforceable relief. Telangana should measure fairness, accessibility and institutional independence together with speed.
