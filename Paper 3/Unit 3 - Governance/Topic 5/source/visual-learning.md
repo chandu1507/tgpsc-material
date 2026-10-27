@@ -2,11 +2,15 @@
 
 ## Diagram A — An ethical administrative decision
 
+![Original Diagram A learning diagram](visuals/ethical-decision.png)
+
 `Legal authority → Verify evidence → Identify affected groups → Test options and conflicts → Record reasons → Implement → Appeal and audit`
 
 The flow guards against both illegal benevolence and mechanical indifference. A decision must be traceable after the official is transferred.
 
 ## Diagram B — Choosing the appropriate accountability forum
+
+![Original Diagram B learning diagram](visuals/forum-routing.png)
 
 `Need existing records? → RTI/PIO → first appeal → Information Commission`  
 `Need correction of service? → Department grievance/statutory appeal`  
@@ -17,6 +21,8 @@ The flow guards against both illegal benevolence and mechanical indifference. A 
 The same episode can require several paths, but the evidentiary standards and remedies differ.
 
 ## Diagram C — The administrative reform feedback loop
+
+![Original Diagram C learning diagram](visuals/reform-loop.png)
 
 `Map citizen journey → Publish service standard → Deliver and record → Review grievances/appeals → Independent audit → Redesign rule/process → Re-measure outcomes`
 
