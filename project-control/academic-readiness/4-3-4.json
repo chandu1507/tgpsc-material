@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle47 first direct assessment: 18 concepts (10 and 17 under300), 30 original practice MCQs A2/B26/C2/D0, six mains body-only 220/219/207/214/216/209, three diagrams; MCQ2/3 limited CPCB 2026 rule key correspondences; all distractors and other 28 keys pending. Original 23-page PDF preserved. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals.",
-  "next_action": "CI render and actual artifact verification; independent all 30 MCQs/120 distractors, six mains, three diagrams, official syllabus and browser audit.",
+  "next_action": "Download post-render GitHub packaging artifact, verify outer/inner ZIP CRC, exactly 75 original PDFs, 75 readiness JSON, links/fragments, chapter hashes, 31-page integrated PDF; then complete independent academic MCQ/mains/diagram/browser audits.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159",
@@ -69,8 +69,9 @@
     ],
     "all_18_concepts_at_least_300": true,
     "source_correspondences": "CPCB 2026 portal MCQ2/3 key-level only",
-    "integrated_pdf": "CI_PENDING",
+    "integrated_pdf": "CI_RENDERED_31_PAGES_ARTIFACT_QA_PENDING",
     "independent_approval": false,
-    "evidence": "project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json"
+    "evidence": "project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json",
+    "ci_render_qa": "project-control/academic-readiness/4-3-4-cycle48-ci-render-qa-2026-10-28.json"
   }
 }
