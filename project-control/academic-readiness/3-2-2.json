@@ -38,10 +38,19 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding.",
-  "next_action": "Verify official syllabus directly; review 25 MCQ keys and 100 distractors; audit six mains and all source claims; render synchronized PDF; verify actual downloaded Actions artifact and browser accessibility.",
+  "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded.",
+  "next_action": "Download actual post-render GitHub packaging artifact; verify PDF hash, 75 original PDFs, readiness JSON, ZIP CRC and offline links; then full academic R1-R7 review.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "rendered_integrated_pdf": {
+    "path": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-27.pdf",
+    "pages": 27,
+    "sha256": "1be408f5348df77581f82d02ebbb27c7f6c914e31eb891ad773030774fb853dc",
+    "renderer_run": 40448120479,
+    "local_visual_full_review": false,
+    "public_browser_verified": false,
+    "post_render_artifact_download_verified": false
+  }
 }
