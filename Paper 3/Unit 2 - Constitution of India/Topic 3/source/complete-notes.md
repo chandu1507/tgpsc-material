@@ -299,6 +299,18 @@ First, protect a meaningful minimum opportunity for debate through predictable s
 
 # Visual learning and comparison charts
 
+## Original schematic 1 — Legislative Council versus Council of Ministers
+
+![Article 171 Council floor versus Article 164 ministry ceiling](council-floor-versus-ministry-ceiling.svg)
+
+The forty-member floor in Article 171 applies to the Legislative Council, not the State ministry. Telangana's 119 Assembly seats give a maximum of seventeen ministers under Article 164(1A). [S2][S3]
+
+## Original schematic 2 — State ordinary-bill reconsideration
+
+![Article 197 Assembly-origin ordinary-bill process](state-ordinary-bill-article197.svg)
+
+The Council's first-stage delay is up to three months and second-stage delay up to one month. The Assembly prevails under the specified Article 197 conditions; Governor assent is a separate Article 200 step. [S2]
+
 ## Chart A — The responsible-government chain
 
 ```text
