@@ -40,7 +40,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending.",
+  "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending. Final 28-page PDF and 75-topic downloaded artifact CRC/hash/link checks PASS; 1544 files, 474 file links and 686 DOM fragments zero broken. R8 remains IN_PROGRESS due browser/accessibility checks.",
   "next_action": "Download actual post-render GitHub packaging artifact; verify PDF hash, 75 original PDFs, readiness JSON, ZIP CRC and offline links; then full academic R1-R7 review.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -51,6 +51,11 @@
     "renderer_run": 40448365148,
     "local_visual_full_review": false,
     "public_browser_verified": false,
-    "post_render_artifact_download_verified": false
+    "post_render_artifact_download_verified": true,
+    "contact_sheet_gross_layout_review": true,
+    "diagram_page_19_full_resolution_review": true,
+    "packaging_run": 40448473538,
+    "packaging_artifact_id": 12708959142,
+    "integrity_report": "project-control/academic-readiness/3-2-2-cycle29-downloaded-artifact-qa-2026-10-27.json"
   }
 }
