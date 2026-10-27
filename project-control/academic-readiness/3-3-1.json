@@ -26,7 +26,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle32 objective: 13 detailed concepts (all >300 words), 25 original MCQs (A6/B6/C7/D6 after Q25 rewrite), six mains body-only 224/218/237/230/232/233, two SVGs, 37-page legacy PDF SHA c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372. DPDP 2025 Gazette Rule 1 claim source checked; separate integrated PDF candidate locally rendered, not yet verified from GitHub. R1-R8 not fully PASS.",
+  "evidence": "Cycle32 objective: 13 detailed concepts (all >300 words), 25 original MCQs (A6/B6/C7/D6 after Q25 rewrite), six mains body-only 224/218/237/230/232/233, two SVGs, 37-page legacy PDF SHA c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372. DPDP 2025 Gazette Rule 1 claim source checked; separate integrated PDF candidate locally rendered, not yet verified from GitHub. R1-R8 not fully PASS. Post-render actual downloaded GitHub artifact 12716325990 verified, PDF SHA 8c9ca58d66464344950b2b4f0f3d5bab13966570554b4337326f6919489f2e81, 37 pages, 18/18 manifest hashes; academic/browser QA incomplete.",
   "next_action": "Verify all 25 keys and 100 distractors, six mains claims, editorial dedup and diagrams; finish guarded CI PDF and actual artifact QA; direct syllabus/browser/accessibility verification.",
   "external_reviewer": null,
   "student_accepted": false
