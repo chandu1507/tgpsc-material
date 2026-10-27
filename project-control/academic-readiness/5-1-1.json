@@ -1,8 +1,8 @@
 {
   "topic_id": "5-1-1",
   "title": "Classical and Emerging Areas of Science and Technology: Value Addition, National Development, Industrialisation and Urbanisation",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,47 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle49 direct downloaded-artifact inspection: 16 concepts 313–433 words; 30 original four-option MCQs A9/B17/C4/D0; six mains body-only 211/228/230/203/214/220; original 27-page PDF SHA d19428bc6a21a5cd5722e3aff26acbb895e97a97e6b1d71b138fbd5e9c1ed63f preserved; six bounded key checks (Q7/14/15/16/18/22). No complete independent MCQ/distractor, mains, diagram, browser audit; R1 not directly authenticated to target 2024 item in this cycle. ZERO academic approval.",
+  "next_action": "Complete all 30 key/90 distractor checks, six mains claim audits, historical/2026 policy fact checks, original diagrams and 2024 official syllabus target; then any required synchronized master/PDF corrections and actual post-edit artifact QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "d19428bc6a21a5cd5722e3aff26acbb895e97a97e6b1d71b138fbd5e9c1ed63f",
+  "cycle49": {
+    "evidence": "project-control/academic-readiness/5-1-1-cycle49-direct-artifact-and-bounded-primary-source-audit-2026-10-28.json",
+    "concepts": 16,
+    "concepts_below_300": 0,
+    "mcqs": 30,
+    "keys": {
+      "A": 9,
+      "B": 17,
+      "C": 4,
+      "D": 0
+    },
+    "mains_body_counts": [
+      211,
+      228,
+      230,
+      203,
+      214,
+      220
+    ],
+    "bounded_key_correspondence": [
+      7,
+      14,
+      15,
+      16,
+      18,
+      22
+    ],
+    "independent_approval": false
+  }
 }
