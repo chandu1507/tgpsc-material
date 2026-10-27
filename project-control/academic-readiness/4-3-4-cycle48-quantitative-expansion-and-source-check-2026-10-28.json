@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-28",
+  "topic_id": "4-3-4",
+  "cycle": 48,
+  "assessment": "SUBSTANTIVE_SOURCE_EXPANSION_CI_PUBLICATION_PENDING",
+  "original_pdf_sha256": "1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159",
+  "original_pdf_preserved": true,
+  "concepts": 18,
+  "expanded_concepts": [
+    10,
+    17
+  ],
+  "all_concepts_at_least_300_words": true,
+  "calculations": {
+    "rdf_thermal_gj_per_day": 240,
+    "rdf_thermal_mwh_per_day": 66.6667,
+    "assumed_net_electric_mwh_per_day": 13.3333,
+    "town_generated_tonnes_per_day": 27,
+    "town_collected_tonnes_per_day": 24.3,
+    "collection_percent": 90,
+    "segregated_share_of_collected_percent": 83.54,
+    "segregated_share_of_generated_percent": 75.19
+  },
+  "mcqs": 30,
+  "independent_mcq_keys_verified": 0,
+  "bounded_primary_key_correspondences": [
+    2,
+    3
+  ],
+  "distractors_independently_verified": 0,
+  "mains": 6,
+  "body_only_counts": [
+    220,
+    219,
+    207,
+    214,
+    216,
+    209
+  ],
+  "diagrams": 3,
+  "primary_sources": [
+    {
+      "url": "https://swm.cpcb.gov.in/",
+      "claim": "notification and commencement, four streams, bulk generator thresholds",
+      "scope": "bounded direct official portal correspondence"
+    },
+    {
+      "url": "https://moef.gov.in/rules-regulations-3",
+      "claim": "S.O. 388(E) official rules listing",
+      "scope": "notification correspondence only"
+    },
+    {
+      "url": "https://cpcb.nic.in/uploads/MSW/SW_treatment_Technologies.pdf",
+      "claim": "moisture and calorific value affect technology choice",
+      "scope": "older guidance; 2016 rule threshold not carried into 2026"
+    }
+  ],
+  "original_practice_not_official_pyq": true,
+  "CI_render": "PENDING",
+  "post_edit_downloaded_artifact_qa": false,
+  "R8": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "independent_academic_approval": false
+}
