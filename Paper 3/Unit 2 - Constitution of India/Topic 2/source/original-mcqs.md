@@ -120,13 +120,13 @@ D. Kesavananda
 
 **Answer: B.** Shreya Singhal v Union of India (2015) invalidated section 66A of the IT Act because of vague and overbroad speech restrictions. The judgment does not invalidate every law regulating threats or incitement.
 
-**Q16. A private employer is directly relevant to which constitutional ban?**
-A. Article 23 forced labour
-B. Article 44
-C. Article 50
-D. Article 40
+**Q16. A privately operated hazardous workshop employs a 12-year-old child. Which constitutional provision most directly addresses this employment, even without proof of debt bondage?**
+A. Article 24
+B. Article 23(1)
+C. Article 21A
+D. Article 39(e)
 
-**Answer: A.** Article 23 prohibits trafficking and forced labour, including private exploitation. Article 44 concerns a uniform civil code; Article 50 separation of judiciary from executive; Article 40 village panchayats. Private employment is not a general exemption from all rights.
+**Answer: A.** Article 24 directly prohibits employment of children below fourteen in factories, mines and other hazardous employment. Article 23(1) concerns trafficking, begar and similar forced labour, which would require additional facts; Article 21A concerns education of ages six to fourteen; Article 39(e) is a Directive Principle addressing protection of workers and children. The Child and Adolescent Labour (Prohibition and Regulation) Act supplies additional statutory rules. This is an original practice scenario, not an official PYQ.
 
 **Q17. Which Article concerns environment in DPSPs?**
 A. 48A
@@ -168,7 +168,7 @@ B. Provide an accessible alternative and human review under applicable law
 C. Abolish identity checks for everyone
 D. Treat the dispute solely as a private contract
 
-**Answer: B.** The 2025 *Pragya Prasun/Amar Jain* ruling linked accessible digital KYC to dignity, equality and disability-law obligations. Equality of code is not equality of opportunity where a predictable disability barrier exists. A valid verification objective remains, but it must be pursued through reasonable accommodation and lawful alternatives.
+**Answer: B.** In *Pragya Prasun & Ors. v Union of India & Ors.*, decided on 30 April 2025 (2025 INSC 599), the Supreme Court addressed inaccessible digital KYC/e-KYC/video KYC affecting persons with disabilities and required accessible verification alternatives. The welfare-portal example in this question is an **application of that accessibility principle**, not the precise factual dispute or an automatic holding about every government portal. A lawful identity check may continue, but accessible alternatives and appropriate human assistance should be considered under the applicable disability and scheme rules.
 
 **Q22. A State announces a reservation policy in a press conference, but no applicable law or operative order is shown. What should an administrator do?**
 A. Apply the announcement immediately
