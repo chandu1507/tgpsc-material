@@ -1,8 +1,8 @@
 {
   "topic_id": "3-2-5",
   "title": "Federal System: Centre-State Relations, Local Government and Water Disputes",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -14,20 +14,48 @@
     "md_files": 9,
     "complete_notes_words": 10847,
     "detailed_notes_words": 6117,
-    "supplement_md_count": 0
+    "supplement_md_count": 0,
+    "major_concept_chapters": 11,
+    "concept_words_current": [
+      664,
+      646,
+      597,
+      566,
+      480,
+      569,
+      533,
+      520,
+      538,
+      529,
+      448
+    ],
+    "original_explained_mcqs": 25,
+    "structured_mains": 6,
+    "mains_body_words_recount_excluding_question_and_subheading_labels": [
+      200,
+      209,
+      201,
+      239,
+      248,
+      214
+    ],
+    "existing_original_svg_diagrams": 2,
+    "original_pdf_pages": 32,
+    "original_pdf_sha256": "44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15"
   },
   "gate_status": {
     "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle31 objective audit of actual archived and GitHub source: 11 concepts 448–664 words; 25 explained four-option original MCQs; six mains directly recounted 200/209/201/239/248/214 after source-based expansion of Q4 and Q5; two original SVGs embedded in canonical Markdown. Original 32-page PDF preserved SHA256 44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15. Limited primary-source correspondence: Constitution Article 243ZE (MEA), Inter-State River Water Disputes Act sections 6 and 11 (India Code), Ministry of Jal Shakti historical KRMB/GRMB report. Full independent MCQ/distractor/mains audits, R1 direct notification, qualitative deduplication, diagram correctness and synchronized PDF/accessibility remain pending. ZERO approvals.",
+  "next_action": "Render synchronized integrated PDF and verify actual GitHub Actions artifact, then independent R1–R8 checks of all questions, sources, diagrams, accessible public portal.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "last_updated_cycle": 31
 }
