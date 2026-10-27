@@ -50,7 +50,7 @@ jobs:
           root=pathlib.Path('Paper 3/Unit 3 - Governance/Topic 1')
           assert hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()=='c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372'
           mcq=(root/'source/original-mcqs.md').read_text()
-          assert len(re.findall(r'(?m)^### Q\\d+\\.',mcq))==25
+          assert len(re.findall(r'(?m)^### Q\d+\.',mcq))==25
           assert 'Answer: D.' in mcq[mcq.index('### Q25.'):]
           PY
             python 'Paper 3/Unit 3 - Governance/Topic 1/source/build_topic.py'
@@ -75,7 +75,7 @@ jobs:
           assert m['academic_approvals']==0
           qa={'topic_id':'3-3-1','pdf_pages':len(doc),'pdf_sha256':hashlib.sha256(pdf.read_bytes()).hexdigest(),'legacy_pdf_sha256':'c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372','text_boundaries_pass':True,'blank_pages':0,'academic_approved':False,'browser_accessibility_verified':False}
           out=pathlib.Path('project-control/academic-readiness/3-3-1-cycle32-render-qa.json')
-          out.write_text(json.dumps(qa,indent=2)+'\\n')
+          out.write_text(json.dumps(qa,indent=2)+'\n')
           PY
             git add -- 'Paper 3/Unit 3 - Governance/Topic 1/source/complete-notes.md' 'Paper 3/Unit 3 - Governance/Topic 1/source/integrated-student-edition-2026-10-27.pdf' 'Paper 3/Unit 3 - Governance/Topic 1/index.html' 'Paper 3/Unit 3 - Governance/Topic 1/manifest.json' 'Paper 3/Unit 3 - Governance/Topic 1/README.md' project-control/academic-readiness/3-3-1-cycle32-render-qa.json
             if git diff --cached --quiet; then echo 'Already synchronized'; exit 0; fi
