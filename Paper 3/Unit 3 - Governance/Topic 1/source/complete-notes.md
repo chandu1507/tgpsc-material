@@ -1,6 +1,6 @@
 # Governance and Good Governance: E-Governance, Union Institutions, Commissions and Parliamentary Committees
 
-**TGPSC Group I | Paper III | Unit III | Topic 1 | Expanded draft | 23 October 2026**
+**TGPSC Group I | Paper III | Unit III | Topic 1 | Expanded draft | 27 October 2026**
 
 **ACADEMIC STATUS: NOT APPROVED.** Original practice MCQs and mains answers only; no verified official PYQ claim.
 
@@ -119,7 +119,7 @@ Telangana's MeeSeva combines online and assisted service points; the official st
 
 Digital service design must reconcile scale with individual rights. A reliable service has a clear legal basis, verified roles, secure authentication appropriate to risk, encrypted transport, tamper-evident logs, backups, retention rules, independent security testing and an incident-response plan. An audit trail should record who accessed a record, what changed and under whose authority. But a log alone does not prove a decision was lawful; officials may follow an invalid rule or a system may contain biased source data. **Privacy by design** means collecting only necessary personal data, restricting reuse and explaining retention, rather than assuming every government database should be linked to every other.
 
-The Digital Personal Data Protection Act, 2023 and the Digital Personal Data Protection Rules, 2025 provide a significant statutory framework for digital personal data; the Ministry of Electronics and Information Technology records notification of the rules on 14 November 2025 and phased compliance arrangements [S17]. The precise commencement of individual provisions must be checked before asserting that every duty is presently enforceable. Public authorities also operate under constitutional privacy protections articulated by the Supreme Court in *K.S. Puttaswamy v Union of India* (2017). A legitimate purpose does not excuse unlimited collection. An examination answer should distinguish the existence of a law, the date of notification, commencement and implementation capacity.
+The Digital Personal Data Protection Act, 2023 and the Digital Personal Data Protection Rules, 2025 create a statutory framework for digital personal data. The Rules were issued by Gazette notification G.S.R. 846(E), dated 13 November 2025; the Ministry published the notified rules on 14 November 2025. Rule 1(2) brings Rules 1, 2 and 17–21 into force on Gazette publication; Rule 1(3) defers Rule 4 for one year; and Rule 1(4) defers Rules 3, 5–16, 22 and 23 for eighteen months [S17][S20]. The Act has its own commencement notifications, so a rule’s notification, its commencement and an enforceable statutory obligation must not be conflated. Public authorities also operate under constitutional privacy protections articulated by the Supreme Court in *K.S. Puttaswamy v Union of India* (2017). A legitimate purpose does not excuse unlimited collection. An examination answer should distinguish legal authority, notification, commencement, implementation capacity and remedies.
 
 ### Inclusion is a design requirement, not a charity add-on
 
@@ -130,6 +130,16 @@ Consider an automated rejection of an old-age pension because a name differs acr
 ### Procurement and public accountability
 
 Outsourcing software development does not outsource constitutional accountability. The department remains responsible for lawful rules, access controls, vendor management, breach response and grievance decisions. Contracts should specify ownership and portability of public data, open interfaces, source-code escrow or transition arrangements where suitable, security audit rights, service-level metrics, and penalties for persistent failure. Proprietary systems can offer operational advantages, while open standards and modular procurement can reduce lock-in; the choice should be evaluated against actual capacity and lifecycle costs. **Practical consequence:** a district can meet its digitization target and still fail citizens if error correction is impossible. **Exam trap:** transparency does not mean publishing personally identifiable beneficiary records in unrestricted form.
+
+### Worked case: a digital certificate denial is an administrative decision, not a software result
+
+Consider a Telangana resident applying through an assisted MeeSeva centre for an income certificate needed for a scholarship. The front-end accepts the request, but the back-office comparison flags a name mismatch between an older revenue register and the current identity record. The portal marks the request *rejected* within a service deadline. A dashboard counting disposals would report success, even though the applicant has neither the certificate nor a lawful explanation. This example is a **hypothetical governance test**, not a finding that MeeSeva currently applies such an algorithm [S14].
+
+The first analytical step is to identify the **competent decision-maker** and the legal rule governing eligibility and record correction. A centre operator may submit documents and convey status but cannot independently amend the underlying statutory record. The department must specify which record is authoritative, whether the mismatch is material, what evidence can cure it and how the applicant can obtain a reasoned decision. A grievance portal may help escalate delay, but an informal complaint must not be presented as automatically extending a statutory appeal period.
+
+The second step concerns **data minimisation and traceability**. Officials should access only information necessary for the lawful task; access logs should identify the officer and purpose; disputed data should be corrected through an authorized workflow. The DPDP Rules' phased commencement [S20] is relevant to legal analysis, but it is inaccurate to claim that every future obligation already applied in October 2026. Independently of the statutory timetable, privacy, non-arbitrariness and accountable administration are important design constraints.
+
+Third, the service should be measured by more than portal throughput: record the share of first-time correct decisions, median and 95th-percentile time to final entitlement, reversal on appeal, reasons for rejection, cost to the citizen and assisted-channel accessibility. Disaggregate results across urban and remote mandals and for persons with disabilities. A high disposal rate alongside repeated erroneous denials signals a **quality failure hidden by an activity metric**. The reform is therefore a named correction authority, transparent reason codes, human review and monitored remedies—not merely a faster server. This case links the syllabus's good-governance principles, G2C/G2G models, Union/state institutional accountability and digital privacy without treating an illustrative scenario as a reported event.
 
 ## 5. Telangana e-governance as an institutional case study
 
@@ -629,12 +639,12 @@ C. UPSC.
 D. Committee on Public Undertakings.  
 **Answer: D.** COPU focuses on selected public-sector enterprises and relevant audit material; it does not manage them daily.
 
-### Q25. Which statement about digital privacy is the most defensible?
-A. Every notified rule necessarily commenced in full on the date of publication.  
-B. The DPDP Act, 2023 and Rules, 2025 require attention to their actual commencement and phased implementation.  
-C. Transparency requires publishing all personal beneficiary records.  
-D. Government contractors have no data-security obligations.  
-**Answer: B.** The Act and notified rules have implementation provisions and phased timing; one must verify commencement before claiming a particular duty is currently enforceable.
+### Q25. Which statement correctly describes commencement under Rule 1 of the Digital Personal Data Protection Rules, 2025?
+A. All 23 rules came into force immediately upon Gazette publication.  
+B. Rules 3, 5–16, 22 and 23 came into force on publication; the rest are deferred.  
+C. Rule 4 takes effect after eighteen months, while Rules 17–21 take effect after one year.  
+D. Rules 1, 2 and 17–21 took effect on publication; Rule 4 is deferred one year, and Rules 3, 5–16, 22 and 23 eighteen months.  
+**Answer: D.** Gazette G.S.R. 846(E), dated 13 November 2025, Rule 1(2)–(4) specifies these three commencement groups [S20]. The Act's commencement notifications must be examined separately; the question concerns the Rules, not every obligation under the Act.
 
 
 # Six original mains practice questions and model answers
@@ -799,6 +809,7 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 | S17 | MeitY, Annual Report 2025–26 / DPDP Rules 2025 | DPDP Act 2023, Rules notified Nov 2025, phased implementation |
 | S18 | Lok Sabha Digital Sansad, Parliamentary Committees introduction | Estimates 30 LS; PAC/COPU 22; DRSC composition |
 | S19 | Lok Sabha Digital Sansad, Public Accounts Committee introduction | PAC ex-post role and opposition-chair convention |
+| S20 | Ministry of Electronics and Information Technology, Gazette G.S.R. 846(E), dated 13 November 2025, Digital Personal Data Protection Rules, 2025, Rule 1(2)–(4) | Three different commencement groups: immediate Rules 1, 2, 17–21; Rule 4 after one year; Rules 3, 5–16, 22–23 after eighteen months. Verified from Gazette text on 27 October 2026. Does not by itself establish separate commencement of Act sections. |
 
 ## Source links
 
@@ -820,6 +831,7 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 - [S16] https://darpg.gov.in/sites/default/files/DARPG_State-UTs_Monthly_Report_March_2026.pdf
 - [S17] https://www.meity.gov.in/static/uploads/2026/04/46face7d48c8f6a97030f713ad5fdab4.pdf
 - [S18] https://sansad.in/ls/committee/introduction
+- [S20] https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf
 - [S19] https://sansad.in/ls/committee/financial-committees/26-Public%20Accounts-nameH%3D%E0%A4%B2%E0%A5%8B%E0%A4%95%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%20%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF
 
 ## Internal fact-check notes and unresolved audit tasks

@@ -4,15 +4,15 @@
   "status": "expanded draft, NOT academically approved",
   "syllabus_primary_source": "TGPSC Notification 02/2024, Annexure-II, Paper III, Unit III, item 1",
   "total_planned_topics": 75,
-  "indicated_sequential_drafts_after_run": 26,
-  "indicated_remaining_after_run": 49,
+  "existing_topics": 75,
+  "remaining_without_first_draft": 0,
   "academic_approvals": 0,
   "original_mcqs": 25,
   "verified_official_pyqs": 0,
   "mains_model_answers": 6,
   "detailed_chapters": 13,
-  "manuscript_word_count": 13785,
-  "pdf_bytes": 305872,
+  "manuscript_word_count": 14304,
+  "pdf_bytes": 308562,
   "components": [
     "syllabus-and-summary.md",
     "detailed-notes.md",
@@ -22,7 +22,7 @@
     "mains-model-answers.md",
     "sources-and-audit.md"
   ],
-  "source_register_count": 19,
+  "source_register_count": 20,
   "diagrams": 2,
   "files": {
     "README.md": {
@@ -34,40 +34,44 @@
       "sha256": "c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372"
     },
     "index.html": {
-      "bytes": 117903,
-      "sha256": "a0a28edf39785e8315c0a63fd393dc6c01650e0f4de22c9e932da25850944855"
+      "bytes": 121636,
+      "sha256": "44c3b965a7ef04bc3829aa75b97aed29bc75d7ad1fca82f1075eb1f6b264fc15"
     },
     "source/BUILD_INSTRUCTIONS.md": {
       "bytes": 512,
       "sha256": "0ee6eb6e1065e7b898616c2ed5a3ddf086cf29835a237eb7844daf0cb6b4d41d"
     },
     "source/build_topic.py": {
-      "bytes": 16868,
-      "sha256": "f69aff2918109c708fa100bd911374b4f51910b9068115b8087f0b1fc2367f8e"
+      "bytes": 16960,
+      "sha256": "0b79f67ea40ff4e5abcb2f2b704e150708fa275576c3a595267824621168e54d"
     },
     "source/complete-notes.md": {
-      "bytes": 104267,
-      "sha256": "ed52ccdda1fd6ba5f84600298b992854a8a1de884e0d7672b41de115e9542e93"
+      "bytes": 107840,
+      "sha256": "4df6708bdf3c2152e507a6e4e541b642838d11cf88fc8db6bf6f14178a21b6e3"
     },
     "source/detailed-notes.md": {
-      "bytes": 62788,
-      "sha256": "a1a93927827907e7f71cb82089852928e808354cbc31b98b82d625c385c8e68b"
+      "bytes": 65651,
+      "sha256": "ec29fd5b2270904a26ff7d65556e6070879ea2222729da4721233cd326605aee"
+    },
+    "source/integrated-student-edition-2026-10-27.pdf": {
+      "bytes": 308562,
+      "sha256": "27f322e528cc49f252c654a8aed988f17a8e99bdb9f58b7874c607bdc26b72ec"
     },
     "source/mains-model-answers.md": {
       "bytes": 12616,
       "sha256": "f68c4a3a2fc256248ae0ae318c92ea203c8a473edcdd4939a9f6c5b3bf9ffd1b"
     },
     "source/original-mcqs.md": {
-      "bytes": 10510,
-      "sha256": "8e7e2331c39d26484d3cc66d9fb73f014311621f5081dc4443146d8f5a7c856d"
+      "bytes": 10700,
+      "sha256": "c441e7aa814c2b8a9f18afdc46694d7cee4a729235bc986bb3e852c3c31f6ad7"
     },
     "source/quick-revision.md": {
       "bytes": 5180,
       "sha256": "c1b38413c01dec0c8b01b9c94ff91889150b72e1733ada1b7a614242d0df66d9"
     },
     "source/sources-and-audit.md": {
-      "bytes": 5593,
-      "sha256": "b761e6d1f4d59e528292122bbec0ab57bf23c3e508c18bb2f63bb00dce5c1735"
+      "bytes": 6113,
+      "sha256": "70195ec073336f8a1a5320e3c8e03fb68db55b143c6f5d6de55207e184a76779"
     },
     "source/syllabus-and-summary.md": {
       "bytes": 4430,
@@ -94,14 +98,5 @@
       "sha256": "f734e42ceadf290b7fd8ea5b57d82dc072a478b2aa7031bab11053fbb36b46d4"
     }
   },
-  "note": "One-topic delta. Older 19-topic master unavailable; indicated 26 count is checkpoint-based, not a verified full cumulative archive.",
-  "pdf_pages": 37,
-  "mains_answer_word_counts": [
-    240,
-    234,
-    250,
-    250,
-    248,
-    250
-  ]
+  "note": "Existing topic 3-3-1 only; preserved legacy complete-notes.pdf unchanged; integrated PDF generated from seven editable components; no independent academic approval."
 }
