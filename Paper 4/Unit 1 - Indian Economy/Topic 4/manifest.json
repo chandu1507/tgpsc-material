@@ -11,7 +11,7 @@
   "original_mcqs": 25,
   "original_mains": 6,
   "verified_official_pyqs": 0,
-  "word_count": 10765,
+  "word_count": 10769,
   "files": {
     "README.md": {
       "sha256": "9c44f6930fbc31f1a14db351b426b0b267e0f10727ec15d0cef1528151a6bc1f",
@@ -22,32 +22,32 @@
       "bytes": 269102
     },
     "index.html": {
-      "sha256": "9f38159568e98bed91731b925cfc22d2a7d85980a9ea12a4aceacb42b34417ef",
-      "bytes": 98391
+      "sha256": "86abb6b9e006b3196c4fc085bfa78a77729276c285af7280d83abf7f5869b9ed",
+      "bytes": 98431
     },
     "source/answer-blueprints.md": {
       "sha256": "ffe26bcd63994c8e4406d04021316b0293d08d0e15470b213efb49d155086554",
       "bytes": 1671
     },
     "source/complete-notes.md": {
-      "sha256": "89d9b44cdb18f853377c55614894ea5385a826d9f39223cbe6148746be538884",
-      "bytes": 79691
+      "sha256": "200c0ebf6063f00748ac1e15ad3ae6358cfdd3683493a6b6989e62e0e9027363",
+      "bytes": 79730
     },
     "source/detailed-notes.md": {
       "sha256": "5f5d21ae5d847a8b4778d5348b30f64ebd24555c8b9fc5cda81e5b64b2445420",
       "bytes": 42870
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e",
-      "bytes": 295116
+      "sha256": "cfae12629690ca8c95e212c80d687e56d95ed61bdeca83a1c83637382f0e7bfa",
+      "bytes": 295155
     },
     "source/mains-model-answers.md": {
       "sha256": "5533214afaca24da4e44159621606030b64166b2874eb7894f9f6d39283e5ada",
       "bytes": 11542
     },
     "source/original-mcqs.md": {
-      "sha256": "a07a16673a1eb5a606d70c03383982bf244e0bee4856de03ab651a0cd2b24be9",
-      "bytes": 8768
+      "sha256": "5249a9fbb209ad43089246388a5ba3ad9357d7599b2c2786b591ae5ebc7653e5",
+      "bytes": 8807
     },
     "source/quick-revision.md": {
       "sha256": "4377513dd97d02053cce232de38faa0d68c76b104fe839e758085f7100a3a283",
