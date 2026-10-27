@@ -162,13 +162,13 @@ D. A legally authorised budget expenditure
 
 **Answer: A.** Announcements, MoUs, financial closure, capital spending and operational jobs are different stages and must be tracked separately.
 
-### Q21. Telangana Rising 2047's CURE–PURE–RARE framework is best understood as:
-A. Three constitutional lists  
-B. A state strategy differentiating core urban, peri-urban and rural-agriculture regions  
-C. Three RBI monetary aggregates  
-D. Three national Five-Year Plans
+### Q21. Under Telangana Rising 2047, which regional description is correctly matched?
+A. CURE — rural-agriculture economy beyond the Regional Ring Road  
+B. PURE — peri-urban economy connecting the Outer Ring Road and Regional Ring Road  
+C. RARE — high-density core urban economy within the Outer Ring Road  
+D. CURE — a constitutional urban-government tier created by the Seventy-Fourth Amendment
 
-**Answer: B.** The framework differentiates regional development needs; it is a state policy vision, not a constitutional classification.
+**Answer: B.** The state vision distinguishes the core urban CURE, peri-urban PURE and rural-agriculture RARE planning regions. These are policy regions, not new constitutional tiers. The vision describes aspirations; it does not establish completed projects.
 
 ### Q22. Which pair is correctly matched?
 A. Second Plan — Liberalised Exchange Rate Management System  
@@ -194,10 +194,10 @@ D. Every export automatically benefits every district equally
 
 **Answer: A.** Channels differ; FDI measures must be specified and benefits depend on local institutions and distribution.
 
-### Q25. The most accurate statement about planning in India after 2017 is:
-A. All economic strategy is unconstitutional  
-B. NITI Aayog now runs the Thirteenth Five-Year Plan  
-C. Formal Five-Year Plans ended, but strategic planning continues through budgets and missions  
-D. States may not prepare long-term visions
+### Q25. A state publishes a 2047 growth vision after the Twelfth Five-Year Plan ended. Which inference is justified?
+A. The vision itself establishes that the projected 2047 GSDP has already been achieved  
+B. NITI Aayog must approve a Thirteenth Five-Year Plan before the state can prepare budgets  
+C. Formal national Five-Year Plans ended, but state strategies still require financing and outcome verification  
+D. The vision automatically substitutes for audited expenditure accounts and independent impact evaluation
 
-**Answer: C.** Ending the Five-Year Plan cycle did not eliminate national, sectoral or state-level strategy, fiscal planning and monitoring.
+**Answer: C.** The Twelfth Plan (2012–17) was the final formal Five-Year Plan. A later state vision is a strategic intention, not a budget appropriation, realised investment or measured outcome. A, B and D confuse different institutions and evidence levels.
