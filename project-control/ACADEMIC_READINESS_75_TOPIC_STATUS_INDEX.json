@@ -109,7 +109,7 @@
     "3-3-5",
     "4-1-1"
   ],
-  "last_readiness_update": "27 Oct Cycle35: 4-1-1 individually assessed, 12 concepts >300 words, 25 four-option original MCQs, six original mains; June 2026 MoSPI Statement 1 identity reconciliation checked; local 23-page integrated PDF candidate, NOT GitHub artifact verified; R1/R7/R8 BLOCKED, approvals zero.",
+  "last_readiness_update": "27 Oct Cycle35 post-render: Topic 4-1-1 CI 25-page PDF and offline HTML; actual packaging run 40484475861 artifact 12724143216 downloaded; outer/inner CRC PASS, 1589 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 416 local links, 659 DOM fragments, zero broken, 64 SPA hash routes excluded; R8 IN_PROGRESS, 0 academic approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -120,6 +120,7 @@
   ],
   "verified_R1_pass_count": 6,
   "recent_evidence": [
+    "project-control/academic-readiness/4-1-1-cycle35-downloaded-github-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/4-1-1-cycle35-national-accounts-reconciliation-and-objective-audit-2026-10-27.json",
     "project-control/academic-readiness/3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json",
