@@ -24,9 +24,9 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle34 individual original-source/PDF/MCQ/mains/diagram inventory and 15 in-place MCQ revisions with dated limited government-source correspondences. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json.",
+  "evidence": "Cycle34 bounded source audit and 15 MCQ revisions plus actual downloaded artifact QA. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json and 3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json. No independent academic approval.",
   "next_action": "Verify 25 keys and 100 distractors independently, all six mains claims, syllabus source, diagrams, deduplication, actual rendered CI PDF and downloaded GitHub artifact CRC/SHA/links/browser QA; R9 only after all R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -57,6 +57,6 @@
     "existing_original_svg_diagrams": 3,
     "r1_official_pdf_directly_verified": false,
     "independent_academic_approval": false,
-    "integrated_pdf": "local 36-page candidate; remote CI and downloaded artifact pending"
+    "integrated_pdf": "36-page GitHub CI PDF SHA256 3d0785bd3facd5e1726b08d8a99d13117e2b7ccd069d978669e36c84347a731d; downloaded artifact 12721128624 independently checked; R8 IN_PROGRESS, not PASS"
   }
 }
