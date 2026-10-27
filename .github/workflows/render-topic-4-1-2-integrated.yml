@@ -1,0 +1,124 @@
+name: Render Topic 4-1-2 Integrated Student Edition
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 4/Unit 1 - Indian Economy/Topic 2/source/**'
+      - 'scripts/render_topic_4_1_2_integrated.py'
+      - '.github/workflows/render-topic-4-1-2-integrated.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-4-1-2-integrated
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install renderer and verification dependencies
+        run: python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'pillow>=10,<13' 'beautifulsoup4>=4,<5' 'mistune>=3,<4' 'pymupdf>=1.24,<2'
+      - name: Guarded nonforce integrated PDF and HTML publication
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python - <<'PY'
+          from pathlib import Path
+          import json,hashlib,re
+          cp=json.loads(Path('project-control/PRODUCTION-CHECKPOINT.json').read_text())
+          ix=json.loads(Path('project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json').read_text())
+          assert cp['total_topics']==ix['total_topics']==len(cp['topics'])==75
+          assert [sum(t['readiness_status']==s for t in cp['topics']) for s in ('IN_PROGRESS','ASSESSED_REBUILD_REQUIRED','NOT_ASSESSED')]==[7,17,51]
+          assert ix['verified_R1_pass_count']==8 and ix['independently_academically_approved_count']==0
+          assert cp['academically_approved']==0
+          assert len(list(Path('project-control/academic-readiness').glob('[2-6]-[1-3]-[1-5].json')))==75
+          assert all((Path(t['path'])/'complete-notes.pdf').is_file() for t in cp['topics'])
+          root=Path('Paper 4/Unit 1 - Indian Economy/Topic 2')
+          assert hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()=='c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1'
+          src=root/'source'
+          parts=['syllabus-and-summary.md','quick-revision.md','detailed-notes.md','visual-learning.md','original-mcqs.md','answer-blueprints.md','mains-model-answers.md','sources-and-audit.md']
+          md=(src/'complete-notes.md').read_text()
+          expected='# TGPSC Group I | Paper IV | Unit I | Topic 2 — Poverty and Unemployment\n\n**Evidence-updated draft · 27 October 2026 · NOT independently academically approved**\n\n'+'\n\n'.join((src/n).read_text().strip() for n in parts)+'\n'
+          assert md==expected,'Editable master differs from component sources'
+          assert len(re.findall(r'(?m)^### Q\d+\.',(src/'original-mcqs.md').read_text()))==25
+          assert len(re.findall(r'(?m)^## M\d+\.',(src/'mains-model-answers.md').read_text()))==6
+          assert len(re.findall(r'(?m)^## \d+\.',(src/'detailed-notes.md').read_text()))==13
+          assert 'R1 PRIMARY-SOURCE PASS' in md and 'Worked measurement laboratory' in md
+          PY
+            python scripts/render_topic_4_1_2_integrated.py --input 'Paper 4/Unit 1 - Indian Economy/Topic 2/source/complete-notes.md' --output 'Paper 4/Unit 1 - Indian Economy/Topic 2/source/integrated-student-edition-2026-10-27.pdf'
+            python - <<'PY'
+          from pathlib import Path
+          import json,hashlib,re,unicodedata,fitz,mistune
+          from bs4 import BeautifulSoup
+          root=Path('Paper 4/Unit 1 - Indian Economy/Topic 2')
+          src=root/'source'
+          parts=['syllabus-and-summary.md','quick-revision.md','detailed-notes.md','visual-learning.md','original-mcqs.md','answer-blueprints.md','mains-model-answers.md','sources-and-audit.md']
+          md=(src/'complete-notes.md').read_text()
+          soup=BeautifulSoup((root/'index.html').read_text(),'html.parser')
+          rendered=BeautifulSoup(mistune.create_markdown(plugins=['table','strikethrough'])('\n\n'.join((src/n).read_text().strip() for n in parts)),'html.parser')
+          for im in rendered.find_all('img'):
+            u=im.get('src','')
+            if u.startswith('../visuals/'):im['src']='visuals/'+u.split('/')[-1]
+          seen={}
+          for h in rendered.find_all(['h1','h2','h3']):
+            slug=re.sub(r'[^a-z0-9]+','-',unicodedata.normalize('NFKD',h.get_text(' ',strip=True).lower()).encode('ascii','ignore').decode()).strip('-') or 'heading'
+            num=seen.get(slug,0);seen[slug]=num+1
+            h['id']=slug if num==0 else f'{slug}-{num+1}'
+          main=soup.select_one('main#content')
+          assert main is not None
+          main.clear()
+          for child in list(rendered.contents):main.append(child)
+          nav=soup.select_one('nav#toc');assert nav is not None
+          nav.clear()
+          for h in main.find_all(['h1','h2','h3']):
+            a=soup.new_tag('a',href='#'+h['id']);a['class']=['toc'+h.name[-1]];a.string=h.get_text(' ',strip=True);nav.append(a)
+          if not soup.select_one('header a[href="source/integrated-student-edition-2026-10-27.pdf"]'):
+            a=soup.new_tag('a',href='source/integrated-student-edition-2026-10-27.pdf');a.string=' | Integrated PDF';soup.header.append(a)
+          ids={x['id'] for x in soup.select('[id]')}
+          assert all(a['href'][1:] in ids for a in soup.select('a[href^="#"]') if not a['href'].startswith('#/'))
+          assert all((root/im['src']).is_file() for im in soup.select('img[src^="visuals/"]'))
+          (root/'index.html').write_text(str(soup))
+          pdf=src/'integrated-student-edition-2026-10-27.pdf'
+          doc=fitz.open(pdf);text='\n'.join(p.get_text() for p in doc)
+          assert 22<=len(doc)<=42 and all(len(p.get_text().strip())>60 for p in doc)
+          assert all(x in text for x in ['17.5%','Worked measurement laboratory','Q25.','M6.'])
+          images=sum(len(p.get_images()) for p in doc);assert images>=3
+          violations=[]
+          for i,p in enumerate(doc):
+            for block in p.get_text('dict')['blocks']:
+              if block['type']==0:
+                x0,y0,x1,y1=block['bbox']
+                if x0<10 or y0<0 or x1>p.rect.width-10 or y1>p.rect.height-3:violations.append(i+1)
+          assert not violations,violations
+          manifest=json.loads((root/'manifest.json').read_text())
+          manifest['date']='2026-10-27'
+          manifest['source_syllabus']='Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS'
+          manifest['academic_status']='not_approved'
+          manifest['production_status']='cycle36_CI_integrated_pdf_and_offline_html; browser accessibility pending'
+          manifest['counts']['words']=len(md.split())
+          manifest['counts']['pdf_pages']=len(doc)
+          manifest['files']={str(f.relative_to(root)):{'sha256':hashlib.sha256(f.read_bytes()).hexdigest(),'bytes':f.stat().st_size} for f in sorted(root.rglob('*')) if f.is_file() and f.name!='manifest.json'}
+          (root/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
+          qa={'date':'2026-10-27','topic':'4-1-2','pages':len(doc),'pdf_sha256':hashlib.sha256(pdf.read_bytes()).hexdigest(),'embedded_images':images,'blank_pages':0,'text_boundary_violations':0,'original_pdf_sha256':hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest(),'manifest_hashes':len(manifest['files']),'academically_approved':False,'browser_accessibility_certified':False}
+          Path('project-control/academic-readiness/4-1-2-cycle36-ci-render-qa.json').write_text(json.dumps(qa,indent=2)+'\n')
+          print(qa)
+          PY
+            git add -- 'Paper 4/Unit 1 - Indian Economy/Topic 2/index.html' 'Paper 4/Unit 1 - Indian Economy/Topic 2/manifest.json' 'Paper 4/Unit 1 - Indian Economy/Topic 2/source/integrated-student-edition-2026-10-27.pdf' 'project-control/academic-readiness/4-1-2-cycle36-ci-render-qa.json'
+            if git diff --cached --quiet; then echo 'Already synchronized'; exit 0; fi
+            git commit -m 'Render synchronized Topic 4-1-2 integrated PDF and offline HTML'
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Nonforce push raced main; retry $attempt"
+          done
+          exit 1

@@ -399,9 +399,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "12,339 words; 27-page PDF; 13 detailed sections; 25 original explained MCQs; six mains models 235–243 words; 3 diagrams. Official primary syllabus and independent academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle36_primary_R1_pass_quantitative_lab_and_two_MCQ_corrections",
+      "notes": "Original 27-page PDF preserved; 13 substantive concepts, FGT/MPI/LFPR worked lab, 25 original practice MCQs (Q23/Q25 revised), six mains and three existing diagrams. R1 primary syllabus PASS; 28-page LOCAL synchronized PDF exists; remote Actions QA and independent academic checks pending.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-2.json"
     },
     {

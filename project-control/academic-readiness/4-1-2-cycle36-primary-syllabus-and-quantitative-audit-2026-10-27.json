@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "4-1-2",
+  "R1": "PASS",
+  "source": "TGPSC Notification 02/2024 Annexure-II PDF index 30 printed page 31 lines 1719–1725",
+  "source_url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+  "concepts": 13,
+  "concepts_under_300": 0,
+  "mcqs": 25,
+  "rewritten": [
+    23,
+    25
+  ],
+  "bounded_author_side_checks": [
+    15,
+    16,
+    22,
+    23,
+    25
+  ],
+  "mains": 6,
+  "original_pdf_sha256": "c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1",
+  "local_integrated_pdf_pages": 28,
+  "local_pdf_sha256": "874f3d4370b2368a693b844333749b353ac58a500ffebfe4a174296c675bb9bf",
+  "local_only": true,
+  "remaining": "all 25 MCQ keys and distractors, six mains claims, diagram verification, CI artifact, browser accessibility",
+  "counts": {
+    "total": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 17,
+    "not_assessed": 51,
+    "R1_pass": 8,
+    "fully_ready": 0,
+    "independently_approved": 0
+  },
+  "R9": "NOT_STARTED"
+}

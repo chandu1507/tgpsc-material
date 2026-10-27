@@ -1,8 +1,8 @@
 {
   "topic_id": "4-1-2",
   "title": "Poverty and Unemployment: Income/Non-income Poverty, Capability and HPI, Measurement and Trends",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-27",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,34 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle36 official Annexure-II R1 directly checked, 13 concepts >300 words, worked FGT/MPI/UR examples, Q23/Q25 revised; only five MCQ keys author-side checked, all mains/diagrams pending independent verification.",
+  "next_action": "Complete all keys/distractors, mains claim checks, diagram review, remote CI PDF and downloaded-artifact QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "cycle36": {
+    "original_pdf_sha256": "c7fdf7f2d862f9ac8850fa762093ef362e647037d5f9783f3c903746ffb1d8e1",
+    "local_integrated_pdf_pages": 28,
+    "local_integrated_pdf_sha256": "874f3d4370b2368a693b844333749b353ac58a500ffebfe4a174296c675bb9bf",
+    "mcqs_revised": [
+      23,
+      25
+    ],
+    "bounded_author_side_checks": [
+      15,
+      16,
+      22,
+      23,
+      25
+    ],
+    "R9": "NOT_STARTED"
+  }
 }
