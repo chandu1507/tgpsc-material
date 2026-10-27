@@ -36,7 +36,7 @@ for n, block in enumerate(blocks, 1):
     assert all(re.search(rf'(?m)^{a}\. ', block) for a in 'ABCD'), n
     assert re.search(r'\*\*Answer: [ABCD]\.\*\*', block), n
 mains = (src/'mains-model-answers.md').read_text()
-answer_bodies = re.split(r'(?m)^## Mains model \d+\..*, mains)[1:]
+answer_bodies = re.split(r'(?m)^## Mains model \d+\..*$', mains)[1:]
 assert len(answer_bodies)==6
 body_counts = []
 for body in answer_bodies:
