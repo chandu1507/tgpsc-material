@@ -485,10 +485,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending_independent_academic_audit",
-      "notes": "Expanded original 28-page PDF, 12,625-word manuscript, 30 explained original MCQs, six 200–250-word mains models, three diagrams, 23-source register; 2026 SEO full-PDF audit pending.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/4-2-4.json"
+      "production_review": "cycle42_first_bounded_assessment_rebuild_required",
+      "notes": "Original 28-page PDF preserved; 17 concepts all >300 words, 30 original MCQs with B21/D0 skew, six 200+ word mains, 3 diagrams. Q4/Q6/Q25 bounded checks only; no full academic review or integrated PDF.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/4-2-4.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/4-2-4-cycle42-first-direct-source-and-objective-assessment-2026-10-27.json"
     },
     {
       "id": "4-2-5",
@@ -1058,14 +1059,14 @@
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 23,
-    "not_assessed": 45,
+    "assessed_rebuild_required": 24,
+    "not_assessed": 44,
     "verified_R1_pass": 10,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "4-2-3",
-    "evidence": "project-control/academic-readiness/4-2-3-cycle42-bounded-source-objective-and-local-candidate-qa-2026-10-27.json"
+    "last_assessed": "4-2-4",
+    "evidence": "project-control/academic-readiness/4-2-4-cycle42-first-direct-source-and-objective-assessment-2026-10-27.json"
   },
-  "last_readiness_update": "27 Oct Cycle42: Topic 4-2-3 bounded source and objective assessment with 8 MCQ corrections and one hypothetical outcomes concept; local 31-page candidate, GitHub CI publication pending. Status 7/23/45, zero ready/approved.",
-  "last_readiness_reconciliation": "Exactly 75 original topics; 7 IN_PROGRESS, 23 ASSESSED_REBUILD_REQUIRED, 45 NOT_ASSESSED; 10 R1 PASS; zero fully R1-R8 ready and zero independent approvals."
+  "last_readiness_update": "27 Oct Cycle42: Topic 4-2-3 source repair and CI PDF rendered, downloaded post-edit artifact QA pending; Topic 4-2-4 first assessed. Status 7/24/44; zero ready/approved.",
+  "last_readiness_reconciliation": "Exactly 75 original topics; 7 IN_PROGRESS, 24 ASSESSED_REBUILD_REQUIRED, 44 NOT_ASSESSED; 10 R1 PASS; zero fully R1-R8 ready and zero independent approvals."
 }
