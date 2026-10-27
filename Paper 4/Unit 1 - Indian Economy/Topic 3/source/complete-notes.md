@@ -690,6 +690,9 @@ D. M2 = ₹205 crore; M3 = ₹485 crore
 | S17 | Public reproduction of TGPSC Notification 02/2024 Annexure-II | https://prepshark.in/tgpsc/group-1/syllabus | Exact topic syllabus wording | Secondary transcription; direct commission PDF still outstanding |
 | S18 | Public copy of Group I notification wording | https://keshav.ugenglish.in/2024/02/tspsc-group-1-notification-022024.html | Cross-check syllabus line | Secondary reproduction |
 
+| S19 | TGPSC original Notification 02/2024, Annexure-II, printed p.31, PDF index 30, lines 1726–1727; accessed 27 Oct 2026 | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | Exact Money and Banking syllabus | Only this item directly checked |
+| S20 | DICGC, A Guide to Deposit Insurance; accessed 27 Oct 2026 | https://www.dicgc.org.in/guide-to-deposit-insurance | ₹5 lakh same capacity, branches, interest, NBFC exclusions | Guidance, not full legal audit |
+
 ## Explicit verification and provenance gaps
 
 1. R1 PASS: original Commission-hosted Notification 02/2024 Annexure-II Topic 3 wording directly verified on 27 October 2026 (S19); remaining academic gates are not certified.
@@ -699,8 +702,6 @@ D. M2 = ₹205 crore; M3 = ₹485 crore
 5. Banking regulation and PSB counts can change. Before academic approval, a subject specialist should review the current RBI directions, law amendments, and any subsequent institution mergers.
 6. Structural validation, source triangulation and PDF visual inspection are **not independent academic approval**.
 
-| S19 | TGPSC original Notification 02/2024, Annexure-II, printed p.31, PDF index 30, lines 1726–1727; accessed 27 Oct 2026 | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | Exact Money and Banking syllabus | Only this item directly checked |
-| S20 | DICGC, A Guide to Deposit Insurance; accessed 27 Oct 2026 | https://www.dicgc.org.in/guide-to-deposit-insurance | ₹5 lakh same capacity, branches, interest, NBFC exclusions | Guidance, not full legal audit |
 
 ## Cycle37 bounded author-side checks
 

@@ -81,6 +81,8 @@ jobs:
           for child in list(rendered.contents):main.append(child)
           nav=soup.select_one('nav');assert nav is not None
           nav.clear()
+          for href,label in [('../../../index.html','75-topic portal'),('complete-notes.pdf','Original PDF'),('source/complete-notes.md','Editable master'),('source/integrated-student-edition-2026-10-27.pdf','Integrated PDF')]:
+            a=soup.new_tag('a',href=href);a.string=label;nav.append(a)
           for h in main.find_all(['h1','h2','h3']):
             a=soup.new_tag('a',href='#'+h['id']);a['class']=['toc'+h.name[-1]];a.string=h.get_text(' ',strip=True);nav.append(a)
           if not soup.select_one('header a[href="source/integrated-student-edition-2026-10-27.pdf"]'):
