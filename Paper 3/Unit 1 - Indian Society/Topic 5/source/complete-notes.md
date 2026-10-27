@@ -245,16 +245,15 @@ D. Statutes never concern welfare
 **Explanation:** An executive scheme and an Act have different legal status; enforceability depends on the precise instrument.
 
 ## MCQ 3
-**Question:** Mission Shakti consists of which two major sub-schemes?
+**Question:** Which pair comprises the two sub-schemes of Mission Shakti, as described by the Ministry of Women and Child Development?
 
-A. Poshan and Vatsalya
+A. Sambal and Mission Vatsalya
 B. Sambal and Samarthya
-C. PESA and FRA
-D. PM POSHAN and Samagra Shiksha
+C. Samarthya and Mission Poshan 2.0
+D. Mission Vatsalya and Mission Poshan 2.0
 
 **Correct answer: B. Sambal and Samarthya**
-**Explanation:** Sambal addresses safety/security and Samarthya empowerment, as MWCD describes.
-
+**Explanation:** The Ministry names Sambal (safety/security) and Samarthya (empowerment) as Mission Shakti's two sub-schemes. Mission Vatsalya is the separate child-protection programme, while Mission Poshan 2.0 concerns nutrition and early-childhood services. All four names denote real programmes or sub-schemes, but only option B pairs the two within Mission Shakti. [MWCD Mission Shakti, Mission Vatsalya and Mission Poshan 2.0 programme pages; checked 27 October 2026.]
 ## MCQ 4
 **Question:** Which is the most defensible indicator of women’s economic empowerment?
 
@@ -267,16 +266,15 @@ D. Number of scheme posters
 **Explanation:** Control over resources and sustainable participation indicate agency beyond enrolment.
 
 ## MCQ 5
-**Question:** Which of the following is a child-protection scheme connected with the JJ Act?
+**Question:** Which programme finances child care and protection services connected with the Juvenile Justice (Care and Protection of Children) Act?
 
 A. Mission Vatsalya
-B. Mission Shakti Sambal
+B. Mission Saksham Anganwadi and Poshan 2.0
 C. PM POSHAN
-D. MGNREGA
+D. Samagra Shiksha
 
 **Correct answer: A. Mission Vatsalya**
-**Explanation:** Mission Vatsalya supports child-care and protection services under the Juvenile Justice framework.
-
+**Explanation:** Mission Vatsalya supports child-protection institutions and services under the Juvenile Justice framework. Poshan 2.0 primarily addresses nutrition and early childhood services; PM POSHAN supports school meals; Samagra Shiksha is an integrated school-education programme. Each alternative is a genuine social-sector programme, but the statutory child-protection connection identifies A. [MWCD Mission Vatsalya/Poshan 2.0; Ministry of Education PM POSHAN/Samagra Shiksha, checked 27 October 2026.]
 ## MCQ 6
 **Question:** A child has low height-for-age. Which indicator is involved?
 
@@ -322,16 +320,15 @@ D. MGNREGA 2005
 **Explanation:** RPwD Act 2016 addresses non-discrimination, inclusion and accessibility.
 
 ## MCQ 10
-**Question:** Under the RPwD Act, government employment reservation for benchmark disability is generally cited as at least:
+**Question:** Under section 34 of the Rights of Persons with Disabilities Act, 2016, the minimum reservation in government-establishment vacancies for persons with benchmark disabilities is generally:
 
-A. 1%
-B. 2%
+A. 3%
+B. 5%
 C. 4%
-D. 10%
+D. 1%
 
 **Correct answer: C. 4%**
-**Explanation:** Section 34 specifies not less than 4% of vacancies in government establishments, subject to the Act.
-
+**Explanation:** Section 34 prescribes not less than four per cent of the relevant government-establishment vacancies, with statutory conditions and distribution among categories. Five per cent is the separate higher-education seat reservation in section 32; one per cent is used for specified component categories within section 34, not the overall minimum. Three per cent is not the section 34 total. [India Code, RPwD Act 2016, sections 32–34; checked 27 October 2026.]
 ## MCQ 11
 **Question:** Which is a whole-journey accessibility indicator?
 
@@ -355,16 +352,15 @@ D. POSH Act 2013
 **Explanation:** The SC/ST PoA Act provides a distinct protective framework beyond general welfare schemes.
 
 ## MCQ 13
-**Question:** The Telangana SC/ST Special Development Fund framework is established by:
+**Question:** Which instrument enacted Telangana's SC/ST Special Development Fund framework, rather than merely issuing its implementing rules?
 
-A. State Act 18 of 2017
-B. The 2020 National Education Policy
-C. Article 21A alone
-D. National Health Policy 2017
+A. Telangana State Act 18 of 2017
+B. Telangana G.O.Ms.No.53 dated 13 September 2017
+C. Union Act 18 of 2017
+D. Telangana State Act 18 of 2018
 
-**Correct answer: A. State Act 18 of 2017**
-**Explanation:** The Telangana 2017 Act provides a statutory framework for earmarked development resources.
-
+**Correct answer: A. Telangana State Act 18 of 2017**
+**Explanation:** The Telangana State Scheduled Castes and Scheduled Tribes Special Development Fund (Planning, Allocation and Utilization of Financial Resources) Act, 2017 is State Act 18/2017. G.O.Ms.No.53 of 13 September 2017 concerns rules under that Act, not its enactment. The Union and 2018 alternatives misidentify the legislature or year. [Telangana Government Scheduled Castes Special Development Fund budget statement, 2023–24; checked 27 October 2026.]
 ## MCQ 14
 **Question:** Which measure is the strongest evidence of an effective SC student hostel programme?
 
@@ -432,16 +428,15 @@ D. Article 41
 **Explanation:** Article 30(1) concerns religious and linguistic minorities’ educational institutions.
 
 ## MCQ 20
-**Question:** Article 21A directly concerns free compulsory education for:
+**Question:** Article 21A of the Constitution of India directly guarantees free and compulsory education for which age group?
 
-A. 0–3 years
+A. 3–6 years
 B. 6–14 years
-C. 14–21 years
-D. All adults
+C. 6–18 years
+D. 14–18 years
 
 **Correct answer: B. 6–14 years**
-**Explanation:** The constitutional guarantee under Article 21A covers children aged six to fourteen.
-
+**Explanation:** Article 21A covers children aged six to fourteen. Early-childhood care below six is addressed separately in Article 45; section 31 of the RPwD Act gives a distinct six-to-eighteen-year entitlement to children with benchmark disabilities. Neither expands Article 21A itself to all children under eighteen. [Ministry of Education, Article 21A/86th Amendment guidance; India Code RPwD Act section 31; checked 27 October 2026.]
 ## MCQ 21
 **Question:** Samagra Shiksha is best described as:
 
@@ -552,9 +547,6 @@ D. Only allocations should be audited
 **Correct answer: C. Actual spending must be compared with beneficiary receipt and lasting results**
 **Explanation:** Budget release, payment, service quality and social outcomes are distinct links in the delivery chain.
 
-
----
-
 ## Part C — Newly authored structured mains answers
 
 # Six original structured mains model answers
@@ -649,7 +641,7 @@ D. Only allocations should be audited
 
 ---
 
-## Part D — Recovered legacy detailed notes (UNREVIEWED)
+## Part D — Recovered legacy detailed notes (PARTIALLY SOURCE-REVIEWED; full audit pending)
 
 # TGPSC Paper III — Unit I — Topic 5: Social Policies and Programmes in India and Telangana
 
@@ -701,6 +693,14 @@ Saksham Anganwadi and Poshan 2.0 integrates early childhood nutrition services, 
 
 Telangana district planning should connect Anganwadi centres, schools, healthcare, Child Welfare Committees, District Child Protection Units and police child-help mechanisms. Measures should distinguish stunting, wasting and anaemia; each has a different meaning and intervention pathway. A strong answer highlights protection and nutritional outcomes as well as attendance.
 
+### Implementation case: continuity across child services
+
+Consider a hypothetical child who moves with a construction-worker household from a Telangana mandal to Hyderabad. The child's Anganwadi record, school admission and immunisation history may be held by different offices. A district response should arrange immediate access to age-appropriate services while records are transferred, rather than treating missing documents as proof of ineligibility. Nutrition teams can monitor growth and refer suspected illness; teachers must assess learning needs; child-protection staff should investigate specific risks without automatically treating poverty or migration as grounds for institutional care.
+
+Mission Vatsalya supports the Juvenile Justice care-and-protection system. A Child Welfare Committee handles statutory decisions for children in need of care and protection, whereas a Juvenile Justice Board has a different role for children in conflict with law. Ministry guidance favours family-based non-institutional care where safe and appropriate. The child helpline 1098 is linked to emergency response 112, but a helpline contact is not itself evidence of a resolved case. District Child Protection Units should coordinate referrals with safeguards for privacy, consent where appropriate, and follow-up.
+
+For evaluation, separately record uninterrupted nutrition service, learning progression, safe resolution of protection concerns and family reunification where appropriate. These outcomes cannot be inferred from registrations or expenditure alone. [Sources: Ministry of Women and Child Development, Mission Vatsalya programme guidance; Mission Saksham Anganwadi and Poshan 2.0 programme description, accessed 27 October 2026.]
+
 ## 04 Older persons: income, care and dignity
 
 ### Meaning and policy background
@@ -728,6 +728,12 @@ For persons with benchmark disabilities, the Act includes at least 4% reservatio
 ### Telangana application, challenges and outcome measurement
 
 Telangana answers should cover ramps and lifts, accessible Telugu/Urdu information, sign-language support, adaptive examinations, school inclusion and rural transport. Outcomes include actual school progression, employment retention, equal wage opportunity and accessible public services—not merely the count of certificates issued.
+
+### Distinguish legal thresholds before quoting reservation figures
+
+Four frequently confused provisions have different scopes. Article 21A establishes the general six-to-fourteen-year constitutional guarantee of free and compulsory education. Section 31 of the Rights of Persons with Disabilities Act, 2016 provides a specific six-to-eighteen-year education right for children with benchmark disabilities. Section 32 requires at least five per cent reservation of seats in government and government-aided higher educational institutions for persons with benchmark disabilities. Section 34 addresses not less than four per cent of specified vacancies in government establishments, subject to the statutory categories and conditions. These are not interchangeable percentages or universal private-sector quotas. A mains answer should identify the legal beneficiary, institution and entitlement before comparing policies.
+
+A district implementation audit should follow an applicant's complete journey: accessible information, usable transport, non-discriminatory admission, reasonable examination accommodation, accessible toilets and digital services, timely decisions, and a functioning grievance channel. For example, a wheelchair ramp at a college is inadequate if the examination room is upstairs or an online form cannot be used with assistive technology. Measure successful participation and retention, not simply the number of disability certificates or ramps. [Sources: India Code, Rights of Persons with Disabilities Act 2016, sections 31–34; Ministry of Education, Article 21A guidance, accessed 27 October 2026.]
 
 ## 06 Scheduled Castes: discrimination, mobility and entitlements
 
@@ -943,9 +949,6 @@ At Gram Panchayat and urban ward levels, link grievance officers, frontline work
 ## Answer-writing method
 
 For 10 marks, keep roughly 200 words but ensure visible headings and at least four discriminating factual anchors. State an evaluative judgment in the introduction or conclusion, and show the distinction between policy intent and delivered outcome.
-
-
----
 
 ## Part E — Recovered legacy reference material (UNREVIEWED)
 
