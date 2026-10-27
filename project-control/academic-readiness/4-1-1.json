@@ -24,7 +24,7 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED",
+    "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED"
   },
   "evidence": "project-control/academic-readiness/4-1-1-cycle35-national-accounts-reconciliation-and-objective-audit-2026-10-27.json",
@@ -53,5 +53,14 @@
     "original_mains": 6,
     "existing_raster_diagrams": 3,
     "authenticated_official_pyqs": 0
+  },
+  "cycle35_ci_render": {
+    "workflow_run": 40484344614,
+    "conclusion": "success",
+    "pages": 25,
+    "sha256": "0eac4a98fc391a10a567f003a27ed8df41edcab28f4e3262dd596a3745de4ecf",
+    "original_pdf_preserved": true,
+    "artifact_qa_pending": true,
+    "academic_approval": false
   }
 }
