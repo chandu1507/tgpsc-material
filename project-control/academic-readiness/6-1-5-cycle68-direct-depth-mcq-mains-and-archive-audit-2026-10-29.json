@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-29",
+  "cycle": 68,
+  "topic_id": "6-1-5",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "baseline": {
+    "github_main_before_audit": "b2eca2d6db9c6e94c16d1a964e929772c24c0e6e",
+    "master_blob_sha": "b801c7db4aa39d1cf5e406fa52593e6795198e4a",
+    "master_sha256": "7ec8838c2db7f22a35b47b6ae760566ad54b5774b948d8b3e39f76f8e7d700b8",
+    "original_pdf_sha256": "bd6e665d29ba202dee74095447fbb01114a0261c5a7a98b0deec9a1bef3ff354",
+    "original_pdf_pages": 23
+  },
+  "direct_audit": {
+    "numbered_sections": 33,
+    "core_explanatory_sections": 30,
+    "core_sections_below_300": 30,
+    "numbered_sections_below_300": 32,
+    "section_word_counts": [
+      222,
+      181,
+      211,
+      196,
+      179,
+      181,
+      182,
+      163,
+      181,
+      169,
+      179,
+      197,
+      169,
+      170,
+      187,
+      184,
+      173,
+      197,
+      174,
+      172,
+      167,
+      170,
+      167,
+      184,
+      169,
+      146,
+      179,
+      186,
+      176,
+      171,
+      543,
+      211,
+      149
+    ],
+    "mcq_count": 30,
+    "mcq_four_options_present": 30,
+    "mcq_explanations_present": 30,
+    "answer_positions": {
+      "A": 7,
+      "B": 18,
+      "C": 4,
+      "D": 1
+    },
+    "verified_mcq_correctness": 0,
+    "verified_distractors": 0,
+    "mains_count": 6,
+    "mains_body_only_words": [
+      206,
+      226,
+      219,
+      204,
+      217,
+      197
+    ],
+    "mains_below_200": [
+      6
+    ],
+    "embedded_pdf_images": 3
+  },
+  "bounded_source_checks": {
+    "official_syllabus": "2024 Notification 02/2024 Paper VI Unit I item 5 search-indexed; direct PDF request HTTP 502, so R1 not passed",
+    "official_2024_pdf": "https://websitenew.tspsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "eci_archive": "https://www.eci.gov.in/statistical-reports",
+    "eci_1971_original_downloaded": false,
+    "signed_go36_downloaded": false,
+    "january_accord_minutes_downloaded": false,
+    "tps_foundation_resolution_downloaded": false,
+    "certified_casualty_register_downloaded": false
+  },
+  "archive_baseline": {
+    "artifact_id": 12839271314,
+    "run_id": 40740078431,
+    "outer_sha256": "c979ff53365fde1f0641967d8cbe0d170b19098f08aa8623c14ba11d0966d0ea",
+    "outer_inner_crc": "PASS",
+    "packaged_files": 1784,
+    "original_topic_pdfs": 75,
+    "original_pdf_hashes_equal_cycle66": true,
+    "readiness_json": 75,
+    "html": 78
+  },
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "BLOCKED",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "publication": {
+    "master_edited_this_cycle": false,
+    "new_integrated_pdf": false,
+    "new_actions_artifact_downloaded_this_cycle": false,
+    "originals_unchanged": true
+  },
+  "approvals": {
+    "independent_expert": 0,
+    "academic_approval": false
+  },
+  "next_actions": [
+    "Expand 30 shallow concepts substantively without duplication and satisfy full-page density",
+    "Correct Mains6 below-200 body count and source-check all six mains",
+    "Independently verify all 30 MCQ keys and all 90 distractors",
+    "Retrieve original legal/electoral evidence, validate diagrams, render deterministic PDF, verify actual new Actions artifact and browser usability"
+  ]
+}
