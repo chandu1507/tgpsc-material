@@ -78,6 +78,8 @@ The response has two levels. At the bedside, assess dehydration and warning sign
 
 For mains answers, contrast dysentery with cholera: dysentery often involves inflammatory injury and blood, whereas classic cholera causes profuse watery fluid loss without requiring mucosal invasion. Both can spread through contaminated food or water, but case management, diagnostic priorities and outbreak interpretation differ. The exam rewards mechanism-based distinctions rather than rote symptom lists.
 
+**District investigation example (hypothetical):** Suppose 18 children at a hostel develop bloody stools over three days, but only some used a shared water dispenser. The response should first arrange clinical assessment and safe drinking water, then construct an onset timeline and compare exposures among ill and unaffected residents. A positive stool test in one child does not prove that the dispenser was the source; concordant exposure patterns, appropriate microbiology and environmental findings are needed. WHO describes dysentery as bloody diarrhoea, not as a diagnosis restricted to one organism [S21]. This distinction is important when framing suspected versus confirmed cases in a mains answer.
+
 ## 7. Cholera: secretory physiology, epidemic potential and WASH
 
 Cholera is an acute intestinal infection caused by toxigenic *Vibrio cholerae*, principally epidemic serogroups O1 and O139. The organism is acquired through contaminated water or food. Cholera toxin alters intestinal signalling and causes massive secretion of electrolytes and water into the lumen; severe cases may develop rapid dehydration and shock. The classic 'rice-water stool' description is memorable but is not necessary for diagnosis and should not be used as the sole case definition. Many infections are mild or asymptomatic, while a smaller proportion cause life-threatening dehydration.
@@ -138,6 +140,8 @@ There is no universally used specific antiviral treatment for chikungunya; clini
 
 Municipal prevention needs weekly inspection and removal of breeding containers, reliable waste management, covered water storage, household participation and entomological surveillance. Fogging alone is insufficient if breeding habitats remain. A school cluster should prompt fever surveillance, referral for danger signs, mosquito source reduction and clear information about the difference between dengue and chikungunya. A useful evaluation measures vector breeding, case trends and timely access to care rather than merely counting public announcements.
 
+**Transmission window and diagnostic timing:** WHO's chikungunya guidance distinguishes early direct detection of viral material from later antibody testing; specimen timing therefore matters when interpreting a negative result [S07]. A resident with fever and joint pain should not be counted as a laboratory-confirmed chikungunya case merely because *Aedes* breeding was found nearby. In an illustrative ward audit, record containers inspected, containers positive for larvae, fever-onset dates and the number of tests performed; these are different denominators. A decline in positive containers is evidence of reduced breeding in sampled locations, not proof that all community infections have ended.
+
 ## 13. Bird flu: avian influenza, occupational exposure and One Health
 
 Bird flu is an informal name for avian influenza, caused by influenza A viruses adapted primarily to birds. Highly pathogenic avian influenza refers to severe disease in poultry under veterinary classification; it does not mean every human exposure causes severe illness. Human infections with certain avian influenza subtypes, including A(H5N1), have occurred, usually after close contact with infected birds, animals or contaminated environments. Sustained human-to-human transmission of the currently circulating avian A(H5) viruses has not been established in the WHO source used here. A virus can evolve, so surveillance remains necessary without exaggerating present risk.
@@ -157,6 +161,8 @@ Diabetes, immunosuppressive medicines, organ transplantation, advanced HIV disea
 The outbreak dimension differs from cholera or influenza. A cluster of invasive fungal infections in a hospital may reflect contaminated equipment, construction dust, a product or failures in infection prevention rather than straightforward person-to-person spread. Investigators compare patient exposures, procedure dates, locations and laboratory isolates. A cluster of superficial fungal infection in a hostel may instead relate to close contact and shared personal items. The mode of spread, not the general word 'fungus', determines intervention.
 
 For Telangana, an equitable programme would train primary-care staff to recognise warning signs and refer high-risk patients, while strengthening diagnostic mycology in referral centres. It would also address overcrowding, water damage and hygiene in institutions without portraying ordinary environmental fungi as universally dangerous. A complete answer connects microbial biology to host vulnerability and service quality rather than describing only symptoms.
+
+**Hospital infection-control distinction:** Ordinary *Candida* species may live on skin or mucosa without invasive disease, whereas *Candida auris* can colonise patients and spread through healthcare environments. The US CDC specifically warns that colonised *C. auris* patients can contaminate surfaces even without symptoms [S22]. This creates two separate questions for a hospital: who requires clinical evaluation for invasive disease, and what contact precautions and environmental cleaning are needed to prevent transmission? CDC also identifies central venous catheters, prolonged ICU exposure and certain immunosuppressive treatments as invasive-candidiasis risk factors [S23]. These are risk factors, not proof of infection in an individual.
 
 ## 15. Outbreak investigation: surveillance, epidemiology and laboratory confirmation
 
@@ -202,9 +208,15 @@ The central conclusion is that microbes differ in biology, routes and control. D
 
 **Diagram 1 — infection chain and intervention points.** Reservoir → exit → route → entry → susceptible host, with sanitation, ventilation, vector control and infection prevention mapped to distinct links. It illustrates why different pathogens demand different interventions.
 
+![Original infection-chain diagram](../diagrams/01-infection-chain.png)
+
 **Diagram 2 — enteric outbreak response.** Signal → triage and safe water → case definition → epidemiological mapping and samples → source repair → follow-up. The key principle is parallel immediate action and evidence collection.
 
+![Original enteric-outbreak response diagram](../diagrams/02-enteric-outbreak.png)
+
 **Diagram 3 — vector and zoonotic comparison.** Malaria (*Anopheles*, protozoan), chikungunya (*Aedes*, virus), Japanese encephalitis (*Culex*, virus, animal cycle) and avian influenza (animal exposure, influenza virus). Do not mistake a shared symptom for a shared route.
+
+![Original pathogen and vector comparison diagram](../diagrams/03-pathogen-vector-comparison.png)
 
 
 ## Standalone quick revision: pathogen–route–control matrix
@@ -266,7 +278,7 @@ B. *Plasmodium*—protozoan
 C. HIV—bacterium
 D. *Vibrio cholerae*—fungus
 
-**Answer: B.** *Plasmodium* is a protozoan parasite; the others are respectively a virus, bacterium and fungus.
+**Answer: B.** *Plasmodium* is a protozoan parasite. The three distractor organisms are misclassified: *Candida* is a fungus (not a virus), HIV is a virus (not a bacterium), and *Vibrio cholerae* is a bacterium (not a fungus).
 
 **Q2. Which best describes colonisation?**
 A. A compulsory symptom of viral disease
@@ -516,9 +528,11 @@ D. Only posters
 
 **Analytical caution:** Laboratory categories cannot be used as shortcuts for judging severity. An asymptomatic carrier may spread some infections, whereas an immune-compromised patient can become severely ill from a usually harmless organism. Public-health decisions therefore require both microbial identification and host assessment.
 
+**Programme design test:** A district laboratory plan should report specimen turnaround time, valid test results and referrals completed separately. Faster testing is valuable only when patients receive timely care and exposure controls actually change.
+
 **Conclusion:** Mechanism-based classification prevents inappropriate prescriptions and makes outbreak control more effective, equitable and measurable.
 
-*Model answer word count: 206.*
+*Body-only word count requires a fresh recount; historical total included headings.*
 
 ### M2. Discuss the prevention and management of diarrhoea, dysentery and cholera in a Telangana municipality.
 
@@ -666,15 +680,21 @@ No question is labelled a TGPSC official previous-year question in this draft. T
 - **[S20] WHO, Global antibiotic resistance surveillance report news** — 13 October 2025. https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide  
   Audit: Resistance surveillance and testing limits.
 
+- **[S21] WHO Eastern Mediterranean Regional Office, Dysentery topic page** — accessed 28 October 2026. https://www.emro.who.int/health-topics/dysentery/dysentery.html
+  Audit scope: supports the syndromic definition of bloody diarrhoea; does not establish a specific hostel outbreak source.
+- **[S22] US CDC, Preventing the Spread of *Candida auris*** — 1 October 2026; accessed 28 October 2026. https://www.cdc.gov/candida-auris/prevention/index.html
+  Audit scope: supports colonisation and environmental spread in healthcare settings; not a claim about local Telangana prevalence.
+- **[S23] US CDC, Risk Factors for Candidiasis** — 19 October 2026; accessed 28 October 2026. https://www.cdc.gov/candidiasis/risk-factors/
+  Audit scope: supports invasive-candidiasis risk factors, not individual diagnosis.
+
 ### Academic and source audit
 
 1. Original commission PDF opened and its Paper V Unit II item 4 directly matched on 24 October 2026. Syllabus text is quoted for navigation, not used as a claim of commission endorsement.
-2. WHO and NCDC pages above were reviewed as primary sources during this run; dated statistics retain their reference periods. No disease count is attributed to Telangana without an official district-level source.
+2. WHO and NCDC pages above were reviewed as primary sources during the original drafting run; this cycle independently checked only the bounded [S21]–[S23] propositions and selected WHO fact-sheet correspondences. Dated statistics retain their reference periods. No disease count is attributed to Telangana without an official district-level source.
 3. The IDSP 2026 web page is updated dynamically; figures in this draft use the 2025 completed year where explicitly stated. Recheck live figures before examination use.
 4. All 30 MCQs and six mains models are original practice. **Verified official PYQs: none included** because an original paper and question number were not authenticated.
 5. Case studies are clearly labelled hypothetical. No clinical dosing or self-treatment protocol is supplied.
 6. Independent microbiology, epidemiology and Telangana public-health review is pending. Academic approval is **zero**.
-
 
 ## Chapter synthesis
 
