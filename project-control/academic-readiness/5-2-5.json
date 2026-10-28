@@ -24,10 +24,10 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-5-cycle58-source-depth-mains-and-bounded-key-audit-2026-10-28.json",
-  "next_action": "Two shallow concepts and one underlength mains body corrected; 13 bounded correct-answer proposition checks only, 17 other keys and all 90 distractors, six mains claim sets, three diagrams, syllabus and browser QA remain. Local 23-page PDF not GitHub CI publication. Zero approvals.",
+  "evidence": "project-control/academic-readiness/5-2-5-cycle58-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+  "next_action": "CI integrated 25-page PDF, editable master and actual downloaded GitHub artifact verified (CRC/SHA, 75 originals, manifest, links); R8 still IN_PROGRESS pending direct browser accessibility, 17 MCQ keys, 90 distractors, six mains claim audits, three diagrams and syllabus reauthentication. Zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -61,6 +61,10 @@
     "remaining_keys": 17,
     "all_distractors_unverified": true,
     "independent_academic_approvals": 0,
-    "post_edit_github_artifact_verified": false
+    "post_edit_github_artifact_verified": true,
+    "actual_github_artifact_id": 12803981224,
+    "actual_github_artifact_sha256": "c19f9aae46971c73dc01e54e9bdd32c89dabe0b7a169f9540e55958da45d4c2f",
+    "github_integrated_pdf_pages": 25,
+    "github_integrated_pdf_sha256": "11a55291d7d850484eb8dd6acbb9c942ea6d69bc1acf5bbc7a9455f74d3097b3"
   }
 }
