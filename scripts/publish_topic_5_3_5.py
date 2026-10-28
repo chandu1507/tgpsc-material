@@ -47,7 +47,7 @@ bodycounts=[word(re.sub(r'\*\*[^*]+\*\*','',body)) for n,body in models]
 assert all(200<=n<=250 for n in bodycounts),bodycounts
 assert len(list((root/'diagrams').glob('*.png')))==3
 pdf=src/'integrated-student-edition-cycle63.pdf'
-subprocess.run([sys.executable,'scripts/render_topic_5_3_4_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
+subprocess.run([sys.executable,'scripts/render_topic_5_3_5_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
 doc=fitz.open(pdf)
 blank=[i+1 for i,p in enumerate(doc) if len(p.get_text().strip())<60]
 images=sum(len(p.get_images()) for p in doc)
