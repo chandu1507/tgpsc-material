@@ -19,7 +19,7 @@
   "academically_approved": false,
   "files_sha256": {
     "README.md": "12adc65f557c79a5f8dcf68a450160a8f9dd472f4e801a0a82a8b165112a6caf",
-    "QA-REPORT.md": "089b41c58f780a6a9856ae226948fe052b59f6e1c3f41408150a406f27387ed9",
+    "QA-REPORT.md": "2d4bb957c1ec47c72f21209fb58f901c4ad12b41410ccda1cce8c96cdea97a13",
     "complete-notes.pdf": "564061e2c2e121aa0184c7bb465da5889bef10c7b45773aecc8ba70194bf2fc8",
     "index.html": "0fdea020ff757fb8a661089245d6effe0a4b68a67c8f7ded883c78cf8b7e67b9",
     "diagrams/critical_reasoning.png": "65588886e77aeeca62c18f283a046fd289e64e932b14b345d13a351f201fc2c4",
@@ -30,12 +30,12 @@
     "source/complete-model-answers.md": "93fe1cc9164f8e76b1d36ab0e77fd6fa934239e5d4598e67fc2470132d0b4b86",
     "source/quick-revision.md": "7b3e4b2d63991b6ca83d95248fff13866c9741880ee5385b495729fe641c696e",
     "source/original-practice.md": "f97592132bb22a87595c109c8bbfdc35439666c7e4719a733f83b7eb06c614de",
-    "source/integrated-student-edition-cycle62.pdf": "da083714c89dd9e3a1e4d80e83697a435bc4167d92a8db99af7575b315beb0bb"
+    "source/integrated-student-edition-cycle62.pdf": "132906bc21741921161fbdfe3cc70c66ce44dad316baf229abaeb3f0d9d3ba80"
   },
   "academic_status": "not_approved",
   "integrated_pdf_status": "CI_rendered_pending_academic_audit",
   "integrated_pdf_pages": 23,
-  "integrated_pdf_sha256": "da083714c89dd9e3a1e4d80e83697a435bc4167d92a8db99af7575b315beb0bb",
+  "integrated_pdf_sha256": "132906bc21741921161fbdfe3cc70c66ce44dad316baf229abaeb3f0d9d3ba80",
   "official_syllabus_authenticated_this_cycle": false,
   "independent_academic_approvals": 0,
   "metrics": {
