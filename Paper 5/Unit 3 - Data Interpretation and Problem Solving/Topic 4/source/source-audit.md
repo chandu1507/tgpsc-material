@@ -24,7 +24,7 @@ The core mathematics of this syllabus item is not news-driven. Current developme
 - **[S04]** Government of Telangana, reports portal listing *Socio-Economic Outlook 2026*, accessed 25 October 2026. https://www.telangana.gov.in/reports/
 - **[S05]** Ministry of Statistics and Programme Implementation, official current-surveys page documenting CPI base-year revision launched 12 February 2026; accessed 25 October 2026. https://mospi.gov.in/press-release/current-surveys-0
 - **[S06]** MoSPI, eSankhyiki official catalogue, August 2026 PLFS indicators with release date 15 September 2026; accessed 25 October 2026. https://esankhyiki.mospi.gov.in/catalogue-main/catalogue
-- **[S07]** MoSPI, official press-release listings for 12–16 October 2026, accessed 25 October 2026. https://www.mospi.gov.in/press-release/press-note-periodic-labour-force-plfs-monthly-bulletin-august-2025
+- **[S07]** MoSPI, official press-release listings for 12–16 October 2026, rechecked 28 October 2026; corrected a previously mismatched URL that pointed to an August 2025 PLFS item. https://www.mospi.gov.in/mospi_press_releases.htm
 - **[S08]** Reserve Bank of India, official publications and regulatory reference portal; used only to identify where current lending rules must be checked, not to assert a specific permitted rate. https://www.rbi.org.in/
 
 **Editorial warning:** This independent study draft is neither issued nor approved by the commission, NCERT, Telangana DES, MoSPI or RBI. The absence of independent academic review must not be interpreted as verification of every question, derivation or answer.
