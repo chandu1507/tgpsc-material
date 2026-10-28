@@ -58,9 +58,9 @@
     ],
     "key_distribution": {
       "A": 8,
-      "B": 9,
+      "B": 10,
       "C": 9,
-      "D": 4
+      "D": 3
     },
     "full_independent_key_audit": false,
     "full_90_distractor_audit": false,
