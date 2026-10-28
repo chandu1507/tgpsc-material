@@ -1,6 +1,6 @@
 ## Six original mains practice questions and complete model answers
 
-**Provenance:** Original practice; no official PYQ claim. Each answer is 200–250 words under the recorded word-count convention.
+**Provenance:** Original practice; no official PYQ claim. Each answer is 200–250 body-only words, excluding the question, subheading labels and displayed count.
 
 ### Model 1. Assess how space technology can improve education and agricultural services in Telangana without worsening inequality.
 
@@ -10,11 +10,11 @@
 
 **Agricultural application.** Multispectral and radar imagery help estimate crop acreage, monitor sowing, assess vegetation and identify water stress. FASAL illustrates the integration of satellite, weather and ground observations. Crop production still requires independently estimated yield; a vegetation index is not a substitute. Small plots and intercropping create classification errors.
 
-**Equity and accountability.** Tribal schools and dryland farmers may benefit most from improved reach but also face power, language and connectivity barriers. A map-based insurance decision should allow ground verification and appeal. Procurement must budget for maintenance, training and data access.
+**Equity and accountability.** Tribal schools and dryland farmers may benefit most from improved reach but also face power, language and connectivity barriers. A map-based insurance decision should allow ground verification and appeal. Procurement must budget for maintenance, training and data access. Implementation should be piloted across representative districts, with baseline learning assessments and grievance records disaggregated by gender, disability, language and farm size.
 
 **Conclusion.** Telangana should integrate space services with teachers, extension officers, local institutions and transparent evidence standards. Satellite reach becomes developmental value only when the last-mile user can act on accurate information.
 
-**Model-answer word count:** 207.
+**Model-answer body-only word count:** 218.
 
 ### Model 2. Explain the role and limitations of satellite remote sensing in flood preparedness and emergency response.
 
@@ -32,7 +32,7 @@
 
 **Conclusion.** Remote sensing is most valuable as one layer in an accountable decision system. Time stamps, uncertainty, local knowledge and field confirmation distinguish responsible use from overconfident map-based governance.
 
-**Model-answer word count:** 211.
+**Model-answer body-only word count:** 202.
 
 ### Model 3. Describe the four-stage cyclone warning system and analyse how satellite information becomes local disaster action.
 
@@ -48,7 +48,7 @@
 
 **Conclusion.** Effective cyclone resilience joins satellite monitoring with IMD forecasts, district planning and community response. It is the last-mile action, not the cloud image, that reduces mortality.
 
-**Model-answer word count:** 222.
+**Model-answer body-only word count:** 212.
 
 ### Model 4. Explain the Indian tsunami early-warning architecture and distinguish tsunamis from cyclone storm surges.
 
@@ -64,7 +64,7 @@
 
 **Conclusion.** A reliable tsunami warning system is an end-to-end public safety arrangement: sensors, analysis, advisories, communications and evacuation. Space links are essential enablers, not replacements for ocean science or local readiness.
 
-**Model-answer word count:** 213.
+**Model-answer body-only word count:** 204.
 
 ### Model 5. Evaluate the application of satellite data in urban planning and industrial disaster risk management with reference to Hyderabad.
 
@@ -76,11 +76,11 @@
 
 **Telangana example.** The NRSC–HYDRAA MoU signed in April 2025 proposes a Bhuvan-based integration of historical geospatial and field information for urban assets and disaster management. This is an institutional collaboration, not proof that all planned outcomes have been delivered.
 
-**Governance concerns.** Open standards, metadata, appeals and protection of sensitive household information reduce misuse. Informal settlements need safe alternatives when floodplain controls are implemented; displacement without rehabilitation can shift rather than reduce risk.
+**Governance concerns.** Open standards, metadata, appeals and protection of sensitive household information reduce misuse. Informal settlements need safe alternatives when floodplain controls are implemented; displacement without rehabilitation can shift rather than reduce risk. An independent audit should compare imagery with revenue records, engineering surveys and dated field photographs before enforcement, and provide a public correction and appeal process.
 
 **Conclusion.** Hyderabad should use space data to prioritise verification and investment, while preserving due process, public accountability and equitable risk reduction.
 
-**Model-answer word count:** 208.
+**Model-answer body-only word count:** 223.
 
 ### Model 6. Discuss the benefits, limitations and ethical safeguards of space-based disaster management in India.
 
@@ -96,5 +96,4 @@
 
 **Conclusion.** The correct objective is not maximum imagery but fewer preventable deaths and losses. A transparent sensing-to-action system, supported by community knowledge and independent review, is the defensible model.
 
-**Model-answer word count:** 216.
-
+**Model-answer body-only word count:** 208.
