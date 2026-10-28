@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/6-3-1-cycle74-direct-source-depth-mcq-and-mains-audit-2026-10-29.json",
-  "next_action": "Expand 38 shallow concepts, full independent 30-key/90-distractor and six mains claim audits, check original 1997 organiser records, validate 3 diagrams, render synchronized CI PDF and verify actual downloaded artifact, offline links and browser accessibility.",
+  "next_action": "38 shallow concepts; all 30 keys/90 distractors and six mains claims need independent audit. CI PDF/HTML/manifest published, but actual post-CI GitHub artifact not yet downloaded/verified; R8 IN_PROGRESS, no academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "metrics": {
@@ -69,8 +69,11 @@
     "diagrams_existing": 3,
     "original_pdf_pages": 24,
     "original_pdf_sha256": "a84ba74ea6ab0c48598d65b246694bce1b74f23faa53a114e4e239a02c17846e",
-    "new_integrated_pdf_rendered": false,
+    "new_integrated_pdf_rendered": true,
     "full_page_per_concept_met": false,
-    "independent_approvals": 0
-  }
+    "independent_approvals": 0,
+    "integrated_pdf_pages": 26,
+    "integrated_pdf_sha256": "70f609ec1e3db320d1be30111bc9551fc341c40efc66fa0564e8bc14fa12b5cc"
+  },
+  "publication_evidence": "project-control/academic-readiness/6-3-1-cycle74-ci-render-qa-2026-10-29.json"
 }
