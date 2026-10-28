@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 30,
+  "not_assessed_count": 29,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 38 ASSESSED_REBUILD_REQUIRED, 30 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 39 ASSESSED_REBUILD_REQUIRED, 29 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -129,9 +129,10 @@
     "5-1-5",
     "5-2-1",
     "5-2-2",
-    "5-2-3"
+    "5-2-3",
+    "5-2-4"
   ],
-  "last_readiness_update": "Cycle56 Topic 5-2-3 CI integrated 27-page PDF and actual downloaded packaging artifact 12798062580 independently verified: 1706 files, 75 originals unchanged, 439 links / 1137 fragments zero broken; R8 IN_PROGRESS, zero full R1-R8 and zero approvals.",
+  "last_readiness_update": "Cycle57 Topic 5-2-4 local 24-page integrated candidate; source corrections committed; GitHub CI PDF and actual downloaded artifact QA pending; 7 IN_PROGRESS,39 ASSESSED_REBUILD_REQUIRED,29 NOT_ASSESSED; 10 R1 PASS; zero R1-R8 ready and zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -146,6 +147,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json",
     "project-control/academic-readiness/5-2-2-cycle55-actual-downloaded-post-render-artifact-qa-2026-10-28.json",

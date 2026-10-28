@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-28",
+  "cycle": 57,
+  "topic_id": "5-2-4",
+  "source_main": "4c4eb8a0e9076a973a05b988ba2c61bac30e9811",
+  "original_pdf_sha256": "9d436dd18564d1cd49d494752127160b6781db794a3caf08e98f4bdb3e5b02f6",
+  "original_pdf_pages": 22,
+  "local_pdf_sha256": "4a2827b3f01b62f0935f629f3e6b7d54626d9e20c722785aeb7e4eae370b3ad3",
+  "local_pdf_pages": 24,
+  "local_pdf_images": 3,
+  "local_pdf_blank_pages": 0,
+  "local_pdf_out_of_page_text": 0,
+  "local_html_links_checked": 7,
+  "local_html_broken_links": 0,
+  "concepts": 18,
+  "concepts_expanded": [
+    6,
+    12,
+    14
+  ],
+  "concepts_under_300_after": 0,
+  "mcqs": 30,
+  "answer_distribution": {
+    "A": 7,
+    "B": 8,
+    "C": 8,
+    "D": 7
+  },
+  "mcq1_explanation_error_fixed": true,
+  "bounded_correct_key_checks": [
+    1,
+    5,
+    6,
+    12,
+    15,
+    24,
+    26
+  ],
+  "remaining_keys_unverified": 23,
+  "distractors_unverified": 90,
+  "mains_body_only_counts": [
+    223,
+    211,
+    205,
+    225,
+    208,
+    216
+  ],
+  "mains_claim_audit": "PENDING",
+  "diagram_accuracy_audit": "PENDING",
+  "direct_browser_accessibility": "PENDING",
+  "official_syllabus_reauthentication": "PENDING",
+  "github_ci_pdf": "PENDING",
+  "downloaded_post_edit_artifact": "PENDING",
+  "R8": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "source_urls": [
+    "https://www.who.int/news-room/fact-sheets/detail/Diarrhoeal-disease",
+    "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+    "https://www.emro.who.int/health-topics/dysentery/dysentery.html",
+    "https://www.cdc.gov/candida-auris/prevention/index.html",
+    "https://www.cdc.gov/candidiasis/risk-factors/"
+  ]
+}

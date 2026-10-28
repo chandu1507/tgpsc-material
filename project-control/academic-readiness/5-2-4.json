@@ -1,8 +1,8 @@
 {
   "topic_id": "5-2-4",
   "title": "Microbial Infections: Pathogens, Disease Patterns and Outbreak Prevention",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,54 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
+  "next_action": "Finish remaining 23 MCQ keys, all 90 distractors, six mains claim audits, three diagram checks, direct 2024 syllabus authentication and browser QA; publish synchronized CI PDF and verify downloaded GitHub artifact; R8 not PASS.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "direct_assessment": {
+    "cycle": 57,
+    "concepts": 18,
+    "concepts_under_300_before": 3,
+    "concepts_under_300_after_local": 0,
+    "expanded_concepts": [
+      6,
+      12,
+      14
+    ],
+    "mcqs": 30,
+    "answer_distribution": {
+      "A": 7,
+      "B": 8,
+      "C": 8,
+      "D": 7
+    },
+    "distractors": 90,
+    "mains_body_only_counts": [
+      223,
+      211,
+      205,
+      225,
+      208,
+      216
+    ],
+    "mcq_1_explanation_corrected": true,
+    "bounded_key_correspondences": 7,
+    "unverified_keys": 23,
+    "all_distractors_unverified": true,
+    "original_pdf_pages": 22,
+    "original_pdf_sha256": "9d436dd18564d1cd49d494752127160b6781db794a3caf08e98f4bdb3e5b02f6",
+    "local_integrated_pdf_pages": 24,
+    "local_integrated_pdf_sha256": "4a2827b3f01b62f0935f629f3e6b7d54626d9e20c722785aeb7e4eae370b3ad3",
+    "post_edit_github_artifact_verified": false,
+    "independent_academic_approvals": 0
+  }
 }

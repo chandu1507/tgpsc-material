@@ -14,9 +14,11 @@
 
 **Analytical caution:** Laboratory categories cannot be used as shortcuts for judging severity. An asymptomatic carrier may spread some infections, whereas an immune-compromised patient can become severely ill from a usually harmless organism. Public-health decisions therefore require both microbial identification and host assessment.
 
+**Programme design test:** A district laboratory plan should report specimen turnaround time, valid test results and referrals completed separately. Faster testing is valuable only when patients receive timely care and exposure controls actually change.
+
 **Conclusion:** Mechanism-based classification prevents inappropriate prescriptions and makes outbreak control more effective, equitable and measurable.
 
-*Model answer word count: 206.*
+*Body-only word count requires a fresh recount; historical total included headings.*
 
 ### M2. Discuss the prevention and management of diarrhoea, dysentery and cholera in a Telangana municipality.
 

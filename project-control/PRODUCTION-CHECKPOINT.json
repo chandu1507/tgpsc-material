@@ -676,9 +676,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original full manuscript, 30 explained MCQs and six structured mains models; independent academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle57_source_expansion_local_integrated_pdf_pending_github_ci",
+      "notes": "Original full manuscript, 30 explained MCQs and six structured mains models; independent academic audit pending. Cycle57: three shallow concepts expanded, MCQ1 wrong distractor explanation corrected, mains M1 body-only expanded, 23-source register, local 24-page PDF; no full MCQ or independent academic approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-4.json"
     },
     {

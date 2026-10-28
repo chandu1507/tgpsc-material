@@ -7,7 +7,7 @@ B. *Plasmodium*—protozoan
 C. HIV—bacterium
 D. *Vibrio cholerae*—fungus
 
-**Answer: B.** *Plasmodium* is a protozoan parasite; the others are respectively a virus, bacterium and fungus.
+**Answer: B.** *Plasmodium* is a protozoan parasite. The three distractor organisms are misclassified: *Candida* is a fungus (not a virus), HIV is a virus (not a bacterium), and *Vibrio cholerae* is a bacterium (not a fungus).
 
 **Q2. Which best describes colonisation?**
 A. A compulsory symptom of viral disease
