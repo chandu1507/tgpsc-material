@@ -68,7 +68,7 @@ B. Five years
 C. Fifteen years
 D. Thirty years
 
-**Answer: C.** The Supreme Court’s 1978 discussion describes a fifteen-year residence condition. Exact eligibility must still be read with the full period-specific rule and certification provisions.
+**Answer: C.** The Supreme Court’s 3 October 1972 judgment in *V. Venkata Reddy* reproduces Rule 3: the residence-based route required at least fifteen years of permanent residence plus the specified intention and affidavit. Other historical routes appeared in Rule 1, and constitutional adjustments followed in 1950. [S07]
 
 
 **MCQ 8. A Mulki was best understood as:**
