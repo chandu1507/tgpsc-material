@@ -17,7 +17,7 @@
   "manuscript_words": 11806,
   "files": {
     "README.md": "47b032b20c79dd5818cc72d6361f5166f2e795e0916e26489c9804bb13b8a016",
-    "QA-REPORT.md": "a31037285586bd87c5e3c56c1867bd8bae7c2e12e6089d1ea78a10e5fe794e46",
+    "QA-REPORT.md": "3f5d664a144da7702e94b249728143dc9878193d0d261a20e9a93fb653dcb6c1",
     "complete-notes.pdf": "5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592",
     "index.html": "2a3b90d7a2192b81d08cb5df68380ff21f1176ed3f1fd637241e2e28cdb930ba",
     "diagrams/01-food-safety-haccp.png": "db94dc3258474634a572d1c51db82dc09f9bdac0a53cc99af5a8027b7241e6dd",
@@ -26,7 +26,7 @@
     "source/syllabus-and-summary.md": "698eb875b6d37a146b1c0880f2019a183e9db539681cdf8191ba7b0b54b2a4c7",
     "source/complete-notes.md": "8c26ef891b9e1bd8d347ce31d2066f9c2756f835ff980f8ba86a4aaf78c86a74",
     "source/verified-pyqs.md": "f2092116a74b705cb93528fedbd7dcaa6ea34b2537c1ec15fab4a6b5c5ec0e50",
-    "source/integrated-student-edition-cycle56.pdf": "f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656",
+    "source/integrated-student-edition-cycle56.pdf": "eed80035f4a564a9465a31c944e826410861c98f90f234eed1a1151f5e5432fb",
     "source/visual-learning.md": "b1816ab1161b961bfd93a4a4ca9540003fa756141604faab4c10437a6bdbb817",
     "source/answer-blueprints.md": "ac2dda7e31b6989e547e8802754ef221531d88fec1ea878c8dc1d0656a738732",
     "source/mains-model-answers.md": "3e43266a2181e57f9641f1e4bad73d7c872b8edd4557d9cf2c2afd122ad63230",
@@ -38,15 +38,15 @@
   "syllabus_source_limitation": "Inherited direct 2024 syllabus assertion not reauthenticated this cycle; R1 IN_PROGRESS",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
   "integrated_pdf_pages": 27,
-  "integrated_pdf_sha256": "f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656",
+  "integrated_pdf_sha256": "eed80035f4a564a9465a31c944e826410861c98f90f234eed1a1151f5e5432fb",
   "metrics": {
     "mains_answer_word_counts": [
-      223,
-      227,
-      231,
+      217,
       221,
-      229,
-      214
+      225,
+      215,
+      223,
+      208
     ],
     "mains_count_method": "body-only, excluding question and subheading labels",
     "concepts_below_300": 0,
