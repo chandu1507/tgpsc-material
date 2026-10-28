@@ -1,5 +1,7 @@
-# Energy Resources: Indian Demand, Conventional and Renewable Sources, Energy Security and Biofuels
+# Paper V / Unit I / Topic 5 — Energy Resources and Security
 
-Paper V / Unit I / Topic 5. Published learning draft, not academically approved.
-
-Open `index.html` for offline reading, `complete-notes.pdf` for the complete PDF, and `source/complete-notes.md` for editable text. All 30 MCQs and six mains questions are original practice. The three PNG diagrams are original. No official PYQs are claimed.
+Original 27-page PDF preserved (SHA256 37979c47cdc2f4e1593aa5664df10bec3ef8446890fa762385c22154da4e2ecf).
+Cycle54 editable master, offline HTML and integrated PDF synchronized through deterministic CI.
+16 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.
+Five bounded correct-key correspondences only; no full independent MCQ, mains, diagram, syllabus or browser audit.
+Zero academic approvals. No official PYQs authenticated.

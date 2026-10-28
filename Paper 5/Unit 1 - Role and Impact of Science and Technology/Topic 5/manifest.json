@@ -3,7 +3,7 @@
   "title": "Energy Resources: Indian Demand, Conventional and Renewable Sources, Energy Security and Biofuels",
   "generated_date": "2026-10-24",
   "academic_status": "not_approved",
-  "official_syllabus_authenticated": true,
+  "official_syllabus_authenticated": false,
   "metrics": {
     "words": 12798,
     "pdf_pages": 27,
@@ -11,33 +11,47 @@
     "mcqs": 30,
     "mains": 6,
     "mains_answer_word_counts": [
+      220,
+      222,
       227,
-      230,
-      236,
-      235,
-      229,
-      229
+      224,
+      220,
+      219
     ],
     "diagrams": 3,
-    "source_register": 24,
-    "academic_approvals": 0
+    "source_register": 25,
+    "academic_approvals": 0,
+    "mains_count_method": "body-only, excluding question and subheading labels",
+    "concepts_below_300": 0,
+    "correct_answer_distribution": {
+      "A": 11,
+      "B": 15,
+      "C": 2,
+      "D": 2
+    }
   },
   "files": {
-    "README.md": "b9b34a40c5a5c7f78da38c27076f253768af9ab09bfeff91ab8c20b843831cb7",
+    "QA-REPORT.md": "584870e6f66d0a7009ded9d91b9fbbc8ad52e8da9b6b103ad837a0ba5119ee3b",
+    "README.md": "48590959b656f7b3c7a944b9ff6912f9033176c184528682a5098a4c547f0b59",
+    "index.html": "f6e181b1845ef950090b6199869128259711a70738e5eb268050205fe4ea410c",
     "complete-notes.pdf": "37979c47cdc2f4e1593aa5664df10bec3ef8446890fa762385c22154da4e2ecf",
-    "diagrams/01-energy-from-resource-to-service.png": "c8ceeeebf2fb08631258b37c511cac32eb793f6b040f4f2f42dbe0878e793d70",
-    "diagrams/02-grid-reliability-portfolio.png": "4ae7cc5a93234f7fc94453017f99575292704a7aa29b502bc5c499f5d047ce8b",
     "diagrams/03-biofuel-lifecycle.png": "97d130009528201b5434a1fdde493459eb794b0d09a6e7e92f94dbee46bf3213",
-    "index.html": "04a3b3c83ef726d2e9f3124cd50e6dab67917f23c829ce1da29b0259a539a1ae",
-    "source/answer-blueprints.md": "eba4306c9383d0138c0dfc08490e0aa52e74d4d6086c37884162c9d50cad834c",
-    "source/complete-notes.md": "b50cb49cad0849403d16f8dff9f3c21b9be0090f95716823f17f6b8fd860cdd1",
-    "source/core.md": "d1fb98b62ac625dac0359f83a709d06593883e01752fb6b62231f7c7989d4a9d",
-    "source/mains-model-answers.md": "beb78e648ee8af22769caa62e119e8fbd9d0b091f383aa63f105b76d419dd706",
-    "source/original-mcqs.md": "97a3f60fbfaf36a44036141506511c223d9aa4d2c4f785134e18583dc99838a6",
-    "source/quick-revision.md": "3a2c501623091c0519825699772b863c772efe7f9d12c4c85619c99bf630c93a",
-    "source/sources-and-audit.md": "eb50c757aad7542ff3e500cefa8a89f19251aa4c4dfb426cf109ebdd229bcd76",
+    "diagrams/02-grid-reliability-portfolio.png": "4ae7cc5a93234f7fc94453017f99575292704a7aa29b502bc5c499f5d047ce8b",
+    "diagrams/01-energy-from-resource-to-service.png": "c8ceeeebf2fb08631258b37c511cac32eb793f6b040f4f2f42dbe0878e793d70",
+    "source/integrated-student-edition-cycle54.pdf": "30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68",
     "source/syllabus-and-summary.md": "5ae34896f89d52561713c9fa46ae80cb7f9dc0ba4f81b3faaf2e91679c391538",
+    "source/answer-blueprints.md": "eba4306c9383d0138c0dfc08490e0aa52e74d4d6086c37884162c9d50cad834c",
+    "source/quick-revision.md": "3a2c501623091c0519825699772b863c772efe7f9d12c4c85619c99bf630c93a",
+    "source/sources-and-audit.md": "242ebba02807865e4a4dfba269e7175df59b7b35e525fb5382cd5434711e6a6a",
+    "source/mains-model-answers.md": "beb78e648ee8af22769caa62e119e8fbd9d0b091f383aa63f105b76d419dd706",
+    "source/visual-learning.md": "6ad7e2a8725360241f0875ec45888021dd2636376cb853ca4c8a7d5afbbde131",
+    "source/core.md": "d1fb98b62ac625dac0359f83a709d06593883e01752fb6b62231f7c7989d4a9d",
     "source/verified-pyqs.md": "717760c6ea50c49e10fbc95aa612d43b092d8d0e695829ed009ac079e6ad58a5",
-    "source/visual-learning.md": "6ad7e2a8725360241f0875ec45888021dd2636376cb853ca4c8a7d5afbbde131"
-  }
+    "source/complete-notes.md": "733b75a760a142e39acaea7411f79269eb4a7198b30835bf414cd7a8895e0bd4",
+    "source/original-mcqs.md": "9ff3e4c809aea3420f63cd224cf256c8f69a8701afee7c7bf452112a5fd991dc"
+  },
+  "syllabus_source_limitation": "Inherited direct 2024 syllabus assertion not reauthenticated this cycle; R1 IN_PROGRESS",
+  "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
+  "integrated_pdf_pages": 27,
+  "integrated_pdf_sha256": "30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68"
 }
