@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-29",
+  "cycle": 68,
+  "topic_id": "6-1-5",
+  "github_run_id": 40748716942,
+  "artifact_id": 12842482217,
+  "downloaded_and_independently_inspected": true,
+  "github_digest": "sha256:734bc2370ab485abb6d8f9fadc91e37a48459e0e5d034d19f9d1897fd7e529e7",
+  "downloaded_archive_sha256": "734bc2370ab485abb6d8f9fadc91e37a48459e0e5d034d19f9d1897fd7e529e7",
+  "github_digest_match": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "packaged_files": 1786,
+  "original_topic_pdfs": 75,
+  "original_pdf_hashes_equal_cycle67": true,
+  "readiness_json_count": 75,
+  "html_pages": 78,
+  "local_links_checked": 452,
+  "broken_local_links": 0,
+  "dom_fragments_checked": 1050,
+  "broken_dom_fragments": 0,
+  "spa_routes_excluded": 53,
+  "per_topic_6_1_5_status": "ASSESSED_REBUILD_REQUIRED",
+  "checkpoint_status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 50,
+    "NOT_ASSESSED": 18
+  },
+  "index_agrees": true,
+  "independent_academic_approvals": 0,
+  "original_6_1_5_pdf_sha256": "bd6e665d29ba202dee74095447fbb01114a0261c5a7a98b0deec9a1bef3ff354",
+  "integrated_6_1_5_pdf_rendered": false,
+  "qa_pass": true,
+  "qa_limitations": [
+    "Static file and DOM-fragment link integrity does not establish browser usability or accessibility",
+    "No R1-R8 academic gate promoted to PASS",
+    "This evidence-only commit is subsequent to the verified packaging artifact and is not itself in that artifact"
+  ]
+}
