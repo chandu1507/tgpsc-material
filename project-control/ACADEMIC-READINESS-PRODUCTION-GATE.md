@@ -1,3 +1,9 @@
+
+
+## Cycle50 Topic 5-1-2 direct evidence assessment — 28 October 2026
+
+Exactly **75 original topics**: **7 IN_PROGRESS**, **32 ASSESSED_REBUILD_REQUIRED**, **36 NOT_ASSESSED**; **10 R1 PASS**, **ZERO R1–R8 ready**, **ZERO independent academic approvals**. Topic **5-1-2** original 23-page PDF preserved. Direct editable-source count: **16 concepts, 7 below 300 body words (2/3/4/5/13/15/16)**, **30 original four-option MCQs (A12/B13/C3/D2; 90 distractors)**, **six mains answers 222/232/227/218/226/230 body words** (headings excluded), three inherited diagrams. DST official primary-source bounded key correspondences for MCQ5/8/9/10/11; **25 other keys and ALL 90 distractors not independently checked**, mains claims and diagrams pending. Direct 2024 syllabus PDF not retrieved, **R1 IN_PROGRESS**, R3 IN_PROGRESS, R5/R7/R8 BLOCKED, R9 NOT_STARTED. **No new PDF rendered, no academic approval.** Evidence: `project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json`.
+
 # TGPSC Group I — Academic Readiness Production Gate
 
 ## Cycle49 Topic 5-1-1 first direct artifact and bounded-source assessment — 28 October 2026
