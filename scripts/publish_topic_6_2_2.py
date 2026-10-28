@@ -53,7 +53,7 @@ for m in re.finditer(r'^### Model answer (\d+)\.',answers,re.M):
 assert len(body_counts)==6 and all(200<=n<=250 for n in body_counts),body_counts
 assert len(list((root/'diagrams').glob('*.png')))==3
 pdf=src/'integrated-student-edition-cycle70.pdf'
-subprocess.run([sys.executable,'scripts/render_topic_6_2_1_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
+subprocess.run([sys.executable,'scripts/render_topic_6_2_2_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
 doc=fitz.open(pdf)
 blank=[i+1 for i,p in enumerate(doc) if len(p.get_text().strip())<60]
 images=sum(len(p.get_images()) for p in doc)
