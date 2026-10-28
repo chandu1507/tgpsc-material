@@ -942,19 +942,19 @@
   "next_sequential_topic": null,
   "next_new_topic": null,
   "latest_verified_publication": {
-    "topic_id": "5-1-4",
+    "topic_id": "5-3-2",
     "date": "2026-10-28",
     "publication_status": "actual_github_artifact_integrity_verified_not_academic_approval",
     "academic_status": "not_approved",
     "published_pdf_pairs": 75,
     "html_slots": 75,
-    "publication_commit": "da37eb8aaff487b015e35265db8c062c82de9657",
-    "packaging_run_id": 40623895892,
-    "artifact_id": 12788750996,
-    "unique_archive_entries": 1681,
+    "publication_commit": "091be2c78d0656af5f13dde5f8123686ed269e1e",
+    "packaging_run_id": 40676341641,
+    "artifact_id": 12811390092,
+    "unique_archive_entries": 1732,
+    "artifact_sha256": "38efee5a650788470cb6945e1ac814aefe8596502b0e0510b4964925e15a9ea7",
+    "qa_evidence": "project-control/academic-readiness/5-3-2-cycle60-actual-downloaded-post-ci-artifact-qa-2026-10-28.json",
     "independent_live_browser_status": "unverified",
-    "artifact_sha256": "1fb26b44d2cf52f6b7f05fb6d0e3e2c40b02a54d6dcba96c696c7fa7af49c974",
-    "qa_evidence": "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "academic_approval": 0
   },
   "latest_quality_repair": {
@@ -1020,10 +1020,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle60: 75 originals; 7 IN_PROGRESS / 42 ASSESSED_REBUILD_REQUIRED / 26 NOT_ASSESSED. Last downloaded and digest-matched package Cycle59 run 40668126951 artifact 12806831721; Cycle60 corrected PDF GitHub publication pending.",
+    "note": "Cycle60 post-CI artifact 12811390092 ACTUALLY DOWNLOADED: SHA256 38efee5a650788470cb6945e1ac814aefe8596502b0e0510b4964925e15a9ea7, CRC PASS, 75 originals preserved, 75 readiness JSON, 444 file links and 1137 fragments zero broken. Counts 7/42/26; 0 approvals.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40668126951,
-    "last_verified_package_artifact": 12806831721,
+    "last_verified_package_run": 40676341641,
+    "last_verified_package_artifact": 12811390092,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1090,7 +1090,7 @@
     "last_assessed": "5-3-2",
     "evidence": "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json"
   },
-  "last_readiness_update": "Cycle60 5-3-2 strict Simpson and MCQ30 correction, internal 30-key/90-distractor review, local 22p integrated PDF; GitHub CI pending.",
+  "last_readiness_update": "Cycle60 Topic 5-3-2 corrected and CI-published: actual post-CI artifact 12811390092 downloaded; 1732 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 444 local links and 1137 fragments zero broken, outer/inner CRC PASS, 18/18 topic manifest hashes PASS. 0 academic approvals.",
   "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 42 ASSESSED_REBUILD_REQUIRED, 26 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1099,7 +1099,7 @@
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-3-2-cycle60-actual-downloaded-post-ci-artifact-qa-2026-10-28.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
