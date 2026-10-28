@@ -77,12 +77,12 @@ C. That advisory structures exist
 D. That every tribal-populated village is a notified Scheduled Area
 **Answer: D.** Scheduled Area status depends on notification, not demographic shorthand.
 
-**Q12. The 1970 amendment in this syllabus is associated primarily with which regime?**
-A. Scheduled Areas Land Transfer Regulation
-B. Government of India Act 1935
-C. Six-Point Formula
-D. PESA Rules 2008
-**Answer: A.** The amendment strengthened restrictions on Scheduled Area transfers.
+**Q12. Which statement correctly describes the 1959 Scheduled Areas Land Transfer Regulation in Telangana after the Supreme Court’s 1995 *Venkata Ramanaiah* decision?**
+A. The regime was extended to the Telangana Scheduled Areas effective 1 December 1963, and the 1959/1963/1970 regulations do not automatically invalidate completed pre-commencement transfers
+B. Every land transfer anywhere in Telangana became retrospectively void from 4 March 1959
+C. The 1970 amendment abolished all protections for Scheduled Tribe landholders
+D. The 1996 PESA Act retrospectively validated all prohibited land transfers
+**Answer: A.** The Supreme Court distinguished commencement dates and held the regulations prospective. The result does not validate fraud or transfers independently prohibited by another applicable law; see the 18 September 1995 Supreme Court judgment, pp. 6–15.
 
 **Q13. Which Supreme Court case is a landmark for mining leases in Scheduled Areas?**
 A. P. Sambamurthy v. Andhra Pradesh
