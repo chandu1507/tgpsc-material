@@ -11,33 +11,42 @@
     "mcqs": 30,
     "mains": 6,
     "mains_answer_word_counts": [
-      207,
-      211,
-      222,
-      213,
-      208,
-      216
+      218,
+      202,
+      212,
+      204,
+      223,
+      208
     ],
     "diagrams": 3,
     "source_register": 24,
-    "academic_approvals": 0
+    "academic_approvals": 0,
+    "mains_count_method": "body-only, excluding question, subheading labels and count line",
+    "concepts_below_300": 0
   },
   "files": {
-    "README.md": "739a3c3642e94382109a425bc8b8ee7fa146414a2bb9b4ce55a0c97cdb7f0363",
+    "README.md": "b4ade0033e544906c1d07edd5f8f919e6a6682b53edf88ac67de2fbc0f24576d",
     "complete-notes.pdf": "767cc8cad529ab3599032a8f17ff91c84be2271f958e2ea4069a3deda78c9524",
     "diagrams/01-space-to-action.png": "c561fff288bcc54caff83482fc112c58ed39ab6ee27db8fa3f54205cafd56afe",
     "diagrams/02-flood-risk-workflow.png": "b5e82231ad926918a333a8f35b023f0698ec4cb8d71bbd6e97eb0e19d8f0e0e1",
     "diagrams/03-tsunami-warning-chain.png": "2fc9d904f2e907603d35a08dfb661e659c89f7b1ea9136a5a569bd37b50567a6",
-    "index.html": "7ff869296ae09d372a4ced9cf0db658849c9b255e8bb8dbbebdda17613d77e15",
+    "index.html": "0d602de61c6e667076dbfb32730daa258bb1cc873d2ead0173181d6a59af8501",
     "source/answer-blueprints.md": "9ccfcf3ebaec12c65276957f728b06dfc44b8c1c01d4c9cc38d6048ca2ede44e",
-    "source/complete-notes.md": "2aaf3bfb75ecf68740e1896b5678492821423a687ce950250884e91dbf2f1c7a",
+    "source/complete-notes.md": "b5bb7b81e6219d4835f5b704c7cf3d0748e0926c9e2dcd79aa839a50b73ed062",
     "source/core.md": "77d7aab3f987c44246e0d014fcd9192bf514891dcfae96a5e2784a839bf8a568",
-    "source/mains-model-answers.md": "8bfa0cbfe791a62a201a827a5c2b9509931753c3d9ee4213c0877c3c028b4ebb",
+    "source/mains-model-answers.md": "b06d362be4bc06841366c010bbb9fa4a2c33e56a96e86a26a868dd4963fe7370",
     "source/original-mcqs.md": "0bcacabacd7f5d92955903772a2aef35264281f17dc79622b96ea0f1e50e549c",
     "source/quick-revision.md": "f6f4cdc1e862b77820438ee6e232c1f6510784005a9b3cfcf851e3a84230234d",
-    "source/sources-and-audit.md": "8587d753779b6ca575fa4e3094d6dd3256f16a20c1748292cfd40a084f3884f6",
+    "source/sources-and-audit.md": "b4cd5313430dc2f242857712d8074c284b26d1d430e8735b40cf5a24c86b5dc8",
     "source/syllabus-and-summary.md": "38b717420a431bb6264d7aee5fad763377deb3d521bfd16ed7a5cc3d0ab77195",
     "source/verified-pyqs.md": "4950e2d783205fd5a0b487e253d32b21a8bca82ad976575ba58645c4d20d7c2e",
-    "source/visual-learning.md": "ea2929013b15b455b6b876b4d1d73366e24711e17b7aede2d0bab4ed5482cda7"
-  }
+    "source/visual-learning.md": "ea2929013b15b455b6b876b4d1d73366e24711e17b7aede2d0bab4ed5482cda7",
+    "QA-REPORT.md": "1f452709374ce4541cf79b0acbc9bf3b07466ff95d06665a9a8c7af32f9a40e2",
+    "source/integrated-student-edition-cycle52.pdf": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41"
+  },
+  "official_syllabus_reauthenticated_cycle52": false,
+  "syllabus_source_limitation": "Commission PDF direct retrieval returned HTTP 403; R1 IN_PROGRESS",
+  "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
+  "integrated_pdf_pages": 26,
+  "integrated_pdf_sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41"
 }
