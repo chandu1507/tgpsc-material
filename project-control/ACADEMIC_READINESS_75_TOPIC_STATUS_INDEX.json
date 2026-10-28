@@ -13,7 +13,7 @@
   "not_assessed_count": 12,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 56 ASSESSED_REBUILD_REQUIRED / 12 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle74 6-3-1 source-critical partial depth repair and assessment; integrated CI PDF and actual post-edit artifact NOT verified.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 56 ASSESSED_REBUILD_REQUIRED / 12 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle74 6-3-1 integrated 26-page CI PDF published; post-CI actual downloaded GitHub artifact pending; R8 IN_PROGRESS.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -149,7 +149,7 @@
     "6-2-5",
     "6-3-1"
   ],
-  "last_readiness_update": "Cycle74 6-3-1: 41 concepts, 3 substantive expansions, 38 remain under300; 30 original practice MCQs, 3 rewritten, six mains body-only 201/209/213/203/207/203; original PDF unchanged; 7/56/12; no new CI PDF/artifact.",
+  "last_readiness_update": "Cycle74 6-3-1: 41 concepts, 3 substantive expansions, 38 still under300; 30 original MCQs, three rewritten, six mains 201/209/213/203/207/203; CI 26-page PDF sha 70f609ec1e3db320d1be30111bc9551fc341c40efc66fa0564e8bc14fa12b5cc, actual artifact pending; 7/56/12.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
