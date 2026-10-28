@@ -1,16 +1,4 @@
-# Tabular and Diagrammatic Data, Probability, Logical Reasoning and Mental Ability
+# Paper V / Unit III / Topic 2 — Tabular Data, Probability and Reasoning
 
-TGPSC Group I | Paper V | Unit III | Topic 2. Independent study draft, **NOT academically approved**.
-
-- [Complete printable PDF](complete-notes.pdf)
-- [Offline chapter](index.html)
-- [Editable full manuscript](source/complete-notes.md)
-- [Standalone quick revision](source/quick-revision.md)
-- [30 explained original MCQs](source/original-mcqs.md)
-- [Six complete mains models](source/mains-model-answers.md)
-- [Answer blueprints](source/answer-blueprints.md)
-- [Original diagrams](source/visual-learning.md)
-- [Dated source register](source/sources-and-audit.md)
-- [Official PYQ provenance](source/verified-pyqs.md)
-
-All practice data is illustrative unless a source and date are explicitly identified.
+Original 22-page PDF preserved (SHA256 3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5).
+Cycle60 editable master, offline HTML and integrated PDF synchronized through CI. 18 concepts (all at least 300 words), 30 original explained practice MCQs, six 200–250 body-word mains, three original diagrams. Strict Simpson reversal example and applied MCQ30 corrected. All keys and distractors internally recomputed; no named independent expert approval. Original 2024 commission syllabus not reauthenticated this cycle. R1–R8 not fully passed.
