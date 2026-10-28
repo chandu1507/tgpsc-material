@@ -824,8 +824,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle69_partial_substantive_rebuild_pdf_pending",
-      "notes": "29 Oct Cycle69: 33 initial shallow concepts, 7 substantively expanded, 26 still shallow; original 28-page PDF preserved SHA256 157348db5f5ec70c834a8fac5677d09c550ee1b551d458a3fb63a1837bb9d93f. No new integrated PDF; 30 MCQs and six mains pending claim-level review; R8 BLOCKED, approval zero.",
+      "production_review": "cycle69_integrated_28page_ci_pdf_published_artifact_verified_academic_rebuild_required",
+      "notes": "29 Oct Cycle69: 7/33 concepts substantively expanded; 26 remain shallow. Original 28-page PDF SHA256 157348db5f5ec70c834a8fac5677d09c550ee1b551d458a3fb63a1837bb9d93f preserved; new 28-page CI PDF SHA256 c4f442ea3978a7ac271ea1d4a303d607d4444e0f290870fc3e4331921711de18 synchronized with editable master. Actual downloaded artifact 12847353235 integrity PASS. MCQ/mains/source/browser audits incomplete; R8 IN_PROGRESS; approvals zero.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-2-1.json"
     },
@@ -946,18 +946,17 @@
   "next_sequential_topic": null,
   "next_new_topic": null,
   "latest_verified_publication": {
-    "topic_id": "5-3-3",
-    "date": "2026-10-28",
+    "topic_id": "6-2-1",
+    "date": "2026-10-29",
     "publication_status": "actual_github_artifact_integrity_verified_not_academic_approval",
     "academic_status": "not_approved",
     "published_pdf_pairs": 75,
     "html_slots": 75,
-    "publication_commit": "276b8896c033aab0318ac49d6a8e380bbd643dd2",
-    "packaging_run_id": 40684747238,
-    "artifact_id": 12813918790,
-    "unique_archive_entries": 1742,
-    "artifact_sha256": "8bcca940459a8b7f1d42f164d41b713393737163e59a969c053c74251fda9405",
-    "qa_evidence": "project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json",
+    "packaging_run_id": 40760089345,
+    "artifact_id": 12847353235,
+    "unique_archive_entries": 1794,
+    "artifact_sha256": "3c63db5e8409658b9c76645d06e49084ce878cb258b534277b8f4b4b04273721",
+    "qa_evidence": "project-control/academic-readiness/6-2-1-cycle69-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "independent_live_browser_status": "unverified",
     "academic_approval": 0
   },
@@ -1024,10 +1023,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle69 6-2-1 partial source rebuild, original PDF preserved, new PDF pending; 7/51/17; zero approvals.",
+    "note": "Cycle69 Topic 6-2-1 28-page CI PDF synchronized; downloaded post-CI artifact CRC/hash/75 originals/links verified; 7/51/17, R8 IN_PROGRESS, zero approvals.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40740078431,
-    "last_verified_package_artifact": 12839271314,
+    "last_verified_package_run": 40760089345,
+    "last_verified_package_artifact": 12847353235,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1101,9 +1100,9 @@
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "6-2-1",
-    "evidence": "project-control/academic-readiness/6-2-1-cycle69-direct-depth-and-bounded-primary-source-audit-2026-10-29.json"
+    "evidence": "project-control/academic-readiness/6-2-1-cycle69-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
   },
-  "last_readiness_update": "2026-10-29 Cycle69 Topic 6-2-1 source audit and partial expansion, PDF not yet synchronized; R8 BLOCKED, approvals zero",
+  "last_readiness_update": "2026-10-29 Cycle69 Topic 6-2-1 28-page CI PDF actual GitHub artifact 12847353235 downloaded/verified; 26 shallow concepts remain; R8 IN_PROGRESS, approvals zero.",
   "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 51 ASSESSED_REBUILD_REQUIRED, 17 NOT_ASSESSED; 12 historical verified R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1112,7 +1111,7 @@
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/6-2-1-cycle69-direct-depth-and-bounded-primary-source-audit-2026-10-29.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/6-2-1-cycle69-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1133,5 +1132,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "2026-10-29 Cycle69 Topic 6-2-1 source audit and partial expansion, PDF not yet synchronized; R8 BLOCKED, approvals zero"
+  "latest_readiness_update": "2026-10-29 Cycle69 Topic 6-2-1 28-page CI PDF actual GitHub artifact 12847353235 downloaded/verified; 26 shallow concepts remain; R8 IN_PROGRESS, approvals zero."
 }

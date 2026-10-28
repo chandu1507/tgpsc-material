@@ -23,11 +23,11 @@
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
-    "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle69 direct 6-2-1 audit: 33/33 initially shallow, 7 substantively expanded, 26 remain shallow; 30 MCQs A5/B16/C8/D1 and six mains body-only 214/218/210/207/209/203; original 28-page PDF preserved; limited MHA indexed correspondence only; no new integrated PDF; R8 BLOCKED; zero approvals.",
-  "next_action": "Expand 26 shallow concepts, verify all MCQ keys/distractors and mains claims, obtain original primary instruments, implement deterministic integrated PDF CI and download-test publication.",
+  "evidence": "Cycle69: 33 concepts, 7 expanded/26 still shallow, 30 original MCQs, six mains 214/218/210/207/209/203; integrated 28-page CI PDF SHA256 c4f442ea3978a7ac271ea1d4a303d607d4444e0f290870fc3e4331921711de18; actual downloaded artifact 12847353235 CRC/75 originals/links/manifest PASS; R8 IN_PROGRESS, approvals zero.",
+  "next_action": "Expand remaining 26 concepts, verify all 30 MCQ keys and 90 distractors, claim-level review all six mains, retrieve signed instruments, full-resolution diagram and browser accessibility review; R8 cannot PASS yet.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle69": {
@@ -260,11 +260,15 @@
       "direct Group I 2024 syllabus"
     ],
     "official_pyqs_verified": 0,
-    "new_integrated_pdf_rendered": false,
-    "post_edit_actions_artifact_verified": false,
+    "new_integrated_pdf_rendered": true,
+    "post_edit_actions_artifact_verified": true,
     "full_page_density_met": false,
     "independent_approvals": 0,
-    "R8": "BLOCKED",
-    "R9": "NOT_STARTED"
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "integrated_pdf_sha256": "c4f442ea3978a7ac271ea1d4a303d607d4444e0f290870fc3e4331921711de18",
+    "integrated_pdf_pages": 28,
+    "artifact_id": 12847353235,
+    "artifact_sha256": "3c63db5e8409658b9c76645d06e49084ce878cb258b534277b8f4b4b04273721"
   }
 }

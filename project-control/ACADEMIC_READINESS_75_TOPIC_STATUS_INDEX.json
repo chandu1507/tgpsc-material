@@ -13,7 +13,7 @@
   "not_assessed_count": 17,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS / 51 ASSESSED_REBUILD_REQUIRED / 17 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready or independently approved.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 51 ASSESSED_REBUILD_REQUIRED / 17 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle69 publication integrity PASS is NOT academic approval.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -144,7 +144,7 @@
     "6-1-5",
     "6-2-1"
   ],
-  "last_readiness_update": "2026-10-29 Cycle69 6-2-1 partial substantive source rebuild: 7 expanded, 26 shallow; PDF synchronization pending, R8 BLOCKED.",
+  "last_readiness_update": "2026-10-29 Cycle69 Topic 6-2-1: 7 source-bounded expansions, CI synchronized 28-page PDF, actual GitHub artifact downloaded and integrity verified; 26 concepts shallow, R8 IN_PROGRESS, approvals zero.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -161,6 +161,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-2-1-cycle69-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-2-1-cycle69-direct-depth-and-bounded-primary-source-audit-2026-10-29.json",
     "project-control/academic-readiness/6-1-5-cycle68-direct-depth-mcq-mains-and-archive-audit-2026-10-29.json",
     "project-control/academic-readiness/6-1-4-cycle67-actual-downloaded-post-assessment-artifact-qa-2026-10-28.json",
@@ -190,7 +191,6 @@
     "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json",
     "project-control/academic-readiness/5-1-3-cycle51-direct-artifact-depth-and-isro-source-correspondence-2026-10-28.json",
-    "project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json",
-    "project-control/academic-readiness/5-1-1-cycle49-direct-artifact-and-bounded-primary-source-audit-2026-10-28.json"
+    "project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json"
   ]
 }
