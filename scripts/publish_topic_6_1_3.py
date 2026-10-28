@@ -27,20 +27,20 @@ concepts=[x for x in concepts if 1<=int(x[0])<=24]
 assert len(concepts)==24 and [int(x[0]) for x in concepts]==list(range(1,25))
 counts=[word(body) for _,_,body in concepts]
 assert min(counts)>=300,counts
-mcqs=re.findall(r'(?ms)^### MCQ (\d+)\. ([^\n]+)\n(.*?)(?=^### MCQ \d+\. |^## 27\.|\Z)',md)
+mcqs=re.findall(r'(?ms)^### MCQ (\d+)\. ([^\n]+)\n(.*?)(?=^### MCQ \d+\. |^## Six complete|\Z)',md)
 assert len(mcqs)==30,len(mcqs)
 keys=[]
 for n,q,body in mcqs:
     assert int(n)==len(keys)+1
-    assert len(re.findall(r'(?m)^[ABCD]\. ',body))==4,(n,body[:100])
-    m=re.search(r'\*\*Answer: ([ABCD])\.',body)
+    assert len(re.findall(r'(?m)^\*\*[ABCD]\.\*\* ',body))==4,(n,body[:100])
+    m=re.search(r'\*\*Correct: ([ABCD])\.',body)
     assert m,n
     keys.append(m.group(1))
-mains=re.findall(r'(?m)^### Mains model (\d+):',md)
+mains=re.findall(r'(?m)^### Model (\d+)\.',md)
 assert mains==['1','2','3','4','5','6'],mains
 assert len(list((root/'diagrams').glob('*.png')))==3
 pdf=src/'integrated-student-edition-cycle66.pdf'
-subprocess.run([sys.executable,'scripts/render_topic_6_1_2_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
+subprocess.run([sys.executable,'scripts/render_topic_6_1_3_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
 doc=fitz.open(pdf)
 blank=[i+1 for i,p in enumerate(doc) if len(p.get_text().strip())<60]
 images=sum(len(p.get_images()) for p in doc)
