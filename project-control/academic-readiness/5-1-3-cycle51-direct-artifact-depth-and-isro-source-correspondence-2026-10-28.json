@@ -1,0 +1,159 @@
+{
+  "cycle": 51,
+  "date": "2026-10-28",
+  "topic_id": "5-1-3",
+  "title": "Space Programme in India: INSAT, IRS, EDUSAT, Chandrayaan-1 and Developmental Applications",
+  "provenance": {
+    "main_at_start": "655fd293429237625bbf06a9f88f44498e4288e5",
+    "source": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 3/source/complete-notes.md",
+    "original_pdf_sha256": "bc41a053ecb189e99840f74351e65a4d414c4ba4f88f6258cb1e6de39df3b902",
+    "original_pdf_pages": 26,
+    "publication_artifact": {
+      "run_id": 40611866010,
+      "artifact_id": 12783717012,
+      "outer_sha256": "db663c4474907b454b363a9b9417c978c0f4f31f3720f3f0a46c0bb0b8c35389",
+      "outer_inner_crc": "PASS",
+      "inner_files": 1673,
+      "original_pdfs": 75,
+      "readiness_json": 75,
+      "archive_is_pre_edit": true
+    }
+  },
+  "direct_structural_recount": {
+    "concepts": 16,
+    "word_count_method": "For each ## N. concept section in source/core.md, count Unicode alphanumeric tokens with apostrophe/hyphen retained; includes subheadings, so is a generous rather than body-only estimate.",
+    "concept_word_counts": [
+      445,
+      377,
+      335,
+      354,
+      344,
+      357,
+      375,
+      334,
+      306,
+      292,
+      291,
+      274,
+      326,
+      323,
+      301,
+      263
+    ],
+    "under_300": [
+      10,
+      11,
+      12,
+      16
+    ],
+    "mcqs": 30,
+    "options_per_mcq": 4,
+    "total_options": 120,
+    "distractors": 90,
+    "key_distribution": {
+      "A": 7,
+      "B": 18,
+      "C": 5,
+      "D": 0
+    },
+    "mains": 6,
+    "mains_body_only_counts": [
+      209,
+      215,
+      214,
+      203,
+      201,
+      216
+    ],
+    "mains_method": "Count only paragraphs after bold subheadings; exclude heading labels and **Answer length** metadata; counts may differ from inherited manifest.",
+    "diagrams_inherited": 3
+  },
+  "bounded_primary_source_correspondences": [
+    {
+      "mcq": 10,
+      "claimed_key": "A",
+      "finding": "EDUSAT GSAT-3 launched 20 September 2004 as dedicated educational satellite; ISRO mission page",
+      "url": "https://www.isro.gov.in/EDUSAT.html",
+      "scope": "key proposition only"
+    },
+    {
+      "mcq": 12,
+      "claimed_key": "A",
+      "finding": "Chandrayaan-1 launched 22 October 2008 by PSLV-C11; ISRO mission record",
+      "url": "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html",
+      "scope": "key proposition only"
+    },
+    {
+      "mcq": 14,
+      "claimed_key": "A",
+      "finding": "Chandrayaan-1 communication lost 29 August 2009; ISRO mission record",
+      "url": "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html",
+      "scope": "key proposition only"
+    },
+    {
+      "mcq": 16,
+      "claimed_key": "A",
+      "finding": "NISAR combines NASA L-band and ISRO S-band SAR; ISRO mission record",
+      "url": "https://www.isro.gov.in/Mission_GSLVF16_NISAR.html",
+      "scope": "key proposition only"
+    },
+    {
+      "mcq": 17,
+      "claimed_key": "B",
+      "finding": "ISRO 14 February 2026 describes 100-metre soil-moisture products; preliminary validation remains underway",
+      "url": "https://www.isro.gov.in/NisarData_soil_moisture_products.html",
+      "scope": "key proposition only"
+    },
+    {
+      "mcq": 26,
+      "claimed_key": "A",
+      "finding": "SPADEX rendezvous, docking and undocking demonstrated by March 2025; power transfer in April 2025",
+      "url": "https://www.isro.gov.in/spadex_undocking_successful.html",
+      "scope": "key proposition only"
+    },
+    {
+      "mcq": 28,
+      "claimed_key": "C",
+      "finding": "NISAR launched on 30 July 2025 according to ISRO launch-mission chronology",
+      "url": "https://www.isro.gov.in/ISRO_EN/LaunchMissions.html",
+      "scope": "key proposition only"
+    }
+  ],
+  "syllabus_check": {
+    "official_pdf_url": "https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf",
+    "indexed_snippet_corresponds_to_item_3": true,
+    "direct_pdf_retrieval": "HTTP 502 in this cycle",
+    "result": "R1 IN_PROGRESS; do not certify full direct authenticated syllabus"
+  },
+  "new_2026_gap": {
+    "claim": "ISRO announced on 23 October 2026 that both SPADEX spacecraft re-entered Earth's atmosphere on 12 October 2026 after their demonstration programme.",
+    "source": "https://www.isro.gov.in/SPADEX_Satellites_Re_entry_into_Earths_Atmosphere.html",
+    "master_integration": "NOT DONE; flag for substantive update without presenting SPADEX as active 2026 spacecraft"
+  },
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "limits": [
+    "Only seven correct-answer propositions checked; 23 keys and all 90 distractors not independently checked.",
+    "All six mains claims and three inherited diagrams require claim-level/visual audit.",
+    "No corrected integrated PDF generated or published in this cycle.",
+    "Direct browser accessibility/usability not certified.",
+    "No independent expert review or academic approval."
+  ],
+  "next_actions": [
+    "Expand concepts 10,11,12,16 with nonrepetitive technical/application explanations in one editable master.",
+    "Integrate 23 Oct 2026 SPADEX re-entry status with source and time context.",
+    "Independently verify all 30 MCQ keys and 90 distractors, six mains claim sets and three diagrams.",
+    "Regenerate synchronized PDF/offline HTML deterministically, then download post-edit Actions artifact and check CRC, links, 75 original hashes."
+  ],
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "independent_academic_approvals": 0
+}
