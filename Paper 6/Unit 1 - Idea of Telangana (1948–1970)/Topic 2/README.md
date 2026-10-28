@@ -1,5 +1,7 @@
-# Paper VI · Unit I · Topic 2 — Hyderabad State in Independent India
+# Paper VI / Unit I / Topic 2 — Hyderabad State, Mulki agitation and SRC
 
-Original complete study draft. **Not independently academically approved.**
+Original PDF SHA256 2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11 preserved.
 
-[Read chapter](index.html) · [PDF](complete-notes.pdf) · [Markdown](source/complete-notes.md)
+[Offline HTML](index.html) · [Integrated PDF](source/integrated-student-edition-cycle65.pdf) · [Editable master](source/complete-notes.md) · [Original PDF](complete-notes.pdf).
+
+21 section-specific source-critical expansions; original inquiry unavailable; academic approval ZERO.
