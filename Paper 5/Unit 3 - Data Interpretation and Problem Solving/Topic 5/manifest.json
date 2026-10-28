@@ -8,35 +8,35 @@
   "original_explained_mcqs": 30,
   "mains_model_answers": 6,
   "mains_word_counts": [
-    209,
-    221,
-    214,
-    229,
-    225,
-    226
+    220,
+    213,
+    204,
+    219,
+    216,
+    213
   ],
   "diagram_count": 3,
   "primary_source_register": 10,
   "pdf_pages": 25,
   "academically_approved": false,
   "files_sha256": {
-    "QA-REPORT.md": "2c1400130015ec5c053a110cdb3ed3ef7a05b92f8dd0a512985489fdb90d472a",
     "README.md": "a2f44ade847496bfcde1d28e5b6d1a37dc7ecee0fa77e810c1407965aac6a737",
-    "index.html": "5b9c9c4698b048bf5ea69211e0d956165028ef22a3ad77936242251ba195f048",
+    "QA-REPORT.md": "2c1400130015ec5c053a110cdb3ed3ef7a05b92f8dd0a512985489fdb90d472a",
     "complete-notes.pdf": "f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833",
+    "index.html": "5b9c9c4698b048bf5ea69211e0d956165028ef22a3ad77936242251ba195f048",
+    "diagrams/02-stakeholder-map.png": "6b424adbb6308074e09d1bec5ca18876d30c673f7e3733a8dbe74661b3fda318",
     "diagrams/03-action-timeline.png": "0f47993f9618dbf872d1dfbaeffbb616db3a6c5a2f3bb5635ae1460f78880b6f",
     "diagrams/01-decision-cycle.png": "b6fc1b0fb4c9a74b35212beb655b366c9840d04c50b43f1e391b2b5b1c7e6ac5",
-    "diagrams/02-stakeholder-map.png": "6b424adbb6308074e09d1bec5ca18876d30c673f7e3733a8dbe74661b3fda318",
     "source/source-audit.md": "97fc208407c2a537e82d33d4df62c186a0fd94f85abb37587d3d218010562a63",
-    "source/integrated-student-edition-cycle63.pdf": "3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747",
-    "source/case-studies.md": "4bacf8b9582f540071d97ffa642dff6e8f15c62ba7f2785e03b8eb311fcb0c0f",
-    "source/answer-blueprints.md": "a427d88114d7ce0ad37a6e09239faa9006734b96042ec1a68746be6b70010e2b",
-    "source/quick-revision.md": "68b9f69ed40ff9033c17d955332925ebc1c391c171b40518f4b8e86e26768e1a",
-    "source/complete-model-answers.md": "21655314cb8b148370e407d5964b53386062cc2012af87fa336a09db651b5987",
-    "source/visual-learning.md": "95fd9ecfeeba6a5e19531729cf19626c02ff834999f513a5a578d6ec30af5521",
-    "source/core.md": "6ae15b72f4c4d27d64dbe50a3512317516b9ea6ce721632358b8d36d05c9e753",
     "source/complete-notes.md": "3d588903a0c8ed937b51637596f173da7c11cf4bab5abd69e331545aa0c9700d",
+    "source/case-studies.md": "4bacf8b9582f540071d97ffa642dff6e8f15c62ba7f2785e03b8eb311fcb0c0f",
+    "source/complete-model-answers.md": "21655314cb8b148370e407d5964b53386062cc2012af87fa336a09db651b5987",
+    "source/quick-revision.md": "68b9f69ed40ff9033c17d955332925ebc1c391c171b40518f4b8e86e26768e1a",
     "source/summary.md": "5d137e9aa62a43d4fefcbf2793928168a7391939294faff82e3f5e33bdd048be",
+    "source/integrated-student-edition-cycle63.pdf": "3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747",
+    "source/visual-learning.md": "95fd9ecfeeba6a5e19531729cf19626c02ff834999f513a5a578d6ec30af5521",
+    "source/answer-blueprints.md": "a427d88114d7ce0ad37a6e09239faa9006734b96042ec1a68746be6b70010e2b",
+    "source/core.md": "6ae15b72f4c4d27d64dbe50a3512317516b9ea6ce721632358b8d36d05c9e753",
     "source/original-mcqs.md": "1c9fa5bb4e155efd86c03d9981852d2797c62bedb44f318d88dcfc691b79c454"
   },
   "academic_status": "not_approved",
@@ -65,5 +65,6 @@
       213
     ],
     "independent_review_complete": false
-  }
+  },
+  "original_pdf_pages": 25
 }
