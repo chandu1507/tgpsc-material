@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "cycle": 72,
+  "topic_id": "6-2-4",
+  "github_actions_run": 40783928297,
+  "github_actions_conclusion": "success",
+  "actions_head_sha": "8f75ab94c6c98ff8447ead9f119a75266751c6db",
+  "artifact_id": 12858676114,
+  "artifact_actually_downloaded": true,
+  "archive_sha256": "ac851ef65cb638bdd51ced9bf49036637cc21c6b50aa34f6069d4f47f9195e0f",
+  "github_digest_sha256": "ac851ef65cb638bdd51ced9bf49036637cc21c6b50aa34f6069d4f47f9195e0f",
+  "digest_matches": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "files": 1812,
+  "original_pdfs": 75,
+  "original_pdf_hashes_unchanged_vs_cycle71": 75,
+  "readiness_json": 75,
+  "html_pages": 78,
+  "relative_file_links_checked": 450,
+  "broken_file_links": 0,
+  "dom_fragments_checked": 1050,
+  "broken_fragments": 0,
+  "spa_routes_excluded": 50,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 54,
+    "NOT_ASSESSED": 14
+  },
+  "academic_approvals": 0,
+  "original_topic_pdf_sha256": "aaba8800eac52e538ad4ff9358eb2f8362430c94832315aa7f61d20bb6cff65b",
+  "new_integrated_topic_pdf_present": false,
+  "R8": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "evidence_only_commit_not_in_downloaded_artifact": true,
+  "limitations": [
+    "Downloaded artifact certifies Cycle72 assessment and control changes only; no new Topic 6-2-4 integrated PDF",
+    "No full-resolution historical diagram, browser, accessibility, 30 MCQ key/90 distractor or six mains claim-level certification"
+  ],
+  "saved_library_folder": "/Mounika/TGPSC_ACADEMIC_READINESS_P6_U2_T4_CYCLE72_20261029/"
+}
