@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-28",
+  "cycle": 53,
+  "topic_id": "5-1-5",
+  "source_ref": "main@39c455e4229e117acaf9826e77fdc1bbb9afcb41",
+  "source_path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 5/source/complete-notes.md",
+  "source_git_blob_sha": "8fe8a05570e16ef628572b898491c99d30b3f7c2",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approved": false,
+  "inventory": {
+    "concepts": 16,
+    "concept_word_counts": [
+      480,
+      399,
+      394,
+      382,
+      366,
+      365,
+      351,
+      352,
+      344,
+      340,
+      359,
+      358,
+      344,
+      335,
+      367,
+      490
+    ],
+    "concepts_under_300": [],
+    "mcqs": 30,
+    "options": 120,
+    "distractors": 90,
+    "answer_distribution": {
+      "A": 14,
+      "B": 15,
+      "C": 1,
+      "D": 0
+    },
+    "mains": 6,
+    "mains_body_only_words": [
+      218,
+      219,
+      224,
+      223,
+      220,
+      218
+    ],
+    "original_pdf_pages_from_existing_manifest_not_reverified_this_cycle": 27,
+    "original_pdf_sha256_from_existing_manifest_not_rehashed_this_cycle": "37979c47cdc2f4e1593aa5664df10bec3ef8446890fa762385c22154da4e2ecf",
+    "diagrams_from_manifest_not_visually_reverified_this_cycle": 3,
+    "official_pyqs_in_existing_source": 0
+  },
+  "bounded_checks": [
+    {
+      "question": 2,
+      "kind": "arithmetic",
+      "result": "CORRESPONDS",
+      "evidence": "219000/(50*8760)=0.5; maximum theoretical generation 438000 MWh"
+    },
+    {
+      "question": 3,
+      "kind": "official_key_correspondence",
+      "result": "CORRESPONDS",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296782&lang=2&reg=48",
+      "scope": "PIB release 9 Aug 2026 gives 300.50 GW non-fossil installed capacity as of 31 Jul 2026, not generation"
+    },
+    {
+      "question": 14,
+      "kind": "official_key_correspondence_with_scope_caveat",
+      "result": "CORRESPONDS_WITH_CAVEAT",
+      "source": "https://nrep.mnre.gov.in/guidelines-shp",
+      "scope": "Generic up-to-25MW convention is consistent, but new FY2026-27–2030-31 SHP scheme eligibility is 1MW–25MW. MCQ should distinguish broad category from scheme eligibility."
+    },
+    {
+      "question": 18,
+      "kind": "official_key_correspondence",
+      "result": "CORRESPONDS",
+      "source": "https://mnre.gov.in/En/Waste-to-Energy/",
+      "scope": "National Bioenergy Programme Phase I 2021-22 through 2025-26; does not establish October 2026 funding or open application"
+    },
+    {
+      "question": 27,
+      "kind": "official_key_correspondence",
+      "result": "CORRESPONDS",
+      "source": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1885828&lang=2&reg=48",
+      "scope": "2022 policy amendment advanced E20 target to ESY2025-26; not an achieved October 2026 national blend"
+    },
+    {
+      "question": 29,
+      "kind": "official_key_correspondence",
+      "result": "CORRESPONDS",
+      "source": "https://tgredco.telangana.gov.in/Updates_2025/Telangana_Clean_and_Green_Energy_Policy_2025.pdf",
+      "scope": "G.O.Ms.No.2 dated 11 January 2025 approves policy, not commissioning"
+    }
+  ],
+  "question_quality_flags": [
+    {
+      "question": 14,
+      "issue": "Three alternatives (500 MW, >1000 MW, nuclear station) are implausible; low discrimination; 2026 scheme threshold nuance missing."
+    },
+    {
+      "question": 18,
+      "issue": "Distractors include self-evidently false 'nuclear fuel scheme'; requires plausible policy alternatives."
+    },
+    {
+      "question": 29,
+      "issue": "Distractors include nonexistent/misdated '2003 Forest Rights Act', a 1991 nuclear treaty and an unpublished 2035 draft; low discrimination and potential misinformation."
+    },
+    {
+      "scope": "all 30",
+      "issue": "A14/B15/C1/D0 answer distribution, highly unbalanced; reauthor item sets and verify each key before redistributing, never alter answer letters alone."
+    }
+  ],
+  "unverified": {
+    "correct_keys": 24,
+    "correct_key_checks_are_limited": true,
+    "distractors": 90,
+    "mains_claim_level": 6,
+    "diagrams_accuracy": 3,
+    "official_2024_syllabus_direct_reauthentication": true,
+    "public_browser_and_accessibility": true,
+    "independent_expert_approval": true
+  },
+  "integrity_limits": "No chapter source/PDF/HTML changed this cycle. No post-edit GitHub Actions artifact can be claimed from this audit. Existing original PDF is preserved by non-modification, not freshly rehashed.",
+  "r1_r8": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "next_action": "Rewrite 30 item options to eliminate implausible distractors; independently verify 30 keys/90 distractors; incorporate FY2026-27 SHP eligibility nuance; claim-level audit six mains, diagrams and source register; authenticate syllabus; synchronize editable master, HTML and CI PDF; download and verify post-edit artifact; obtain named expert only after R1-R8 PASS."
+}

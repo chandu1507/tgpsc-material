@@ -626,10 +626,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Complete 27-page published learning draft with 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 24-source audit. Independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/5-1-5.json"
+      "production_review": "cycle53_direct_source_and_bounded_primary_source_audit_rebuild_required",
+      "notes": "Cycle53 direct editable-source audit: 16 concepts (335–490 words, none <300), 30 original practice MCQs (A14/B15/C1/D0; 90 distractors), six mains body-only 218/219/224/223/220/218. Q3/Q14/Q18/Q27/Q29 have limited official key-proposition correspondence; Q2 arithmetic checked. Q14 must distinguish generic <=25MW SHP from FY2026-27 scheme 1–25MW; MCQ14/18/29 have weak implausible distractors. Remaining 24 keys and ALL 90 distractors unverified; mains claims/diagrams/browser/syllabus direct recheck pending. Original 27-page PDF not edited; NO new integrated PDF or post-edit artifact QA. ZERO academic approvals.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/5-1-5.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/5-1-5-cycle53-direct-structure-and-official-key-correspondence-2026-10-28.json"
     },
     {
       "id": "5-2-1",
