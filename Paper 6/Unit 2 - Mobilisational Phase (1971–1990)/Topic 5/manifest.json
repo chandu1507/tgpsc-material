@@ -30,5 +30,40 @@
     "diagrams/identity-four-pillars.png": "5b95e4c3a14efe3080db5460611a0f2ebfc9a3710f491ac76f80ab18c88d0e2e",
     "diagrams/identity-to-mobilisation.png": "c93e66be7a382d5a0bb1ad261dac467f30e86f8b7437949b63d05de550768a57",
     "diagrams/grievance-evidence-remedy.png": "753889633a252cf4435fdf62225e472b7c3541891eba116c6a3804527f18626b"
+  },
+  "academically_approved": false,
+  "source_word_count": 10573,
+  "mains_count": 6,
+  "integrated_pdf_status": "CI_rendered_pending_academic_audit",
+  "integrated_pdf_pages": 21,
+  "integrated_pdf_sha256": "c7aa45d231fdf395104e2ccc7a4088c6fcb4d5c2510638d0c6534f0ba54d2138",
+  "independent_academic_approvals": 0,
+  "metrics": {
+    "concept_count": 26,
+    "concepts_below_300": 22,
+    "answer_distribution": {
+      "A": 8,
+      "B": 10,
+      "C": 9,
+      "D": 3
+    },
+    "full_page_density_certified": false,
+    "independent_review_complete": false
+  },
+  "files_sha256": {
+    "QA-REPORT.md": "c7b11d613935fcb3f42c60724bd435997df3e3a374631f68d41fbead58179a40",
+    "README.md": "7c14014ed008b6f406848cc643c7cd76142286b6ce416b82f0ee7044c06fbf91",
+    "complete-notes.pdf": "bf09f676bcf104baeca701927081cc59b15755467bf112b54e321c656499009b",
+    "diagrams/grievance-evidence-remedy.png": "753889633a252cf4435fdf62225e472b7c3541891eba116c6a3804527f18626b",
+    "diagrams/identity-four-pillars.png": "5b95e4c3a14efe3080db5460611a0f2ebfc9a3710f491ac76f80ab18c88d0e2e",
+    "diagrams/identity-to-mobilisation.png": "c93e66be7a382d5a0bb1ad261dac467f30e86f8b7437949b63d05de550768a57",
+    "index.html": "a2d9fa749fa69728c68de0c5ba609c8c4155a0d77c434725ccd2d0458a687b05",
+    "source/answer-blueprints.md": "4b248232713041cd36b3911a3dc134765b2849841344d5bfb66877231d24d1c4",
+    "source/complete-notes.md": "7b2ad6e17c9f3f6c17ff67a42d6f3cda1829bf4792371acfd55770eed97e1399",
+    "source/integrated-student-edition-cycle73.pdf": "c7aa45d231fdf395104e2ccc7a4088c6fcb4d5c2510638d0c6534f0ba54d2138",
+    "source/original-practice.md": "1b805dc6b3a93c5f6e221a192e94b0d9ff4ad885abd20a50dffa5b883f71e839",
+    "source/quick-revision.md": "9a205f1a5dfa85c234014d6d4afa9c2aafb70f7ec1e53531fbeebd472a477580",
+    "source/references.md": "aa01ee3ba85196571fb80a40588f5957925bbfad2c87e3564883daee28c1797f",
+    "source/syllabus-index.md": "00ff00796b4bbf6077c90ede633495956260a26a17cf3bf530f79eaa9197ce14"
   }
 }
