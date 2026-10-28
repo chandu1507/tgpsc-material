@@ -1,0 +1,47 @@
+{
+  "cycle": 63,
+  "date": "2026-10-28",
+  "topic": "5-3-5",
+  "baseline_main": "bf2aa717a4071695417c3c09061f184a04f71994",
+  "original_pdf_sha256": "f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833",
+  "original_pdf_pages": 25,
+  "original_numbered_sections": 18,
+  "original_under_300": 18,
+  "original_explanatory_under_300": 17,
+  "original_mcqs": 30,
+  "original_key_distribution": {
+    "A": 1,
+    "B": 18,
+    "C": 10,
+    "D": 1
+  },
+  "original_mains_body_only": [
+    202,
+    221,
+    210,
+    226,
+    224,
+    220
+  ],
+  "original_png_diagrams": 3,
+  "official_syllabus_R1": {
+    "status": "PASS",
+    "source": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "scope": "Paper V Unit III item5"
+  },
+  "expanded_sections": [
+    2,
+    5,
+    10,
+    14
+  ],
+  "revised_mcqs": [
+    11,
+    20,
+    30
+  ],
+  "R8": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "limitations": "No post-edit PDF or actual Actions artifact. Full keys/distractors, mains, diagrams, page density and browser QA incomplete."
+}

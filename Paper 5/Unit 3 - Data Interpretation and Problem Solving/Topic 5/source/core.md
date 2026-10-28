@@ -26,6 +26,9 @@ Construct an issue tree with non-overlapping branches: supply availability, netw
 
 **Decision rule.** Define success before selecting a solution. Set a time-bound minimum safety standard, a medium-term reliability target and an equity safeguard for remote settlements. If these conflict, explain the priority order explicitly.
 
+
+**Illustrative denominator and causal test.** Suppose a town records 240 missed water deliveries out of 1,200 scheduled deliveries in one week: the observed failure rate is 20%, not a percentage of households without water. If 180 failures are concentrated in two wards, a town average conceals the distribution. Deduplicate repeated complaints, then compare pressure readings, electricity outages, reservoir levels and household confirmation. If outages explain only 40 failures, buying electrical equipment cannot explain the other 200. This example separates an outcome, its denominator and a causal hypothesis. Arrange safe temporary supply while testing competing causes; do not commit to an expensive borewell before diagnosis.
+
 ## 3. Facts, assumptions, uncertainty and evidence discipline
 
 Structured cases frequently contain incomplete or contradictory statements. Separate four categories: directly observed facts, administrative records, witness assertions and inferences. An engineer's inspection log is not the same as a resident's allegation, but either can be wrong. A responsible officer triangulates rather than dismisses. Mark each major claim with its source, date, coverage and confidence. Ask what missing information could reverse the decision; those are the facts worth collecting immediately.
@@ -55,6 +58,9 @@ The Disaster Management Act, 2005 establishes a statutory architecture for prepa
 Separate authority to **inspect**, **issue a warning**, **spend**, **seize**, **close**, **prosecute**, **discipline** and **compensate**. These are distinct powers. A health officer may recommend closure of a hazardous facility, while the statutory decision and appeal route may lie elsewhere. The decision record should name the competent authority, provision or order relied upon, procedural requirements, funding source and review mechanism.
 
 When legal facts are uncertain, the safe answer is not to invent a section number. State that the competent legal cell must verify the enabling provision before coercive action, while immediately taking lawful non-coercive protective steps.
+
+
+**Illustrative legal decision record.** A complaint alleges construction obstructs a storm-water drain. Inspection, demolition, penalty, entry, recovery of costs and emergency cordoning are legally distinct actions; authority over one does not imply authority over all. For each coercive proposal record the applicable law and amendments, the delegated decision-maker, evidentiary preconditions, notice or hearing, written reasons and appeal. Emergency protective steps require their own lawful basis and proportionality. Where the exact Telangana provision has not been checked, seek a written legal opinion rather than inventing a section number. This is an analytical template, not a declaration of any particular officer's powers.
 
 ## 6. Ethical conflicts: values that pull in different directions
 
@@ -106,6 +112,9 @@ Risk ownership matters: “the department will monitor” is weak. “The execut
 
 Do not confuse hazard communication with panic. Messages should say what is known, what action citizens should take, where help is available, and when updates will follow. If evidence changes, correct earlier statements openly. Acknowledging uncertainty is more credible than false assurance.
 
+
+**Hypothetical risk comparison.** Option A supplies tested emergency water for four lakh rupees while technicians investigate; Option B replaces pipes immediately for 35 lakh rupees. Assume a provisional 20% probability that the pipes caused the problem. A simplistic expected unnecessary replacement cost is 0.80 × 35 = 28 lakh rupees. This is not a decision rule: public-health harm, statutory duties, delay costs, the reliability of the probability and adequacy of temporary supply matter. Repeat at 60% probability to test sensitivity. Reversible protection can be urgent while irreversible investment awaits evidence. Expected-value arithmetic cannot justify violating minimum safety duties.
+
 ## 11. Resource allocation, public finance and procurement integrity
 
 Public money is scarce, and emergency need does not erase accountability. The decision-maker must identify available staff, stock, equipment, transport, budget head, delegation and lawful procurement route. A quick “purchase everything immediately” answer ignores supply-chain limits and potential misuse. Equally, insisting on ordinary timelines while people lack safe drinking water may be unacceptable. The correct route depends on applicable emergency provisions and documented approvals, not on an assumed blanket exemption.
@@ -145,6 +154,9 @@ Set a baseline, target, measurement method, owner and review date for each indic
 Stopping rules are particularly important for pilots. A temporary cashless ration trial should not expand automatically because the software works; it should expand only if eligible people can actually receive food without exclusion. If grievance rates rise or remote access deteriorates, pause and redesign. Similarly, a safety measure that is no longer necessary should be reviewed rather than becoming permanent by inertia.
 
 A concise review calendar might include daily safety metrics during crisis, weekly operational dashboards and quarterly independent service evaluation. The exact cadence should match the hazard and institutional capacity, not an arbitrary template.
+
+
+**Hypothetical evaluation design.** Assisted grievance filing raises seven-day closure from 55% to 80% in five villages. This does not prove better service: case complexity, changed closure definitions, seasonal workloads and unrecorded failed applications may affect the numbers. Include all eligible complaints, reopened cases and appeals in the denominator. Track independently confirmed restoration, not just a closure button. Compare similar villages without the pilot where feasible and disclose baseline differences. Disaggregate by distance and smartphone access. Predeclare a review trigger, such as pausing expansion if verified false closures exceed a chosen threshold for two periods. This is a proposed pilot rule, not an official Telangana standard.
 
 ## 15. Decision writing: a six-part mains answer architecture
 

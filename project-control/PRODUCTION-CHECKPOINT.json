@@ -748,10 +748,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "11,154-word complete draft; 18 sections; 12 cases; 30 original explained MCQs; six structured mains answers; 3 diagrams; independent review pending.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/5-3-5.json"
+      "production_review": "cycle63_partial_source_repair_pdf_pending",
+      "notes": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/5-3-5.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/5-3-5-cycle63-direct-assessment-and-partial-repair-2026-10-28.json"
     },
     {
       "id": "6-1-1",
