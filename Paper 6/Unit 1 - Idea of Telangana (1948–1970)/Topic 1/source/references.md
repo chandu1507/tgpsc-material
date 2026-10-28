@@ -5,7 +5,7 @@ The following sources were checked for relevance on **25 October 2026**. Officia
 | ID | Publisher | Document / date | Verification use and limitation |
 |---|---|---|---|
 
-| S01 | TGPSC | [Notification 02/2024, Group I Services, Paper VI Unit I item 1](https://websitenew.tspsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) (2024-02-19) | Original commission-hosted syllabus; authenticates wording, not historical claims. |
+| S01 | TGPSC | [Notification 02/2024, Group I Services, Paper VI Unit I item 1](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) (2024-02-19) | Original commission-hosted syllabus; authenticates wording, not historical claims. |
 
 | S02 | Government of Telangana | [Language & Culture](https://www.telangana.gov.in/about/language-culture/) (undated; accessed 2026-10-25) | Current official description of cultural forms and composite traditions. |
 
@@ -17,7 +17,7 @@ The following sources were checked for relevance on **25 October 2026**. Officia
 
 | S06 | SCERT Telangana | [Class 7 Social Studies (English medium)](https://www.scert.telangana.gov.in/pdf/publication/ebooks2019/7%20social%20em%202020-21.pdf) (2020–21 edition) | School textbook corroboration for administrative reforms; not a primary nineteenth-century record. |
 
-| S07 | Supreme Court of India (reproduced on Indian Kanoon) | [High Court of Andhra Pradesh and Others v V. S. Krishnamurthy and Others](https://indiankanoon.org/doc/1318103/) (1978-08-04) | Later judicial discussion of 1919 and 1949 Mulki rules and residence threshold; not verbatim original Farman. |
+| S07 | Supreme Court of India (judgment text reproduced on Indian Kanoon) | [The Director of Industries & Commerce, Government of A.P. v. V. Venkata Reddy & Ors.](https://indiankanoon.org/doc/1267864/) (decision 1972-10-03; reported 1973 1 SCC 99) | Judgment reproduces Mulki Rules 1 and 3, and records Hyderabad government circulars dated 1950-06-14 and 1951-09-18; supports residence route and later constitutional interpretation, not authentication of the signed 1919 Farman. |
 
 | S08 | Government of Telangana | [CM participates in Praja Palana Dinotsavam 2026](https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-telangana-praja-palana-dinotsavam-2026-celebrations-at-public-gardens-hyderabad/) (2026-09-17) | Dated 2026 commemoration and present policy framing; not a 1948 primary document. |
 
@@ -34,7 +34,7 @@ The following sources were checked for relevance on **25 October 2026**. Officia
 
 **2025–2030 tourism policy:** the state explicitly proposes public promotion of Bathukamma and Medaram [S09]. This demonstrates contemporary recognition and economic-cultural policy, not that the rituals began in the policy period.
 
-**Historical legal audit:** the 1978 Supreme Court judgment's account of the 1919 and 1949 Mulki rules [S07] is useful for legal chronology. It must not be treated as a substitute for independent archival review of the original Farman, all service categories and every exemption.
+**Historical legal audit (corrected 28 October 2026):** the 3 October 1972 *V. Venkata Reddy* judgment [S07] reproduces the relevant historical Mulki Rules and 1950/1951 circulars. The previously cited 1978 *Krishnamurthy* case is about tribunal jurisdiction under Article 371D, not the residence rule; it has been removed as support for that claim. This court account does not replace the signed 1919 Farman or departmental appointment registers.
 
 **Unverified or disputed claims excluded:** precise totals of unlawful appointments in 1948–52; definitive membership statistics of the 1935 League; unqualified casualty figures for the 1948 transition; any claim that every member of a caste, tribe or religion shared a single political position. Such claims require specialised primary archival work.
 
