@@ -133,7 +133,7 @@
     "5-2-4",
     "5-2-5"
   ],
-  "last_readiness_update": "Cycle58 Topic 5-2-5: 18 concepts (2 expanded), 30 original MCQs, 13 bounded correct-answer proposition checks, six mains body-only 207/221/221/209/214/205; local 23-page PDF; post-edit GitHub artifact not yet downloaded. R8 BLOCKED, approvals ZERO.",
+  "last_readiness_update": "Cycle58 Topic 5-2-5 actual downloaded artifact 12803981224 verified: 1722 files, 75 original PDFs preserved, 75 readiness JSON, 78 HTML, 443 relative links and 1137 fragments zero broken, 56 SPA routes excluded; 25-page CI PDF, R8 IN_PROGRESS, zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -148,6 +148,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-5-cycle58-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-5-cycle58-source-depth-mains-and-bounded-key-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
