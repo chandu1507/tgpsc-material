@@ -1,8 +1,8 @@
 {
   "topic_id": "6-1-4",
   "title": "Violation of Employment and Service Rules; Kothagudem, Ravindranath and the 1969 Jai Telangana Movement",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,34 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/6-1-4-cycle67-direct-source-legal-mcq-mains-and-archive-audit-2026-10-28.json",
+  "next_action": "Substantively expand 22 shallow core concepts and six case studies without padding; correct all six mains declared word counts in synchronized editable master/PDF; audit all 30 MCQ keys/90 distractors; direct-source verification, diagrams, browser QA and deterministic CI artifact. Preserve original PDF.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "direct_assessment": {
+    "cycle": 67,
+    "core_concepts": 22,
+    "core_concepts_below_300": 22,
+    "original_mcqs": 30,
+    "mains_body_only_words": [
+      206,
+      207,
+      207,
+      219,
+      207,
+      208
+    ],
+    "mains_declared_count_mismatches": 6,
+    "original_pdf_sha256": "4bcd3452508c24ba655942c48ea1a00b233aab2914ceb605cd64323ca3a4a3ee",
+    "independent_approvals": 0
+  }
 }
