@@ -37,18 +37,18 @@
     "independent_review_complete": false
   },
   "files_sha256": {
-    "README.md": "36e4e9164a9f8cc942ac7b7315ade3c21af099e37ceff628f1e55ae4d4a77847",
     "QA-REPORT.md": "802d83aa4f435f0cbc0206d698667f6e633bf2a051b7f727f7f1846a3a0c72ef",
-    "complete-notes.pdf": "2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11",
+    "README.md": "36e4e9164a9f8cc942ac7b7315ade3c21af099e37ceff628f1e55ae4d4a77847",
     "index.html": "8dc7627d1d1247c955e135a759cc13754f14ac18c7dc5b85525125be204735b4",
+    "complete-notes.pdf": "2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11",
+    "diagrams/reorganisation-options.png": "1d60857a0b1f380da0ca1b55680401f91f707637867d9a1d464f8c070471952d",
     "diagrams/chronology.png": "4c9599b4f30a7a7b607c8d0df8ded947a0c33a732ce36d3466767ff013ff6ca7",
     "diagrams/causal-chain.png": "17cc16f4061594c24b0ac5ee9852db7c416e124d7e79ec71df6bf2579d63041f",
-    "diagrams/reorganisation-options.png": "1d60857a0b1f380da0ca1b55680401f91f707637867d9a1d464f8c070471952d",
-    "source/complete-notes.md": "fa0c42ab79db467afeb14ee7e5b54b2e520cd4c34a22c668fb59620a7cb40d15",
-    "source/quick-revision.md": "fc5988e9b02b2445aa96e9dcfd0a57d969a83c5437dec3a1893d4a56056e1023",
-    "source/references.md": "15ab7fbd9f20f9cb9ebab86c8abee03b7d5c516bca185e95ab9bad2e313eb159",
     "source/original-practice.md": "4ccaa3691bc1c47b31c57bcdc6225131ed947ecca85fa6e9cde9cde67690dcc0",
     "source/answer-blueprints.md": "dedb1e7c6f6063b9d9e4a1532d7f978c0a64bd18f704c3d6bc8d4ed37a16b0cf",
-    "source/integrated-student-edition-cycle65.pdf": "bb774efc10cd7688dabe43b38d0e3d5a5c8357ffdc1988895ff3795a41c5034c"
+    "source/integrated-student-edition-cycle65.pdf": "bb774efc10cd7688dabe43b38d0e3d5a5c8357ffdc1988895ff3795a41c5034c",
+    "source/quick-revision.md": "fc5988e9b02b2445aa96e9dcfd0a57d969a83c5437dec3a1893d4a56056e1023",
+    "source/references.md": "15ab7fbd9f20f9cb9ebab86c8abee03b7d5c516bca185e95ab9bad2e313eb159",
+    "source/complete-notes.md": "fa0c42ab79db467afeb14ee7e5b54b2e520cd4c34a22c668fb59620a7cb40d15"
   }
 }
