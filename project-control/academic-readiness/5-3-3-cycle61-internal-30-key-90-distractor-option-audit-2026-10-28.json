@@ -1,0 +1,960 @@
+{
+  "date": "2026-10-28",
+  "cycle": 61,
+  "topic_id": "5-3-3",
+  "source_file": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 3/source/original-practice.md",
+  "method": "Directly parse all 30 original four-option practice questions; independently recompute within this production run using explicit mathematical derivations; verify exactly one option equals computed value, and mark all three other offered values false. This is an INTERNAL mathematical/logical audit, not external academic certification.",
+  "questions": [
+    {
+      "number": 1,
+      "question": "The next term in 6, 11, 16, 21 is:",
+      "computed_correct_value": "26",
+      "reported_key": "B",
+      "derivation": "AP has constant difference 5, hence 21+5=26.",
+      "options": {
+        "A": {
+          "value": "24",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "26",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "28",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "31",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 2,
+      "question": "The tenth term of the AP 4, 7, 10, ... is:",
+      "computed_correct_value": "31",
+      "reported_key": "C",
+      "derivation": "Tenth AP term is 4+(10-1)*3=31.",
+      "options": {
+        "A": {
+          "value": "28",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "30",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "31",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "34",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 3,
+      "question": "The sum of the first 15 positive odd numbers is:",
+      "computed_correct_value": "225",
+      "reported_key": "B",
+      "derivation": "Sum of first n odd integers is n²; 15²=225.",
+      "options": {
+        "A": {
+          "value": "120",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "225",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "240",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "255",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 4,
+      "question": "The fifth term of 2, 6, 18, ... is:",
+      "computed_correct_value": "162",
+      "reported_key": "C",
+      "derivation": "Fifth GP term is 2*3^4=162.",
+      "options": {
+        "A": {
+          "value": "54",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "81",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "162",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "243",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 5,
+      "question": "The next term in 3, 8, 15, 24, 35 is:",
+      "computed_correct_value": "48",
+      "reported_key": "B",
+      "derivation": "Differences 5,7,9,11 grow by 2; next difference 13, hence 35+13=48.",
+      "options": {
+        "A": {
+          "value": "46",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "48",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "50",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "52",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is irrational?",
+      "computed_correct_value": "√2",
+      "reported_key": "B",
+      "derivation": "Square root of 2 is irrational; 0.75, -7 and 2/11 are rational.",
+      "options": {
+        "A": {
+          "value": "0.75",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "√2",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "−7",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "2/11",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 7,
+      "question": "The number of positive divisors of 72 is:",
+      "computed_correct_value": "12",
+      "reported_key": "B",
+      "derivation": "72=2^3*3^2; positive-divisor count (3+1)(2+1)=12.",
+      "options": {
+        "A": {
+          "value": "10",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "12",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "14",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "16",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 8,
+      "question": "The remainder when 257 is divided by 9 is:",
+      "computed_correct_value": "5",
+      "reported_key": "C",
+      "derivation": "257=9*28+5, remainder 5.",
+      "options": {
+        "A": {
+          "value": "3",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "4",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "5",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "6",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 9,
+      "question": "The HCF of 84 and 126 is:",
+      "computed_correct_value": "42",
+      "reported_key": "C",
+      "derivation": "gcd(84,126)=42.",
+      "options": {
+        "A": {
+          "value": "14",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "21",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "42",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "63",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 10,
+      "question": "The LCM of 12, 18 and 30 is:",
+      "computed_correct_value": "180",
+      "reported_key": "C",
+      "derivation": "lcm(12,18,30)=2²*3²*5=180.",
+      "options": {
+        "A": {
+          "value": "90",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "120",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "180",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "360",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 11,
+      "question": "The units digit of 3^2026 is:",
+      "computed_correct_value": "9",
+      "reported_key": "D",
+      "derivation": "Units-digit cycle of powers of 3 has period 4; 2026 mod 4=2 gives 9.",
+      "options": {
+        "A": {
+          "value": "1",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "3",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "7",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "9",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 12,
+      "question": "A mean of 14 for six values implies a total of:",
+      "computed_correct_value": "84",
+      "reported_key": "C",
+      "derivation": "Total = mean*count = 14*6=84.",
+      "options": {
+        "A": {
+          "value": "20",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "72",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "84",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "96",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 13,
+      "question": "Groups of 20 and 30 have means 60 and 80. Their combined mean is:",
+      "computed_correct_value": "72",
+      "reported_key": "C",
+      "derivation": "Combined mean=(20*60+30*80)/50=72.",
+      "options": {
+        "A": {
+          "value": "68",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "70",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "72",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "75",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 14,
+      "question": "The mean of five values is 40. One recorded 18 should be 28. Corrected mean:",
+      "computed_correct_value": "42",
+      "reported_key": "C",
+      "derivation": "Corrected mean=(5*40-18+28)/5=42.",
+      "options": {
+        "A": {
+          "value": "40",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "41",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "42",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "44",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 15,
+      "question": "An 8:12 ratio in simplest form is:",
+      "computed_correct_value": "2:3",
+      "reported_key": "C",
+      "derivation": "8:12 reduces by factor 4 to 2:3.",
+      "options": {
+        "A": {
+          "value": "4:3",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "3:2",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "2:3",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "1:3",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 16,
+      "question": "₹5,600 is divided in ratio 3:4. The larger share is:",
+      "computed_correct_value": "₹3,200",
+      "reported_key": "D",
+      "derivation": "Four of seven ratio parts receive 5600*4/7=3200.",
+      "options": {
+        "A": {
+          "value": "₹2,000",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "₹2,400",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "₹3,000",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "₹3,200",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 17,
+      "question": "If 6 identical machines finish a job in 10 hours, 15 machines take:",
+      "computed_correct_value": "4 hours",
+      "reported_key": "B",
+      "derivation": "Work=6*10=60 machine-hours; 60/15=4 hours.",
+      "options": {
+        "A": {
+          "value": "3 hours",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "4 hours",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "5 hours",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "6 hours",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 18,
+      "question": "If A:B=2:3 and B:C=4:5, A:C equals:",
+      "computed_correct_value": "8:15",
+      "reported_key": "B",
+      "derivation": "A/B=2/3, B/C=4/5, so A/C=(2/3)(4/5)=8/15.",
+      "options": {
+        "A": {
+          "value": "2:5",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "8:15",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "6:20",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "4:15",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 19,
+      "question": "Two solutions contain 20% and 40% solute by volume. Equal volumes are mixed, and volumes are assumed additive. Final concentration is:",
+      "computed_correct_value": "30%",
+      "reported_key": "B",
+      "derivation": "With v/v and additive volumes, (0.2*1+0.4*1)/(1+1)=0.30.",
+      "options": {
+        "A": {
+          "value": "25%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "30%",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "32%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "35%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 20,
+      "question": "The share of the first part in ratio 3:7 is:",
+      "computed_correct_value": "3/10",
+      "reported_key": "B",
+      "derivation": "First part is 3 of total 3+7=10 parts.",
+      "options": {
+        "A": {
+          "value": "3/7",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "3/10",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "7/10",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "7/3",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 21,
+      "question": "An item costs ₹500 and sells for ₹575. Profit percent is:",
+      "computed_correct_value": "15%",
+      "reported_key": "B",
+      "derivation": "Profit=(575-500)/500=15%.",
+      "options": {
+        "A": {
+          "value": "13%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "15%",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "17%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "20%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 22,
+      "question": "An item costing ₹800 is sold at a 12.5% loss. Selling price:",
+      "computed_correct_value": "₹700",
+      "reported_key": "B",
+      "derivation": "SP=800*(1-0.125)=700.",
+      "options": {
+        "A": {
+          "value": "₹650",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "₹700",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "₹720",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "₹750",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 23,
+      "question": "Marked price ₹2,000, discount 15%. Payable price is:",
+      "computed_correct_value": "₹1,700",
+      "reported_key": "C",
+      "derivation": "SP=2000*(1-0.15)=1700.",
+      "options": {
+        "A": {
+          "value": "₹1,600",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "₹1,650",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "₹1,700",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "₹1,750",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 24,
+      "question": "Successive discounts 10% and 20% produce effective discount:",
+      "computed_correct_value": "28%",
+      "reported_key": "C",
+      "derivation": "Net discount=1-(0.9*0.8)=0.28.",
+      "options": {
+        "A": {
+          "value": "25%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "27%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "28%",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "30%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 25,
+      "question": "CP ₹80 and SP ₹100: profit margin on SP equals:",
+      "computed_correct_value": "20%",
+      "reported_key": "A",
+      "derivation": "Profit margin=(100-80)/100=20% of SP.",
+      "options": {
+        "A": {
+          "value": "20%",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "B": {
+          "value": "25%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "30%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "40%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 26,
+      "question": "A price falls 20%. Required rise to restore the original is:",
+      "computed_correct_value": "25%",
+      "reported_key": "C",
+      "derivation": "Restoration rise=(100-80)/80=25%.",
+      "options": {
+        "A": {
+          "value": "20%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "22%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "25%",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "30%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 27,
+      "question": "A fictional centre adds 5 seats per batch, starting at 10 seats. Sixth batch:",
+      "computed_correct_value": "35",
+      "reported_key": "B",
+      "derivation": "Sixth batch has five increments: 10+5*5=35.",
+      "options": {
+        "A": {
+          "value": "30",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "35",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "C": {
+          "value": "40",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "45",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 28,
+      "question": "An 18% rise followed by a 10% fall gives net:",
+      "computed_correct_value": "6.2% rise",
+      "reported_key": "A",
+      "derivation": "Combined multiplier 1.18*0.90=1.062, net +6.2%.",
+      "options": {
+        "A": {
+          "value": "6.2% rise",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "B": {
+          "value": "8% rise",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "8% fall",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "10% rise",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 29,
+      "question": "A mixture of 10% and 20% concentrations cannot yield:",
+      "computed_correct_value": "25%",
+      "reported_key": "D",
+      "derivation": "Positive mixture of 10% and 20% cannot exceed 20%; 25% is impossible.",
+      "options": {
+        "A": {
+          "value": "12%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "15%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "18%",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "D": {
+          "value": "25%",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    },
+    {
+      "number": 30,
+      "question": "Which statement about an average is necessarily true for positive weights?",
+      "computed_correct_value": "It lies between minimum and maximum",
+      "reported_key": "C",
+      "derivation": "Positive-weighted average is a convex combination, hence inside the closed min-max interval; other assertions are not necessary.",
+      "options": {
+        "A": {
+          "value": "It equals one observed value",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "B": {
+          "value": "It exceeds the largest value",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        },
+        "C": {
+          "value": "It lies between minimum and maximum",
+          "correct": true,
+          "assessment": "Matches computed result or logically necessary property"
+        },
+        "D": {
+          "value": "It is always an integer",
+          "correct": false,
+          "assessment": "Rejected: does not equal the computed result or fails the stated logical necessity"
+        }
+      },
+      "correct_option_count": 1,
+      "checked_distractors": 3
+    }
+  ],
+  "totals": {
+    "questions": 30,
+    "keys_internally_checked": 30,
+    "distractors_internally_checked": 90,
+    "multiple_matching_correct_options": 0,
+    "answer_distribution": {
+      "A": 2,
+      "B": 12,
+      "C": 13,
+      "D": 3
+    }
+  },
+  "specific_ambiguity_repaired": "MCQ19 now explicitly v/v with additive volumes; equal volumes alone do not imply equal mass.",
+  "constraints": {
+    "original_official_PYQ_claims": 0,
+    "independent_named_expert_approval": 0,
+    "external_source_consultation_for_stable_arithmetic": 0,
+    "all_six_mains_claims_checked": false,
+    "diagram_figure_validation_by_named_expert": false
+  },
+  "status": "INTERNAL_30_KEY_90_DISTRACTOR_CHECK_PASS_NOT_ACADEMICALLY_APPROVED"
+}
