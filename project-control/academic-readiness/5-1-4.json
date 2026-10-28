@@ -1,8 +1,8 @@
 {
   "topic_id": "5-1-4",
   "title": "Applications of Space Technology: Education, Agriculture, Industry, Climate and Disaster Management",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,46 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json",
+  "next_action": "Complete claim-level 30-key/90-distractor/six-mains/three-diagram audit; retrieve official syllabus PDF; publish synchronized PDF through deterministic CI and verify actual downloaded artifact; direct browser accessibility; independent expert review.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "direct_assessment": {
+    "cycle": 52,
+    "concepts": 16,
+    "concepts_under_300": 0,
+    "mcqs": 30,
+    "correct_answer_distribution": {
+      "A": 9,
+      "B": 18,
+      "C": 2,
+      "D": 1
+    },
+    "distractors": 90,
+    "mains_body_only_words": [
+      218,
+      202,
+      212,
+      204,
+      223,
+      208
+    ],
+    "original_pdf_sha256": "767cc8cad529ab3599032a8f17ff91c84be2271f958e2ea4069a3deda78c9524",
+    "local_pdf_candidate_sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41",
+    "local_pdf_candidate_pages": 26,
+    "verified_primary_source_key_correspondences": 9,
+    "arithmetic_only_checks": 1,
+    "unverified_keys": 21,
+    "unverified_distractors": 90,
+    "independent_approval": 0
+  }
 }
