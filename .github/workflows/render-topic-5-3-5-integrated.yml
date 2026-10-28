@@ -6,7 +6,7 @@ on:
       - 'Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5/source/complete-notes.md'
       - 'Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5/source/original-mcqs.md'
       - 'Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5/source/complete-model-answers.md'
-      - 'scripts/publish_topic_5_3_4.py'
+      - 'scripts/publish_topic_5_3_5.py'
       - 'scripts/render_topic_5_3_4_integrated.py'
       - '.github/workflows/render-topic-5-3-5-integrated.yml'
   workflow_dispatch:
@@ -41,7 +41,7 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
-            python scripts/publish_topic_5_3_4.py
+            python scripts/publish_topic_5_3_5.py
             git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle63.pdf" 'project-control/academic-readiness/5-3-5-cycle63-ci-render-qa-2026-10-28.json'
             if git diff --cached --quiet; then
               echo 'Topic 5-3-5 already synchronized'
