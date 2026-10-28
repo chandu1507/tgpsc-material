@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 26,
+  "not_assessed_count": 25,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 42 ASSESSED_REBUILD_REQUIRED, 26 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle60 repairs strict Simpson reversal and MCQ30; local CI candidate only until actual GitHub artifact verification.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 43 ASSESSED_REBUILD_REQUIRED, 25 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle61 5-3-3 16-concept depth repair and MCQ19 basis correction on source branch; CI publication/artifact pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -133,9 +133,10 @@
     "5-2-4",
     "5-2-5",
     "5-3-1",
-    "5-3-2"
+    "5-3-2",
+    "5-3-3"
   ],
-  "last_readiness_update": "Cycle60 Topic 5-3-2 corrected and CI-published: actual post-CI artifact 12811390092 downloaded; 1732 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 444 local links and 1137 fragments zero broken, outer/inner CRC PASS, 18/18 topic manifest hashes PASS. 0 academic approvals.",
+  "last_readiness_update": "2026-10-28 Cycle61 5-3-3 direct source repair; academic gates incomplete",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -150,6 +151,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-3-3-cycle61-direct-source-depth-and-concentration-correction-2026-10-28.json",
     "project-control/academic-readiness/5-3-2-cycle60-actual-downloaded-post-ci-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
     "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json",
