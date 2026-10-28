@@ -1,0 +1,803 @@
+{
+  "topic_id": "5-3-4",
+  "cycle": 62,
+  "date": "2026-10-28",
+  "source": "original-practice.md",
+  "original_practice_not_official_PYQ": true,
+  "keys_internally_checked": 30,
+  "distractors_internally_reviewed": 90,
+  "answer_distribution": {
+    "A": 2,
+    "B": 14,
+    "C": 13,
+    "D": 1
+  },
+  "corrected_items": [
+    9,
+    20
+  ],
+  "independent_expert_approved": false,
+  "limitations": "No named independent expert; six mains claims, diagrams, official syllabus reauthentication, page density and browser QA pending.",
+  "items": [
+    {
+      "number": 1,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "1/(1/15+1/10)=6 days",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 days"
+        },
+        {
+          "label": "B",
+          "text": "6 days"
+        },
+        {
+          "label": "C",
+          "text": "12 days"
+        },
+        {
+          "label": "D",
+          "text": "25 days"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 2,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "1/(1/8-1/12)=24 days",
+      "options": [
+        {
+          "label": "A",
+          "text": "16 days"
+        },
+        {
+          "label": "B",
+          "text": "20 days"
+        },
+        {
+          "label": "C",
+          "text": "24 days"
+        },
+        {
+          "label": "D",
+          "text": "32 days"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 3,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "inverse time ratio 5:4",
+      "options": [
+        {
+          "label": "A",
+          "text": "4:5"
+        },
+        {
+          "label": "B",
+          "text": "5:4"
+        },
+        {
+          "label": "C",
+          "text": "9:4"
+        },
+        {
+          "label": "D",
+          "text": "1:1"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 4,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "6*20/10=12 days",
+      "options": [
+        {
+          "label": "A",
+          "text": "8 days"
+        },
+        {
+          "label": "B",
+          "text": "10 days"
+        },
+        {
+          "label": "C",
+          "text": "12 days"
+        },
+        {
+          "label": "D",
+          "text": "14 days"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 5,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "4/(1/3)=12 days",
+      "options": [
+        {
+          "label": "A",
+          "text": "8 days"
+        },
+        {
+          "label": "B",
+          "text": "10 days"
+        },
+        {
+          "label": "C",
+          "text": "12 days"
+        },
+        {
+          "label": "D",
+          "text": "16 days"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 6,
+      "correct_key": "D",
+      "independently_recomputed_internal_key": "D",
+      "reasoning": "1/(1/6-1/9)=18 hours",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 hours"
+        },
+        {
+          "label": "B",
+          "text": "9 hours"
+        },
+        {
+          "label": "C",
+          "text": "12 hours"
+        },
+        {
+          "label": "D",
+          "text": "18 hours"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 7,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "0.6/(0.4/5)=7.5 days",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 days"
+        },
+        {
+          "label": "B",
+          "text": "6 days"
+        },
+        {
+          "label": "C",
+          "text": "7.5 days"
+        },
+        {
+          "label": "D",
+          "text": "12.5 days"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 8,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "3+(2/3)/(1/6)=7 days",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 days"
+        },
+        {
+          "label": "B",
+          "text": "7 days"
+        },
+        {
+          "label": "C",
+          "text": "8 days"
+        },
+        {
+          "label": "D",
+          "text": "9 days"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 9,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "8*5*12=480 worker-hours",
+      "options": [
+        {
+          "label": "A",
+          "text": "240"
+        },
+        {
+          "label": "B",
+          "text": "360"
+        },
+        {
+          "label": "C",
+          "text": "480"
+        },
+        {
+          "label": "D",
+          "text": "600"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 10,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "single-crew access prevents simultaneous additive rates",
+      "options": [
+        {
+          "label": "A",
+          "text": "Workers share a job unit"
+        },
+        {
+          "label": "B",
+          "text": "Work quality is comparable"
+        },
+        {
+          "label": "C",
+          "text": "Only one crew can access the narrow worksite"
+        },
+        {
+          "label": "D",
+          "text": "Both rates are in jobs/day"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 11,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "90/3.6=25 m/s",
+      "options": [
+        {
+          "label": "A",
+          "text": "15"
+        },
+        {
+          "label": "B",
+          "text": "20"
+        },
+        {
+          "label": "C",
+          "text": "25"
+        },
+        {
+          "label": "D",
+          "text": "30"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 12,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "84/1.4=60 km/h",
+      "options": [
+        {
+          "label": "A",
+          "text": "54 km/h"
+        },
+        {
+          "label": "B",
+          "text": "60 km/h"
+        },
+        {
+          "label": "C",
+          "text": "64 km/h"
+        },
+        {
+          "label": "D",
+          "text": "70 km/h"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 13,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "150/10=15 seconds",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 s"
+        },
+        {
+          "label": "B",
+          "text": "15 s"
+        },
+        {
+          "label": "C",
+          "text": "20 s"
+        },
+        {
+          "label": "D",
+          "text": "25 s"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 14,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "(100+200)/15=20 seconds",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 s"
+        },
+        {
+          "label": "B",
+          "text": "15 s"
+        },
+        {
+          "label": "C",
+          "text": "20 s"
+        },
+        {
+          "label": "D",
+          "text": "30 s"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 15,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "240/(35+45)=3 hours",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 h"
+        },
+        {
+          "label": "B",
+          "text": "3 h"
+        },
+        {
+          "label": "C",
+          "text": "4 h"
+        },
+        {
+          "label": "D",
+          "text": "6 h"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 16,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "60/(70-50)=3 hours",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 h"
+        },
+        {
+          "label": "B",
+          "text": "3 h"
+        },
+        {
+          "label": "C",
+          "text": "4 h"
+        },
+        {
+          "label": "D",
+          "text": "6 h"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 17,
+      "correct_key": "A",
+      "independently_recomputed_internal_key": "A",
+      "reasoning": "2*30*60/(30+60)=40 km/h",
+      "options": [
+        {
+          "label": "A",
+          "text": "40 km/h"
+        },
+        {
+          "label": "B",
+          "text": "45 km/h"
+        },
+        {
+          "label": "C",
+          "text": "48 km/h"
+        },
+        {
+          "label": "D",
+          "text": "50 km/h"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 18,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "(30+60)/2=45 km/h",
+      "options": [
+        {
+          "label": "A",
+          "text": "40 km/h"
+        },
+        {
+          "label": "B",
+          "text": "42 km/h"
+        },
+        {
+          "label": "C",
+          "text": "45 km/h"
+        },
+        {
+          "label": "D",
+          "text": "48 km/h"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 19,
+      "correct_key": "A",
+      "independently_recomputed_internal_key": "A",
+      "reasoning": "12-3=9 km/h",
+      "options": [
+        {
+          "label": "A",
+          "text": "9 km/h"
+        },
+        {
+          "label": "B",
+          "text": "12 km/h"
+        },
+        {
+          "label": "C",
+          "text": "15 km/h"
+        },
+        {
+          "label": "D",
+          "text": "36 km/h"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 20,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "300/(4+6)=30 seconds, first reunion after t=0",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 s"
+        },
+        {
+          "label": "B",
+          "text": "30 s"
+        },
+        {
+          "label": "C",
+          "text": "50 s"
+        },
+        {
+          "label": "D",
+          "text": "75 s"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 21,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "flat cumulative distance with fresh valid observations implies rest",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constant high speed"
+        },
+        {
+          "label": "B",
+          "text": "Rest"
+        },
+        {
+          "label": "C",
+          "text": "Negative speed"
+        },
+        {
+          "label": "D",
+          "text": "Acceleration"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 22,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "10000*8*(9/12)/100=600 rupees",
+      "options": [
+        {
+          "label": "A",
+          "text": "₹400"
+        },
+        {
+          "label": "B",
+          "text": "₹600"
+        },
+        {
+          "label": "C",
+          "text": "₹800"
+        },
+        {
+          "label": "D",
+          "text": "₹900"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 23,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "100*3000/(20000*3)=5 percent",
+      "options": [
+        {
+          "label": "A",
+          "text": "4%"
+        },
+        {
+          "label": "B",
+          "text": "5%"
+        },
+        {
+          "label": "C",
+          "text": "6%"
+        },
+        {
+          "label": "D",
+          "text": "7%"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 24,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "100*(13800-12000)/(12000*5)=3 years",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 years"
+        },
+        {
+          "label": "B",
+          "text": "2.5 years"
+        },
+        {
+          "label": "C",
+          "text": "3 years"
+        },
+        {
+          "label": "D",
+          "text": "4 years"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 25,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "P+PRT/100=P(1+RT/100)",
+      "options": [
+        {
+          "label": "A",
+          "text": "P(1+R/100)^T"
+        },
+        {
+          "label": "B",
+          "text": "P+RT"
+        },
+        {
+          "label": "C",
+          "text": "P(1+RT/100)"
+        },
+        {
+          "label": "D",
+          "text": "PRT"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 26,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "original principal basis is simple interest",
+      "options": [
+        {
+          "label": "A",
+          "text": "Compound interest"
+        },
+        {
+          "label": "B",
+          "text": "Simple interest"
+        },
+        {
+          "label": "C",
+          "text": "A guaranteed yield"
+        },
+        {
+          "label": "D",
+          "text": "A discount factor"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 27,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "trained supervisors and trained volunteers need not overlap",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes, always"
+        },
+        {
+          "label": "B",
+          "text": "No, not necessarily"
+        },
+        {
+          "label": "C",
+          "text": "Yes, if training is long"
+        },
+        {
+          "label": "D",
+          "text": "Only when volunteers are paid"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 28,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "Q true does not entail P",
+      "options": [
+        {
+          "label": "A",
+          "text": "P must be true"
+        },
+        {
+          "label": "B",
+          "text": "P must be false"
+        },
+        {
+          "label": "C",
+          "text": "P may or may not be true"
+        },
+        {
+          "label": "D",
+          "text": "Q must be false"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 29,
+      "correct_key": "B",
+      "independently_recomputed_internal_key": "B",
+      "reasoning": "200/20000=1%, 150/10000=1.5%",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falls from 1% to .75%"
+        },
+        {
+          "label": "B",
+          "text": "Rises from 1% to 1.5%"
+        },
+        {
+          "label": "C",
+          "text": "Stays 1%"
+        },
+        {
+          "label": "D",
+          "text": "Cannot compute"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    },
+    {
+      "number": 30,
+      "correct_key": "C",
+      "independently_recomputed_internal_key": "C",
+      "reasoning": "temporal order alone cannot prove causation",
+      "options": [
+        {
+          "label": "A",
+          "text": "Policy certainly caused fall"
+        },
+        {
+          "label": "B",
+          "text": "Timing proves mechanism"
+        },
+        {
+          "label": "C",
+          "text": "Other causes and denominator changes must be tested"
+        },
+        {
+          "label": "D",
+          "text": "Waiting time cannot be measured"
+        }
+      ],
+      "distractors_checked": 3,
+      "verification_type": "internal arithmetic or formal logic, not independent expert"
+    }
+  ]
+}
