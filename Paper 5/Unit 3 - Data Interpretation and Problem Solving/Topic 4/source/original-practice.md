@@ -82,7 +82,7 @@ D. 9 days
 **Answer: B. 7 days**  
 **Explanation:** A does 1/3; B does 2/3 in 4 days; total 7 days.
 
-**MCQ 09. Eight workers work five hours daily for 12 days. Equivalent hours at same productivity?**
+**MCQ 09. Eight workers each work five hours per day for 12 days. What is the total labour input in worker-hours?**
 
 A. 240  
 B. 360  
@@ -90,7 +90,7 @@ C. 480
 D. 600
 
 **Answer: C. 480**  
-**Explanation:** 8×5×12=480 worker-hours.
+**Explanation:** Eight people each contribute 5×12=60 hours; aggregate labour input is 8×60=480 worker-hours. Calendar elapsed work time is 12 days, not 480 hours.
 
 **MCQ 10. Which condition invalidates adding independent work rates?**
 
@@ -192,7 +192,7 @@ D. 36 km/h
 **Answer: A. 9 km/h**  
 **Explanation:** Upstream ground speed=12−3=9 km/h.
 
-**MCQ 20. Two runners move opposite directions on 300-m track at 4 and 6 m/s. First meeting?**
+**MCQ 20. Two runners start together from the same point on a 300-m circular track, running in opposite directions at 4 and 6 m/s. When is their first reunion after departure?**
 
 A. 20 s  
 B. 30 s  
@@ -200,7 +200,7 @@ C. 50 s
 D. 75 s
 
 **Answer: B. 30 s**  
-**Explanation:** Relative speed=10 m/s; one lap separation=300 m; 300/10=30 s.
+**Explanation:** Excluding the initial shared position at t=0, their first subsequent meeting occurs when their combined arc distance equals one circumference: (4+6)t=300, so t=30 s. This assumes constant speeds and opposite directions.
 
 **MCQ 21. A horizontal segment of a cumulative-distance versus time graph means?**
 

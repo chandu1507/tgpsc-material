@@ -1,12 +1,12 @@
 {
   "topic_id": "5-3-4",
   "title": "Time and Work, Speed–Time–Distance, Simple Interest, Analytical and Critical Reasoning",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
-  "prior_repair_reported": false,
+  "prior_repair_reported": true,
   "inventory_baseline": {
     "path": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 4",
     "files": 12,
@@ -17,17 +17,17 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle62 direct source audit: original PDF SHA preserved; MCQ09 and MCQ20 ambiguities corrected; internal 30-key/90-distractor checks (not independent review); MoSPI [S07] wrong-year link corrected; graph-data and speed-time worked examples; six mains body-only 225/214/203/200/213/216. Syllabus, mains claim, diagram, full-page-per-concept, browser and actual downloaded CI artifact checks pending.",
+  "next_action": "Publish synchronized PDF via guarded CI and download actual artifact; finish academic and browser checks. R9 remains NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false
 }

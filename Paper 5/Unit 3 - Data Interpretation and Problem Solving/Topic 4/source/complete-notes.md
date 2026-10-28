@@ -147,6 +147,11 @@ On a speed–time graph, the area under the curve gives distance. A vehicle trav
 
 **Constructed bus schedule:** A bus covers 30 km in the first 45 minutes, waits 15 minutes and then covers 30 km in 30 minutes. The three graph segments have slopes 40 km/h, 0 and 60 km/h. Total distance is 60 km; total time is 1.5 hours; overall average speed is 40 km/h. A graph that omits the waiting interval would incorrectly report 60/1.25 = 48 km/h. In public-service monitoring, definitions of trip time, dwell time and route coverage should be standardised before comparison.
 
+
+**Graph interpretation under missing observations (constructed):** Suppose a vehicle's odometer shows 0 km at 09:00, 24 km at 09:30, and 24 km at 09:45. The first observed interval has mean speed 24/0.5 = 48 km/h. The second interval shows zero *recorded change* over fifteen minutes. If the odometer is continuously observed and functioning, a horizontal cumulative-distance line represents rest. But if the last reading was cached because GPS or telemetry stopped reporting, the same drawn line does not prove the vehicle was stationary. Check timestamps, sensor health and whether each plotted point is a fresh measurement before interpreting a flat segment. A missing observation is not a zero-valued observation.
+
+**Piecewise speed–time cross-check (constructed):** A vehicle accelerates uniformly from 0 to 10 m/s in 10 seconds, maintains 10 m/s for 20 seconds, then decelerates uniformly to rest over 10 seconds. Distances are triangular ½×10×10 = 50 m, rectangular 10×20 = 200 m and triangular ½×10×10 = 50 m. Total is 300 m over 40 seconds, so the *whole-interval* average speed is 7.5 m/s. The peak speed of 10 m/s and average of the three segment speeds, if weighted equally, are not substitutes for total distance divided by total elapsed time. If the deceleration is not uniform, its distance cannot be inferred from just the start/end speeds and duration. These cases show why axis labels, sampling quality and motion assumptions belong in an answer, not merely in a footnote.
+
 **Evidence interpretation:** Graph axes can exaggerate change if they begin above zero; irregular time intervals can distort visual slopes; smoothing can conceal short disruptions. Critical reasoning requires reading the underlying scale and definition, not inferring a policy conclusion from the visual impression alone. The diagram in this chapter explicitly marks a stationary interval so that learners can distinguish distance, time and slope.
 
 ## 14. Simple interest: principal, rate, time and amount
@@ -343,7 +348,7 @@ D. 9 days
 **Answer: B. 7 days**  
 **Explanation:** A does 1/3; B does 2/3 in 4 days; total 7 days.
 
-**MCQ 09. Eight workers work five hours daily for 12 days. Equivalent hours at same productivity?**
+**MCQ 09. Eight workers each work five hours per day for 12 days. What is the total labour input in worker-hours?**
 
 A. 240  
 B. 360  
@@ -351,7 +356,7 @@ C. 480
 D. 600
 
 **Answer: C. 480**  
-**Explanation:** 8×5×12=480 worker-hours.
+**Explanation:** Eight people each contribute 5×12=60 hours; aggregate labour input is 8×60=480 worker-hours. Calendar elapsed work time is 12 days, not 480 hours.
 
 **MCQ 10. Which condition invalidates adding independent work rates?**
 
@@ -453,7 +458,7 @@ D. 36 km/h
 **Answer: A. 9 km/h**  
 **Explanation:** Upstream ground speed=12−3=9 km/h.
 
-**MCQ 20. Two runners move opposite directions on 300-m track at 4 and 6 m/s. First meeting?**
+**MCQ 20. Two runners start together from the same point on a 300-m circular track, running in opposite directions at 4 and 6 m/s. When is their first reunion after departure?**
 
 A. 20 s  
 B. 30 s  
@@ -461,7 +466,7 @@ C. 50 s
 D. 75 s
 
 **Answer: B. 30 s**  
-**Explanation:** Relative speed=10 m/s; one lap separation=300 m; 300/10=30 s.
+**Explanation:** Excluding the initial shared position at t=0, their first subsequent meeting occurs when their combined arc distance equals one circumference: (4+6)t=300, so t=30 s. This assumes constant speeds and opposite directions.
 
 **MCQ 21. A horizontal segment of a cumulative-distance versus time graph means?**
 
@@ -586,7 +591,7 @@ Each answer below is organised under substantive subheadings. The answer text is
 
 **Method and calculation.** Consider a constructed Telangana drainage task of 360 accepted units. Crew A completes 18 units per working day and crew B completes 12. Joint capacity is 30 units/day, so ideal completion takes 360/30 = 12 working days. If both work for four days, they finish 120 units. Suppose B is then reassigned. The remaining 240 units require 240/18 = 13⅓ additional days with A alone. The total becomes 17⅓ working days, rather than the original twelve.
 
-**Administrative interpretation.** The calculation counts productive working days, not necessarily calendar days. Rainfall, access restrictions, equipment breakdowns and quality rework may increase elapsed time. If crews cannot work simultaneously on a narrow stretch, their nominal rates cannot simply be added. A supervisor should track accepted units rather than unverified excavation claims.
+**Administrative interpretation.** The calculation counts productive working days, not necessarily calendar days. Rainfall, access restrictions, equipment breakdowns and quality rework may increase elapsed time. If crews cannot work simultaneously on a narrow stretch, their nominal rates cannot simply be added. A supervisor should track accepted units rather than unverified excavation claims. For example, if an inspection rejects 18 of 180 claimed units, the accepted output is only 162 units. Recalculate the remaining workload from accepted work; otherwise the reported schedule is optimistically biased.
 
 **Safeguards and conclusion.** Prepare a dated activity schedule, identify the bottleneck, retain a contingency margin and verify site safety and environmental requirements. The work-rate equation is a transparent baseline; a defensible implementation plan adjusts it for actual constraints and documents deviations.
 
@@ -697,7 +702,7 @@ The core mathematics of this syllabus item is not news-driven. Current developme
 - **[S04]** Government of Telangana, reports portal listing *Socio-Economic Outlook 2026*, accessed 25 October 2026. https://www.telangana.gov.in/reports/
 - **[S05]** Ministry of Statistics and Programme Implementation, official current-surveys page documenting CPI base-year revision launched 12 February 2026; accessed 25 October 2026. https://mospi.gov.in/press-release/current-surveys-0
 - **[S06]** MoSPI, eSankhyiki official catalogue, August 2026 PLFS indicators with release date 15 September 2026; accessed 25 October 2026. https://esankhyiki.mospi.gov.in/catalogue-main/catalogue
-- **[S07]** MoSPI, official press-release listings for 12–16 October 2026, accessed 25 October 2026. https://www.mospi.gov.in/press-release/press-note-periodic-labour-force-plfs-monthly-bulletin-august-2025
+- **[S07]** MoSPI, official press-release listings for 12–16 October 2026, rechecked 28 October 2026; corrected a previously mismatched URL that pointed to an August 2025 PLFS item. https://www.mospi.gov.in/mospi_press_releases.htm
 - **[S08]** Reserve Bank of India, official publications and regulatory reference portal; used only to identify where current lending rules must be checked, not to assert a specific permitted rate. https://www.rbi.org.in/
 
 **Editorial warning:** This independent study draft is neither issued nor approved by the commission, NCERT, Telangana DES, MoSPI or RBI. The absence of independent academic review must not be interpreted as verification of every question, derivation or answer.

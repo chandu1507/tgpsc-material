@@ -736,9 +736,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original 11,431-word draft, 20-page PDF, 30 explained MCQs, 20 worked drills, 6 complete 200–250-word mains models, 3 diagrams; independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle62_targeted_ambiguity_source_link_mains_and_graph_repair_local_candidate",
+      "notes": "28 Oct Cycle62 direct assessment: original 20-page PDF SHA256 564061e2c2e121aa0184c7bb465da5889bef10c7b45773aecc8ba70194bf2fc8 preserved. MCQ09 worker-hours and MCQ20 first-reunion ambiguities corrected; MoSPI [S07] wrong-year link corrected; graph sampling and speed-time worked examples added; M1 body-only 225 words. Internal 30-key/90-distractor checks (not independent review); six mains body-only 225/214/203/200/213/216. Full-page concept density, mains claims, diagrams and browser checks pending. ZERO academic approvals.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-3-4.json"
     },
     {
