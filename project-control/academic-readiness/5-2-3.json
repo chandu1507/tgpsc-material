@@ -1,8 +1,8 @@
 {
   "topic_id": "5-2-3",
   "title": "Food Biotechnology, Food Safety, Organic Farming, Farm Mechanisation and Safe Drinking Water",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,51 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json",
+  "next_action": "Publish corrected integrated source and PDF through guarded CI, download actual post-edit artifact, audit 25 remaining MCQ keys and all 90 distractors, six mains claims, three diagrams, original syllabus and browser accessibility. No R9 without named expert.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "direct_assessment": {
+    "cycle": 56,
+    "concepts": 18,
+    "concepts_under_300_before": 2,
+    "concepts_under_300_after_local": 0,
+    "expanded_concepts": [
+      9,
+      18
+    ],
+    "mcqs": 30,
+    "answer_distribution": {
+      "A": 4,
+      "B": 17,
+      "C": 8,
+      "D": 1
+    },
+    "distractors": 90,
+    "mains_body_only_local": [
+      217,
+      221,
+      222,
+      215,
+      222,
+      207
+    ],
+    "bounded_primary_key_correspondences": 5,
+    "unverified_keys": 25,
+    "all_distractors_unverified": true,
+    "original_pdf_pages": 24,
+    "original_pdf_sha256": "5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592",
+    "local_integrated_pdf_pages": 26,
+    "local_integrated_pdf_sha256": "dd2b9847418c82f362861b5cf5609f1dd55a512115584dc9ddce9e31a48b064f",
+    "post_edit_github_artifact_verified": false
+  }
 }
