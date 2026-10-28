@@ -1,3 +1,7 @@
+## Cycle51 Topic 5-1-3 direct source/ISRO assessment — 28 October 2026
+
+Exactly **75** original topics: **7 IN_PROGRESS, 33 ASSESSED_REBUILD_REQUIRED, 35 NOT_ASSESSED**; **10 verified R1 PASS**, **ZERO fully R1–R8 ready**, **ZERO independent academic approvals**. Topic **5-1-3** preserved original **26-page PDF** SHA256 `bc41a053ecb189e99840f74351e65a4d414c4ba4f88f6258cb1e6de39df3b902`. Direct editable-source audit: **16 concepts**, **four below 300 words (10,11,12,16)**; **30 original four-option MCQs (A7/B18/C5/D0; 90 distractors)**; six mains body-only counts **209/215/214/203/201/216**. Seven bounded ISRO key-proposition checks for Q10/Q12/Q14/Q16/Q17/Q26/Q28; **23 other keys and all 90 distractors NOT independently checked**. New 23 Oct ISRO SPADEX re-entry notice flagged for incorporation; no new PDF or source repair published. Official syllabus indexed snippet found but direct PDF retrieval returned HTTP 502, so **R1 IN_PROGRESS**, not PASS. No browser accessibility or independent expert review. Evidence: `project-control/academic-readiness/5-1-3-cycle51-direct-artifact-depth-and-isro-source-correspondence-2026-10-28.json`.
+
 
 
 ## Cycle50 Topic 5-1-2 direct evidence assessment — 28 October 2026
