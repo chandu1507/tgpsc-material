@@ -28,6 +28,7 @@ The links below point to government or statutory-institution materials consulted
 | S22 | Ministry of Petroleum and Natural Gas/CHT, National Policy on Biofuels 2018 | Policy provenance, with 2022 amendment described in later official documents | https://www.cht.gov.in/national-policy-biofuel-2018 |
 | S23 | PIB official explainer, Jan 2026 | E20 target advanced to ESY 2025–26; 19.05% average blending as of 31 Jul 2025; not October 2026 achievement | https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026127771801.pdf |
 | S24 | MNRE, Biogas Programme, accessed 24 Oct 2026 | Anaerobic digestion programme scope and 2022 notification; not universal plant feasibility | https://biogas.mnre.gov.in/about-the-programmes |
+| S25 | MNRE, Small Hydro Power Development Scheme FY 2026–27 to FY 2030–31, official scheme guidelines and FAQ, checked 28 Oct 2026 | **1–25 MW inclusive for this specific scheme**, approximately 1,500-MW new capacity target and ₹2,584.60-crore outlay; not a generic micro-hydro definition or proof of commissioning | https://nrep.mnre.gov.in/guidelines-shp |
 
 ### Evidence-status and unresolved checks
 
