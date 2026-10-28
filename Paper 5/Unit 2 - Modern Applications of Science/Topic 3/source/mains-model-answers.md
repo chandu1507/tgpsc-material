@@ -8,7 +8,7 @@
 
 **Technological contributions.** Traditional fermentation converts substrates into acids, gases and flavours, as in curd and fermented cereal batter. Defined starter cultures improve consistency; enzymes assist juice clarification and lactose hydrolysis. Biofortification improves nutrient composition at crop level, whereas fortification adds nutrients during processing. Controlled fermentation can support value-added millet and fruit enterprises in Telangana. Probiotic claims, however, require evidence for a particular strain and dose; not every fermented food is probiotic.
 
-**Safety and regulation.** Biological contamination, allergens, chemical residues and post-process recontamination can undermine benefits. Good Manufacturing Practices, hygiene, validated heat treatment, HACCP and batch traceability reduce risks. FSSAI standards govern permitted ingredients, labelling and compliance. Small processors need training, testing access and reliable cold chains rather than technology alone.
+**Safety and regulation.** Biological contamination, allergens, chemical residues and post-process recontamination can undermine benefits. Good Manufacturing Practices, hygiene, validated heat treatment, HACCP and batch traceability reduce risks. FSSAI standards govern permitted ingredients, labelling and compliance. Small processors need training, testing access and reliable cold chains rather than technology alone. Batch-level temperature records and documented corrective actions are especially important where intermittent electricity can undermine a cold chain.
 
 **Limitations and policy response.** New products may face uncertain consumer acceptance, energy costs, variable raw materials and exaggerated health claims. Public research should evaluate effectiveness and safety independently, while farmer-producer organisations receive support for hygienic processing and marketing.
 
@@ -24,7 +24,7 @@
 
 **HACCP mechanism.** Hazard Analysis and Critical Control Point is preventive. A business maps its process, identifies significant hazards, determines essential control points, establishes validated limits, monitors performance, takes corrective action, verifies effectiveness and keeps records. In pasteurised milk, a validated time-temperature step may be critical; a deviation requires segregation and assessment of affected batches. Routine hygiene remains a prerequisite rather than a substitute.
 
-**Indian institutional framework.** The Food Safety and Standards Act, 2006 and FSSAI regulations establish standards and business obligations. Schedule 4 hygiene requirements and food-safety management systems translate broad duties into operational practices. State enforcement and recognised laboratories provide oversight.
+**Indian institutional framework.** The Food Safety and Standards Act, 2006 and FSSAI regulations establish standards and business obligations. Schedule 4 hygiene requirements and food-safety management systems translate broad duties into operational practices. State enforcement and recognised laboratories provide oversight. The June 2026 final FSSAI licensing amendment also clarifies production-record obligations and first-in-first-out or first-expire-first-out storage requirements, subject to stated exceptions. [S19]
 
 **Conclusion.** Finished-product testing is necessary but insufficient. HACCP, traceability and proportionate inspections reduce risk before consumers are exposed.
 
@@ -70,7 +70,7 @@
 
 **Treatment choices.** The Nalgonda technique uses controlled coagulation, settling and filtration, but demands correct dosing and sludge management. Activated alumina adsorbs fluoride yet requires monitoring for exhaustion and regeneration. Reverse osmosis can remove dissolved ions but uses energy and produces reject water. Blending with a verified low-fluoride source may be economical where supply is reliable; an alternative piped source can avoid complex local operations.
 
-**Administrative evaluation.** Compare raw-water chemistry, removal reliability, lifecycle cost, operator skill, power, waste disposal and independent testing. A plant without consumables, maintenance and treated-water monitoring is not a dependable health intervention. Telangana's fluoride-affected areas illustrate why source mapping and health surveillance must accompany infrastructure.
+**Administrative evaluation.** Compare raw-water chemistry, removal reliability, lifecycle cost, operator skill, power, waste disposal and independent testing. A plant without consumables, maintenance and treated-water monitoring is not a dependable health intervention. Telangana's fluoride-affected areas illustrate why source mapping and health surveillance must accompany infrastructure. A public dashboard should report both source-water and household-tap results; a plant-level reading alone may miss contamination introduced during distribution.
 
 **Conclusion.** No single technology is universally best. Select the least fragile solution that consistently supplies compliant water at the household tap, with transparent monitoring and contingency arrangements.
 
