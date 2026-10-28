@@ -1,8 +1,8 @@
 {
   "topic_id": "6-2-2",
   "title": "Topic 2 — official subtopic heading pending verification",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,58 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle70: direct 32-concept count (32 initially under300, four expanded, 28 remain shallow); 30 four-option original practice MCQs A7/B8/C8/D7, keys and 90 distractors NOT independently verified; six mains direct body-only 214/242/219/217/226/229, claims NOT fully checked; Supreme Court 1995 official judgment directly read, FRA official Form C checked, PESA official indexed; original 20-page PDF SHA256 55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6 preserved; deterministic integrated PDF/actual CI artifact pending; zero approvals.",
+  "next_action": "Finish 28 shallow concepts with full-page depth; verify all 30 keys/90 distractors and six mains claims; directly authenticate TGPSC syllabus and 1978 sources; inspect diagrams and browser; render via CI and independently download artifact. R9 not started.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "cycle70": {
+    "date": "2026-10-29",
+    "baseline_main": "9f7dca95a2addc68c9dbd7442aedf5472eb88137",
+    "original_pdf_sha256": "55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6",
+    "original_pdf_pages": 20,
+    "concept_count": 32,
+    "initial_under300": 32,
+    "expanded_concepts": [
+      23,
+      25,
+      26,
+      27
+    ],
+    "post_edit_under300": 28,
+    "mcq_count": 30,
+    "answer_distribution": {
+      "A": 7,
+      "B": 8,
+      "C": 8,
+      "D": 7
+    },
+    "keys_independently_verified": 0,
+    "distractors_independently_verified": 0,
+    "mains_body_only": [
+      214,
+      242,
+      219,
+      217,
+      226,
+      229
+    ],
+    "mains_claim_level_verified": false,
+    "diagrams_embedded": 3,
+    "original_pdf_preserved": true,
+    "new_integrated_pdf_rendered": false,
+    "post_edit_actions_artifact_verified": false,
+    "full_page_density_met": false,
+    "independent_approvals": 0,
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  }
 }

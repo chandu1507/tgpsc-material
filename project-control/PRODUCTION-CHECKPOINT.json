@@ -836,9 +836,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original full English chapter published 25 October 2026; 30 original explained MCQs, six 200–250-word mains answers, three diagrams, 12-source audit. Commission original 2024 syllabus direct reinspection pending; independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle70_source_bounded_legal_repair_ci_publication_pending",
+      "notes": "Cycle70: original 20-page PDF SHA256 55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6 preserved; 32 concepts initially below300, four expanded with direct 1995 Supreme Court legal chronology and FRA/PESA distinctions, 28 still shallow; MCQ12 corrected in both practice and integrated source; 30 original practice MCQs A7/B8/C8/D7, six mains 214/242/219/217/226/229 by direct body-only count. Three original diagrams embedded, deterministic CI publication planned; full keys/distractors and claim-level reviews pending. ZERO academic approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-2-2.json"
     },
     {

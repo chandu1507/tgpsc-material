@@ -1,0 +1,71 @@
+{
+  "cycle": 70,
+  "date": "2026-10-29",
+  "topic_id": "6-2-2",
+  "source_baseline_main": "9f7dca95a2addc68c9dbd7442aedf5472eb88137",
+  "original_pdf_sha256": "55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6",
+  "original_pdf_pages": 20,
+  "original_pdf_preserved": true,
+  "concepts": 32,
+  "initial_below_300": 32,
+  "substantively_expanded": [
+    23,
+    25,
+    26,
+    27
+  ],
+  "post_edit_below_300": 28,
+  "mcqs": 30,
+  "answer_distribution": {
+    "A": 7,
+    "B": 8,
+    "C": 8,
+    "D": 7
+  },
+  "keys_independently_verified": 0,
+  "distractors_independently_verified": 0,
+  "official_PYQs_verified": 0,
+  "mains_body_only_counts": [
+    214,
+    242,
+    219,
+    217,
+    226,
+    229
+  ],
+  "mains_claim_level_verified": false,
+  "source_evidence": [
+    {
+      "source": "Supreme Court of India, The Dy. Collector v. S. Venkata Ramanaiah, 18 September 1995, 15-page official judgment",
+      "url": "https://api.sci.gov.in/jonew/judis/10511.pdf",
+      "access": "direct full-text official PDF",
+      "claims": "1959 Andhra commencement, 1963 Telangana extension, 1970 amendment, prospective operation"
+    },
+    {
+      "source": "Ministry of Tribal Affairs FRA Rules including 2012 amendments",
+      "url": "https://tribal.gov.in/downloads/acts-and-rules/FRARulesBook.pdf",
+      "access": "official Form C text directly checked",
+      "claims": "community forest resource claim form and customary boundaries"
+    },
+    {
+      "source": "Ministry of Panchayati Raj PESA Act",
+      "url": "https://panchayat.gov.in/en/pesa-act/",
+      "access": "official indexed Act page; accessible full Act not independently page-audited",
+      "claims": "PESA institutional scope and consultation distinction"
+    }
+  ],
+  "uncertified": [
+    "direct original 2024 TGPSC syllabus PDF",
+    "1978 contemporary police/district records",
+    "rally attendance figures",
+    "full MCQ key/distractor independent review",
+    "all six mains claim reviews",
+    "three diagram historical accuracy",
+    "full page per concept",
+    "browser accessibility"
+  ],
+  "integrated_pdf": "CI publication pending",
+  "R8": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0
+}
