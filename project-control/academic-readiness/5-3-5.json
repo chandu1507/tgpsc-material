@@ -1,8 +1,8 @@
 {
   "topic_id": "5-3-5",
   "title": "Decision Making and Problem Solving: Structured Administrative Situations",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,18 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet.",
+  "next_action": "Expand remaining short sections, independently check 30 MCQ keys/90 distractors, six mains and diagrams; render deterministic integrated PDF, verify actual GitHub artifact hashes/CRC/links and browser usability; R9 closed.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "latest_evidence": "project-control/academic-readiness/5-3-5-cycle63-direct-assessment-and-partial-repair-2026-10-28.json"
 }
