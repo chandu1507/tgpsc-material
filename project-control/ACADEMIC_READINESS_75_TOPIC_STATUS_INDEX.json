@@ -13,7 +13,7 @@
   "not_assessed_count": 16,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 52 ASSESSED_REBUILD_REQUIRED / 16 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle70 legal/source repair and CI publication pending; publication integrity is NOT academic approval.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 52 ASSESSED_REBUILD_REQUIRED / 16 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle70 actual publication artifact verified, but academic readiness NOT certified.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -145,7 +145,7 @@
     "6-2-1",
     "6-2-2"
   ],
-  "last_readiness_update": "2026-10-29 Cycle70 Topic 6-2-2: direct 32-concept depth audit, four legal/FRA/PESA expansions, MCQ12 correction, original PDF preserved; CI publication and downloaded-artifact QA pending.",
+  "last_readiness_update": "2026-10-29 Cycle70 Topic 6-2-2: direct official 1995 Supreme Court source repair, four concepts expanded, corrected MCQ12, synchronized 24-page CI PDF; actual downloaded artifact 12851536072 CRC/75 originals/links/manifest PASS; 28 concepts shallow, R8 IN_PROGRESS, zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -162,6 +162,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-2-2-cycle70-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-2-2-cycle70-direct-source-and-depth-audit-2026-10-29.json",
     "project-control/academic-readiness/6-2-1-cycle69-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-2-1-cycle69-direct-depth-and-bounded-primary-source-audit-2026-10-29.json",
