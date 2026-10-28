@@ -27,14 +27,14 @@
 
 **Answer: A.** The periodical illustrates how print carried regional arguments beyond meetings.
 
-**Q4. Which gathering is firmly associated with 8–9 March 1997?**
+**Q4. Which 1997 mobilisation is associated with the 8–9 March Bhuvanagiri meeting in the indexed University of Hyderabad historical account?**
 
-- A. Warangal Declaration
-- B. Bhuvanagiri Sabha
-- C. 2004 Vidyavanthula Vedika
-- D. 1956 SRC
+- A. The Warangal Declaration gathering
+- B. The Bhuvanagiri Sabha
+- C. The Suryapet Telangana Maha Sabha
+- D. The Telangana Aikya Vedika coordination forum
 
-**Answer: B.** The Bhuvanagiri Sabha took place in March 1997 and brought cultural and intellectual voices together.
+**Answer: B.** The thesis's indexed chronology places Bhuvanagiri on 8–9 March 1997. The other options refer to distinct 1997 mobilisations; original organiser minutes were not directly obtained.
 
 **Q5. The dominant historical contribution of Bhuvanagiri was:**
 
@@ -90,14 +90,14 @@
 
 **Answer: A.** Accounts emphasise land, democratic rights and tribal autonomy alongside statehood.
 
-**Q11. Which person is strongly associated with Telangana economic and institutional research?**
+**Q11. Which figure is especially associated with economic and institutional analysis supporting the renewed Telangana statehood argument?**
 
 - A. K. Jayashankar
-- B. Lord Curzon
-- C. Warren Hastings
-- D. Mountbatten
+- B. Kaloji Narayana Rao
+- C. Belli Lalitha
+- D. Maroju Veeranna
 
-**Answer: A.** Jayashankar's role linked economic analysis with civic advocacy.
+**Answer: A.** Jayashankar is chiefly associated here with economic and institutional research; the other figures made important but distinct literary, cultural or political contributions. This is an original practice item, not an authenticated official PYQ.
 
 **Q12. Kaloji Narayana Rao is most relevant here as:**
 
@@ -153,14 +153,14 @@
 
 **Answer: A.** The 1997 resolution is an important early national-party expression of support.
 
-**Q18. Which is the correct constitutional route for forming a new state?**
+**Q18. Which statement accurately describes the Article 3 procedure for creating a state from an existing state?**
 
-- A. A civic trust alone
-- B. Article 3 parliamentary legislation
-- C. A university resolution alone
-- D. A district collector’s circular
+- A. A state legislature's affirmative consent is constitutionally mandatory in every case.
+- B. The President recommends introduction of the bill and refers the proposal to the affected state legislature for its views; Parliament legislates.
+- C. A Governor may create a state by executive notification without Parliament.
+- D. A national referendum is constitutionally mandatory before every state reorganisation.
 
-**Answer: B.** Parliament legislates under Article 3 following the prescribed procedure.
+**Answer: B.** Article 3 requires presidential recommendation and the prescribed reference for views, but not an absolute state-legislature veto. Parliament exercises the lawmaking power; the Government of India's published Constitution provides the controlling text.
 
 **Q19. Which best captures Congress activity around 2000–01?**
 
