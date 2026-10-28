@@ -35,6 +35,12 @@ The late-twentieth-century quest therefore involved at least three related argum
 
 **Mains distinction:** identity is a social and historical category; regionalism is a political orientation; statehood is a constitutional reorganisation outcome. One should not treat them as interchangeable definitions.
 
+
+
+**Institutional choices and competing preferences.** Regional recognition can be pursued through language policy, decentralised budgets, regional development boards, enforceable recruitment safeguards, or a new state. These are alternatives, not logical synonyms. To evaluate an argument for statehood, ask which specific authority was unavailable under the existing arrangement and why a proposed safeguard was considered insufficient. A demand for democratic control may coexist with a commitment to multilingual citizenship and equal treatment of migrants. Equally, an argument for political unity need not deny distinctive Telangana culture. The relevant historical evidence includes party manifestos, public resolutions, legislative debates and contemporary press accounts, not a later claim that every resident supported the eventual outcome. This distinction is important in mains answers: explain why an identity acquired political salience, then separately test the constitutional and administrative remedy advocated by particular organisations.
+
+![Four dimensions of identity](../diagrams/identity-four-pillars.png)
+
 ## 4. The geography of grievance: upland Telangana and uneven opportunity
 
 The physical geography of the Deccan shaped the vocabulary of deprivation. Many Telangana villages relied on tanks, wells and rainfall rather than perennial canal irrigation. Hard-rock aquifers, variable monsoon rainfall and the expense of lifting water could make cultivation risky. Comparisons with canal-irrigated delta districts of coastal Andhra were politically powerful because a difference in reliable water could become a difference in cropping intensity, farm income, creditworthiness and educational opportunity across generations.
@@ -58,6 +64,10 @@ Public employment carried significance beyond the salary of an individual recrui
 However, “non-local” is a legal classification in a specific recruitment context, not a blanket description of anyone born outside a region. The precise local-candidate rules vary by cadre, zone, educational history and applicable order. Nor is a count of employees from another region by itself proof of unlawful appointment. Evidence must show the governing rule, post, roster, selection year, applicable exceptions and whether a competent authority found a violation. Treating allegations as verdicts would weaken an answer.
 
 For students, the deeper issue is the relationship between formal equality and substantive access. If disadvantaged districts have fewer quality schools, even a formally neutral examination can reproduce uneven opportunity. Employment safeguards and educational investment therefore need to be analysed together.
+
+
+
+**Recruitment-audit worked method.** Consider an illustrative disputed appointment in a zonal cadre. First establish the recruitment notification date and the governing Presidential Order or subsequent amendment. Next identify whether the post belonged to the relevant local cadre, which local area applied, and how local-candidate status was determined under the applicable educational or residence criteria. Compare the selection list with vacancy reservations and permitted exceptions; then check any competent inquiry finding and available appeal. A mismatch between a person's birthplace and the cadre location is not itself a finding of illegality. The burden is to connect a specific appointment to a specific rule in force at the time. This sequence also reveals a separate structural question: even lawful recruitment may be experienced as unequal where district schools, hostels and coaching access differ sharply. Legal compliance and broader opportunity should therefore be measured with different indicators.
 
 ## 7. Education: who enters the pipeline for public power?
 
@@ -123,6 +133,8 @@ The shift from private grievance to public identity is not automatic. A drought-
 
 Unrest also had limits. Mobilisation varied by district, caste, occupation and generation. Some residents feared disruption of business or education; others opposed divisive rhetoric. An exam answer should neither claim unanimous support nor assume that an energetic meeting proved an electoral majority. Public gatherings demonstrate organisation and sentiment, not precise population-wide opinion.
 
+![Path from identity to mobilisation](../diagrams/identity-to-mobilisation.png)
+
 ## 15. Regional discrimination versus structural disparity
 
 Disparity is an observable difference in outcomes; discrimination is differential treatment that violates an applicable standard or is motivated by prohibited bias. Underdevelopment can result from ecology, historical land relations, policy choices, infrastructure deficits and unequal social power. These categories interact but must be analysed separately. A district with fewer hospitals may have been neglected, may have lower population density, or may suffer from weak transport; an evidence-based assessment tests the competing explanations.
@@ -130,6 +142,12 @@ Disparity is an observable difference in outcomes; discrimination is differentia
 For recruitment, the correct evidence is appointment files and the governing legal rules. For irrigation, it is project planning, expenditure and water delivery. For culture, one might examine curriculum, media representation and institutional patronage, alongside oral testimony. A persuasive argument does not require pretending that every difference was deliberately engineered. In fact, separating deliberate exclusion from cumulative structural disadvantage often strengthens the case for targeted remedies.
 
 This distinction is valuable for administrators: a court may remedy an illegal appointment, whereas a geographically unequal school system needs long-term finance, teacher deployment and transport policy. Different causes demand different instruments.
+
+
+
+**Causal testing and counterfactuals.** Suppose one district has fewer functioning primary health centres per 100,000 residents than another. That is an observed disparity; it does not yet identify a discriminatory decision. Investigate historical population, terrain, travel time, disease burden, sanctioned staffing, budget releases and actual facility operation. Then ask whether similarly situated districts were treated differently after accounting for need and cost. For recruitment, the relevant counterfactual is a candidate processed correctly under the same governing rule, not an imagined world in which all candidates were born locally. For irrigation, compare reliable seasonal delivery, not only proposed command area. This evidence chain separates a measurable outcome from an allegation, a plausible mechanism and an adjudicated violation. A strong mains answer should present competing explanations, specify which records could distinguish them and match any remedy to the mechanism established.
+
+![From grievance to evidence and remedy](../diagrams/grievance-evidence-remedy.png)
 
 ## 16. The political meaning of “self-rule”
 
@@ -202,6 +220,10 @@ Article 3 of the Constitution empowers Parliament to form new states and alter b
 Federalism, equality and representative democracy supplied different vocabularies for Telangana debates. Advocates could argue that a smaller state would improve responsiveness; opponents could argue that a larger state better supported integrated planning. The constitutional framework accommodates debate rather than predetermining its outcome. The later Andhra Pradesh Reorganisation Act, 2014 is evidence of how the process ultimately operated, but should not be projected backward as proof that statehood was inevitable in the 1990s.
 
 The correct exam distinction is between the legality of the demand, the merits of the policy and the historical conditions under which Parliament acted.
+
+
+
+**Procedure under Article 3.** Parliament has the power to form a new state by law, but the constitutional procedure is more specific than a simple popular demand. A Bill affecting a state's territory or name requires the President's recommendation, and the President refers the proposal to the affected State Legislature for its views within a specified period. Consultation is constitutionally required; the state legislature's agreement is not a general veto over Parliament's power. The political process may involve commissions, negotiations and public mobilisation, yet none of these alone creates a state. A student should also distinguish the 2014 statutory endpoint from the much earlier debates that made it possible. For historical explanation, compare what activists proposed at a particular date with the constitutional tools then available, without projecting the final result backward as inevitable. The Article 3 route addresses territorial authority; it does not automatically determine equitable budgets, service delivery or minority protection.
 
 ## 25. Evidence, bias and the historian's responsibilities
 
@@ -288,7 +310,7 @@ A newly created state announces that regional identity has been vindicated, but 
 
 **MCQ 2.** Which event occurred first? (A) G.O. 610 (B) 1975 Presidential Order (C) 1956 merger (D) 1997 Bhuvanagiri meeting. **Answer: C.** The chronological order is 1956, 1975, 1985, 1997; dates help distinguish institutional layers.
 
-**MCQ 3.** Which evidence best tests an allegation that a specific recruitment violated local-candidate rules? (A) A viral poster (B) An employee's birthplace alone (C) Applicable service order and appointment record (D) A film scene. **Answer: C.** Legality depends on cadre, year, local area and exceptions, not an undifferentiated identity label.
+**MCQ 3.** Which records best begin a legally meaningful audit of a disputed local-cadre appointment? (A) A birthplace certificate without the cadre rules (B) An employee's language and a news allegation (C) A vacancy roster without the appointment year or exceptions (D) The applicable order, cadre, recruitment year, selection record and exceptions. **Answer: D.** Legality turns on the rule applicable to the particular post and appointment, not a broad identity label.
 
 **MCQ 4.** A reservoir's proposed command area proves: (A) All fields receive water (B) A design intention, not actual delivery (C) Farmers are prosperous (D) There is no need for release records. **Answer: B.** Actual irrigation requires construction, releases, distribution and seasonal reliability.
 
@@ -316,7 +338,7 @@ A newly created state announces that regional identity has been vindicated, but 
 
 **MCQ 16.** Which description of Professor K. Jayashankar is most appropriate? (A) A figure associated with intellectual articulation of Telangana grievances (B) The sole founder of every organisation (C) Author of Article 3 (D) Head of the 1956 SRC. **Answer: A.** Avoid claims of exclusive leadership or unrelated constitutional authorship.
 
-**MCQ 17.** What is a credible way to test the “surplus” argument? (A) Quote a slogan only (B) Compare consistent regional revenues, expenditure, shared costs and years (C) Count rallies (D) Use the highest circulating number. **Answer: B.** Fiscal definitions and attribution are central.
+**MCQ 17.** Which method best evaluates a historical regional revenue-surplus claim? (A) Compare nominal receipts but omit shared expenditure (B) Compare regional tax totals across unaligned financial years (C) Project today's district boundaries backward without adjustment (D) Reconcile year-wise receipts, expenditure, common costs and accounting definitions on comparable boundaries. **Answer: D.** Fiscal attribution requires consistent time, territory and treatment of shared costs.
 
 **MCQ 18.** Which proposition is true? (A) A new state must have a different language (B) Article 3 makes every demand automatically successful (C) Regional identity can coexist with support for political unity (D) Regional autonomy is impossible under the Constitution. **Answer: C.** Identity, constitutional possibility and political choice are different.
 
@@ -336,7 +358,7 @@ A newly created state announces that regional identity has been vindicated, but 
 
 **MCQ 26.** Why did safeguards become a political issue beyond their text? (A) Their implementation and credibility were disputed (B) They had no relevance to employment (C) Every claim was automatically upheld (D) They prohibited cultural expression. **Answer: A.** The gap between formal promise and perceived practice affected trust.
 
-**MCQ 27.** Which administrative remedy best addresses an illegal local appointment? (A) A film festival (B) Due-process review under the applicable recruitment order (C) Reclassifying rainfall (D) Banning all migration. **Answer: B.** Legal disputes need lawful evidence-based correction.
+**MCQ 27.** After evidence suggests a local-cadre appointment violated the governing order, what is the most defensible response? (A) Dismiss all employees from other regions without hearings (B) Treat every non-local appointment as unlawful regardless of exceptions (C) Change future rules but refuse to examine the disputed appointment (D) Refer the case to the competent authority for notice, record review and lawful proportionate correction. **Answer: D.** Individual remedies require due process under the applicable rule.
 
 **MCQ 28.** Why must a historian distinguish a song from a budget table? (A) Songs are never sources (B) Each source answers different questions (C) Budget tables always prove causation (D) Both are identical evidence. **Answer: B.** A song documents cultural rhetoric; a budget records fiscal categories.
 
@@ -365,7 +387,7 @@ A newly created state announces that regional identity has been vindicated, but 
 
 **Historical background.** Telangana's past within multilingual Hyderabad State differed from the colonial provincial experience of coastal Andhra and Rayalaseema. The 1956 merger brought regional safeguards, but controversies concerning their implementation persisted. The 1969 agitation and later employment disputes supplied a shared political memory.
 
-**Economic grievances.** Many upland districts faced uncertain rainfall, costly irrigation, limited educational access and restricted opportunities for public employment. Activists contrasted these conditions with more reliably irrigated areas and questioned budget priorities. Hyderabad's growth was real, yet benefits did not reach every rural district equally. These claims require district-wise evidence rather than unsupported numerical generalisations.
+**Economic grievances.** Many upland districts faced uncertain rainfall, costly irrigation, limited educational access and restricted opportunities for public employment. Activists contrasted these conditions with more reliably irrigated areas and questioned budget priorities. Hyderabad's growth was real, yet benefits did not reach every rural district equally. These claims require district-wise evidence rather than unsupported numerical generalisations. A defensible comparison separates approved projects from completed works and aligns historical district boundaries, expenditure years and actual service delivery before attributing causation to policy choices.
 
 **Cultural and democratic dimensions.** Telangana dialects, folk forms and festivals became symbols of dignity. Intellectuals and artists linked regional experience with arguments about self-rule and accountable institutions. The 1990s broadened public discussion beyond the earlier safeguard-centred agitation.
 
@@ -393,7 +415,7 @@ A newly created state announces that regional identity has been vindicated, but 
 
 **Metropolitan contrast.** Hyderabad's expansion generated growth, but remote districts could remain underserved. This shows uneven spillovers; identifying deliberate discrimination needs further evidence about decisions, access and distribution.
 
-**Administrative response.** A proven unlawful appointment needs due-process correction. A school-access gap needs infrastructure, teachers and financial support. A water gap needs engineering, maintenance and participatory allocation. All require transparent data and evaluation.
+**Administrative response.** A proven unlawful appointment needs due-process correction. A school-access gap needs infrastructure, teachers and financial support. A water gap needs engineering, maintenance and participatory allocation. All require transparent data and evaluation. A transparent public dashboard should publish denominators, funding releases and outcomes, while independent grievance mechanisms distinguish administrative error from contested political interpretations and permit affected parties to respond.
 
 **Conclusion.** Telangana's debate was strengthened by identifying structural disadvantage, but sound analysis must test competing causes and choose remedies appropriate to each problem.
 

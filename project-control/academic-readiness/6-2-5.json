@@ -1,8 +1,8 @@
 {
   "topic_id": "6-2-5",
   "title": "Quest for Telangana Identity, Intellectual Debates, Political Efforts and Popular Unrest",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,40 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/6-2-5-cycle73-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
+  "next_action": "22 concepts still shallow; independently audit 30 keys/90 distractors, six mains claims and 3 diagrams; CI render and actual downloaded artifact QA; official syllabus and original forum records; browser usability.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "metrics": {
+    "concepts": 26,
+    "concepts_below_300": 22,
+    "substantively_expanded": 4,
+    "original_practice_mcqs": 30,
+    "rewritten_mcqs": [
+      3,
+      17,
+      27
+    ],
+    "keys_independently_verified": 0,
+    "distractors_independently_verified": 0,
+    "mains_body_only_counts": [
+      215,
+      205,
+      215,
+      200,
+      200,
+      201
+    ],
+    "diagrams_embedded_in_editable_master": 3,
+    "full_page_per_concept_met": false
+  }
 }

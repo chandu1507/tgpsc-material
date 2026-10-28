@@ -872,9 +872,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "10,000-word original English draft, 21-page PDF, 30 explained original MCQs, six 200–250-word mains answers, three diagrams, dated evidence audit; commission original opened but precise Item 5 line only corroborated from indexed transcription. Independent audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle73_four_substantive_expansions_two_mains_repaired_three_mcqs_rewritten_ci_render_pending",
+      "notes": "10,000-word original English draft, 21-page PDF, 30 explained original MCQs, six 200–250-word mains answers, three diagrams, dated evidence audit; commission original opened but precise Item 5 line only corroborated from indexed transcription. Independent audit pending. Cycle73 29 Oct: 26 concept sections directly audited; 4 expanded to >300, 22 remain shallow; two mains body counts corrected to 215 and 215; 30 original four-option MCQs, 3 improved; 3 existing diagrams embedded; deterministic CI PDF pending. NOT approved.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-2-5.json"
     },
     {
