@@ -80,11 +80,11 @@
 
 **Response package.** Maintain due lists and verify U-WIN entries; use ASHA and ANM outreach, mobile sessions and caregiver reminders. Strengthen temperature monitoring, backup power, stock forecasting and referral arrangements. Integrate birth-dose vaccination with maternity care and monitor AEFI reports transparently.
 
-**Accountability.** Review district-level zero-dose and dropout patterns monthly, investigate stock-outs and missed sessions, and publish corrective actions without exposing personal information. Community dialogue should address concerns with evidence and respect.
+**Accountability.** Review district-level zero-dose and dropout patterns monthly, investigate stock-outs and missed sessions, and publish corrective actions without exposing personal information. Community dialogue should address concerns with evidence and respect. District reviews should distinguish migrant registration gaps from genuinely missed doses before allocating outreach resources.
 
 **Conclusion.** Equity requires dependable last-mile delivery, not merely new technology or larger procurement totals. Programme success is completed, safe vaccination among previously missed children.
 
-*Body word count: 200 (excluding subheadings).*
+*Body word count: 214 (excluding subheadings).*
 
 ### Mains model 6. Discuss vaccine safety, AEFI causality and public trust in an evidence-based vaccination programme.
 

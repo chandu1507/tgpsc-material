@@ -1,8 +1,8 @@
 {
   "topic_id": "5-2-5",
   "title": "Vaccines: Immunity, DPT and Rabies Production, and Recombinant Hepatitis B Vaccines",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,50 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/5-2-5-cycle58-source-depth-mains-and-bounded-key-audit-2026-10-28.json",
+  "next_action": "Two shallow concepts and one underlength mains body corrected; 13 bounded correct-answer proposition checks only, 17 other keys and all 90 distractors, six mains claim sets, three diagrams, syllabus and browser QA remain. Local 23-page PDF not GitHub CI publication. Zero approvals.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "direct_assessment": {
+    "cycle": 58,
+    "concepts": 18,
+    "expanded_concepts": [
+      9,
+      15
+    ],
+    "concepts_under_300_after_local": 0,
+    "mcqs": 30,
+    "answer_distribution": {
+      "A": 5,
+      "B": 20,
+      "C": 5,
+      "D": 0
+    },
+    "distractors": 90,
+    "mains_body_only_counts": [
+      207,
+      221,
+      221,
+      209,
+      214,
+      205
+    ],
+    "original_pdf_sha256": "c2d92e8f136f7272abba7369d44e88d01ec55034e666c1334e5a0d76b28d42b2",
+    "local_integrated_pdf_sha256": "bed3bca0337fc8a7c310a8f84b8bc89938d2ac8a296b0b7b33723953d1ba9f1b",
+    "local_integrated_pdf_pages": 23,
+    "bounded_key_correspondences": 13,
+    "remaining_keys": 17,
+    "all_distractors_unverified": true,
+    "independent_academic_approvals": 0,
+    "post_edit_github_artifact_verified": false
+  }
 }
