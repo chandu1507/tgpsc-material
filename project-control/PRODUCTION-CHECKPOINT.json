@@ -688,8 +688,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle58_two_concepts_and_mains_corrected_ci_publication_pending",
-      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending. Cycle58: two concept expansions and mains M5 correction in editable master; 13 bounded key checks, no complete academic approval. Local PDF only until CI publication.",
+      "production_review": "cycle58_ci_integrated_publication_actual_artifact_verified_independent_academic_audit_pending",
+      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending. Cycle58: two concept expansions and mains M5 correction in editable master; 13 bounded key checks, no complete academic approval. Local PDF only until CI publication. Post-render GitHub artifact 12803981224 actually downloaded: CRC/SHA, 75 original PDFs and links verified; integrated CI 25-page PDF SHA256 11a55291d7d850484eb8dd6acbb9c942ea6d69bc1acf5bbc7a9455f74d3097b3. R8 IN_PROGRESS; zero approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-5.json"
     },
