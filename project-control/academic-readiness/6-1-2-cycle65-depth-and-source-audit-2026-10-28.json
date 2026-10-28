@@ -34,7 +34,7 @@
     },
     {
       "n": 7,
-      "words": 268
+      "words": 374
     },
     {
       "n": 8,
@@ -42,7 +42,7 @@
     },
     {
       "n": 9,
-      "words": 243
+      "words": 351
     },
     {
       "n": 10,
@@ -54,15 +54,15 @@
     },
     {
       "n": 12,
-      "words": 267
+      "words": 369
     },
     {
       "n": 13,
-      "words": 237
+      "words": 342
     },
     {
       "n": 14,
-      "words": 265
+      "words": 373
     },
     {
       "n": 15,
@@ -86,7 +86,7 @@
     },
     {
       "n": 20,
-      "words": 237
+      "words": 347
     },
     {
       "n": 21,
@@ -94,14 +94,14 @@
     },
     {
       "n": 22,
-      "words": 226
+      "words": 339
     },
     {
       "n": 23,
       "words": 321
     }
   ],
-  "concepts_below_300": 7,
+  "concepts_below_300": 0,
   "mcq_count": 30,
   "mains_count": 6,
   "sections_expanded": [
@@ -109,15 +109,22 @@
     4,
     5,
     6,
+    7,
     8,
+    9,
     10,
     11,
+    12,
+    13,
+    14,
     15,
     16,
     17,
     18,
     19,
+    20,
     21,
+    22,
     23
   ],
   "source_claim_checks": [
@@ -145,11 +152,12 @@
     "1952 signed inquiry report and original victim records",
     "All 30 MCQ keys and 90 distractors independently",
     "Six mains claim-level audits",
-    "Full-page-per-concept",
     "Diagram correctness",
     "Actual CI PDF and downloaded artifact integrity",
-    "Direct browser usability"
+    "Direct browser usability",
+    "Full-page-per-concept visual density (word count alone is insufficient)"
   ],
   "independent_approvals": 0,
-  "R9": "NOT_STARTED"
+  "R9": "NOT_STARTED",
+  "expanded_sections_count": 21
 }
