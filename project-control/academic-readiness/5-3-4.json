@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle62 direct source audit: original PDF SHA preserved; MCQ09 and MCQ20 ambiguities corrected; internal 30-key/90-distractor checks (not independent review); MoSPI [S07] wrong-year link corrected; graph-data and speed-time worked examples; six mains body-only 225/214/203/200/213/216. Syllabus, mains claim, diagram, full-page-per-concept, browser and actual downloaded CI artifact checks pending.",
-  "next_action": "Publish synchronized PDF via guarded CI and download actual artifact; finish academic and browser checks. R9 remains NOT_STARTED.",
+  "evidence": "Cycle62 direct source audit: original PDF SHA preserved; MCQ09 and MCQ20 ambiguities corrected; internal 30-key/90-distractor checks (not independent review); MoSPI [S07] wrong-year link corrected; graph-data and speed-time worked examples; six mains body-only 225/214/203/200/213/216. Syllabus, mains claim, diagram, full-page-per-concept, browser and actual downloaded CI artifact checks pending. Corrected deterministic renderer run 40692594311 SUCCESS, 23-page integrated PDF SHA256 132906bc21741921161fbdfe3cc70c66ce44dad316baf229abaeb3f0d9d3ba80; actual post-correction packaging artifact not yet verified. Earlier artifact 12817882019 contains stale PDF SHA da083714c89dd9e3a1e4d80e83697a435bc4167d92a8db99af7575b315beb0bb and must not be treated as final.",
+  "next_action": "Package current corrected 23-page PDF, download and verify ZIP CRC/75 original hashes/HTML links/manifest. Complete remaining academic/browser checks; R8 IN_PROGRESS, not PASS.",
   "external_reviewer": null,
   "student_accepted": false
 }
