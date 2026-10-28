@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-28",
+  "topic_id": "5-1-4",
+  "cycle": 52,
+  "packaging_run_id": 40623895892,
+  "artifact_id": 12788750996,
+  "artifact_sha256": "1fb26b44d2cf52f6b7f05fb6d0e3e2c40b02a54d6dcba96c696c7fa7af49c974",
+  "actual_downloaded_sha_matches_github_digest": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "outer_entries": 1,
+  "inner_entries": 1681,
+  "original_topic_pdfs": 75,
+  "all_75_original_pdf_hashes_unchanged_from_cycle51": true,
+  "readiness_json_records": 75,
+  "html_pages": 78,
+  "local_file_links_checked": 433,
+  "broken_file_links": 0,
+  "dom_fragments_checked": 1137,
+  "broken_fragments": 0,
+  "spa_routes_excluded_from_fragment_checks": 61,
+  "topic_manifest_hashes_checked": 18,
+  "topic_manifest_hashes_failed": 0,
+  "integrated_pdf": {
+    "pages": 26,
+    "sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41",
+    "embedded_images": 3,
+    "blank_pages": 0,
+    "text_boundary_violations": 0
+  },
+  "editable_master_sha256": "b5bb7b81e6219d4835f5b704c7cf3d0748e0926c9e2dcd79aa839a50b73ed062",
+  "concepts": 16,
+  "concepts_under_300": 0,
+  "original_practice_mcqs": 30,
+  "answer_distribution": {
+    "A": 9,
+    "B": 18,
+    "C": 2,
+    "D": 1
+  },
+  "mains_body_only_words": [
+    218,
+    202,
+    212,
+    204,
+    223,
+    208
+  ],
+  "academic_gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0,
+  "limitations": [
+    "No direct browser usability or full-resolution accessibility certification.",
+    "Nine bounded primary-source correct-key checks do not establish all 30 keys or 90 distractors.",
+    "Six mains claim-level and three diagram accuracy audits pending.",
+    "Direct original TGPSC 2024 syllabus PDF fetch HTTP 403; R1 not passed."
+  ],
+  "note": "This is evidence of the actually downloaded artifact for packaging run 40623895892. A subsequent commit containing this QA file creates a newer package with a different digest; do not confuse the two."
+}
