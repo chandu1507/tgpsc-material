@@ -1,7 +1,7 @@
 {
   "topic_id": "6-3-1",
   "created": "2026-10-25",
-  "title": "Public Awakening, Civil Society and the Articulation of Telangana Identity (1988–2004)",
+  "title": "Public Awakening, Civil Society and the Articulation of Telangana Identity (1988\u20132004)",
   "words": 11209,
   "pdf_pages": 24,
   "mcq_count": 30,
@@ -18,18 +18,27 @@
   "academic_status": "not_approved",
   "syllabus_authentication": "Original commission PDF returned HTTP 403; exact wording corroborated from indexed reproduction",
   "sha256": {
-    "README.md": "f73ae77010d790c9cf393739549e7e258a65eb7b61487cb6139d49c0d8d87f23",
+    "QA-REPORT.md": "30d311789748d8c0f7237326a63e3937916d4a730c18da7df23d17176c4b6c27",
+    "README.md": "54db86ff2f4543a375d67b77c48dab54ba57162d1096753c0d8d7a22dd8b9f0a",
     "complete-notes.pdf": "a84ba74ea6ab0c48598d65b246694bce1b74f23faa53a114e4e239a02c17846e",
     "diagrams/civic-mobilisation-chain.png": "85c52a23d53e99807b6770e7c861bf51453dee8ba0950ddca68ca3285fbe6e94",
     "diagrams/organisation-role-matrix.png": "1de8e4993b8f8e3d5e5675fcd7fa85b225bb48320f8b3d4c5ec5e4198fbcfa22",
     "diagrams/source-confidence-ladder.png": "b1ad6981d308e465b27b8658da70c1a7e7f2efa8bed0c356f870b3a297721ae4",
-    "index.html": "5340f52f1bfd9ffe0baa82cd648de5b226cd88b20377f89085393c8cee7a733b",
+    "index.html": "0cfca4594472f487f122bd19508b3acefe5390f82d0548fdd497ac31b40c7c6c",
     "source/answer-blueprints.md": "651d5ebadfca64742259ddee180cc065daef0f99052bfaeb28da89e70516614f",
     "source/complete-model-answers.md": "e1a547e466e07da5e5146bc96847e7f88dd3b5854c66771b5ff50e385020d669",
-    "source/complete-notes.md": "956d41c652257b767ce380bcdbc86d848f835194a332cabfa4703684aeb76880",
-    "source/original-practice.md": "f02ae09a65de62f1c9e3ce52175e8c5096be7632c1070ec739018c75d7c3f372",
+    "source/complete-notes.md": "82a2d2ce0fb47ea1b4ddff0dbe0c2b42e5019f3aba09da6cbfac0ce42dbf0a94",
+    "source/integrated-student-edition-cycle74.pdf": "70f609ec1e3db320d1be30111bc9551fc341c40efc66fa0564e8bc14fa12b5cc",
+    "source/original-practice.md": "22318d66a987aa6bde197165d3d3852d3ea9b6ee720a4e46a1bfc1a31c97b56b",
     "source/quick-revision.md": "6bf4c547aa256b037e98c02fb1e81caeacc3495eb1dc21341c9420f7265ff65a",
-    "source/references.md": "8275f9788d935fa02cdea4cfafd03e887a416ae22414a78e4e0c6753ad045e71",
+    "source/references.md": "c850fd8bbc4b3bd674e699cff624ed9009b1cac9f943ac655b9ca6a0659e671b",
     "source/syllabus-index.md": "0212c9c3b5acc415be0dad1e63444adc5f8be1d15750adc3e0955df036ce18fc"
-  }
+  },
+  "cycle74_partial_rebuild": true,
+  "concept_count": 41,
+  "concepts_below_300": 38,
+  "integrated_pdf_pages": 26,
+  "integrated_pdf_sha256": "70f609ec1e3db320d1be30111bc9551fc341c40efc66fa0564e8bc14fa12b5cc",
+  "independent_academic_approvals": 0,
+  "full_page_per_concept_met": false
 }
