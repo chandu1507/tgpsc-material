@@ -92,10 +92,10 @@ for tag in soup.find_all(["a","img","script","link"]):
 assert not bad_files and not bad_fragments, (bad_files,bad_fragments)
 
 pdf_sha=hashlib.sha256(pdf.read_bytes()).hexdigest()
-qa={"date":"2026-10-28","topic":"5-2-3","cycle":55,"original_pdf_sha256":original,"original_preserved":True,
+qa={"date":"2026-10-28","topic":"5-2-3","cycle":56,"original_pdf_sha256":original,"original_preserved":True,
     "integrated_pdf_sha256":pdf_sha,"integrated_pdf_pages":len(doc),"pdf_images":images,"blank_pages":blank,
     "text_boundary_violations":boundary,"concept_count":len(concepts),"min_concept_words":min(concept_words),
-    "original_mcqs":30,"correct_answers":distribution,"distractors":90,"mains_body_only_counts":body_counts,"mains_count_method":"regex word tokens after removing bold subheading labels; hyphenated tokens may differ from Cycle53 whitespace method",
+    "original_mcqs":30,"correct_answers":distribution,"distractors":90,"mains_body_only_counts":body_counts,"mains_count_method":"regex word tokens after removing bold subheading labels; hyphenated tokens may differ from alternative whitespace method",
     "html_file_links_checked":file_links,"broken_files":bad_files,"html_fragment_links_checked":fragment_links,
     "broken_fragments":bad_fragments,"spa_routes_excluded":spa_routes,
     "source_checks":"five bounded correct-key proposition checks (Q13, Q15, Q16, Q21, Q25); remaining 25 keys and all distractors unverified",
