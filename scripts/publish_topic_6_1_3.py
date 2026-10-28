@@ -22,7 +22,7 @@ original=sha(root/'complete-notes.pdf')
 assert original=='c4068779bba807d7acb05ef6891353c75e4ffedaf08ed4eeff903c17283b3052'
 md=(src/'complete-notes.md').read_text()
 word=lambda s:len(re.findall(r"[\w’'-]+",s))
-concepts=re.findall(r'(?ms)^## (\d+)\. ([^\n]+)\n(.*?)(?=^## \d+\. |\Z)',md)
+concepts=re.findall(r'(?ms)^## (\d+)\. ([^\n]+)\n(.*?)(?=^## \d+\. |^## Eight original|\Z)',md)
 concepts=[x for x in concepts if 1<=int(x[0])<=24]
 assert len(concepts)==24 and [int(x[0]) for x in concepts]==list(range(1,25))
 counts=[word(body) for _,_,body in concepts]
