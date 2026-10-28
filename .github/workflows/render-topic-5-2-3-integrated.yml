@@ -4,8 +4,8 @@ on:
     branches: [main]
     paths:
       - 'Paper 5/Unit 2 - Modern Applications of Science/Topic 3/source/complete-notes.md'
-      - 'scripts/publish_topic_5_2_2.py'
-      - 'scripts/render_topic_5_2_2_integrated.py'
+      - 'scripts/publish_topic_5_2_3.py'
+      - 'scripts/render_topic_5_2_3_integrated.py'
       - '.github/workflows/render-topic-5-2-3-integrated.yml'
   workflow_dispatch:
 permissions:
@@ -39,7 +39,7 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
-            python scripts/publish_topic_5_2_2.py
+            python scripts/publish_topic_5_2_3.py
             git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle56.pdf" 'project-control/academic-readiness/5-2-3-cycle56-ci-render-qa-2026-10-28.json'
             if git diff --cached --quiet; then
               echo 'Topic 5-2-3 already synchronized'
