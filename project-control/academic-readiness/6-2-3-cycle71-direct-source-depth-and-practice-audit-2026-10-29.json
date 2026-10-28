@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-29",
+  "cycle": 71,
+  "topic_id": "6-2-3",
+  "source_commit_base": "d6094aab9211fd180c78d92aaa18fe4e8d496b66",
+  "original_pdf_sha256": "3b0d9d5908c2e26e838d1cf9240b8b783151825cfedc437fb0dd99c5ddd88bc3",
+  "original_pdf_preserved": true,
+  "concept_count": 34,
+  "concepts_under_300": 30,
+  "sections_substantively_expanded": [
+    4,
+    5,
+    13,
+    25
+  ],
+  "mcq_count": 30,
+  "mcq_keys": {
+    "A": 5,
+    "B": 13,
+    "C": 12,
+    "D": 0
+  },
+  "mcq_distractors_count": 90,
+  "all_mcq_keys_independently_verified": false,
+  "all_distractors_independently_verified": false,
+  "mains_body_only_counts": [
+    220,
+    239,
+    240,
+    249,
+    243,
+    240
+  ],
+  "mains_claim_level_verified": false,
+  "source_boundaries": {
+    "election_1983": "ECI report listed but constituency tables not downloaded",
+    "crisis_1984": "Contemporary Washington Post and UPI reports inspected; not judicial findings",
+    "cultural_suppression": "Proposed reproducible coding protocol, no original film sample coded"
+  },
+  "R1": "IN_PROGRESS",
+  "R2": "IN_PROGRESS",
+  "R3": "BLOCKED",
+  "R4": "IN_PROGRESS",
+  "R5": "BLOCKED",
+  "R6": "IN_PROGRESS",
+  "R7": "BLOCKED",
+  "R8": "BLOCKED_PENDING_CI_AND_ARTIFACT",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "full_page_per_concept": false,
+  "direct_browser_accessibility_certified": false
+}
