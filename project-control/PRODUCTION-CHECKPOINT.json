@@ -1023,10 +1023,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle67 direct assessment only; 7/49/19; 12 historical R1; no new PDF or post-edit artifact; independent approvals zero.",
+    "note": "Cycle67 Topic 6-1-4 assessment-only; actual downloaded GitHub artifact 12839271314 digest/CRC/75 originals/links PASS. 7/49/19, zero ready and zero approved.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40684747238,
-    "last_verified_package_artifact": 12813918790,
+    "last_verified_package_run": 40740078431,
+    "last_verified_package_artifact": 12839271314,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1098,9 +1098,9 @@
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "6-1-4",
-    "evidence": "project-control/academic-readiness/6-1-4-cycle67-direct-source-legal-mcq-mains-and-archive-audit-2026-10-28.json"
+    "evidence": "project-control/academic-readiness/6-1-4-cycle67-actual-downloaded-post-assessment-artifact-qa-2026-10-28.json"
   },
-  "last_readiness_update": "Cycle67 Topic 6-1-4 direct source assessment: 22 shallow core concepts, six declared mains count mismatches, bounded Supreme Court legal check; original PDF unchanged, no new artifact certified.",
+  "last_readiness_update": "2026-10-28 Cycle67 Topic 6-1-4 assessment + actual GitHub artifact 12839271314 verified (1784 files, 75 original PDFs unchanged, links/CRC pass); academic R8 BLOCKED, approvals zero",
   "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 49 ASSESSED_REBUILD_REQUIRED, 19 NOT_ASSESSED; 12 verified historical R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1109,7 +1109,7 @@
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/6-1-4-cycle67-direct-source-legal-mcq-mains-and-archive-audit-2026-10-28.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/6-1-4-cycle67-actual-downloaded-post-assessment-artifact-qa-2026-10-28.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1130,5 +1130,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle67 Topic 6-1-4 direct source assessment: 22 shallow core concepts, six declared mains count mismatches, bounded Supreme Court legal check; original PDF unchanged, no new artifact certified."
+  "latest_readiness_update": "2026-10-28 Cycle67 Topic 6-1-4 assessment + actual GitHub artifact 12839271314 verified (1784 files, 75 original PDFs unchanged, links/CRC pass); academic R8 BLOCKED, approvals zero"
 }
