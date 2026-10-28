@@ -22,5 +22,40 @@
     "source/original-practice.md": "02de1a80af208d73531d6d902df425666eca630b74a560d685ee55cf7697910b",
     "source/answer-blueprints.md": "c75d67c130819b9ec03c0720e69ab86a864abfff1867670289ae4d94325215d9",
     "source/references.md": "9a2a67bfabf17ff9b0043eae1efd06c618918568dc2af61ac7a20e231d82b4d8"
+  },
+  "academically_approved": false,
+  "source_word_count": 12199,
+  "mains_count": 6,
+  "integrated_pdf_status": "CI_rendered_pending_academic_audit",
+  "integrated_pdf_pages": 23,
+  "integrated_pdf_sha256": "497ff7394fcc8a0564061d883f515810476b126c5caa1b362959c12b812a80dd",
+  "independent_academic_approvals": 0,
+  "metrics": {
+    "concept_count": 34,
+    "concepts_below_300": 30,
+    "answer_distribution": {
+      "A": 5,
+      "B": 13,
+      "C": 12,
+      "D": 0
+    },
+    "full_page_density_certified": false,
+    "independent_review_complete": false
+  },
+  "files_sha256": {
+    "QA-REPORT.md": "c4d52a491d96a8f847c6073c30e4d4b2339ac35cec2e6bb2879795e15a327fd8",
+    "README.md": "72c27a96f87c3432b7c5c220ca9320945cc6b4d38449a80d326797532f4c48c1",
+    "complete-notes.pdf": "3b0d9d5908c2e26e838d1cf9240b8b783151825cfedc437fb0dd99c5ddd88bc3",
+    "diagrams/identity-and-evidence.png": "6592ee8a789d13f77a5eb57698483e4789df18d270f3ea518d4c4981b15c55ed",
+    "diagrams/new-economy-mechanisms.png": "68dd401cb14ef5199e8cc912dfbaf8df284b736e60aedaac7ab1cbd70413acf1",
+    "diagrams/political-chronology.png": "6d9cee253d85730e179e16e52ce4bccf986a4098053c279e74061aa4b9d30830",
+    "index.html": "d59d39f8a165821150b251294833e447c88fc5449f7f8cf5d43c3eee45fb7cea",
+    "source/answer-blueprints.md": "c75d67c130819b9ec03c0720e69ab86a864abfff1867670289ae4d94325215d9",
+    "source/complete-notes.md": "a30092f3f417d6699116c3ff0df079b4bdb7bd017fa6286a4d6aa609926aeb4a",
+    "source/integrated-student-edition-cycle71.pdf": "497ff7394fcc8a0564061d883f515810476b126c5caa1b362959c12b812a80dd",
+    "source/original-practice.md": "02de1a80af208d73531d6d902df425666eca630b74a560d685ee55cf7697910b",
+    "source/quick-revision.md": "161b3ca5c02319f7dda40a0e2cbb8b846b129605a9e3c84ef6c5e00c54dab862",
+    "source/references.md": "dcc9e5e2b85a5286269bdee709caedb6320d0e190285dc46198446e58fe49d2e",
+    "source/syllabus-index.md": "913189a0da967fca571fa5fd590f709ba098d675c7a0af4b99ca4142bf1327fc"
   }
 }
