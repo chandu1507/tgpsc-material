@@ -13,7 +13,7 @@
   "not_assessed_count": 13,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 55 ASSESSED_REBUILD_REQUIRED / 13 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle73 source changes pending CI artifact verification.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 55 ASSESSED_REBUILD_REQUIRED / 13 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle73 6-2-5 integrated PDF and actual downloaded artifact verified, R8 IN_PROGRESS, not PASS.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -148,7 +148,7 @@
     "6-2-4",
     "6-2-5"
   ],
-  "last_readiness_update": "2026-10-29 Cycle73 Topic 6-2-5 direct audit and source repairs: 26 concepts, 22 still under300; 30 MCQs with 3 rewritten, no complete independent distractor audit; six mains 215/205/215/200/200/201; 3 diagrams embedded; CI PDF pending; 7/55/13; zero approvals.",
+  "last_readiness_update": "Cycle73 6-2-5: source corrections plus synchronized 21-page CI PDF, actual downloaded artifact 12858209914 CRC/SHA/75 original PDFs/450 local links/1050 fragments PASS; 22 concepts shallow, full academic QA pending; 7/55/13.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -165,6 +165,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-2-5-cycle73-actual-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-2-5-cycle73-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
     "project-control/academic-readiness/6-2-4-cycle72-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
     "project-control/academic-readiness/6-2-3-cycle71-actual-downloaded-github-artifact-qa-2026-10-29.json",
