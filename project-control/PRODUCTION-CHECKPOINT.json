@@ -848,9 +848,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original 2026-10-25 11k-word draft, 30 explained MCQs, six 200–250 word answers; independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle71_partial_source_rebuild_ci_pdf_pending_full_academic_audit",
+      "notes": "Cycle71: 34 concepts; four evidence-bounded substantive expansions, 30 still under300. 30 original practice MCQs A5/B13/C12/D0; 90 distractors not independently verified. Six mains body-only 220/239/240/249/243/240, claims pending. 1983 ECI tables and 2024 syllabus not directly retrieved; 1984 contemporary reports checked. Original PDF preserved. No independent academic approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-2-3.json"
     },
     {
