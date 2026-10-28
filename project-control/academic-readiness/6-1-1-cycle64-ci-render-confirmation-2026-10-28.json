@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "cycle": 64,
+  "topic_id": "6-1-1",
+  "baseline_commit": "217b1c3562ac51c708663b25793a874b37fc432b",
+  "renderer_run_id": 40711825490,
+  "renderer_status": "SUCCESS",
+  "integrated_pdf_sha256": "494f76e900ee4c0c54f072ecf51430ae5461df12763367aa7cf069cc7db5b3b6",
+  "integrated_pdf_pages": 26,
+  "original_pdf_sha256": "add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94",
+  "publisher_qa": "project-control/academic-readiness/6-1-1-cycle64-ci-render-qa-2026-10-28.json",
+  "actual_downloaded_packaging_artifact_verified": false,
+  "reason": "GitHub Actions bot push does not trigger packaging on push; a guarded human-origin PR merge is required to create a fresh packaging run containing the CI PDF.",
+  "R8": "BLOCKED_PENDING_ACTUAL_ARTIFACT_AND_ACADEMIC_QA",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0
+}
