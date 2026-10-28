@@ -1020,10 +1020,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle54: 5-1-5 guarded CI rendered synchronized 27-page integrated PDF and HTML; R8 IN_PROGRESS, post-edit artifact and academic review pending. 5-2-1 directly assessed.",
+    "note": "Cycle54: Topic 5-1-5 27-page CI PDF, offline HTML, editable master and actual downloaded ZIP verified (75 originals preserved, 435 local links, 1137 fragments, zero broken, CRC PASS); academic gates incomplete. 5-2-1 directly assessed.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40628966882,
-    "last_verified_package_artifact": 12790392756,
+    "last_verified_package_run": 40635201034,
+    "last_verified_package_artifact": 12792749773,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1084,7 +1084,7 @@
     "last_assessed": "5-2-1",
     "evidence": "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json"
   },
-  "last_readiness_update": "Cycle54 Topic 5-1-5 corrected source and CI 27-page PDF/HTML synchronized; post-edit downloaded-artifact QA pending; 5-2-1 direct assessment remains rebuild-required.",
+  "last_readiness_update": "Cycle54 actual downloaded post-render artifact 12792749773 independently verified: outer/inner CRC, 75 original PDFs hash-preserved, 75 readiness JSON, 78 HTML, 435 file links/1137 fragments zero broken, Topic 5-1-5 18/18 manifest hashes, integrated 27-page PDF SHA; R8 IN_PROGRESS, approvals ZERO.",
   "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 36 ASSESSED_REBUILD_REQUIRED, 32 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1093,7 +1093,7 @@
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1107,7 +1107,11 @@
     "commit": "c79dfe0b4120d20d412e035c669ac42626e69b78",
     "pages": 27,
     "pdf_sha256": "30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68",
-    "actual_post_edit_artifact_verified": false,
-    "academic_approval": 0
+    "actual_post_edit_artifact_verified": true,
+    "academic_approval": 0,
+    "artifact_id": 12792749773,
+    "packaging_run": 40635201034,
+    "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
+    "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   }
 }
