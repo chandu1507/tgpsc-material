@@ -110,6 +110,9 @@ The vaccine is only one component of rabies prevention. Rabies immunoglobulin su
 
 India's access problem combines biology and logistics. A district may need trained intradermal vaccinators, cold-chain capacity, appropriate documentation and referral arrangements. WHO recognises intradermal use of suitable cell-culture rabies vaccines as a dose-sparing approach under approved protocols; the route must be selected by trained providers. The comparative question 'traditional versus modern rabies vaccines' should therefore describe the transition away from nerve-tissue products, the rise of cell-culture inactivated products and the regulatory safeguards that made routine use safer. It must not romanticise old techniques or supply obsolete clinical schedules.
 
+
+
+**Why the transition matters (source-checked comparison).** The WHO Expert Consultation on Rabies (TRS 1012) specifically recommended discontinuing nerve-tissue vaccines because of their poorer safety and immunogenicity profiles, and replacing them with cell-culture or embryonated-egg vaccines [S26]. That is a policy judgment about the *vaccine substrate*, not an assertion that historical nerve-tissue products and current inactivated products contain the same impurities. A mains answer should separate four questions: what material carries the antigen, how infectious activity is eliminated, what independent release tests establish, and whether exposed patients can access timely prevention. Treating 'inactivated' as synonymous with 'safe without testing' would be incorrect. The 2018 WHO rabies position paper addresses both pre-exposure and post-exposure immunisation and, where indicated, rabies immunoglobulin [S27]. For an exam case, compare two hypothetical districts with identical vial supplies but different bite-reporting and referral delays: the second may prevent fewer deaths despite equivalent procurement. This demonstrates why manufacturing quality and clinical access are distinct safeguards.
 ### 10. Hepatitis B: disease mechanism and why vaccination matters
 
 Hepatitis B virus (HBV) infects the liver and can cause acute hepatitis or chronic infection. Chronic HBV can lead to cirrhosis and hepatocellular carcinoma, making the vaccine an example of cancer prevention through infection control. Transmission can occur from mother to child around birth, during early childhood and through blood or certain body-fluid exposures. The risk of chronic infection is particularly high when infection occurs in infancy, which is why timely newborn vaccination is central rather than optional.
@@ -170,6 +173,9 @@ The WHO Global Advisory Committee on Vaccine Safety published a 11 December 2025
 
 Imagine a cluster of fevers after an outreach session in Telangana. The district should provide clinical assessment, secure product and session records, identify lot numbers, evaluate cold-chain logs and report through the appropriate surveillance system. It should communicate what is known and what remains under investigation. Concealing uncertainty damages trust; publicly declaring causation before investigation can also harm trust. A high-quality answer proposes independent assessment, feedback to families and corrective action where warranted, while maintaining access to essential immunisation services.
 
+
+
+**Causality-assessment example (hypothetical, not an incidence estimate).** Suppose a district administers 10,000 doses during a campaign and records 12 reports of fever within two days. The observed reporting rate is 12/10,000 × 100,000 = **120 reports per 100,000 administered doses**. This figure is neither a vaccine-attributable risk estimate nor evidence that all 12 illnesses were caused by vaccination. Investigators must verify case definitions, onset times, expected background illness, vaccination errors and product-lot clustering; reporting completeness may also differ between facilities. WHO's AEFI definition expressly allows events with no causal relationship, and its causality-assessment framework uses structured evidence rather than temporal coincidence [S28]. A practical district response separates immediate clinical care, rapid notification, transparent communication and independent review. The comparison that matters is not '12 reports versus zero', but the pattern against credible background and comparator information, with uncertainties stated. This avoids the two opposite errors of suppressing reports and declaring causation prematurely.
 ### 16. Telangana applications: urban migration, tribal access and rabies
 
 Telangana offers contrasting implementation settings within one state. Hyderabad and surrounding urban areas have large populations, private providers, mobile households and fragmented records. A child who receives a first dose at one facility may return to another; continuity requires interoperable records and clear communication. In remote villages and tribal habitations, transport costs, monsoon access, workforce availability and cold-chain infrastructure may be more important than digital fragmentation. Neither setting can be understood through a single state-wide coverage percentage.
@@ -642,11 +648,11 @@ Introduction → AEFI definition → Surveillance and regulation → Risk commun
 
 **Response package.** Maintain due lists and verify U-WIN entries; use ASHA and ANM outreach, mobile sessions and caregiver reminders. Strengthen temperature monitoring, backup power, stock forecasting and referral arrangements. Integrate birth-dose vaccination with maternity care and monitor AEFI reports transparently.
 
-**Accountability.** Review district-level zero-dose and dropout patterns monthly, investigate stock-outs and missed sessions, and publish corrective actions without exposing personal information. Community dialogue should address concerns with evidence and respect.
+**Accountability.** Review district-level zero-dose and dropout patterns monthly, investigate stock-outs and missed sessions, and publish corrective actions without exposing personal information. Community dialogue should address concerns with evidence and respect. District reviews should distinguish migrant registration gaps from genuinely missed doses before allocating outreach resources.
 
 **Conclusion.** Equity requires dependable last-mile delivery, not merely new technology or larger procurement totals. Programme success is completed, safe vaccination among previously missed children.
 
-*Body word count: 200 (excluding subheadings).*
+*Body word count: 214 (excluding subheadings).*
 
 ### Mains model 6. Discuss vaccine safety, AEFI causality and public trust in an evidence-based vaccination programme.
 
@@ -718,6 +724,27 @@ Introduction → AEFI definition → Surveillance and regulation → Risk commun
   Verification: Indian licensing and oversight.
 - **[S25] Central Drugs Standard Control Organisation — Central Drugs Laboratory, Kasauli.** accessed 24 October 2026. https://cdsco.gov.in/opencms/opencms/en/Departments/Lab/CDL_Kasauli/  
   Verification: National control laboratory functions.
+
+- **[S26] World Health Organization — WHO Expert Consultation on Rabies, third report (TRS 1012).** 2018; checked 28 October 2026. https://www.paho.org/sites/default/files/2022-08/consulta-expertos-rabies-ed3-2021-english.pdf  
+  Bounded correspondence: section on nerve-tissue vaccine discontinuation and replacement by cell-culture/embryonated-egg vaccines; not a manufacturer batch audit.
+- **[S27] World Health Organization — Rabies vaccines: WHO position paper.** 19 April 2018; checked 28 October 2026. https://www.who.int/publications-detail-redirect/who-wer9316  
+  Bounded correspondence: pre-exposure, post-exposure and rabies immunoglobulin distinctions; not a personalised dosing schedule.
+- **[S28] World Health Organization — Serious AEFI and causality assessment.** accessed 28 October 2026. https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi  
+  Bounded correspondence: AEFI is a post-vaccination event without necessary causality; numerical example is explicitly hypothetical.
+- **[S29] World Health Organization / UNICEF — Global immunization coverage release.** 15 July 2026; checked 28 October 2026. https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who  
+  Bounded correspondence: 2025 global DTP1 90% and DTP3 85%; NOT Telangana data.
+- **[S30] World Health Organization — Tetanus fact sheet.** 15 July 2026; checked 28 October 2026. https://www.who.int/news-room/fact-sheets/detail/tetanus  
+  Bounded correspondence: tetanus is not transmitted person to person, supporting Q9/Q29; not a full distractor audit.
+- **[S31] World Health Organization — Recombinant hepatitis B vaccine quality recommendations (TRS 978).** 25 May 2013; checked 28 October 2026. https://www.who.int/publications/m/item/recombinant-hep-b-A4-trs-978  
+  Bounded correspondence: HBsAg recombinant production and quality oversight; not a manufacturer-specific validation.
+- **[S32] Ministry of Health and Family Welfare — Universal Immunization Programme overview.** checked 28 October 2026. https://www.mohfw.gov.in/sites/default/files/41016395871489662752.pdf  
+  Bounded correspondence: DPT, hepatitis B and Hib in pentavalent; not a full schedule audit.
+- **[S33] Central Drugs Standard Control Organisation — National regulatory authority.** checked 28 October 2026. https://www.cdscoonline.gov.in/  
+  Bounded correspondence: CDSCO's NRA role and vaccine oversight.
+- **[S34] World Health Organization — Vaccine vial monitor.** 21 June 2021; checked 28 October 2026. https://www.who.int/publications/m/item/vaccine-vial-monitor  
+  Bounded correspondence: cumulative heat exposure, not a freeze monitor or sterility test.
+- **[S35] World Health Organization — Preventing mother-to-child transmission of hepatitis B.** accessed 28 October 2026. https://www.who.int/news-room/questions-and-answers/item/hepatitis-preventing-mother-to-child-transmission-of-the-hepatitis-b-virus  
+  Bounded correspondence: birth dose preferably within 24 hours; does not replace infant series.
 
 ### Quality and provenance limits
 
