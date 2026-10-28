@@ -66,7 +66,8 @@
       "blank_pages": 0,
       "local_html_links": 7,
       "broken_links": 0,
-      "actual_post_render_actions_artifact_downloaded": false
+      "actual_post_render_actions_artifact_downloaded": true
     }
-  }
+  },
+  "latest_downloaded_publication_artifact_qa": "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
 }
