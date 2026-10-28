@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "BLOCKED",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/6-2-5-cycle73-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
-  "next_action": "22 concepts still shallow; independently audit 30 keys/90 distractors, six mains claims and 3 diagrams; CI render and actual downloaded artifact QA; official syllabus and original forum records; browser usability.",
+  "next_action": "22 concepts still shallow; independent 30-key/90-distractor, six mains and diagram review; primary-source syllabus and 1997 forum verification; browser usability and screen-reader QA. CI PDF/artifact integrity verified but R8 not PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "metrics": {
@@ -51,6 +51,9 @@
       201
     ],
     "diagrams_embedded_in_editable_master": 3,
-    "full_page_per_concept_met": false
-  }
+    "full_page_per_concept_met": false,
+    "integrated_pdf_pages": 21,
+    "integrated_pdf_sha256": "c7aa45d231fdf395104e2ccc7a4088c6fcb4d5c2510638d0c6534f0ba54d2138"
+  },
+  "publication_evidence": "project-control/academic-readiness/6-2-5-cycle73-actual-downloaded-github-artifact-qa-2026-10-29.json"
 }
