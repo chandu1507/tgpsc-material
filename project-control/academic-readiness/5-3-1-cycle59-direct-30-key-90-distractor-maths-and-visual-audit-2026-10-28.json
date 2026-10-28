@@ -1,0 +1,414 @@
+{
+  "schema": "tgpsc.academic-readiness.cycle59.v1",
+  "date": "2026-10-28",
+  "topic_id": "5-3-1",
+  "source_commit": "a57c8e7ee541ad9a067e635005d2459d2e46890a",
+  "assessment_type": "Direct source inspection plus internal computational and distractor logic review; NOT named independent academic review",
+  "scope": {
+    "original_topics": 75,
+    "original_pdf_count": 75,
+    "original_topic_pdf_sha256": "59baba90b51e46c3baba60a0d2a3f6c9117f4cf94118aa5972318a5c08d4efcc",
+    "pdf_pages": 25,
+    "concept_count": 18,
+    "concept_words": [
+      414,
+      453,
+      413,
+      394,
+      397,
+      381,
+      341,
+      379,
+      401,
+      364,
+      376,
+      343,
+      314,
+      371,
+      405,
+      353,
+      373,
+      352
+    ],
+    "concepts_under_300": 0,
+    "original_mcqs": 30,
+    "keys_internally_reviewed": 30,
+    "distractors_internally_reviewed": 90,
+    "mains_body_only_words": [
+      229,
+      223,
+      230,
+      228,
+      237,
+      222
+    ],
+    "diagrams_visually_reviewed": 3
+  },
+  "method": {
+    "word_count": "regex word-token approximation; strips model-answer heading and bold section labels; 200-250 range under this explicit method",
+    "mcq": "Each question read directly from source/original-mcqs.md; correct option independently recomputed or reasoned; each of 3 wrong options considered explicitly",
+    "arithmetic": "29 separately scripted numeric assertions PASS, including 18 MCQ-derived checks and chart/mains examples",
+    "diagrams": "Directly inspected PNGs; grouped bar 58->69 +11 points, West 80->82, line May 55 Jan/Nov 42, pie shares 35+25+20+15+5=100 and 200-crore budget water70/education30"
+  },
+  "mcq_option_audit": [
+    {
+      "question": "Q01",
+      "correct": "B",
+      "correct_basis": "150/50000×1000=3",
+      "rejected_options": {
+        "A": "A uses one-tenth correct rate",
+        "C": "C uses tenfold rate",
+        "D": "D uses hundredfold rate"
+      }
+    },
+    {
+      "question": "Q02",
+      "correct": "C",
+      "correct_basis": "80−64=16 percentage points;16/64=25% relative",
+      "rejected_options": {
+        "A": "A confuses 16 points with 16% relative",
+        "B": "B confuses 25% relative with 25 points",
+        "D": "D treats final coverage as change"
+      }
+    },
+    {
+      "question": "Q03",
+      "correct": "B",
+      "correct_basis": "Nominal district counts compare via separate bars",
+      "rejected_options": {
+        "A": "A falsely implies continuous order",
+        "C": "C overlapping reasons cannot form a pie partition",
+        "D": "D treats categories as time"
+      }
+    },
+    {
+      "question": "Q04",
+      "correct": "C",
+      "correct_basis": "Village code is an identifier, not magnitude",
+      "rejected_options": {
+        "A": "A rainfall is measured quantity",
+        "B": "B length is measured quantity",
+        "D": "D time is measured quantity"
+      }
+    },
+    {
+      "question": "Q05",
+      "correct": "C",
+      "correct_basis": "(8+10+12+14+56)/5=20",
+      "rejected_options": {
+        "A": "A is the median not mean",
+        "B": "B omits high-value effect",
+        "D": "D is the maximum not mean"
+      }
+    },
+    {
+      "question": "Q06",
+      "correct": "A",
+      "correct_basis": "(30×2000+70×1000)/100=1300",
+      "rejected_options": {
+        "B": "B equal-weights unequal groups",
+        "C": "C misweights high-benefit group",
+        "D": "D exceeds both subgroup means"
+      }
+    },
+    {
+      "question": "Q07",
+      "correct": "C",
+      "correct_basis": "25%×360°=90°",
+      "rejected_options": {
+        "A": "A equates percent and degrees",
+        "B": "B is 12.5% angle",
+        "D": "D is 33.3% angle"
+      }
+    },
+    {
+      "question": "Q08",
+      "correct": "C",
+      "correct_basis": "15%×240=36 crore",
+      "rejected_options": {
+        "A": "A divides total by 15",
+        "B": "B is 10% of budget",
+        "D": "D is 25% of budget"
+      }
+    },
+    {
+      "question": "Q09",
+      "correct": "B",
+      "correct_basis": "250×(1−0.20)=200",
+      "rejected_options": {
+        "A": "A overstates decrease",
+        "C": "C understates decrease",
+        "D": "D understates decrease further"
+      }
+    },
+    {
+      "question": "Q10",
+      "correct": "B",
+      "correct_basis": "Truncated bar baseline exaggerates apparent lengths",
+      "rejected_options": {
+        "A": "A numeric values can remain accurate",
+        "C": "C time interval issue is unrelated",
+        "D": "D percentages and angles conflated"
+      }
+    },
+    {
+      "question": "Q11",
+      "correct": "C",
+      "correct_basis": "Show gap or explicitly justified imputation",
+      "rejected_options": {
+        "A": "A missing is not zero",
+        "B": "B unlabelled interpolation falsely implies observation",
+        "D": "D discards valid data"
+      }
+    },
+    {
+      "question": "Q12",
+      "correct": "C",
+      "correct_basis": "Only observed notification increase follows",
+      "rejected_options": {
+        "A": "A incidence may not have risen",
+        "B": "B testing does not cause infection",
+        "D": "D policy failure is unsupported"
+      }
+    },
+    {
+      "question": "Q13",
+      "correct": "B",
+      "correct_basis": "Overlapping response categories permit separate bars",
+      "rejected_options": {
+        "A": "A 130% cannot be exclusive pie",
+        "C": "C negative pie slices invalid",
+        "D": "D line suggests false adjacency"
+      }
+    },
+    {
+      "question": "Q14",
+      "correct": "A",
+      "correct_basis": "(130−125)/125×100=4%",
+      "rejected_options": {
+        "B": "B is five index points, not percent",
+        "C": "C confuses index base",
+        "D": "D confuses index value with growth"
+      }
+    },
+    {
+      "question": "Q15",
+      "correct": "C",
+      "correct_basis": "Correlation at district level is association only",
+      "rejected_options": {
+        "A": "A assumes one-way causation",
+        "B": "B assumes reverse causation",
+        "D": "D commits ecological fallacy"
+      }
+    },
+    {
+      "question": "Q16",
+      "correct": "B",
+      "correct_basis": "IQR captures spread despite equal means",
+      "rejected_options": {
+        "A": "A code not spread",
+        "C": "C name not spread",
+        "D": "D angle unrelated"
+      }
+    },
+    {
+      "question": "Q17",
+      "correct": "C",
+      "correct_basis": "Old 30 crore; new 40 crore; gain 10",
+      "rejected_options": {
+        "A": "A confuses share change with amount",
+        "B": "B ignores total growth",
+        "D": "D overstates increase"
+      }
+    },
+    {
+      "question": "Q18",
+      "correct": "B",
+      "correct_basis": "sqrt(1210/1000)−1=10%",
+      "rejected_options": {
+        "A": "A halves an incorrect percentage",
+        "C": "C confuses CAGR with other base",
+        "D": "D is two-year cumulative growth"
+      }
+    },
+    {
+      "question": "Q19",
+      "correct": "A",
+      "correct_basis": "(70+78+69+82)/4=74.75",
+      "rejected_options": {
+        "B": "B incorrect arithmetic",
+        "C": "C is one zone's value",
+        "D": "D is maximum, not mean"
+      }
+    },
+    {
+      "question": "Q20",
+      "correct": "C",
+      "correct_basis": "(40+50)/2=45",
+      "rejected_options": {
+        "A": "A is frequency not midpoint",
+        "B": "B lower boundary only",
+        "D": "D upper boundary only"
+      }
+    },
+    {
+      "question": "Q21",
+      "correct": "B",
+      "correct_basis": "Frequency density = frequency/class width",
+      "rejected_options": {
+        "A": "A distorts unequal-width bars",
+        "C": "C multiplication not density",
+        "D": "D median cannot encode bin area"
+      }
+    },
+    {
+      "question": "Q22",
+      "correct": "C",
+      "correct_basis": "Validate measurement and metadata before inference",
+      "rejected_options": {
+        "A": "A unjustified deletion",
+        "B": "B unjustified imputation",
+        "D": "D single event not causal attribution"
+      }
+    },
+    {
+      "question": "Q23",
+      "correct": "B",
+      "correct_basis": "Case counts and population plus detection context needed",
+      "rejected_options": {
+        "A": "A names alone cannot normalize",
+        "C": "C colours irrelevant",
+        "D": "D photos cannot compute rates"
+      }
+    },
+    {
+      "question": "Q24",
+      "correct": "B",
+      "correct_basis": "Line implies continuity across unrelated categories",
+      "rejected_options": {
+        "A": "A negativity not required",
+        "C": "C lines can display percentages",
+        "D": "D 3D axis not necessary"
+      }
+    },
+    {
+      "question": "Q25",
+      "correct": "B",
+      "correct_basis": "1 crore = 10,000,000;1 lakh = 100,000;ratio=100",
+      "rejected_options": {
+        "A": "A tenfold too small",
+        "C": "C reverses scale",
+        "D": "D tenfold too large"
+      }
+    },
+    {
+      "question": "Q26",
+      "correct": "C",
+      "correct_basis": "Observed result applies to responding app users",
+      "rejected_options": {
+        "A": "A sample cannot represent all residents",
+        "B": "B nonusers not observed",
+        "D": "D causal attribution unsupported"
+      }
+    },
+    {
+      "question": "Q27",
+      "correct": "B",
+      "correct_basis": "54/360×100=15%",
+      "rejected_options": {
+        "A": "A underestimates slice",
+        "C": "C overestimates slice",
+        "D": "D treats angle as percentage"
+      }
+    },
+    {
+      "question": "Q28",
+      "correct": "C",
+      "correct_basis": "90/120=75%;64/80=80%",
+      "rejected_options": {
+        "A": "A swaps rates",
+        "B": "B assigns women's rate to men",
+        "D": "D denominators are given"
+      }
+    },
+    {
+      "question": "Q29",
+      "correct": "B",
+      "correct_basis": "GDP metadata checks base year, prices, definitions and revisions",
+      "rejected_options": {
+        "A": "A colours irrelevant to comparability",
+        "C": "C footnotes may contain essential changes",
+        "D": "D pie conversion cannot repair incompatible series"
+      }
+    },
+    {
+      "question": "Q30",
+      "correct": "C",
+      "correct_basis": "East +11 points;West +2 points and latest 82%",
+      "rejected_options": {
+        "A": "A East latest is 69%, not highest",
+        "B": "B West improvement only +2 points",
+        "D": "D chart alone cannot prove causation"
+      }
+    }
+  ],
+  "answer_key_distribution": {
+    "A": 3,
+    "B": 13,
+    "C": 14,
+    "D": 0
+  },
+  "source_correspondence": [
+    {
+      "source": "TSPSC Notification 02/2024 and commission-hosted 2022 scheme PDF",
+      "result": "Direct original URLs returned HTTP 502 on 2026-10-28; third-party indexed text matches quoted syllabus, insufficient to promote R1 PASS",
+      "url": "https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf"
+    },
+    {
+      "source": "MoSPI official eSankhyiki portal",
+      "result": "Official government site exists; generic data-access correspondence only, not claim-by-claim review",
+      "url": "https://esankhyiki.mospi.gov.in/"
+    },
+    {
+      "source": "MoSPI government statistics portal",
+      "result": "Official statistics and metadata context; no synthetic examples misrepresented as official",
+      "url": "https://www.mospi.gov.in/"
+    }
+  ],
+  "archive_recheck": {
+    "basis": "Cycle58 actual downloaded artifact, rechecked locally; not new Cycle59 packaging",
+    "sha256": "f8ae42922b9e347774e17152a487af3ec30b569f8539e401024b91a64f7c484c",
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "inner_files": 1723,
+    "original_pdfs": 75,
+    "original_pdf_hashes_unchanged_vs_cycle57": 75,
+    "readiness_json": 75,
+    "html_pages": 78,
+    "local_anchor_links_checked": 337,
+    "broken_local_anchor_links": 0,
+    "same_page_fragments_checked": 1137,
+    "broken_same_page_fragments": 0
+  },
+  "limitations": [
+    "No new integrated Topic 5-3-1 PDF or CI run produced; original 25-page PDF preserved",
+    "No direct browser accessibility or full-resolution keyboard/screen-reader certification",
+    "All 30 keys and 90 distractors passed this internal review; independent human/expert academic sign-off still zero",
+    "Full claim-by-claim verification of official statistics and institutional assertions in 18 concepts and 6 mains remains open",
+    "No official PYQs asserted or invented",
+    "Original 2024 commission PDF could not be directly fetched"
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "IN_PROGRESS"
+  },
+  "academic_approved": false,
+  "independent_approvals": 0,
+  "next_action": "Continue claim-level sources and accessible charts; retain existing master and original PDF unchanged until a substantive synchronized source/PDF correction is warranted; proceed to first assessment of 5-3-2."
+}
