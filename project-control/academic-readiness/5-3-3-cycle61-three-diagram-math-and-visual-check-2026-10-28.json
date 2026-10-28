@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-28",
+  "topic_id": "5-3-3",
+  "cycle": 61,
+  "inspection": "Direct visual inspection of page 19 of actual downloaded 21-page GitHub PDF; cross-check against source captions and arithmetic. This is an INTERNAL figure check, not accessibility or expert certification.",
+  "diagrams": [
+    {
+      "file": "diagrams/ap_vs_gp.png",
+      "type": "line chart",
+      "claimed_series": {
+        "AP": [
+          10,
+          15,
+          20,
+          25,
+          30,
+          35
+        ],
+        "GP": [
+          10,
+          15,
+          22.5,
+          33.75,
+          50.625,
+          75.9375
+        ]
+      },
+      "check": "AP successive difference +5; GP successive multiplier 1.5; common first two points; visual trajectories and endpoint near 76 match.",
+      "status": "INTERNAL_PASS"
+    },
+    {
+      "file": "diagrams/weighted_average.png",
+      "type": "horizontal group-size bars",
+      "claimed_group_sizes": [
+        20,
+        80
+      ],
+      "claimed_group_means": [
+        60,
+        75
+      ],
+      "pooled_mean": 72,
+      "check": "(20*60+80*75)/(20+80)=72; displayed bar lengths 20 and 80, means 60 and 75, caption matches.",
+      "status": "INTERNAL_PASS"
+    },
+    {
+      "file": "diagrams/profit_discount.png",
+      "type": "four-bar commercial comparison",
+      "claimed": {
+        "cost_price": 800,
+        "marked_price": 1200,
+        "discount_rate_percent": 20,
+        "selling_price": 960,
+        "profit": 160
+      },
+      "check": "Discount 0.2*1200=240; selling price 1200-240=960; profit 960-800=160; visual labels 800/1200/960/160 match.",
+      "status": "INTERNAL_PASS"
+    }
+  ],
+  "all_original_png_preserved": true,
+  "named_independent_expert_review": false,
+  "screen_reader_alt_text_and_browser_accessibility_certified": false,
+  "visual_resolution_and_colour_contrast_certified": false,
+  "academic_approval": false
+}
