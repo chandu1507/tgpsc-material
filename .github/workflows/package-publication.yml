@@ -6,7 +6,7 @@ on:
       - 'downloads/**'
       - 'incoming/**'
   workflow_run:
-    workflows: ['Import Paper II Full Notes', 'Render Topic 5-2-2 Integrated Student Edition']
+    workflows: ['Import Paper II Full Notes', 'Render Topic 5-2-2 Integrated Student Edition', 'Render Topic 5-2-3 Integrated Student Edition']
     types: [completed]
     branches: [main]
   workflow_dispatch:
