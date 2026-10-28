@@ -1,14 +1,7 @@
-# Decision Making and Problem Solving: Structured Administrative Situations
+# Paper V / Unit III / Topic 5 — Decision Making and Problem Solving
 
-Official TGPSC Paper V Unit III item 5. Independent study draft, not academically approved.
+Preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833.
 
-- [Offline chapter](index.html)
-- [Complete PDF](complete-notes.pdf)
-- [Editable master](source/complete-notes.md)
-- [Quick revision](source/quick-revision.md)
-- [30 original MCQs](source/original-mcqs.md)
-- [12 original cases](source/case-studies.md)
-- [6 complete mains models](source/complete-model-answers.md)
-- [Source audit](source/source-audit.md)
+[Offline HTML](index.html) · [Integrated PDF](source/integrated-student-edition-cycle63.pdf) · [Editable master](source/complete-notes.md) · [Original PDF](complete-notes.pdf).
 
-Original practice only; no claimed official PYQs.
+Four targeted conceptual expansions and three revised practice MCQs. No official PYQs or independent academic approval claimed.
