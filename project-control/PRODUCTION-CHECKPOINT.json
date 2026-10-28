@@ -652,9 +652,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original 10k+ word draft, 30 explained original MCQs, six structured mains answers, three original diagrams; independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle55_substantive_source_correction_local_ci_candidate_verified_full_academic_audit_pending",
+      "notes": "Cycle55 direct source audit: 17 concepts, one 299-word concept expanded to >300; 30 original MCQs A7/B19/C4/D0; five bounded official key correspondences, 25 keys and all 90 distractors pending; five mains expanded, body-only counts meet 200-250; original 25-page PDF preserved. Local deterministic 27-page candidate QA passed; CI publication and actual post-edit GitHub artifact pending. ZERO academic approvals.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-2.json"
     },
     {
