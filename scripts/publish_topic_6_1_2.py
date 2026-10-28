@@ -104,7 +104,7 @@ manifest.update({'academically_approved':False,'academic_status':'not_approved',
     'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha(pdf),'independent_academic_approvals':0})
 manifest['metrics']={'concept_count':23,'concepts_below_300':0,'answer_distribution':qa['answer_distribution'],
     'full_page_density_certified':False,'independent_review_complete':False}
-manifest['files_sha256']={f.relative_to(root).as_posix():sha(f) for f in root.rglob('*') if f.is_file() and f.name!='manifest.json'}
+manifest['files_sha256']={f.relative_to(root).as_posix():sha(f) for f in sorted(root.rglob('*'),key=lambda p:p.as_posix()) if f.is_file() and f.name!='manifest.json'}
 (root/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
 Path('project-control/academic-readiness/6-1-2-cycle65-ci-render-qa-2026-10-28.json').write_text(json.dumps(qa,indent=2)+'\n')
 print(json.dumps({k:v for k,v in qa.items() if k!='concept_word_counts'},indent=2))
