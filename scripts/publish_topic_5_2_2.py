@@ -26,7 +26,7 @@ for f in ("original-mcqs.md","mains-model-answers.md","sources-and-audit.md"):
     assert (src/f).read_text().strip() in md, f
 assert "Patient-protection decision example" in md
 word = lambda s: len(re.findall(r"\b[\w’-]+\b", s))
-concepts = re.findall(r"(?ms)^## Section (\d+)\. ([^\n]+)\n(.*?)(?=^### Section \d+\.|^## |\Z)",md)
+concepts = re.findall(r"(?ms)^## Section (\d+)\. ([^\n]+)\n(.*?)(?=^## Section \d+\.|^## |\Z)",md)
 assert len(concepts) == 17, len(concepts)
 concept_words = [word(b) for _,_,b in concepts]
 assert min(concept_words) >= 300, concept_words
