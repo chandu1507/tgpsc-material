@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "topic": "5-2-3",
-  "cycle": 55,
+  "cycle": 56,
   "original_pdf_sha256": "5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592",
   "original_preserved": true,
   "integrated_pdf_sha256": "f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656",
@@ -27,7 +27,7 @@
     229,
     214
   ],
-  "mains_count_method": "regex word tokens after removing bold subheading labels; hyphenated tokens may differ from Cycle53 whitespace method",
+  "mains_count_method": "regex word tokens after removing bold subheading labels; hyphenated tokens may differ from alternative whitespace method",
   "html_file_links_checked": 7,
   "broken_files": [],
   "html_fragment_links_checked": 0,
