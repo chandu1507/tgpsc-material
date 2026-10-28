@@ -626,11 +626,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle53_direct_source_and_bounded_primary_source_audit_rebuild_required",
-      "notes": "Cycle53 direct editable-source audit: 16 concepts (335–490 words, none <300), 30 original practice MCQs (A14/B15/C1/D0; 90 distractors), six mains body-only 218/219/224/223/220/218. Q3/Q14/Q18/Q27/Q29 have limited official key-proposition correspondence; Q2 arithmetic checked. Q14 must distinguish generic <=25MW SHP from FY2026-27 scheme 1–25MW; MCQ14/18/29 have weak implausible distractors. Remaining 24 keys and ALL 90 distractors unverified; mains claims/diagrams/browser/syllabus direct recheck pending. Original 27-page PDF not edited; NO new integrated PDF or post-edit artifact QA. ZERO academic approvals.",
+      "production_review": "cycle54_ci_integrated_27page_pdf_html_and_master_synchronized_independent_audit_pending",
+      "notes": "Cycle54 source-critical Q14/18/29 and SHP 1–25MW scheme correction published; guarded CI run 40635045816 SUCCESS, commit c79dfe0, integrated 27-page PDF SHA256 30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68; original 27-page PDF SHA unchanged. 16 concepts >=300, 30 MCQs A11/B15/C2/D2, six regex body-only 220/222/227/224/220/219. Post-edit artifact download and full academic review pending, zero approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-5.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/5-1-5-cycle53-direct-structure-and-official-key-correspondence-2026-10-28.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json"
     },
     {
       "id": "5-2-1",
@@ -1020,7 +1020,7 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle54: Topic 5-2-1 direct original 23-page PDF and source audit; 16 concepts >=300, MCQ A8/B22/C0/D0, six 200+ body-only mains, bounded PPV&FRA/ICAR checks; full R1–R8 still incomplete.",
+    "note": "Cycle54: 5-1-5 guarded CI rendered synchronized 27-page integrated PDF and HTML; R8 IN_PROGRESS, post-edit artifact and academic review pending. 5-2-1 directly assessed.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
     "last_verified_package_run": 40628966882,
     "last_verified_package_artifact": 12790392756,
@@ -1084,7 +1084,7 @@
     "last_assessed": "5-2-1",
     "evidence": "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json"
   },
-  "last_readiness_update": "Cycle54 direct Topic 5-2-1 assessment: 16 concepts 333–588 words, 30 MCQs A8/B22/C0/D0, 6 mains body-only 217/215/231/234/226/231; 4 bounded official correspondences plus arithmetic; original PDF unchanged, academic gates incomplete.",
+  "last_readiness_update": "Cycle54 Topic 5-1-5 corrected source and CI 27-page PDF/HTML synchronized; post-edit downloaded-artifact QA pending; 5-2-1 direct assessment remains rebuild-required.",
   "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 36 ASSESSED_REBUILD_REQUIRED, 32 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1100,6 +1100,14 @@
     "pdf_sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41",
     "pages": 26,
     "actual_post_edit_artifact_qa": "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+    "academic_approval": 0
+  },
+  "latest_topic_5_1_5_ci_render": {
+    "run_id": 40635045816,
+    "commit": "c79dfe0b4120d20d412e035c669ac42626e69b78",
+    "pages": 27,
+    "pdf_sha256": "30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68",
+    "actual_post_edit_artifact_verified": false,
     "academic_approval": 0
   }
 }
