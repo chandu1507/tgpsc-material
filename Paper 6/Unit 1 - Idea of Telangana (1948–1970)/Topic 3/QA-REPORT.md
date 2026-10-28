@@ -6,7 +6,7 @@
   "cycle": 65,
   "original_pdf_sha256": "c4068779bba807d7acb05ef6891353c75e4ffedaf08ed4eeff903c17283b3052",
   "original_preserved": true,
-  "integrated_pdf_sha256": "7b8f75be4e72a426aacc75752102ec2818bbcd4e31c57fcf14a4ae68aa4d1032",
+  "integrated_pdf_sha256": "bc730283b8d15eb593ec5b828e2887ccfb8dda2837e1d2d338cc985cbd8af8d2",
   "integrated_pdf_pages": 30,
   "pdf_images": 3,
   "blank_pages": [],
