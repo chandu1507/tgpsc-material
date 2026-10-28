@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-28",
+  "cycle": 65,
+  "topic_id": "6-1-2",
+  "main_baseline": "7c291e0479f546ccaaeea5c1028a45368d5332d7",
+  "topic_count": 75,
+  "original_pdf_sha256": "2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11",
+  "original_pdf_preserved": true,
+  "concept_count": 23,
+  "concept_word_counts": [
+    {
+      "n": 1,
+      "words": 315
+    },
+    {
+      "n": 2,
+      "words": 301
+    },
+    {
+      "n": 3,
+      "words": 423
+    },
+    {
+      "n": 4,
+      "words": 397
+    },
+    {
+      "n": 5,
+      "words": 417
+    },
+    {
+      "n": 6,
+      "words": 380
+    },
+    {
+      "n": 7,
+      "words": 268
+    },
+    {
+      "n": 8,
+      "words": 408
+    },
+    {
+      "n": 9,
+      "words": 243
+    },
+    {
+      "n": 10,
+      "words": 413
+    },
+    {
+      "n": 11,
+      "words": 371
+    },
+    {
+      "n": 12,
+      "words": 267
+    },
+    {
+      "n": 13,
+      "words": 237
+    },
+    {
+      "n": 14,
+      "words": 265
+    },
+    {
+      "n": 15,
+      "words": 386
+    },
+    {
+      "n": 16,
+      "words": 412
+    },
+    {
+      "n": 17,
+      "words": 369
+    },
+    {
+      "n": 18,
+      "words": 392
+    },
+    {
+      "n": 19,
+      "words": 364
+    },
+    {
+      "n": 20,
+      "words": 237
+    },
+    {
+      "n": 21,
+      "words": 383
+    },
+    {
+      "n": 22,
+      "words": 226
+    },
+    {
+      "n": 23,
+      "words": 321
+    }
+  ],
+  "concepts_below_300": 7,
+  "mcq_count": 30,
+  "mains_count": 6,
+  "sections_expanded": [
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    11,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    23
+  ],
+  "source_claim_checks": [
+    {
+      "claim": "SRC paras 384-388 conditional recommendation",
+      "source": "MHA Srikrishna Committee appendix search-indexed",
+      "access": "search excerpts only; direct PDF opening failed",
+      "status": "LIMITED_CORROBORATION"
+    },
+    {
+      "claim": "Ambedkar 1955 linguistic states and Hyderabad second-capital proposal",
+      "source": "Government Ambedkar writings Vol I search-indexed",
+      "access": "search excerpt only; direct PDF timed out",
+      "status": "LIMITED_CORROBORATION"
+    },
+    {
+      "claim": "Jagan Mohan Reddy inquiry exact date and findings",
+      "source": "Later secondary summaries",
+      "access": "original inquiry NOT obtained",
+      "status": "BLOCKED"
+    }
+  ],
+  "not_verified": [
+    "Official TGPSC syllabus fresh direct PDF authentication",
+    "1952 signed inquiry report and original victim records",
+    "All 30 MCQ keys and 90 distractors independently",
+    "Six mains claim-level audits",
+    "Full-page-per-concept",
+    "Diagram correctness",
+    "Actual CI PDF and downloaded artifact integrity",
+    "Direct browser usability"
+  ],
+  "independent_approvals": 0,
+  "R9": "NOT_STARTED"
+}
