@@ -48,6 +48,7 @@ The 1955 States Reorganisation Commission did not recommend immediate merger as 
 
 For an exam answer, establish three separate levels: **constitutional authority** (Parliament's reorganisation of territory), **political assurance** (the agreement among leaders), and **administrative machinery** (regional committee, recruitment and financial practices). A failure at one level does not mean all three were legally identical. It may nevertheless damage trust in the entire settlement.
 
+**Three-layer decision map.** A Telangana legislator in 1956 could accept the cultural argument for a common Telugu-speaking state yet still demand a rule protecting local college admissions or a mechanism to challenge an adverse budget decision. That is not logically inconsistent: linguistic affinity answers a question about political identity, whereas admissions and fiscal oversight answer questions about distribution of power. The SRC's proposed delay and conditional future union illustrate that a shared language did not settle the timing or consent issue. In a mains answer, compare the recommendation in the 1955 report, the negotiated safeguards of February 1956 and the statutory territorial act of August 1956. Do not label all three 'the agreement'. [S03], [S04], [S14].
 
 ## 2. Chronology: Andhra State, SRC, agreement and merger
 
@@ -197,6 +198,7 @@ After 1970, agricultural development involved high-yielding varieties, fertilise
 
 The 2026 Telangana government's farmer-support statements are contemporary policy claims, not historical evidence of the 1970s. They can be used in a current-affairs box if clearly dated and attributed. For an exam essay, connect agrarian structure to the founding bargain by asking whether development priorities addressed regional dryland vulnerabilities. A well-balanced conclusion recognises improvements in production alongside persistent questions about ecological sustainability, smallholder returns and the distribution of irrigation benefits.
 
+**Risk-adjusted agricultural comparison.** A hypothetical dryland village cultivates 1,000 hectares of rainfed millet and records 500 tonnes in a poor rainfall year. A canal-served village cultivates 500 hectares of paddy and produces 1,500 tonnes. Comparing total tonnes alone hides differences in cropped area, crop type, water input and drought exposure; comparing tonnes per hectare without accounting for crop choice is equally misleading. An evidence-based regional study should report irrigated share, seasonal rainfall, crop yields by crop, tenant access, input prices, debt and market connections over multiple years. Historical land-tenure change can also affect who receives the gains. The example is not a measured Telangana–Andhra comparison and cannot prove a policy violation. [S07], [S08].
 
 ## 17. Irrigation: allocations, command areas and water justice
 
@@ -216,6 +218,7 @@ From the 1970s onward, electrification changed agricultural production by making
 
 A sound regional comparison should use hours of supply, feeder reliability, agricultural connections, losses and tariff support, not just installed megawatts. The 2026 drought-preparedness statement by Telangana's government explicitly connects water, agriculture and electricity. That is a useful present-day illustration of the interdependence, but it does not establish whether a specific 1960s safeguard was violated. Distinguish contemporary governance challenges from historical evidence.
 
+**Power-system worked distinction.** Suppose a district's installed electricity capacity rises by 20 percent but outages remain frequent because transmission capacity, feeder maintenance and seasonal agricultural demand have not kept pace. Installed megawatts are a stock of equipment; actual energy supplied is measured over time, while household or farm reliability requires interruption frequency and duration. A lift-irrigation project can create a new dependency on pumping power and tariff subsidies. Compare who pays the electricity cost, which villages have functioning connections, and whether scheduled supply coincides with irrigation needs. Without these denominators, a claim of 'electrification success' may describe wires rather than usable service. This is a hypothetical analytical example, not a historical measurement. [S07], [S08].
 
 ## 19. Education after 1970: expansion versus equitable outcomes
 
@@ -265,6 +268,7 @@ A third, institutional interpretation asks why the bargain failed to settle the 
 
 A strong mains response states each argument fairly, then assesses evidence. Avoid making the SRC, Gentlemen's Agreement and Regional Committee interchangeable. Avoid treating 'Andhra people' and 'Telangana people' as homogeneous. The historically grounded conclusion is that federal bargains require institutional credibility, not just a common language or a written assurance.
 
+**Interpretation matrix.** A merger advocate might point to the scale benefits of a common market and administrative integration; a critic might point to failure of agreed regional procedures or unequal access to employment. Both claims require their own evidence. A larger market is not evidence that a specific committee referral occurred; a documented referral failure does not by itself quantify all regional economic losses. A disciplined essay gives the strongest evidence for each proposition, specifies its period, and distinguishes contemporaneous records from later political retrospectives. The 1958 business rule creates a testable procedural question: was the Governor-referral route used when ministers declined committee advice? A careful conclusion may find a breach in one safeguard while leaving another unproven. [S13].
 
 ## 24. Synthesis: from merger safeguards to the Telangana question
 
@@ -274,6 +278,7 @@ The post-1970 development question should be answered with sector-specific evide
 
 The durable lesson is about institutional design. A political compromise needs precise obligations, public monitoring, fair remedies and space for dissent. When an agreement promises regional protection but citizens cannot verify compliance, administrative grievances can become demands for political self-rule. This is the conceptual bridge to the 1969 agitation and later movement phases, which are examined in subsequent syllabus topics.
 
+**Model conclusion with bounded claims.** The constitutional creation of Andhra Pradesh on 1 November 1956 is established by the statute. The 20 February 1956 proceedings establish negotiated regional safeguards, not automatic proof of their later fulfilment. The February 1958 Regional Committee Order and the March 1958 government-business rule show an institutional implementation pathway, including a Governor escalation mechanism. The March 1970 amendment demonstrates that this machinery later changed; it must not be backdated to 1956. These are three different kinds of evidence: legal enactment, political agreement and implementing procedure. For a high-scoring answer, end with a measured judgement: regional trust depended on credible monitoring, remedies and fair outcomes, but every asserted violation requires a dated record. [S04], [S13], [S14].
 
 ## Eight original applied case studies (illustrative; not historical statistics)
 
