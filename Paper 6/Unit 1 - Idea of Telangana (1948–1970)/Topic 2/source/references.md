@@ -24,3 +24,10 @@ Sources below were inspected or cross-checked on **25 October 2026**. The origin
 **24–25 October 2026 source availability:** the Ministry of Home Affairs continues to host the full 1955 SRC report [S02], which makes direct comparison between the commission's recommendation and later political outcomes possible. The report's 1955 contents are historical; the 2026 access date is a verification date, **not a new policy development**.
 
 **Critical unresolved checks:** obtain and examine the original Jagan Mohan Reddy inquiry report and its filing date; corroborate 1952 casualty counts against contemporaneous official records by location; verify any exact teacher-transfer total from personnel orders; inspect a directly accessible copy of the 2024 notification again; commission independent historical and legal review of all model answers and distractors. **Academic approval remains zero.**
+
+
+## Cycle65 source access addendum — 28 October 2026
+
+- MHA Srikrishna Committee appendix reproduces the 1955 SRC discussion, especially paragraphs 384–388: https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf . Search-indexed excerpt only; direct reopening failed. Do not describe this as examination of an original signed 1955 report.
+- Government Ambedkar Writings and Speeches Vol. I: https://drambedkarwritings.gov.in/upload/uploadfiles/files/Volume_01.pdf . Search-indexed excerpt only; direct full-PDF retrieval timed out. No claim of complete primary-page review.
+- The signed original Jagan Mohan Reddy inquiry report (1952/1953 syllabus ambiguity) and contemporaneous casualty records were not retrieved. Secondary submissions of 28 December 1952 are not promoted to primary proof.

@@ -774,9 +774,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original 10,944-word draft, 23-page PDF, 23 textbook sections, 30 explained original MCQs, six complete 200–250-word mains models, three original diagrams, 11-source audit; direct syllabus PDF re-open 502, original inquiry uninspected.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle65_source_critical_depth_repair_published_pending_integrated_ci_pdf_and_independent_audit",
+      "notes": "Cycle65: 21 source-critical expansions inserted into original editable master; original PDF SHA256 2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11 preserved. 23 concepts, 0 under300 after repair; 30 original practice MCQs and six mains present but not independently verified. Original 1952 inquiry uninspected; government SRC appendix search-indexed but direct PDF access failed. R1/R2/R4/R5/R6 in progress; R3/R7/R8 blocked; ZERO approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-1-2.json"
     },
     {
