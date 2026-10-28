@@ -23,4 +23,5 @@
 - Commission-hosted 2022 syllabus: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJLzIwMjItR1JPVVAtSUlfMjBTRVJWSUNFUy1OT1RJRk5fMjBGSU5BTDIwMjIxMjI5MjM0NzQxMjAyMzAxMTgxMDI2MjgucGRmr95v17a0y2d8i13v
 
 **Source caution:** Official documents have different evidentiary weights. The signed amendment and Supreme Court judgment were directly opened; the original G.O. 610, Officers Committee tables, original 1975 Gazette and 2024 Group-I Notification were not. No student-facing section asserts an uninspected page number or an uncertified count as established fact.
-
+13. **MHA Srikrishna Committee appendix 1.11 (indexed government reproduction).** G.S.R. 524(E) 18 October 1975 and G.O. 674 20 October 1975 are reproduced in search-indexed text; one indexed heading anomalously says 20-02-1975. Direct PDF retrieval failed (HTTP 404, 29 October 2026); signed original NOT inspected. https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf
+14. **MHA Srikrishna Committee report paragraph 5.31.07 (2011).** Indexed government text discusses a Hyderabad city police paragraph 14(f) exception; it does not establish every Hyderabad cadre's status. Complete report PDF not directly reopened. https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-REPORT-060111%5B1%5D.pdf
