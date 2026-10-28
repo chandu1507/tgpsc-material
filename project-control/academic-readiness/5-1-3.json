@@ -1,8 +1,8 @@
 {
   "topic_id": "5-1-3",
   "title": "Space Programme in India: INSAT, IRS, EDUSAT, Chandrayaan-1 and Developmental Applications",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,76 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/5-1-3-cycle51-direct-artifact-depth-and-isro-source-correspondence-2026-10-28.json",
+  "next_action": "Expand concepts 10/11/12/16, integrate SPADEX 2026 reentry, audit all 30 keys/90 distractors/six mains/three diagrams, deterministic integrated PDF and downloaded artifact QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "cycle51_structural_recount": {
+    "concepts": 16,
+    "word_count_method": "For each ## N. concept section in source/core.md, count Unicode alphanumeric tokens with apostrophe/hyphen retained; includes subheadings, so is a generous rather than body-only estimate.",
+    "concept_word_counts": [
+      445,
+      377,
+      335,
+      354,
+      344,
+      357,
+      375,
+      334,
+      306,
+      292,
+      291,
+      274,
+      326,
+      323,
+      301,
+      263
+    ],
+    "under_300": [
+      10,
+      11,
+      12,
+      16
+    ],
+    "mcqs": 30,
+    "options_per_mcq": 4,
+    "total_options": 120,
+    "distractors": 90,
+    "key_distribution": {
+      "A": 7,
+      "B": 18,
+      "C": 5,
+      "D": 0
+    },
+    "mains": 6,
+    "mains_body_only_counts": [
+      209,
+      215,
+      214,
+      203,
+      201,
+      216
+    ],
+    "mains_method": "Count only paragraphs after bold subheadings; exclude heading labels and **Answer length** metadata; counts may differ from inherited manifest.",
+    "diagrams_inherited": 3
+  },
+  "cycle51_bounded_primary_source_key_checks": [
+    10,
+    12,
+    14,
+    16,
+    17,
+    26,
+    28
+  ]
 }
