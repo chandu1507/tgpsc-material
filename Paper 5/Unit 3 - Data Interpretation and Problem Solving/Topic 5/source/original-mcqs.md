@@ -90,14 +90,14 @@ D. Wait until a patient is harmed
 
 **Answer: C.** A reversible safety contingency protects patients while uncertainty is resolved.
 
-### MCQ 11. Which statement describes a genuine policy alternative?
+### MCQ 11. A district can immediately redeploy two trained staff within existing powers, or seek approval for permanent recruitment over several months. What comparison is most defensible?
 
-A. Improve services
-B. Strengthen services
-C. Enhance services
-D. Redeploy staff temporarily versus recruit permanently through the competent channel
+A. Both options are identical because both increase staffing
+B. Permanent recruitment is automatically lawful and immediately available
+C. Redeployment has no effect on services losing those staff
+D. Compare authority, immediate coverage, displaced workload and long-term need before selecting a phased option
 
-**Answer: D.** Options should differ in mechanisms, cost, authority and timeline, not wording.
+**Answer: D.** Alternatives differ in timing, authorisation and opportunity cost. Temporary coverage and long-term recruitment require separate justification.
 
 ### MCQ 12. What does a pre-mortem exercise ask?
 
@@ -171,14 +171,14 @@ D. Only social-media users
 
 **Answer: C.** Risk depends on vulnerability and ability to act on warnings, not only exposure.
 
-### MCQ 20. A school has fewer pupils but no alternative teacher within reachable distance. Best allocation logic?
+### MCQ 20. School X has 150 pupils and two mathematics teachers. Remote School Y has 18 pupils, none and no reachable alternative. What is the strongest allocation test?
 
-A. Enrolment count alone
-B. Minimum service guarantee plus subject need and remoteness
-C. Always favour the biggest town
-D. Rotate teachers randomly
+A. Enrolment alone, ignoring existing access
+B. Minimum subject access and remoteness first, then workload, travel and authorised staffing options
+C. Automatically assign a teacher to Y without checking timetable or authority
+D. Split the teacher's time equally without considering travel
 
-**Answer: B.** Equity requires a service floor before aggregate efficiency is optimised.
+**Answer: B.** Equity requires a service floor as well as efficient workload allocation; assess feasibility and lawful authority.
 
 ### MCQ 21. Which action best preserves due process after an allegation?
 
@@ -261,11 +261,12 @@ D. Only cost savings
 
 **Answer: B.** A numerical preference score cannot authorise rights violations.
 
-### MCQ 30. Which answer structure best matches the syllabus’s demand for a suggested solution?
+### MCQ 30. A benefits portal reports 95% seven-day disposal but excludes authentication failures before submission and counts automatic rejections as disposed. What should be done before claiming improved service?
 
-A. Retell the facts and stop
-B. Give slogans only
-C. Define issue, analyse stakeholders and constraints, compare options, phase action and set review metrics
-D. Name one villain and demand punishment
+A. Audit the full attempted-application funnel and independently verify eligible benefit receipt
+B. Treat 95% disposal as proof that almost all eligible residents received benefits
+C. Remove assisted filing to improve processing speed
+D. Treat authentication failure as final legal ineligibility
 
-**Answer: C.** The complete sequence demonstrates independent reasoning, feasibility and accountability.
+**Answer: A.** Disposal is not receipt, and an incomplete denominator conceals exclusion. Include failed attempts, appeals and verified outcomes.
+
