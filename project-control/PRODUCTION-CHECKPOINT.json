@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "total_topics": 75,
   "published_draft_pdf_topics": 75,
   "slots_without_published_pdf": 0,
@@ -811,10 +811,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original deep draft published 25 October 2026; 30 explained original MCQs, six structured mains answers; academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
-      "readiness_gate_file": "project-control/academic-readiness/6-1-5.json"
+      "production_review": "cycle68_direct_assessment_rebuild_required_no_content_edit",
+      "notes": "29 Oct Cycle68 direct source audit: 30/30 core concepts under300 words; 30 four-option explained original MCQs A7/B18/C4/D1, all keys/distractors require independent verification; six mains body-only 206/226/219/204/217/197 (M6 below 200); original 23-page PDF SHA256 bd6e665d29ba202dee74095447fbb01114a0261c5a7a98b0deec9a1bef3ff354 preserved. Original official 2024 syllabus PDF returned 502; original GO36, 1971 ECI report and other archival records not retrieved. No new PDF; no R1-R8 PASS or independent approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+      "readiness_gate_file": "project-control/academic-readiness/6-1-5.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/6-1-5-cycle68-direct-depth-mcq-mains-and-archive-audit-2026-10-29.json"
     },
     {
       "id": "6-2-1",
