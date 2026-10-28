@@ -131,7 +131,7 @@
     "5-2-2",
     "5-2-3"
   ],
-  "last_readiness_update": "Cycle56 Topic 5-2-3 first direct assessment and substantive local repair; two concepts expanded, six mains 200–250 body words, five bounded correct-answer checks; CI PDF and actual post-edit artifact verification pending.",
+  "last_readiness_update": "Cycle56 Topic 5-2-3 CI integrated 27-page PDF and actual downloaded packaging artifact 12798062580 independently verified: 1706 files, 75 originals unchanged, 439 links / 1137 fragments zero broken; R8 IN_PROGRESS, zero full R1-R8 and zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -146,6 +146,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json",
     "project-control/academic-readiness/5-2-2-cycle55-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-2-cycle55-direct-source-repair-and-bounded-key-audit-2026-10-28.json",

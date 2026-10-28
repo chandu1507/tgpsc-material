@@ -664,8 +664,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle56_direct_source_audit_and_local_integrated_candidate",
-      "notes": "Original 24-page PDF preserved; 18 concepts, two shallow sections expanded locally; 30 original MCQs (A4/B17/C8/D1); six mains body-only 217/221/222/215/222/207; five bounded correct-answer checks. Corrected PDF remains local until guarded CI. 25 keys, all 90 distractors and full academic review outstanding.",
+      "production_review": "cycle56_corrected_integrated_pdf_published_actual_artifact_verified_academic_review_pending",
+      "notes": "Original 24-page PDF preserved. Cycle56 18 concepts >=300 words, six mains 200-250 body words, 30 original practice MCQs; five bounded keys only. GitHub-CI 27-page integrated PDF SHA256 f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656. Actual downloaded artifact 12798062580 verified, 75 originals unchanged, links/CRC/manifest pass. 25 keys, all 90 distractors, mains, diagrams, syllabus and browser review outstanding; ZERO approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-3.json"
     },

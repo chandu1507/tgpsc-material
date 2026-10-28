@@ -24,10 +24,10 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json",
-  "next_action": "Publish corrected integrated source and PDF through guarded CI, download actual post-edit artifact, audit 25 remaining MCQ keys and all 90 distractors, six mains claims, three diagrams, original syllabus and browser accessibility. No R9 without named expert.",
+  "evidence": "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+  "next_action": "Complete remaining 25 correct-answer checks, all 90 distractors, six mains claim-level audits, three diagram audits, independent 2024 syllabus authentication and direct browser accessibility. R8 IN_PROGRESS, not PASS; R9 only after all gates and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -62,6 +62,10 @@
     "original_pdf_sha256": "5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592",
     "local_integrated_pdf_pages": 26,
     "local_integrated_pdf_sha256": "dd2b9847418c82f362861b5cf5609f1dd55a512115584dc9ddce9e31a48b064f",
-    "post_edit_github_artifact_verified": false
+    "post_edit_github_artifact_verified": true,
+    "actual_github_artifact_id": 12798062580,
+    "actual_github_artifact_sha256": "3ae5d747269bab408e0c71990edfac65fd0ccd010434eef742e1de9a2fad029d",
+    "github_integrated_pdf_pages": 27,
+    "github_integrated_pdf_sha256": "f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656"
   }
 }
