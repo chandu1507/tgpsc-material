@@ -1,15 +1,7 @@
-# Vaccines: Immunity, DPT and Rabies Production, and Recombinant Hepatitis B Vaccines
+# Paper V / Unit II / Topic 5 — Vaccines and Immunity
 
-Independent Group I Paper V Unit II Topic 5 draft; **NOT academically approved**.
-
-- [Complete PDF](complete-notes.pdf)
-- [Offline chapter](index.html)
-- [Editable complete notes](source/complete-notes.md)
-- [Standalone revision](source/quick-revision.md)
-- [Original explained MCQs](source/original-mcqs.md)
-- [Mains blueprints](source/answer-blueprints.md)
-- [Six complete model answers](source/mains-model-answers.md)
-- [Primary sources and audit](source/sources-and-audit.md)
-- [Official PYQ provenance status](source/verified-pyqs.md)
-
-All practice items original; independent academic review pending.
+Original 21-page PDF preserved (SHA256 c2d92e8f136f7272abba7369d44e88d01ec55034e666c1334e5a0d76b28d42b2).
+Cycle58 editable master, offline HTML and integrated PDF synchronized through deterministic CI.
+18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.
+Thirteen bounded correct-answer proposition checks only; remaining 17 keys, all 90 distractors, mains, diagrams, syllabus and browser audits pending.
+Zero academic approvals. No official PYQs authenticated.
