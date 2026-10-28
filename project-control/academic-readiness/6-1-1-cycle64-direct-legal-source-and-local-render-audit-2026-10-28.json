@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-28",
+  "cycle": 64,
+  "topic_id": "6-1-1",
+  "fresh_main_baseline": "5024cfbc6eaa9285da89855317a95b5b6f4e8246",
+  "official_syllabus": {
+    "status": "DIRECTLY_CHECKED",
+    "notification": "TGPSC Group I Notification 02/2024, Paper VI Unit I item 1",
+    "url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "gate": "R1 PASS for syllabus mapping only"
+  },
+  "material_factual_error": {
+    "old_source": "High Court of Andhra Pradesh v V. S. Krishnamurthy (1978), https://indiankanoon.org/doc/1318103/",
+    "problem": "The 1978 judgment addresses Article 371D and Administrative Tribunal jurisdiction, not the historical 15-year Mulki residence rule.",
+    "replacement": "The Director of Industries & Commerce v V. Venkata Reddy (Supreme Court, 3 October 1972), https://indiankanoon.org/doc/1267864/",
+    "correction": "Replaced misattribution in editable master, source register and standalone MCQ file. Added accurate Rule 1 alternative routes, Rule 3 15-year residence plus affidavit, 14 June 1950 birth/descent circular, 18 September 1951 continuity clarification and post-1956 1972 holding.",
+    "limits": "Later judicial text does not independently authenticate signed 1919 Farman or appointment registers."
+  },
+  "local_deterministic_qa": {
+    "original_pdf_pages": 29,
+    "original_pdf_sha256": "add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94",
+    "integrated_pdf_pages": 26,
+    "integrated_pdf_sha256": "494f76e900ee4c0c54f072ecf51430ae5461df12763367aa7cf069cc7db5b3b6",
+    "concepts": 23,
+    "concepts_below_300": 0,
+    "mcqs": 30,
+    "distractors": 90,
+    "answer_distribution": {
+      "A": 5,
+      "B": 23,
+      "C": 2,
+      "D": 0
+    },
+    "mains_body_only_counts": [
+      202,
+      249,
+      204,
+      237,
+      224,
+      217
+    ],
+    "images": 3,
+    "blank_pages": 0,
+    "out_of_page_text_blocks": 0,
+    "topic_html_broken_links": 0,
+    "ci_artifact_downloaded": false
+  },
+  "readiness": {
+    "status": "ASSESSED_REBUILD_REQUIRED",
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "limitations": [
+    "Full page per concept not demonstrated by 26-page integrated PDF containing 23 detailed concepts plus MCQs/mains.",
+    "All 30 keys and 90 distractors not independently audited; 23/30 answers currently option B.",
+    "All six mains require claim-level fact checks despite body-only word counts.",
+    "Original diagrams present but require independent accuracy and accessibility review.",
+    "Actual GitHub CI artifact download, CRC and 75-original-PDF preservation QA pending.",
+    "Direct browser and full-resolution accessibility QA pending."
+  ]
+}
