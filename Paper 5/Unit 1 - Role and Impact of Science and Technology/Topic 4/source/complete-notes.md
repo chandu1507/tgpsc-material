@@ -585,7 +585,7 @@ D. A GIS dashboard without maintenance
 
 ## Six original mains practice questions and complete model answers
 
-**Provenance:** Original practice; no official PYQ claim. Each answer is 200–250 words under the recorded word-count convention.
+**Provenance:** Original practice; no official PYQ claim. Each answer is 200–250 body-only words, excluding the question, subheading labels and displayed count.
 
 ### Model 1. Assess how space technology can improve education and agricultural services in Telangana without worsening inequality.
 
@@ -595,11 +595,11 @@ D. A GIS dashboard without maintenance
 
 **Agricultural application.** Multispectral and radar imagery help estimate crop acreage, monitor sowing, assess vegetation and identify water stress. FASAL illustrates the integration of satellite, weather and ground observations. Crop production still requires independently estimated yield; a vegetation index is not a substitute. Small plots and intercropping create classification errors.
 
-**Equity and accountability.** Tribal schools and dryland farmers may benefit most from improved reach but also face power, language and connectivity barriers. A map-based insurance decision should allow ground verification and appeal. Procurement must budget for maintenance, training and data access.
+**Equity and accountability.** Tribal schools and dryland farmers may benefit most from improved reach but also face power, language and connectivity barriers. A map-based insurance decision should allow ground verification and appeal. Procurement must budget for maintenance, training and data access. Implementation should be piloted across representative districts, with baseline learning assessments and grievance records disaggregated by gender, disability, language and farm size.
 
 **Conclusion.** Telangana should integrate space services with teachers, extension officers, local institutions and transparent evidence standards. Satellite reach becomes developmental value only when the last-mile user can act on accurate information.
 
-**Model-answer word count:** 207.
+**Model-answer body-only word count:** 218.
 
 ### Model 2. Explain the role and limitations of satellite remote sensing in flood preparedness and emergency response.
 
@@ -617,7 +617,7 @@ D. A GIS dashboard without maintenance
 
 **Conclusion.** Remote sensing is most valuable as one layer in an accountable decision system. Time stamps, uncertainty, local knowledge and field confirmation distinguish responsible use from overconfident map-based governance.
 
-**Model-answer word count:** 211.
+**Model-answer body-only word count:** 202.
 
 ### Model 3. Describe the four-stage cyclone warning system and analyse how satellite information becomes local disaster action.
 
@@ -633,7 +633,7 @@ D. A GIS dashboard without maintenance
 
 **Conclusion.** Effective cyclone resilience joins satellite monitoring with IMD forecasts, district planning and community response. It is the last-mile action, not the cloud image, that reduces mortality.
 
-**Model-answer word count:** 222.
+**Model-answer body-only word count:** 212.
 
 ### Model 4. Explain the Indian tsunami early-warning architecture and distinguish tsunamis from cyclone storm surges.
 
@@ -649,7 +649,7 @@ D. A GIS dashboard without maintenance
 
 **Conclusion.** A reliable tsunami warning system is an end-to-end public safety arrangement: sensors, analysis, advisories, communications and evacuation. Space links are essential enablers, not replacements for ocean science or local readiness.
 
-**Model-answer word count:** 213.
+**Model-answer body-only word count:** 204.
 
 ### Model 5. Evaluate the application of satellite data in urban planning and industrial disaster risk management with reference to Hyderabad.
 
@@ -661,11 +661,11 @@ D. A GIS dashboard without maintenance
 
 **Telangana example.** The NRSC–HYDRAA MoU signed in April 2025 proposes a Bhuvan-based integration of historical geospatial and field information for urban assets and disaster management. This is an institutional collaboration, not proof that all planned outcomes have been delivered.
 
-**Governance concerns.** Open standards, metadata, appeals and protection of sensitive household information reduce misuse. Informal settlements need safe alternatives when floodplain controls are implemented; displacement without rehabilitation can shift rather than reduce risk.
+**Governance concerns.** Open standards, metadata, appeals and protection of sensitive household information reduce misuse. Informal settlements need safe alternatives when floodplain controls are implemented; displacement without rehabilitation can shift rather than reduce risk. An independent audit should compare imagery with revenue records, engineering surveys and dated field photographs before enforcement, and provide a public correction and appeal process.
 
 **Conclusion.** Hyderabad should use space data to prioritise verification and investment, while preserving due process, public accountability and equitable risk reduction.
 
-**Model-answer word count:** 208.
+**Model-answer body-only word count:** 223.
 
 ### Model 6. Discuss the benefits, limitations and ethical safeguards of space-based disaster management in India.
 
@@ -681,7 +681,7 @@ D. A GIS dashboard without maintenance
 
 **Conclusion.** The correct objective is not maximum imagery but fewer preventable deaths and losses. A transparent sensing-to-action system, supported by community knowledge and independent review, is the defensible model.
 
-**Model-answer word count:** 216.
+**Model-answer body-only word count:** 208.
 
 
 
@@ -698,7 +698,7 @@ D. A GIS dashboard without maintenance
 - **[S09] ISRO — Wheat Crop Area and Production Estimation: CROP pilot.** Date: 18 Apr 2025. Source: https://new1.isro.gov.in/Wheat_Crop_Area_and_Production_Estimation_in_India.html. Used for: EOS-04/EOS-06/Resourcesat 2024–25 rabi pilot.
 - **[S10] ISRO — High-Resolution Operational Soil Moisture Product.** Date: 6 Feb 2024. Source: https://www.isro.gov.in/High-Resolution_Operational_Soil_Moisture_Product.html. Used for: EOS-04 SAR 500-m product.
 - **[S11] NRSC — Disaster Management Support portals.** Date: undated; accessed 24 Oct 2026. Source: https://www.nrsc.gov.in/nrscnew/Apps_DMS_portals.php. Used for: NDEM, flood, cyclone, landslide and fire services.
-- **[S12] ISRO — NRSC–HYDRAA MoU: geospatial data support.** Date: 22 Apr 2025 (signed 11 Apr). Source: https://www.isro.gov.in/Signing_MoU_NRSC_HYDRAA.html. Used for: Planned Telangana Core Urban Region geospatial collaboration.
+- **[S12] ISRO — NRSC–HYDRAA MoU: geospatial data support.** Date: 22 Apr 2025 (signed 11 Apr). Source: https://new1.isro.gov.in/Signing_MoU_NRSC_HYDRAA.html. Used for: Planned Telangana Core Urban Region geospatial collaboration.
 - **[S13] ISRO — MOSDAC data archival centre.** Date: undated; accessed 24 Oct 2026. Source: https://www.isro.gov.in/MOSDAC.html. Used for: Satellite weather/ocean data product types.
 - **[S14] ISRO — Weather and Climate applications.** Date: undated; accessed 24 Oct 2026. Source: https://www.isro.gov.in/WeatherandClimate.html. Used for: Distinction between weather, climate and observations.
 - **[S15] ISRO — OCM-3 Satellite Imagery and Vegetation Dynamics.** Date: 3 Apr 2025. Source: https://www.isro.gov.in/ISRO_EN/OCM3_Satellite.html. Used for: EOS-06 vegetation NDVI and climate monitoring.
@@ -711,6 +711,26 @@ D. A GIS dashboard without maintenance
 - **[S22] NDMA — SACHET National Disaster Alert Portal.** Date: site updated 15 Oct 2026. Source: https://sachet.ndma.gov.in/ScreenReader. Used for: National public alert dissemination interface.
 - **[S23] ISRO / NDMA — Workshop on Earth Observation and GIS for Disaster Risk Management.** Date: 23 May 2025; published 5 Jun. Source: https://new1.isro.gov.in/ISRO_EN/Workshop_Disaster_Risk_Management.html. Used for: Interagency capacity-building and risk management.
 - **[S24] NIDM / NRSC — Floods & Cyclones – Space Based Information.** Date: 2026 training document. Source: https://nidm.gov.in/pdf/acrc26/Preparatory%20Session/4.%20NRSC.pdf. Used for: Dated institutional training resource; figures not extrapolated.
+
+
+### Cycle 52 bounded direct-source correspondence (28 October 2026)
+
+This is a limited *correct-answer proposition* check, **not** a full audit of all 30 questions, 90 distractors, six mains answer claims or three diagrams. The following correspondences were rechecked against identifiable government primary-source webpages; publication dates are the dates of the source material, not today's date.
+
+| Original practice MCQ | Bounded check | Primary source and qualification |
+|---|---|---|
+| Q5 (A) | Correspondence found | ISRO notice published 22 Apr 2025 explicitly says NRSC–HYDRAA MoU signed 11 Apr 2025; agreement does not establish delivered outcomes. [S12] |
+| Q8 (D) | Correspondence found | INCOIS identifies seismic stations, tsunami buoys and tide gauges; deterministic satellite earthquake prediction is not part of its system. [S20] |
+| Q9 (B) | Correspondence found | IMD RSMC lists pre-cyclone watch as first of four standard warning stages. [S18] |
+| Q12 (A) | Correspondence found | NRSC describes NDEM as a geospatial repository and decision-support system. [S06] |
+| Q14 (A) | Correspondence found | INCOIS identifies the Hyderabad ITEWC as the national tsunami advisory authority. [S20] |
+| Q17 (A) | Correspondence found | ISRO EDUSAT/GSAT-3 page dates its launch to 20 Sep 2004; no current-operation claim. [S07] |
+| Q22 (B) | Correspondence found | INCOIS official site places the ITEWC in Hyderabad; Telangana is inland. [S20] |
+| Q23 (B) | Correspondence found | ISRO's 18 Apr 2025 CROP pilot names EOS-04, EOS-06, Resourcesat-2A and eight wheat-growing states. [S09] |
+| Q25 (A) | Correspondence found | IMD RSMC describes its operational cyclone bulletins and warnings. [S18] |
+| Q15 (B) | Arithmetic only | 8,000 ha × 2.5 t/ha = 20,000 tonnes. Not a real crop estimate. |
+
+The original TGPSC Notification 02/2024 PDF returned HTTP 403 on direct re-fetch during this cycle. The syllabus wording reproduced in the draft was **not independently reauthenticated** here; R1 remains IN_PROGRESS. Correct-answer distribution is A9/B18/C2/D1; 30 questions × four choices = 120 options, including 90 distractors. No official PYQ provenance has been established. Direct browser usability and independent academic approval remain unverified.
 
 ### Audit limits and open checks
 
