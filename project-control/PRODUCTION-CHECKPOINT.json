@@ -712,9 +712,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "11,326-word original draft; 22-page PDF; 18 concept sections, 30 explained original MCQs, 6 structured 200–250-word mains answers, 3 original diagrams; original 2024 commission PDF direct retrieval 502; academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle60_strict_simpson_repair_and_30_key_90_distractor_internal_audit_local_pdf_pending_ci",
+      "notes": "Cycle60: original 22-page PDF SHA256 3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5 preserved. Strict Simpson paradox example corrected (A 86% pooled vs B 64%; B higher in both strata). MCQ30 replaced with genuine four-option applied interpretation. 18 concepts >=300 words, 30 keys and 90 distractors internally reviewed; six mains body-only 220/220/207/218/223/228. Local integrated 22-page PDF SHA256 8bcc78a6ca4b28b642483565ef9ef1e747312718a08f773324a87dd03491c9f2. CI/GitHub artifact, syllabus, claim-level mains, diagram and browser QA pending. NOT independently approved.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-3-2.json"
     },
     {
@@ -1013,17 +1013,17 @@
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
     "pilot_in_progress": 7,
-    "topics_not_assessed": 27,
+    "topics_not_assessed": 26,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle59 reconciliation: assessed list exactly mirrors 41 IDs in status index, 7 IN_PROGRESS / 41 ASSESSED_REBUILD_REQUIRED / 27 NOT_ASSESSED. Last actually downloaded verified package remains Cycle58 run 40661518670 artifact 12804295980; Cycle59 new package not yet verified.",
+    "note": "Cycle60: 75 originals; 7 IN_PROGRESS / 42 ASSESSED_REBUILD_REQUIRED / 26 NOT_ASSESSED. Last downloaded and digest-matched package Cycle59 run 40668126951 artifact 12806831721; Cycle60 corrected PDF GitHub publication pending.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40661518670,
-    "last_verified_package_artifact": 12804295980,
+    "last_verified_package_run": 40668126951,
+    "last_verified_package_artifact": 12806831721,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1033,7 +1033,7 @@
       "2-3-4",
       "2-3-5"
     ],
-    "last_topic": "5-3-1",
+    "last_topic": "5-3-2",
     "topics_assessed_rebuild_required": [
       "3-1-1",
       "3-1-2",
@@ -1075,30 +1075,31 @@
       "5-2-3",
       "5-2-4",
       "5-2-5",
-      "5-3-1"
+      "5-3-1",
+      "5-3-2"
     ]
   },
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 41,
-    "not_assessed": 27,
+    "assessed_rebuild_required": 42,
+    "not_assessed": 26,
     "verified_R1_pass": 10,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "5-3-1",
-    "evidence": "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json"
+    "last_assessed": "5-3-2",
+    "evidence": "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json"
   },
-  "last_readiness_update": "Cycle59 Topic 5-3-1 direct internal 30-key/90-distractor audit; original 25-page PDF unchanged; 29 arithmetic assertions PASS. Latest independently downloaded GitHub package remains Cycle58.",
-  "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 41 ASSESSED_REBUILD_REQUIRED, 27 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals.",
+  "last_readiness_update": "Cycle60 5-3-2 strict Simpson and MCQ30 correction, internal 30-key/90-distractor review, local 22p integrated PDF; GitHub CI pending.",
+  "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 42 ASSESSED_REBUILD_REQUIRED, 26 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
-    "assessed_rebuild_required": 41,
-    "not_assessed": 27,
+    "assessed_rebuild_required": 42,
+    "not_assessed": 26,
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",

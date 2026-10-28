@@ -1,8 +1,8 @@
 {
   "topic_id": "5-3-2",
   "title": "Tabular and Diagrammatic Data, Probability, Logical Reasoning and Mental Ability",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -18,16 +18,38 @@
   },
   "gate_status": {
     "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "BLOCKED",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
+  "next_action": "Merge guarded CI publication; independently download resulting GitHub artifact, verify all 75 originals, links/CRC/hash; claim-level mains and diagram review; direct official syllabus R1 and browser accessibility; named independent expert R9 only after R1–R8 PASS.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "R9": "NOT_STARTED",
+  "direct_audit": {
+    "cycle": 60,
+    "concepts": 18,
+    "concepts_below_300": 0,
+    "original_mcqs": 30,
+    "internally_recomputed_keys": 30,
+    "internally_reviewed_distractors": 90,
+    "mains_body_only_counts": [
+      220,
+      220,
+      207,
+      218,
+      223,
+      228
+    ],
+    "original_pdf_sha256": "3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5",
+    "local_integrated_pdf_pages": 22,
+    "local_integrated_pdf_sha256": "8bcc78a6ca4b28b642483565ef9ef1e747312718a08f773324a87dd03491c9f2",
+    "github_ci_publication": "PENDING",
+    "independent_academic_approval": false
+  }
 }

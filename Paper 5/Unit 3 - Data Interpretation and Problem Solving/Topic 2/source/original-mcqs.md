@@ -174,8 +174,8 @@
 
 **Answer:** B (Not necessarily true). **Explanation:** Representativeness depends on sampling frame, design, weights and geographic coverage.
 
-### MCQ 30. Which statement is the best description of original practice MCQs in this chapter?
+### MCQ 30. In a hypothetical hospital comparison, A has 81/90 low-risk recoveries and 5/10 high-risk recoveries; B has 10/10 low-risk and 54/90 high-risk recoveries. Which conclusion is mathematically correct?
 
-**A.** Authenticated 2024 official PYQs **B.** Not authenticated official PYQs **C.** Questions issued by NSO **D.** Commission-approved answer key
+**A.** A has higher recovery in both risk groups **B.** B has higher recovery in both groups, but A has higher pooled recovery **C.** Both have the same pooled recovery **D.** B has higher pooled recovery
 
-**Answer:** B (Not authenticated official PYQs). **Explanation:** These are independently authored teaching questions without official question-paper provenance.
+**Answer:** B (B wins within both strata, A wins overall). **Explanation:** Low-risk: B 100% > A 90%; high-risk: B 60% > A 50%; pooled: A 86/100=86% > B 64/100=64%. This is a strict Simpson reversal driven by unequal case mix, not evidence of causal treatment superiority.
