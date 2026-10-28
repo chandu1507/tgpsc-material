@@ -109,7 +109,11 @@ The label “sons of the soil” can be helpful shorthand, but it obscures how H
 
 ## 9. Mir Osman Ali Khan, service rules and the 1919 Farman
 
-Mir Osman Ali Khan, the seventh Nizam, ruled during a period of expanding educational and administrative institutions. The 1919 Farman gave formal expression to Mulki qualifications in public employment. Historical legal discussion, including the Supreme Court's account in *High Court of Andhra Pradesh v. V. S. Krishnamurthy* (1978), describes the 1919 rules and notes a fifteen-year residence qualification, subsequently reaffirmed in 1949. The residence condition is a central examination fact, but it should not be presented as the only possible legal route without examining the full original text and associated certification provisions.
+Mir Osman Ali Khan, the seventh Nizam, ruled during a period of expanding educational and administrative institutions. The 1919 Farman gave formal expression to Mulki qualifications in public employment. The directly examined Supreme Court decision in *The Director of Industries & Commerce v. V. Venkata Reddy* (3 October 1972) reproduces relevant Mulki provisions and explains their later constitutional treatment [S07]. This replaces an incorrect reference to *High Court of Andhra Pradesh v. V. S. Krishnamurthy* (1978), which concerned the jurisdiction of the Andhra Pradesh Administrative Tribunal and is not authority for the historical fifteen-year residence rule.
+
+**Read the actual alternatives, not a slogan.** In the rules reproduced by the 1972 judgment, Rule 1 lists separate historical routes to Mulki recognition: birth as a Hyderabad subject; entitlement by residence; a father in government service at the applicant's birth after completing fifteen years' service; and, in the original wording, a wife of a Mulki. Rule 3 elaborates the residence route: at least fifteen years of permanent residence, abandonment of an intention to return to a previous home, and a prescribed affidavit attested by a magistrate. Therefore, fifteen years was not the only textual route in the pre-Constitution rules, and it would be incorrect to apply each old route unchanged after 1950. The gendered spousal provision is reported as historical legal text, not endorsed as a present-day eligibility norm. [S07]
+
+**Constitutional transition changes the answer.** The Hyderabad government's circular of 14 June 1950, quoted in the 1972 judgment, directed that birth- and descent-based qualifications be put out of operation insofar as inconsistent with the Constitution, while Article 35(b) preserved the permissible residence-based requirement. The circular of 18 September 1951 clarified that the fifteen-year residence period was continuous, while temporary absences for education or medical treatment did not break continuity where permanent residence remained. These are distinct dated administrative clarifications, not fresh Farmans of 1919. A mains answer should explain the 1919 rule, the 1950 constitutional adjustment and the 1951 continuity clarification separately. The 1972 court decision later held the relevant residence provisions had survived constitutional transition and the 1956 reorganisation; that retrospective ruling must not be misdated as an event of 1948–52. [S07]
 
 The broad idea of the rule was to distinguish recognised Hyderabad subjects from other applicants and regulate their eligibility for specified state service. Birth, residence and intention to settle could matter under the historical definition, while official certification became an administrative mechanism. A candidate should not invent a precise list of exemptions or procedural clauses from memory. In particular, “fifteen years of residence” should be stated as a key historical condition, not as a universal rule that every applicant for every post in every decade satisfied identically. The category and its enforcement changed with later instruments and legal interpretation.
 
@@ -364,7 +368,7 @@ B. Five years
 C. Fifteen years
 D. Thirty years
 
-**Answer: C.** The Supreme Court’s 1978 discussion describes a fifteen-year residence condition. Exact eligibility must still be read with the full period-specific rule and certification provisions.
+**Answer: C.** The Supreme Court’s 3 October 1972 judgment in *V. Venkata Reddy* reproduces Rule 3: the residence-based route required at least fifteen years of permanent residence plus the specified intention and affidavit. Other historical routes appeared in Rule 1, and constitutional adjustments followed in 1950. [S07]
 
 
 **MCQ 8. A Mulki was best understood as:**
@@ -630,7 +634,7 @@ These are original practice prompts, not official previous-year questions. Every
 
 **Administrative limitations.** A rule requires reliable certificates, clear vacancy categories, documented exemptions and credible review. Genuine locals may lack records, while false certification or expansive exceptions can defeat the safeguard. A political petition alleging non-compliance is important evidence of grievance but is not, by itself, proof that every contested appointment was unlawful.
 
-**Historical continuity.** The question survived the 1948 integration. Later accounts describe a 1949 civil-service regulation associated with the earlier framework, and disputes over recruitment continued during military and civilian administration.
+**Historical continuity.** The question survived the 1948 integration. The Hyderabad government’s 14 June 1950 circular addressed constitutional incompatibility of birth and descent criteria; its 18 September 1951 circular clarified continuous residence, with limited educational and medical absences. These adjustments, recorded in the later 1972 Supreme Court decision, show that the rule’s historical operation changed over time. They do not establish how every department applied it.
 
 **Evaluation and conclusion.** The Farman mattered both as a legal instrument and as a political promise. Its weakness lay in the distance that could develop between declared eligibility and actual appointments. It therefore helps explain why employment became a durable issue in Telangana’s political history, without making the 1919 rules identical to later constitutional safeguards.
 
@@ -664,7 +668,7 @@ These are original practice prompts, not official previous-year questions. Every
 
 **Administrative transition.** Integration changed sovereignty and created urgent needs for security, departmental continuity and trained personnel. The military administration under J. N. Chaudhuri recruited and reorganised staff in an unsettled environment. A subsequent appointed civilian administration under M. K. Vellodi managed constitutional and educational transition.
 
-**Mulki implications.** Local-subject rules and expectations did not vanish automatically. Recruitment from outside the former state, certificate disputes and changing language requirements contributed to perceptions that safeguards were not being honoured. Yet the legality of particular appointments requires the applicable rule and actual records, not only general allegations.
+**Mulki implications.** Local-subject rules and expectations did not vanish automatically. Recruitment from outside the former state, certificate disputes and changing language requirements contributed to perceptions that safeguards were not being honoured. The 14 June 1950 government circular addressed the constitutional status of birth and descent conditions; the 18 September 1951 clarification specified continuity of residence. These dated instruments show why legal eligibility cannot be inferred solely from language or birthplace. Yet the legality of particular appointments requires the applicable rule and actual records, not only general allegations.
 
 **Balanced conclusion.** Hyderabad’s integration and Telangana’s employment grievance were different questions. People could support incorporation into India while demanding fair access to public service. The unresolved tension between administrative capacity and local opportunity helped prepare the ground for later mobilisation, including the 1952 agitation.
 
@@ -715,7 +719,7 @@ The following sources were checked for relevance on **25 October 2026**. Officia
 | ID | Publisher | Document / date | Verification use and limitation |
 |---|---|---|---|
 
-| S01 | TGPSC | [Notification 02/2024, Group I Services, Paper VI Unit I item 1](https://websitenew.tspsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) (2024-02-19) | Original commission-hosted syllabus; authenticates wording, not historical claims. |
+| S01 | TGPSC | [Notification 02/2024, Group I Services, Paper VI Unit I item 1](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) (2024-02-19) | Original commission-hosted syllabus; authenticates wording, not historical claims. |
 
 | S02 | Government of Telangana | [Language & Culture](https://www.telangana.gov.in/about/language-culture/) (undated; accessed 2026-10-25) | Current official description of cultural forms and composite traditions. |
 
@@ -727,7 +731,7 @@ The following sources were checked for relevance on **25 October 2026**. Officia
 
 | S06 | SCERT Telangana | [Class 7 Social Studies (English medium)](https://www.scert.telangana.gov.in/pdf/publication/ebooks2019/7%20social%20em%202020-21.pdf) (2020–21 edition) | School textbook corroboration for administrative reforms; not a primary nineteenth-century record. |
 
-| S07 | Supreme Court of India (reproduced on Indian Kanoon) | [High Court of Andhra Pradesh and Others v V. S. Krishnamurthy and Others](https://indiankanoon.org/doc/1318103/) (1978-08-04) | Later judicial discussion of 1919 and 1949 Mulki rules and residence threshold; not verbatim original Farman. |
+| S07 | Supreme Court of India (judgment text reproduced on Indian Kanoon) | [The Director of Industries & Commerce, Government of A.P. v. V. Venkata Reddy & Ors.](https://indiankanoon.org/doc/1267864/) (decision 1972-10-03; reported 1973 1 SCC 99) | Judgment reproduces Mulki Rules 1 and 3, and records Hyderabad government circulars dated 1950-06-14 and 1951-09-18; supports residence route and later constitutional interpretation, not authentication of the signed 1919 Farman. |
 
 | S08 | Government of Telangana | [CM participates in Praja Palana Dinotsavam 2026](https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-telangana-praja-palana-dinotsavam-2026-celebrations-at-public-gardens-hyderabad/) (2026-09-17) | Dated 2026 commemoration and present policy framing; not a 1948 primary document. |
 
@@ -744,7 +748,7 @@ The following sources were checked for relevance on **25 October 2026**. Officia
 
 **2025–2030 tourism policy:** the state explicitly proposes public promotion of Bathukamma and Medaram [S09]. This demonstrates contemporary recognition and economic-cultural policy, not that the rituals began in the policy period.
 
-**Historical legal audit:** the 1978 Supreme Court judgment's account of the 1919 and 1949 Mulki rules [S07] is useful for legal chronology. It must not be treated as a substitute for independent archival review of the original Farman, all service categories and every exemption.
+**Historical legal audit (corrected 28 October 2026):** the 3 October 1972 *V. Venkata Reddy* judgment [S07] reproduces the relevant historical Mulki Rules and 1950/1951 circulars. The previously cited 1978 *Krishnamurthy* case is about tribunal jurisdiction under Article 371D, not the residence rule; it has been removed as support for that claim. This court account does not replace the signed 1919 Farman or departmental appointment registers.
 
 **Unverified or disputed claims excluded:** precise totals of unlawful appointments in 1948–52; definitive membership statistics of the 1935 League; unqualified casualty figures for the 1948 transition; any claim that every member of a caste, tribe or religion shared a single political position. Such claims require specialised primary archival work.
 
