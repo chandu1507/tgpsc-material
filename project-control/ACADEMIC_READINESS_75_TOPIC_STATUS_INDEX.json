@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 37,
+  "not_assessed_count": 36,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 31 ASSESSED_REBUILD_REQUIRED, 37 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle49 5-1-1 assessment-only; no new integrated PDF or post-edit artifact.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 32 ASSESSED_REBUILD_REQUIRED, 36 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle50 5-1-2 direct assessment only; no corrected PDF.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -122,9 +122,10 @@
     "4-3-3",
     "4-3-4",
     "4-3-5",
-    "5-1-1"
+    "5-1-1",
+    "5-1-2"
   ],
-  "last_readiness_update": "Cycle49 28 Oct: Topic 5-1-1 first direct artifact/source assessment; 16 concepts >=300, 30 MCQs, six mains >=200 body words, six bounded key checks; no R1 PASS, no full academic approval. Reconciled checkpoint/index 7/31/37; Cycle48 artifact 12777204607 independently verified.",
+  "last_readiness_update": "Cycle50 28 Oct: Topic 5-1-2 first direct source assessment; 16 concepts, seven below300, 30 MCQs, six mains body-only >=200, five bounded DST key correspondences. Assessment only; no new integrated PDF, R9 not started.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -139,6 +140,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json",
     "project-control/academic-readiness/5-1-1-cycle49-direct-artifact-and-bounded-primary-source-audit-2026-10-28.json",
     "project-control/academic-readiness/4-3-4-cycle48-corrected-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/4-3-4-cycle48-actual-downloaded-artifact-qa-2026-10-28.json",
