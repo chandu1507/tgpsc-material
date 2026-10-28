@@ -57,6 +57,7 @@ On 20 February 1956 leaders from the two regions met at Hyderabad House in New D
 
 This sequence prevents two common errors. First, the agreement did not itself create Andhra Pradesh; legislation effected the territorial change. Second, the 1955 commission's reasoning should not be paraphrased as a blanket endorsement of immediate union. A historian should compare the commission's qualified recommendation with the political outcome rather than retrospectively collapsing them. The subsequent regional committee and domicile arrangements arose because the 1956 bargain recognised unresolved asymmetries.
 
+**Chronology audit — source-specific distinction.** The sequence is not a single act of merger. Andhra State was created in 1953; the States Reorganisation Commission reported in 1955; regional leaders negotiated safeguards on 20 February 1956; Parliament enacted the States Reorganisation Act on 31 August 1956; and the appointed day was 1 November 1956. The 1955 recommendation contemplated a separate Hyderabad State initially, with a possible later union conditioned on a two-thirds vote of its legislature after the expected 1961 elections. That conditional future route did not occur. The February agreement was a political bargain, whereas the August Act supplied the territorial legal change. This separation prevents the false inference that the SRC itself ordered the 1956 merger. [S02], [S03], [S14].
 
 ## 3. Section 3 of the States Reorganisation Act and territorial continuity
 
@@ -66,6 +67,7 @@ The legislation illustrates how a territorial boundary is created through an enu
 
 For a map-based question, draw Hyderabad State as a multilingual parent and three outward paths: Telugu-speaking Telangana to Andhra Pradesh; Marathi-speaking areas to Bombay State; Kannada-speaking areas to Mysore State, with legal details governed by the 1956 act. Do not mistake the 1956 administrative districts for today's 33 Telangana districts. Modern district names and boundaries should not be projected backwards onto the 1956 map without a dated source. In mains, a short reference to section 3 gives a firm legal anchor while leaving room to discuss the more important political safeguards.
 
+**Statutory reading exercise.** Section 3 of Act 37 of 1956 is a territorial provision, not the text of the Gentlemen's Agreement. The Act defines the appointed day in section 2(a). In an examination answer, give the legal date first, then explain which Hyderabad territories became part of the enlarged Andhra Pradesh. Do not treat the entire former Hyderabad State as Telangana: its Marathi- and Kannada-speaking territories followed different reorganisation paths. A historically meaningful map should distinguish the 1953 Andhra State, the Hyderabad State immediately before November 1956, and the resulting borders. Neither a modern 33-district Telangana map nor the 2014 state boundary is a substitute for the 1956 statutory schedule. [S14].
 
 ## 4. What exactly was the Gentlemen's Agreement?
 
@@ -75,6 +77,7 @@ Its central design was regional protection within a common Telugu-speaking state
 
 The agreement should be read as a bundle, not a single promise about jobs. Its importance was psychological as well as institutional: it was meant to make a merger acceptable to those who feared loss of autonomy. The later Telangana movement frequently invoked it because unmet assurances could be framed as breach of a founding bargain. A good answer also recognises that the two regions contained diverse social groups; neither 'Andhra' nor 'Telangana' spoke with one unchanging voice.
 
+**Provision-by-provision verification.** The government-published 2010 retrospective reproduces the 20 February 1956 proceedings with eight participants and separates safeguards into distinct subjects. Alongside revenue, admissions, recruitment, Urdu and agricultural land, the bargain included prohibition decided by Telangana legislators, proportionate retrenchment if service integration required it, and a review timetable. It also specified a 60:40 Andhra–Telangana cabinet distribution, one Muslim minister from Telangana, a deputy-chief-minister arrangement linked to the chief minister's region, and two significant portfolios from a named set for Telangana ministers. These provisions should be quoted with their conditions rather than recast as a general 'equal power' guarantee. The searchable official reproduction supports bounded correspondence, not proof that each provision was later enforced. [S04], [S05].
 
 ## 5. Revenue surplus and the problem of a common budget
 
@@ -84,6 +87,7 @@ The difficulty lies in measurement. Which taxes can be assigned to a territory? 
 
 In a model district-budget example, suppose regional receipts are 100 illustrative units and an agreed 20 units represent the region's share of central administration. The 'balance' would be 80 before other authorised adjustments; it is not 100. The example is pedagogical, not a historical statistic. When evaluating claims of diversion, demand audited period-specific data, comparable definitions and attention to capital investments. Distinguish **alleged violation**, **officially acknowledged shortfall**, and **independently verified financial loss**.
 
+**Auditable ledger example.** Imagine a purely hypothetical year with 120 units of Telangana-attributable receipts, 30 units of proportionately allocated central administration, and 55 units of demonstrably regional development expenditure. On those assumptions, the pre-development balance is 90 units, and the unspent balance is 35 units; neither 120 nor 65 is the correct residual. The example becomes indeterminate if debt servicing, shared capital assets or receipts from Hyderabad headquarters are classified differently. An auditor should document the numerator, denominator, allocation key, accounting period and whether the measure is budgeted or actually spent. The agreement's five-year review clause and possible further five years matter because a historical claim must identify the period in which the promise applied. No numerical example here is a historical fiscal finding. [S04].
 
 ## 6. Educational safeguards: access, language and institutional inequality
 
@@ -93,6 +97,7 @@ Educational inequality was not simply a matter of total school buildings. Hydera
 
 The agreement also contemplated continuing Urdu's administrative and judicial position for a transition period, while allowing a Telugu language test after appointment rather than demanding immediate proficiency at recruitment. These measures were intended to avoid abruptly excluding personnel trained under Hyderabad's prior language system. The central lesson is that a language-based state can still contain unequal language capital. Evaluate a safeguard by implementation, not merely by its attractive wording. The test is whether it changed real access, progression and institutional quality for the intended beneficiaries.
 
+**Admissions worked comparison.** Suppose, hypothetically, Telangana colleges offer 600 seats and the entire state's relevant colleges offer 1,500. A Telangana-only route would secure 600 seats locally; a one-third statewide route would secure 500. Under the negotiated 'whichever advantageous' formulation, the first is numerically larger in this stylised case. Reverse the figures to 300 local seats and 1,500 statewide seats and the statewide route offers 500 instead. Actual legal interpretation would require checking which institutions, years and categories the rule covered. The exercise demonstrates why a phrase such as 'one-third reservation' alone is incomplete: the agreement described an alternative, not an unconditional one-third share in every institution. Do not infer actual admissions from these illustrative numbers. [S04], [S05].
 
 ## 7. Domicile, Mulki rules and recruitment integration
 
@@ -102,6 +107,7 @@ Recruitment involves at least four separate issues: eligibility rules, reservati
 
 The strongest analytical frame is **promise → rule → implementing authority → records → remedy**. If a safeguard lacks a reliable register of posts, domicile certificates, appointments and review procedures, the mere existence of a rule cannot demonstrate compliance. Avoid assuming that every employee from Coastal Andhra was an illegal appointee. The question is whether particular appointments contravened rules applicable at the time. The Supreme Court's later decisions about Mulki rules and the subsequent Six-Point Formula show how contested the legal terrain became.
 
+**Recruitment-rule timeline.** The 1956 arrangement discussed proportionate future recruitment and a temporary Telangana unit for subordinate-service recruitment, with the official retrospective describing a five-year protection linked to existing Mulki domicile conditions. It is analytically wrong to apply the later Article 371D local-cadre framework retroactively to every 1956 appointment. A proper case audit identifies the vacancy date, grade, appointing authority, then-operative eligibility rule, proof of residence, any service-integration exception and the remedy available at that date. The Public Employment (Requirement as to Residence) Act, 1957 is another distinct legislative event, not an appendix to the original agreement. A candidate should distinguish a five-year temporary arrangement from the older Mulki residence rules; they are not interchangeable time thresholds. [S04], [S15].
 
 ## 8. Agricultural land safeguards and property-market change
 
@@ -111,6 +117,7 @@ However, controls also have costs. Restrictive transfer rules can impede legitim
 
 When studying migration, separate **migration of people** from **transfer of land ownership**. New settlers may be tenants, workers, teachers, entrepreneurs or purchasers; the consequences vary. A careful historical answer asks which land changed hands, when, under what legal rules and with what effect on local farmers. It does not infer dispossession merely from a surname or place of origin. This section connects the Gentlemen's Agreement to the later expansion of Hyderabad's land and real-estate markets without claiming that all later transactions were covered by the original arrangement.
 
+**Land-transfer case.** Consider an illustrative sale of agricultural land by a small Telangana cultivator to an urban investor after a canal announcement. The safeguard question is not answered merely by the buyer's regional identity. Relevant facts include whether the property was agricultural land, whether the rule in force required Regional Committee scrutiny, whether the sale was voluntary, the price relative to comparable transactions, tenancy or tribal land restrictions, and whether a legal remedy existed. A hypothetical rise in land prices may increase a seller's wealth while making future access harder for landless households. Therefore distinguish a formal violation of a specified control from a distributive consequence of market change. Neither is established by anecdote alone. [S04], [S13].
 
 ## 9. Political power-sharing and the deputy-chief-minister issue
 
@@ -120,6 +127,7 @@ Nevertheless, a numerical ratio is not equivalent to equal influence. A cabinet 
 
 The frequently discussed deputy-chief-minister question is useful because it shows how a symbolic assurance can become a test of trust. But the historical record should be checked before claiming a particular person deliberately broke a specific legally enforceable clause. The exam-safe approach is to identify the agreed principle, explain why critics viewed departures as violations, and assess the difference between political commitment and enforceable constitutional obligation. This avoids replacing institutional analysis with personalised blame.
 
+**Portfolio safeguard often omitted.** The 1956 proceedings went beyond a 60:40 cabinet ratio. They identified five important portfolios—Home, Finance, Revenue, Planning and Development, and Commerce and Industry—from which two were to be assigned to Telangana ministers. This is substantively different from simply counting ministers: a 40 percent cabinet share without the agreed portfolio distribution might satisfy one assurance but not another. For an audit, construct a dated table of cabinet membership, regional origin, portfolio, appointment and reshuffle; then compare each entry with the exact promise. A deputy chief minister's absence can be described as a reported political grievance only after checking the relevant government and date. The agreement itself is not equivalent to a judicial order compelling appointment. [S04], [S05].
 
 ## 10. Regional Council versus Telangana Regional Committee
 
@@ -129,6 +137,7 @@ Its assigned subjects included regional planning and development, local self-gov
 
 The committee provided a channel through which Telangana legislators could articulate regional priorities, request information and create a documentary record. Yet it was vulnerable to executive dominance, delayed referrals, narrow readings of its jurisdiction and the difficulty of compelling implementation. Its later abolition during the 1973–74 constitutional settlement is a separate episode that belongs chiefly to the next unit. The 1956–1970 topic should explain the committee's intended function and early limitations without importing all later legal arrangements.
 
+**1958 implementation and the escalation rule.** The Andhra Pradesh Regional Committee Order was made under the then Article 371 and came into force on 1 February 1958. A separate March 1958 change to the Andhra Pradesh Government Business Rules provided that the Council of Ministers should *normally* give effect to recommendations on scheduled matters. If it considered a recommendation inexpedient or beyond the committee's competence, the chief minister was to refer the matter to the Governor, whose decision was final and binding on the Council. This is more precise than saying either that every committee recommendation was a binding veto or that the committee was merely a discussion club. The recommendation, ministerial objection and Governor's decision form different steps; the exact schedule and dated version must be checked. [S13].
 
 ## 11. Composition, exclusion and accountability of the Regional Committee
 
@@ -138,6 +147,7 @@ A regional committee's legitimacy depends on more than the origin of its members
 
 This distinction matters in questions about 'composition and functions'. Composition answers who participates and who is excluded. Functions answer what subjects are referred and what powers exist. Effectiveness asks whether decisions changed. Do not answer all three by repeating the committee's name. A strong answer adds a short case study: for a proposed change in agricultural land transfer rules, the committee might examine effects on Telangana cultivators and submit advice, while the legislature and government would still need to act through their lawful powers.
 
+**Membership versus powers.** The February 1958 Presidential Order and subsequent state business rules must be read separately from the political text negotiated in 1956. A responsible composition answer should specify whether it is describing the proposed Regional Council, the 1958 Regional Committee, or an amended committee after 1970. For a bill concerning scheduled education matters, ask who could place it before the committee, which members voted, whether the committee's recommendation was recorded, and whether the cabinet implemented it or invoked the Governor referral route. The 1958 mechanism did not create a separate treasury, an autonomous legislature or an unrestricted veto. The official retrospective records a 7 March 1970 amendment widening subjects, including specified recruitment and employment matters. Do not project those expanded subjects backward into the unamended 1958 schedule. [S13], [S04].
 
 ## 12. Safeguard violations: categories of allegation and evidence
 
@@ -147,6 +157,7 @@ An evidence-based inquiry requires four steps. First, quote or paraphrase the pa
 
 Examples of disputed areas include public appointments, regional revenues, education, ministerial representation and the committee's influence. Avoid invented totals for 'jobs stolen', 'surplus diverted' or 'water denied'. Such figures need a specified period, source and methodology. In mains, a two-column distinction between **documented legal arrangement** and **alleged implementation failure** shows greater command than a sweeping statement that every safeguard was either honoured or broken.
 
+**Four-way evidence matrix.** A claim about a safeguard should be classified as (1) a verbatim promise in the 1956 proceedings, (2) a binding provision of a statute, Presidential Order or government rule, (3) an alleged noncompliant administrative act, or (4) a demonstrated impact. For example, a committee referral omitted in a documented file could prove a procedural breach without quantifying financial damage. Conversely, a lower irrigation outcome might demonstrate disadvantage without identifying a particular legally breached clause. A complete case needs the exact instrument, the dated decision file, a comparator and an appropriate counterfactual. The 1958 Governor-escalation mechanism adds a further test: was the committee's recommendation rejected without the prescribed referral? A grievance and a legal conclusion must not be conflated. [S13].
 
 ## 13. Coastal Andhra migration: patterns, motives and social composition
 
@@ -156,6 +167,7 @@ The distinction between **stock** and **flow** is important. A census count of p
 
 Migration should not be treated as a moral fault of ordinary residents. The historical issue is whether public rules and resource allocations provided equal and fair access. Analyse institutions rather than stigmatise communities. A balanced answer can recognise the economic contribution of migrants while examining local concerns about recruitment, land and representation. It should specify that 'Coastal Andhra' is a regional origin, not a uniform class or political identity.
 
+**Migration evidence design.** Regional migration cannot be reconstructed from surnames or spoken dialect. A defensible historical estimate needs census migration tables, comparable boundaries, dates of movement, rural–urban distinctions and occupational categories. Hyderabad city growth can reflect public employment, education, trade, family migration and national urbanisation simultaneously. A teacher who moved in 1957 and an entrepreneur who arrived in 1975 should not be counted as a single undifferentiated 'influx'. Nor does migrant status by itself establish a violation of recruitment safeguards: that requires an appointment record and the rule applicable to the specific post. A sound mains answer considers contributions to markets and institutions alongside possible distributional pressure, without assigning collective guilt.
 
 ## 14. Migration consequences: employment, language and urban markets
 
@@ -165,6 +177,7 @@ Urban land and rental markets offered another channel. Rising demand could finan
 
 Language and culture were also implicated. Telangana Telugu dialects, Urdu and local practices could be marginalised in formal media or administration when a standardised linguistic identity dominated. Yet cultural interaction also produced new forms of literature, commerce and public life. A critical essay should compare these mechanisms, not describe culture as static or migrants as a single force. To evaluate outcomes, use dated census tables, land records, institutional admissions and occupational data, while acknowledging gaps in region-specific series before and after reorganisation.
 
+**Distributional example.** Suppose a city gains 10,000 jobs over a decade while locally educated applicants increase by 15,000 and rural access to training remains weak. Aggregate employment growth can coexist with worsening competition for some groups. To test a migration explanation, distinguish vacancies filled by lawful transfers, new private-sector posts and appointments covered by local recruitment restrictions. Compare occupations and educational qualifications rather than treating every job as identical. Housing-price changes also require inflation adjustment and neighbourhood-level comparison. This example is deliberately hypothetical; it demonstrates why a broad assertion that migrants 'took jobs' is neither a statistical result nor a legal finding. Policy evaluation must separate opportunity creation, eligibility compliance and distribution.
 
 ## 15. Post-1970 development: define the period before comparing
 
@@ -174,6 +187,7 @@ Three analytical dimensions are needed. **Level:** Did an indicator improve with
 
 Use a common-denominator table: agriculture (yield per hectare and farm income), irrigation (reliable area irrigated and groundwater stress), power (connections and supply quality), education (completion and learning), employment (participation and secure jobs), health (mortality, access and out-of-pocket cost). Where historical regional series are incomplete, explain the limitation. The goal is to evaluate development and perceived regional disparity without converting an exam topic into a one-sided political verdict.
 
+**Periodisation guardrail.** 'Post-1970' is not one uninterrupted institutional regime. The 1969 agitation, the 1970 widening of Regional Committee subjects, the 1973 Six-Point Formula and the subsequent constitutional and administrative arrangements altered the legal framework. The later 2014 formation of Telangana changed the relevant territorial denominator again. A comparative table should therefore specify at least a pre-1970 baseline, a clearly defined subsequent interval, and a consistent region or district reconstruction. Otherwise the same chart can mix policy periods and changing boundaries. For historical explanation, describe which reform existed at the observation date; for present-day current affairs, explain relevance without claiming a 2026 announcement proves a 1956 breach. [S04].
 
 ## 16. Agriculture: dryland structure, technology and unequal risk
 
@@ -192,6 +206,7 @@ Regional grievances often compared canal irrigation in established delta areas w
 
 Tank irrigation also matters. Traditional tanks were connected to village institutions and rainfall patterns; neglect or rehabilitation affects groundwater recharge and livelihoods. Later large lift-irrigation schemes create different trade-offs: potentially wider coverage but substantial power and maintenance costs. The Telangana irrigation department's 2026 project profile is a current administrative source, not a substitute for historical project accounts. The exam-ready argument is that equitable irrigation requires both fair allocation and feasible, maintained delivery systems.
 
+**Three distinct irrigation denominators.** Project proposals report planned command area; construction records report irrigation potential created; actual water-delivery or crop records may report utilisation. If a hypothetical project plans 100,000 hectares, creates infrastructure for 70,000, and delivers dependable irrigation to 45,000 in a drought year, the utilisation ratios are 45 percent of the original plan and about 64.3 percent of created potential. Neither ratio alone proves diversion of water to another region. A stronger audit also needs reservoir inflows, rainfall, lift-pumping reliability, canal maintenance, crop choices and legally relevant allocations. Use the same hydrological year and basin definition before comparing regions. The example is invented solely to demonstrate measurement, not a Telangana project statistic. [S08].
 
 ## 18. Power: generation, supply and the cost of irrigation
 
@@ -210,6 +225,7 @@ The original educational safeguards sought to protect students who entered the e
 
 The Telangana Education Commission's January 2026 policy document is a dated official source for present reform proposals, not evidence that those proposals were implemented in 1970. Use it to show how questions of public-school quality and access remain salient. In a mains answer, move from historical safeguard to institutional expansion to remaining equity challenge. Avoid the unsupported claim that all education growth occurred because of, or despite, the merger.
 
+**Quality-adjusted education comparison.** A region may report more secondary schools while still suffering teacher vacancies, poor transport, dropout at transition grades or low foundational learning. A hypothetical district with 100 schools and 50 percent regular teacher attendance may deliver less instruction than one with 80 schools and 90 percent attendance. This does not mean the second is necessarily superior; enrolment, student–teacher ratios, learning assessments, caste and gender gaps, and geography must also be considered. Compare like cohorts and avoid substituting current district names for historical ones. The 1956 admissions safeguard is an access rule; later improvements in learning outcomes are a different proposition requiring different evidence. [S04], [S09].
 
 ## 20. Employment: state services, private growth and regional opportunity
 
@@ -219,6 +235,7 @@ Distinguish employment **quantity**, **quality** and **access**. A rise in the n
 
 The 2026 state government's claims about public recruitment should be attributed as government statements pending independent verification of definitions and periods. They illustrate that employment continues to be a central political performance indicator. In a historical answer, the stronger point is institutional continuity: a 1956 promise about local opportunity helped establish a vocabulary of regional justice that later movements reworked under changing economic conditions.
 
+**Recruitment audit example.** Imagine 200 advertised posts, 150 appointments and 25 disputed domicile certificates. It is incorrect to call all 25 illegal before checking the applicable rule, whether those posts were within the protected category, the appointment date, and whether valid exceptions existed. An audit might find five invalid certificates, ten lawful transfers and ten cases needing further documents. These hypothetical categories show why aggregate headcounts can overstate or understate breaches. A separate private-sector labour-market analysis should measure wages, skills and regional opportunity; it cannot be treated as if every private appointment fell under the 1956 subordinate-service safeguard. [S04], [S15].
 
 ## 21. Medical and public health: infrastructure, access and outcomes
 
@@ -228,6 +245,7 @@ Since 1970, demographic transition, vaccination, institutional deliveries and pu
 
 A careful essay can use Telangana's current Socio Economic Outlook as a source for contemporary indicators, provided it names the year and does not mix post-2014 district boundaries with earlier regional units. The original Regional Committee's public-health remit is a useful institutional link: it shows that the founding bargain recognised social services as regional priorities. The unresolved analytical question is whether representation translated into effective, geographically equitable service delivery.
 
+**Facility versus service.** A public-health centre counted as 'opened' may lack doctors, medicines, safe water, transport or referral capacity. Suppose two districts each report ten centres but one has eight continuously staffed and the other four. A facility-count comparison alone conceals a major access gap; population served, travel time, maternal care, immunisation continuity and outcomes are needed. Historical comparisons require caution because diagnostic methods and reporting coverage change. A current Telangana health indicator can illuminate present inequalities, but cannot be treated as evidence that a 1956 ministerial promise was violated. Distinguish infrastructure inputs, delivered services and population health outcomes.
 
 ## 22. How to compare regional development without false statistics
 
@@ -237,6 +255,7 @@ A useful evaluation matrix has four columns: indicator, historical baseline, sub
 
 Consider a fictional example: Region A's school enrolment rises from 40 to 70 per cent and Region B's from 60 to 80. A improved by 30 percentage points and B by 20, but B still has the higher final level. Which region 'developed more' depends on the question. The example is deliberately illustrative. This method helps avoid selective statistics and demonstrates the reasoning expected in a high-scoring Group I answer.
 
+**Counterfactual caution.** To evaluate whether a regional disparity arose because of merger policy, compare a credible pre-policy baseline, the trend after policy, and plausible alternative drivers such as rainfall, urbanisation, landholding patterns and national programmes. A single 2026 level cannot establish a 1956 causal effect. Where district boundaries have changed, construct stable geographic units or state that the comparison is not directly valid. Monetary series need constant prices; irrigation requires consistent water years; school and hospital series need service-quality denominators. A useful evidence table has columns for claim, indicator, source, boundary definition, observation year, alternative explanation and uncertainty. This is a method, not an assertion of particular historical losses.
 
 ## 23. Competing interpretations of the 1956 experiment
 
@@ -682,17 +701,17 @@ Every question below was written for this study material. These are **not offici
 **Correct: A.** Job quantity, quality and access are distinct; employment growth need not be evenly distributed.
 
 
-### MCQ 26. A committee with power to advise but not appropriate funds is best described as:
+### MCQ 26. Under the 1958 Andhra Pradesh Government Business Rules amendment, what was the prescribed route when the Council of Ministers rejected a Telangana Regional Committee recommendation on a scheduled matter?
 
-**A.** A separate legislature
+**A.** The committee automatically dissolved the Assembly
 
-**B.** A consultative institution with limited fiscal authority
+**B.** The recommendation was silently discarded without any procedure
 
-**C.** A central bank
+**C.** The chief minister referred the disagreement to the Governor for a final binding decision on the Council
 
-**D.** A court of final appeal
+**D.** The committee independently appropriated the state budget
 
-**Correct: B.** Consultative functions cannot be assumed to confer control over the budget.
+**Correct: C.** The 1958 rule 8-A required a chief-ministerial reference to the Governor if the Council found a recommendation inexpedient or beyond committee competence; the Governor's decision was final and binding on the Council. This was a specified escalation procedure, not a general committee veto. Source: official 1958 gazette reproduced in MHA appendix [S13].
 
 
 ### MCQ 27. Why is it unsafe to compare present Telangana districts directly with 1956 district figures?
@@ -835,13 +854,16 @@ Every question below was written for this study material. These are **not offici
 | S02 | [MHA, States Reorganisation Act, 1956](https://www.mha.gov.in/sites/default/files/The%20State%20Reorganisation%20Act%201956_270614.pdf), 31 August 1956 | Primary statute; section 3 and appointed day; search-indexed text checked 25 October 2026. |
 | S03 | [MHA, States Reorganisation Commission Report](https://www.mha.gov.in/files/commissions_committees_documents/State_20Reorganisation_20Commisison_20Report_20of_201955_270614.pdf), September 1955 | Primary commission recommendation, especially Telangana discussion; directly opened in previous topic's run; compare recommendation with political decision. |
 | S04 | [MHA, Committee for Consultations on Situation in Andhra Pradesh](https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-REPORT-060111%5B1%5D.pdf), December 2010 | Official retrospective, chapters on 1956 agreement, Regional Committee and later reforms. Search-indexed excerpts available 25 October 2026; direct PDF returned 404 in this run. |
-| S05 | [MHA, CCSAP Appendix XIV: Gentlemen's Agreement](https://origin1504-mha.nic.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf), original agreement 20 February 1956; appended 2010 | Reproduces clauses on revenue, education, recruitment, Urdu, land and regional council. Search-indexed excerpts verified; direct PDF timed out. |
+| S05 | [MHA, CCSAP Appendix XIV: Gentlemen's Agreement](https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf), original agreement 20 February 1956; appended 2010 | Reproduces clauses on revenue, education, recruitment, Urdu, land and regional council. Search-indexed excerpts verified; direct PDF timed out. |
 | S06 | [Parliament Digital Library, Nehru on States Reorganisation Bill](https://eparlib.sansad.in/handle/123456789/809168?view_type=browse), 30 July 1956 | Contemporaneous parliamentary record of political deliberation; does not itself prove later implementation. |
 | S07 | [Government of Telangana, Socio Economic Outlook 2026](https://www.telangana.gov.in/reports/), 2026 | Official current statistical source for sectoral comparisons; current-state data cannot be projected back to 1956. |
 | S08 | [Telangana Irrigation and CAD Department](https://irrigation.telangana.gov.in/), checked 25 October 2026 | Current irrigation project definitions and departmental profile; not a historical water-allocation audit. |
 | S09 | [Telangana Education Commission, Education Policy report](https://invest.telangana.gov.in/policy-education/), submitted 12 January 2026 | Official 2026 recommendations on education; recommendations are not proof of implementation. |
 | S10 | [Government of Telangana, Formation Day address](https://www.telangana.gov.in/news/press-releases/2026/06/honble-chief-minister-participated-in-telangana-formation-day-celebrations-at-parade-ground-secunderabad/), 2 June 2026 | Contemporary commemoration and political framing; not a primary record of 1956. |
 | S11 | [Telangana government, irrigation discussion](https://www.telangana.gov.in/news/press-releases/2026/01/honble-cm-sri-a-revanth-reddy-participated-in-meeting-on-irrigation-department-at-jyotirao-phule-praja-bhavan-hyderabad/), 1 January 2026 | Current statement on Krishna/Godavari water rights; claims attributed to government. |
+| S13 | [MHA, CCSAP Appendix, 1958 Regional Committee Presidential Order and March 1958 Andhra Pradesh Gazette](https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf), 1 February and 13 March 1958 | Official indexed reproduction checked 28 October 2026: original Article 371 order and rule 8-A Governor escalation; search-indexed text only, original PDF full-page inspection not claimed. |
+| S14 | [India Code, States Reorganisation Act 1956, Act 37](https://www.indiacode.nic.in/bitstream/123456789/1680/1/a1956-37.pdf), 31 August 1956 | Official indexed Act directly identifies appointed day 1 November 1956 in s.2(a); territorial s.3 distinguished from political agreement. Search-indexed text checked 28 October 2026. |
+| S15 | [India Code, Public Employment (Requirement as to Residence) Act, 1957](https://www.indiacode.nic.in/indiacode/handle/123456789/1362), 7 December 1957 | Government legislation index corroborates separate 1957 Act; precise sections and historical implementation not independently examined in this cycle. |
 | S12 | [Telangana government, drought preparedness](https://www.telangana.gov.in/news/press-releases/2026/10/%E0%B0%8E%E0%B0%B2%E0%B1%8D%E0%B0%A8%E0%B0%BF%E0%B0%A8%E0%B1%8B-%E0%B0%B5%E0%B0%B0%E0%B1%8D%E0%B0%B7%E0%B0%BE%E0%B0%AD%E0%B0%BE%E0%B0%B5-%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%B8%E0%B1%8D/), 10 October 2026 | Official 2026 cross-sector warning on agriculture, irrigation, drinking water and electricity; does not settle historical allocation disputes. |
 
 ### Dated current-affairs integration — relevance without anachronism
