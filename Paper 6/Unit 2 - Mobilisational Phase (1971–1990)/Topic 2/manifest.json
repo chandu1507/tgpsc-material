@@ -22,5 +22,40 @@
     "source/quick-revision.md": "1cb539d64dd63f51896b57fecac3a9c5d1e05f5446fa0a535849a6ec742a615f",
     "source/references.md": "be3e4bc81dc5d04838dad490b4e2822b4a20842a21512127bce8bfd1900ee5a0",
     "source/syllabus-index.md": "b4572cdb693514625a4cd14230df697d7a84bf70aede8abc1466cdeb50263c38"
+  },
+  "academically_approved": false,
+  "source_word_count": 10857,
+  "mains_count": 6,
+  "integrated_pdf_status": "CI_rendered_pending_academic_audit",
+  "integrated_pdf_pages": 24,
+  "integrated_pdf_sha256": "36d6f4194cd5411dbed9b9175654db83dbfa2dfae9a926447d735e2f5e4ba420",
+  "independent_academic_approvals": 0,
+  "metrics": {
+    "concept_count": 32,
+    "concepts_below_300": 28,
+    "answer_distribution": {
+      "A": 7,
+      "B": 8,
+      "C": 8,
+      "D": 7
+    },
+    "full_page_density_certified": false,
+    "independent_review_complete": false
+  },
+  "files_sha256": {
+    "QA-REPORT.md": "a7172634ff34d4c565038000cc8a63541c13a50f081017c988b3cf8abf43474f",
+    "README.md": "f219ee6b43cd07e09e2e2a322917cf7394fdf6b9d0ee4c0329e5d89870b14b35",
+    "complete-notes.pdf": "55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6",
+    "diagrams/mobilisation.png": "cd5bd944c7465d6028bbd7e1c035b773b6df358dfae1acfb92083e700bb610fd",
+    "diagrams/rights-workflow.png": "89915a28eb1826d2d7b7d748d3d6d1d7134d211b419e26942a9c5d28dd800a98",
+    "diagrams/timeline.png": "a71819a0b7fd86153d5c89729c8c3f904ad98f16e845b24acbcd517b320259c1",
+    "index.html": "fad04dde076e82781a80a13be02a34eaae0b3dbd89bf269e1b104d990ffafc89",
+    "source/answer-blueprints.md": "9daf774756ce69186a7c7753bb2ab22dcd2f00187f5335628da723c60514c698",
+    "source/complete-notes.md": "a21c9ad023da0357fc0baca0c05bd574b801bf3a8c8162b6a2ef0b9d5a0d7363",
+    "source/integrated-student-edition-cycle70.pdf": "36d6f4194cd5411dbed9b9175654db83dbfa2dfae9a926447d735e2f5e4ba420",
+    "source/original-practice.md": "3771f462da80e1ce5519eacdf0ff1fec2a35d90f70f8971adf9015c12c3c96be",
+    "source/quick-revision.md": "1cb539d64dd63f51896b57fecac3a9c5d1e05f5446fa0a535849a6ec742a615f",
+    "source/references.md": "ad974af9671250017703f4b144c56234fdc75a2ed73f703b48d2fc41c04e2397",
+    "source/syllabus-index.md": "b4572cdb693514625a4cd14230df697d7a84bf70aede8abc1466cdeb50263c38"
   }
 }

@@ -1,5 +1,7 @@
-# Paper VI · Unit II · Topic 2
+# Paper VI / Unit II / Topic 2 — Naxalite mobilisation and Adivasi land rights
 
-Original 2026 study draft: 32 substantive sections, 30 original explained MCQs, six complete 200–250-word mains models, six applied cases, three diagrams and a source-access audit. Not academically approved. Original TGPSC Notification 02/2024 direct reinspection pending.
+Original PDF SHA256 55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6 preserved.
 
-Open `index.html`, `complete-notes.pdf` or `source/complete-notes.md`.
+[Offline HTML](index.html) · [Integrated PDF](source/integrated-student-edition-cycle70.pdf) · [Editable master](source/complete-notes.md) · [Original PDF](complete-notes.pdf).
+
+4 source-bounded depth expansions; 28 remain shallow; source access bounded; academic approval ZERO.
