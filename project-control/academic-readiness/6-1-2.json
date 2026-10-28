@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle65 14 section-specific historical expansions, source access limitations and direct master audit; source 1952 inquiry not obtained. GitHub PDF/actual packaging artifact not yet verified. Evidence project-control/academic-readiness/6-1-2-cycle65-depth-and-source-audit-2026-10-28.json",
-  "next_action": "Complete remaining shallow concepts, source-authenticate original inquiry and SRC report, independently audit 30 keys/90 distractors and six mains, render CI PDF and verify downloaded packaging artifact.",
+  "evidence": "Cycle65 14 section-specific historical expansions, source access limitations and direct master audit; source 1952 inquiry not obtained. GitHub PDF/actual packaging artifact not yet verified. Evidence project-control/academic-readiness/6-1-2-cycle65-depth-and-source-audit-2026-10-28.json Actual downloaded publication artifact QA: project-control/academic-readiness/6-1-2-cycle65-actual-downloaded-artifact-qa-2026-10-28.json; CRC, hashes, links verified, but full academic/browser QA pending.",
+  "next_action": "Finish independent 30-key/90-distractor checks, six mains claim-level reviews, 3 diagram accuracy checks, source retrieval, full-page density and browser accessibility; do not promote R8 to PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11",
