@@ -1,0 +1,896 @@
+{
+  "topic_id": "5-3-2",
+  "cycle": 60,
+  "date": "2026-10-28",
+  "baseline_commit": "c86d70b4236b7d3eb69bdf993930007b65abbe21",
+  "assessment_type": "author-side independent arithmetic and logic recomputation; NOT independent academic expert approval",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "original_pdf_sha256": "3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5",
+  "original_pdf_preserved": true,
+  "integrated_editable_master_updated": true,
+  "strict_simpson_reversal": {
+    "hospital_A": {
+      "low": "81/90=90%",
+      "high": "5/10=50%",
+      "pooled": "86/100=86%"
+    },
+    "hospital_B": {
+      "low": "10/10=100%",
+      "high": "54/90=60%",
+      "pooled": "64/100=64%"
+    },
+    "conclusion": "B strictly higher within both strata, A higher pooled; no causal inference"
+  },
+  "replaced_mcq30": "Self-referential publication-status question replaced by genuine Simpson interpretation question",
+  "concept_count": 18,
+  "concepts_below_300": 0,
+  "mcqs": 30,
+  "verified_correct_keys_internal": 30,
+  "verified_distractors_internal": 90,
+  "answer_distribution": {
+    "A": 2,
+    "B": 15,
+    "C": 12,
+    "D": 1
+  },
+  "mains_body_only_counts": [
+    220,
+    220,
+    207,
+    218,
+    223,
+    228
+  ],
+  "independent_mains_claim_verification_complete": false,
+  "diagram_accuracy_verified": false,
+  "official_2024_syllabus_reauthenticated": false,
+  "local_integrated_pdf_pages": 22,
+  "local_integrated_pdf_sha256": "8bcc78a6ca4b28b642483565ef9ef1e747312718a08f773324a87dd03491c9f2",
+  "github_ci_pdf_status": "pending on branch merge",
+  "downloaded_post_edit_artifact_qa": false,
+  "direct_browser_accessibility_certified": false,
+  "independent_academic_approvals": 0,
+  "R1_R8_all_PASS": false,
+  "mcq_checks": [
+    {
+      "question": 1,
+      "answer": "C",
+      "independent_result": "45",
+      "derivation": "60+x=105",
+      "options": {
+        "A": {
+          "text": "35",
+          "correct": false,
+          "reason": "Rejected: 60+x=105"
+        },
+        "B": {
+          "text": "40",
+          "correct": false,
+          "reason": "Rejected: 60+x=105"
+        },
+        "C": {
+          "text": "45",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "55",
+          "correct": false,
+          "reason": "Rejected: 60+x=105"
+        }
+      }
+    },
+    {
+      "question": 2,
+      "answer": "C",
+      "independent_result": "75%",
+      "derivation": "(30+90)/(40+120)=120/160",
+      "options": {
+        "A": {
+          "text": "60%",
+          "correct": false,
+          "reason": "Rejected: (30+90)/(40+120)=120/160"
+        },
+        "B": {
+          "text": "70%",
+          "correct": false,
+          "reason": "Rejected: (30+90)/(40+120)=120/160"
+        },
+        "C": {
+          "text": "75%",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "80%",
+          "correct": false,
+          "reason": "Rejected: (30+90)/(40+120)=120/160"
+        }
+      }
+    },
+    {
+      "question": 3,
+      "answer": "B",
+      "independent_result": "15 percentage points",
+      "derivation": "45−30=15 percentage points",
+      "options": {
+        "A": {
+          "text": "10",
+          "correct": false,
+          "reason": "Rejected: 45−30=15 percentage points"
+        },
+        "B": {
+          "text": "15",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "30",
+          "correct": false,
+          "reason": "Rejected: 45−30=15 percentage points"
+        },
+        "D": {
+          "text": "50",
+          "correct": false,
+          "reason": "Rejected: 45−30=15 percentage points"
+        }
+      }
+    },
+    {
+      "question": 4,
+      "answer": "B",
+      "independent_result": "25%",
+      "derivation": "90/360=1/4",
+      "options": {
+        "A": {
+          "text": "20%",
+          "correct": false,
+          "reason": "Rejected: 90/360=1/4"
+        },
+        "B": {
+          "text": "25%",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "30%",
+          "correct": false,
+          "reason": "Rejected: 90/360=1/4"
+        },
+        "D": {
+          "text": "40%",
+          "correct": false,
+          "reason": "Rejected: 90/360=1/4"
+        }
+      }
+    },
+    {
+      "question": 5,
+      "answer": "A",
+      "independent_result": "35",
+      "derivation": "110−75=35",
+      "options": {
+        "A": {
+          "text": "35",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "B": {
+          "text": "75",
+          "correct": false,
+          "reason": "Rejected: 110−75=35"
+        },
+        "C": {
+          "text": "110",
+          "correct": false,
+          "reason": "Rejected: 110−75=35"
+        },
+        "D": {
+          "text": "185",
+          "correct": false,
+          "reason": "Rejected: 110−75=35"
+        }
+      }
+    },
+    {
+      "question": 6,
+      "answer": "C",
+      "independent_result": "50",
+      "derivation": "7+13+20+10=50",
+      "options": {
+        "A": {
+          "text": "40",
+          "correct": false,
+          "reason": "Rejected: 7+13+20+10=50"
+        },
+        "B": {
+          "text": "45",
+          "correct": false,
+          "reason": "Rejected: 7+13+20+10=50"
+        },
+        "C": {
+          "text": "50",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "60",
+          "correct": false,
+          "reason": "Rejected: 7+13+20+10=50"
+        }
+      }
+    },
+    {
+      "question": 7,
+      "answer": "B",
+      "independent_result": "58",
+      "derivation": "40+30−12=58",
+      "options": {
+        "A": {
+          "text": "46",
+          "correct": false,
+          "reason": "Rejected: 40+30−12=58"
+        },
+        "B": {
+          "text": "58",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "70",
+          "correct": false,
+          "reason": "Rejected: 40+30−12=58"
+        },
+        "D": {
+          "text": "82",
+          "correct": false,
+          "reason": "Rejected: 40+30−12=58"
+        }
+      }
+    },
+    {
+      "question": 8,
+      "answer": "B",
+      "independent_result": "10",
+      "derivation": "100−(60+50−20)=10",
+      "options": {
+        "A": {
+          "text": "0",
+          "correct": false,
+          "reason": "Rejected: 100−(60+50−20)=10"
+        },
+        "B": {
+          "text": "10",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "20",
+          "correct": false,
+          "reason": "Rejected: 100−(60+50−20)=10"
+        },
+        "D": {
+          "text": "30",
+          "correct": false,
+          "reason": "Rejected: 100−(60+50−20)=10"
+        }
+      }
+    },
+    {
+      "question": 9,
+      "answer": "C",
+      "independent_result": "3/4",
+      "derivation": "1−(1/2)^2=3/4",
+      "options": {
+        "A": {
+          "text": "1/4",
+          "correct": false,
+          "reason": "Rejected: 1−(1/2)^2=3/4"
+        },
+        "B": {
+          "text": "1/2",
+          "correct": false,
+          "reason": "Rejected: 1−(1/2)^2=3/4"
+        },
+        "C": {
+          "text": "3/4",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "1",
+          "correct": false,
+          "reason": "Rejected: 1−(1/2)^2=3/4"
+        }
+      }
+    },
+    {
+      "question": 10,
+      "answer": "C",
+      "independent_result": "3/8",
+      "derivation": "C(3,2)/2^3=3/8",
+      "options": {
+        "A": {
+          "text": "1/8",
+          "correct": false,
+          "reason": "Rejected: C(3,2)/2^3=3/8"
+        },
+        "B": {
+          "text": "1/4",
+          "correct": false,
+          "reason": "Rejected: C(3,2)/2^3=3/8"
+        },
+        "C": {
+          "text": "3/8",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "1/2",
+          "correct": false,
+          "reason": "Rejected: C(3,2)/2^3=3/8"
+        }
+      }
+    },
+    {
+      "question": 11,
+      "answer": "B",
+      "independent_result": "3/10",
+      "derivation": "(3/5)(2/4)=3/10",
+      "options": {
+        "A": {
+          "text": "3/25",
+          "correct": false,
+          "reason": "Rejected: (3/5)(2/4)=3/10"
+        },
+        "B": {
+          "text": "3/10",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "9/25",
+          "correct": false,
+          "reason": "Rejected: (3/5)(2/4)=3/10"
+        },
+        "D": {
+          "text": "1/2",
+          "correct": false,
+          "reason": "Rejected: (3/5)(2/4)=3/10"
+        }
+      }
+    },
+    {
+      "question": 12,
+      "answer": "B",
+      "independent_result": "9/25",
+      "derivation": "(3/5)^2=9/25",
+      "options": {
+        "A": {
+          "text": "3/10",
+          "correct": false,
+          "reason": "Rejected: (3/5)^2=9/25"
+        },
+        "B": {
+          "text": "9/25",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "2/5",
+          "correct": false,
+          "reason": "Rejected: (3/5)^2=9/25"
+        },
+        "D": {
+          "text": "3/5",
+          "correct": false,
+          "reason": "Rejected: (3/5)^2=9/25"
+        }
+      }
+    },
+    {
+      "question": 13,
+      "answer": "B",
+      "independent_result": "10",
+      "derivation": "C(5,2)=10",
+      "options": {
+        "A": {
+          "text": "5",
+          "correct": false,
+          "reason": "Rejected: C(5,2)=10"
+        },
+        "B": {
+          "text": "10",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "15",
+          "correct": false,
+          "reason": "Rejected: C(5,2)=10"
+        },
+        "D": {
+          "text": "20",
+          "correct": false,
+          "reason": "Rejected: C(5,2)=10"
+        }
+      }
+    },
+    {
+      "question": 14,
+      "answer": "C",
+      "independent_result": "20",
+      "derivation": "5×4=20",
+      "options": {
+        "A": {
+          "text": "10",
+          "correct": false,
+          "reason": "Rejected: 5×4=20"
+        },
+        "B": {
+          "text": "15",
+          "correct": false,
+          "reason": "Rejected: 5×4=20"
+        },
+        "C": {
+          "text": "20",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "25",
+          "correct": false,
+          "reason": "Rejected: 5×4=20"
+        }
+      }
+    },
+    {
+      "question": 15,
+      "answer": "B",
+      "independent_result": "0.2",
+      "derivation": "0.4×0.5=0.2",
+      "options": {
+        "A": {
+          "text": "0.1",
+          "correct": false,
+          "reason": "Rejected: 0.4×0.5=0.2"
+        },
+        "B": {
+          "text": "0.2",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "0.4",
+          "correct": false,
+          "reason": "Rejected: 0.4×0.5=0.2"
+        },
+        "D": {
+          "text": "0.9",
+          "correct": false,
+          "reason": "Rejected: 0.4×0.5=0.2"
+        }
+      }
+    },
+    {
+      "question": 16,
+      "answer": "C",
+      "independent_result": "0.5",
+      "derivation": "0.2+0.3=0.5",
+      "options": {
+        "A": {
+          "text": "0.06",
+          "correct": false,
+          "reason": "Rejected: 0.2+0.3=0.5"
+        },
+        "B": {
+          "text": "0.1",
+          "correct": false,
+          "reason": "Rejected: 0.2+0.3=0.5"
+        },
+        "C": {
+          "text": "0.5",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "0.6",
+          "correct": false,
+          "reason": "Rejected: 0.2+0.3=0.5"
+        }
+      }
+    },
+    {
+      "question": 17,
+      "answer": "C",
+      "independent_result": "40%",
+      "derivation": "40/(40+60)=40%",
+      "options": {
+        "A": {
+          "text": "20%",
+          "correct": false,
+          "reason": "Rejected: 40/(40+60)=40%"
+        },
+        "B": {
+          "text": "30%",
+          "correct": false,
+          "reason": "Rejected: 40/(40+60)=40%"
+        },
+        "C": {
+          "text": "40%",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "50%",
+          "correct": false,
+          "reason": "Rejected: 40/(40+60)=40%"
+        }
+      }
+    },
+    {
+      "question": 18,
+      "answer": "B",
+      "independent_result": "30",
+      "derivation": "12+19−1=30",
+      "options": {
+        "A": {
+          "text": "29",
+          "correct": false,
+          "reason": "Rejected: 12+19−1=30"
+        },
+        "B": {
+          "text": "30",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "31",
+          "correct": false,
+          "reason": "Rejected: 12+19−1=30"
+        },
+        "D": {
+          "text": "32",
+          "correct": false,
+          "reason": "Rejected: 12+19−1=30"
+        }
+      }
+    },
+    {
+      "question": 19,
+      "answer": "A",
+      "independent_result": "5 km",
+      "derivation": "sqrt(3²+4²)=5 km",
+      "options": {
+        "A": {
+          "text": "5 km",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "B": {
+          "text": "7 km",
+          "correct": false,
+          "reason": "Rejected: sqrt(3²+4²)=5 km"
+        },
+        "C": {
+          "text": "12 km",
+          "correct": false,
+          "reason": "Rejected: sqrt(3²+4²)=5 km"
+        },
+        "D": {
+          "text": "1 km",
+          "correct": false,
+          "reason": "Rejected: sqrt(3²+4²)=5 km"
+        }
+      }
+    },
+    {
+      "question": 20,
+      "answer": "C",
+      "independent_result": "43",
+      "derivation": "differences 4,6,8,10,12; 31+12=43",
+      "options": {
+        "A": {
+          "text": "39",
+          "correct": false,
+          "reason": "Rejected: differences 4,6,8,10,12; 31+12=43"
+        },
+        "B": {
+          "text": "41",
+          "correct": false,
+          "reason": "Rejected: differences 4,6,8,10,12; 31+12=43"
+        },
+        "C": {
+          "text": "43",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "45",
+          "correct": false,
+          "reason": "Rejected: differences 4,6,8,10,12; 31+12=43"
+        }
+      }
+    },
+    {
+      "question": 21,
+      "answer": "B",
+      "independent_result": "N",
+      "derivation": "alphabet positions 2,5,8,11,14=N",
+      "options": {
+        "A": {
+          "text": "M",
+          "correct": false,
+          "reason": "Rejected: alphabet positions 2,5,8,11,14=N"
+        },
+        "B": {
+          "text": "N",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "O",
+          "correct": false,
+          "reason": "Rejected: alphabet positions 2,5,8,11,14=N"
+        },
+        "D": {
+          "text": "P",
+          "correct": false,
+          "reason": "Rejected: alphabet positions 2,5,8,11,14=N"
+        }
+      }
+    },
+    {
+      "question": 22,
+      "answer": "D",
+      "independent_result": "A–C overlap not entailed",
+      "derivation": "A∩C can be empty or nonempty; no forced overlap",
+      "options": {
+        "A": {
+          "text": "All A are C",
+          "correct": false,
+          "reason": "Rejected: A∩C can be empty or nonempty; no forced overlap"
+        },
+        "B": {
+          "text": "Some A are C",
+          "correct": false,
+          "reason": "Rejected: A∩C can be empty or nonempty; no forced overlap"
+        },
+        "C": {
+          "text": "No A are C",
+          "correct": false,
+          "reason": "Rejected: A∩C can be empty or nonempty; no forced overlap"
+        },
+        "D": {
+          "text": "No definite A–C overlap",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        }
+      }
+    },
+    {
+      "question": 23,
+      "answer": "B",
+      "independent_result": "P false by modus tollens",
+      "derivation": "P→Q and ¬Q imply ¬P",
+      "options": {
+        "A": {
+          "text": "P is true",
+          "correct": false,
+          "reason": "Rejected: P→Q and ¬Q imply ¬P"
+        },
+        "B": {
+          "text": "P is false",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "Q is true",
+          "correct": false,
+          "reason": "Rejected: P→Q and ¬Q imply ¬P"
+        },
+        "D": {
+          "text": "Nothing",
+          "correct": false,
+          "reason": "Rejected: P→Q and ¬Q imply ¬P"
+        }
+      }
+    },
+    {
+      "question": 24,
+      "answer": "C",
+      "independent_result": "both equations together (x=6)",
+      "derivation": "x+y=10 and x−y=2 yield x=6; neither alone suffices",
+      "options": {
+        "A": {
+          "text": "I only",
+          "correct": false,
+          "reason": "Rejected: x+y=10 and x−y=2 yield x=6; neither alone suffices"
+        },
+        "B": {
+          "text": "II only",
+          "correct": false,
+          "reason": "Rejected: x+y=10 and x−y=2 yield x=6; neither alone suffices"
+        },
+        "C": {
+          "text": "Both together only",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "Neither together",
+          "correct": false,
+          "reason": "Rejected: x+y=10 and x−y=2 yield x=6; neither alone suffices"
+        }
+      }
+    },
+    {
+      "question": 25,
+      "answer": "C",
+      "independent_result": "90/(90+495)=15.3846%",
+      "derivation": "90 true positives, 495 false positives; PPV 90/585",
+      "options": {
+        "A": {
+          "text": "1%",
+          "correct": false,
+          "reason": "Rejected: 90 true positives, 495 false positives; PPV 90/585"
+        },
+        "B": {
+          "text": "5%",
+          "correct": false,
+          "reason": "Rejected: 90 true positives, 495 false positives; PPV 90/585"
+        },
+        "C": {
+          "text": "15.4%",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "90%",
+          "correct": false,
+          "reason": "Rejected: 90 true positives, 495 false positives; PPV 90/585"
+        }
+      }
+    },
+    {
+      "question": 26,
+      "answer": "B",
+      "independent_result": "20% relative increase",
+      "derivation": "(60−50)/50=20%",
+      "options": {
+        "A": {
+          "text": "10%",
+          "correct": false,
+          "reason": "Rejected: (60−50)/50=20%"
+        },
+        "B": {
+          "text": "20%",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "50%",
+          "correct": false,
+          "reason": "Rejected: (60−50)/50=20%"
+        },
+        "D": {
+          "text": "60%",
+          "correct": false,
+          "reason": "Rejected: (60−50)/50=20%"
+        }
+      }
+    },
+    {
+      "question": 27,
+      "answer": "C",
+      "independent_result": "frequency density",
+      "derivation": "frequency/class width ensures bar area equals frequency",
+      "options": {
+        "A": {
+          "text": "Raw frequency always",
+          "correct": false,
+          "reason": "Rejected: frequency/class width ensures bar area equals frequency"
+        },
+        "B": {
+          "text": "Class midpoint",
+          "correct": false,
+          "reason": "Rejected: frequency/class width ensures bar area equals frequency"
+        },
+        "C": {
+          "text": "Frequency density",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "D": {
+          "text": "Cumulative frequency",
+          "correct": false,
+          "reason": "Rejected: frequency/class width ensures bar area equals frequency"
+        }
+      }
+    },
+    {
+      "question": 28,
+      "answer": "B",
+      "independent_result": "0% net change",
+      "derivation": "1.25×0.8=1",
+      "options": {
+        "A": {
+          "text": "−5%",
+          "correct": false,
+          "reason": "Rejected: 1.25×0.8=1"
+        },
+        "B": {
+          "text": "0%",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "5%",
+          "correct": false,
+          "reason": "Rejected: 1.25×0.8=1"
+        },
+        "D": {
+          "text": "10%",
+          "correct": false,
+          "reason": "Rejected: 1.25×0.8=1"
+        }
+      }
+    },
+    {
+      "question": 29,
+      "answer": "B",
+      "independent_result": "not necessarily representative",
+      "derivation": "sample design and coverage do not guarantee district representativeness",
+      "options": {
+        "A": {
+          "text": "Always true",
+          "correct": false,
+          "reason": "Rejected: sample design and coverage do not guarantee district representativeness"
+        },
+        "B": {
+          "text": "Not necessarily true",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "True if n>30",
+          "correct": false,
+          "reason": "Rejected: sample design and coverage do not guarantee district representativeness"
+        },
+        "D": {
+          "text": "True if all ages included",
+          "correct": false,
+          "reason": "Rejected: sample design and coverage do not guarantee district representativeness"
+        }
+      }
+    },
+    {
+      "question": 30,
+      "answer": "B",
+      "independent_result": "B 100%>A 90% and B 60%>A 50%, pooled A 86%>B 64%",
+      "derivation": "B leads in both strata but A's pooled 86% exceeds B's 64%",
+      "options": {
+        "A": {
+          "text": "A has higher recovery in both risk groups",
+          "correct": false,
+          "reason": "Rejected: B leads in both strata but A's pooled 86% exceeds B's 64%"
+        },
+        "B": {
+          "text": "B has higher recovery in both groups, but A has higher pooled recovery",
+          "correct": true,
+          "reason": "Matches independently derived result"
+        },
+        "C": {
+          "text": "Both have the same pooled recovery",
+          "correct": false,
+          "reason": "Rejected: B leads in both strata but A's pooled 86% exceeds B's 64%"
+        },
+        "D": {
+          "text": "B has higher pooled recovery",
+          "correct": false,
+          "reason": "Rejected: B leads in both strata but A's pooled 86% exceeds B's 64%"
+        }
+      }
+    }
+  ]
+}
