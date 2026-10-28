@@ -1,8 +1,8 @@
 {
   "topic_id": "6-1-2",
   "title": "Hyderabad State in Independent India: Mulki Agitation, SRC and Smaller States",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,19 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle65 14 section-specific historical expansions, source access limitations and direct master audit; source 1952 inquiry not obtained. GitHub PDF/actual packaging artifact not yet verified. Evidence project-control/academic-readiness/6-1-2-cycle65-depth-and-source-audit-2026-10-28.json",
+  "next_action": "Complete remaining shallow concepts, source-authenticate original inquiry and SRC report, independently audit 30 keys/90 distractors and six mains, render CI PDF and verify downloaded packaging artifact.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "original_pdf_sha256": "2e7d7a51c142f525a58696c805dcf8d8d56fd2b546184483c7479badb85b5a11",
+  "direct_browser_accessibility_certified": false
 }
