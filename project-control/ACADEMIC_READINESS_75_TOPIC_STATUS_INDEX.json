@@ -129,7 +129,7 @@
     "5-1-5",
     "5-2-1"
   ],
-  "last_readiness_update": "Cycle54: Topic 5-1-5 guarded CI rendered 27-page PDF and synchronized offline HTML, R8 IN_PROGRESS not PASS; actual post-edit ZIP QA pending. Topic 5-2-1 assessed, 36 rebuild-required, 32 not assessed.",
+  "last_readiness_update": "Cycle54 actual downloaded post-render 75-topic artifact QA PASS: 1690 files, 75 original PDFs preserved, 75 readiness JSON, 78 HTML, 435 local links/1137 fragments zero broken; Topic 5-1-5 PDF 27 pages, R8 IN_PROGRESS not PASS; academic approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -144,6 +144,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json",
     "project-control/academic-readiness/5-1-5-cycle53-direct-structure-and-official-key-correspondence-2026-10-28.json",

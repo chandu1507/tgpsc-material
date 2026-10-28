@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json",
-  "next_action": "Post-CI GitHub packaging must be downloaded and CRC/link/75-PDF/hash verified. Then complete independent 30-key/90-distractor and six mains claim audits, diagrams, syllabus and browser accessibility; R8 remains IN_PROGRESS, R9 not started.",
+  "next_action": "Complete independent all-30 MCQ key and 90 distractor review, claim-level six mains review, diagram accuracy, official syllabus and browser accessibility; R8 remains IN_PROGRESS despite verified publication; R9 only after full R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -78,5 +78,17 @@
     ],
     "manifest_html_synced": true,
     "actual_post_edit_artifact_downloaded": false
+  },
+  "last_downloaded_artifact_qa": {
+    "evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+    "run_id": 40635201034,
+    "artifact_id": 12792749773,
+    "sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
+    "crc": "PASS",
+    "original_pdfs_preserved": 75,
+    "links_broken": 0,
+    "fragment_links_broken": 0,
+    "manifest_hashes_verified": 18,
+    "academic_approval": 0
   }
 }
