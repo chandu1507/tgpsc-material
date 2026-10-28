@@ -105,6 +105,8 @@ A Telangana Maha Sabha associated with Suryapet in 1997 placed agrarian, social-
 
 The political content was wider than administrative separation. Participants raised concerns about land redistribution, rural exploitation, irrigation, privatisation, police violence and the rights of disadvantaged communities. This breadth explains why the movement could attract supporters who interpreted regional injustice through caste and class as well as through territory. It also created tensions: a platform prioritising redistribution might disagree with business-oriented supporters of statehood about the future economic model. The important analytical point is that a demand for a state could carry competing visions of what the new state should do.
 
+**Competing chronology and evidence grading.** The indexed text of a University of Hyderabad thesis attributes a Telangana Maha Sabha at Suryapet to 11 April 1997, whereas a separately published Telangana examination explanation identifies 11 August 1997 as the first Suryapet meeting. These are different secondary accounts, not two independently authenticated meeting notices. The discrepancy might involve distinct events, naming practices or later recollection, but that explanation is only a hypothesis. Neither source, on its own, establishes that the other date is false. A defensible student answer should say “Suryapet mobilisation in 1997,” identify the contested day only when specifically required, and explain that a dated invitation, organiser minutes or contemporary newspaper report is needed to settle it. This is not an excuse to discard the meeting's historical importance. Its programme linked regional statehood with questions of land distribution, policing, irrigation and Dalit–Bahujan representation. For a mains answer, separate the independently plausible political themes from unverified particulars such as the exact attendance, number of resolutions or precise date. A chronological MCQ asking for one day without citing its source would be unsuitable for an authenticated question bank.
+
 ## 12. Telangana Jana Sabha: continuity, reorganisation and mobilisation
 
 The name Telangana Jana Sabha appears in accounts of late-1990s mobilisation, particularly meetings in 1998. Some sources describe a revival or reconstitution rather than a first founding, and the spelling of the organisation's name varies across accounts. This is an archival warning: do not automatically treat every similarly named meeting, front or association as one uninterrupted legal body. The relevant question is how public forums attempted to turn episodic meetings into continuing grassroots work.
@@ -183,6 +185,8 @@ Regional budget comparisons are deceptively difficult. A project physically loca
 
 The intellectual revival is important because it encouraged citizens to ask these accounting questions publicly. But a table in a pamphlet is not self-validating. A good mains answer can explain a five-step audit: define the region and years; choose an appropriate denominator; distinguish planned and realised expenditure; assess service outcomes; and consider geography and historical baselines. This method is more defensible than declaring all disparity proof of deliberate discrimination. It also makes room for corrective policies short of statehood, which were part of the wider political debate.
 
+**Worked comparison (hypothetical figures, not Telangana budget data).** Suppose a programme announces 120 units of expenditure for Region A and 100 for Region B, but audited disbursements are 72 and 90. Comparing announcements would favour A, while implementation rates are 60% and 90% respectively. Neither calculation by itself proves discrimination. If A serves twice as many people, per-capita spending tells a different story; if its terrain makes delivery more costly, expenditure alone may not measure outcomes. A valid historical claim must therefore state whether its denominator is population, eligible beneficiaries, geographic area, assessed need, project capacity or total state expenditure. It must also reconcile fiscal years, price levels, changed district boundaries and the difference between sanctioned, released, spent and physically completed work. This matters for evaluating civil-society pamphlets: they may accurately expose an implementation gap but still overstate what the numbers prove. A source register should retain the original budget table and methodology, not merely the quoted percentage. For mains, present the grievance, evidence, plausible alternative explanations and a reasoned conclusion rather than an unsupported regional ranking.
+
 ## 25. Caste, tribal rights and the limits of a unified regional narrative
 
 A Telangana identity movement could unite people around territory while still containing deep differences of caste, landownership and social power. Dalit movements, including Madiga Dandora, and Adivasi rights campaigns raised questions that regional elites might otherwise neglect. The Warangal programme's attention to land and tribal autonomy reflects one attempt to make the statehood demand socially transformative. Other organisations placed greater emphasis on administrative autonomy or cultural recognition.
@@ -236,6 +240,8 @@ This chapter uses a source hierarchy. Highest weight goes to original legal text
 Under Article 3 of the Indian Constitution, Parliament can form new states through legislation, subject to the prescribed procedure including a presidential reference to the affected state legislature for its views. The state legislature's views are relevant to the process but are not an absolute veto over Parliament's power. Civic associations could advocate, lobby and petition; they could not themselves reorganise state boundaries. The distinction between moral legitimacy and legal competence is central to this topic.
 
 This helps explain why organisations pressed Congress and BJP leaders to take positions. Without legislative action and national political negotiation, even a widely supported public demand could remain unresolved. At the same time, the existence of Article 3 did not make statehood automatic: federal, economic, administrative and political concerns had to be debated. The exam-ready formulation is that civil society built the case and constituency for statehood while constitutional institutions retained authority to decide it. Do not substitute later 2014 legislation for the historical choices faced by activists in 1997.
+
+**Article 3 procedure and the limits of consultation.** The Constitution's Article 3 gives Parliament legislative competence to create a state by separating territory from an existing state. A bill for that purpose cannot be introduced in either House without the President's recommendation. Where an existing state's area, boundary or name is affected, the President refers the proposal to that state's legislature for its views within a specified or extended period. Seeking views is not the same as requiring the legislature's consent; it does not confer an absolute veto. The distinction matters because a civil-society declaration, a party's working-committee resolution and a state assembly's view each have different legal effects. Article 4 permits consequential changes to the First and Fourth Schedules and certain incidental provisions in the same legislation, without treating those changes as a constitutional amendment under Article 368. These constitutional facts explain the institutional route, not the merits of a particular territorial demand. In the 1997–2004 movement, public advocacy could shape party calculations and legislative agendas, but it could not itself complete that legal sequence. Source: Government of India's published Constitution, Articles 3–4; original 1990s party minutes remain unexamined.
 
 ## 34. Competing viewpoints: regional justice and integrated development
 
@@ -341,14 +347,14 @@ Avoid six traps: treating all sabhas as the same institution; calling a declarat
 
 **Answer: A.** The periodical illustrates how print carried regional arguments beyond meetings.
 
-**Q4. Which gathering is firmly associated with 8–9 March 1997?**
+**Q4. Which 1997 mobilisation is associated with the 8–9 March Bhuvanagiri meeting in the indexed University of Hyderabad historical account?**
 
-- A. Warangal Declaration
-- B. Bhuvanagiri Sabha
-- C. 2004 Vidyavanthula Vedika
-- D. 1956 SRC
+- A. The Warangal Declaration gathering
+- B. The Bhuvanagiri Sabha
+- C. The Suryapet Telangana Maha Sabha
+- D. The Telangana Aikya Vedika coordination forum
 
-**Answer: B.** The Bhuvanagiri Sabha took place in March 1997 and brought cultural and intellectual voices together.
+**Answer: B.** The thesis's indexed chronology places Bhuvanagiri on 8–9 March 1997. The other options refer to distinct 1997 mobilisations; original organiser minutes were not directly obtained.
 
 **Q5. The dominant historical contribution of Bhuvanagiri was:**
 
@@ -404,14 +410,14 @@ Avoid six traps: treating all sabhas as the same institution; calling a declarat
 
 **Answer: A.** Accounts emphasise land, democratic rights and tribal autonomy alongside statehood.
 
-**Q11. Which person is strongly associated with Telangana economic and institutional research?**
+**Q11. Which figure is especially associated with economic and institutional analysis supporting the renewed Telangana statehood argument?**
 
 - A. K. Jayashankar
-- B. Lord Curzon
-- C. Warren Hastings
-- D. Mountbatten
+- B. Kaloji Narayana Rao
+- C. Belli Lalitha
+- D. Maroju Veeranna
 
-**Answer: A.** Jayashankar's role linked economic analysis with civic advocacy.
+**Answer: A.** Jayashankar is chiefly associated here with economic and institutional research; the other figures made important but distinct literary, cultural or political contributions. This is an original practice item, not an authenticated official PYQ.
 
 **Q12. Kaloji Narayana Rao is most relevant here as:**
 
@@ -467,14 +473,14 @@ Avoid six traps: treating all sabhas as the same institution; calling a declarat
 
 **Answer: A.** The 1997 resolution is an important early national-party expression of support.
 
-**Q18. Which is the correct constitutional route for forming a new state?**
+**Q18. Which statement accurately describes the Article 3 procedure for creating a state from an existing state?**
 
-- A. A civic trust alone
-- B. Article 3 parliamentary legislation
-- C. A university resolution alone
-- D. A district collector’s circular
+- A. A state legislature's affirmative consent is constitutionally mandatory in every case.
+- B. The President recommends introduction of the bill and refers the proposal to the affected state legislature for its views; Parliament legislates.
+- C. A Governor may create a state by executive notification without Parliament.
+- D. A national referendum is constitutionally mandatory before every state reorganisation.
 
-**Answer: B.** Parliament legislates under Article 3 following the prescribed procedure.
+**Answer: B.** Article 3 requires presidential recommendation and the prescribed reference for views, but not an absolute state-legislature veto. Parliament exercises the lawmaking power; the Government of India's published Constitution provides the controlling text.
 
 **Q19. Which best captures Congress activity around 2000–01?**
 
@@ -705,3 +711,7 @@ Avoid six traps: treating all sabhas as the same institution; calling a declarat
 - **S14 — 2013-01-28 | Press Trust of India retrospective on Congress statehood politics** (Retrospective national news report). https://www.business-standard.com/article/pti-stories/cong-raked-up-telangana-statehood-demand-in-1999-113012800385_1.html — **Audit:** Useful contextual check; later recollections require corroboration.
 
 **Unresolved primary-source requests:** certified Telangana Information Trust founding/registration document; original issues of *Ma Telangana*; original Bhuvanagiri and Suryapet invitations and attendance records; signed Aikya Vedika minutes; full adopted Warangal Declaration; original Vidyavanthula Vedika constitution; original Kakinada BJP resolution and Congress forum memoranda. The chapter is a sourced working draft, not an independently approved historical reference.
+
+- **S15 — 2022 institutional thesis, University of Hyderabad, TH12608** (retrospective academic study, indexed PDF). https://igmlnet.uohyd.ac.in/docs/hi-res/hcu_images/TH12608.pdf — **Audit 29 Oct 2026:** indexed passage identifies 8–9 March Bhuvanagiri and 11 April Suryapet; full thesis PDF fetch timed out, so original page and methodology were NOT directly inspected.
+- **S16 — RC Reddy IAS Study Circle, 2024 Telangana Group-II answer explanation** (secondary exam-preparation source). https://www.rcreddyiasstudycircle.com/public/images/TGPSC_GROUP-II_Grand_Test-4_T_E_Key.pdf — **Audit 29 Oct 2026:** indexed explanation identifies 11 August 1997 Suryapet; not original organiser minutes. Conflicts with S15; do not present either day as archivally settled.
+- **S17 — Government of India, Legislative Department, Constitution of India, Articles 3–4** (primary constitutional text, 2025 official publication). https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf — **Audit 29 Oct 2026:** indexed original constitutional text supports presidential recommendation, referral for views and Parliament's lawmaking power; this does not authenticate 1997 political events.
