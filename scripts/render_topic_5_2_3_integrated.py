@@ -111,7 +111,7 @@ while i<len(tokens):
         f=(src.parent/u).resolve()
         if not f.is_file(): f=(src.parent.parent/u).resolve()
         if not f.is_file(): raise FileNotFoundError(f)
-        w,h=PILImage.open(f).size; scale=min(480/w,320/h)
+        w,h=PILImage.open(f).size; scale=min(470/w,220/h)
         story.append(Image(str(f),width=w*scale,height=h*scale));story.append(Spacer(1,7))
       i+=3;continue
     story.append(Paragraph(('•  '+val) if list_depth else val,styles['li' if list_depth else 'p']))
