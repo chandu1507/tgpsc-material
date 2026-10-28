@@ -1,12 +1,12 @@
 {
   "topic_id": "6-3-1",
   "title": "Public Awakening, Civil Society and the Articulation of Telangana Identity (1988–2004)",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
-  "prior_repair_reported": false,
+  "prior_repair_reported": true,
   "inventory_baseline": {
     "path": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 1",
     "files": 14,
@@ -17,17 +17,60 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/6-3-1-cycle74-direct-source-depth-mcq-and-mains-audit-2026-10-29.json",
+  "next_action": "Expand 38 shallow concepts, full independent 30-key/90-distractor and six mains claim audits, check original 1997 organiser records, validate 3 diagrams, render synchronized CI PDF and verify actual downloaded artifact, offline links and browser accessibility.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "metrics": {
+    "concepts": 41,
+    "initial_concepts_below_300": 41,
+    "concepts_below_300": 38,
+    "expanded_sections": [
+      11,
+      24,
+      33
+    ],
+    "expanded_word_counts": [
+      351,
+      340,
+      356
+    ],
+    "original_practice_mcqs": 30,
+    "rewritten_mcqs": [
+      4,
+      11,
+      18
+    ],
+    "mcq_key_distribution": {
+      "A": 10,
+      "B": 18,
+      "C": 2,
+      "D": 0
+    },
+    "keys_independently_verified": 0,
+    "distractors_independently_verified": 0,
+    "mains_body_only_counts": [
+      201,
+      209,
+      213,
+      203,
+      207,
+      203
+    ],
+    "diagrams_existing": 3,
+    "original_pdf_pages": 24,
+    "original_pdf_sha256": "a84ba74ea6ab0c48598d65b246694bce1b74f23faa53a114e4e239a02c17846e",
+    "new_integrated_pdf_rendered": false,
+    "full_page_per_concept_met": false,
+    "independent_approvals": 0
+  }
 }
