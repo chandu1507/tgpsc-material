@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-28",
+  "cycle": 52,
+  "topic_id": "5-1-4",
+  "source_publication_artifact": {
+    "run_id": 40617484927,
+    "artifact_id": 12786031372,
+    "downloaded_zip_sha256": "eaa245faca83dff750f641f7d1f7fcc7b813700c2eb4d171a818eca61002d618",
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "inner_file_count": 1674,
+    "original_topic_pdfs": 75,
+    "readiness_json": 75
+  },
+  "original_pdf": {
+    "pages": 23,
+    "sha256": "767cc8cad529ab3599032a8f17ff91c84be2271f958e2ea4069a3deda78c9524",
+    "preserved": true
+  },
+  "source_repair": {
+    "concepts": 16,
+    "concepts_under_300": 0,
+    "original_four_option_mcqs": 30,
+    "correct_answer_distribution": {
+      "A": 9,
+      "B": 18,
+      "C": 2,
+      "D": 1
+    },
+    "total_options": 120,
+    "distractors": 90,
+    "mains_corrected_in_place": [
+      1,
+      5
+    ],
+    "mains_body_only_words": [
+      218,
+      202,
+      212,
+      204,
+      223,
+      208
+    ],
+    "diagrams": 3,
+    "editable_master": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 4/source/complete-notes.md",
+    "component_files_synchronized": true
+  },
+  "bounded_checks": {
+    "primary_source_key_correspondences": [
+      5,
+      8,
+      9,
+      12,
+      14,
+      17,
+      22,
+      23,
+      25
+    ],
+    "arithmetic_only": [
+      15
+    ],
+    "other_keys_unverified": 21,
+    "all_90_distractors_unverified": true,
+    "mains_claim_level_unverified": true,
+    "diagram_accuracy_unverified": true,
+    "official_pyqs_verified": 0,
+    "sources": [
+      "https://new1.isro.gov.in/Signing_MoU_NRSC_HYDRAA.html",
+      "https://tsunami.incois.gov.in/TEWS/abouttsunamiready.jsp",
+      "https://rsmcnewdelhi.imd.gov.in/four-stage-warning.php",
+      "https://www.nrsc.gov.in/nrscnew/Apps_DMS.php",
+      "https://www.isro.gov.in/ISRO_EN/EDUSAT.html",
+      "https://new1.isro.gov.in/Wheat_Crop_Area_and_Production_Estimation_in_India.html"
+    ]
+  },
+  "local_candidate": {
+    "pdf_pages": 26,
+    "pdf_sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41",
+    "embedded_original_diagrams": 3,
+    "blank_pages": 0,
+    "detected_text_out_of_page": 0,
+    "offline_links_checked": 5,
+    "broken_offline_links": 0,
+    "zip_crc": "PASS",
+    "github_pdf_rendered": false,
+    "actual_post_edit_actions_artifact_verified": false
+  },
+  "readiness": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED",
+    "independent_academic_approvals": 0
+  },
+  "limitations": [
+    "Commission-hosted original Notification 02/2024 PDF returned HTTP 403 on direct fetch; syllabus not independently reauthenticated.",
+    "Bounded correct-answer proposition checks do not establish full distractor validity.",
+    "Local PDF candidate not yet GitHub-rendered or independently browser-tested.",
+    "No named independent academic expert review."
+  ]
+}
