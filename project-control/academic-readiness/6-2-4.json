@@ -1,8 +1,8 @@
 {
   "topic_id": "6-2-4",
   "title": "Liberalisation, Regional Disparities, Madiga Dandora, Tudum Debba and Rural Crisis",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,33 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "BLOCKED",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/6-2-4-cycle72-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
+  "next_action": "Repair 40 shallow concepts, Mains 2 197-word deficit, 30 keys/90 distractors, six claim sets and 3 diagrams; regenerate synchronized CI PDF; direct browser QA.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "metrics": {
+    "concepts": 40,
+    "concepts_below_300": 40,
+    "original_practice_mcqs": 30,
+    "keys_independently_verified": 0,
+    "distractors_independently_verified": 0,
+    "mains_body_only_counts": [
+      208,
+      197,
+      209,
+      214,
+      212,
+      203
+    ],
+    "full_page_per_concept_met": false
+  }
 }
