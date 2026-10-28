@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json",
-  "next_action": "Complete claim-level 30-key/90-distractor/six-mains/three-diagram audit; retrieve official syllabus PDF; publish synchronized PDF through deterministic CI and verify actual downloaded artifact; direct browser accessibility; independent expert review.",
+  "next_action": "Download post-CI GitHub packaging artifact and verify 75 original PDFs, 75 readiness JSON, CRC, all local/fragment links and PDF SHA; then complete 30 keys/90 distractors, six mains claims, three diagrams, syllabus and browser audit.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -57,6 +57,16 @@
     "arithmetic_only_checks": 1,
     "unverified_keys": 21,
     "unverified_distractors": 90,
-    "independent_approval": 0
+    "independent_approval": 0,
+    "github_ci_render": {
+      "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
+      "pdf_sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41",
+      "pages": 26,
+      "embedded_images": 3,
+      "blank_pages": 0,
+      "local_html_links": 7,
+      "broken_links": 0,
+      "actual_post_render_actions_artifact_downloaded": false
+    }
   }
 }
