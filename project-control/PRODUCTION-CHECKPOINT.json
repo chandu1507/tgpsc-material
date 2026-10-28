@@ -688,9 +688,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle58_two_concepts_and_mains_corrected_ci_publication_pending",
+      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending. Cycle58: two concept expansions and mains M5 correction in editable master; 13 bounded key checks, no complete academic approval. Local PDF only until CI publication.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-5.json"
     },
     {
