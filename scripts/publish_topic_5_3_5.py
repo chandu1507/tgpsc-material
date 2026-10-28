@@ -108,7 +108,7 @@ qa={'date':'2026-10-28','topic_id':'5-3-5','cycle':63,'original_pdf_sha256':orig
     'Four targeted conceptual expansions and three revised practice MCQs. No official PYQs or independent academic approval claimed.\n')
 manifest=json.loads((root/'manifest.json').read_text())
 manifest.update({'academically_approved':False,'academic_status':'not_approved','source_word_count':word(md),
-    'mcq_count':30,'mains_count':6,'integrated_pdf_status':'CI_rendered_pending_academic_audit',
+    'mcq_count':30,'mains_count':6,'mains_word_counts':bodycounts,'original_pdf_pages':25,'integrated_pdf_status':'CI_rendered_pending_academic_audit',
     'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha(pdf),'official_syllabus_authenticated_this_cycle':True,
     'independent_academic_approvals':0})
 manifest['metrics']={'concept_count':18,'explanatory_sections_below_300':qa['explanatory_sections_below_300'],
