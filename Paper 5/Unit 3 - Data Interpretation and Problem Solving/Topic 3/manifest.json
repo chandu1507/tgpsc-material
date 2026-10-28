@@ -1,22 +1,50 @@
 {
   "id": "5-3-3",
   "title": "Quantitative Aptitude",
-  "source_word_count": 10026,
+  "source_word_count": 12376,
   "mcq_count": 30,
   "mains_count": 6,
   "diagram_count": 3,
   "academically_approved": false,
   "files_sha256": {
-    "index.html": "1d799c208dea3716f64a2d6b87f974b2aca03e0d3b62af8b3b6b4475203162e3",
+    "README.md": "7a9a22ea040914c47a5d8b219a0da598424600b358eceb4f4df3d7d886f5c13e",
+    "QA-REPORT.md": "6befdeb8dc7b454de2a5a005587715c03f90a648bf604e6c31c31f5a0feec322",
     "complete-notes.pdf": "3a4de15932eabf615bd62c4e5f99d15ef6b65a8517014cc81c753a81c9aacf29",
-    "README.md": "36083887c4f430c94648d3bb2544e7ecd92c34d2ef3fc06e321adb7a10ab97b1",
+    "index.html": "e2b6db80ed0b8029c17683ac53164dd5cb3efe7dc2e19a77545cc72a2e30c83a",
     "diagrams/weighted_average.png": "1f3adcf4e66205f86f53a976c9825507807766089f587d3367fa808d84b42143",
     "diagrams/profit_discount.png": "4970a483c961061a2d96a8490aa2c995c132ad2242bd606e7ebe1ca14918e118",
     "diagrams/ap_vs_gp.png": "c1583f4ff9acdbf3a483e15548c3105388ee2f2879c497673216c16eb0193a07",
-    "source/complete-notes.md": "09f39e6f382b4f6d237ad77a12363be5b5ab5cbb9e3a549127af1d2b48cbd13a",
-    "source/original-practice.md": "8630b81d7b7cdfcac2edf7dc817b16941e0d5d615ba446467bccf2be78ca8ce1",
+    "source/source-audit.md": "ac71ae7d932a1db1ac0badf507958a046471eeb244367066b11b6a3bc2f6335b",
+    "source/complete-notes.md": "242877ddab6156d0205aab5a4c73b90fe4596990528d05e12fca3792cddc3cf2",
     "source/complete-model-answers.md": "f95b0bbaf1cf0a5aba4467eab3091e50bb4c601189650213d8cd63caf4cf358e",
     "source/quick-revision.md": "c171e1910de2d55dfdd20aa826eb20743292c619e906d03ef1c54992e7a1309a",
-    "source/source-audit.md": "ac71ae7d932a1db1ac0badf507958a046471eeb244367066b11b6a3bc2f6335b"
+    "source/original-practice.md": "58d1bb25ab95e583ce1da720768c42011672d33706d8ebc1e23c481da84e298d",
+    "source/integrated-student-edition-cycle61.pdf": "26553b15546af4bab3b398265520b3df336cb625f6da5e8f3b8ca9e65beee5ca"
+  },
+  "academic_status": "not_approved",
+  "integrated_pdf_status": "CI_rendered_pending_academic_audit",
+  "integrated_pdf_pages": 21,
+  "integrated_pdf_sha256": "26553b15546af4bab3b398265520b3df336cb625f6da5e8f3b8ca9e65beee5ca",
+  "official_syllabus_authenticated_this_cycle": false,
+  "independent_academic_approvals": 0,
+  "metrics": {
+    "concept_count": 18,
+    "concepts_below_300": 0,
+    "answer_distribution": {
+      "A": 2,
+      "B": 12,
+      "C": 13,
+      "D": 3
+    },
+    "mains_body_only_counts": [
+      226,
+      222,
+      238,
+      225,
+      224,
+      217
+    ],
+    "concentration_basis_correction": true,
+    "independent_review_complete": false
   }
 }
