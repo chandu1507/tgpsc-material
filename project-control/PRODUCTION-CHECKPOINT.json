@@ -664,9 +664,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "11,806-word complete original learning draft; 24-page PDF; 30 explained MCQs; six 200–250-word structured mains models; three diagrams; 18 official source entries; independently academically unapproved.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle56_direct_source_audit_and_local_integrated_candidate",
+      "notes": "Original 24-page PDF preserved; 18 concepts, two shallow sections expanded locally; 30 original MCQs (A4/B17/C8/D1); six mains body-only 217/221/222/215/222/207; five bounded correct-answer checks. Corrected PDF remains local until guarded CI. 25 keys, all 90 distractors and full academic review outstanding.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-3.json"
     },
     {

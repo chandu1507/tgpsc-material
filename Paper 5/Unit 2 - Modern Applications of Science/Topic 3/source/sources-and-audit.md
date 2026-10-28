@@ -39,6 +39,16 @@ All source references below identify the institution, date or reporting period, 
 - **[S18] FSSAI official homepage and regulatory functions** — 2026 online. https://www.fssai.gov.in/  
   Audit: Current authority and regulatory portal.
 
+### Cycle56 bounded primary-source correspondence checks (28 October 2026)
+
+- **[S19] FSSAI, Food Safety and Standards (Licensing and Registration of Food Businesses) Second Amendment Regulations, 2026**, final Gazette notification dated **23 June 2026**, effective on publication. Official final PDF: https://www.fssai.gov.in/upload/notifications/2026/06/6a3c0a8fbaf61273797.pdf . Directly checked: Schedule 2 production/raw-material records condition with non-manufacturing exception, and Schedule 4 FIFO/FEFO storage condition with retailer exception. This does **not** verify every FSSAI provision discussed in the chapter.
+- **[S20] APEDA, NPOP Organic Certification Data 2024–25**, https://npop.apeda.gov.in/organic-certification-data-under-npop-2024-25 . Directly checked Telangana row: **24,391.98** organic hectares + **67,819.06** conversion hectares = **92,211.04** hectares. This is NPOP farm area, not every organic system or wild-harvest area.
+- **[S21] Jal Jeevan Mission, Uniform Drinking Water Quality Monitoring Protocol**, https://jaljeevanmission.gov.in/sites/default/files/guideline/UniformDrinkingWaterQualityMonitoringProtocol.pdf . Directly checked the reproduced IS 10500:2012 fluoride limits **1.0 mg/L acceptable** and **1.5 mg/L permissible in the absence of an alternate source**. Current amendments to BIS specifications are not independently ruled out by this older protocol.
+- **[S22] Department of Agriculture and Farmers Welfare, FARMS app official portal**, https://agrimachinery.nic.in/Index/farmsapp . Directly checked that the platform facilitates machinery custom hiring, but this is **not** evidence of a measured Telangana uptake or income effect.
+- **[S23] Department of Agriculture and Farmers Welfare, SMAM operational guidelines**, https://agrimachinery.nic.in/Files/Guidelines/smam.pdf . Directly checked custom-hiring centre purpose for small and marginal holdings and maintenance/training provisions; current scheme eligibility must be checked separately.
+
+**Bounded question-bank review:** Q13 and Q15 have directly checked APEDA answer propositions; Q21 has a directly checked Jal Jeevan Mission/IS 10500:2012 correspondence; Q16 has bounded SMAM/FARMS support; Q25 is independently recalculated as 1.25 mg/L from equal-volume mixing. These are **five correct-answer propositions**, not complete four-option question audits. **25 correct-answer propositions and all 90 distractors still need independent claim-level checks.** No official PYQ provenance is claimed.
+
 ### Limitations and independent-review queue
 
 1. Official syllabus wording has been checked directly against the commission-hosted 2024 notification; no newer commission syllabus is assumed.

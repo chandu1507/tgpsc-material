@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-28",
+  "cycle": 56,
+  "topic": "5-2-3",
+  "fresh_main_baseline": "fb6f8bb9d9ec580d7bba33b587e964d57324c0e9",
+  "source": "Cycle55 actual downloaded GitHub publication ZIP; fresh checkpoint, index, per-topic status and Actions",
+  "original_pdf_sha256": "5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592",
+  "original_pdf_pages": 24,
+  "original_preserved": true,
+  "concepts": 18,
+  "concepts_under_300_before": 2,
+  "concepts_under_300_after_local": 0,
+  "expanded_concepts": [
+    9,
+    18
+  ],
+  "mains_body_only_after_local": [
+    217,
+    221,
+    222,
+    215,
+    222,
+    207
+  ],
+  "mcqs": 30,
+  "answer_distribution": {
+    "A": 4,
+    "B": 17,
+    "C": 8,
+    "D": 1
+  },
+  "distractors": 90,
+  "bounded_verified_correct_answer_propositions": [
+    13,
+    15,
+    16,
+    21,
+    25
+  ],
+  "unverified_keys": 25,
+  "all_distractors_unverified": true,
+  "source_register_primary_links": [
+    "https://npop.apeda.gov.in/organic-certification-data-under-npop-2024-25",
+    "https://www.fssai.gov.in/upload/notifications/2026/06/6a3c0a8fbaf61273797.pdf",
+    "https://jaljeevanmission.gov.in/sites/default/files/guideline/UniformDrinkingWaterQualityMonitoringProtocol.pdf",
+    "https://agrimachinery.nic.in/Files/Guidelines/smam.pdf"
+  ],
+  "local_candidate_pdf_pages": 26,
+  "local_candidate_pdf_sha256": "dd2b9847418c82f362861b5cf5609f1dd55a512115584dc9ddce9e31a48b064f",
+  "local_zip_crc_pass": true,
+  "local_links_checked": 7,
+  "local_broken_links": 0,
+  "local_pdf_embedded_images": 3,
+  "local_pdf_blank_pages": 0,
+  "local_pdf_out_of_page_text_blocks": 0,
+  "post_edit_GitHub_PDF_rendered": false,
+  "post_edit_GitHub_artifact_downloaded": false,
+  "independent_academic_approvals": 0,
+  "limitations": "Five bounded key correspondences do not certify full questions. 25 keys and all 90 distractors, six mains claim audits, three diagram audits, syllabus reauthentication and browser accessibility pending. R8 not PASS; R9 not started."
+}
