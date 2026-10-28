@@ -117,14 +117,14 @@ D. Ethanol blending rate
 
 **Answer: A.** **Explanation:** An ideal rotor cannot capture all the energy of flowing air without stopping its passage. The theoretical limit is about 59.3% of upstream kinetic power, before real mechanical and electrical losses.
 
-### MCQ 14. Under the common MNRE Indian convention, small hydro means projects of
+### MCQ 14. Under MNRE's Small Hydro Power Development Scheme for FY 2026–27 to FY 2030–31, the defined project capacity range is
 
-A. 25 MW or less  
-B. Exactly 500 MW  
-C. More than 1,000 MW only  
-D. Any nuclear station  
+A. 25 MW to 100 MW, excluding exactly 25 MW  
+B. Only below 1 MW, excluding 1 MW  
+C. Above 100 MW without an upper bound  
+D. 1 MW to 25 MW, both limits included  
 
-**Answer: A.** **Explanation:** MNRE commonly classifies hydro plants up to 25 MW as small hydro. Micro and mini subdivisions depend on the scheme or educational context, so do not impose an unverified single threshold across all regulations.
+**Answer: D.** **Explanation:** MNRE’s FY 2026–27 to FY 2030–31 Small Hydro Power Development Scheme specifies an eligible range of **1 MW to 25 MW inclusive**. This is narrower at the lower end than the broad educational label “small hydro up to 25 MW”; micro projects below 1 MW are not automatically eligible under this particular scheme. See the official scheme guidelines and FAQ [S25].
 
 ### MCQ 15. A biomass project is NOT automatically carbon neutral because
 
@@ -153,14 +153,14 @@ D. Guarantee unlimited waste feedstock to every incinerator
 
 **Answer: B.** **Explanation:** Waste prevention and material recovery usually precede energy recovery. Mixed wet waste undermines thermal efficiency, while poorly designed feedstock guarantees can discourage recycling and exclude waste-picker livelihoods.
 
-### MCQ 18. Which statement about the MNRE National Bioenergy Programme Phase I is accurate?
+### MCQ 18. Which statement accurately describes the National Bioenergy Programme Phase I and later funding?
 
-A. It was designated for FY 2021–22 through FY 2025–26  
-B. It has no eligibility or application rules  
-C. Every municipal incinerator is automatically subsidised  
-D. It is a nuclear fuel scheme  
+A. Phase I began only in FY 2026–27 and covered all renewable technologies.  
+B. Phase I guaranteed indefinite subsidies for any waste incinerator.  
+C. Phase I covered FY 2021–22 to FY 2025–26; later funding requires current official notices.  
+D. Phase I ended in FY 2023–24 and its remaining funds automatically lapsed.  
 
-**Answer: A.** **Explanation:** MNRE specifies the Phase I validity period and differentiated programme components. An old webpage is not evidence that applications are open in October 2026; applicants must check the current portal and funding notices.
+**Answer: C.** **Explanation:** MNRE specifies Phase I for FY 2021–22 through FY 2025–26 and publishes technology-specific eligibility and administrative approvals. The historical programme period does not prove that any application is open or any subsidy guaranteed in October 2026. [S14] [S15] [S20]
 
 ### MCQ 19. A geothermal electricity project most critically requires
 
@@ -252,14 +252,14 @@ D. Refined diesel
 
 **Answer: A.** **Explanation:** Cellulose and hemicellulose in straw must be pretreated and hydrolysed before fermentation. Residue removal has competing soil and fodder uses, so an advanced feedstock is not automatically free of environmental impacts.
 
-### MCQ 29. Telangana's Clean and Green Energy Policy 2025 was approved by
+### MCQ 29. Which statement correctly interprets Telangana's Clean and Green Energy Policy 2025?
 
-A. G.O.Ms.No.2 dated 11 January 2025  
-B. A 1991 nuclear treaty  
-C. The 2003 Forest Rights Act  
-D. An unpublished draft in 2035  
+A. All proposed pumped-storage projects were already commissioned when the policy was issued.  
+B. The policy itself replaces environmental clearance for every renewable project.  
+C. The policy guarantees the same electricity tariff for every future project without regulatory approval.  
+D. G.O.Ms.No.2 dated 11 January 2025 approved a ten-year policy framework; targets are not commissioned capacity.  
 
-**Answer: A.** **Explanation:** The state Energy Department's G.O.Ms.No.2 dated 11 January 2025 approved the policy for a ten-year period. Policy approval does not certify that every announced storage, wind or hydrogen project is commissioned.
+**Answer: D.** **Explanation:** The Telangana Energy Department issued **G.O.Ms.No.2 dated 11 January 2025**, approving the policy for ten years. Its proposals and targets must not be treated as already commissioned projects, blanket environmental exemptions, or automatically fixed tariffs. [S07]
 
 ### MCQ 30. Which indicator best distinguishes energy security from a mere capacity headline?
 

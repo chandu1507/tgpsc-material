@@ -151,7 +151,7 @@ Telangana's policy documents identify significant technical wind potential at sp
 
 ### Section 8. Small, mini and micro hydel: decentralised electricity and constraints
 
-The Indian MNRE convention generally classifies hydro projects of **25 MW or below** as small hydro; subdivisions called mini and micro are used in educational and programme contexts but their precise thresholds may differ by scheme. Never apply an arbitrary universal micro-hydro cut-off to every Indian regulation. Small hydro may use canals, run-of-river drops, existing dams or village streams. A diversion weir channels part of the flow through an intake and penstock to a turbine before returning water downstream. Canal-drop projects may exploit infrastructure already built for irrigation, potentially lowering incremental civil works, but they still require reliable head and flow.
+The Indian MNRE convention generally classifies hydro projects of **25 MW or below** as small hydro; subdivisions called mini and micro are used in educational and programme contexts but their precise thresholds may differ by scheme. Never apply an arbitrary universal micro-hydro cut-off to every Indian regulation. Small hydro may use canals, run-of-river drops, existing dams or village streams. A diversion weir channels part of the flow through an intake and penstock to a turbine before returning water downstream. Canal-drop projects may exploit infrastructure already built for irrigation, potentially lowering incremental civil works, but they still require reliable head and flow. **2026–31 scheme eligibility update (not a universal micro-hydro definition).** MNRE’s Small Hydro Power Development Scheme for FY 2026–27 to FY 2030–31 defines eligible scheme projects as **at least 1 MW and at most 25 MW**. Its stated approximately 1,500-MW capacity-addition objective and ₹2,584.60-crore outlay are programme targets/approvals, not installed generation already achieved. A 600-kW village micro-hydro proposal may still be called micro-hydro in an engineering or teaching context, but it is **below the 1-MW lower bound of this particular central scheme**; that does not make it physically impossible or establish ineligibility under every other state/central mechanism. Similarly, a 26-MW plant is outside this scheme’s 25-MW upper bound even if it is run-of-river. Exam answers should separately identify (i) broad hydro terminology, (ii) exact scheme eligibility, and (iii) ecological and commercial feasibility. The dated scheme guidelines and official FAQ, rather than a generic threshold alone, govern this comparison. [S25]
 
 The engineering equation remains P = ρgQHη. For a village stream with net head 12 m, flow 0.5 m³/s and 65% total efficiency, theoretical electrical output is about 38 kW. That can serve essential community loads if flows are dependable; it is not proof that the stream can support the same output in the dry season. Hydrological flow-duration curves are crucial. Design discharge chosen from monsoon peaks may produce an oversized turbine that sits idle in summer. Sediment, debris, fish passage, access roads and maintenance skills must be budgeted.
 
@@ -418,14 +418,14 @@ D. Ethanol blending rate
 
 **Answer: A.** **Explanation:** An ideal rotor cannot capture all the energy of flowing air without stopping its passage. The theoretical limit is about 59.3% of upstream kinetic power, before real mechanical and electrical losses.
 
-### MCQ 14. Under the common MNRE Indian convention, small hydro means projects of
+### MCQ 14. Under MNRE's Small Hydro Power Development Scheme for FY 2026–27 to FY 2030–31, the defined project capacity range is
 
-A. 25 MW or less  
-B. Exactly 500 MW  
-C. More than 1,000 MW only  
-D. Any nuclear station  
+A. 25 MW to 100 MW, excluding exactly 25 MW  
+B. Only below 1 MW, excluding 1 MW  
+C. Above 100 MW without an upper bound  
+D. 1 MW to 25 MW, both limits included  
 
-**Answer: A.** **Explanation:** MNRE commonly classifies hydro plants up to 25 MW as small hydro. Micro and mini subdivisions depend on the scheme or educational context, so do not impose an unverified single threshold across all regulations.
+**Answer: D.** **Explanation:** MNRE’s FY 2026–27 to FY 2030–31 Small Hydro Power Development Scheme specifies an eligible range of **1 MW to 25 MW inclusive**. This is narrower at the lower end than the broad educational label “small hydro up to 25 MW”; micro projects below 1 MW are not automatically eligible under this particular scheme. See the official scheme guidelines and FAQ [S25].
 
 ### MCQ 15. A biomass project is NOT automatically carbon neutral because
 
@@ -454,14 +454,14 @@ D. Guarantee unlimited waste feedstock to every incinerator
 
 **Answer: B.** **Explanation:** Waste prevention and material recovery usually precede energy recovery. Mixed wet waste undermines thermal efficiency, while poorly designed feedstock guarantees can discourage recycling and exclude waste-picker livelihoods.
 
-### MCQ 18. Which statement about the MNRE National Bioenergy Programme Phase I is accurate?
+### MCQ 18. Which statement accurately describes the National Bioenergy Programme Phase I and later funding?
 
-A. It was designated for FY 2021–22 through FY 2025–26  
-B. It has no eligibility or application rules  
-C. Every municipal incinerator is automatically subsidised  
-D. It is a nuclear fuel scheme  
+A. Phase I began only in FY 2026–27 and covered all renewable technologies.  
+B. Phase I guaranteed indefinite subsidies for any waste incinerator.  
+C. Phase I covered FY 2021–22 to FY 2025–26; later funding requires current official notices.  
+D. Phase I ended in FY 2023–24 and its remaining funds automatically lapsed.  
 
-**Answer: A.** **Explanation:** MNRE specifies the Phase I validity period and differentiated programme components. An old webpage is not evidence that applications are open in October 2026; applicants must check the current portal and funding notices.
+**Answer: C.** **Explanation:** MNRE specifies Phase I for FY 2021–22 through FY 2025–26 and publishes technology-specific eligibility and administrative approvals. The historical programme period does not prove that any application is open or any subsidy guaranteed in October 2026. [S14] [S15] [S20]
 
 ### MCQ 19. A geothermal electricity project most critically requires
 
@@ -553,14 +553,14 @@ D. Refined diesel
 
 **Answer: A.** **Explanation:** Cellulose and hemicellulose in straw must be pretreated and hydrolysed before fermentation. Residue removal has competing soil and fodder uses, so an advanced feedstock is not automatically free of environmental impacts.
 
-### MCQ 29. Telangana's Clean and Green Energy Policy 2025 was approved by
+### MCQ 29. Which statement correctly interprets Telangana's Clean and Green Energy Policy 2025?
 
-A. G.O.Ms.No.2 dated 11 January 2025  
-B. A 1991 nuclear treaty  
-C. The 2003 Forest Rights Act  
-D. An unpublished draft in 2035  
+A. All proposed pumped-storage projects were already commissioned when the policy was issued.  
+B. The policy itself replaces environmental clearance for every renewable project.  
+C. The policy guarantees the same electricity tariff for every future project without regulatory approval.  
+D. G.O.Ms.No.2 dated 11 January 2025 approved a ten-year policy framework; targets are not commissioned capacity.  
 
-**Answer: A.** **Explanation:** The state Energy Department's G.O.Ms.No.2 dated 11 January 2025 approved the policy for a ten-year period. Policy approval does not certify that every announced storage, wind or hydrogen project is commissioned.
+**Answer: D.** **Explanation:** The Telangana Energy Department issued **G.O.Ms.No.2 dated 11 January 2025**, approving the policy for ten years. Its proposals and targets must not be treated as already commissioned projects, blanket environmental exemptions, or automatically fixed tariffs. [S07]
 
 ### MCQ 30. Which indicator best distinguishes energy security from a mere capacity headline?
 
@@ -687,6 +687,7 @@ The links below point to government or statutory-institution materials consulted
 | S22 | Ministry of Petroleum and Natural Gas/CHT, National Policy on Biofuels 2018 | Policy provenance, with 2022 amendment described in later official documents | https://www.cht.gov.in/national-policy-biofuel-2018 |
 | S23 | PIB official explainer, Jan 2026 | E20 target advanced to ESY 2025–26; 19.05% average blending as of 31 Jul 2025; not October 2026 achievement | https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026127771801.pdf |
 | S24 | MNRE, Biogas Programme, accessed 24 Oct 2026 | Anaerobic digestion programme scope and 2022 notification; not universal plant feasibility | https://biogas.mnre.gov.in/about-the-programmes |
+| S25 | MNRE, Small Hydro Power Development Scheme FY 2026–27 to FY 2030–31, official scheme guidelines and FAQ, checked 28 Oct 2026 | **1–25 MW inclusive for this specific scheme**, approximately 1,500-MW new capacity target and ₹2,584.60-crore outlay; not a generic micro-hydro definition or proof of commissioning | https://nrep.mnre.gov.in/guidelines-shp |
 
 ### Evidence-status and unresolved checks
 

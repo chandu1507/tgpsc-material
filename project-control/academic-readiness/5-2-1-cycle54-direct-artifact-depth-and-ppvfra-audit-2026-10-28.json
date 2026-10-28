@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-28",
+  "cycle": 54,
+  "topic_id": "5-2-1",
+  "title": "Crop Science in India: Crop Plants, Forest Species, Medicinal and Aromatic Plants",
+  "source_artifact": {
+    "run_id": 40628966882,
+    "artifact_id": 12790392756,
+    "sha256": "45a874270515757858cc2a0bb210edb2e07cec5b0905f7c0dda7e93a64f47f0b",
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "inner_files": 1683,
+    "original_topic_pdfs": 75,
+    "original_pdf_hashes_equal_to_cycle52": true,
+    "readiness_json": 75,
+    "html_pages": 78,
+    "relative_file_links_checked": 433,
+    "broken_file_links": 0,
+    "dom_fragments_checked": 1137,
+    "broken_fragments": 0,
+    "spa_routes_excluded": 61,
+    "topic_manifest_hashes": "PASS"
+  },
+  "original_pdf": {
+    "pages": 23,
+    "sha256": "87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025",
+    "preserved": true
+  },
+  "direct_source_metrics": {
+    "concepts": 16,
+    "concept_body_words": [
+      406,
+      399,
+      407,
+      375,
+      368,
+      369,
+      370,
+      361,
+      333,
+      357,
+      337,
+      340,
+      344,
+      353,
+      371,
+      588
+    ],
+    "concepts_below_300": 0,
+    "original_practice_mcqs": 30,
+    "four_options_each": true,
+    "answer_distribution": {
+      "A": 8,
+      "B": 22,
+      "C": 0,
+      "D": 0
+    },
+    "distractors": 90,
+    "mains": 6,
+    "mains_body_only_words": [
+      217,
+      215,
+      231,
+      234,
+      226,
+      231
+    ],
+    "diagrams": 3
+  },
+  "bounded_checks": [
+    {
+      "mcq": 11,
+      "scope": "official PPV&FRA farmers rights FAQ correspondence only, not complete statutory/distractor review",
+      "url": "https://plantauthority.gov.in/sites/default/files/finalnewfaq23.02.2021.pdf"
+    },
+    {
+      "mcq": 21,
+      "scope": "ICAR Good Agricultural and Collection Practices correspondence, not complete item review",
+      "url": "https://www.icar.gov.in/en/node/1908"
+    },
+    {
+      "mcq": 25,
+      "scope": "ICAR 20-21 August 2026 sustained Parthenium management correspondence; seed-bank longevity not verified",
+      "url": "https://icar.gov.in/en/icar-dwr-jabalpur-expands-parthenium-outreach-through-nationwide-training-and-student-engagement"
+    },
+    {
+      "mcq": 30,
+      "scope": "PPV&FRA 9 October 2026 Gazette No. S.O. 5557(E) four species notification, not adoption/yield evidence or complete gazette PDF consultation",
+      "url": "https://plantauthority.gov.in/gazette/gazette-notification-no-so-5557e-dated-october-9-2026-regarding-4-crop-species-niger-summer"
+    },
+    {
+      "mcq": 13,
+      "scope": "arithmetic-only: 4800/6000=0.8 kg per cubic metre"
+    }
+  ],
+  "limitations": [
+    "2024 commission syllabus not reauthenticated directly in this cycle despite inherited claim",
+    "26 remaining MCQ correct-key propositions not independently source-checked",
+    "all 90 distractors require complete independent review",
+    "six mains answers not claim-by-claim verified",
+    "three diagram scientific checks pending",
+    "direct browser accessibility not certified",
+    "no named independent academic reviewer"
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "academic_approvals": 0,
+  "conclusion": "ASSESSED_REBUILD_REQUIRED; severe A8/B22/C0/D0 answer-position skew is a question-quality risk, not itself proof of wrong keys; do not mechanically rotate answers. No chapter/PDF edits in this direct assessment."
+}

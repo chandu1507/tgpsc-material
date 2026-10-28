@@ -1,8 +1,8 @@
 {
   "topic_id": "5-2-1",
   "title": "Crop Science in India: Crop Plants, Forest Species, Medicinal and Aromatic Plants",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,44 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json",
+  "next_action": "Independently verify 30 MCQ keys and 90 distractors; improve weak options without artificial answer rotations; claim-level audit six mains and three diagrams; authenticate 2024 syllabus; synchronized editable master and CI PDF; downloaded post-edit artifact and browser QA; named expert only after R1–R8 PASS.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "direct_assessment": {
+    "cycle": 54,
+    "concepts": 16,
+    "concepts_under_300": 0,
+    "mcqs": 30,
+    "answer_distribution": {
+      "A": 8,
+      "B": 22,
+      "C": 0,
+      "D": 0
+    },
+    "distractors": 90,
+    "mains_body_only_words": [
+      217,
+      215,
+      231,
+      234,
+      226,
+      231
+    ],
+    "bounded_correct_key_correspondences": 4,
+    "arithmetic_checks": 1,
+    "unverified_keys": 26,
+    "all_distractors_unverified": true,
+    "original_pdf_pages": 23,
+    "original_pdf_sha256": "87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025"
+  }
 }

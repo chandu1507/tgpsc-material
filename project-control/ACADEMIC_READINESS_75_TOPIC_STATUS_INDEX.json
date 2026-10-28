@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 33,
+  "not_assessed_count": 32,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 35 ASSESSED_REBUILD_REQUIRED, 33 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 36 ASSESSED_REBUILD_REQUIRED, 32 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -126,9 +126,10 @@
     "5-1-2",
     "5-1-3",
     "5-1-4",
-    "5-1-5"
+    "5-1-5",
+    "5-2-1"
   ],
-  "last_readiness_update": "Cycle53: Topic 5-1-5 first direct audit (16 concepts all >=300; 30 MCQs A14/B15/C1/D0; six mains 218/219/224/223/220/218 body-only; five bounded official key checks and one arithmetic check; no chapter/PDF edits or post-edit artifact QA).",
+  "last_readiness_update": "Cycle54: Topic 5-2-1 direct source and actual downloaded artifact QA; no student chapter/PDF edits; 30 MCQ keys/90 distractors and mains/diagram/syllabus/browser audit incomplete.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -143,6 +144,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json",
     "project-control/academic-readiness/5-1-5-cycle53-direct-structure-and-official-key-correspondence-2026-10-28.json",
     "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json",
