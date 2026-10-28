@@ -1,7 +1,7 @@
-# Paper VI / Unit I / Topic 3
+# Paper VI / Unit I / Topic 3 — Hyderabad State, Mulki agitation and SRC
 
-Formation of Andhra Pradesh, 1956: safeguards, Regional Committee, migration and development.
+Original PDF SHA256 c4068779bba807d7acb05ef6891353c75e4ffedaf08ed4eeff903c17283b3052 preserved.
 
-Status: published original draft; **academic approval pending**. Questions are original, not official PYQs.
+[Offline HTML](index.html) · [Integrated PDF](source/integrated-student-edition-cycle66.pdf) · [Editable master](source/complete-notes.md) · [Original PDF](complete-notes.pdf).
 
-Open `index.html` for offline reading or `complete-notes.pdf` for print.
+24 distinct section-specific depth expansions; source access bounded; academic approval ZERO.
