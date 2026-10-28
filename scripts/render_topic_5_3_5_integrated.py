@@ -45,11 +45,8 @@ def inline_html(tok):
         elif t.type=='strong_close':parts.append('</b>')
         elif t.type=='em_open':parts.append('<i>')
         elif t.type=='em_close':parts.append('</i>')
-        elif t.type=='link_open':
-            u=t.attrGet('href') or ''
-            if u.startswith('http'):parts.append('<link href="'+html.escape(u,quote=True)+'" color="#176AA3">')
-            else:parts.append('')
-        elif t.type=='link_close':parts.append('</link>')
+        elif t.type=='link_open':parts.append('')
+        elif t.type=='link_close':parts.append('')
         elif t.type in ('softbreak','hardbreak'):parts.append('<br/>')
         elif t.type=='html_inline':parts.append(html.escape(t.content))
         elif t.type=='image':parts.append(html.escape(t.content))
