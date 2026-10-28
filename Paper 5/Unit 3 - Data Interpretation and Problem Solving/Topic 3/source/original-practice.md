@@ -112,11 +112,11 @@ A. 2:5 | B. 8:15 | C. 6:20 | D. 4:15
 
 **Answer: B. 8:15.** Equalise the B term: 2:3 becomes 8:12 and 4:5 becomes 12:15. Therefore A:C=8:15, not 2:5.
 
-### MCQ 19. A 20% and a 40% solution are mixed in equal volumes. Concentration is:
+### MCQ 19. Two solutions contain 20% and 40% solute by volume. Equal volumes are mixed, and volumes are assumed additive. Final concentration is:
 
 A. 25% | B. 30% | C. 32% | D. 35%
 
-**Answer: B. 30%.** Equal volumes give equal weights, so concentration=(20+40)/2=30%. With unequal volumes the weighted average would be required.
+**Answer: B. 30%.** For one litre of each solution, solute volumes are 0.2 and 0.4 litres; the combined two litres contain 0.6 litre solute, giving 30% v/v. Equal volumes do not necessarily mean equal masses: without the volume-basis and additive-volume assumptions, this shortcut is not generally valid.
 
 ### MCQ 20. The share of the first part in ratio 3:7 is:
 

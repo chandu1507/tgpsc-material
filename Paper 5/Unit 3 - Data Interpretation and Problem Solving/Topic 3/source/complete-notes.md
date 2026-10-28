@@ -43,6 +43,8 @@ A finite set of terms is mathematically compatible with infinitely many rules. F
 
 Worked example: 4, 9, 16, 25, 36 follows consecutive squares 2²,3²,4²,5²,6²; the next term is 7²=49. A second example 5, 11, 19, 29, 41 has differences 6,8,10,12; the next difference is 14, giving 55. The latter is quadratic under the usual constant-second-difference assumption. In an exam, write the difference row before committing to a rule: 5,11,19,29,41; below it 6,8,10,12; below that 2,2,2. This short audit makes the inference transparent.
 
+**Rule-identification stress test.** Suppose a test offers 1, 2, 4, 8 and asks for the fifth term. Doubling predicts 16, but the polynomial P(n)=2^(n-1)+c(n-1)(n-2)(n-3)(n-4) agrees with the first four observations for every constant c and can produce many fifth values. The expression is not an appropriate quick exam shortcut; it is a proof that observations alone do not force a unique continuation. State the rule being assumed, test it on all terms, and prefer a concise recurrence when the question is explicitly a conventional pattern exercise. In administrative trend analysis, the same caution prevents a fitted curve from being mistaken for an established process.
+
 ## 2. Arithmetic progressions and finite sums
 
 An arithmetic progression (AP) is a sequence with a fixed difference d. If the first term is a, the nth term is a+(n−1)d. The nth-term formula solves location questions; the sum formula solves accumulation questions. Pairing the first and last terms of a finite AP gives equal pair sums, so S_n=n(first+last)/2. Substituting last=a+(n−1)d gives S_n=n[2a+(n−1)d]/2. This derivation also explains why the formula works for decreasing progressions with negative d.
@@ -50,6 +52,8 @@ An arithmetic progression (AP) is a sequence with a fixed difference d. If the f
 Worked example: A fictional district office plans 18, 21, 24, ... training seats per batch, increasing by three each time. For 12 batches the final batch has 18+11×3=51 seats. The total is 12×(18+51)/2=414 seats. The common error is to multiply the last batch's capacity by 12, giving 612, as though every batch had the final capacity. A second error is to use n rather than n−1 in the last-term expression. Check the formula at n=1: it must return a.
 
 AP can model a constant increment, but not all real growth is linear. A state programme may add a fixed 200 beneficiaries each month only as a planning assumption. If growth is proportional to the existing total, a geometric model may be more appropriate. Extrapolation is not warranted merely because three past observations happen to be equally spaced. The aptitude skill is to solve the stated model; the administrative skill is to distinguish that mathematical model from a verified forecast.
+
+**Boundary and verification example.** Consider a decreasing allocation series 100, 92, 84, ... with d=-8. The eighth term is 100+7(-8)=44 and the first eight terms total 8(100+44)/2=576. The answer can be checked independently by pairing first with last: (100+44), (92+52), (84+60), (76+68), each pair 144, four pairs 576. This pairing check is valuable because a negative difference can be mishandled when brackets are omitted. If a proposed policy would continue beyond the point where seat allocations become negative, the mathematical AP remains defined but the real-world interpretation fails; constrain the model to a feasible horizon.
 
 ## 3. Geometric progressions, compounding and convergence
 
@@ -59,6 +63,8 @@ Worked example: A hypothetical outreach campaign sends 2, 6, 18, 54 and 162 mess
 
 An infinite GP has a finite sum only if |r|<1, when the sum approaches a/(1−r). For 8+4+2+1+..., r=1/2 and the sum is 16. If r=2, partial sums grow without bound; applying a/(1−r) would yield a nonsensical negative value. In a timed exam, test the convergence condition before using an infinite-sum shortcut. For repeated depreciation, r might be 0.8, but the value never becomes literally zero after a finite number of periods in that idealised model.
 
+**Compound-change counterexample.** A quantity rises by 25% and then falls by 20%. Multipliers 1.25 and 0.80 give exactly 1.00, so the final quantity equals the initial one, despite the percentages not being equal. By contrast, a 20% rise followed by a 20% fall gives 1.20×0.80=0.96, a 4% net loss. For a negative ratio, the GP 5,-10,20,-40 has r=-2 and partial sums that oscillate in sign and grow in magnitude; it has no convergent infinite sum. These examples distinguish repeated percentage change from adding percentage points, and convergence from a formula applied outside its permitted domain.
+
 ## 4. Interleaved, recursive and difference-based patterns
 
 Not every sequence is a simple AP or GP. An interleaved sequence may contain two rules: 2, 10, 4, 20, 6, 30, ... has odd-position terms 2,4,6 and even-position terms 10,20,30, so the next term is 8. A recurrence can depend on previous terms, as in 1,1,2,3,5,8,13, where each term after the second equals the preceding two terms' sum. A digit operation may alternate with addition; for example, 3, 7, 14, 18, 36 could be +4, ×2, +4, ×2, giving 40 next.
@@ -66,6 +72,8 @@ Not every sequence is a simple AP or GP. An interleaved sequence may contain two
 A practical diagnostic sequence is: calculate first differences; if not constant, inspect second differences; inspect ratios if all relevant terms are nonzero; split alternating positions; test squares, cubes, primes or factorials; then test a simple recurrence. The order reduces random pattern hunting. In 1, 4, 9, 16, 25 the differences 3,5,7,9 suggest squares, but it is still useful to state the square interpretation explicitly. For 2, 6, 12, 20, 30 the nth term n(n+1), which can be seen as consecutive products.
 
 A key distinction is a descriptive rule versus a causal law. One can fit a quadratic to a short dataset, but that does not establish a physical or economic mechanism. In examination settings, choose the simplest defensible mathematical continuation. In government planning, verify whether the generating process genuinely supports extrapolation. This is a valuable bridge between mental ability and data interpretation: an exact fit to observed values does not guarantee reliable prediction beyond them.
+
+**Alternative-pattern audit.** For 1, 2, 4, 7, 11, successive differences are 1,2,3,4; the next difference 5 suggests 16. But for 2, 5, 10, 17, 26 the differences are 3,5,7,9 and the terms are n²+1, giving 37 next. Before selecting an answer, test the inferred rule at every available position, not just the final pair. If an alternating sequence contains six terms, analyse positions 1,3,5 and 2,4,6 separately. A recurrence such as a_n=a_(n-1)+a_(n-2) also needs starting values: without them, the recurrence does not determine a unique numerical sequence.
 
 ## 5. Number systems: integers, fractions, decimals and place value
 
@@ -75,6 +83,8 @@ The positional decimal system represents a number as a sum of digits multiplied 
 
 Fractions should be compared using common denominators or cross multiplication with attention to signs. For positive denominators, 5/8 versus 3/5 compares 25 with 24, so 5/8 is larger. A percentage is a fraction per hundred; 12.5%=1/8. When multiplying a quantity by 0.85, one is retaining 85% of the original, not reducing it by 85%. The distinction is crucial in profit-and-loss problems and in interpreting coverage rates. Never add percentages that refer to different denominators without reconstructing the underlying counts.
 
+**Rationality and rounding trap.** The decimal 0.1 is exactly 1/10 in mathematics, but binary floating-point software often stores only an approximation; a machine calculation may display a value near 0.30000000000000004 for 0.1+0.2. That does not make 0.1 irrational. For monetary arithmetic, integer paise or fixed decimal arithmetic can avoid unintended binary-rounding artefacts. Separately, a fraction has a terminating base-ten decimal precisely when its reduced denominator has no prime factors other than 2 and 5. Thus 7/40 terminates (0.175), while 1/6 repeats. These tests connect classification, prime factorisation and sensible numerical representation.
+
 ## 6. Divisibility, factors, primes and remainders
 
 A positive integer a divides b if b=ak for an integer k. Prime numbers greater than one have exactly two positive divisors; one is neither prime nor composite. Unique prime factorisation lets us identify factors, HCF and LCM. For 360=2³×3²×5, the number of positive divisors is (3+1)(2+1)(1+1)=24. To count divisors, add one to each prime exponent and multiply; do not add the exponents. The sum of prime exponents is not the number of divisors.
@@ -82,6 +92,8 @@ A positive integer a divides b if b=ak for an integer k. Prime numbers greater t
 Divisibility shortcuts follow place value: a number is divisible by 3 or 9 when its digit sum is; by 4 when its last two digits are divisible by 4; by 8 when its last three digits are; by 11 when the alternating digit sum is a multiple of 11. For 5,544, the digit sum is 18, so it is divisible by 9; its last two digits 44 are divisible by 4. For 11, alternating positions give (5+4)−(5+4)=0, so it is divisible by 11. These tests are efficient, but the underlying reasoning remains the decimal place-value expansion modulo the divisor.
 
 The division algorithm states N=dq+r, with 0≤r<d when d>0. For 137 divided by 12, q=11 and r=5. In modular notation 137≡5 (mod 12). Remainders are particularly useful for cyclic patterns. For instance, the units digit of 7^n repeats 7,9,3,1 with period four. Since 2026 mod 4 is 2, the units digit of 7^2026 is 9. Be careful when the exponent is a multiple of the cycle length: the corresponding cycle position is the last one, not a fictitious zero-th digit.
+
+**Remainder discipline.** To find the remainder of 7^100 on division by 5, reduce 7 to 2 modulo 5 and note the cycle 2,4,3,1. Because 100 is divisible by four, the remainder is 1. This is different from computing a decimal approximation of the enormous power. A remainder must satisfy 0≤r<d for positive divisor d: a claimed remainder of 8 after division by 5 is invalid even if an arithmetic step seems plausible. Divisibility shortcuts apply to integers written in the relevant base, and a digit-sum rule for 9 should not be transferred blindly to another divisor.
 
 ## 7. HCF, LCM, Euclid's algorithm and scheduling
 
@@ -91,6 +103,8 @@ Euclid's algorithm is faster for large numbers: 252=198×1+54; 198=54×3+36; 54=
 
 Worked application: Three hypothetical inspection teams visit a site every 12, 18 and 30 days, starting together today. Their next common visit occurs after LCM(12,18,30)=180 days. If the question asks how many joint visits occur within 360 days including the starting day, the answer is three: day 0, day 180 and day 360. Confusing an interval with an inclusive count is a frequent error. If events have different starting offsets, LCM alone is insufficient; one must solve simultaneous congruences and verify that a common meeting day exists.
 
+**Three-number HCF–LCM warning.** For 6, 10 and 15, the HCF is 1 and the LCM is 30, but the product of the three inputs is 900, not HCF×LCM=30. The familiar identity HCF(a,b)×LCM(a,b)=ab is a two-number identity, not a general three-number rule. For multiple schedules, use prime exponents or repeated pairwise LCM: LCM(LCM(6,10),15)=LCM(30,15)=30. If teams begin on different days, a common cycle length alone does not establish the first simultaneous visit; starting offsets create a congruence problem and may make coincidence impossible.
+
 ## 8. Indices, roots, parity and estimation
 
 Index laws compress repeated multiplication: a^m×a^n=a^(m+n); (a^m)^n=a^(mn); a^0=1 for a≠0; and a^(−n)=1/a^n. The laws require attention to domains, especially zero and even roots of negative numbers in the real system. A square root symbol √x conventionally denotes the nonnegative principal square root for x≥0. Thus √49=7, whereas the equation x²=49 has two solutions x=±7. Confusing these two statements creates avoidable errors.
@@ -98,6 +112,8 @@ Index laws compress repeated multiplication: a^m×a^n=a^(m+n); (a^m)^n=a^(mn); a
 Parity is a powerful shortcut. An even number is 2k; an odd number is 2k+1. The sum of two odd numbers is even; an odd number multiplied by an odd number remains odd; the square of an odd number is odd. A perfect square modulo four is 0 or 1, never 2 or 3. Hence 2026 cannot be a perfect square because 2026 mod 4=2. Such modular checks can reject impossible answers without a full calculation.
 
 Approximation should be deliberate, not sloppy. To estimate 19.8×50.2, use 20×50≈1000, then calculate precisely if options are close: (20−0.2)(50+0.2)=1000+4−10−0.04=993.96. Estimation is a sanity check and can identify a misplaced decimal. In financial arithmetic, distinguish rounding the final answer from rounding intermediate steps; early rounding may accumulate error. In an exam, keep fractions exact until the end whenever possible, especially when discounts and ratios combine.
+
+**Domain check for powers and roots.** The expression √(a²)=|a| for real a, not always a. With a=-7, √49=7; writing -7 is a sign error. Likewise, a^(-2)=1/a² requires a≠0, and 0^0 should not be assigned a universal value in an elementary algebra calculation without a specified convention. Estimation can expose a misplaced decimal: √50 lies between 7 and 8 because 49<50<64. For percentage calculations, distinguish multiplying by 0.01 from dividing by 0.01; a one-step scale check against the original magnitude is often faster than recalculating the entire expression.
 
 ## 9. Arithmetic mean and the meaning of a denominator
 
@@ -107,6 +123,8 @@ The mean can be distorted by extremes. For monthly hypothetical travel expenses 
 
 Worked example: A clerk records eight application-processing times with mean 12 days. The total is 8×12=96 days. A ninth application taking 21 days changes the mean to (96+21)/9=13 days. It is wrong to average 12 and 21 to get 16.5, because the first figure summarises eight observations and the second summarises one. When the count is not given, the combined mean generally cannot be reconstructed from subgroup means alone. State the missing weight rather than assume equal group sizes.
 
+**Sensitivity to outliers.** Suppose four observations are 20, 21, 22 and 97. Their mean is 40, while their median is 21.5. Neither statistic is arithmetically wrong; they answer different questions. Reporting only the mean could misrepresent the typical observation when one large value dominates. A second diagnostic is to verify that the mean of nonnegative values cannot be negative and must lie between their minimum and maximum. If a computed average falls outside that interval, revisit the sum, count and units. In a programme report, also distinguish a mean over all eligible people from a mean over only those who responded.
+
 ## 10. Weighted and combined averages
 
 A weighted mean uses the contribution of each observation or subgroup to the total. For two groups with counts n1,n2 and means m1,m2, the pooled mean is (n1m1+n2m2)/(n1+n2). For example, a fictional Telangana training programme has 40 trainees averaging 68 marks and 60 trainees averaging 73 marks. The combined mean is (40×68+60×73)/100=71, not the unweighted average 70.5. The latter would incorrectly assign equal influence to groups of unequal size.
@@ -114,6 +132,8 @@ A weighted mean uses the contribution of each observation or subgroup to the tot
 Weights may represent frequency, credit hours, expenditure or population, but must match the target measure. A price index with expenditure weights answers a different question from the unweighted average of item price changes. If a district's population changes over time, comparing a weighted state average requires attention to changing weights. The famous reversal known as Simpson's paradox can occur when subgroup composition shifts; a combined rate may move differently from every subgroup rate. Thus the mathematical act of averaging has an interpretation, not just an algorithm.
 
 A common aptitude shortcut uses alligation: if two group averages are m1<m<m2, the required group-size ratio n1:n2=(m2−m):(m−m1). Suppose one batch averages 60, another 80, and their combined average is 72. Then sizes are in ratio (80−72):(72−60)=8:12=2:3. This follows by solving 60n1+80n2=72(n1+n2). Alligation is a rearranged weighted-average equation, not a separate magic rule; it fails if the target mean lies outside the range of positive-weight component means.
+
+**Denominator audit for rates.** Consider two centres with 10 of 20 applicants admitted and 72 of 80 admitted. Their admission rates are 50% and 90%, but the pooled rate is (10+72)/(20+80)=82%, not the simple midpoint 70%. Averaging the percentages without the applicant counts changes the target population. Conversely, if the question explicitly asks for the average performance of two centres giving each centre equal policy weight, 70% may be the intended measure. The arithmetic is conditional on the estimand. Always write the numerator and denominator for each percentage before deciding whether the weights are individuals, households, facilities or administrative units.
 
 ## 11. Corrected averages, moving averages and common traps
 
@@ -123,6 +143,8 @@ A moving average is the average of a sliding window of observations. It can smoo
 
 Questions involving average speed require special care. For equal distances travelled at speeds u and v, average speed is 2uv/(u+v), not (u+v)/2. The arithmetic mean of speeds applies to equal travel times. For equal 60-km legs at 30 and 60 km/h, times are 2 hours and 1 hour; overall speed is 120/3=40 km/h. Although speed-time-distance is explicitly in the next syllabus item, this example illustrates why an average's weighting basis matters. Do not silently import assumptions from a neighbouring topic.
 
+**Replacement versus addition.** Five observations average 30, so their total is 150. Replacing an erroneous entry 8 with 18 changes the total to 160 but leaves n=5, giving mean 32. Adding a new sixth observation of 18 instead produces 168/6=28. These superficially similar statements require different denominators. If the dataset is a rolling four-month window and the oldest value 10 is dropped while a new value 50 is added, update the window sum by -10+50, not by simply adding 50. A correction log should record which observation was changed, the prior value, the replacement and the effective observation count.
+
 ## 12. Ratios: parts, wholes, scaling and distribution
 
 A ratio a:b compares two quantities after expressing them in compatible units. The statement that rural:urban trainees = 3:2 means rural trainees are three-fifths of the total and urban trainees two-fifths. It does not mean the rural share is 3/2 of the total. If there are 250 trainees, rural=250×3/5=150 and urban=100. A ratio is unchanged if both terms are multiplied by the same nonzero factor; it is not unchanged if the same absolute number is added to both terms.
@@ -130,6 +152,8 @@ A ratio a:b compares two quantities after expressing them in compatible units. T
 To divide an amount in ratio a:b:c, add the parts first. An illustrative ₹72,000 grant shared 2:3:4 has nine parts, each worth ₹8,000; allocations are ₹16,000, ₹24,000 and ₹32,000. If the amount must be divided among beneficiaries with different needs, the ratio is a policy choice rather than a mathematical fact. The calculation can be exact even if the fairness of the allocation rule is contested. An answer should distinguish arithmetic consistency from normative justification.
 
 A compound ratio combines comparisons carefully. If A:B=2:3 and B:C=4:5, equalise B by scaling the first ratio to 8:12 and the second to 12:15, giving A:B:C=8:12:15. Simply writing 2:3:5 is incorrect because the two occurrences of B represent different numerical units before scaling. Ratios with money, kilograms and persons cannot be compared directly without defining a meaningful derived quantity such as rupees per kilogram or people per household.
+
+**Part-to-part and part-to-whole example.** If women and men in a fictional cohort are in the ratio 3:2, women form 3/5 of the total, not 3/2. For 250 people, the shares are 150 and 100; their sum provides a reconciliation check. Ratios must compare compatible units: 2 kilometres to 500 metres is 2000:500=4:1, not 2:500. A policy allocation using an observed ratio should also ask whether the ratio reflects demand, eligibility or historical access. A numerically correct proportional allocation can perpetuate unequal access if the underlying denominator is already distorted by exclusion.
 
 ## 13. Direct and inverse proportion
 
@@ -139,6 +163,8 @@ Worked example: A hypothetical ration-packing unit needs 12 volunteers working s
 
 Proportion questions sometimes combine direct and inverse factors. If output Q is directly proportional to workers W and hours H at fixed efficiency e, then Q=eWH. Doubling workers while halving hours leaves output unchanged. If workers increase by 20% and hours increase by 25%, output factor is 1.2×1.25=1.5, a 50% increase, not 45%. Percentage changes compound because each factor acts on the product. For exam efficiency, write a short proportionality equation before substituting numbers.
 
+**Work-rate assumption test.** Four identical pumps fill a tank in 12 hours, so under constant rates their combined rate is 1/12 tank per hour and one pump's rate is 1/48. Six identical pumps would take 48/6=8 hours. But if the tank leaks at 1/24 tank per hour, the net rate with six pumps is 6/48-1/24=1/12 and the time becomes 12 hours. The inverse-proportion shortcut is valid only when the work is fixed and per-worker productivity remains constant with no extra flows. Stating the assumption makes the algebra auditable and helps identify when a word problem is underspecified.
+
 ## 14. Mixtures, alligation and scaling in administration
 
 Mixture questions are weighted-average problems disguised as recipes, solutions or commodity blending. If 10 litres of solution at 20% concentration is mixed with 15 litres at 40%, the solute amount is 2+6=8 litres and total volume 25 litres, giving 32% concentration. Averaging 20% and 40% to get 30% is wrong because the volumes differ. This calculation assumes additive volumes and no chemical reaction; physical mixing can sometimes violate those assumptions, but standard aptitude problems generally state or imply ideal mixing.
@@ -146,6 +172,8 @@ Mixture questions are weighted-average problems disguised as recipes, solutions 
 Alligation can find quantities needed for a target concentration. To blend 20% and 50% solutions into a 32% mixture, the low:high quantity ratio is (50−32):(32−20)=18:12=3:2. Check with 3 litres at 20% and 2 litres at 50%: total solute 0.6+1.0=1.6 litres in five litres, or 32%. A target outside the interval between component concentrations is impossible with positive quantities of only those components. This range check is often faster than algebra.
 
 Scale drawings are another ratio application. On a map with scale 1:50,000, one centimetre represents 50,000 centimetres, or 0.5 kilometres. A measured 7.2 cm therefore corresponds to 3.6 km on the ground, assuming the map scale is valid. Area scaling differs from length scaling: doubling each linear dimension multiplies area by four. If an administrative chart depicts district areas, the visual area of a symbol must be interpreted according to the stated scale; one cannot infer acreage from an icon's radius unless that encoding is specified.
+
+**Concentration-basis safeguard.** A concentration stated as percentage by mass (w/w) is not interchangeable with percentage by volume (v/v). Mixing equal *volumes* of 20% w/w and 40% w/w liquids does not generally yield 30% w/w, because different densities imply different masses. For example, if one litre of the first solution weighs 1 kg and one litre of the second weighs 2 kg, the solute masses are 0.2 and 0.8 kg; the combined mass fraction is 1.0/3.0=33⅓%, assuming no mass loss. By contrast, for 20% v/v and 40% v/v with additive volumes, equal one-litre portions contain 0.2 and 0.4 litres of solute in two litres, giving 30% v/v. Always identify the percentage basis before using alligation.
 
 ## 15. Cost price, selling price, profit and loss
 
@@ -155,6 +183,8 @@ A business's economic cost may include transport, packaging, spoilage, wages and
 
 Profit and loss percentages are asymmetric. If an item loses 20% of its value, recovering the original requires a 25% gain on the reduced value: ₹100→₹80→₹100. A 20% gain after a 20% loss produces ₹96, a net 4% loss. For equal cost prices, profit and loss percentages can sometimes be averaged; for unequal costs, they must be weighted by the underlying cost amounts. The correct total profit% is (total SP−total CP)/total CP×100, never a simple average without justified equal weights.
 
+**Break-even and cost basis.** Suppose a fictional vendor purchases 100 units at ₹50 each and pays ₹500 total transport, so total cost is ₹5,500 or ₹55 per unit if all units sell. Selling 90 units at ₹60 yields ₹5,400 revenue; the remaining 10 units still have inventory value, so treating ₹5,400-₹5,500 as the final profit without specifying inventory treatment is incomplete. For an examination question that explicitly states all 100 units sold at ₹60, revenue is ₹6,000 and profit is ₹500, or 500/5500≈9.09% of total cost. This demonstrates why transport, unsold stock and the chosen denominator must be explicit.
+
 ## 16. Marked price, discounts, successive changes and margins
 
 Marked price (MP) is the displayed price before discount. A discount of d% produces SP=MP(1−d/100). A trader marking an item at ₹1,250 and giving a 12% discount receives ₹1,100. If its CP is ₹1,000, the trader earns ₹100 profit or 10% of CP. The discount percentage is based on MP, not CP. This distinction explains why a large advertised discount need not imply a loss for the seller.
@@ -162,6 +192,8 @@ Marked price (MP) is the displayed price before discount. A discount of d% produ
 Two successive discounts of 10% and 20% multiply retention factors: 0.9×0.8=0.72, so the effective discount is 28%, not 30%. For MP ₹2,000, final price is ₹1,440. The same mathematics applies to repeated price increases and decreases. A markup of 25% on CP ₹800 gives MP ₹1,000; a 20% discount then gives SP ₹800, exactly break-even. Markup and discount can cancel when their factors multiply to one, even though the percentages are unequal.
 
 Profit margin and profit markup use different denominators. With CP ₹80 and SP ₹100, markup on cost is 25% but profit margin on sales is 20%. Both describe the same ₹20 profit. In real invoices, GST and other taxes must be handled according to the transaction and whether prices are tax-inclusive or tax-exclusive; this chapter does not teach tax law or assume that tax collected is business profit. If an exam includes tax, first write which price includes it and compute taxable base and final amount separately. Avoid conflating net revenue with total money received on an invoice.
+
+**Successive-change reconciliation.** If a marked price is ₹1,000 and discounts of 20% then 10% apply, the transaction price is ₹1,000×0.8×0.9=₹720, an effective 28% discount. Reversing the discount order produces the same product under a fixed starting price, but subtracting 30% would incorrectly give ₹700. A 25% markup on cost followed by a 20% discount on the marked price yields 1.25×0.8=1.00, exactly break-even before additional expenses. A seller who describes a 25% markup as a 25% profit margin is changing denominators; margin must use the realised selling price.
 
 ## 17. Integrated worked cases with Telangana administrative contexts
 
@@ -299,11 +331,11 @@ A. 2:5 | B. 8:15 | C. 6:20 | D. 4:15
 
 **Answer: B. 8:15.** Equalise the B term: 2:3 becomes 8:12 and 4:5 becomes 12:15. Therefore A:C=8:15, not 2:5.
 
-### MCQ 19. A 20% and a 40% solution are mixed in equal volumes. Concentration is:
+### MCQ 19. Two solutions contain 20% and 40% solute by volume. Equal volumes are mixed, and volumes are assumed additive. Final concentration is:
 
 A. 25% | B. 30% | C. 32% | D. 35%
 
-**Answer: B. 30%.** Equal volumes give equal weights, so concentration=(20+40)/2=30%. With unequal volumes the weighted average would be required.
+**Answer: B. 30%.** For one litre of each solution, solute volumes are 0.2 and 0.4 litres; the combined two litres contain 0.6 litre solute, giving 30% v/v. Equal volumes do not necessarily mean equal masses: without the volume-basis and additive-volume assumptions, this shortcut is not generally valid.
 
 ### MCQ 20. The share of the first part in ratio 3:7 is:
 
