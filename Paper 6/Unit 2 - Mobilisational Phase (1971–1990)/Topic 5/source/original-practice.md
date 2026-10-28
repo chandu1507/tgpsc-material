@@ -4,7 +4,7 @@
 
 **MCQ 2.** Which event occurred first? (A) G.O. 610 (B) 1975 Presidential Order (C) 1956 merger (D) 1997 Bhuvanagiri meeting. **Answer: C.** The chronological order is 1956, 1975, 1985, 1997; dates help distinguish institutional layers.
 
-**MCQ 3.** Which evidence best tests an allegation that a specific recruitment violated local-candidate rules? (A) A viral poster (B) An employee's birthplace alone (C) Applicable service order and appointment record (D) A film scene. **Answer: C.** Legality depends on cadre, year, local area and exceptions, not an undifferentiated identity label.
+**MCQ 3.** Which records best begin a legally meaningful audit of a disputed local-cadre appointment? (A) A birthplace certificate without the cadre rules (B) An employee's language and a news allegation (C) A vacancy roster without the appointment year or exceptions (D) The applicable order, cadre, recruitment year, selection record and exceptions. **Answer: D.** Legality turns on the rule applicable to the particular post and appointment, not a broad identity label.
 
 **MCQ 4.** A reservoir's proposed command area proves: (A) All fields receive water (B) A design intention, not actual delivery (C) Farmers are prosperous (D) There is no need for release records. **Answer: B.** Actual irrigation requires construction, releases, distribution and seasonal reliability.
 
@@ -32,7 +32,7 @@
 
 **MCQ 16.** Which description of Professor K. Jayashankar is most appropriate? (A) A figure associated with intellectual articulation of Telangana grievances (B) The sole founder of every organisation (C) Author of Article 3 (D) Head of the 1956 SRC. **Answer: A.** Avoid claims of exclusive leadership or unrelated constitutional authorship.
 
-**MCQ 17.** What is a credible way to test the “surplus” argument? (A) Quote a slogan only (B) Compare consistent regional revenues, expenditure, shared costs and years (C) Count rallies (D) Use the highest circulating number. **Answer: B.** Fiscal definitions and attribution are central.
+**MCQ 17.** Which method best evaluates a historical regional revenue-surplus claim? (A) Compare nominal receipts but omit shared expenditure (B) Compare regional tax totals across unaligned financial years (C) Project today's district boundaries backward without adjustment (D) Reconcile year-wise receipts, expenditure, common costs and accounting definitions on comparable boundaries. **Answer: D.** Fiscal attribution requires consistent time, territory and treatment of shared costs.
 
 **MCQ 18.** Which proposition is true? (A) A new state must have a different language (B) Article 3 makes every demand automatically successful (C) Regional identity can coexist with support for political unity (D) Regional autonomy is impossible under the Constitution. **Answer: C.** Identity, constitutional possibility and political choice are different.
 
@@ -52,7 +52,7 @@
 
 **MCQ 26.** Why did safeguards become a political issue beyond their text? (A) Their implementation and credibility were disputed (B) They had no relevance to employment (C) Every claim was automatically upheld (D) They prohibited cultural expression. **Answer: A.** The gap between formal promise and perceived practice affected trust.
 
-**MCQ 27.** Which administrative remedy best addresses an illegal local appointment? (A) A film festival (B) Due-process review under the applicable recruitment order (C) Reclassifying rainfall (D) Banning all migration. **Answer: B.** Legal disputes need lawful evidence-based correction.
+**MCQ 27.** After evidence suggests a local-cadre appointment violated the governing order, what is the most defensible response? (A) Dismiss all employees from other regions without hearings (B) Treat every non-local appointment as unlawful regardless of exceptions (C) Change future rules but refuse to examine the disputed appointment (D) Refer the case to the competent authority for notice, record review and lawful proportionate correction. **Answer: D.** Individual remedies require due process under the applicable rule.
 
 **MCQ 28.** Why must a historian distinguish a song from a budget table? (A) Songs are never sources (B) Each source answers different questions (C) Budget tables always prove causation (D) Both are identical evidence. **Answer: B.** A song documents cultural rhetoric; a budget records fiscal categories.
 
