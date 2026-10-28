@@ -15,5 +15,57 @@
     "source/original-practice.md": "28b50603c3e1d8b1d4cb47a2e49a9bd765ed5fe7ccdbea8e649c5c81ca6f4ee2",
     "source/quick-revision.md": "9d3782f8a1eb853bd69f377d435574e988fe859d31c974bff06c193843934bcf",
     "source/references.md": "921c4b28381f4233576fe55bc8ae27a8355465eb485d1ac37073175997550b6c"
+  },
+  "academically_approved": false,
+  "source_word_count": 13257,
+  "mcq_count": 30,
+  "mains_count": 6,
+  "mains_word_counts": [
+    202,
+    249,
+    204,
+    237,
+    224,
+    217
+  ],
+  "original_pdf_pages": 29,
+  "integrated_pdf_status": "CI_rendered_pending_academic_audit",
+  "integrated_pdf_pages": 26,
+  "integrated_pdf_sha256": "494f76e900ee4c0c54f072ecf51430ae5461df12763367aa7cf069cc7db5b3b6",
+  "official_syllabus_authenticated_this_cycle": true,
+  "independent_academic_approvals": 0,
+  "metrics": {
+    "concept_count": 23,
+    "concepts_below_300": 0,
+    "answer_distribution": {
+      "A": 5,
+      "B": 23,
+      "C": 2,
+      "D": 0
+    },
+    "mains_body_only_counts": [
+      202,
+      249,
+      204,
+      237,
+      224,
+      217
+    ],
+    "independent_review_complete": false
+  },
+  "files_sha256": {
+    "README.md": "d6d8c753f1d38a44a1b1e603f5f108ecccb57af4eec1751ecd6be589b5b59253",
+    "QA-REPORT.md": "f2e4e7ece5029760df98aa9f63b077a4641bdf949d175bb005ccbb639b66e116",
+    "complete-notes.pdf": "add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94",
+    "index.html": "8628268d72a8b368d6db633a2c801e5161a6720dd27d80baeb50d18e23f94d30",
+    "diagrams/administrative-tradeoffs.png": "f01056411f5c253a8a32bf59c9d0fabe0c93c3f70099fde81972f9eb08458528",
+    "diagrams/causal-map.png": "b33dbba1b2fd12acf6cbed532c3ae2ac36d1c83f6dd403ee15ef5658bc4e144d",
+    "diagrams/timeline.png": "ba9f62ed0c80a255a7ad39616558ba625b4a34ae9b9e7fac1b1501aedc11d245",
+    "source/complete-notes.md": "9fe3e54070fd00d8f14463d36565f8da495e88d4365ba950c2c306ba88f8676f",
+    "source/quick-revision.md": "9d3782f8a1eb853bd69f377d435574e988fe859d31c974bff06c193843934bcf",
+    "source/references.md": "90db8c3f140720d4122dd836142c406c1adafdca8c510dfac512ad1db0007d41",
+    "source/original-practice.md": "b1f02e25fee6f27d764647c1d5f802d36174febc4f3146a4897e10ea2f085b89",
+    "source/answer-blueprints.md": "9d2e4dac6c972e04b5026144f74f038ec60521ab370def0a3fc7d0cfd935f9ad",
+    "source/integrated-student-edition-cycle64.pdf": "494f76e900ee4c0c54f072ecf51430ae5461df12763367aa7cf069cc7db5b3b6"
   }
 }

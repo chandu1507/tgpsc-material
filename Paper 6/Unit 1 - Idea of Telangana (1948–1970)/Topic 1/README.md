@@ -1,3 +1,7 @@
-# Paper VI · Unit I · Topic 1 — Historical Background and the Mulki Question
+# Paper VI / Unit I / Topic 1 — Historical Telangana and Mulki rules
 
-Draft notes: complete-notes.pdf, index.html, source/complete-notes.md, 3 original diagrams, 30 original explained MCQs and six complete structured mains answers. Original TGPSC Notification 02/2024 wording verified. Independent academic approval remains pending.
+Original 29-page PDF SHA256 add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94 preserved.
+
+[Offline HTML](index.html) · [Integrated PDF](source/integrated-student-edition-cycle64.pdf) · [Editable master](source/complete-notes.md) · [Original PDF](complete-notes.pdf).
+
+Corrected Supreme Court case attribution and explained historical legal alternatives; independent academic approval ZERO.
