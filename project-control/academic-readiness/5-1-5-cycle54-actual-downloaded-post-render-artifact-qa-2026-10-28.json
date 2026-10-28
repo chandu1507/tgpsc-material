@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-28",
+  "cycle": 54,
+  "topic": "5-1-5",
+  "packaging_run": 40635201034,
+  "artifact_id": 12792749773,
+  "actually_downloaded": true,
+  "archive_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
+  "github_digest_match": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "inner_files": 1690,
+  "original_topic_pdfs": 75,
+  "original_pdf_hashes_unchanged_vs_cycle53": 75,
+  "readiness_json": 75,
+  "html_pages": 78,
+  "local_file_links_checked": 435,
+  "broken_local_links": 0,
+  "dom_fragment_links_checked": 1137,
+  "broken_fragments": 0,
+  "spa_hash_routes_excluded": 60,
+  "topic_5_1_5": {
+    "original_pdf_sha256": "37979c47cdc2f4e1593aa5664df10bec3ef8446890fa762385c22154da4e2ecf",
+    "integrated_pdf_sha256": "30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68",
+    "pages": 27,
+    "embedded_diagram_instances": 3,
+    "blank_pages": 0,
+    "out_of_bounds_text_blocks": 0,
+    "manifest_hashes_checked": 18,
+    "manifest_hash_mismatches": 0,
+    "editable_master_contains_mcq_mains_and_sources": true,
+    "mcqs": 30,
+    "answer_distribution": {
+      "A": 11,
+      "B": 15,
+      "C": 2,
+      "D": 2
+    },
+    "mains_body_only_regex_counts": [
+      220,
+      222,
+      227,
+      224,
+      220,
+      219
+    ]
+  },
+  "readiness_counts": {
+    "total": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 36,
+    "not_assessed": 32,
+    "verified_R1_pass": 10,
+    "fully_R1_R8_ready": 0,
+    "independent_academic_approvals": 0
+  },
+  "R8": "IN_PROGRESS_NOT_PASS",
+  "limitations": [
+    "complete 30 MCQ keys and 90 distractors not independently verified",
+    "six mains claim sets not independently checked",
+    "three diagrams not independently academically reviewed",
+    "official 2024 syllabus not reauthenticated in Cycle54",
+    "direct browser accessibility/usability not certified",
+    "no named independent academic expert"
+  ],
+  "note": "Publication integrity PASS; academic readiness and independent approval NOT established. ZIP and PDF hashes were computed from actual downloaded Actions artifact, not inferred from run success."
+}
