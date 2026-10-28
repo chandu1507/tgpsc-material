@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 14,
+  "not_assessed_count": 13,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 54 ASSESSED_REBUILD_REQUIRED / 14 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle72 is assessment-only; no new integrated PDF or new artifact certification.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 55 ASSESSED_REBUILD_REQUIRED / 13 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle73 source changes pending CI artifact verification.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -145,9 +145,10 @@
     "6-2-1",
     "6-2-2",
     "6-2-3",
-    "6-2-4"
+    "6-2-4",
+    "6-2-5"
   ],
-  "last_readiness_update": "2026-10-29 Cycle72 Topic 6-2-4 direct audit: 40/40 shallow, 30 structurally valid MCQs with unverified keys/distractors, Mains 2 197 words; 7/54/14; no new integrated PDF, R8 BLOCKED, approvals zero.",
+  "last_readiness_update": "2026-10-29 Cycle73 Topic 6-2-5 direct audit and source repairs: 26 concepts, 22 still under300; 30 MCQs with 3 rewritten, no complete independent distractor audit; six mains 215/205/215/200/200/201; 3 diagrams embedded; CI PDF pending; 7/55/13; zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -164,6 +165,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-2-5-cycle73-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
     "project-control/academic-readiness/6-2-4-cycle72-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
     "project-control/academic-readiness/6-2-3-cycle71-actual-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-2-3-cycle71-direct-source-depth-and-practice-audit-2026-10-29.json",
