@@ -13,7 +13,7 @@
   "not_assessed_count": 15,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 53 ASSESSED_REBUILD_REQUIRED / 15 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle71 Topic 6-2-3 source assessment; actual CI publication QA pending.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 53 ASSESSED_REBUILD_REQUIRED / 15 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle71 actual GitHub publication artifact verified; academic readiness NOT certified.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -146,7 +146,7 @@
     "6-2-2",
     "6-2-3"
   ],
-  "last_readiness_update": "2026-10-29 Cycle71 Topic 6-2-3: four evidence-bounded substantive expansions, 30/34 concepts shallow, MCQ/mains claim audits pending; 1983 ECI original tables unavailable; contemporary 1984 reports inspected. CI artifact pending.",
+  "last_readiness_update": "2026-10-29 Cycle71 Topic 6-2-3: synchronized 23-page CI PDF and actual downloaded GitHub artifact 12855131104 independently verified (1810 files, 75 originals, 450 links/1050 fragments zero broken, 14 manifest hashes). 30/34 concepts shallow; MCQ/mains/diagrams/browser review pending; R8 IN_PROGRESS, zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -163,6 +163,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-2-3-cycle71-actual-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-2-3-cycle71-direct-source-depth-and-practice-audit-2026-10-29.json",
     "project-control/academic-readiness/6-2-2-cycle70-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-2-2-cycle70-direct-source-and-depth-audit-2026-10-29.json",
