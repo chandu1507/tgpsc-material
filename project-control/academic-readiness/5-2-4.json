@@ -24,10 +24,10 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
-  "next_action": "Finish remaining 23 MCQ keys, all 90 distractors, six mains claim audits, three diagram checks, direct 2024 syllabus authentication and browser QA; publish synchronized CI PDF and verify downloaded GitHub artifact; R8 not PASS.",
+  "evidence": "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+  "next_action": "Downloaded post-render GitHub artifact CRC/SHA/75 original PDF hashes/manifest/offline links verified; R8 still IN_PROGRESS pending direct browser accessibility, complete 30 MCQ key/90 distractor review, six mains claim audits, three diagrams and syllabus authentication. Zero independent approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -64,7 +64,11 @@
     "original_pdf_sha256": "9d436dd18564d1cd49d494752127160b6781db794a3caf08e98f4bdb3e5b02f6",
     "local_integrated_pdf_pages": 24,
     "local_integrated_pdf_sha256": "4a2827b3f01b62f0935f629f3e6b7d54626d9e20c722785aeb7e4eae370b3ad3",
-    "post_edit_github_artifact_verified": false,
-    "independent_academic_approvals": 0
+    "post_edit_github_artifact_verified": true,
+    "independent_academic_approvals": 0,
+    "actual_github_artifact_id": 12799943156,
+    "actual_github_artifact_sha256": "31ba5cd99ebc24d841fd6c33dd52a1e7d868ca259e2c09ce9f2a9076ca74ecc6",
+    "github_integrated_pdf_pages": 24,
+    "github_integrated_pdf_sha256": "4a2827b3f01b62f0935f629f3e6b7d54626d9e20c722785aeb7e4eae370b3ad3"
   }
 }
