@@ -51,6 +51,27 @@
 - **[S25] Central Drugs Standard Control Organisation — Central Drugs Laboratory, Kasauli.** accessed 24 October 2026. https://cdsco.gov.in/opencms/opencms/en/Departments/Lab/CDL_Kasauli/  
   Verification: National control laboratory functions.
 
+- **[S26] World Health Organization — WHO Expert Consultation on Rabies, third report (TRS 1012).** 2018; checked 28 October 2026. https://www.paho.org/sites/default/files/2022-08/consulta-expertos-rabies-ed3-2021-english.pdf  
+  Bounded correspondence: section on nerve-tissue vaccine discontinuation and replacement by cell-culture/embryonated-egg vaccines; not a manufacturer batch audit.
+- **[S27] World Health Organization — Rabies vaccines: WHO position paper.** 19 April 2018; checked 28 October 2026. https://www.who.int/publications-detail-redirect/who-wer9316  
+  Bounded correspondence: pre-exposure, post-exposure and rabies immunoglobulin distinctions; not a personalised dosing schedule.
+- **[S28] World Health Organization — Serious AEFI and causality assessment.** accessed 28 October 2026. https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi  
+  Bounded correspondence: AEFI is a post-vaccination event without necessary causality; numerical example is explicitly hypothetical.
+- **[S29] World Health Organization / UNICEF — Global immunization coverage release.** 15 July 2026; checked 28 October 2026. https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who  
+  Bounded correspondence: 2025 global DTP1 90% and DTP3 85%; NOT Telangana data.
+- **[S30] World Health Organization — Tetanus fact sheet.** 15 July 2026; checked 28 October 2026. https://www.who.int/news-room/fact-sheets/detail/tetanus  
+  Bounded correspondence: tetanus is not transmitted person to person, supporting Q9/Q29; not a full distractor audit.
+- **[S31] World Health Organization — Recombinant hepatitis B vaccine quality recommendations (TRS 978).** 25 May 2013; checked 28 October 2026. https://www.who.int/publications/m/item/recombinant-hep-b-A4-trs-978  
+  Bounded correspondence: HBsAg recombinant production and quality oversight; not a manufacturer-specific validation.
+- **[S32] Ministry of Health and Family Welfare — Universal Immunization Programme overview.** checked 28 October 2026. https://www.mohfw.gov.in/sites/default/files/41016395871489662752.pdf  
+  Bounded correspondence: DPT, hepatitis B and Hib in pentavalent; not a full schedule audit.
+- **[S33] Central Drugs Standard Control Organisation — National regulatory authority.** checked 28 October 2026. https://www.cdscoonline.gov.in/  
+  Bounded correspondence: CDSCO's NRA role and vaccine oversight.
+- **[S34] World Health Organization — Vaccine vial monitor.** 21 June 2021; checked 28 October 2026. https://www.who.int/publications/m/item/vaccine-vial-monitor  
+  Bounded correspondence: cumulative heat exposure, not a freeze monitor or sterility test.
+- **[S35] World Health Organization — Preventing mother-to-child transmission of hepatitis B.** accessed 28 October 2026. https://www.who.int/news-room/questions-and-answers/item/hepatitis-preventing-mother-to-child-transmission-of-the-hepatitis-b-virus  
+  Bounded correspondence: birth dose preferably within 24 hours; does not replace infant series.
+
 ### Quality and provenance limits
 
 1. The exact syllabus line was checked in the commission-hosted Notification 02/2024 on 24 October 2026. This is an independent study chapter, not commission-endorsed material.
