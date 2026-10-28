@@ -130,7 +130,7 @@
     "5-2-1",
     "5-2-2"
   ],
-  "last_readiness_update": "Cycle55 5-2-2 direct source audit + substantive repairs: 17 concepts >=300, six mains body-only >=200, original 25-page PDF preserved; five bounded official MCQ key checks, 25 keys and 90 distractors pending; local 27-page PDF candidate only. 7 IN_PROGRESS / 37 ASSESSED_REBUILD_REQUIRED / 31 NOT_ASSESSED; 0 full readiness and 0 approvals.",
+  "last_readiness_update": "Cycle55 Topic 5-2-2 actual downloaded post-render artifact QA PASS: 1698 files, all 75 original PDFs preserved, 75 readiness JSON, 78 HTML, 437 local links / 1137 fragments zero broken; 27-page integrated PDF hash matches local. 7 IN_PROGRESS / 37 ASSESSED_REBUILD_REQUIRED / 31 NOT_ASSESSED; 10 R1 PASS; 0 fully R1–R8 and 0 independent approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -145,6 +145,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-2-cycle55-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-2-cycle55-direct-source-repair-and-bounded-key-audit-2026-10-28.json",
     "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json",

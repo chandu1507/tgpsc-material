@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-2-cycle55-direct-source-repair-and-bounded-key-audit-2026-10-28.json",
-  "next_action": "Verify remaining 25 MCQ keys and all 90 distractors, six mains claim sets and three diagrams; independently reauthenticate original 2024 syllabus; deterministic CI integrated PDF; download and verify actual post-edit 75-topic artifact CRC, SHA, original PDF preservation, HTML links and browser accessibility. R9 only after R1-R8 PASS and named expert.",
+  "evidence": "project-control/academic-readiness/5-2-2-cycle55-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+  "next_action": "Complete 25 remaining MCQ key checks and 90 distractor evaluations, six mains claim audits, three diagram audits, independent 2024 syllabus retrieval and direct browser accessibility. Then R1–R8 evidence-based gate review; R9 only with named independent expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -66,6 +66,9 @@
     "original_pdf_sha256": "fb8424ad637d2513697ebe88b33a92d87489849e0d40cde9c972a5b50b128c38",
     "local_integrated_pdf_pages": 27,
     "local_integrated_pdf_sha256": "2b5efea32f730816ae6d3db43cd1ece84e784368976e834db44e34839516237d",
-    "post_edit_github_artifact_verified": false
+    "post_edit_github_artifact_verified": false,
+    "actual_post_edit_github_artifact_verified": true,
+    "actual_github_artifact_id": 12796015365,
+    "actual_github_artifact_sha256": "747e03d2dbf07d5de172852c47c6589cb455dab05d29f159f41b0ccdaffd9c23"
   }
 }
