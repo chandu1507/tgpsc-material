@@ -942,18 +942,18 @@
   "next_sequential_topic": null,
   "next_new_topic": null,
   "latest_verified_publication": {
-    "topic_id": "5-3-2",
+    "topic_id": "5-3-3",
     "date": "2026-10-28",
     "publication_status": "actual_github_artifact_integrity_verified_not_academic_approval",
     "academic_status": "not_approved",
     "published_pdf_pairs": 75,
     "html_slots": 75,
-    "publication_commit": "091be2c78d0656af5f13dde5f8123686ed269e1e",
-    "packaging_run_id": 40676341641,
-    "artifact_id": 12811390092,
-    "unique_archive_entries": 1732,
-    "artifact_sha256": "38efee5a650788470cb6945e1ac814aefe8596502b0e0510b4964925e15a9ea7",
-    "qa_evidence": "project-control/academic-readiness/5-3-2-cycle60-actual-downloaded-post-ci-artifact-qa-2026-10-28.json",
+    "publication_commit": "276b8896c033aab0318ac49d6a8e380bbd643dd2",
+    "packaging_run_id": 40684747238,
+    "artifact_id": 12813918790,
+    "unique_archive_entries": 1742,
+    "artifact_sha256": "8bcca940459a8b7f1d42f164d41b713393737163e59a969c053c74251fda9405",
+    "qa_evidence": "project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json",
     "independent_live_browser_status": "unverified",
     "academic_approval": 0
   },
@@ -1020,10 +1020,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle61 5-3-3 source depth repair; post-edit PDF/artifact NOT YET verified. Prior Cycle60 downloaded artifact remains latest independently verified publication. 7/43/25; ZERO approvals.",
+    "note": "Cycle61 Topic 5-3-3 synchronized 21-page CI PDF; actual downloaded artifact 12813918790 CRC and 75-original hashes PASS, 1742 files, 445 local links and 1137 fragments zero broken. 7/43/25, zero approvals; R8 IN_PROGRESS.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40676341641,
-    "last_verified_package_artifact": 12811390092,
+    "last_verified_package_run": 40684747238,
+    "last_verified_package_artifact": 12813918790,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1089,9 +1089,9 @@
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "5-3-3",
-    "evidence": "project-control/academic-readiness/5-3-3-cycle61-direct-source-depth-and-concentration-correction-2026-10-28.json"
+    "evidence": "project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json"
   },
-  "last_readiness_update": "Cycle61 Topic 5-3-3 16 shallow concepts substantively expanded and MCQ19 concentration-basis error corrected in editable sources; synchronized PDF and post-edit artifact pending.",
+  "last_readiness_update": "Cycle61 Topic 5-3-3: 16 shallow concepts expanded, MCQ19 concentration assumption corrected, 30 keys/90 distractors internally audited, three diagrams internally checked. 21-page PDF synchronized through CI. Actual GitHub artifact 12813918790 downloaded and CRC/hashes/links verified. R8 IN_PROGRESS; zero approvals.",
   "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 43 ASSESSED_REBUILD_REQUIRED, 25 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1100,7 +1100,7 @@
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-3-3-cycle61-direct-source-depth-and-concentration-correction-2026-10-28.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
