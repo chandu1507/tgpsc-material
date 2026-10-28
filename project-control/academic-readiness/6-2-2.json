@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle70: direct 32-concept count (32 initially under300, four expanded, 28 remain shallow); 30 four-option original practice MCQs A7/B8/C8/D7, keys and 90 distractors NOT independently verified; six mains direct body-only 214/242/219/217/226/229, claims NOT fully checked; Supreme Court 1995 official judgment directly read, FRA official Form C checked, PESA official indexed; original 20-page PDF SHA256 55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6 preserved; deterministic integrated PDF/actual CI artifact pending; zero approvals.",
-  "next_action": "Finish 28 shallow concepts with full-page depth; verify all 30 keys/90 distractors and six mains claims; directly authenticate TGPSC syllabus and 1978 sources; inspect diagrams and browser; render via CI and independently download artifact. R9 not started.",
+  "evidence": "Cycle70: direct 32-concept count (32 initially under300, four expanded, 28 remain shallow); 30 four-option original practice MCQs A7/B8/C8/D7, keys and 90 distractors NOT independently verified; six mains direct body-only 214/242/219/217/226/229, claims NOT fully checked; Supreme Court 1995 official judgment directly read, FRA official Form C checked, PESA official indexed; original 20-page PDF SHA256 55cc1e0f1d371949f6f2085b808dc13171fdc0386d36fd911a2082a3ee30bab6 preserved; deterministic integrated PDF/actual CI artifact pending; zero approvals. CI renderer 40768001252 SUCCESS; actual packaging 40768134774 artifact 12851536072 downloaded and verified: 1802 files, 75 original PDFs unchanged, CRC and links PASS; integrated 24-page PDF SHA256 36d6f4194cd5411dbed9b9175654db83dbfa2dfae9a926447d735e2f5e4ba420. R8 IN_PROGRESS, not PASS.",
+  "next_action": "Expand 28 remaining shallow concepts; audit 30 MCQ keys and 90 distractors independently; claim-level verify six mains; authenticate direct TGPSC syllabus and 1978 records; certify diagram accuracy and browser accessibility; R9 only after full R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle70": {
@@ -64,11 +64,15 @@
     "mains_claim_level_verified": false,
     "diagrams_embedded": 3,
     "original_pdf_preserved": true,
-    "new_integrated_pdf_rendered": false,
-    "post_edit_actions_artifact_verified": false,
+    "new_integrated_pdf_rendered": true,
+    "post_edit_actions_artifact_verified": true,
     "full_page_density_met": false,
     "independent_approvals": 0,
-    "R8": "BLOCKED",
-    "R9": "NOT_STARTED"
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "integrated_pdf_sha256": "36d6f4194cd5411dbed9b9175654db83dbfa2dfae9a926447d735e2f5e4ba420",
+    "integrated_pdf_pages": 24,
+    "artifact_id": 12851536072,
+    "artifact_sha256": "5a50721230e117e62fa292aaa6c6032e8caa533aa8a93e578af95a2a3ec08f6c"
   }
 }
