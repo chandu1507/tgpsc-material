@@ -225,14 +225,14 @@ D. Universal full employment
 
 **Correct: A.** Job quantity, quality and access are distinct; employment growth need not be evenly distributed.
 
-## MCQ 26: A committee with power to advise but not appropriate funds is best described as:
+## MCQ 26: Under the 1958 Andhra Pradesh Government Business Rules amendment, what was the prescribed route when the Council of Ministers rejected a Telangana Regional Committee recommendation on a scheduled matter?
 
-A. A separate legislature
-B. A consultative institution with limited fiscal authority
-C. A central bank
-D. A court of final appeal
+A. The committee automatically dissolved the Assembly
+B. The recommendation was silently discarded without any procedure
+C. The chief minister referred the disagreement to the Governor for a final binding decision on the Council
+D. The committee independently appropriated the state budget
 
-**Correct: B.** Consultative functions cannot be assumed to confer control over the budget.
+**Correct: C.** The 1958 rule 8-A required a chief-ministerial reference to the Governor if the Council found a recommendation inexpedient or beyond committee competence; the Governor's decision was final and binding on the Council. This was a specified escalation procedure, not a general committee veto. Source: MHA reproduction of the 1958 gazette [S13].
 
 ## MCQ 27: Why is it unsafe to compare present Telangana districts directly with 1956 district figures?
 
