@@ -13,7 +13,7 @@
   "not_assessed_count": 22,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs: 7 IN_PROGRESS, 46 ASSESSED_REBUILD_REQUIRED, 22 NOT_ASSESSED; 12 R1 syllabus mappings PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Topic6-1-1 corrected a substantive wrong Supreme Court citation; CI artifact/browser and full academic audits pending.",
+  "warning": "Exactly 75 original topics/PDFs: 7 IN_PROGRESS, 46 ASSESSED_REBUILD_REQUIRED, 22 NOT_ASSESSED; 12 verified R1 syllabus mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Topic 6-1-1 corrected legal-source error and actual CI artifact verified; R8 IN_PROGRESS pending academic/browser QA.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -139,7 +139,7 @@
     "5-3-5",
     "6-1-1"
   ],
-  "last_readiness_update": "2026-10-28 Cycle64 Topic 6-1-1 direct legal-source correction and local render; actual CI artifact pending",
+  "last_readiness_update": "2026-10-28 Cycle64 Topic6-1-1 actual downloaded artifact integrity verified",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -156,6 +156,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-1-1-cycle64-actual-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/6-1-1-cycle64-direct-legal-source-and-local-render-audit-2026-10-28.json",
     "project-control/academic-readiness/5-3-5-cycle63-actual-downloaded-final-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json",
