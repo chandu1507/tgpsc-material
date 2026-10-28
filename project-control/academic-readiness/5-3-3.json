@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle61 direct source repair: 16 of 18 concepts expanded to >300 Unicode-token words; MCQ19 v/v concentration basis corrected and synchronized. All R1–R8 incomplete; no post-edit GitHub artifact yet. project-control/academic-readiness/5-3-3-cycle61-direct-source-depth-and-concentration-correction-2026-10-28.json CI run 40684068815 SUCCESS, 21-page PDF rendered, original PDF SHA preserved, local links PASS; actual packaged artifact NOT YET downloaded.",
-  "next_action": "Download post-CI GitHub packaging artifact, compare 75 originals, ZIP CRC and offline links; independently audit all MCQ keys/distractors, mains claims and diagrams.",
+  "evidence": "Cycle61 16 concept expansions, corrected MCQ19 v/v assumption; internal 30/30 key and 90/90 distractor recomputation; internal three-diagram mathematical and visual check. 21-page synchronized PDF and downloaded artifact 12814147615 CRC/hashes/links PASS. Independent syllabus, mains claims, accessibility and expert approval incomplete.",
+  "next_action": "Complete claim-level mains and full syllabus authentication; perform direct browser and screen-reader QA; re-download latest artifact after audit commits; do not mark R8 or R9 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle61": {
@@ -47,6 +47,31 @@
     "ci_render_commit": "276b8896c033aab0318ac49d6a8e380bbd643dd2",
     "integrated_pdf_sha256": "26553b15546af4bab3b398265520b3df336cb625f6da5e8f3b8ca9e65beee5ca",
     "integrated_pdf_pages": 21,
-    "actual_downloaded_artifact_verified": false
+    "actual_downloaded_artifact_verified": true,
+    "internal_key_distractor_audit": {
+      "keys": 30,
+      "distractors": 90,
+      "status": "INTERNAL_CHECK_PASS_NOT_INDEPENDENT_CERTIFICATION",
+      "evidence": "project-control/academic-readiness/5-3-3-cycle61-internal-30-key-90-distractor-option-audit-2026-10-28.json"
+    },
+    "internal_diagram_check": {
+      "diagrams": 3,
+      "status": "INTERNAL_MATH_AND_VISUAL_PASS_NOT_ACCESSIBILITY_CERTIFICATION",
+      "evidence": "project-control/academic-readiness/5-3-3-cycle61-three-diagram-math-and-visual-check-2026-10-28.json"
+    },
+    "post_ci_downloaded_artifact_qa": {
+      "artifact_id": 12814147615,
+      "packaging_run": 40684212075,
+      "outer_sha256": "d5c018a1f0da40ffcfeb3333843713bf783517e1238d741a3027041b06ab7589",
+      "originals_unchanged": 75,
+      "readiness_json": 75,
+      "html_pages": 78,
+      "links_checked": 445,
+      "broken_links": 0,
+      "fragments_checked": 1137,
+      "broken_fragments": 0,
+      "crc": "PASS",
+      "note": "QA completed before these subsequent audit-evidence commits; newest artifact must be rechecked"
+    }
   }
 }
