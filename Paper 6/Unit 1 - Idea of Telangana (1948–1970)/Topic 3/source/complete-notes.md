@@ -820,7 +820,7 @@ Every question below was written for this study material. These are **not offici
 
 **Regional concerns.** Unequal access to capital, education and professional networks could intensify competition for government posts, college seats and urban land. Property-price increases may benefit owners while burdening tenants. Public employment disputes, however, must be tested against the domicile and recruitment rules in force at the relevant date. Regional origin alone does not establish an illegal appointment.
 
-**Method of assessment.** A balanced evaluation uses census migration data, appointment records, land transactions and sectoral employment series. It distinguishes population stocks from flows, private employment from public service and urban Hyderabad from rural Telangana. Historical boundary changes and data gaps must be acknowledged.
+**Method of assessment.** A balanced evaluation uses census migration data, appointment records, land transactions and sectoral employment series. It distinguishes population stocks from flows, private employment from public service and urban Hyderabad from rural Telangana. Historical boundary changes and data gaps must be acknowledged. For instance, a higher share of migrants in an expanding city cannot establish that protected subordinate-service vacancies were unlawfully filled; that separate allegation requires post-level eligibility and appointment evidence.
 
 **Conclusion.** Migration generated both opportunities and distributive tensions. The fundamental governance question was whether institutions protected fair access and addressed unequal outcomes. Collective blame is neither analytically sound nor necessary to explain the Telangana movement.
 
