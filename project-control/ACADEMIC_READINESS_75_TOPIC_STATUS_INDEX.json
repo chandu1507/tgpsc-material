@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 28,
+  "not_assessed_count": 27,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 40 ASSESSED_REBUILD_REQUIRED, 28 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 41 ASSESSED_REBUILD_REQUIRED, 27 NOT_ASSESSED; 10 verified R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle59 is a bounded assessment, NOT a new rendered PDF.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -131,9 +131,10 @@
     "5-2-2",
     "5-2-3",
     "5-2-4",
-    "5-2-5"
+    "5-2-5",
+    "5-3-1"
   ],
-  "last_readiness_update": "Cycle58 Topic 5-2-5 actual downloaded artifact 12803981224 verified: 1722 files, 75 original PDFs preserved, 75 readiness JSON, 78 HTML, 443 relative links and 1137 fragments zero broken, 56 SPA routes excluded; 25-page CI PDF, R8 IN_PROGRESS, zero approvals.",
+  "last_readiness_update": "Cycle59 Topic 5-3-1: 18 concepts all >=300 words; 30 keys and 90 distractors internally checked; 29 arithmetic assertions PASS; 6 mains body-only 229/223/230/228/237/222; three diagrams visually checked; original 25-page PDF unchanged; 2024 syllabus direct PDF 502; 0 approvals. Cycle58 archive CRC/hash rechecked, not a new artifact.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -148,6 +149,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-5-cycle58-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-5-cycle58-source-depth-mains-and-bounded-key-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
