@@ -47,7 +47,7 @@
   "method": {
     "word_count": "regex word-token approximation; strips model-answer heading and bold section labels; 200-250 range under this explicit method",
     "mcq": "Each question read directly from source/original-mcqs.md; correct option independently recomputed or reasoned; each of 3 wrong options considered explicitly",
-    "arithmetic": "29 separately scripted numeric assertions PASS, including 18 MCQ-derived checks and chart/mains examples",
+    "arithmetic": "29 separately scripted numeric assertions PASS, including 19 MCQ-derived checks and chart/mains examples",
     "diagrams": "Directly inspected PNGs; grouped bar 58->69 +11 points, West 80->82, line May 55 Jan/Nov 42, pie shares 35+25+20+15+5=100 and 200-crore budget water70/education30"
   },
   "mcq_option_audit": [
