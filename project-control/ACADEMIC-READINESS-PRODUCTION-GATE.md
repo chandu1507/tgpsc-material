@@ -1,3 +1,9 @@
+## Cycle64 Topic 6-1-1 actual downloaded GitHub artifact QA — 28 October 2026
+
+**Packaging run 40712394492 SUCCESS**, artifact **12825709439 ACTUALLY DOWNLOADED**, SHA256 `9f5ed4fa0db111f44db09df01bd249634d0bc7b9303b8fedf1f57ef5a7f303c9` matches GitHub digest. Outer/inner ZIP CRC PASS; **1,766 files**, exactly **75 original topic PDFs unchanged** versus Cycle63, 75 readiness JSON and 78 HTML. **449 relative file links, 1,104 DOM fragments ZERO broken**; 54 SPA hash routes correctly excluded. Topic 6-1-1 manifest **13/13 SHA256 PASS**, corrected integrated **26-page PDF** SHA256 `494f76e900ee4c0c54f072ecf51430ae5461df12763367aa7cf069cc7db5b3b6`, three embedded diagrams, no blank pages or detected out-of-page text. The false 1978 legal-source link is absent; the correct 1972 judgment is present.
+
+**Reconciled:** 75 topics, **7 IN_PROGRESS / 46 ASSESSED_REBUILD_REQUIRED / 22 NOT_ASSESSED**, 12 verified R1 mappings; **ZERO fully R1–R8 ready and ZERO independent academic approvals**. **R8 IN_PROGRESS**, not PASS. Full 30-key/90-distractor and six mains claim-level review, original diagram correctness, one-full-page-per-concept and direct browser accessibility still pending. Evidence `project-control/academic-readiness/6-1-1-cycle64-actual-downloaded-artifact-qa-2026-10-28.json`. This evidence certifies artifact 12825709439, not later control-only commits.
+
 ## Cycle64 Topic 6-1-1 source-critical legal correction — 28 October 2026
 
 Fresh main baseline `5024cfbc6eaa9285da89855317a95b5b6f4e8246`: **75 original topics/PDFs, 7 IN_PROGRESS / 46 ASSESSED_REBUILD_REQUIRED / 22 NOT_ASSESSED**, **12 directly verified R1 syllabus mappings**, **ZERO fully R1–R8 ready and ZERO independent approvals**. Topic 6-1-1 original 29-page PDF SHA256 `add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94` preserved. Directly checked TGPSC Notification 02/2024 Paper VI Unit I item 1.
