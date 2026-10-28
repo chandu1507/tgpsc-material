@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "total_topics": 75,
   "pilot_in_progress": [
     "2-2-4",
@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 19,
+  "not_assessed_count": 18,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS / 49 ASSESSED_REBUILD_REQUIRED / 19 NOT_ASSESSED; 12 historically verified R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle67 is assessment-only, no new publication artifact.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS / 50 ASSESSED_REBUILD_REQUIRED / 18 NOT_ASSESSED; 12 historical verified R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle68 is assessment-only; no new PDF/artifact.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -140,9 +140,10 @@
     "6-1-1",
     "6-1-2",
     "6-1-3",
-    "6-1-4"
+    "6-1-4",
+    "6-1-5"
   ],
-  "last_readiness_update": "2026-10-28 Cycle67 Topic 6-1-4 assessment + actual GitHub artifact 12839271314 verified (1784 files, 75 original PDFs unchanged, links/CRC pass); academic R8 BLOCKED, approvals zero",
+  "last_readiness_update": "2026-10-29 Cycle68 Topic 6-1-5 directly assessed (30/30 core concepts under 300, M6 197 words, keys/distractors pending); original PDF unchanged; no new integrated PDF or Actions artifact; R8 BLOCKED, approvals zero.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -159,6 +160,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-1-5-cycle68-direct-depth-mcq-mains-and-archive-audit-2026-10-29.json",
     "project-control/academic-readiness/6-1-4-cycle67-actual-downloaded-post-assessment-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/6-1-4-cycle67-direct-source-legal-mcq-mains-and-archive-audit-2026-10-28.json",
     "project-control/academic-readiness/6-1-3-cycle66-actual-downloaded-final-artifact-qa-2026-10-28.json",
@@ -187,40 +189,6 @@
     "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json",
     "project-control/academic-readiness/5-1-3-cycle51-direct-artifact-depth-and-isro-source-correspondence-2026-10-28.json",
     "project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json",
-    "project-control/academic-readiness/5-1-1-cycle49-direct-artifact-and-bounded-primary-source-audit-2026-10-28.json",
-    "project-control/academic-readiness/4-3-4-cycle48-corrected-downloaded-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/4-3-4-cycle48-actual-downloaded-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json",
-    "project-control/academic-readiness/4-3-4-cycle48-quantitative-expansion-and-source-check-2026-10-28.json",
-    "project-control/academic-readiness/4-3-4-cycle47-first-direct-assessment-2026-10-28.json",
-    "project-control/academic-readiness/4-3-3-cycle47-actual-downloaded-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/4-3-3-cycle46-first-direct-assessment-2026-10-28.json",
-    "project-control/academic-readiness/4-3-2-cycle45-first-structural-and-source-audit-2026-10-28.json",
-    "project-control/academic-readiness/4-3-1-cycle45-actual-downloaded-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/4-3-1-cycle44-local-candidate-and-bounded-source-audit-2026-10-28.json",
-    "project-control/academic-readiness/4-2-5-cycle43-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/4-2-5-cycle43-first-downloaded-artifact-mismatch-and-ci-fix-2026-10-27.json",
-    "project-control/academic-readiness/4-2-5-cycle43-bounded-source-and-structural-audit-2026-10-27.json",
-    "project-control/academic-readiness/4-2-2-cycle41-first-source-and-objective-assessment-2026-10-27.json",
-    "project-control/academic-readiness/4-2-1-cycle41-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/4-2-1-cycle40-bounded-objective-and-local-candidate-audit-2026-10-27.json",
-    "project-control/academic-readiness/4-1-5-cycle39-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/4-1-5-cycle39-bounded-primary-source-and-structural-audit-2026-10-27.json",
-    "project-control/academic-readiness/4-1-4-cycle38-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/4-1-4-cycle38-primary-syllabus-and-budget-reconciliation-2026-10-27.json",
-    "project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json",
-    "project-control/academic-readiness/4-1-1-cycle35-final-r1-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/4-1-1-cycle35-official-notification-r1-syllabus-correspondence-2026-10-27.json",
-    "project-control/academic-readiness/4-1-1-cycle35-downloaded-github-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/4-1-1-cycle35-national-accounts-reconciliation-and-objective-audit-2026-10-27.json",
-    "project-control/academic-readiness/3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json",
-    "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/3-3-3-cycle33-render-qa.json",
-    "project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json",
-    "project-control/academic-readiness/3-3-1-cycle32-downloaded-artifact-qa-verified-2026-10-27.json",
-    "project-control/academic-readiness/3-3-1-and-3-3-2-cycle32-objective-and-source-audit-2026-10-27.json",
-    "project-control/academic-readiness/3-2-4-and-3-2-5-cycle31-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/3-2-4-and-3-2-5-cycle31-bounded-mains-and-objective-audit-2026-10-27.json"
+    "project-control/academic-readiness/5-1-1-cycle49-direct-artifact-and-bounded-primary-source-audit-2026-10-28.json"
   ]
 }
