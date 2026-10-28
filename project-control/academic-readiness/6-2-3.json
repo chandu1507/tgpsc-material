@@ -24,7 +24,7 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED_PENDING_CI_AND_ARTIFACT"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/6-2-3-cycle71-direct-source-depth-and-practice-audit-2026-10-29.json",
   "next_action": "Complete 30 shallow concepts, independently verify 30 keys and 90 distractors and six mains, reauthenticate original 2024 syllabus and 1983 ECI report, validate 3 diagrams, CI artifact, offline/browser QA.",
@@ -51,5 +51,12 @@
       240
     ],
     "full_page_per_concept_met": false
+  },
+  "publication_qa_evidence": "project-control/academic-readiness/6-2-3-cycle71-actual-downloaded-github-artifact-qa-2026-10-29.json",
+  "published_integrated_pdf": {
+    "path": "Paper 6/Unit 2 - Mobilisational Phase (1971–1990)/Topic 3/source/integrated-student-edition-cycle71.pdf",
+    "pages": 23,
+    "sha256": "497ff7394fcc8a0564061d883f515810476b126c5caa1b362959c12b812a80dd",
+    "independently_artifact_verified": true
   }
 }
