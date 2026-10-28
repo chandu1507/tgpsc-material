@@ -748,11 +748,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle63_partial_source_repair_pdf_pending",
-      "notes": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet.",
+      "production_review": "cycle63_integrated_26_page_ci_pdf_and_actual_artifact_verified_academic_audit_pending",
+      "notes": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet. Cycle63 CI rendered 26-page integrated PDF SHA256 3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747; final GitHub Actions artifact 12823195126 actually downloaded, outer/inner CRC PASS, 75 original PDFs unchanged, 447 local links and 1135 DOM fragments zero broken. Thirteen explanatory concepts remain below300; academic/browser checks outstanding.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-3-5.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/5-3-5-cycle63-direct-assessment-and-partial-repair-2026-10-28.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/5-3-5-cycle63-actual-downloaded-final-artifact-qa-2026-10-28.json"
     },
     {
       "id": "6-1-1",
