@@ -41,10 +41,17 @@
 - **[S20] WHO, Global antibiotic resistance surveillance report news** — 13 October 2025. https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide  
   Audit: Resistance surveillance and testing limits.
 
+- **[S21] WHO Eastern Mediterranean Regional Office, Dysentery topic page** — accessed 28 October 2026. https://www.emro.who.int/health-topics/dysentery/dysentery.html
+  Audit scope: supports the syndromic definition of bloody diarrhoea; does not establish a specific hostel outbreak source.
+- **[S22] US CDC, Preventing the Spread of *Candida auris*** — 1 October 2026; accessed 28 October 2026. https://www.cdc.gov/candida-auris/prevention/index.html
+  Audit scope: supports colonisation and environmental spread in healthcare settings; not a claim about local Telangana prevalence.
+- **[S23] US CDC, Risk Factors for Candidiasis** — 19 October 2026; accessed 28 October 2026. https://www.cdc.gov/candidiasis/risk-factors/
+  Audit scope: supports invasive-candidiasis risk factors, not individual diagnosis.
+
 ### Academic and source audit
 
 1. Original commission PDF opened and its Paper V Unit II item 4 directly matched on 24 October 2026. Syllabus text is quoted for navigation, not used as a claim of commission endorsement.
-2. WHO and NCDC pages above were reviewed as primary sources during this run; dated statistics retain their reference periods. No disease count is attributed to Telangana without an official district-level source.
+2. WHO and NCDC pages above were reviewed as primary sources during the original drafting run; this cycle independently checked only the bounded [S21]–[S23] propositions and selected WHO fact-sheet correspondences. Dated statistics retain their reference periods. No disease count is attributed to Telangana without an official district-level source.
 3. The IDSP 2026 web page is updated dynamically; figures in this draft use the 2025 completed year where explicitly stated. Recheck live figures before examination use.
 4. All 30 MCQs and six mains models are original practice. **Verified official PYQs: none included** because an original paper and question number were not authenticated.
 5. Case studies are clearly labelled hypothetical. No clinical dosing or self-treatment protocol is supplied.
