@@ -1,0 +1,108 @@
+{
+  "cycle": 74,
+  "date": "2026-10-29",
+  "topic_id": "6-3-1",
+  "baseline_main": "10fb45591252a587487d9b3765008ca419032c5b",
+  "topic_count": 75,
+  "original_topic_pdf_count": 75,
+  "status_before": "NOT_ASSESSED",
+  "status_after": "ASSESSED_REBUILD_REQUIRED",
+  "readiness_totals_after": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 56,
+    "NOT_ASSESSED": 12,
+    "fully_R1_to_R8_ready": 0,
+    "independent_academic_approvals": 0
+  },
+  "source_provenance": {
+    "archived_cycle73_publication": "TGPSC_CYCLE73_FINAL_POST_CONTROL_GITHUB_ARTIFACT.zip",
+    "original_pdf_sha256": "a84ba74ea6ab0c48598d65b246694bce1b74f23faa53a114e4e239a02c17846e",
+    "original_pdf_pages": 24,
+    "source_document": "Paper 6/Unit 3 - State Formation (1991–2014)/Topic 1/source/complete-notes.md"
+  },
+  "direct_findings": {
+    "numbered_core_explanatory_sections": 41,
+    "initial_sections_below_300": 41,
+    "sections_expanded": [
+      11,
+      24,
+      33
+    ],
+    "expanded_sections_whitespace_words": {
+      "11": 351,
+      "24": 340,
+      "33": 356
+    },
+    "remaining_sections_below_300": 38,
+    "original_practice_four_option_mcqs": 30,
+    "rewritten_mcqs": [
+      4,
+      11,
+      18
+    ],
+    "key_distribution": {
+      "A": 10,
+      "B": 18,
+      "C": 2,
+      "D": 0
+    },
+    "all_30_keys_independently_verified": false,
+    "all_90_distractors_independently_verified": false,
+    "mains_body_only_words": [
+      201,
+      209,
+      213,
+      203,
+      207,
+      203
+    ],
+    "all_mains_claims_independently_verified": false,
+    "existing_diagrams": 3,
+    "diagram_historical_accuracy_verified": false
+  },
+  "bounded_source_checks": [
+    {
+      "claim": "Bhuvanagiri 8–9 March 1997; Suryapet 11 April 1997",
+      "source": "University of Hyderabad thesis TH12608 indexed text",
+      "status": "INDEX_CORRESPONDENCE_ONLY_FULL_PDF_TIMED_OUT"
+    },
+    {
+      "claim": "Suryapet first Maha Sabha 11 August 1997",
+      "source": "RC Reddy 2024 exam key indexed text",
+      "status": "SECONDARY_CONFLICT_WITH_THESIS_NOT_ARCHIVALLY_RESOLVED"
+    },
+    {
+      "claim": "Article 3 parliamentary state-formation process and Article 4",
+      "source": "Government of India Legislative Department Constitution PDF 2025",
+      "status": "OFFICIAL_INDEXED_TEXT_CORRESPONDENCE"
+    }
+  ],
+  "unobtained_primary_sources": [
+    "1997 Suryapet original programme and minutes",
+    "1997 Bhuvanagiri original minutes",
+    "original Telangana Aikya Vedika minutes",
+    "signed Warangal Declaration",
+    "1997 BJP Kakinada resolution",
+    "direct 2024 commission syllabus PDF"
+  ],
+  "publication": {
+    "original_pdf_preserved": true,
+    "post_edit_integrated_ci_pdf_rendered": false,
+    "post_edit_github_actions_artifact_downloaded": false,
+    "offline_links_rechecked_post_edit": false,
+    "outer_inner_zip_crc_rechecked_post_edit": false,
+    "full_browser_accessibility_certified": false
+  },
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
+  },
+  "R9": "NOT_STARTED",
+  "warning": "Partial source-critical rebuild and assessment only. No academic certification or newly rendered synchronized PDF claimed."
+}
