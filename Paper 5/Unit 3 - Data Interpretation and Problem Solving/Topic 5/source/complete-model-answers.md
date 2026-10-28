@@ -12,7 +12,7 @@
 
 **Implementation.** A joint water-health team would inspect excavation records, isolate suspect segments when justified, preserve evidence, repair verified defects and issue local-language advisories with helplines and update times. Liability would follow a documented investigation and due process, not viral accusations.
 
-**Monitoring and conclusion.** Daily sample compliance, vulnerable-household coverage, time to restore safe service and repeat complaints would determine whether to maintain precautions. This phased approach combines urgency, fairness, technical evidence and public trust.
+**Monitoring and conclusion.** Daily sample compliance, vulnerable-household coverage, time to restore safe service and repeat complaints would determine whether to maintain precautions. This phased approach combines urgency, fairness, technical evidence and public trust. Public notices would distinguish preliminary results from confirmed laboratory findings, and any restriction would be reviewed at a stated interval by the competent health authority.
 
 ## Model answer 2. Emergency flood procurement and a conflict of interest
 
