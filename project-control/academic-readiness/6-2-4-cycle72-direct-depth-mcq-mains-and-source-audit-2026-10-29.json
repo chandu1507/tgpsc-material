@@ -1,0 +1,168 @@
+{
+  "cycle": 72,
+  "date": "2026-10-29",
+  "topic_id": "6-2-4",
+  "title": "Liberalisation, Regional Disparities, Madiga Dandora, Tudum Debba and Rural Crisis",
+  "source_commit": "b1309c02f223e366b497e21781f3fb50d54c1ec2",
+  "source_blob_sha": "ca0bed3428e3dd25d6ce0f0ba310946cdb8ac2cb",
+  "original_source_sha256": "7ffcea8d05db46019b4dfc8bc40613a9804a5d6b3bc1e68528f5e4b9ecb33591",
+  "original_pdf_sha256": "aaba8800eac52e538ad4ff9358eb2f8362430c94832315aa7f61d20bb6cff65b",
+  "original_pdf_pages": 24,
+  "methods": {
+    "concepts": "Extract 40 numbered ## sections, strip embedded diagram Markdown, count Unicode word tokens including apostrophe/hyphenated compounds as one; concept headings excluded",
+    "mains": "Count only answer body, exclude question and bold subsection labels, count Unicode word tokens; method is distinct from old printed counts",
+    "mcq": "Inspect separate original-practice.md: 30 Q headings, 4 lettered options, answer marker and explanation",
+    "archive": "Reopen actual downloaded Cycle71 GitHub Actions ZIP and inner ZIP, compare all 75 original PDFs against downloaded Cycle70, parse offline HTML links"
+  },
+  "concepts": 40,
+  "concept_word_counts": [
+    188,
+    176,
+    169,
+    170,
+    168,
+    164,
+    175,
+    160,
+    160,
+    171,
+    149,
+    159,
+    164,
+    152,
+    161,
+    168,
+    165,
+    160,
+    194,
+    167,
+    173,
+    171,
+    161,
+    154,
+    176,
+    170,
+    160,
+    161,
+    162,
+    167,
+    159,
+    168,
+    155,
+    160,
+    159,
+    156,
+    155,
+    168,
+    167,
+    172
+  ],
+  "concepts_under_300": 40,
+  "concepts_under_150": 1,
+  "concepts_over_300": 0,
+  "mcq": {
+    "count": 30,
+    "all_four_options_present": 30,
+    "explanations_present": 30,
+    "key_distribution": {
+      "A": 8,
+      "B": 7,
+      "C": 8,
+      "D": 7
+    },
+    "keys_independently_fact_checked": 0,
+    "distractors_independently_fact_checked": 0,
+    "examples_of_low_discrimination": [
+      "Q3 three distractors use implausible absolutes",
+      "Q17 distractors include district cricket results and Hyderabad apartments",
+      "Q25 contrasts a nuanced correct answer with categorical impossibilities"
+    ],
+    "official_pyqs_verified": 0
+  },
+  "mains": {
+    "count": 6,
+    "body_only_counts": [
+      208,
+      197,
+      209,
+      214,
+      212,
+      203
+    ],
+    "answers_below_200": [
+      2
+    ],
+    "claims_independently_verified": 0,
+    "issue": "Mains 2 is 197 body-only words, contradicting checkpoint claim all six 200-250"
+  },
+  "diagrams": {
+    "count": 3,
+    "paths": [
+      "diagrams/reform-distribution.png",
+      "diagrams/movement-legal-pathways.png",
+      "diagrams/agrarian-risk-chain.png"
+    ],
+    "historical_accuracy_verified": false
+  },
+  "source_register": {
+    "previously_documented_2024_syllabus_direct_open": "2025-10-25 provenance claim in existing master; not independently reauthenticated this cycle",
+    "verified_in_this_cycle": [
+      {
+        "source": "Supreme Court indexed 1 Aug 2024 Davinder Singh judgment",
+        "url": "https://www.api.sci.gov.in/supremecourt/2010/25536/25536_2010_1_1501_54462_Judgement_01-Aug-2024.pdf",
+        "access": "search index only; direct PDF returned 502"
+      },
+      {
+        "source": "Telangana G.O.Ms.No.10 14 Apr 2025 SC Rationalisation Rules",
+        "url": "https://www.knruhs.telangana.gov.in/uploads/20250716120025KNRUHS%20-%20MBBS%20BDS%20ADMISSIONS%20UNDER%20COMPETENT%20AUTHORITY%20QUOTA%20FOR%20THE%20AY%202025-26%20-%20RELEVANT%20GOs%20ON%20ADMISSIONS%20AND%20SC%20RATIONALIZATION%20OF%20RESERVATIONS%20GO.pdf",
+        "access": "indexed government text; direct PDF returned 404"
+      },
+      {
+        "source": "Ministry of Tribal Affairs PESA/Fifth Schedule compendium",
+        "url": "https://tribal.nic.in/downloads/Statistics/OtherReport/BhuriaReportFinal.pdf",
+        "access": "search index confirms Gram Sabha powers and consultation distinction; original PDF not page audited"
+      }
+    ],
+    "missing_primary": [
+      "1990s harmonised district investment and recruitment data",
+      "Original MRPS founding minutes",
+      "Original Tudum Debba founding register",
+      "Original 1990s farmer distress and artisan earnings series"
+    ]
+  },
+  "previous_actual_artifact_recheck": {
+    "archive_sha256": "4de4c1ca068dc87ee876073a32d1e55d8930833506d6c80608dc8bb15b4b0292",
+    "file_count": 1811,
+    "original_pdf_count": 75,
+    "original_pdf_hashes_unchanged_vs_cycle70": 75,
+    "readiness_json_count": 75,
+    "html_count": 78,
+    "relative_links_checked": 450,
+    "broken_relative_links": 0,
+    "dom_fragments_checked": 1050,
+    "broken_fragments": 0,
+    "spa_routes_excluded": 50,
+    "outer_inner_crc": "PASS",
+    "note": "Cycle71 downloaded archive independently rechecked, NOT a new Cycle72 Actions artifact"
+  },
+  "gate": {
+    "R1": "IN_PROGRESS",
+    "R2": "BLOCKED",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "academic_approved": false,
+  "independent_approvals": 0,
+  "next_actions": [
+    "Expand 40 concepts with distinct sourced analysis; full-page depth not met",
+    "Correct Mains 2 to 200-250 body-only words in BOTH editable source copies and regenerate PDF",
+    "Rewrite weak MCQ distractors; verify 30 keys and 90 distractors claim by claim",
+    "Reauthenticate syllabus and primary legal texts; verify all six mains, three diagrams and browser usability",
+    "Publish synchronized CI PDF and verify actual newly downloaded artifact before R8 can advance"
+  ]
+}
