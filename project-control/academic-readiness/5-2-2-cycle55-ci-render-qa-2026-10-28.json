@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-28",
+  "topic": "5-2-2",
+  "cycle": 55,
+  "original_pdf_sha256": "fb8424ad637d2513697ebe88b33a92d87489849e0d40cde9c972a5b50b128c38",
+  "original_preserved": true,
+  "integrated_pdf_sha256": "2b5efea32f730816ae6d3db43cd1ece84e784368976e834db44e34839516237d",
+  "integrated_pdf_pages": 27,
+  "pdf_images": 3,
+  "blank_pages": [],
+  "text_boundary_violations": [],
+  "concept_count": 17,
+  "min_concept_words": 307,
+  "original_mcqs": 30,
+  "correct_answers": {
+    "A": 7,
+    "B": 19,
+    "C": 4,
+    "D": 0
+  },
+  "distractors": 90,
+  "mains_body_only_counts": [
+    226,
+    230,
+    234,
+    231,
+    204,
+    227
+  ],
+  "mains_count_method": "regex word tokens after removing bold subheading labels; hyphenated tokens may differ from Cycle53 whitespace method",
+  "html_file_links_checked": 7,
+  "broken_files": [],
+  "html_fragment_links_checked": 0,
+  "broken_fragments": [],
+  "spa_routes_excluded": 0,
+  "source_checks": "five bounded official correct-key correspondences (Q7, Q11, Q17, Q26, Q27); remaining 25 keys and all distractors unverified",
+  "independent_academic_approvals": 0,
+  "R8": "BLOCKED_NOT_PASS",
+  "actual_downloaded_post_edit_artifact_qa": false,
+  "browser_accessibility_certified": false
+}
