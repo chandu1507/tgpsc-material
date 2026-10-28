@@ -24,11 +24,11 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle66: directly inspected original editable master and 75-topic publication ZIP; 24/24 numbered concepts now >=300 whitespace-delimited words after 24 distinct substantive additions; corrected original MCQ26 to 1958 rule 8-A Governor referral and synchronized original-practice. Source checks bounded to official indexed MHA 1958 Order/Gazette, 1956 proceedings and India Code 1956 Act; original full-resolution documents not directly inspected. Original 75 PDFs preserved. Syllabus reauthentication, all 30 keys/90 distractors, six mains claims, diagram correctness, one-full-page-per-concept, CI PDF, actual post-edit GitHub artifact and browser accessibility NOT PASS. Zero approvals.",
-  "next_action": "Render deterministic synchronized PDF via guarded CI; download actual GitHub artifact; verify 75 original PDF hashes, links/CRC and 6 mains; then finish R1-R8 academic/source/browser audits before independent named R9.",
+  "evidence": "Cycle66 actual GitHub artifact 12834867857 downloaded; ZIP CRC and SHA digest match, 1,782 files, all 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 452 local links and 1,050 DOM fragments zero broken; 30-page integrated PDF SHA bc730283b8d15eb593ec5b828e2887ccfb8dda2837e1d2d338cc985cbd8af8d2, 24/24 concepts >=300 words, six mains body-only 202/212/215/228/208/202 after M4 repair. R8 IN_PROGRESS, not PASS: full-page concept density, 30 keys/90 distractors, mains claims, diagrams, syllabus and browser accessibility not certified. Zero approvals.",
+  "next_action": "Continue systematic Topic 6-1-4 first assessment and rebuild backlog; Topic 6-1-3 R1-R8 independent verification and full-page density remain pending. R9 only after all R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
-  "latest_readiness_evidence": "project-control/academic-readiness/6-1-3-cycle66-source-depth-and-primary-document-audit-2026-10-28.json"
+  "latest_readiness_evidence": "project-control/academic-readiness/6-1-3-cycle66-actual-downloaded-final-artifact-qa-2026-10-28.json"
 }
