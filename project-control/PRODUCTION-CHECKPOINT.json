@@ -761,11 +761,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle64_1978_wrong_case_corrected_1972_legal_source_and_local_26_page_integrated_pdf_pending_actual_ci_artifact",
-      "notes": "Cycle64: preserved original 29-page PDF SHA256 add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94. Corrected false citation of 1978 Krishnamurthy tribunal-jurisdiction case as authority for Mulki residence; directly examined 3 Oct 1972 Venkata Reddy Supreme Court ruling, original Rule 1 alternatives, Rule 3 fifteen-year residence plus affidavit, 1950 birth/descent circular and 1951 continuous-residence circular. 23/23 concepts >=300; 30 original practice MCQs A5/B23/C2/D0; six mains body-only 202/249/204/237/224/217. Local deterministic integrated 26-page PDF SHA256 494f76e900ee4c0c54f072ecf51430ae5461df12763367aa7cf069cc7db5b3b6; actual GitHub CI artifact not yet verified. R1 PASS only; R2-R8 incomplete, independent approvals ZERO.",
+      "production_review": "cycle64_integrated_26_page_ci_pdf_and_actual_artifact_verified_academic_audit_pending",
+      "notes": "Cycle64: preserved original 29-page PDF SHA256 add44d9597ddd1d3b1581b1d4d2dff01912f08789f5736aa45d1d6bab45cae94. Corrected false citation of 1978 Krishnamurthy tribunal-jurisdiction case as authority for Mulki residence; directly examined 3 Oct 1972 Venkata Reddy Supreme Court ruling, original Rule 1 alternatives, Rule 3 fifteen-year residence plus affidavit, 1950 birth/descent circular and 1951 continuous-residence circular. 23/23 concepts >=300; 30 original practice MCQs A5/B23/C2/D0; six mains body-only 202/249/204/237/224/217. Local deterministic integrated 26-page PDF SHA256 494f76e900ee4c0c54f072ecf51430ae5461df12763367aa7cf069cc7db5b3b6; actual GitHub CI artifact not yet verified. R1 PASS only; R2-R8 incomplete, independent approvals ZERO. Final downloaded GitHub packaging run 40712394492 artifact 12825709439 SHA256 9f5ed4fa0db111f44db09df01bd249634d0bc7b9303b8fedf1f57ef5a7f303c9: outer/inner CRC PASS, 1766 files, 75 originals unchanged, 75 readiness records, 78 HTML, 449 file links and 1104 fragments zero broken. R8 IN_PROGRESS; academic/browser QA outstanding.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-1-1.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/6-1-1-cycle64-direct-legal-source-and-local-render-audit-2026-10-28.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/6-1-1-cycle64-actual-downloaded-artifact-qa-2026-10-28.json"
     },
     {
       "id": "6-1-2",
