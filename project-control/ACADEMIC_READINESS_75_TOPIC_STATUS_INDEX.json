@@ -132,7 +132,7 @@
     "5-2-3",
     "5-2-4"
   ],
-  "last_readiness_update": "Cycle57 Topic 5-2-4 local 24-page integrated candidate; source corrections committed; GitHub CI PDF and actual downloaded artifact QA pending; 7 IN_PROGRESS,39 ASSESSED_REBUILD_REQUIRED,29 NOT_ASSESSED; 10 R1 PASS; zero R1-R8 ready and zero approvals.",
+  "last_readiness_update": "Cycle57 Topic 5-2-4 actual downloaded GitHub artifact 12799943156 verified: 1714 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 441 local links and 1137 fragments zero broken, 57 SPA routes excluded; R8 IN_PROGRESS, zero fully ready or approved.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -147,6 +147,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json",
