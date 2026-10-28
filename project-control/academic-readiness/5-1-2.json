@@ -1,8 +1,8 @@
 {
   "topic_id": "5-1-2",
   "title": "National Policy of Science and Technology: Policy Evolution, Technology Missions, ICT, Robotics, Nanotechnology and Communication",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-28",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,53 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle50 direct core/MCQ/mains assessment: 16 concepts, seven below 300 words (2/3/4/5/13/15/16), 30 original 4-option practice MCQs {\"A\":12,\"B\":13,\"C\":3,\"D\":2}, six mains body-only 222/232/227/218/226/230, 5 bounded official DST key correspondences only (Q5/8/9/10/11). No full question/mains/diagram/browser audit, no revised PDF, no approval.",
+  "next_action": "Expand seven shallow concepts in ONE synchronized editable master; independently audit all 30 keys/90 distractors and six mains claims; verify official syllabus directly, diagrams, CI PDF and downloaded publication artifact.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "cycle50": {
+    "evidence": "project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json",
+    "concepts": 16,
+    "below300": [
+      2,
+      3,
+      4,
+      5,
+      13,
+      15,
+      16
+    ],
+    "mcqs": 30,
+    "keys": {
+      "A": 12,
+      "B": 13,
+      "C": 3,
+      "D": 2
+    },
+    "mains_body_counts": [
+      222,
+      232,
+      227,
+      218,
+      226,
+      230
+    ],
+    "bounded_primary_key_correspondence": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "independent_approval": false
+  }
 }
