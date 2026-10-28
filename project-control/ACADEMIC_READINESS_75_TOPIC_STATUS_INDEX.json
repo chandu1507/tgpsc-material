@@ -135,7 +135,7 @@
     "5-3-1",
     "5-3-2"
   ],
-  "last_readiness_update": "Cycle60 Topic 5-3-2: strict Simpson reversal and applied MCQ30 fixed; 18 concepts >=300; 30 keys and 90 distractors internally reviewed, six mains 220/220/207/218/223/228; original 22p PDF unchanged; local integrated 22p candidate, GitHub CI pending; 0 approvals.",
+  "last_readiness_update": "Cycle60 Topic 5-3-2 corrected and CI-published: actual post-CI artifact 12811390092 downloaded; 1732 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 444 local links and 1137 fragments zero broken, outer/inner CRC PASS, 18/18 topic manifest hashes PASS. 0 academic approvals.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -150,6 +150,7 @@
   ],
   "verified_R1_pass_count": 10,
   "recent_evidence": [
+    "project-control/academic-readiness/5-3-2-cycle60-actual-downloaded-post-ci-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
     "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-5-cycle58-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
