@@ -94,7 +94,7 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED",
+    "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
     "independent_academic_approvals": 0
   },
@@ -103,5 +103,14 @@
     "Bounded correct-answer proposition checks do not establish full distractor validity.",
     "Local PDF candidate not yet GitHub-rendered or independently browser-tested.",
     "No named independent academic expert review."
-  ]
+  ],
+  "ci_publication": {
+    "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
+    "pdf_sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41",
+    "pages": 26,
+    "images": 3,
+    "html_local_links_checked": 7,
+    "broken_links": 0,
+    "actual_post_edit_artifact_downloaded": false
+  }
 }
