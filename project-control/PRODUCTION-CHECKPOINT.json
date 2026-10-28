@@ -1020,10 +1020,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle59: Topic 5-3-1 30/30 keys and 90/90 distractors internally checked, 29 numeric assertions PASS, original PDF unchanged; all academic gates incomplete. Latest actual downloaded package remains Cycle58.",
+    "note": "Cycle59 reconciliation: assessed list exactly mirrors 41 IDs in status index, 7 IN_PROGRESS / 41 ASSESSED_REBUILD_REQUIRED / 27 NOT_ASSESSED. Last actually downloaded verified package remains Cycle58 run 40661518670 artifact 12804295980; Cycle59 new package not yet verified.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40635201034,
-    "last_verified_package_artifact": 12792749773,
+    "last_verified_package_run": 40661518670,
+    "last_verified_package_artifact": 12804295980,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1071,6 +1071,10 @@
       "5-1-4",
       "5-1-5",
       "5-2-1",
+      "5-2-2",
+      "5-2-3",
+      "5-2-4",
+      "5-2-5",
       "5-3-1"
     ]
   },
