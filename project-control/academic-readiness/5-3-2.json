@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
-  "next_action": "Merge guarded CI publication; independently download resulting GitHub artifact, verify all 75 originals, links/CRC/hash; claim-level mains and diagram review; direct official syllabus R1 and browser accessibility; named independent expert R9 only after R1–R8 PASS.",
+  "next_action": "Download actual post-CI GitHub packaging artifact and verify 75 original PDFs, all manifest hashes, links and ZIP CRC; then complete primary syllabus, mains claims, diagrams and browser QA. R9 only after R1–R8 and named independent reviewer.",
   "external_reviewer": null,
   "student_accepted": false,
   "R9": "NOT_STARTED",
@@ -49,7 +49,10 @@
     "original_pdf_sha256": "3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5",
     "local_integrated_pdf_pages": 22,
     "local_integrated_pdf_sha256": "8bcc78a6ca4b28b642483565ef9ef1e747312718a08f773324a87dd03491c9f2",
-    "github_ci_publication": "PENDING",
-    "independent_academic_approval": false
+    "github_ci_publication": "SUCCESS run 40676162427, commit 091be2c78d0656af5f13dde5f8123686ed269e1e",
+    "independent_academic_approval": false,
+    "ci_pdf_sha256": "8bcc78a6ca4b28b642483565ef9ef1e747312718a08f773324a87dd03491c9f2",
+    "ci_pdf_pages": 22,
+    "local_ci_sha_match": true
   }
 }
