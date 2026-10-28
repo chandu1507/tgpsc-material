@@ -13,7 +13,7 @@
   "not_assessed_count": 20,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS / 48 ASSESSED_REBUILD_REQUIRED / 20 NOT_ASSESSED; 12 historically verified R1 mappings; ZERO R1-R8 fully ready and ZERO independent approvals. Cycle66 Topic 6-1-3 editable master repaired; CI PDF and downloaded post-edit artifact NOT yet verified.",
+  "warning": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS / 48 ASSESSED_REBUILD_REQUIRED / 20 NOT_ASSESSED; 12 historically verified R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle66 Topic 6-1-3 integrated 30-page PDF and actual GitHub artifact CRC/SHA/75-topic integrity verified; R8 IN_PROGRESS pending academic/browser QA.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -141,7 +141,7 @@
     "6-1-2",
     "6-1-3"
   ],
-  "last_readiness_update": "2026-10-28 Cycle66 Topic 6-1-3 source-depth and 1958 rule 8-A evidence audit; publication pending",
+  "last_readiness_update": "2026-10-28 Cycle66 Topic 6-1-3 final actual downloaded GitHub artifact QA verified; R8 IN_PROGRESS",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -158,6 +158,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/6-1-3-cycle66-actual-downloaded-final-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/6-1-3-cycle66-source-depth-and-primary-document-audit-2026-10-28.json",
     "project-control/academic-readiness/6-1-1-cycle64-actual-downloaded-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/6-1-1-cycle64-direct-legal-source-and-local-render-audit-2026-10-28.json",

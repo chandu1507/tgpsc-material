@@ -786,11 +786,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle66_substantive_depth_repair_and_primary_source_audit_publication_pending",
-      "notes": "Original 75-topic publication PDF preserved (SHA256 c4068779bba807d7acb05ef6891353c75e4ffedaf08ed4eeff903c17283b3052); 24/24 distinct explanatory concepts now >=300 whitespace words in integrated editable master. 1958 Regional Committee Order and March 1958 Governor escalation source-indexed; original MCQ26 corrected and synchronized. Direct syllabus and full-document audit, all keys/distractors, six mains, diagrams, full-page density, new CI PDF and actual post-edit artifact QA NOT complete. Not approved.",
+      "production_review": "cycle66_30page_integrated_pdf_actual_github_artifact_qa_verified_independent_academic_audit_pending",
+      "notes": "Original 75-topic PDF SHA c4068779bba807d7acb05ef6891353c75e4ffedaf08ed4eeff903c17283b3052 preserved. Cycle66 24 distinct depth repairs, 30 MCQs (MCQ26 corrected to 1958 rule 8-A), six mains body-only 202/212/215/228/208/202, 30-page integrated PDF SHA bc730283b8d15eb593ec5b828e2887ccfb8dda2837e1d2d338cc985cbd8af8d2; actual downloaded artifact 12834867857 75 original PDF hashes unchanged, ZIP CRC/SHA and 452 local/1050 DOM links PASS. R8 IN_PROGRESS, not PASS. Full-page density and independent academic review pending; approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-1-3.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/6-1-3-cycle66-source-depth-and-primary-document-audit-2026-10-28.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/6-1-3-cycle66-actual-downloaded-final-artifact-qa-2026-10-28.json"
     },
     {
       "id": "6-1-4",
@@ -1124,5 +1124,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle66 Topic 6-1-3 assessed; 7 IN_PROGRESS, 48 ASSESSED_REBUILD_REQUIRED, 20 NOT_ASSESSED; zero approvals"
+  "latest_readiness_update": "Cycle66 Topic 6-1-3 synchronized 30-page PDF and actual artifact verified; 7/48/20; zero approvals"
 }
