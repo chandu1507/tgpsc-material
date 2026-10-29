@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle76 direct audit: 35 concepts, 3 source-checked expansions >=300 words, 32 still shallow; 30 original MCQs, 2 legal keys and 6 distractors checked, 28 keys and 84 distractors pending; six mains body-only counts 227/216/219/230/213/216, claims pending. Original 23-page PDF preserved. NO synchronized post-edit CI PDF/artifact. See project-control/academic-readiness/6-3-3-cycle76-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
-  "next_action": "Render synchronized PDF and offline HTML through CI, download actual packaging artifact and validate SHA/CRC/75 originals; deepen 32 shallow concepts, verify 28 remaining MCQ keys and 84 distractors and all six mains claims.",
+  "evidence": "Cycle76 direct audit: 35 concepts, 3 source-checked expansions >=300 words, 32 still shallow; 30 original MCQs, 2 legal keys and 6 distractors checked, 28 keys and 84 distractors pending; six mains body-only counts 227/216/219/230/213/216, claims pending. Original 23-page PDF preserved. NO synchronized post-edit CI PDF/artifact. See project-control/academic-readiness/6-3-3-cycle76-direct-depth-mcq-mains-and-source-audit-2026-10-29.json Cycle76 renderer Actions 40802945644 SUCCESS, packaging Actions 40802998255 SUCCESS; artifact 12866528612 ACTUALLY DOWNLOADED, CRC/SHA/75 original PDF/456 links/1050 fragments/15 manifest hashes PASS. 27-page integrated PDF SHA a7f9541f6427fb621a9ea69c9256a9194bd61f0eeaa12ca097eb5bd728bff7c6; R8 IN_PROGRESS, not PASS. Evidence project-control/academic-readiness/6-3-3-cycle76-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+  "next_action": "Expand remaining 32 concepts to full-page depth; independently verify 28 MCQ keys and 84 distractors, six mains claim sets, historical diagrams and browser accessibility; preserve 75 originals. R9 requires named expert after genuine R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false
 }
