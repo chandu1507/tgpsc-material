@@ -1,0 +1,13 @@
+{
+  "topic_id": "2-2-2",
+  "cycle": 85,
+  "academic_status": "NOT_APPROVED",
+  "original_pdf_sha256": "1c53597fbae9aaa794f6f3e2c5ca065e19eb38757941d8ce5d16462822b567b1",
+  "pdf_sha256": "87d360469979cbd5749c46a4eaec440ce0266f5f94afd692342f3dcc4153e865",
+  "pdf_pages": 38,
+  "files": {
+    "integrated-student-master-cycle85.md": "c5c363430e067c9640c062ab911ed52e6ab8e209ee8d90da409f4c9520b32893",
+    "integrated-student-edition-cycle85.pdf": "87d360469979cbd5749c46a4eaec440ce0266f5f94afd692342f3dcc4153e865",
+    "integrated-student-cycle85.html": "55f23322a405ce7e54cd36d4b410d62784be702b6b5911eadeaae544fd989fe4"
+  }
+}
