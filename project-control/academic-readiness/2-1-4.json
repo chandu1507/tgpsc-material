@@ -38,11 +38,11 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle82 source-critical integrated master: 19 concepts, 13 under 300 words; 8 of 30 MCQ keys and 24 of 90 distractors author source-correlated, six mains body-only lengths pass but claim audits incomplete; original commission 2024 syllabus PDF HTTP 403; R8 awaits CI PDF and actual downloaded artifact. project-control/academic-readiness/2-1-4-cycle82-direct-source-depth-mcq-mains-audit-2026-10-29.json",
-  "next_action": "Verify CI PDF and actual downloaded GitHub artifact, then deepen 13 shallow concepts, verify 22 remaining MCQ keys and 66 distractors, all mains claims, diagrams, live browser, official syllabus; independent expert only after R1-R8 PASS.",
+  "evidence": "Cycle82 source-critical integrated master: 19 concepts, 13 under 300 words; 8 of 30 MCQ keys and 24 of 90 distractors author source-correlated, six mains body-only lengths pass but claim audits incomplete; original commission 2024 syllabus PDF HTTP 403; R8 awaits CI PDF and actual downloaded artifact. project-control/academic-readiness/2-1-4-cycle82-direct-source-depth-mcq-mains-audit-2026-10-29.json CI renderer 40838650522 SUCCESS; packaging 40838792165 SUCCESS, artifact 12881029105 actually downloaded and independently verified (1905 files, 75 originals unchanged, 75 readiness JSON, 82 HTML, 499 file links/1050 fragments zero broken, outer/inner CRC PASS, digest MATCH). 25-page PDF SHA 0e3d90fb6179f3e94a4c5cc44573e6ebd41cb4ba04815912105f9bf7e5b02018. R8 IN_PROGRESS, not PASS. Evidence: project-control/academic-readiness/2-1-4-cycle82-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+  "next_action": "13 shallow concepts, 22 MCQ keys/66 distractors, six mains claim audits, 2024 official syllabus authentication, original diagrams, full-page depth and live browser QA. R9 only after full R1-R8 PASS and named independent expert.",
   "external_reviewer": null,
   "student_accepted": false,
-  "production_review": "cycle82_consolidated_source_critical_master_and_bounded_audit_ci_pending"
+  "production_review": "cycle82_ci_pdf_published_actual_artifact_downloaded_crc_sha_75topic_static_qa_pass_academic_rebuild_pending"
 }
