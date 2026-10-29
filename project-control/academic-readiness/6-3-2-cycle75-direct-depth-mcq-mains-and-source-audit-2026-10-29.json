@@ -1,0 +1,116 @@
+{
+  "cycle": 75,
+  "date": "2026-10-29",
+  "topic_id": "6-3-2",
+  "title": "Establishment of TRS, Electoral Realignment, Employment Committees and the 2009 Telangana Turning Point",
+  "base_main_before_topic_work": "c51a3ae2e3f3abe2f8130bd40455189d1cc8bb90",
+  "original_pdf": {
+    "pages": 27,
+    "sha256": "9188ab1d4092d564a3f2712353cc1d2d8c99a9114de5dff00eca07a55ecdea65",
+    "preserved": true
+  },
+  "direct_read": {
+    "explanatory_concepts": 47,
+    "initial_under_300": 47,
+    "expanded_sections": [
+      22,
+      30,
+      31
+    ],
+    "post_edit_under_300": 44,
+    "expanded_section_word_counts": {
+      "22": 374,
+      "30": 378,
+      "31": 393
+    },
+    "count_method": "Unicode word tokens in numbered explanatory section bodies; headings excluded"
+  },
+  "practice": {
+    "questions": 30,
+    "four_options_each": true,
+    "original_answer_distribution": {
+      "A": 30,
+      "B": 0,
+      "C": 0,
+      "D": 0
+    },
+    "post_permutation_answer_distribution": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "reordering_only": true,
+    "original_key_semantics_preserved": true,
+    "keys_independently_source_verified": 0,
+    "distractors_independently_verified": 0,
+    "unverified_keys": 30,
+    "unverified_distractors": 90,
+    "authentic_official_PYQs": 0
+  },
+  "mains": {
+    "answers": 6,
+    "body_only_word_counts": [
+      202,
+      208,
+      212,
+      213,
+      204,
+      206
+    ],
+    "old_declared_counts": [
+      200,
+      205,
+      208,
+      211,
+      200,
+      203
+    ],
+    "labels_corrected_in_both_sources": true,
+    "claim_level_independent_verification": false
+  },
+  "source_check": [
+    {
+      "source": "Election Commission of India statistical reports",
+      "url": "https://www.eci.gov.in/statistical-reports",
+      "access": "index directly opened; Andhra Pradesh 2009 Assembly constituency PDF not downloaded",
+      "conclusion": "statewide assembly totals remain provisional secondary figures"
+    },
+    {
+      "source": "Election Commission of India 2009 Lok Sabha state-party performance",
+      "url": "https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIsyRqfwDsMRwjg55m3U55yjlHajGO83WQ%2BnUj1iuR8%2FI7hZAwKYinrW9NRWyF5DKV71v01E%2BQDZgrN9kVasKh8g5Kndo6aDzVd7ZvbYRlcVl",
+      "access": "indexed official tabular extract",
+      "conclusion": "TRS two Lok Sabha seats in 2009; not the Assembly seat tally"
+    },
+    {
+      "source": "Government of India published Constitution",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "access": "official government-hosted constitutional text",
+      "conclusion": "Articles 3 and 4 distinguish presidential recommendation, state legislature views and parliamentary law"
+    }
+  ],
+  "pending": [
+    "44 shallow concepts",
+    "all 30 MCQ keys and 90 distractors require independent source review",
+    "six mains require claim-level review",
+    "original Girgliani annexures, G.O.610, party manifestos and signed December statements not retrieved",
+    "three diagrams not independently checked",
+    "2024 commission syllabus original PDF not directly reauthenticated",
+    "new synchronized integrated PDF not rendered",
+    "actual post-edit GitHub Actions artifact not yet downloaded",
+    "full browser/accessibility QA"
+  ],
+  "academic_gate": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "BLOCKED",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "note": "All MCQs are original practice, not authenticated official PYQs. Option permutation corrects answer-position bias, NOT factual validity."
+}

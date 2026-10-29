@@ -19,6 +19,10 @@
 | 1973–75 | [Constitution Article 371-D and 1975 Presidential Order legal context](https://www.indiacode.nic.in/) | Official legal portal for authoritative texts; exact Gazette image not independently retrieved |
 | 2014-03-01 | [Andhra Pradesh Reorganisation Act, 2014, retrospective endpoint](https://www.indiacode.nic.in/) | Official statutory portal; included only to distinguish 2009 announcement from eventual enactment |
 
+| 2026-10-29 | [ECI original statistical-report directory](https://www.eci.gov.in/statistical-reports) | Directly opened index; 2009 Andhra Pradesh Assembly constituency PDF not downloaded; Assembly totals remain secondary pending audit |
+| 2009 | [ECI 2009 Lok Sabha state-party performance](https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIsyRqfwDsMRwjg55m3U55yjlHajGO83WQ%2BnUj1iuR8%2FI7hZAwKYinrW9NRWyF5DKV71v01E%2BQDZgrN9kVasKh8g5Kndo6aDzVd7ZvbYRlcVl) | Directly indexed ECI table records two TRS Lok Sabha seats in Andhra Pradesh; NOT the Assembly seat tally |
+| 2025 published Constitution | [Government of India Constitution, Articles 3–4](https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf) | Government-hosted constitutional text used for legislative-versus-consultative distinctions; not evidence that 2009 announcement enacted statehood |
+
 ## Unresolved verification tasks
 
 - Obtain direct commission PDF rendering for Item 2, though its original indexed text matches the syllabus clause above.

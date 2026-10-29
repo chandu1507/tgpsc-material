@@ -897,9 +897,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original 11k+ word English manuscript, full PDF, 30 original MCQs, six complete mains answers, three diagrams; independent source/academic review pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle75_three_evidence_based_expansions_mains_counts_and_answer_position_bias_fixed_but_academic_rebuild_required",
+      "notes": "Original 27-page PDF SHA256 9188ab1d4092d564a3f2712353cc1d2d8c99a9114de5dff00eca07a55ecdea65 preserved; 47 concepts, 44 still under300 after 3 substantive expansions; 30 original practice MCQs rotated to A8/B8/C7/D7 but no independent key/distractor validation; six mains body-only 202/208/212/213/204/206; new integrated PDF and artifact pending; ZERO independent approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-3-2.json"
     },
     {
