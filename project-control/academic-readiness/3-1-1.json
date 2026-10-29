@@ -36,7 +36,7 @@
     "project-control/academic-readiness/3-1-1-turn24-final-package-and-svg-qa-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-render-qa.json"
   ],
-  "next_action": "After Cycle88 merge, observe deterministic CI renderer and packaging, download actual artifact, verify original 75 PDFs/75 readiness JSON, CRC/hash/link/fragment QA. Then complete remaining independent 25-MCQ/100-option and six-mains claim audits. No R1-R8 promotion without evidence.",
+  "next_action": "Complete independent claim-level checks of all 25 original practice MCQs and 100 distractors, all six mains and diagrams; improve full-page-per-concept layout and browser accessibility. R8 remains IN_PROGRESS despite passing actual archive integrity QA.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -272,6 +272,12 @@
     "gate_R6": "IN_PROGRESS",
     "gate_R8": "IN_PROGRESS",
     "gate_R9": "NOT_STARTED",
-    "post_merge_ci_pdf_qa": "PENDING"
+    "post_merge_ci_pdf_qa": "SUCCESS_AND_ACTUAL_DOWNLOADED_ARTIFACT_QA_PASS",
+    "renderer_run": 40886120133,
+    "packaging_run": 40886344949,
+    "actual_downloaded_artifact_id": 12902263744,
+    "integrated_pdf_sha256": "c557d49957cdd1fca6415ec8c5c1a02ebfee1564e5b2ee09dd879d21a0120313",
+    "artifact_sha256": "af24a78ffa234a1b6760f7f635fa8f49e26bcc0d81d72dfd315dc95e8c648108",
+    "qa_evidence": "project-control/academic-readiness/3-1-1-cycle88-actual-post-render-github-artifact-qa-2026-10-29.json"
   }
 }
