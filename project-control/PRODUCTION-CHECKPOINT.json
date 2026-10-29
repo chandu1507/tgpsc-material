@@ -68,8 +68,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle83_source_critical_integrated_master_ci_pending_rebuild_required",
-      "notes": "Original 15-page PDF SHA256 b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3 preserved. Cycle83 coherent 9.4k-word editable master: 23 concepts, five >=300 words, 18 shallow; 30 original practice MCQs mechanically rebalanced A8/B8/C7/D7, six bounded source correlations; six mains body-only counts 217/212/203/207/216/206, claim audits pending; original Cabinet Mission diagram; official 2024 syllabus direct reauthentication and CI/downloaded artifact QA pending. NOT approved.",
+      "production_review": "cycle83_ci_pdf_and_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Original 15-page PDF SHA256 b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3 preserved. Cycle83 coherent 9.4k-word editable master: 23 concepts, five >=300 words, 18 shallow; 30 original practice MCQs mechanically rebalanced A8/B8/C7/D7, six bounded source correlations; six mains body-only counts 217/212/203/207/216/206, claim audits pending; original Cabinet Mission diagram; official 2024 syllabus direct reauthentication and CI/downloaded artifact QA pending. NOT approved. Cycle83 renderer SUCCESS, 23-page PDF SHA 7bd02f56...; actual downloaded GitHub artifact 12884269106 SHA/CRC/75 originals/link QA PASS. R8 IN_PROGRESS not PASS; browser accessibility and academic verification pending.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-1-5.json"
     },
@@ -1024,10 +1024,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle83 Topic 2-1-5 assessed; 7/65/3, 18/23 concepts shallow, 24 MCQ keys/72 distractors and mains claims pending; CI publication and actual artifact QA pending, approvals ZERO.",
+    "note": "Cycle83 Topic 2-1-5 renderer 40846405116 SUCCESS: synchronized 23-page PDF SHA256 7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c. Packaging 40846501172 artifact 12884269106 ACTUALLY DOWNLOADED: 1920 files, 75 unchanged originals, 75 readiness JSON, 83 HTML, 558 local links and 1050 DOM fragments zero broken, ZIP CRC and GitHub digest PASS. 18/23 concepts shallow, 24 MCQ keys/72 distractors and six mains claim audits pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40838792165,
-    "last_verified_package_artifact": 12881029105,
+    "last_verified_package_run": 40846501172,
+    "last_verified_package_artifact": 12884269106,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1115,9 +1115,9 @@
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "2-1-5",
-    "evidence": "project-control/academic-readiness/2-1-5-cycle83-direct-source-depth-mcq-mains-audit-2026-10-29.json"
+    "evidence": "project-control/academic-readiness/2-1-5-cycle83-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
   },
-  "last_readiness_update": "Cycle83 2-1-5 direct source-critical assessment: 23 concepts/18 shallow; 30 original MCQs, six bounded source correlations; six mains body lengths pass, full claim audit pending; original PDF unchanged. R1/R8 pending, R9 NOT_STARTED, approvals ZERO.",
+  "last_readiness_update": "Cycle83 Topic 2-1-5 renderer 40846405116 SUCCESS: synchronized 23-page PDF SHA256 7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c. Packaging 40846501172 artifact 12884269106 ACTUALLY DOWNLOADED: 1920 files, 75 unchanged originals, 75 readiness JSON, 83 HTML, 558 local links and 1050 DOM fragments zero broken, ZIP CRC and GitHub digest PASS. 18/23 concepts shallow, 24 MCQ keys/72 distractors and six mains claim audits pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "last_readiness_reconciliation": "75 originals; 7 IN_PROGRESS / 65 ASSESSED_REBUILD_REQUIRED / 3 NOT_ASSESSED; 13 verified/historical R1 mappings; ZERO fully ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1147,5 +1147,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle83 2-1-5 direct source-critical assessment: 23 concepts/18 shallow; 30 original MCQs, six bounded source correlations; six mains body lengths pass, full claim audit pending; original PDF unchanged. R1/R8 pending, R9 NOT_STARTED, approvals ZERO."
+  "latest_readiness_update": "Cycle83 Topic 2-1-5 renderer 40846405116 SUCCESS: synchronized 23-page PDF SHA256 7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c. Packaging 40846501172 artifact 12884269106 ACTUALLY DOWNLOADED: 1920 files, 75 unchanged originals, 75 readiness JSON, 83 HTML, 558 local links and 1050 DOM fragments zero broken, ZIP CRC and GitHub digest PASS. 18/23 concepts shallow, 24 MCQ keys/72 distractors and six mains claim audits pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO."
 }

@@ -24,11 +24,11 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED_PENDING_CI_AND_DOWNLOADED_ARTIFACT",
+    "R8": "IN_PROGRESS_STATIC_ARTIFACT_QA_PASS_BROWSER_AND_DEPTH_PENDING",
     "R9": "NOT_STARTED"
   },
   "evidence": "Cycle83 5 source-critical essays (Gandhi–Irwin, Quit India, Poona Pact, Cabinet Mission, 1947 Act); original PDF SHA preserved; 23 concepts/18 shallow; 30 original MCQs with six bounded source correlations, all other questions pending; six mains lengths corrected but claim audits incomplete; no official PYQ or archival-original consultation asserted.",
-  "next_action": "Complete 18 shallow concepts, independently check 24 MCQ keys and 72 distractors and all mains claims; reauthenticate official 2024 syllabus; render deterministic CI PDF and verify actual downloaded artifact, browser accessibility, diagrams and 75 originals. No R9 without named independent expert.",
+  "next_action": "R8 static artifact integrity PASS but browser accessibility and full-page concept depth NOT certified. Expand 18 shallow concepts, independently verify 24 MCQ keys/72 distractors and six mains claim sets, reauthenticate official syllabus, inspect originals and diagrams. R9 requires named independent expert; approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle83": {
@@ -55,7 +55,9 @@
     "new_source_checked_diagram": 1,
     "originals_preserved": true,
     "independent_approvals": 0,
-    "ci_render": "PENDING",
-    "downloaded_post_ci_artifact_qa": "PENDING"
+    "ci_render": "SUCCESS_40846405116_23_PAGE_PDF_SHA_7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c",
+    "downloaded_post_ci_artifact_qa": "SUCCESS_40846501172_ARTIFACT_12884269106_SHA_CRC_75_ORIGINALS_LINKS_PASS",
+    "integrated_pdf_pages": 23,
+    "integrated_pdf_sha256": "7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c"
   }
 }
