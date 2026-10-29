@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-10-29 Cycle90 Topic 2-2-4 bounded first-party institutional MCQ correction; all statuses unchanged; approvals zero.",
+  "last_readiness_update": "2026-10-29 Cycle90 Topic 2-2-4 actual post-render artifact downloaded and independently verified; all 75 topics unchanged; approvals zero.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-2-4-cycle90-actual-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/2-2-4-cycle90-post-render-ci-observation-2026-10-29.json",
     "project-control/academic-readiness/2-2-4-cycle90-first-party-institutional-mcq-audit-2026-10-29.json",
     "project-control/academic-readiness/2-2-3-cycle86-actual-downloaded-github-artifact-qa-2026-10-29.json",

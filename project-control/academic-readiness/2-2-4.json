@@ -98,8 +98,8 @@
     },
     "R8": {
       "status": "IN_PROGRESS",
-      "evidence": "29-page searchable PDF rendered and published to GitHub; PDF SHA256 d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f; packaging workflow 40252354462 SUCCESS; downloaded artifact 12621337525 CRC PASS, 1420 unique files, 75 original topic PDFs and 75 readiness status files; 78 archived HTML pages and 454 local links with zero broken; original PDF SHA256 unchanged. Topic portal now links the integrated PDF and editable chapter (GitHub commit f1b258295f88b05d6643aa759fb7721781fdeb86); exact HTML blob independently compared; 78 offline HTML pages and 458 local references validated with zero broken links after patch; see project-control/academic-readiness/2-2-4-portal-link-qa.json. Post-link packaging run 40256084074 SUCCESS, actual artifact 12622277534 downloaded and verified: 1420 files, CRC PASS, 458 local links, zero broken, exact new HTML blob, original PDF preserved. Cycle90 renderer 40906495385 SUCCESS; 45-page PDF SHA256 63aac52667c7e157900d2d6b6fc3626520120faf257973226b926394296985d4; 7 local HTML links zero broken, original PDF preserved. Post-render GitHub packaging and actual downloaded artifact QA still pending.",
-      "blocker": "Cycle90 synchronized CI PDF and actual downloaded post-edit artifact QA pending; full browser accessibility not certified."
+      "evidence": "29-page searchable PDF rendered and published to GitHub; PDF SHA256 d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f; packaging workflow 40252354462 SUCCESS; downloaded artifact 12621337525 CRC PASS, 1420 unique files, 75 original topic PDFs and 75 readiness status files; 78 archived HTML pages and 454 local links with zero broken; original PDF SHA256 unchanged. Topic portal now links the integrated PDF and editable chapter (GitHub commit f1b258295f88b05d6643aa759fb7721781fdeb86); exact HTML blob independently compared; 78 offline HTML pages and 458 local references validated with zero broken links after patch; see project-control/academic-readiness/2-2-4-portal-link-qa.json. Post-link packaging run 40256084074 SUCCESS, actual artifact 12622277534 downloaded and verified: 1420 files, CRC PASS, 458 local links, zero broken, exact new HTML blob, original PDF preserved. Cycle90 renderer 40906495385 SUCCESS; 45-page PDF SHA256 63aac52667c7e157900d2d6b6fc3626520120faf257973226b926394296985d4; 7 local HTML links zero broken, original PDF preserved. Post-render GitHub packaging and actual downloaded artifact QA still pending. Actual post-render packaging run 40906772509 SUCCESS; artifact 12911378295 ACTUALLY DOWNLOADED, CRC/digest PASS, 1966 files, 75 original PDFs hash-unchanged, 75 readiness JSON, 87 HTML, 597 local links/1050 DOM fragments zero broken; 45-page PDF manifest SHA match.",
+      "blocker": "Full browser accessibility/usability and independent academic claim verification still incomplete; R8 remains IN_PROGRESS."
     }
   },
   "external_reviewer": null,
@@ -148,7 +148,7 @@
     "standalone_press_women_bank_distinct_from_integrated_bank": true,
     "renderer": "scripts/render_topic_2_2_4_cycle90.py",
     "pdf": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/integrated-student-edition-pilot-2026-10-26.pdf",
-    "actual_downloaded_post_edit_artifact_verified": false,
+    "actual_downloaded_post_edit_artifact_verified": true,
     "R4": "BLOCKED",
     "R5": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
@@ -158,6 +158,10 @@
     "renderer_conclusion": "SUCCESS",
     "pdf_pages": 45,
     "pdf_sha256": "63aac52667c7e157900d2d6b6fc3626520120faf257973226b926394296985d4",
-    "ci_html_links_checked": 7
+    "ci_html_links_checked": 7,
+    "downloaded_artifact_id": 12911378295,
+    "downloaded_packaging_run": 40906772509,
+    "downloaded_artifact_sha256": "85ab87143583bfb4cd2f4cd405bd39726eed93220ca75030ce886dc499053c1e",
+    "downloaded_artifact_qa": "project-control/academic-readiness/2-2-4-cycle90-actual-downloaded-github-artifact-qa-2026-10-29.json"
   }
 }
