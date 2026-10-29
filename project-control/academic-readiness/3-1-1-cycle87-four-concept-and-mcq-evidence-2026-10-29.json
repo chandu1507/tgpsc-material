@@ -110,7 +110,7 @@
     "No six-mains claim-level audit",
     "No original-work monograph consultation",
     "No visual/browser/accessibility certification",
-    "CI PDF publication and actual downloaded artifact QA must follow branch merge"
+    "Actual post-render packaging artifact not yet downloaded or independently QA-verified"
   ],
   "gates": {
     "R1": "PASS",
@@ -124,5 +124,14 @@
     "R9": "NOT_STARTED"
   },
   "independent_academic_approvals": 0,
-  "total_topics_guard": 75
+  "total_topics_guard": 75,
+  "ci_render": {
+    "run_id": 40876610821,
+    "conclusion": "success",
+    "commit": "da715b9297cdce8e05ed096d1f3f1561ed25c258",
+    "pdf_pages": 34,
+    "pdf_sha256": "bbafac0d369ef83e61eec4a656fd73d6633ebbf1793ec340fe5bcbb946d69612",
+    "all_pages_have_text": true,
+    "full_visual_or_accessibility_certified": false
+  }
 }
