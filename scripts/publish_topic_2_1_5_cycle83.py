@@ -40,7 +40,7 @@ assert len(re.findall(r'^## Question \d+:',md,re.M))==6
 for image in ['cabinet-mission-architecture-cycle83.svg','diagrams/agrarian-comparison.svg','diagrams/constitutional-choices.svg','diagrams/three-phase-and-social-movements.svg']:
  assert md.count(']('+image+')')==1 and (src/image).is_file(),image
 
-answers=(src/'six-structured-mains-answers-cycle83.md').read_text()
+answers=(src/'six-structured-mains-answers-cycle83.md').read_text().split('## Cycle83 source-audit limitations',1)[0]
 sections=re.split(r'(?m)^## Question [1-6]:',answers)[1:]
 assert len(sections)==6
 counts=[]
