@@ -33,9 +33,10 @@
     "project-control/academic-readiness/2-3-2-turn14-post-render-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json"
+    "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json",
+    "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Cycle93: 4/40 sections expanded with first-party methodology, 32/40 still under300 by whitespace count; independent R2-R7 claim, 25-key/100-option, six mains and diagrams audits remain. CI PDF and actual downloaded-artifact QA must be completed separately; R8 IN_PROGRESS; zero approvals.",
+  "next_action": "Cycle93 actual 31-page CI PDF and downloaded ZIP integrity verified; 32/40 concepts still under300, complete 25-key/100-option and six mains claim audit, diagrams, browser accessibility and independent academic review pending; R8 IN_PROGRESS; zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -141,10 +142,14 @@
       23
     ],
     "independent_key_and_option_audit_complete": false,
-    "ci_pdf_and_artifact_qa": "PENDING",
+    "ci_pdf_and_artifact_qa": "ACTUAL_DOWNLOADED_AND_VERIFIED",
     "R3": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "pdf_pages": 31,
+    "pdf_sha256": "01617c9e3f17d6ee5b54f1ad21e3a6f19907243ab03745f1babc2728134f938c",
+    "artifact_id": "GitHub Actions run 40936365470, artifact 12924997214, actual ZIP downloaded and independently inspected",
+    "post_render_qa": "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json"
   }
 }
