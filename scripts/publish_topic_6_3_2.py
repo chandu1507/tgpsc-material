@@ -29,7 +29,7 @@ concepts=[]
 for j,m in enumerate(heads):
     n=int(m.group(1))
     if 1<=n<=47:
-        end=heads[j+1].start() if j+1<len(heads) else len(md)
+        end=heads[j+1].start() if j+1<len(heads) else md.index('# Exam practice',m.end())
         body=md[m.end():end].strip()
         concepts.append({'section':n,'words':len(body.split())})
 assert len(concepts)==47 and [x['section'] for x in concepts]==list(range(1,48))
