@@ -1,10 +1,10 @@
 {
   "file": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.pdf",
-  "pages": 19,
-  "sha256": "bf22f30f015909be0b2499137ae141a32c055a5aac1e284c83b44c68a43d4aea",
+  "pages": 20,
+  "sha256": "fd902ce51828d7d84a4b40167154289509ea93d4636199d943510c37f03e35b3",
   "pdf_text_words": 8576,
   "page_text_lengths": [
-    2066,
+    2065,
     3664,
     4523,
     3552,
@@ -22,7 +22,8 @@
     4033,
     4040,
     634,
-    3280
+    2944,
+    402
   ],
   "pages_with_no_text": []
 }
