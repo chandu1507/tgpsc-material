@@ -1,0 +1,17 @@
+{
+  "topic_id": "2-1-1",
+  "cycle": 79,
+  "academic_status": "not_approved",
+  "original_pdf_sha256": "e2ff8daae5db64520648bedca60ed4658d8cd43980c447c8c9d2664293665009",
+  "integrated_pdf_sha256": "258f237461c8c2ae4c4e0be942bacbc07690f0831dedd39e380594481ae775b7",
+  "integrated_pdf_pages": 22,
+  "sha256": {
+    "integrated-student-master-cycle79.md": "374652e6d8bc7144caae8c0bcacced9cd162977ab1b5f1d2d6195e309b40e85f",
+    "integrated-student-edition-cycle79.pdf": "258f237461c8c2ae4c4e0be942bacbc07690f0831dedd39e380594481ae775b7",
+    "integrated-student-cycle79.html": "9fead1fac139045fa98ad75c9a3b7ce70bbfeea052d025cb0bf9873363d73558",
+    "references.md": "2cd362655274adc58eaac42309308c4ab56867eab3844302d0a93ff7e409f7f5",
+    "original-explained-mcqs-depth-repair.md": "b363b77fbd9bb2adc9b1f829504be1585893e3033afd10262205c8b95a4e88c5",
+    "structured-mains-answers-depth-repair.md": "9650475f27890146fcb844e42130198a2524db8190e1d7c585d5520e596e98fc"
+  },
+  "independent_approvals": 0
+}
