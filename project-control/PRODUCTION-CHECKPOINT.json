@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-3",
+    "last_reported_topic": "2-3-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle95: Topic 2-3-3 five substantive sections expanded (13→8/14 under300). 19-page CI PDF and actual artifact 12932148998 downloaded and independently SHA/CRC/75 originals/links checked. Post-evidence package pending. No R1–R8 completion, zero approvals."
+    "note": "Cycle96 four substantive sections expanded, 11→7/15 under300, three bounded author-side MCQ key checks and nine distractors; post-edit CI PDF and downloaded artifact pending, zero academic approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -178,8 +178,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "integrated_markdown_depth_expanded_ci_pdf_rendered_academic_gates_in_progress",
-      "notes": "27 Oct 2026: existing 2-3-4 editable integrated master expanded in place at irrigation/tanks/aquifers/SEZ concepts, direct official sources with scope caveats. CI render run 40382863495 SUCCESS; 19-page integrated PDF SHA256 0412885a569938b953318ede598a95d85ec794549144d3aa47fe1a0bbf69b467. Original 8-page PDF preserved. 11 of 15 original concepts still under 150 words; R1/R2/R3/R4/R5/R6/R8 IN_PROGRESS, R7 BLOCKED; no independent approval. Actual post-render artifact QA pending. Dedicated Topic4 renderer fixed incorrect Topic3 footer. Portal now links integrated PDF and Markdown, preserving original. R8 remains IN_PROGRESS. Actual final packaging artifact 12679083916 from run 40383038864 downloaded, outer/inner CRC PASS, 1499 files, 75 original topic PDFs, 75 readiness JSON, 78 HTML, 313 local file links zero broken. R8 remains IN_PROGRESS.",
+      "production_review": "cycle96_four_concepts_expanded_three_mcqs_bounded_source_checked_ci_pending",
+      "notes": "Cycle96: sections 1/2/3/14 expanded to 451/444/441/466 whitespace words; 7/15 shallow. Three original MCQ keys and nine distractors author-side checked against institutional evidence; not independently approved. Deterministic CI PDF and actual artifact verification pending. Original PDF must remain unchanged.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
       "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json"
@@ -1156,13 +1156,13 @@
   },
   "latest_readiness_update": "Cycle83 Topic 2-1-5 renderer 40846405116 SUCCESS: synchronized 23-page PDF SHA256 7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c. Packaging 40846501172 artifact 12884269106 ACTUALLY DOWNLOADED: 1920 files, 75 unchanged originals, 75 readiness JSON, 83 HTML, 558 local links and 1050 DOM fragments zero broken, ZIP CRC and GitHub digest PASS. 18/23 concepts shallow, 24 MCQ keys/72 distractors and six mains claim audits pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "latest_academic_cycle": {
-    "cycle": 93,
-    "topic_id": "2-3-2",
-    "evidence": "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json",
+    "cycle": 96,
+    "topic_id": "2-3-4",
+    "evidence": "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json",
     "editorial_state": "SOURCE_AND_MCQ_EDITS_PENDING_MERGE",
     "renderer_conclusion": "PENDING",
     "artifact_post_render_qa": "PENDING",
-    "whitespace_sections_below300": 32,
+    "whitespace_sections_below300": 7,
     "qualitative_R3": "IN_PROGRESS",
     "independent_approvals": 0
   }
