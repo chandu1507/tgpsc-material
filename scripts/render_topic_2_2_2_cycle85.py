@@ -113,11 +113,11 @@ def footer(canvas,doc):
     canvas.saveState();w,h=A4
     canvas.setStrokeColor(colors.HexColor('#C7D5DF'));canvas.line(42,38,w-42,38)
     canvas.setFont('Noto',7.1);canvas.setFillColor(navy)
-    canvas.drawString(42,26,'TGPSC Group I | Paper II Unit II Topic 1 | Cycle84 | NOT academically approved')
+    canvas.drawString(42,26,'TGPSC Group I | Paper II Unit II Topic 2 | Cycle85 | NOT academically approved')
     canvas.drawRightString(w-42,26,f'Page {doc.page}')
     canvas.restoreState()
 
-doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargin=45,bottomMargin=52,invariant=1,title="TGPSC Paper II Unit II Topic 1 - Cycle84 Integrated Student Edition",author="TGPSC Academic Readiness Production")
+doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargin=45,bottomMargin=52,invariant=1,title="TGPSC Paper II Unit II Topic 2 - Cycle85 Integrated Student Edition",author="TGPSC Academic Readiness Production")
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
