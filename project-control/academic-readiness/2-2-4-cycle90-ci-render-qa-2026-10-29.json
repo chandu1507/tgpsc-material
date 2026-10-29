@@ -1,0 +1,31 @@
+{
+  "cycle": 90,
+  "topic_id": "2-2-4",
+  "original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
+  "original_pdf_topics_preserved": 75,
+  "readiness_json_count": 75,
+  "integrated_pdf_pages": 45,
+  "integrated_pdf_sha256": "63aac52667c7e157900d2d6b6fc3626520120faf257973226b926394296985d4",
+  "blank_pdf_pages": [],
+  "out_of_bounds_pdf_pages": [],
+  "mcq_count": 30,
+  "revised_source_correlated_mcqs": [
+    6,
+    7,
+    8,
+    12,
+    13,
+    28
+  ],
+  "bounded_option_checks": 24,
+  "independent_mcq_audit_complete": false,
+  "mains_count": 6,
+  "mains_claim_audit_complete": false,
+  "html_local_links_checked": 7,
+  "broken_html_local_links": [],
+  "R4": "BLOCKED",
+  "R5": "IN_PROGRESS",
+  "R8": "IN_PROGRESS_PENDING_ACTUAL_DOWNLOADED_ARTIFACT",
+  "R9": "NOT_STARTED",
+  "academic_approvals": 0
+}

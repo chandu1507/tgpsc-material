@@ -1,0 +1,12 @@
+{
+  "topic_id": "2-2-4",
+  "cycle": 90,
+  "status": "NOT_APPROVED",
+  "original_pdf_sha256": "8ebfd5a08024a3dd729d326d5b1f53201fafc0de6bd86a3e194b583cd9a90ba1",
+  "files": {
+    "integrated-student-edition-pilot-2026-10-26.md": "9227825aa8c5271a28ce985b533b66819cd4930a01d68ba15ff44a697050f969",
+    "integrated-student-edition-pilot-2026-10-26.pdf": "63aac52667c7e157900d2d6b6fc3626520120faf257973226b926394296985d4",
+    "integrated-student-cycle90.html": "8ed45677d0387e092d7091ccad7fa2835cfc9371a5e375709338d9be56510f8f"
+  },
+  "pdf_pages": 45
+}
