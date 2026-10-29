@@ -1,6 +1,6 @@
 # TGPSC Group I — Paper II / Unit III / Topic 3: Integrated Telangana Physical Geography Student Edition
 
-**Status: WORKING INTEGRATED DRAFT — NOT academically ready or approved.** Legacy 15-page topic PDF is preserved separately. The official TGPSC syllabus mapping below is transcribed from repository source; original commission PDF retrieval in this run returned HTTP 403, so R1 is IN_PROGRESS.
+**Status: WORKING INTEGRATED DRAFT — NOT academically ready or approved.** Legacy 7-page topic PDF is preserved separately. The official TGPSC syllabus mapping below is transcribed from repository source; original commission PDF retrieval in this run returned HTTP 403, so R1 is IN_PROGRESS.
 
 ## Part A — Syllabus coverage (provisional until direct commission PDF recheck)
 
@@ -505,7 +505,7 @@ D. Total watershed expenditure and desilted cubic metres alone
 **Regional equity:** Industrial clusters can generate employment and transport links but may impose costs on nearby communities. Rehabilitation, air monitoring, water-quality testing and mine closure plans should be judged through measurable outcomes.
 
 **Conclusion:** Telangana's mineral endowment is an economic opportunity, not a guarantee of inclusive growth. Sound policy compares recoverable resources, actual production, electricity delivered and full environmental costs, while planning a gradual, reliable energy transition. [T3,T6,T8]
-## Part F — Claim-level source register (partial, 26 October 2026)
+## Part F — Claim-level source register (partial, updated 30 October 2026)
 
 | ID | Primary or institutional source | Claim actually checked; limitation |
 |---|---|---|
@@ -520,7 +520,6 @@ D. Total watershed expenditure and desilted cubic metres alone
 | T9 | [National Tiger Conservation Authority reserve notification collection](https://ntca.gov.in/reports/) | Amrabad and Kawal notifications are listed; separate notification-year, core and buffer area. |
 | T10 | [Central Water Commission, Godavari Water Disputes Tribunal Further Report](https://cwc.gov.in/sites/default/files/GWDTAward%20Further%20Report.pdf) | G-9 Pranhita sub-basin and Wardha–Wainganga confluence; historical legal basin definition, not a current river-flow measurement. |
 | T11 | [Forest Survey of India, ISFR 2019 Volume I, §1.3](https://fsi.nic.in/isfr2019/isfr-fsi-vol1.pdf) | Forest cover versus recorded forest area definitions; this is a definitional source, not 2026 Telangana area data. |
-
 | T12 | [WII, fifth-cycle Management Effectiveness Evaluation of Tiger Reserves, 2023](https://www.wii.gov.in/mee-reports) | Institutional report availability and assessment type/year checked; NOT a current tiger count or evidence of corridor occupancy. |
 | T13 | [SCCL official company history](https://scclmines.com/Scclnew/company_history.asp) | Separate 1871, 1886, 1920, 1945 and 1960 institutional milestones; retrospective history, not original mining-rights instrument. |
 | T14 | [SCCL official About Us](https://scclmines.com/scclnew/company_about-us.asp) | Current corporate ownership and district-level operating scope; not a geological reserve audit. |
