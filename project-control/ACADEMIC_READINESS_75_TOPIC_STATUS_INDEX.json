@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle95: exactly 75 originals, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED, 14 prior normalized R1 PASS, zero fully R1-R8 ready and zero approvals. Topic 2-3-3 sections 9-13 expanded, 13→8 of 14 concepts below300; CI PDF and actual artifact QA pending.",
+  "warning": "Cycle95: exactly 75 original topics/PDFs, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED, 14 normalized R1 PASS, 0 R1–R8 ready and 0 approvals. Topic 2-3-3 5 concepts expanded, 13→8 under300; 19-page CI PDF and actual artifact 12932148998 SHA/CRC/links verified. Post-evidence package pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
