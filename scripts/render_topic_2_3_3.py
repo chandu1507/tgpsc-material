@@ -82,7 +82,7 @@ while i<len(tokens):
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
     if tag=='h1' and inl.content.startswith('Telangana Physical Geography:'):story.append(PageBreak())
-    if tag=='h2' and re.match(r'^(?:[2-9]|1[0-4])\\. ',inl.content):story.append(PageBreak())
+    if tag=='h2' and re.match(r'^(?:[2-9]|1[0-4])\. ',inl.content):story.append(PageBreak())
     if tag=='h2' and ('Part D' in inl.content or 'Part F' in inl.content):story.append(PageBreak())
     story.append(Paragraph(val,styles[key]));i+=3;continue
  if t.type=='table_open':current_table=[];i+=1;continue
@@ -129,7 +129,7 @@ pdf=fitz.open(str(out))
 concept_start_pages={}
 for page_index,page in enumerate(pdf):
     for line in page.get_text().splitlines():
-        match=re.match(r'^(?:([1-9]|1[0-4]))\\. (?:Boundary question|Geological foundation|Relief and geomorphological|Climate:|Godavari basin|Krishna basin|Surface water|Soils and|Forest distribution|Coal:|Iron ore|Thermal power|Hydropower|Conservation priority)',line)
+        match=re.match(r'^(?:([1-9]|1[0-4]))\. (?:Boundary question|Geological foundation|Relief and geomorphological|Climate:|Godavari basin|Krishna basin|Surface water|Soils and|Forest distribution|Coal:|Iron ore|Thermal power|Hydropower|Conservation priority)',line)
         if match:concept_start_pages[int(match.group(1))]=page_index+1
 if len(concept_start_pages)!=14 or len(set(concept_start_pages.values()))!=14:
     raise RuntimeError(f'Concept-page isolation failed: {concept_start_pages}')
