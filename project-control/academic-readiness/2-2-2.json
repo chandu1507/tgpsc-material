@@ -24,14 +24,15 @@
     "R5": "IN_PROGRESS",
     "R6": "BLOCKED",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": [
     "project-control/academic-readiness/2-2-2-cycle85-source-critical-and-mcq-format-audit-2026-10-29.json",
     "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2/source/integrated-student-master-cycle85.md",
-    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2/source/TGPSC_P2_U2_T2_30_EXPLAINED_MCQS.md"
+    "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2/source/TGPSC_P2_U2_T2_30_EXPLAINED_MCQS.md",
+    "project-control/academic-readiness/2-2-2-cycle85-final-downloaded-github-artifact-qa-2026-10-29.json"
   ],
-  "next_action": "Render and verify synchronized Cycle85 PDF/HTML; independently audit 22 remaining MCQ keys/66 distractors and all six mains; deepen 16 shallow concepts; authenticate commission syllabus and original epigraphic editions; browser/accessibility QA; keep R9 NOT_STARTED.",
+  "next_action": "Continue substantive 16-concept depth rebuild and independent MCQ/mains claim audit. CI PDF and actual archive integrity passed; live browser/accessibility and academic gates remain incomplete. Next systematic NOT_ASSESSED topic 2-2-3; R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle85": {
@@ -59,10 +60,22 @@
     "svg_historical_accuracy_certified": false,
     "integrated_editable_master": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2/source/integrated-student-master-cycle85.md",
     "integrated_pdf": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2/source/integrated-student-edition-cycle85.pdf",
-    "ci_pdf_verified": false,
-    "downloaded_artifact_verified": false,
+    "ci_pdf_verified": true,
+    "downloaded_artifact_verified": true,
     "live_browser_qa": false,
     "official_syllabus_2024_directly_authenticated_this_cycle": false,
-    "independent_approval_count": 0
+    "independent_approval_count": 0,
+    "integrated_pdf_pages": 38,
+    "integrated_pdf_sha256": "2af214d1d70b60cfb4bb971c3edb283f9e40d3e6d4ef694471c4077144d41d84",
+    "mains_body_only_word_counts": [
+      209,
+      214,
+      218,
+      218,
+      211,
+      209
+    ],
+    "actual_github_artifact_id": 12892205946,
+    "actual_github_artifact_sha256": "be6a1c9d7d0065eb7843f2252dfce3c1b99895d4d283d175e06782cd646ab8d2"
   }
 }
