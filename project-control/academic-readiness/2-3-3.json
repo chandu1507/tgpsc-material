@@ -31,9 +31,10 @@
     "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-render-qa.json",
     "project-control/academic-readiness/2-3-3-turn18-downloaded-artifact-integrity-qa-2026-10-26.json",
-    "project-control/academic-readiness/2-3-3-cycle95-wii-sccl-ntpc-hydropower-depth-audit-2026-10-30.json"
+    "project-control/academic-readiness/2-3-3-cycle95-wii-sccl-ntpc-hydropower-depth-audit-2026-10-30.json",
+    "project-control/academic-readiness/2-3-3-cycle95-actual-downloaded-post-layout-fix-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Cycle95 five sections 9-13 expanded with WII/SCCL/NTPC/DOE source-limited correspondence; 14-section whitespace recount 13→8 under300. MCQs/mains unchanged. Post-merge CI PDF, actual downloaded artifact and full R1-R8 independent verification pending; no R9 or approval.",
+  "next_action": "Cycle95 five concepts expanded; 8/14 still below300. Post-layout renderer 40954194256 and actual downloaded packaging artifact 12932148998 SHA/CRC/75 originals/597 local links/1050 fragments PASS; 19-page PDF, no blank pages, source table visually sampled. Full MCQ/mains academic audit, R1 direct syllabus, browser accessibility and independent approval pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_source_gap": {
@@ -93,7 +94,10 @@
     "original_mcqs": 25,
     "original_mains": 6,
     "full_mcq_mains_claim_audit": false,
-    "ci_pdf_post_edit_verified": false,
-    "actual_artifact_downloaded": false
+    "ci_pdf_post_edit_verified": true,
+    "actual_artifact_downloaded": true,
+    "artifact_id": 12932148998,
+    "integrated_pdf_sha256": "044a16bbe886299d49e540b9bfdf02d96f20e4fb0e45d4e5927811967dba2079",
+    "artifact_qa_evidence": "project-control/academic-readiness/2-3-3-cycle95-actual-downloaded-post-layout-fix-artifact-qa-2026-10-30.json"
   }
 }
