@@ -40,14 +40,6 @@ D. The original Qutb Minar construction
 
 **Answer: C.** UNESCO explicitly dates the Alai Darwaza to 1311; the other components belong to earlier phases. Source: https://whc.unesco.org/en/list/233. **Bounded check:** all four alternatives compared against the site chronology.
 
-
-A. 1192
-B. 1311
-C. 1565
-D. 1591
-
-**Answer: B.** UNESCO identifies Alai Darwaza in the Qutb complex as built in 1311.
-
 ### Q6. The reuse of temple materials at the Qutb complex shows:
 A. Every monument shared identical construction history
 B. Material reuse in a documented specific setting
@@ -144,14 +136,6 @@ D. The axial streets around Hyderabad's Charminar
 
 **Answer: B.** UNESCO places Ramappa in relation to Ramappa Cheruvu; the alternatives refer to different sites. Sources: https://whc.unesco.org/en/list/1570 and the Hampi, Qutb and Hyderabad entries. **Bounded check:** four alternatives compared by site.
 
-
-A. Fatehpur Sikri
-B. Ramappa Temple
-C. Qutb Minar
-D. Taj Mahal
-
-**Answer: B.** Ramappa's sculpture and water-linked landscape are documented by UNESCO.
-
 ### Q18. Which of the following heritage-status statements is correct?
 A. Hampi was first inscribed on the World Heritage List in 2021
 B. Ramappa Temple was inscribed on the World Heritage List in 2021
@@ -159,14 +143,6 @@ C. Qutb Minar and its Monuments were first inscribed in 2021
 D. The Hyderabad Qutb Shahi ensemble was inscribed in 2021
 
 **Answer: B.** Ramappa: 2021; Hampi: 1986; Qutb complex: 1993; Hyderabad ensemble: 2010 Tentative List submission, not inscription. Sources: https://whc.unesco.org/en/list/1570, https://whc.unesco.org/en/list/241, https://whc.unesco.org/en/list/233 and https://whc.unesco.org/en/tentativelists/5573/. **Bounded check:** all four status claims compared against institutional records.
-
-
-A. 1986
-B. 1993
-C. 2010
-D. 2021
-
-**Answer: D.** The temple was inscribed in 2021; 2010 refers to a different Hyderabad tentative listing.
 
 ### Q19. Which capital–polity pairing is established by UNESCO's Hampi description?
 A. Hampi — Bahmani Sultanate
@@ -176,14 +152,6 @@ D. Hampi — Delhi Sultanate
 
 **Answer: B.** UNESCO identifies Hampi as the former capital of Vijayanagara, rather than a capital of the other named polities. Source: https://whc.unesco.org/en/list/241. **Bounded check:** all alternatives assessed against the identified capital.
 
-
-A. Vijayanagara
-B. Lodi Delhi
-C. Asaf Jahi Hyderabad
-D. Mauryan Pataliputra
-
-**Answer: A.** Hampi was a major Vijayanagara capital with extensive urban and sacred remains.
-
 ### Q20. Which year does UNESCO connect with the Battle of Talikota and extensive damage to Hampi's urban fabric?
 A. 1311
 B. 1526
@@ -191,14 +159,6 @@ C. 1565
 D. 1687
 
 **Answer: C.** UNESCO links the battle and destruction of Hampi to 1565; the other dates are not the event year. Source: https://whc.unesco.org/en/list/241. **Bounded check:** all four year alternatives assessed against the UNESCO chronology.
-
-
-A. 1206
-B. 1311
-C. 1565
-D. 1757
-
-**Answer: C.** 1565 marks the major battle and subsequent damage to the Vijayanagara capital.
 
 ### Q21. Which work is associated with Krishna Deva Raya?
 A. Amuktamalyada
@@ -239,14 +199,6 @@ C. It is included in India's 2010 Qutb Shahi Tentative List submission and is as
 D. It was inscribed on the World Heritage List with Ramappa in 2021
 
 **Answer: C.** India's 2010 tentative-list submission identifies Charminar with Hyderabad's foundation in 1591; tentative listing is not inscription. Other years correspond to Hampi (1986), Qutb (1993) and Ramappa (2021). Sources: https://whc.unesco.org/en/tentativelists/5573/, https://whc.unesco.org/en/list/241, https://whc.unesco.org/en/list/233 and https://whc.unesco.org/en/list/1570. **Bounded check:** four options checked against site status and chronology.
-
-
-A. It was built in 1206
-B. It is a UNESCO inscribed site since 1986
-C. It dates to 1591 and is in a 2010 tentative-list ensemble
-D. It is located in Delhi
-
-**Answer: C.** UNESCO tentative-list documentation dates Charminar to 1591; tentative status is not inscription.
 
 ### Q26. Which period best identifies Qutb Shahi rule in Golconda/Hyderabad?
 A. 1518–1687
