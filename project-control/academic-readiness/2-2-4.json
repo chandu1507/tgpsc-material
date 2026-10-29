@@ -83,7 +83,7 @@
     },
     "R5": {
       "status": "IN_PROGRESS",
-      "evidence": "30 original 4-option explained syllabus-oriented MCQs; 19 distractor sets revised to plausible alternatives; all keys and option counts mechanically checked.",
+      "evidence": "30 original 4-option explained syllabus-oriented MCQs; 19 distractor sets revised to plausible alternatives; all keys and option counts mechanically checked. Cycle90 six integrated questions (6/7/8/12/13/28) corrected against two directly viewed first-party institutional chronologies; 24 bounded option checks; NOT independent validation of all 30.",
       "blocker": "Question-level independent factual and distractor review; official PYQ provenance not asserted."
     },
     "R6": {
@@ -99,7 +99,7 @@
     "R8": {
       "status": "IN_PROGRESS",
       "evidence": "29-page searchable PDF rendered and published to GitHub; PDF SHA256 d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f; packaging workflow 40252354462 SUCCESS; downloaded artifact 12621337525 CRC PASS, 1420 unique files, 75 original topic PDFs and 75 readiness status files; 78 archived HTML pages and 454 local links with zero broken; original PDF SHA256 unchanged. Topic portal now links the integrated PDF and editable chapter (GitHub commit f1b258295f88b05d6643aa759fb7721781fdeb86); exact HTML blob independently compared; 78 offline HTML pages and 458 local references validated with zero broken links after patch; see project-control/academic-readiness/2-2-4-portal-link-qa.json. Post-link packaging run 40256084074 SUCCESS, actual artifact 12622277534 downloaded and verified: 1420 files, CRC PASS, 458 local links, zero broken, exact new HTML blob, original PDF preserved.",
-      "blocker": "Live public Pages browser rendering and student usability review still outstanding; final complete edition awaits R1–R7 closure."
+      "blocker": "Cycle90 synchronized CI PDF and actual downloaded post-edit artifact QA pending; full browser accessibility not certified."
     }
   },
   "external_reviewer": null,
@@ -125,5 +125,34 @@
     "portal_link_artifact_sha256": "ed89d81e6615b54facf0044f5215111149bc391c5f6defcbc02c315b71b8fe3c"
   },
   "legacy_status_detail": "READINESS_IN_PROGRESS",
-  "status_enum_reconciled_date": "2026-10-27"
+  "status_enum_reconciled_date": "2026-10-27",
+  "cycle90_2026_10_29": {
+    "status": "BOUNDED_FIRST_PARTY_CHRONOLOGY_MCQ_REPAIR_NOT_APPROVED",
+    "evidence": "project-control/academic-readiness/2-2-4-cycle90-first-party-institutional-mcq-audit-2026-10-29.json",
+    "revised_integrated_mcqs": [
+      6,
+      7,
+      8,
+      12,
+      13,
+      28
+    ],
+    "option_level_bounded_checks": 24,
+    "direct_first_party_sources": [
+      "https://www.saraswathaparishath.com/english/about_us.html",
+      "https://www.andhramahila.com/history.html"
+    ],
+    "original_minutes_consulted": false,
+    "independent_academic_review": false,
+    "integrated_master": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/integrated-student-edition-pilot-2026-10-26.md",
+    "standalone_press_women_bank_distinct_from_integrated_bank": true,
+    "renderer": "scripts/render_topic_2_2_4_cycle90.py",
+    "pdf": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/integrated-student-edition-pilot-2026-10-26.pdf",
+    "actual_downloaded_post_edit_artifact_verified": false,
+    "R4": "BLOCKED",
+    "R5": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  }
 }

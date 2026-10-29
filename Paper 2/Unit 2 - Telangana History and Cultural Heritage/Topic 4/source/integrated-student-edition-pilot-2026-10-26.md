@@ -536,32 +536,32 @@ D. Durgabai’s children’s club
 
 **Answer: B.** Histories identify 1944 Bhuvanagiri with divergence between moderate and radical strands.
 
-### MCQ 6. According to its own history, Nizam Rashtra Andhra Saraswatha Parishath began on:
+### MCQ 6. Which date does the continuing Parishath identify as the founding of its predecessor, Nizam Rashtra Andhra Saraswatha Parishath?
 
-A. 26 May 1943
-B. 1 June 1930
-C. 15 August 1947
-D. 21 August 2015
+A. 26 May 1943 — the Reddy Hostel library-hall founding meeting
+B. 1 June 1943 — the first Parishath Mahasabha at Hyderabad
+C. 29–30 December 1944 — the second Mahasabha at Warangal
+D. 21 August 2015 — the later Telangana Saraswatha Parishath name took effect
 
-**Answer: A.** The continuing institution dates its predecessor’s founding to 26 May 1943.
+**Answer: A.** The institutional history distinguishes the 26 May 1943 founding meeting from the first Mahasabha on 1 June 1943, Warangal's second conference in 1944, and the 2015 renaming. All four dates are real milestones but only A answers the founding question. **Source:** Telangana Saraswatha Parishath, *About TSP*, Origin/Mahasabhas (institutional retrospective, not original 1943 minutes). **Type:** original practice, not official PYQ.
 
-### MCQ 7. The first recorded Parishath Mahasabha was held in:
+### MCQ 7. Which event does the Parishath itself list as its first Mahasabha, rather than its founding meeting or a later conference?
 
-A. Jogipet in 1930
-B. Hyderabad in June 1943
-C. Bhuvanagiri in 1944
-D. Madras in 1938
+A. Hyderabad, 26 May 1943 — predecessor's founding meeting
+B. Hyderabad, 1 June 1943 — first Parishath Mahasabha
+C. Warangal, 29–30 December 1944 — second Parishath Mahasabha
+D. Nalgonda, 15–17 March 1946 — third Parishath Mahasabha
 
-**Answer: B.** The Parishath records Hyderabad on 1 June 1943, distinct from the earlier Andhra Mahasabha.
+**Answer: B.** The Parishath's own conference sequence gives Hyderabad on 1 June 1943 as the first Mahasabha; A is a separate founding event, while C and D are the second and third. This does not refer to the different Andhra Mahasabha whose landmark Jogipet conference was in 1930. **Source:** Telangana Saraswatha Parishath, *About TSP*, Origin/Mahasabhas (retrospective, original proceedings not consulted). **Type:** original practice.
 
-### MCQ 8. The institution now known as Telangana Saraswatha Parishath adopted that name with effect from:
+### MCQ 8. When did the Parishath's own history say its renaming as Telangana Saraswatha Parishath took effect?
 
-A. 1901
-B. 1930
-C. 1948
-D. 21 August 2015
+A. 2 June 2014 — formation of Telangana State
+B. 26 May 1943 — predecessor's founding
+C. 1 June 1943 — predecessor's first Mahasabha
+D. 21 August 2015 — the institutional name-change effective date
 
-**Answer: D.** Its official history records the renaming date as 21 August 2015.
+**Answer: D.** State formation (A) and the predecessor's 1943 founding and conference (B, C) are distinct from the institution's reported effective renaming date. **Source:** Telangana Saraswatha Parishath, *About TSP*, opening paragraph/Origin (institutional retrospective). **Type:** original practice.
 
 ### MCQ 9. The Telugu periodical Golconda Patrika is particularly associated with:
 
@@ -590,23 +590,23 @@ D. Vedic reform and religious reconversion
 
 **Answer: A.** Its constitutional programme concerned accountable government and public freedoms.
 
-### MCQ 12. Which of the following was formally constituted in Madras in 1938?
+### MCQ 12. Which event is identified as occurring in 1938 by Andhra Mahila Sabha's own Chennai institutional chronology?
 
-A. Nizam Rashtra Andhra Jana Sangham
-B. Andhra Mahila Sabha associated with Durgabai Deshmukh
-C. Andhra Saraswatha Parishath
-D. Hyderabad State Congress
+A. The 'Little Ladies of Brindavan' children's club was established in 1937.
+B. Durgabai Deshmukh's Andhra Mahila Sabha was formally constituted.
+C. Nizam Rashtra Andhra Saraswatha Parishath was founded in Hyderabad.
+D. The Parishath's name changed to Telangana Saraswatha Parishath.
 
-**Answer: B.** The Madras-origin organisation’s own history records formal constitution in 1938.
+**Answer: B.** The Sabha's official Chennai timeline distinguishes the 1937 children's club from the formal 1938 constitution. C refers to a different organisation founded in 1943, and D to the 2015 renaming. A is true but describes 1937, not 1938. **Source:** Andhra Mahila Sabha, *History*, Chennai entries 1937 and 1938; Telangana Saraswatha Parishath, *About TSP*. Institutional histories are not founding minutes. **Type:** original practice.
 
-### MCQ 13. The 1937 precursor to Durgabai’s Andhra Mahila Sabha was a:
+### MCQ 13. What was the 1937 predecessor initiative named in Andhra Mahila Sabha's institutional history?
 
-A. Children’s club
-B. Women’s legislative council
-C. Hyderabad women’s conference
-D. Adult literacy training camp
+A. The children's club 'Little Ladies of Brindavan' in Brindavan Gardens
+B. The Sabha's formal constitution, which its history dates to 1938
+C. The Parishath's 1943 founding at the Reddy Hostel library hall
+D. The Parishath's 1950 adult-education training camp in Hyderabad
 
-**Answer: A.** Its institutional history records the Little Ladies of Brindavan children’s club in 1937.
+**Answer: A.** The Sabha dates its children's club to 1937 and its formal constitution to 1938; C and D belong to a separate Hyderabad literary institution. The 1937 club is a precursor, not evidence that the Sabha was formally constituted that year. **Sources:** Andhra Mahila Sabha, *History*; Telangana Saraswatha Parishath, *About TSP*. **Type:** original practice.
 
 ### MCQ 14. Which of the following is a historical error?
 
@@ -734,14 +734,14 @@ D. The founding charter named its organisers
 
 **Answer: C.** Founding a library does not demonstrate universal or measurable educational outcomes.
 
-### MCQ 28. The 1943 Parishath founding account identifies its meeting place as:
+### MCQ 28. Where does the continuing Parishath's institutional history locate the 26 May 1943 founding meeting of its predecessor?
 
-A. Reddy Hostel library hall in Hyderabad
-B. Viveka Vardhini College in Hyderabad
-C. Sri Krishnadevaraya Andhra Bhasha Nilayam
-D. Osmania University campus
+A. The library hall of Reddy Hostel, Hyderabad
+B. Hyderabad's venue for the first Parishath Mahasabha on 1 June 1943
+C. Warangal, venue for the second Parishath Mahasabha in December 1944
+D. Nalgonda, venue for the third Parishath Mahasabha in March 1946
 
-**Answer: A.** The Parishath’s own institutional history names the Reddy Hostel library hall.
+**Answer: A.** The retrospective explicitly identifies Reddy Hostel's library hall for the founding meeting. B refers to a different meeting in Hyderabad without an independently established room; C and D are later conferences in other cities. Do not infer the first Mahasabha was also held in the same library hall. **Source:** Telangana Saraswatha Parishath, *About TSP*, Origin/Mahasabhas; founding minutes not consulted. **Type:** original practice.
 
 ### MCQ 29. Which pair is correctly distinguished?
 

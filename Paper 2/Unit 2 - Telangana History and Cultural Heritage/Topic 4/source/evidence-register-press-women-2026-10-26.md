@@ -76,3 +76,18 @@
 
 ## Outstanding archival verification
 Original 1930/1944 Andhra Mahasabha proceedings; original Hyderabad State Congress prohibition/revocation orders; Osmania University 1938 suspension register; first surviving Golconda Patrika issue; original Andhra Mahila Sabha Hyderabad women-conference proceedings; Bhagya Reddy Varma school registers and organisational minutes; original Gasti Nishan order. None is certified as obtained.
+
+
+## Cycle90 direct first-party institutional chronology check — 29 October 2026
+
+**Scope:** Corrected integrated-master original-practice MCQs **6, 7, 8, 12, 13 and 28**, each with four plausible event/date alternatives. Checked the *live first-party institutional history pages* listed below; these are institutional retrospectives, **not contemporaneous minutes or independent scholarly confirmation**.
+
+- **P01:** https://www.saraswathaparishath.com/english/about_us.html — Origin: founding at Reddy Hostel library hall, Hyderabad, **26 May 1943**, under the name Nizam Rashtra Andhra Saraswatha Parishath. Applies to MCQs 6 and 28.
+- **P02:** Same Parishath history — Mahasabhas: **first Hyderabad 1 June 1943; second Warangal 29–30 December 1944; third Nalgonda 15–17 March 1946**. Applies to MCQ 7 and alternatives in 6/28.
+- **P03:** Same Parishath history — renaming to Telangana Saraswatha Parishath effective **21 August 2015**, distinct from Telangana State formation on 2 June 2014. Applies to MCQ 8.
+- **P04:** https://www.andhramahila.com/history.html — Chennai chronology: **1937 'Little Ladies of Brindavan' children's club; 1938 Andhra Mahila Sabha formally constituted**. Applies to MCQs 12 and 13.
+- **P05:** The Parishath history also reports a **15–30 June 1950** adult-education camp, but it does not independently establish attendance or literacy outcomes. Used only as a dated alternative in MCQ 13.
+
+**Editorial finding:** These six questions had weakly discriminating or historically unrelated distractors. The replacement alternatives deliberately use genuine neighbouring events, and explanations distinguish **founding / first conference / later conference / renaming / precursor club / formal constitution**. The correct answers remain A/B/D/B/A/A respectively; all 24 options have bounded first-party source correlations. The *integrated* 30-question bank is authoritative for this edition. The separate 30-question press-and-women supplement is a distinct earlier practice set and is **not** claimed to match the integrated 30 questions.
+
+**Not established:** Original 1943/1938 minutes, exact contemporary legal incorporation, independent expert review, official TGPSC PYQ status, the accuracy of the remaining 24 integrated MCQs or all six mains answers. **R4/R5 remain IN_PROGRESS/BLOCKED; R8 remains IN_PROGRESS; academic approvals ZERO.**

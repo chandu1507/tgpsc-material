@@ -1,0 +1,71 @@
+{
+  "cycle": 90,
+  "date": "2026-10-29",
+  "topic_id": "2-2-4",
+  "baseline_main_sha": "65db2279a0e8445a9ae4dfbd82b0a579be8ed8ca",
+  "verified_inventory": {
+    "topics": 75,
+    "original_pdf_topics": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 68,
+    "not_assessed": 0,
+    "fully_R1_R8_ready": 0,
+    "independent_academic_approvals": 0
+  },
+  "edition": "integrated-student-edition-pilot-2026-10-26.md",
+  "revised_mcq_ids": [
+    6,
+    7,
+    8,
+    12,
+    13,
+    28
+  ],
+  "bounded_option_findings": 24,
+  "correct_keys": {
+    "6": "A",
+    "7": "B",
+    "8": "D",
+    "12": "B",
+    "13": "A",
+    "28": "A"
+  },
+  "source_register": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 4/source/evidence-register-press-women-2026-10-26.md",
+  "sources": [
+    {
+      "id": "P01-P03",
+      "url": "https://www.saraswathaparishath.com/english/about_us.html",
+      "type": "first-party institutional retrospective",
+      "directly_viewed": true,
+      "claims": [
+        "26 May 1943 predecessor founding at Reddy Hostel library hall",
+        "1 June 1943 first Mahasabha Hyderabad",
+        "29–30 December 1944 second Warangal",
+        "15–17 March 1946 third Nalgonda",
+        "21 August 2015 name-change effective",
+        "15–30 June 1950 adult-education camp"
+      ],
+      "limitations": "No contemporaneous minute books, event registers or original gazettes examined."
+    },
+    {
+      "id": "P04",
+      "url": "https://www.andhramahila.com/history.html",
+      "type": "first-party institutional retrospective",
+      "directly_viewed": true,
+      "claims": [
+        "1937 Little Ladies of Brindavan club",
+        "1938 Andhra Mahila Sabha formally constituted"
+      ],
+      "limitations": "Original founding minutes and registration records not examined."
+    }
+  ],
+  "distinction": "The integrated 30 MCQs and separate 30-MCQ press/women supplement are different educational sets; neither official PYQ.",
+  "verified_25_or_30_keys_independently": false,
+  "all_mains_claims_verified": false,
+  "full_browser_accessibility_verified": false,
+  "R4": "BLOCKED",
+  "R5": "IN_PROGRESS",
+  "R8": "IN_PROGRESS_PENDING_RENDER_AND_ACTUAL_ARTIFACT",
+  "R9": "NOT_STARTED",
+  "academic_approval_count": 0
+}
