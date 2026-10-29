@@ -7,8 +7,8 @@ on:
       - 'Paper 2/Unit 1 - Indian History and Culture/Topic 3/source/original-explained-mcqs-cycle81.md'
       - 'Paper 2/Unit 1 - Indian History and Culture/Topic 3/source/structured-mains-answers-20261025.md'
       - 'project-control/academic-readiness/2-1-3.json'
-      - 'scripts/render_topic_2_1_2_cycle81.py'
-      - 'scripts/publish_topic_2_1_2_cycle81.py'
+      - 'scripts/render_topic_2_1_3_cycle81.py'
+      - 'scripts/publish_topic_2_1_3_cycle81.py'
       - '.github/workflows/render-topic-2-1-3-cycle81.yml'
   workflow_dispatch:
 permissions:
@@ -42,7 +42,7 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
-            python scripts/publish_topic_2_1_2_cycle81.py
+            python scripts/publish_topic_2_1_3_cycle81.py
             git add -- "$chapter/integrated-student-edition-cycle81.pdf" "$chapter/integrated-student-cycle81.html" "$chapter/integrated-cycle81-manifest.json" 'project-control/academic-readiness/2-1-3-cycle81-ci-render-qa-2026-10-29.json'
             if git diff --cached --quiet; then
               echo 'Topic 2-1-3 already synchronized'
