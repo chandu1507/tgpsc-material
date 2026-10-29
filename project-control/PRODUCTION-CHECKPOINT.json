@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "total_topics": 75,
   "published_draft_pdf_topics": 75,
   "slots_without_published_pdf": 0,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5",
+    "last_reported_topic": "2-3-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle91 source-critical repair in Topic 2-3-5; original 75 topics/PDFs preserved; academic approvals 0."
+    "note": "Cycle93 Topic 2-3-2 source-critical partial rebuild: 4 sections expanded, 4 MCQs bounded checked; CI PDF and actual artifact QA pending; 75 original topics/PDFs, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -153,8 +153,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "integrated_28_page_ci_pdf_published_actual_artifact_verified_academic_audit_pending",
-      "notes": "26 Oct Turn15: one integrated Markdown now 14,408 approximate words, 32/40 concepts expanded in place, 0 under 200 words, 35 under 300 (R3 IN_PROGRESS). All 25 four-option explained MCQs editorially rewritten, Q22 ambiguity corrected; Q5/Q17/Q21 direct correct-key source-correspondence only, no independent item audit. Six structured mains and 2 vector diagrams remain; source register 13 entries. GitHub CI 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe matched independent local render. Packaging run 40346310854 artifact 12661726703 ACTUALLY DOWNLOADED; 1479 files, exactly 75 original PDFs/75 readiness JSON, 78 HTML, 463 links zero broken, outer/inner CRC PASS; legacy PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 unchanged. R2/R3/R4/R5/R6/R7/R8 NOT PASS; public browser and full accessibility pending; zero academic approval.",
+      "production_review": "cycle93_four_section_official_source_rebuild_ci_pdf_pending",
+      "notes": "26 Oct Turn15: one integrated Markdown now 14,408 approximate words, 32/40 concepts expanded in place, 0 under 200 words, 35 under 300 (R3 IN_PROGRESS). All 25 four-option explained MCQs editorially rewritten, Q22 ambiguity corrected; Q5/Q17/Q21 direct correct-key source-correspondence only, no independent item audit. Six structured mains and 2 vector diagrams remain; source register 13 entries. GitHub CI 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe matched independent local render. Packaging run 40346310854 artifact 12661726703 ACTUALLY DOWNLOADED; 1479 files, exactly 75 original PDFs/75 readiness JSON, 78 HTML, 463 links zero broken, outer/inner CRC PASS; legacy PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 unchanged. R2/R3/R4/R5/R6/R7/R8 NOT PASS; public browser and full accessibility pending; zero academic approval. Cycle93 30 Oct: 4 sections 27/28/29/39 expanded; whitespace-token under300 count 36->32 (not directly comparable to earlier Unicode 35); four MCQs 19/21/22/23 bounded author-side checked, Q22/Q23 rewritten; five new official source-register entries S14-S18; synchronized CI PDF and post-edit artifact QA PENDING. Zero independent approvals.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-2.json"
     },
@@ -1125,7 +1125,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle92 29 Oct: 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 R1 PASS, 0 R1-R8 ready, 0 independent approvals. Topic 2-3-5 16/16 concepts >=300 words, qualitative R3 and all item/mains audits pending.",
+  "last_readiness_update": "Cycle93 30 Oct: 75 topics, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED, 14 R1 PASS, 0 fully R1-R8 ready and 0 approvals. Topic 2-3-2 partial depth/MCQ repair, CI PDF and artifact QA pending.",
   "last_readiness_reconciliation": "Fresh 29 Oct main and 75 per-topic JSON: 75 originals, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 verified/historical R1 mappings, 0 fully ready, 0 approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
@@ -1155,18 +1155,14 @@
   },
   "latest_readiness_update": "Cycle83 Topic 2-1-5 renderer 40846405116 SUCCESS: synchronized 23-page PDF SHA256 7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c. Packaging 40846501172 artifact 12884269106 ACTUALLY DOWNLOADED: 1920 files, 75 unchanged originals, 75 readiness JSON, 83 HTML, 558 local links and 1050 DOM fragments zero broken, ZIP CRC and GitHub digest PASS. 18/23 concepts shallow, 24 MCQ keys/72 distractors and six mains claim audits pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "latest_academic_cycle": {
-    "cycle": 92,
-    "topic_id": "2-3-5",
-    "editorial_merge": "0e2eae31f1aa742f43389f9bf1b02a0cab921081",
-    "renderer_run": 40925286660,
-    "renderer_conclusion": "success",
-    "artifact_post_render_qa": "VERIFIED_ACTUAL_DOWNLOAD",
-    "all_16_concepts_over_300": true,
+    "cycle": 93,
+    "topic_id": "2-3-2",
+    "evidence": "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json",
+    "editorial_state": "SOURCE_AND_MCQ_EDITS_PENDING_MERGE",
+    "renderer_conclusion": "PENDING",
+    "artifact_post_render_qa": "PENDING",
+    "whitespace_sections_below300": 32,
     "qualitative_R3": "IN_PROGRESS",
-    "independent_approvals": 0,
-    "artifact_id": 12920506594,
-    "packaging_run": 40925515212,
-    "artifact_sha256": "cf8cd89146a60a71c3c5f17795deb29962fbc1d226cf37e52d6ab512db8d5e8b",
-    "evidence": "project-control/academic-readiness/2-3-5-cycle92-actual-downloaded-post-render-artifact-qa-2026-10-29.json"
+    "independent_approvals": 0
   }
 }

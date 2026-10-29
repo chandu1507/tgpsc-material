@@ -261,6 +261,10 @@ Human development evaluates capabilities such as health, education and command o
 
 **Policy geography.** National population policy debates involve reproductive choice, maternal and child health, education, migration, ageing and employment. A blanket claim that lower fertility always raises welfare ignores age structure and regional variation. In Telangana, compare access to schools, primary healthcare, sanitation and transport across urban and rural settings rather than treating a state average as universal. When citing HDI, give the publication year and distinguish national rankings from subnational indicators. For mains, connect capabilities to the ability to use economic opportunities, and note that an aggregate index can hide inequality. **Source anchors:** [S2,S6].
 
+**HDI calculation and interpretive discipline.** The United Nations Development Programme uses three *dimension indices*, not three raw quantities added together. Health is represented by life expectancy at birth. Knowledge combines mean years of schooling for adults aged 25 and above with expected years of schooling for children. The standard-of-living dimension uses gross national income per capita adjusted for purchasing-power parity; this is not the same as nominal income, gross domestic product or a district's total economic output. The three normalised dimension indices are combined using a geometric mean. Very weak performance in education cannot be completely cancelled by high income, as it could under a simple arithmetic average. Numerical goalposts and the purchasing-power base year are specific to each UNDP technical-note edition; a 2019 method parameter should not be presented as an unverified 2026 value [S15].
+
+**Interpretation beyond the average.** The HDI does not directly show inequality within a region, quality of schooling, gender discrimination, environmental risk or employment security. Two regions can have similar composite scores while one has much greater deprivation among particular social groups. The inequality-adjusted HDI and separate indicators help investigate such gaps, but should not be confused with the headline HDI. A Telangana comparison should use indicators measured on comparable dates and geographical boundaries rather than applying a national rank to a district. In a mains answer, explain each indicator and the geometric mean, then compare two hypothetical regions with similar income but different health and schooling outcomes. End with policy implications for healthcare, learning quality, safe mobility and inclusive employment [S15].
+
 ### 28. Urbanisation and megacities
 
 Urbanisation is the increasing share and scale of population living in settlements with urban economic and built-up characteristics. Indian urban growth occurs through metropolitan expansion, census-town emergence, migration and reclassification. Megacities generate agglomeration benefits but face housing shortages, congestion, air pollution, water stress, waste, heat and flood risk. Peri-urban zones are especially difficult because land use changes faster than governance boundaries.
@@ -269,6 +273,10 @@ Urbanisation is the increasing share and scale of population living in settlemen
 
 Unplanned expansion produces congestion, informal housing, flood exposure, pollution and unequal access to jobs. Smart-city technologies cannot substitute for land-use planning, affordable transit, wastewater treatment and accountable local government. Urban governance requires coordination among municipalities, metropolitan planning authorities, utilities and state departments. The strongest geography answer connects spatial pattern with administrative jurisdiction and distributive outcomes: who benefits from infrastructure, who bears environmental costs, and which investments make smaller towns viable?
 
+**The Census 2011 classification is a measurement rule, not a description of every city's government.** A *statutory town* is recognised through a municipality, corporation, cantonment board or comparable notified legal status. A *census town* meets three simultaneous demographic criteria: at least 5,000 residents; at least 75 percent of the **male main working population** in non-agricultural pursuits; and density of at least 400 persons per square kilometre. The male-main-worker wording is an important historical detail: changing it to '75 percent of all workers' misstates the 2011 rule. A census town need not have a municipal council; conversely, a legally notified town need not satisfy the three census-town thresholds. An urban agglomeration can combine a core town with contiguous outgrowths. Municipality, census town, urban agglomeration and metropolitan planning region are therefore not interchangeable units [S14].
+
+**Megacity comparison requires a denominator and a year.** The 2011 Census grouped urban agglomerations above ten million as megacities; this differs from the one-million threshold used in the constitutional definition of a metropolitan area. Always identify whether a population refers to the municipal corporation, the wider urban agglomeration or a planning authority. Changes between censuses can reflect natural increase, net migration, reclassification and boundary changes. A settlement becoming a census town did not necessarily gain all its residents through recent migration. For Telangana, compare Hyderabad's functional commuting region with its legal administrative boundaries and emerging smaller towns. Use the distinction to explain mismatches in drainage, housing, transport and fiscal responsibility rather than repeating a generic list of megacity problems [S14].
+
 ### 29. Urban policy and Smart Cities
 
 Urban policy requires metropolitan-scale land-use and transport integration, affordable housing, public transport, drainage, water and sanitation, municipal finance and accountable local government. The Smart Cities concept should not be reduced to sensors and command centres; digital systems are useful only when they improve basic services, planning and citizen access. Compact, transit-oriented and climate-resilient development can reduce infrastructure cost and environmental pressure.
@@ -276,6 +284,10 @@ Urban policy requires metropolitan-scale land-use and transport integration, aff
 **Why urban policy is multi-level.** A municipality manages local services, but commuting, water catchments, solid-waste routes and flood drainage may extend across several jurisdictions. A smart-city project may deploy sensors or dashboards, yet the difficult tasks are often land-use coordination, maintenance funding, affordable housing and public accountability. Technology is useful when it helps measure and improve an outcome; it cannot by itself provide a sewer network, resolve land tenure or make buses frequent.
 
 **A practical evaluation.** Instead of counting apps installed, measure the share of households with reliable water, sewer connections, safe footpaths, accessible transit and reduced flood exposure. Compare formal and informal settlements and ask whether services remain affordable. For Hyderabad, metropolitan growth requires coordination between urban bodies and surrounding peri-urban settlements; the same approach applies to emerging secondary cities. An examination answer should distinguish policy intent, institutional capacity, implemented infrastructure and verified outcomes. **Source anchors:** [S2,S8].
+
+**What the Smart Cities Mission actually proposed.** The official Ministry of Housing and Urban Affairs Smart City Proposal template distinguishes *area-based development* from *pan-city solutions*. The area-based proposal selects a mapped neighbourhood for retrofitting, redevelopment or greenfield development; other solutions may be applied across a broader city. Completing a project in one selected area therefore does not prove that every ward received the same improvement. A project count, procurement award or expenditure total is not an independent measure of reliable water, bus access or flood safety. A valid evaluation distinguishes announced, contracted, physically completed and functioning infrastructure and specifies the population actually served [S16].
+
+**Institutional and distributional tests.** Special-purpose vehicles may coordinate mission projects, while routine service delivery depends on municipalities, utilities, planning authorities and state departments. A dashboard may identify leaking pipes without providing repair crews or recurrent maintenance funds. Assess an intervention against a baseline: which wards were served, what changed, who was excluded, and did benefits persist after the initial project? For example, test whether water-pressure monitoring reduced supply interruptions in low-income neighbourhoods rather than merely counting installed sensors. In a Telangana mains answer, link spatially selective investment to metropolitan fragmentation, affordability and municipal finance. Separate official programme objectives from verified impact evidence, and do not imply that an area-based model automatically transformed an entire city [S16].
 
 ### 30. Integrated mains strategy
 
@@ -358,6 +370,10 @@ A smart city is not made smart by surveillance cameras or dashboards alone. Digi
 **Technology is an instrument, not an outcome.** Sensors can reveal water leakage, dashboards can track complaints and digital ticketing can make transport easier to use. None of these by itself guarantees reliable water, universal sanitation or affordable housing. A smart-city programme must be evaluated by the service it changes and by who can access that service. Data quality, maintenance budgets, privacy safeguards and institutional accountability determine whether the technology remains useful after a pilot phase.
 
 **An evaluation exercise.** Compare two wards: one has a new control dashboard but irregular water supply; the other has fewer digital features but reliable taps, drainage and buses. The second may deliver greater welfare despite lower technology visibility. In Hyderabad and smaller Telangana cities, measure service continuity, accessibility for disabled residents, affordability and resilience during heavy rain. For mains, distinguish investment announcements, installed equipment, functioning services and independently measured citizen outcomes. **Source anchors:** [S2,S8].
+
+**Digital public infrastructure is different from an isolated smart-city installation.** The National Urban Digital Mission describes shared standards, registries and interoperable digital building blocks for urban service delivery. These may help a complaint move between departments, but only if data definitions, responsibilities, error correction and service-level ownership are clear. A dashboard marking a complaint 'closed' is not proof that the blocked drain or streetlight was repaired. An independent sample of physical outcomes is more informative than the number of digital transactions. Interoperability is an institutional design choice, not proof of welfare improvement [S17].
+
+**Inclusion, resilience and accountability.** Ask whether people without smartphones can report faults, whether local languages and screen readers work, and whether an offline alternative exists during network or power failures. Property and household data may improve services while creating risks of inaccurate records, exclusion and surveillance. Access controls, retention limits, correction procedures and public oversight therefore matter. Compare hardware replacement, software maintenance and staff training costs with outcomes such as shorter repair times, safer streets and reliable water. A Telangana example should consider smaller municipalities as well as Hyderabad, with ward-level indicators that reveal differences between affluent and underserved areas. A sound mains conclusion evaluates responsiveness, accessibility and service continuity, not the number of cameras, apps or command centres [S17].
 
 ### 40. Spatial equity and corridor-led development
 
@@ -545,7 +561,7 @@ B. Total urban residents divided by only built-up urban area
 C. Annual population increase divided by the midyear population  
 D. Total working-age residents divided by the dependent population  
 
-**Answer: A.** B is a different density measure, C a growth-rate concept and D a demographic ratio. **Source anchors:** [S2,S8]. Definitional key source-correlated; full item review pending.
+**Answer: A.** Official Census 2011 district-handbook terminology defines population density as persons per square kilometre of area. B uses a restricted urban built-up denominator rather than the specified geographical unit; C is a population-change rate; D compares age groups rather than people with area. **Source anchors:** [S18]. Author-side key and three distractors checked against the definition on 30 Oct 2026; independent item review remains pending.
 
 ### Q20. Which change is central to the *demographic transition* model?
 
@@ -563,25 +579,25 @@ B. GDP growth, population density and urban share
 C. Health, education and a decent standard of living  
 D. Migration, life expectancy and industrial output  
 
-**Answer: C.** UNDP uses life expectancy, schooling indicators and GNI per capita to operationalise these dimensions. **Source anchors:** [S6]. Correct key checked against UNDP's official HDI methodology 26 Oct 2026; other options remain to be item-tested.
+**Answer: C.** UNDP uses life expectancy, two schooling indicators and purchasing-power-adjusted GNI per capita for health, knowledge and living standards. A includes inflation and employment rather than the three HDI dimensions; B substitutes economic growth and settlement characteristics; D mixes migration and industrial output with one health indicator. **Source anchors:** [S6,S15]. Author-side key and three distractors checked 30 Oct 2026; question discrimination and independent examiner review remain pending.
 
-### Q22. Which combination can change the *measured urban population* between two censuses?
+### Q22. Which is the most complete set of mechanisms to consider when explaining a change in the *measured urban population* between two censuses?
 
-A. Only net migration and no other demographic or administrative change  
-B. Natural increase and migration, but never reclassification  
-C. Boundary extensions can never alter the count classified as urban  
-D. Natural increase, net migration, settlement reclassification and boundary change  
+A. Natural increase and net migration, assuming settlement classes and boundaries are fixed  
+B. Natural increase, net migration and settlement reclassification, but excluding boundary revisions  
+C. Natural increase, net migration and boundary revisions, but excluding settlement reclassification  
+D. Natural increase, net migration, settlement reclassification and boundary revisions  
 
-**Answer: D.** Urban counts depend on demographic change and on the definition and boundaries of urban areas. **Source anchors:** [S8]. Key source-correlated; distinguish census classification from contemporary estimates.
+**Answer: D.** A leaves out both classification and boundary effects; B leaves out jurisdictional changes; C leaves out the movement of settlements into or out of the census-defined urban category. The question asks for the *most complete* decomposition, not whether a partial mechanism can also affect a city. Official Census 2011 definitions distinguish statutory towns and census towns; use consistent units and dates. **Source anchors:** [S8,S14]. Author-side key and three distractors reviewed 30 Oct 2026; not an independent examiner approval.
 
-### Q23. Which is the strongest criterion for evaluating whether a *Smart City* intervention improved urban welfare?
+### Q23. Which evaluation would best establish whether a *Smart City* intervention improved urban welfare rather than merely delivering project outputs?
 
-A. Measured service reliability, accessibility and accountability, with technology treated as an enabling tool  
-B. Faster dashboard reporting without measuring whether services improved  
-C. Capital spending and application downloads without a service baseline  
-D. Completion of a technology pilot without long-term maintenance or coverage data  
+A. Compare baseline-adjusted service reliability, accessibility and equity across affected wards, and test continued operation and accountability  
+B. Count completed projects and compare expenditure per project across cities, without measuring service delivery  
+C. Measure app registrations and complaint closures, treating digital activity as a sufficient proxy for physical service quality  
+D. Measure the proportion of installed sensors that are online, without checking whether the underlying urban service improved  
 
-**Answer: A.** Technology is instrumental; verified outcomes and equitable access are the relevant tests. **Source anchors:** [S2,S8]. This is a policy-evaluation item, not an official PYQ.
+**Answer: A.** B measures implementation and spending, not household outcomes; C can reward digital activity even when unresolved faults are marked closed; D measures equipment availability rather than water, mobility or safety. A is a policy-evaluation judgement anchored to the mission's area-based design and NUDM's service-delivery objectives, not a claim that a particular project has passed an impact evaluation. **Source anchors:** [S16,S17]. Author-side key and three distractors reviewed 30 Oct 2026; not an official PYQ or independent academic certification.
 
 ### Q24. What comparative advantage makes roads especially useful for *dispersed rural freight origins*?
 
@@ -684,5 +700,12 @@ D. Restricting labour mobility while concentrating skills in one metropolis
 | S11 | [NCERT India: People and Economy, Planning and Sustainable Development, Chapter 6](https://ncert.nic.in/textbook/pdf/legy206.pdf) | Original NCERT 2026–27 chapter directly read 26 Oct 2026, PDF pp7–8 (printed pp72–73): Indira Gandhi Canal command gains, waterlogging, salinity and proposed water-management measures. Historical case, not current project performance data. |
 | S12 | [PIB / PM GatiShakti multimodal planning, 2026](https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=157735&id=157735&lang=1&reg=31) | Government planning account directly checked 26 Oct 2026: multimodal integration and last-mile connectivity; project counts are date-specific and not evidence of completed benefits. |
 | S13 | [PIB National Logistics Policy, 16 Sep 2025](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2167224&lang=2&noshow=1&reg=48) | Government policy description directly checked 26 Oct 2026: logistics integration and multimodal objectives; promotional claims require separate outcome evaluation. |
+
+| S14 | [Indian Economic Service: Cities and Towns](https://ies.gov.in/arthapedia/concept/cities-and-towns) | Directly viewed 30 Oct 2026: statutory/census town criteria and 2011 urban population categories; historical definitions, not 2026 census enumeration. |
+| S15 | [UNDP HDI methodology FAQ](https://hdr.undp.org/publication/citation-export/3356) and [technical notes](https://hdr.undp.org/sites/default/files/data/2020/hdr2019_technical_notes.pdf) | Directly viewed 30 Oct 2026: three dimensions, four indicators, geometric mean; numeric parameters and PPP base years are edition-specific. |
+| S16 | [MoHUA Smart City Proposal template](https://www.mohua.gov.in/pdf/58fd958bc7ed75821af4818704SCP_Template.pdf) | Official proposal-design document directly viewed 30 Oct 2026: area-based development and selected area; not independent evidence of project impact. |
+| S17 | [National Urban Digital Mission overview](https://www.nudm.mohua.gov.in/what-is-nudm/) | Official programme description directly viewed 30 Oct 2026: common standards, shared infrastructure and registries; objectives, not measured service outcomes. |
+
+| S18 | [Census of India 2011 North Goa District Census Handbook](https://censusindia.gov.in/nada/index.php/catalog/368/download/1120/DH_2011_3001_PART_A_DCHB_NORTH_GOA.pdf) | Original ORGI district handbook text directly located 30 Oct 2026: density defined as persons per square kilometre, computed as population divided by area; historical source, not current demographic estimate. |
 
 **Limitations:** R1 syllabus mapping checked; R2 consolidation requires human deduplication; R3 many concepts remain shallow; R4 source checks incomplete; R5 25 questions drafted but not externally audited; R6 six answers drafted, source review pending; R7 diagrams require accuracy review; R8 PDF/public browser not yet verified. **R9 NOT STARTED. Zero academic approvals.**
