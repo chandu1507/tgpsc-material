@@ -1,8 +1,8 @@
 {
   "topic_id": "6-3-5",
   "title": "Parliamentary Process, Reorganisation Act and First Telangana Government",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,70 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "BLOCKED",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle78 direct source-based partial expansion and bounded question audit; 30/38 concepts remain below 300 words. See project-control/academic-readiness/6-3-5-cycle78-direct-source-depth-and-bounded-mcq-audit-2026-10-29.json. No integrated PDF or artifact certified yet.",
+  "next_action": "Render synchronized editable master as CI PDF; verify actual downloaded artifact, then expand remaining 30 shallow concepts and verify 20 keys, 60 distractors and all six mains claims.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "direct_assessment": {
+    "cycle": 78,
+    "original_pdf_sha256": "6d044094ceff7305ad9f9cd67fb59d6695d43b53aa5f4911cd4e5b29e5c14f90",
+    "original_pdf_pages": 23,
+    "concepts": 38,
+    "concepts_initially_below_300": 38,
+    "expanded_sections": [
+      11,
+      12,
+      18,
+      19,
+      20,
+      21,
+      23,
+      24
+    ],
+    "concepts_now_below_300": 30,
+    "expanded_word_counts": {
+      "11": 391,
+      "12": 371,
+      "18": 359,
+      "19": 373,
+      "20": 366,
+      "21": 363,
+      "23": 370,
+      "24": 370
+    },
+    "original_practice_mcqs": 30,
+    "bounded_source_checked_keys": 10,
+    "bounded_source_checked_distractors": 30,
+    "unchecked_keys": 20,
+    "unchecked_distractors": 60,
+    "mains_body_only_counts": [
+      228,
+      219,
+      212,
+      200,
+      214,
+      216
+    ],
+    "mains_claim_level_review_complete": false,
+    "source_register_additions": [
+      "S17",
+      "S18",
+      "S19",
+      "S20"
+    ],
+    "government_statute_full_pdf_opened": false,
+    "official_2014_eci_results_pdf_opened": false,
+    "integrated_pdf_rendered": false,
+    "post_edit_artifact_certified": false,
+    "independent_academic_approvals": 0
+  }
 }
