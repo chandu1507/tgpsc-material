@@ -9,7 +9,7 @@
     "last_reported_topic": "2-3-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle93 Topic 2-3-2 source-critical partial rebuild: 4 sections expanded, 4 MCQs bounded checked; CI PDF and actual artifact QA pending; 75 original topics/PDFs, zero approvals."
+    "note": "Cycle93 Topic 2-3-2: 4 source-grounded concept expansions, 4 bounded MCQ checks; 31-page CI PDF and actual downloaded GitHub artifact 12924997214 digest/CRC/75-originals/links QA PASS; academic readiness and browser certification pending, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -153,10 +153,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle93_four_section_official_source_rebuild_ci_pdf_pending",
+      "production_review": "cycle93_31page_ci_pdf_and_downloaded_artifact_integrity_verified_academic_rebuild_pending",
       "notes": "26 Oct Turn15: one integrated Markdown now 14,408 approximate words, 32/40 concepts expanded in place, 0 under 200 words, 35 under 300 (R3 IN_PROGRESS). All 25 four-option explained MCQs editorially rewritten, Q22 ambiguity corrected; Q5/Q17/Q21 direct correct-key source-correspondence only, no independent item audit. Six structured mains and 2 vector diagrams remain; source register 13 entries. GitHub CI 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe matched independent local render. Packaging run 40346310854 artifact 12661726703 ACTUALLY DOWNLOADED; 1479 files, exactly 75 original PDFs/75 readiness JSON, 78 HTML, 463 links zero broken, outer/inner CRC PASS; legacy PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 unchanged. R2/R3/R4/R5/R6/R7/R8 NOT PASS; public browser and full accessibility pending; zero academic approval. Cycle93 30 Oct: 4 sections 27/28/29/39 expanded; whitespace-token under300 count 36->32 (not directly comparable to earlier Unicode 35); four MCQs 19/21/22/23 bounded author-side checked, Q22/Q23 rewritten; five new official source-register entries S14-S18; synchronized CI PDF and post-edit artifact QA PENDING. Zero independent approvals.",
       "readiness_status": "IN_PROGRESS",
-      "readiness_gate_file": "project-control/academic-readiness/2-3-2.json"
+      "readiness_gate_file": "project-control/academic-readiness/2-3-2.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json"
     },
     {
       "id": "2-3-3",
