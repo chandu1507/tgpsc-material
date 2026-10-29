@@ -20,18 +20,18 @@ assert sha(ROOT/'complete-notes.pdf')=='8ebfd5a08024a3dd729d326d5b1f53201fafc0de
 master=SRC/'integrated-student-edition-pilot-2026-10-26.md'; md=master.read_text(encoding='utf-8')
 assert 'NOT independently academically approved' in md and 'NOT official PYQs' in md
 practice=md.split('## 20. Thirty original',1)[1].split('## 21. Sources',1)[0]
-questions=[q for q in re.split(r'(?=^### MCQ \\d+\\.)',practice,flags=re.M) if q.startswith('### MCQ')]
+questions=[q for q in re.split(r'(?=^### MCQ \d+\.)',practice,flags=re.M) if q.startswith('### MCQ')]
 assert len(questions)==30,len(questions)
 for n,q in enumerate(questions,1):
  assert q.startswith('### MCQ '+str(n)+'.'),n
- opts=re.findall(r'^([ABCD])\\. (.+)$',q,re.M)
+ opts=re.findall(r'^([ABCD])\. (.+)$',q,re.M)
  assert [a for a,b in opts]==list('ABCD') and len(set(b for a,b in opts))==4,(n,opts)
- assert len(re.findall(r'\\*\\*Answer: [ABCD]\\.',q))==1,n
+ assert len(re.findall(r'\*\*Answer: [ABCD]\.',q))==1,n
 for n,key in {6:'A',7:'B',8:'D',12:'B',13:'A',28:'A'}.items():
  q=questions[n-1]
  assert ('**Answer: '+key+'.**') in q and '**Source' in q,(n,q[-300:])
 mains=md.split('## 19. Six original',1)[1].split('## 20. Thirty original',1)[0]
-assert len(re.findall(r'^## Question \\d+\\.',mains,re.M))==6
+assert len(re.findall(r'^## Question \d+\.',mains,re.M))==6
 for name in ['diagram-a-public-sphere.svg','diagram-b-reform-axes.svg','diagram-c-timeline.svg']:
  assert (SRC/name).is_file() and md.count(']('+name+')')==1,name
 pdf=SRC/'integrated-student-edition-pilot-2026-10-26.pdf'
@@ -44,7 +44,7 @@ for i,p in enumerate(doc):
   if b[0]<-1 or b[1]<-1 or b[2]>p.rect.width+1 or b[3]>p.rect.height+1:outside.append(i+1)
 assert len(doc)>=20 and not blank and not outside,(len(doc),blank,outside)
 for n in [6,7,8,12,13,28]:
- assert ('MCQ '+str(n)+'.') in '\\n'.join(p.get_text() for p in doc)
+ assert ('MCQ '+str(n)+'.') in '\n'.join(p.get_text() for p in doc)
 html=mistune.create_markdown(plugins=['table','strikethrough'])(md)
 soup=BeautifulSoup(html,'html.parser');seen={}
 for h in soup.find_all(['h1','h2','h3']):
@@ -60,6 +60,6 @@ for el in BeautifulSoup(page.read_text(),'html.parser').find_all(['a','img']):
  if not (page.parent/unquote(urlsplit(u).path)).resolve().is_file():broken.append(u)
 assert not broken,broken
 qa={'cycle':90,'topic_id':'2-2-4','original_pdf_sha256':sha(ROOT/'complete-notes.pdf'),'original_pdf_topics_preserved':75,'readiness_json_count':75,'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha(pdf),'blank_pdf_pages':blank,'out_of_bounds_pdf_pages':outside,'mcq_count':30,'revised_source_correlated_mcqs':[6,7,8,12,13,28],'bounded_option_checks':24,'independent_mcq_audit_complete':False,'mains_count':6,'mains_claim_audit_complete':False,'html_local_links_checked':checked,'broken_html_local_links':broken,'R4':'BLOCKED','R5':'IN_PROGRESS','R8':'IN_PROGRESS_PENDING_ACTUAL_DOWNLOADED_ARTIFACT','R9':'NOT_STARTED','academic_approvals':0}
-(PC/'academic-readiness/2-2-4-cycle90-ci-render-qa-2026-10-29.json').write_text(json.dumps(qa,indent=2)+'\\n')
-(SRC/'integrated-cycle90-manifest.json').write_text(json.dumps({'topic_id':'2-2-4','cycle':90,'status':'NOT_APPROVED','original_pdf_sha256':qa['original_pdf_sha256'],'files':{p.name:sha(p) for p in [master,pdf,page]},'pdf_pages':len(doc)},indent=2)+'\\n')
+(PC/'academic-readiness/2-2-4-cycle90-ci-render-qa-2026-10-29.json').write_text(json.dumps(qa,indent=2)+'\n')
+(SRC/'integrated-cycle90-manifest.json').write_text(json.dumps({'topic_id':'2-2-4','cycle':90,'status':'NOT_APPROVED','original_pdf_sha256':qa['original_pdf_sha256'],'files':{p.name:sha(p) for p in [master,pdf,page]},'pdf_pages':len(doc)},indent=2)+'\n')
 print(json.dumps(qa,indent=2))
