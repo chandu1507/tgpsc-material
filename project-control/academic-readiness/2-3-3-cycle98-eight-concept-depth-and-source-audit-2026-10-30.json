@@ -61,10 +61,10 @@
       "supports": "Groundwater monitoring and hydrogeological survey remit, not original report or independent field audit."
     }
   ],
-  "verified_renderer_run_id": 40976010702,
+  "verified_renderer_run_id": 40976307263,
   "renderer_conclusion": "success",
-  "renderer_pdf_pages": 21,
-  "renderer_pdf_sha256": "11a11d342d16f13fb042c67e17d3aa66e40a8b231eaf81c1c6bec1381ef3103c",
+  "renderer_pdf_pages": 26,
+  "renderer_pdf_sha256": "09d44043b3fe10a2c726f7a9f90a83658c4e71b1e4154e98097345ca32eac981",
   "renderer_pdf_qa_path": "project-control/academic-readiness/2-3-3-render-qa.json",
   "post_renderer_final_packaging_artifact_downloaded_and_verified": false,
   "original_pdf_preservation": "Original 7-page PDF must remain unchanged; original SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9; recheck in actual downloaded final artifact.",
@@ -86,5 +86,36 @@
     "Six mains need claim-level independent review.",
     "Original TGPSC syllabus PDF direct recheck incomplete.",
     "Full browser/accessibility and final downloaded artifact CRC/SHA/75-topic QA pending."
-  ]
+  ],
+  "layout_correction": {
+    "source_register_T17_T19_rows": "restored inside 3-column Markdown table",
+    "renderer_change": "PageBreak before numbered concepts 2-14, new Part C title page, deterministic QA asserts all 14 concept headings on distinct pages",
+    "renderer_commits": [
+      "56563fcdac5d42d301ced0072528eda799c4f816",
+      "0c5f2be8137ff1e293111ff88ae23884400463f5",
+      "2b4994e9ecab1951845022407c228f5d29b78c1e"
+    ],
+    "failed_intermediate_run": 40976271546,
+    "failed_reason": "Concurrent guarded renderer saw invalid double-escaped regex and exited; corrected before later successful run.",
+    "successful_renderer_run": 40976307263,
+    "rendered_pages": 26,
+    "rendered_pdf_sha256": "09d44043b3fe10a2c726f7a9f90a83658c4e71b1e4154e98097345ca32eac981",
+    "concept_start_pages": {
+      "1": 3,
+      "2": 4,
+      "3": 5,
+      "4": 6,
+      "5": 7,
+      "6": 8,
+      "7": 9,
+      "8": 10,
+      "9": 11,
+      "10": 12,
+      "11": 13,
+      "12": 14,
+      "13": 15,
+      "14": 16
+    },
+    "full_page_concept_standard": "distinct start pages mechanically PASS; qualitative content and complete visual review still pending"
+  }
 }
