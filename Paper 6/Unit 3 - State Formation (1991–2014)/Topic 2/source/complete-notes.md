@@ -182,6 +182,8 @@ The 2009 Assembly election returned a Congress government in undivided Andhra Pr
 
 That does not mean the movement lacked social support. Elections aggregate many issues, candidates and alliances. The dramatic escalation in November–December reflected a new conjunction of a hunger strike, student protests, regional political competition and central-government decisions. A good answer should therefore reject two simplistic inferences: that a low TRS seat tally proves the statehood issue was marginal, and that subsequent protests retrospectively make the party the winner of the 2009 election. Both claims confuse different forms of political participation.
 
+**How to test the electoral claim.** Begin with the Election Commission of India's *2009 Andhra Pradesh Legislative Assembly statistical report*, not a later newspaper chart or a Lok Sabha table. Record each party's candidates contested, seats won, votes and alliance partners. For a region-specific inference, first define which Assembly constituencies constituted Telangana in 2009 and aggregate those constituencies consistently. Compare both vote share and seat share: a first-past-the-post alliance can win fewer seats than its statewide votes might suggest, and allies may avoid contesting the same seats. Do not add party vote shares across constituencies in which a party did not stand without explaining the denominator. The often-repeated statewide Congress 157, TDP 90 and TRS 10 Assembly-seat figures are retained here as *secondary-report figures pending direct tabulation from the original ECI Assembly PDF*; they are not promoted to independently authenticated totals. In contrast, the ECI's separate 2009 **Lok Sabha** state-party table records two TRS parliamentary seats in Andhra Pradesh. Those two parliamentary seats must never be confused with the reported ten Assembly seats. Source: [ECI official statistical-report directory](https://www.eci.gov.in/statistical-reports); [ECI 2009 Lok Sabha state-party performance](https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIsyRqfwDsMRwjg55m3U55yjlHajGO83WQ%2BnUj1iuR8%2FI7hZAwKYinrW9NRWyF5DKV71v01E%2BQDZgrN9kVasKh8g5Kndo6aDzVd7ZvbYRlcVl).
+
 ## 23. Hyderabad as a “free zone”: the legal vocabulary
 
 The agitation against Hyderabad as a 'free zone' concerned the treatment of certain police posts under the Andhra Pradesh Public Employment (Organisation of Local Cadres and Regulation of Direct Recruitment) Order, 1975. Paragraph 14(f) contained an exception for specified Hyderabad City Police posts. The legal issue was not whether every public job in Hyderabad was open without local rules. Nor was Hyderabad constitutionally declared an independent employment zone for all departments. Such shorthand exaggerates the scope of the dispute.
@@ -230,11 +232,15 @@ On the night of 9 December 2009 Union Home Minister P. Chidambaram announced tha
 
 Contemporary reporting records that KCR ended his fast following the announcement. For examination purposes, explain why the statement was simultaneously a breakthrough and an incomplete outcome. It represented explicit Union-level movement toward the demand and validated the political urgency of the agitation. But it left the legislative route, regional consultations, Hyderabad's status and the timetable unresolved. The gap between the public expectation of imminent statehood and the legal reality of an unfinished process became central to the events of the next two weeks.
 
+**A source-and-institution timeline.** Reconstruct the 9 December announcement as an executive communication rather than a self-executing constitutional instrument. First, distinguish the 7 December state-level party consultation from the Union Home Minister's later announcement; a political consultation produces opinions and minutes, not a law. Second, distinguish the minister's words about *initiating* a process from the constitutional steps needed to introduce and pass a reorganisation bill. Third, record what followed: KCR's fast ended after the announcement, while leaders and organisations in Coastal Andhra and Rayalaseema raised competing objections. The Union's 23 December statement called for wider consultations; it was not a final rejection enacted by Parliament. The Ministry of Home Affairs' later Srikrishna Committee report provides an official retrospective narrative of the crisis, but a later committee's reconstruction must not be passed off as the signed original 9 December ministerial statement. For precise quotation, consult the contemporary statement reproduction already listed in this chapter's source register; for legal effect, consult the Constitution. This separation of *event*, *document*, *legal power* and *political reaction* prevents a common mains-answer error: describing 9 December 2009 as the date Telangana was legally created. The state was formed only after later parliamentary legislation and the appointed day in 2014.
+
 ## 31. What an Assembly resolution can and cannot do under Article 3
 
 Article 3 gives Parliament authority to form a new state, subject to constitutional procedure, including the President's recommendation for introduction of the Bill and reference of relevant proposals to the affected state legislature for its views. The legislature's views are constitutionally important but are not the same as an absolute veto over Parliament's power. A minister's promise to move an 'appropriate resolution' should therefore be read as part of a proposed political and legislative route, not as the complete constitutional mechanism.
 
 This distinction helps explain the 2009 confusion. Some supporters interpreted the Union statement as a decisive commitment; opponents sought broader consultations and questioned the implications for the existing state. Both could use the absence of a precise timetable to advance their positions. An examiner may ask whether the Andhra Pradesh Assembly could itself create Telangana: it could not. The eventual legal act required parliamentary legislation, which belongs to the later 2014 stage. Here the constitutional principle is the separation between executive announcement, state-legislature opinion and parliamentary enactment.
+
+**Constitutional decision chain.** Article 3 permits Parliament to form a new state, alter boundaries or names, and combine or separate territories, but the bill must be introduced on the President's recommendation. Where a proposal affects an existing state's area, boundaries or name, the President refers it to that state's legislature for its views within the specified or extended period. The Constitution requires the opportunity to express views; it does not make that legislature's affirmative consent an absolute condition of Parliament's legislative competence. The distinction is between a *consultative reference* and a *binding veto*. The affected legislature may support, oppose or propose changes, yet Parliament retains the constitutional decision. Article 4 permits supplementary, incidental and consequential provisions, including necessary First and Fourth Schedule amendments, in a law under Article 3. Article 4 also specifies that such a law is not deemed a constitutional amendment for Article 368 purposes merely because it contains those provisions. This is why the examination answer should not casually say that every new-state law needs the special constitutional-amendment procedure. A cabinet announcement, party manifesto, state Assembly resolution and Parliament's enacted law are four different legal and political objects. Consult the [Government of India's published Constitution](https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf), Articles 3–4; the direct text is the authority for these procedural distinctions.
 
 ## 32. Reactions in Coastal Andhra and Rayalaseema: competing claims
 
@@ -347,30 +353,30 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q2. The central political objective of TRS at its founding was:**
 
-- A. A separate Telangana state
-- B. Replacing Article 3
+- A. Replacing Article 3
+- B. A separate Telangana state
 - C. Establishing a national civil service
 - D. A new Supreme Court
 
-**Answer: A.** TRS organised around statehood; it could not independently alter constitutional boundaries.
+**Answer: B.** TRS organised around statehood; it could not independently alter constitutional boundaries.
 
 **Q3. Which leader founded TRS after leaving Telugu Desam Party?**
 
-- A. K. Chandrashekar Rao
-- B. Pranab Mukherjee
-- C. M. Kodandaram
+- A. Pranab Mukherjee
+- B. M. Kodandaram
+- C. K. Chandrashekar Rao
 - D. P. Chidambaram
 
-**Answer: A.** KCR founded the party; the other named individuals had different roles in consultation or mobilisation.
+**Answer: C.** KCR founded the party; the other named individuals had different roles in consultation or mobilisation.
 
 **Q4. The Congress–TRS pre-election alliance is associated with:**
 
-- A. 2004
-- B. 1956
-- C. 1973
-- D. 2014
+- A. 1956
+- B. 1973
+- C. 2014
+- D. 2004
 
-**Answer: A.** Their 2004 alliance gave the Telangana issue a route into UPA coalition bargaining.
+**Answer: D.** Their 2004 alliance gave the Telangana issue a route into UPA coalition bargaining.
 
 **Q5. Which phrase best describes the 2004 UPA Telangana commitment?**
 
@@ -383,30 +389,30 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q6. Which institution has constitutional power to form a new state under Article 3?**
 
-- A. Parliament
-- B. District collector
+- A. District collector
+- B. Parliament
 - C. State Election Commission
 - D. A political JAC
 
-**Answer: A.** Article 3 assigns the state-formation law to Parliament through the prescribed procedure.
+**Answer: B.** Article 3 assigns the state-formation law to Parliament through the prescribed procedure.
 
 **Q7. The Pranab Mukherjee sub-committee primarily sought:**
 
-- A. Political-party views and consensus
-- B. Local-cadre personnel files
-- C. Hydrological project clearances
+- A. Local-cadre personnel files
+- B. Hydrological project clearances
+- C. Political-party views and consensus
 - D. A judicial appeal
 
-**Answer: A.** It was a Union political consultation mechanism, not the Girgliani employment inquiry.
+**Answer: C.** It was a Union political consultation mechanism, not the Girgliani employment inquiry.
 
 **Q8. Which pair were reported as members of the Pranab Mukherjee group?**
 
-- A. Raghuvansh Prasad Singh and Dayanidhi Maran
-- B. Fazal Ali and K. M. Panikkar
-- C. M. Kodandaram and KCR
-- D. J. M. Girgliani and Justice Srikrishna
+- A. Fazal Ali and K. M. Panikkar
+- B. M. Kodandaram and KCR
+- C. J. M. Girgliani and Justice Srikrishna
+- D. Raghuvansh Prasad Singh and Dayanidhi Maran
 
-**Answer: A.** Contemporary 2005 reporting names the two Union ministers alongside Mukherjee.
+**Answer: D.** Contemporary 2005 reporting names the two Union ministers alongside Mukherjee.
 
 **Q9. Girgliani inquiry concerned principally:**
 
@@ -419,30 +425,30 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q10. G.O. 610 is most closely associated with:**
 
-- A. Rectification of local employment irregularities
-- B. Creation of TRS
+- A. Creation of TRS
+- B. Rectification of local employment irregularities
 - C. Appointment of the President
 - D. 2009 Assembly dissolution
 
-**Answer: A.** The 1985 order became a symbol of disputed implementation of employment safeguards.
+**Answer: B.** The 1985 order became a symbol of disputed implementation of employment safeguards.
 
 **Q11. A legally sound investigation of a local recruitment complaint first needs:**
 
-- A. Cadre rules and appointment records
-- B. Candidate surnames alone
-- C. Newspaper vote counts
+- A. Candidate surnames alone
+- B. Newspaper vote counts
+- C. Cadre rules and appointment records
 - D. Only a party manifesto
 
-**Answer: A.** Post classification, eligibility and appointments determine legal compliance, not regional stereotypes.
+**Answer: C.** Post classification, eligibility and appointments determine legal compliance, not regional stereotypes.
 
 **Q12. The Telangana Employees JAC is distinct from the Political JAC because it focused especially on:**
 
-- A. Service-rule and recruitment grievances
-- B. Article 3 enactment by itself
-- C. Supreme Court appointments
-- D. International treaties
+- A. Article 3 enactment by itself
+- B. Supreme Court appointments
+- C. International treaties
+- D. Service-rule and recruitment grievances
 
-**Answer: A.** Employee organisations contributed technical cadre evidence; the Political JAC coordinated a broader movement.
+**Answer: D.** Employee organisations contributed technical cadre evidence; the Political JAC coordinated a broader movement.
 
 **Q13. The 2009 opposition electoral alliance including TRS and TDP was commonly called:**
 
@@ -455,30 +461,30 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q14. A 2009 party manifesto is best treated as evidence of:**
 
-- A. A public electoral commitment
-- B. An enacted statute
+- A. An enacted statute
+- B. A public electoral commitment
 - C. An official casualty register
 - D. A court holding
 
-**Answer: A.** Manifestos express promises and positions; subsequent implementation must be assessed separately.
+**Answer: B.** Manifestos express promises and positions; subsequent implementation must be assessed separately.
 
 **Q15. A commonly reported TRS tally in the 2009 Andhra Pradesh Assembly election is:**
 
-- A. 10 seats
-- B. 157 seats
-- C. 90 seats
+- A. 157 seats
+- B. 90 seats
+- C. 10 seats
 - D. 294 seats
 
-**Answer: A.** Compiled election summaries report TRS 10, Congress 157, TDP 90 of 294; check the ECI statistical report for final constituency detail.
+**Answer: C.** Compiled election summaries report TRS 10, Congress 157, TDP 90 of 294; check the ECI statistical report for final constituency detail.
 
 **Q16. The Hyderabad free-zone dispute in 2009 concerned especially:**
 
-- A. Specified Hyderabad City Police posts
-- B. All jobs in Hyderabad
-- C. Every private employer
-- D. All university admissions
+- A. All jobs in Hyderabad
+- B. Every private employer
+- C. All university admissions
+- D. Specified Hyderabad City Police posts
 
-**Answer: A.** Paragraph 14(f) of the 1975 Presidential Order contained a specific police-post exception.
+**Answer: D.** Paragraph 14(f) of the 1975 Presidential Order contained a specific police-post exception.
 
 **Q17. Which paragraph of the 1975 Presidential Order featured in the police free-zone controversy?**
 
@@ -491,30 +497,30 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q18. The Supreme Court judgment P. V. Radha Krishna is dated:**
 
-- A. 9 October 2009
-- B. 27 April 2001
+- A. 27 April 2001
+- B. 9 October 2009
 - C. 9 December 2009
 - D. 2 June 2014
 
-**Answer: A.** The October 2009 service-law decision preceded the November fast and December political escalation.
+**Answer: B.** The October 2009 service-law decision preceded the November fast and December political escalation.
 
 **Q19. A correct interpretation of the free-zone judgment is:**
 
-- A. It addressed specified police cadres
-- B. It abolished all local reservations statewide
-- C. It created Telangana
+- A. It abolished all local reservations statewide
+- B. It created Telangana
+- C. It addressed specified police cadres
 - D. It enacted G.O. 610
 
-**Answer: A.** The judgment must not be inflated into a ruling about every public job.
+**Answer: C.** The judgment must not be inflated into a ruling about every public job.
 
 **Q20. KCR began the late-2009 fast-unto-death on:**
 
-- A. 29 November 2009
-- B. 24 December 2009
-- C. 7 December 2009
-- D. 1 January 2010
+- A. 24 December 2009
+- B. 7 December 2009
+- C. 1 January 2010
+- D. 29 November 2009
 
-**Answer: A.** The fast began in late November and ended following the 9 December announcement.
+**Answer: D.** The fast began in late November and ended following the 9 December announcement.
 
 **Q21. Which university became a prominent centre of student mobilisation in 2009?**
 
@@ -527,30 +533,30 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q22. The Andhra Pradesh all-party meeting immediately preceding the Union announcement occurred on:**
 
-- A. 7 December 2009
-- B. 27 April 2001
+- A. 27 April 2001
+- B. 7 December 2009
 - C. 23 December 2009
 - D. 5 January 2010
 
-**Answer: A.** Chidambaram later stated the Centre received its minutes on 8 December.
+**Answer: B.** Chidambaram later stated the Centre received its minutes on 8 December.
 
 **Q23. On 9 December 2009 the Union government announced:**
 
-- A. Initiation of a Telangana formation process
-- B. Completion of a new state
-- C. Promulgation of the 2014 Act
+- A. Completion of a new state
+- B. Promulgation of the 2014 Act
+- C. Initiation of a Telangana formation process
 - D. A final Supreme Court decree
 
-**Answer: A.** The language promised a process and an appropriate Assembly resolution, not immediate statehood.
+**Answer: C.** The language promised a process and an appropriate Assembly resolution, not immediate statehood.
 
 **Q24. Which leader made the 9 December 2009 Union statement?**
 
-- A. P. Chidambaram
-- B. K. M. Munshi
-- C. Fazal Ali
-- D. J. M. Girgliani
+- A. K. M. Munshi
+- B. Fazal Ali
+- C. J. M. Girgliani
+- D. P. Chidambaram
 
-**Answer: A.** The then Union Home Minister P. Chidambaram issued the statement.
+**Answer: D.** The then Union Home Minister P. Chidambaram issued the statement.
 
 **Q25. Why was the 23 December 2009 Union statement controversial?**
 
@@ -563,30 +569,30 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q26. The Telangana Political JAC was constituted on:**
 
-- A. 24 December 2009
-- B. 27 April 2001
+- A. 27 April 2001
+- B. 24 December 2009
 - C. 9 October 2009
 - D. 2 June 2014
 
-**Answer: A.** The platform emerged immediately after the 23 December Union statement.
+**Answer: B.** The platform emerged immediately after the 23 December Union statement.
 
 **Q27. The leading convenor of the Political JAC was:**
 
-- A. M. Kodandaram
-- B. J. M. Girgliani
-- C. Dayanidhi Maran
+- A. J. M. Girgliani
+- B. Dayanidhi Maran
+- C. M. Kodandaram
 - D. P. V. Radha Krishna
 
-**Answer: A.** Kodandaram helped coordinate parties and civil-society groups.
+**Answer: C.** Kodandaram helped coordinate parties and civil-society groups.
 
 **Q28. Which statement about the Political JAC is most accurate?**
 
-- A. Membership and tactics changed over time
-- B. Every party remained permanently united
-- C. It was a statutory court
-- D. It was identical to TRS
+- A. Every party remained permanently united
+- B. It was a statutory court
+- C. It was identical to TRS
+- D. Membership and tactics changed over time
 
-**Answer: A.** The coalition brought diverse groups together but experienced withdrawals and disagreements.
+**Answer: D.** The coalition brought diverse groups together but experienced withdrawals and disagreements.
 
 **Q29. Which distinction is essential when evaluating the 2009 statements?**
 
@@ -599,12 +605,12 @@ These links do not prove inevitability. They show how institutional access, admi
 
 **Q30. Which source best establishes final 2009 constituency-wise election results?**
 
-- A. Election Commission statistical report
-- B. An unsourced poster
+- A. An unsourced poster
+- B. Election Commission statistical report
 - C. A retrospective party speech
 - D. A fictional case study
 
-**Answer: A.** ECI statistical tables are the primary election record; slogans and recollections are not substitutes.
+**Answer: B.** ECI statistical tables are the primary election record; slogans and recollections are not substitutes.
 
 # Six original structured mains model answers — NOT authenticated official PYQs
 
@@ -618,7 +624,7 @@ These links do not prove inevitability. They show how institutional access, admi
 **Limitations.** Coalition bargaining created tension between office and movement credibility. Electoral results also reflected many issues besides statehood, so party votes cannot be read as a complete regional plebiscite. Civil-society and employee organisations continued to provide evidence and pressure outside formal party structures.
 
 **Conclusion.** TRS helped institutionalise and nationalise the demand, but the 2004 breakthrough remained conditional. Its significance was political leverage and sustained organisation, not a completed constitutional reorganisation.
-**Approximate answer length: 200 words.**
+**Body-only word count (Cycle75): 202 words.**
 
 ## Mains model answer 2 — Evaluate the 2004 UPA Common Minimum Programme and Pranab Mukherjee Committee in the Telangana statehood debate.
 **Introduction.** The 2004 Congress–TRS alliance brought Telangana into the agenda of the new Union coalition. The National Common Minimum Programme and subsequent ministerial consultation were important political steps, but neither created a state.
@@ -630,7 +636,7 @@ These links do not prove inevitability. They show how institutional access, admi
 **Achievements and shortcomings.** The demand acquired national visibility and a consultative forum. However, no binding deadline followed, and parties disagreed about whose consent constituted consensus. The lack of a transparent roadmap created space for postponement and frustration among supporters. Wider regional consultation was legitimate but could not be allowed to become an undefined veto.
 
 **Conclusion.** The programme and committee converted the issue into national coalition politics while exposing the limits of conditional assurances. Their central lesson is the need to distinguish recognition, consultation and enforceable constitutional action.
-**Approximate answer length: 205 words.**
+**Body-only word count (Cycle75): 208 words.**
 
 ## Mains model answer 3 — Explain how the Girgliani Committee and Telangana Employees Joint Action Committee influenced the separate-state movement.
 **Introduction.** Employment safeguards were a recurring Telangana grievance after the Six-Point Formula, Article 371-D and the 1975 Presidential Order. The Girgliani inquiry and employee associations made implementation a central public question in the 2000s.
@@ -642,7 +648,7 @@ These links do not prove inevitability. They show how institutional access, admi
 **Limitations and safeguards.** A regional allegation does not automatically prove every appointment unlawful. Correction must follow due process, individual hearings and appeal rights. Original committee annexures and departmental rosters are necessary before claiming exact violation counts. Transparent compliance reporting should distinguish exemptions, lawful transfers and established irregularities. The Employees JAC should not be confused with the Political JAC formed in December 2009.
 
 **Conclusion.** These institutions turned a broad political grievance into testable administrative questions. Their influence lay in linking documentary accountability, livelihood concerns and regional mobilisation while revealing the difficulty of implementing longstanding safeguards.
-**Approximate answer length: 208 words.**
+**Body-only word count (Cycle75): 212 words.**
 
 ## Mains model answer 4 — Discuss the Hyderabad free-zone controversy and its contribution to the 2009 Telangana agitation.
 **Introduction.** The 2009 Hyderabad free-zone dispute arose from the treatment of specified police posts under the 1975 Presidential Order. It became a political catalyst because employment safeguards were already a sensitive Telangana issue.
@@ -654,7 +660,7 @@ These links do not prove inevitability. They show how institutional access, admi
 **Administrative response.** Authorities needed to explain the precise post categories, comply with the judgment and consider lawful remedies without prejudicing valid appointments. Journalists and campaigners also had a duty not to convert a limited exception into a claim that the entire city was unrestricted for every department.
 
 **Conclusion.** The controversy strengthened distrust of existing safeguards and helped intensify mobilisation before KCR’s November fast. Its significance was the interaction of a specific judicial interpretation with longstanding political grievances, not a judicial order creating Telangana.
-**Approximate answer length: 211 words.**
+**Body-only word count (Cycle75): 213 words.**
 
 ## Mains model answer 5 — Trace the events from KCR’s November 2009 fast to the two Union statements in December 2009.
 **Introduction.** Late 2009 was a turning point because party mobilisation, student activism, employment disputes and central-government decisions converged. The fast created urgency but did not itself initiate a constitutional reorganisation.
@@ -666,7 +672,7 @@ These links do not prove inevitability. They show how institutional access, admi
 **Second announcement.** Opposition and resignations in Coastal Andhra and Rayalaseema followed. On 23 December the Centre said circumstances had changed and wider consultations were necessary. Telangana supporters regarded this as postponement; the government argued that emerging divisions required further dialogue.
 
 **Conclusion.** The sequence shows the cost of announcing a major constitutional intention without a transparent roadmap. It produced a breakthrough in recognition but also fresh distrust, leading directly to the Political Joint Action Committee’s formation. Article 3 still required Parliament to complete the prescribed constitutional process.
-**Approximate answer length: 200 words.**
+**Body-only word count (Cycle75): 204 words.**
 
 ## Mains model answer 6 — Assess the significance and limitations of the Telangana Political Joint Action Committee formed in December 2009.
 **Introduction.** The Political Joint Action Committee emerged on 24 December 2009 after the Union government’s second statement. It sought to coordinate a broad Telangana campaign during uncertainty over the statehood process.
@@ -678,7 +684,7 @@ These links do not prove inevitability. They show how institutional access, admi
 **Constraints.** The coalition was never permanently unanimous. Members disagreed over tactics and party rivalry; some Telangana TDP representatives withdrew or acted separately soon after its creation. A JAC could mobilise and negotiate, but it could not enact an Article 3 law or compel every member to follow a single line.
 
 **Conclusion.** The Political JAC transformed scattered mobilisation into a more durable coordinating network. Its importance lay in coalition management and broad participation, while its limits demonstrate that unity around statehood did not erase ideological, electoral or organisational differences. Its subsequent protest programmes require separate study beyond 2009.
-**Approximate answer length: 203 words.**
+**Body-only word count (Cycle75): 206 words.**
 
 # Dated source register and evidence audit
 
