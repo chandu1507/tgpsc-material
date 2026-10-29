@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "29 Oct Cycle84 official commission Notification 02/2024 Annexure-II Paper II Unit II Item 1 directly opened (R1 PASS); 16 analytical sections expanded to 319–387 words in one coherent editable master, six original MCQ distractor sets rewritten, 30 original MCQs rebalanced without validating all keys, six original mains 200–250 body words. Local deterministic 30-page PDF, all 16 concepts start on distinct pages; original PDF preserved. Source register distinguishes directly checked official pages from unexamined epigraphic editions. Academic R2–R8 NOT PASS; zero independent approvals. CI and downloaded post-CI artifact pending.",
+  "evidence": "29 Oct Cycle84 official commission Notification 02/2024 Annexure-II Paper II Unit II Item 1 directly opened (R1 PASS); 16 analytical sections expanded to 319–387 words in one coherent editable master, six original MCQ distractor sets rewritten, 30 original MCQs rebalanced without validating all keys, six original mains 200–250 body words. Local deterministic 30-page PDF, all 16 concepts start on distinct pages; original PDF preserved. Source register distinguishes directly checked official pages from unexamined epigraphic editions. Academic R2–R8 NOT PASS; zero independent approvals. CI and downloaded post-CI artifact pending. Actual post-CI GitHub artifact 12888541117 downloaded: CRC/digest PASS, 1931 files, 75 original PDFs unchanged, 75 readiness JSON, 525 links/1050 fragments zero broken. CI 30-page PDF SHA f1d66d601f235c437fb73e7fa67abde6f6f116162ff07ff6b5be50. R8 IN_PROGRESS; browser/accessibility and full academic review pending.",
   "next_action": "Publish via guarded CI; actually download GitHub artifact and verify 75 original hashes, ZIP CRC, links, fragments; claim-level audit of 30 MCQs and six mains, original epigraphy, diagram/browser accessibility, independent historian review.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -37,5 +37,6 @@
   "concepts_below_300": 0,
   "mcq_count": 30,
   "mains_count": 6,
-  "R9": "NOT_STARTED"
+  "R9": "NOT_STARTED",
+  "latest_actual_artifact_evidence": "project-control/academic-readiness/2-2-1-cycle84-actual-downloaded-github-artifact-qa-2026-10-29.json"
 }
