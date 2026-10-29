@@ -16,5 +16,30 @@
     "source/quick-revision.md": "ff4c4a646da1176b49e848b838724afc421e7bf5266c64ef624e1edf019f1157",
     "source/references.md": "ef642f1267383047597edeb759936d9d6d5b3141f9acdb61c3aaedbe9ff353e7",
     "source/syllabus-index.md": "63ceebc365e4b14ab6ccddef07e885083a1906400196a22856d10f1eea61447f"
+  },
+  "academic_status": "not_approved",
+  "cycle76_partial_rebuild": true,
+  "concept_count": 35,
+  "concepts_below_300": 32,
+  "integrated_pdf_pages": 27,
+  "integrated_pdf_sha256": "a7f9541f6427fb621a9ea69c9256a9194bd61f0eeaa12ca097eb5bd728bff7c6",
+  "independent_academic_approvals": 0,
+  "full_page_per_concept_met": false,
+  "sha256": {
+    "QA-REPORT.md": "fa0dd075d12f923f9b6e57c5c5d01f07c8a73c69931b8ec5bc467b2222e3247b",
+    "README.md": "4eb2d9fd36995efc011bb186101930a9ec4a7ac42f73af8847a6c44ef4172c5d",
+    "complete-notes.pdf": "413f9dccb2974da2fc4c09479603ed2a63fc1a0deb2a4286bac13a1cd770a94b",
+    "diagrams/evidence-and-ethics.png": "c8f19b17d46bfe63e300c1a80b1f1b335e332e5def95f69b30c18d3309c48556",
+    "diagrams/movement-federation.png": "d7137f6a91b489ff26b848f45364e7fe836fef0e229a3f1016c8de24082315fd",
+    "diagrams/party-positions-2012.png": "4f0d227c122120af05a5a8e2e1cc76d0795066c72068251616be9fdfcc1fdc18",
+    "index.html": "6fac42c7644ab63f23bb85c77c64b4b7c1a67f3e53707ae40c07db9e91444621",
+    "source/answer-blueprints.md": "0ba0c1ecffe60f7e2c8910f2d9a238cc763147a75fb0d60ac3dddbce472deab1",
+    "source/complete-model-answers.md": "5c26058c69aa2bc454d9a3bcfa71f2735c7afbc128f33f7f53a8557b1dda0cd5",
+    "source/complete-notes.md": "61471f94d4118e1f242d5f8f52c82a65ae188a9536ae31c28ed86485ec1e4c12",
+    "source/integrated-student-edition-cycle76.pdf": "a7f9541f6427fb621a9ea69c9256a9194bd61f0eeaa12ca097eb5bd728bff7c6",
+    "source/original-practice.md": "faf41df8e96870ce6087b6979d1c0ce837092ab2733518aaa7ee0fb255090eef",
+    "source/quick-revision.md": "ff4c4a646da1176b49e848b838724afc421e7bf5266c64ef624e1edf019f1157",
+    "source/references.md": "2545831e6d0697a38a68645f7622ef67449056b89b37cc5fc314579c343c93b4",
+    "source/syllabus-index.md": "63ceebc365e4b14ab6ccddef07e885083a1906400196a22856d10f1eea61447f"
   }
 }
