@@ -1,8 +1,8 @@
 {
   "topic_id": "2-1-4",
   "title": "Anti-British Uprisings, Nationalism and Social Reform",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -14,20 +14,35 @@
     "md_files": 20,
     "complete_notes_words": 14204,
     "detailed_notes_words": 2278,
-    "supplement_md_count": 2
+    "supplement_md_count": 2,
+    "cycle82_concepts": 19,
+    "cycle82_concepts_below_300": 13,
+    "cycle82_original_practice_mcqs": 30,
+    "cycle82_source_correlated_keys": 8,
+    "cycle82_source_correlated_distractors": 24,
+    "cycle82_mains_body_only_counts": [
+      204,
+      212,
+      225,
+      225,
+      202,
+      222
+    ],
+    "cycle82_original_pdf_sha256": "23b21afafae86150ceaa698bdbea3a6de53f354e0653804596d0d28d93813862"
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle82 source-critical integrated master: 19 concepts, 13 under 300 words; 8 of 30 MCQ keys and 24 of 90 distractors author source-correlated, six mains body-only lengths pass but claim audits incomplete; original commission 2024 syllabus PDF HTTP 403; R8 awaits CI PDF and actual downloaded artifact. project-control/academic-readiness/2-1-4-cycle82-direct-source-depth-mcq-mains-audit-2026-10-29.json",
+  "next_action": "Verify CI PDF and actual downloaded GitHub artifact, then deepen 13 shallow concepts, verify 22 remaining MCQ keys and 66 distractors, all mains claims, diagrams, live browser, official syllabus; independent expert only after R1-R8 PASS.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "production_review": "cycle82_consolidated_source_critical_master_and_bounded_audit_ci_pending"
 }
