@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-labelledby="title desc">
+<title id="title">Cabinet Mission Plan of 16 May 1946: proposed constitutional distribution</title>
+<desc id="desc">A proposed Union with foreign affairs, defence and communications; provinces retaining other and residuary powers; optional provincial groups; assembly sections A, B and C. Proposal, not enacted constitution.</desc>
+<rect width="900" height="540" fill="#f5f8fc"/>
+<text x="450" y="40" font-family="DejaVu Sans" font-size="25" font-weight="bold" text-anchor="middle" fill="#15375b">CABINET MISSION: PROPOSED FRAMEWORK (1946)</text>
+<rect x="230" y="75" width="440" height="118" rx="12" fill="#dcecff" stroke="#205b90" stroke-width="3"/>
+<text x="450" y="107" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="bold" fill="#12314d">Union of India (proposed)</text>
+<text x="450" y="137" font-family="DejaVu Sans" font-size="17" text-anchor="middle" fill="#12314d">Foreign affairs · Defence · Communications</text>
+<text x="450" y="165" font-family="DejaVu Sans" font-size="16" text-anchor="middle" fill="#12314d">and finances necessary for these subjects</text>
+<path d="M450 193 V225" stroke="#426f9d" stroke-width="3" fill="none"/>
+<rect x="30" y="228" width="400" height="125" rx="12" fill="#e8f5e9" stroke="#3a7c56" stroke-width="3"/>
+<text x="230" y="262" font-family="DejaVu Sans" font-size="21" text-anchor="middle" font-weight="bold" fill="#204c34">Provinces</text>
+<text x="230" y="292" font-family="DejaVu Sans" font-size="16" text-anchor="middle" fill="#204c34">Other subjects and residuary powers</text>
+<text x="230" y="320" font-family="DejaVu Sans" font-size="16" text-anchor="middle" fill="#204c34">retained at provincial level</text>
+<rect x="470" y="228" width="400" height="125" rx="12" fill="#fff1d9" stroke="#ad7422" stroke-width="3"/>
+<text x="670" y="262" font-family="DejaVu Sans" font-size="21" text-anchor="middle" font-weight="bold" fill="#6d4713">Provincial groups</text>
+<text x="670" y="292" font-family="DejaVu Sans" font-size="16" text-anchor="middle" fill="#6d4713">May share provincial subjects</text>
+<text x="670" y="320" font-family="DejaVu Sans" font-size="16" text-anchor="middle" fill="#6d4713">with group executive / legislature</text>
+<path d="M430 290 H470" stroke="#7c8da0" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="60" y="389" width="780" height="91" rx="10" fill="#fff" stroke="#73879a" stroke-width="2"/>
+<text x="450" y="418" font-family="DejaVu Sans" font-size="19" text-anchor="middle" font-weight="bold" fill="#193d60">Constituent Assembly: initially through provincial legislatures</text>
+<text x="450" y="449" font-family="DejaVu Sans" font-size="16" text-anchor="middle" fill="#193d60">Sections A · B · C under paragraph 19; grouping interpretations disputed</text>
+<text x="450" y="511" font-family="DejaVu Sans" font-size="16" text-anchor="middle" font-weight="bold" fill="#a12e31">PROPOSAL ONLY — NOT AN ENACTED CONSTITUTION</text>
+</svg>
