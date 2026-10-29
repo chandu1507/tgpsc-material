@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle92 29 Oct: Topic 2-3-5 eight explanatory concepts substantively expanded, source register U14-U17 added; renderer 40925286660 SUCCESS; actual post-render packaging QA pending. R3 IN_PROGRESS, zero academic approvals.",
+  "last_readiness_update": "Cycle92: 16/16 Topic2-3-5 concepts mechanically >=300 words; renderer 40925286660 SUCCESS; artifact 12920506594 ACTUALLY DOWNLOADED and CRC/SHA/75 original/597 link/1050 fragment QA PASS; R3/R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
