@@ -11,30 +11,30 @@
 
 **Q2. The central political objective of TRS at its founding was:**
 
-- A. A separate Telangana state
-- B. Replacing Article 3
+- A. Replacing Article 3
+- B. A separate Telangana state
 - C. Establishing a national civil service
 - D. A new Supreme Court
 
-**Answer: A.** TRS organised around statehood; it could not independently alter constitutional boundaries.
+**Answer: B.** TRS organised around statehood; it could not independently alter constitutional boundaries.
 
 **Q3. Which leader founded TRS after leaving Telugu Desam Party?**
 
-- A. K. Chandrashekar Rao
-- B. Pranab Mukherjee
-- C. M. Kodandaram
+- A. Pranab Mukherjee
+- B. M. Kodandaram
+- C. K. Chandrashekar Rao
 - D. P. Chidambaram
 
-**Answer: A.** KCR founded the party; the other named individuals had different roles in consultation or mobilisation.
+**Answer: C.** KCR founded the party; the other named individuals had different roles in consultation or mobilisation.
 
 **Q4. The Congress–TRS pre-election alliance is associated with:**
 
-- A. 2004
-- B. 1956
-- C. 1973
-- D. 2014
+- A. 1956
+- B. 1973
+- C. 2014
+- D. 2004
 
-**Answer: A.** Their 2004 alliance gave the Telangana issue a route into UPA coalition bargaining.
+**Answer: D.** Their 2004 alliance gave the Telangana issue a route into UPA coalition bargaining.
 
 **Q5. Which phrase best describes the 2004 UPA Telangana commitment?**
 
@@ -47,30 +47,30 @@
 
 **Q6. Which institution has constitutional power to form a new state under Article 3?**
 
-- A. Parliament
-- B. District collector
+- A. District collector
+- B. Parliament
 - C. State Election Commission
 - D. A political JAC
 
-**Answer: A.** Article 3 assigns the state-formation law to Parliament through the prescribed procedure.
+**Answer: B.** Article 3 assigns the state-formation law to Parliament through the prescribed procedure.
 
 **Q7. The Pranab Mukherjee sub-committee primarily sought:**
 
-- A. Political-party views and consensus
-- B. Local-cadre personnel files
-- C. Hydrological project clearances
+- A. Local-cadre personnel files
+- B. Hydrological project clearances
+- C. Political-party views and consensus
 - D. A judicial appeal
 
-**Answer: A.** It was a Union political consultation mechanism, not the Girgliani employment inquiry.
+**Answer: C.** It was a Union political consultation mechanism, not the Girgliani employment inquiry.
 
 **Q8. Which pair were reported as members of the Pranab Mukherjee group?**
 
-- A. Raghuvansh Prasad Singh and Dayanidhi Maran
-- B. Fazal Ali and K. M. Panikkar
-- C. M. Kodandaram and KCR
-- D. J. M. Girgliani and Justice Srikrishna
+- A. Fazal Ali and K. M. Panikkar
+- B. M. Kodandaram and KCR
+- C. J. M. Girgliani and Justice Srikrishna
+- D. Raghuvansh Prasad Singh and Dayanidhi Maran
 
-**Answer: A.** Contemporary 2005 reporting names the two Union ministers alongside Mukherjee.
+**Answer: D.** Contemporary 2005 reporting names the two Union ministers alongside Mukherjee.
 
 **Q9. Girgliani inquiry concerned principally:**
 
@@ -83,30 +83,30 @@
 
 **Q10. G.O. 610 is most closely associated with:**
 
-- A. Rectification of local employment irregularities
-- B. Creation of TRS
+- A. Creation of TRS
+- B. Rectification of local employment irregularities
 - C. Appointment of the President
 - D. 2009 Assembly dissolution
 
-**Answer: A.** The 1985 order became a symbol of disputed implementation of employment safeguards.
+**Answer: B.** The 1985 order became a symbol of disputed implementation of employment safeguards.
 
 **Q11. A legally sound investigation of a local recruitment complaint first needs:**
 
-- A. Cadre rules and appointment records
-- B. Candidate surnames alone
-- C. Newspaper vote counts
+- A. Candidate surnames alone
+- B. Newspaper vote counts
+- C. Cadre rules and appointment records
 - D. Only a party manifesto
 
-**Answer: A.** Post classification, eligibility and appointments determine legal compliance, not regional stereotypes.
+**Answer: C.** Post classification, eligibility and appointments determine legal compliance, not regional stereotypes.
 
 **Q12. The Telangana Employees JAC is distinct from the Political JAC because it focused especially on:**
 
-- A. Service-rule and recruitment grievances
-- B. Article 3 enactment by itself
-- C. Supreme Court appointments
-- D. International treaties
+- A. Article 3 enactment by itself
+- B. Supreme Court appointments
+- C. International treaties
+- D. Service-rule and recruitment grievances
 
-**Answer: A.** Employee organisations contributed technical cadre evidence; the Political JAC coordinated a broader movement.
+**Answer: D.** Employee organisations contributed technical cadre evidence; the Political JAC coordinated a broader movement.
 
 **Q13. The 2009 opposition electoral alliance including TRS and TDP was commonly called:**
 
@@ -119,30 +119,30 @@
 
 **Q14. A 2009 party manifesto is best treated as evidence of:**
 
-- A. A public electoral commitment
-- B. An enacted statute
+- A. An enacted statute
+- B. A public electoral commitment
 - C. An official casualty register
 - D. A court holding
 
-**Answer: A.** Manifestos express promises and positions; subsequent implementation must be assessed separately.
+**Answer: B.** Manifestos express promises and positions; subsequent implementation must be assessed separately.
 
 **Q15. A commonly reported TRS tally in the 2009 Andhra Pradesh Assembly election is:**
 
-- A. 10 seats
-- B. 157 seats
-- C. 90 seats
+- A. 157 seats
+- B. 90 seats
+- C. 10 seats
 - D. 294 seats
 
-**Answer: A.** Compiled election summaries report TRS 10, Congress 157, TDP 90 of 294; check the ECI statistical report for final constituency detail.
+**Answer: C.** Compiled election summaries report TRS 10, Congress 157, TDP 90 of 294; check the ECI statistical report for final constituency detail.
 
 **Q16. The Hyderabad free-zone dispute in 2009 concerned especially:**
 
-- A. Specified Hyderabad City Police posts
-- B. All jobs in Hyderabad
-- C. Every private employer
-- D. All university admissions
+- A. All jobs in Hyderabad
+- B. Every private employer
+- C. All university admissions
+- D. Specified Hyderabad City Police posts
 
-**Answer: A.** Paragraph 14(f) of the 1975 Presidential Order contained a specific police-post exception.
+**Answer: D.** Paragraph 14(f) of the 1975 Presidential Order contained a specific police-post exception.
 
 **Q17. Which paragraph of the 1975 Presidential Order featured in the police free-zone controversy?**
 
@@ -155,30 +155,30 @@
 
 **Q18. The Supreme Court judgment P. V. Radha Krishna is dated:**
 
-- A. 9 October 2009
-- B. 27 April 2001
+- A. 27 April 2001
+- B. 9 October 2009
 - C. 9 December 2009
 - D. 2 June 2014
 
-**Answer: A.** The October 2009 service-law decision preceded the November fast and December political escalation.
+**Answer: B.** The October 2009 service-law decision preceded the November fast and December political escalation.
 
 **Q19. A correct interpretation of the free-zone judgment is:**
 
-- A. It addressed specified police cadres
-- B. It abolished all local reservations statewide
-- C. It created Telangana
+- A. It abolished all local reservations statewide
+- B. It created Telangana
+- C. It addressed specified police cadres
 - D. It enacted G.O. 610
 
-**Answer: A.** The judgment must not be inflated into a ruling about every public job.
+**Answer: C.** The judgment must not be inflated into a ruling about every public job.
 
 **Q20. KCR began the late-2009 fast-unto-death on:**
 
-- A. 29 November 2009
-- B. 24 December 2009
-- C. 7 December 2009
-- D. 1 January 2010
+- A. 24 December 2009
+- B. 7 December 2009
+- C. 1 January 2010
+- D. 29 November 2009
 
-**Answer: A.** The fast began in late November and ended following the 9 December announcement.
+**Answer: D.** The fast began in late November and ended following the 9 December announcement.
 
 **Q21. Which university became a prominent centre of student mobilisation in 2009?**
 
@@ -191,30 +191,30 @@
 
 **Q22. The Andhra Pradesh all-party meeting immediately preceding the Union announcement occurred on:**
 
-- A. 7 December 2009
-- B. 27 April 2001
+- A. 27 April 2001
+- B. 7 December 2009
 - C. 23 December 2009
 - D. 5 January 2010
 
-**Answer: A.** Chidambaram later stated the Centre received its minutes on 8 December.
+**Answer: B.** Chidambaram later stated the Centre received its minutes on 8 December.
 
 **Q23. On 9 December 2009 the Union government announced:**
 
-- A. Initiation of a Telangana formation process
-- B. Completion of a new state
-- C. Promulgation of the 2014 Act
+- A. Completion of a new state
+- B. Promulgation of the 2014 Act
+- C. Initiation of a Telangana formation process
 - D. A final Supreme Court decree
 
-**Answer: A.** The language promised a process and an appropriate Assembly resolution, not immediate statehood.
+**Answer: C.** The language promised a process and an appropriate Assembly resolution, not immediate statehood.
 
 **Q24. Which leader made the 9 December 2009 Union statement?**
 
-- A. P. Chidambaram
-- B. K. M. Munshi
-- C. Fazal Ali
-- D. J. M. Girgliani
+- A. K. M. Munshi
+- B. Fazal Ali
+- C. J. M. Girgliani
+- D. P. Chidambaram
 
-**Answer: A.** The then Union Home Minister P. Chidambaram issued the statement.
+**Answer: D.** The then Union Home Minister P. Chidambaram issued the statement.
 
 **Q25. Why was the 23 December 2009 Union statement controversial?**
 
@@ -227,30 +227,30 @@
 
 **Q26. The Telangana Political JAC was constituted on:**
 
-- A. 24 December 2009
-- B. 27 April 2001
+- A. 27 April 2001
+- B. 24 December 2009
 - C. 9 October 2009
 - D. 2 June 2014
 
-**Answer: A.** The platform emerged immediately after the 23 December Union statement.
+**Answer: B.** The platform emerged immediately after the 23 December Union statement.
 
 **Q27. The leading convenor of the Political JAC was:**
 
-- A. M. Kodandaram
-- B. J. M. Girgliani
-- C. Dayanidhi Maran
+- A. J. M. Girgliani
+- B. Dayanidhi Maran
+- C. M. Kodandaram
 - D. P. V. Radha Krishna
 
-**Answer: A.** Kodandaram helped coordinate parties and civil-society groups.
+**Answer: C.** Kodandaram helped coordinate parties and civil-society groups.
 
 **Q28. Which statement about the Political JAC is most accurate?**
 
-- A. Membership and tactics changed over time
-- B. Every party remained permanently united
-- C. It was a statutory court
-- D. It was identical to TRS
+- A. Every party remained permanently united
+- B. It was a statutory court
+- C. It was identical to TRS
+- D. Membership and tactics changed over time
 
-**Answer: A.** The coalition brought diverse groups together but experienced withdrawals and disagreements.
+**Answer: D.** The coalition brought diverse groups together but experienced withdrawals and disagreements.
 
 **Q29. Which distinction is essential when evaluating the 2009 statements?**
 
@@ -263,9 +263,9 @@
 
 **Q30. Which source best establishes final 2009 constituency-wise election results?**
 
-- A. Election Commission statistical report
-- B. An unsourced poster
+- A. An unsourced poster
+- B. Election Commission statistical report
 - C. A retrospective party speech
 - D. A fictional case study
 
-**Answer: A.** ECI statistical tables are the primary election record; slogans and recollections are not substitutes.
+**Answer: B.** ECI statistical tables are the primary election record; slogans and recollections are not substitutes.
