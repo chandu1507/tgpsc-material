@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-30",
+  "cycle": 93,
+  "topic_id": "2-3-2",
+  "status": "ACTUAL_DOWNLOADED_ARTIFACT_VERIFIED_ACADEMIC_READINESS_IN_PROGRESS",
+  "source": "GitHub Actions run 40936365470, artifact 12924997214, actual ZIP downloaded and independently inspected",
+  "artifact_run_head_sha": "2c40122fa23fcfee2e0c6040e87505eb3f52a584",
+  "github_artifact_declared_digest": "sha256:de58dfd1bc5d395bdddaab1f504e79cd0f612cc23c130350eba7694ba95fb0b6",
+  "downloaded_outer_sha256": "de58dfd1bc5d395bdddaab1f504e79cd0f612cc23c130350eba7694ba95fb0b6",
+  "inner_zip_sha256": "a9088425e14e9d0a8e0644905698446933f48b8bc71c7cecb554a0c8ebdcc1a8",
+  "outer_crc": "PASS",
+  "inner_crc": "PASS",
+  "files": 1972,
+  "original_topic_pdfs": 75,
+  "original_pdfs_unchanged_vs_cycle92": 75,
+  "readiness_json": 75,
+  "html_pages": 87,
+  "local_file_links_checked": 597,
+  "broken_local_file_links": 0,
+  "dom_fragment_links_checked": 1050,
+  "broken_dom_fragment_links": 0,
+  "spa_hash_routes_excluded": 43,
+  "pdf_pages": 31,
+  "pdf_sha256": "01617c9e3f17d6ee5b54f1ad21e3a6f19907243ab03745f1babc2728134f938c",
+  "pdf_git_blob_sha1": "18becc427c83f423779d2f66449c4b1713d8ec94",
+  "master_sha256": "f53b9694ecafcdd70f25be2b75b6889a21da958a1f6fe5b276d2d2a7a527ac61",
+  "master_git_blob_sha1": "315d08361cc23dc113f1e60a3772e9187c567586",
+  "fresh_main_sha_at_verification": "021d93c0ec1047bad24113c10873ef942bb595df",
+  "master_and_pdf_git_blobs_match_fresh_main": true,
+  "main_since_artifact": "Two commits ahead, modifying downloads/TGPSC_GITHUB_PUBLICATION_SNAPSHOT.zip and latest-publication-artifact-pointer.json only; original master/PDF unchanged.",
+  "pdf_blank_pages": 0,
+  "pdf_out_of_bounds_text_blocks": 0,
+  "pdf_pages_visually_sampled": [
+    1,
+    6,
+    13,
+    20,
+    25,
+    28,
+    31
+  ],
+  "sample_no_obvious_clipping": true,
+  "full_visual_accessibility_certified": false,
+  "normalized_readiness_statuses": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "verified_r1_pass_count": 14,
+  "r1_schema_note": "Topic 2-2-4 uses gates.R1.status=PASS; most other topics use gate_status.R1. A gate_status-only count incorrectly reports 13.",
+  "bounded_source_checks": [
+    {
+      "question": 22,
+      "source": "https://www.ies.gov.in/arthapedia/concept/cities-and-towns",
+      "finding": "Statutory/census town distinction corroborates settlement reclassification; no complete independent item approval."
+    },
+    {
+      "question": 23,
+      "source": "https://www.nudm.mohua.gov.in/what-is-nudm/",
+      "finding": "Official citizen-centric governance objectives support evaluating service outcomes rather than app/sensor counts; evaluation choice is an author judgement, not demonstrated impact."
+    }
+  ],
+  "limitations": [
+    "32 of 40 concepts remain under 300 whitespace-delimited tokens by Cycle93 method; mechanical depth is not academic approval.",
+    "All 25 keys/100 options and six mains claim sets require independent academic review.",
+    "Static links and PDF geometry passed; live browser usability and full accessibility are not certified.",
+    "No original official PYQ or archival consultation is claimed."
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0
+}
