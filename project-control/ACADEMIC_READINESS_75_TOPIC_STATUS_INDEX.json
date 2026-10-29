@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 66 ASSESSED_REBUILD_REQUIRED / 2 NOT_ASSESSED; 14 verified/historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle84 Topic 2-2-1 actual GitHub artifact integrity PASS but R8 IN_PROGRESS.",
+  "warning": "Reconciled 29 Oct 2026 Cycle87 against 75 checkpoint topic records: 75 original topics/PDFs; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 verified/historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Topic 3-1-1 four remaining Part C sections expanded above mechanical 300-word threshold; independent academic checks remain incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
