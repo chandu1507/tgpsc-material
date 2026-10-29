@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-29",
+  "cycle": 87,
+  "topic_id": "3-1-1",
+  "repository_base_main": "587350f4d0ca7233264ec41b68df3fe8e5005f81",
+  "classification": "PARTIAL_ACADEMIC_REBUILD_NOT_APPROVED",
+  "source_master": "Paper 3/Unit 1 - Indian Society/Topic 1/source/integrated-student-edition-2026-10-27.md",
+  "preserved_original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "narrative_concepts": 18,
+  "expanded_existing_sections": [
+    2,
+    3,
+    15,
+    16
+  ],
+  "body_word_counts": [
+    318,
+    447,
+    468,
+    380,
+    626,
+    413,
+    415,
+    471,
+    787,
+    476,
+    601,
+    481,
+    602,
+    423,
+    454,
+    412,
+    310,
+    356
+  ],
+  "under_300_count": 0,
+  "word_count_method": "Unicode regex token count of each numbered Part C section through next numbered Part C heading; includes applied subsections; this is not a qualitative R3 PASS.",
+  "original_practice_mcqs": 25,
+  "authenticated_official_pyqs": 0,
+  "this_cycle_author_side_bounded_checks": [
+    {
+      "question": 2,
+      "key": "A",
+      "source": "NCERT Indian Society Ch3 indexed SATHEE text",
+      "scope": "Srinivas attribution and three wrong author alternatives"
+    },
+    {
+      "question": 3,
+      "key": "B",
+      "source": "NCERT Indian Society Ch3 indexed SATHEE text",
+      "scope": "Sanskritisation is status-practice change, not caste abolition"
+    },
+    {
+      "question": 4,
+      "key": "C",
+      "source": "NCERT Indian Society Ch3 indexed SATHEE text",
+      "scope": "Matriliny distinct from matriarchy"
+    },
+    {
+      "question": 6,
+      "key": "A",
+      "source": "ORGI Census 2011 C-16 catalogue",
+      "scope": "Mother tongue reference-year table and three non-statistical alternatives"
+    },
+    {
+      "question": 8,
+      "key": "B",
+      "source": "NCERT Indian Society Ch6 SATHEE text",
+      "scope": "Cultural accommodation versus assimilation, not mere co-presence"
+    },
+    {
+      "question": 10,
+      "key": "B",
+      "source": "Telangana CGG SEEEPC project description",
+      "scope": "November 2024 household survey identity and three wrong alternatives"
+    }
+  ],
+  "source_correlated_this_cycle": {
+    "keys": 6,
+    "distractors": 18
+  },
+  "other_first_ten_not_claimed_checked": [
+    1,
+    5,
+    7,
+    9
+  ],
+  "source_register": [
+    {
+      "url": "https://sathee.iitk.ac.in/ncert-books/class-12/sociology/indian-society/chapter-03-social-institutions-continuity-and-change/",
+      "access": "search-indexed full text; direct page open HTTP 403; not original NCERT PDF"
+    },
+    {
+      "url": "https://sathee.iitk.ac.in/sathee-cuet/student-corner/ncert-books/class-12/sociology/indian-society/chapter-06-the-challenges-of-cultural-diversity/",
+      "access": "indexed text; sociological concepts only; do not reuse obsolete demographic counts"
+    },
+    {
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10191",
+      "access": "direct public metadata 2011 reference year; 2022 catalogue date not census year"
+    },
+    {
+      "url": "https://www.cgg.gov.in/it_project/socio-economic-education-employment-political-and-caste-seeepc-survey/",
+      "access": "direct project description; no survey findings or completeness certification"
+    }
+  ],
+  "limits": [
+    "NCERT official publisher-hosted chapter PDFs timed out",
+    "No independent expert signoff",
+    "Not a full 25-question key/distractor audit",
+    "No six-mains claim-level audit",
+    "No original-work monograph consultation",
+    "No visual/browser/accessibility certification",
+    "CI PDF publication and actual downloaded artifact QA must follow branch merge"
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0,
+  "total_topics_guard": 75
+}
