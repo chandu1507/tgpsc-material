@@ -1,11 +1,9 @@
 {
-  "run_id": 40853858869,
-  "artifact_id": 12888112362,
-  "artifact_digest": "58ffd9b89cb0da7d15f4086c800baa39338683c4c6ac36fafc17e6639a19100d",
-  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40853858869/artifacts/12888112362",
+  "run_id": 40861357743,
+  "artifact_id": 12892250049,
+  "artifact_digest": "618ff61eb59194206dbd3ad0a3ff2d9a4914252a1f41ffd277f5e2e6e7ad6536",
+  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40861357743/artifacts/12892250049",
   "name": "tgpsc-github-publication-snapshot",
-  "recorded_utc": "2026-10-29T09:59:36.785189+00:00",
-  "independently_downloaded_and_qa_verified": true,
-  "qa_scope": "Actual artifact outer/inner CRC, digest, 75 original PDF hashes, 75 readiness JSON, 525 links, 1050 fragments, CI PDF/manifest; academic approval NOT granted",
-  "qa_saved_to": "/Mounika/TGPSC_ACADEMIC_READINESS_P2_U2_T1_CYCLE84_20261029/CYCLE84_NEWEST_DOWNLOADED_GITHUB_ARTIFACT_QA.json"
+  "recorded_utc": "2026-10-29T10:55:50.869923+00:00",
+  "independently_downloaded_and_qa_verified": false
 }
