@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle93: exactly 75 original topics/PDFs; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS; ZERO fully R1-R8 ready, ZERO independent approvals. Topic 2-3-2 31-page CI PDF and actual downloaded artifact digest/CRC/75 originals/597 links/1050 fragments verified; 32/40 concepts under300 and independent academic audit pending.",
+  "warning": "Cycle94 30 Oct: exactly 75 original topics/PDFs, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED, 14 normalized R1 PASS, zero R1–R8 ready and zero approvals. Topic 2-3-2 five source-grounded concepts expanded; direct whole-section whitespace recount 27→22 below300, prior Cycle93 narrative 32 not reproduced. CI PDF, downloaded post-edit artifact and independent academic audits pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle93 Topic 2-3-2: four concepts expanded, four MCQs bounded checked, 31-page synchronized CI PDF and downloaded GitHub artifact 12924997214 independently integrity verified; no academic approval.",
+  "last_readiness_update": "Cycle94 Topic 2-3-2 source-based depth expansion (19/26/34/37/40), author-side NICDC/PLFS/Census correspondences; PDF and downloaded artifact pending; academic approval ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-cycle94-nicdc-plfs-census-depth-reconciliation-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-5-cycle91-actual-downloaded-github-artifact-qa-2026-10-29.json",

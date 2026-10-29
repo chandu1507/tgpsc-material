@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-30",
+  "cycle": 94,
+  "topic_id": "2-3-2",
+  "title": "India: Agriculture, Industry, Population and Urbanisation",
+  "baseline_main_sha": "a2077b375e00755fe3cd74bba2b6f4b59335655d",
+  "branch": "academic-cycle94-topic-2-3-2-evidence-depth",
+  "source_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+  "method": "Whitespace-delimited tokens across complete numbered Part C section including heading and all paragraphs, regex from ### n. to next numbered ### or ## Part D. Recount made directly from current branch's original master before changes, not stale Cycle93 summary.",
+  "section_count": 40,
+  "sections_under300_before": 27,
+  "sections_under300_after": 22,
+  "cycle93_reported_under300": 32,
+  "discrepancy": "Cycle93 narrative reported 32 under300; direct pre-edit recount of fresh main using the documented whole-section whitespace method yields 27. Different content boundaries, method or an earlier erroneous count may explain it; not resolved and not represented as an academic readiness improvement.",
+  "expanded_sections": [
+    {
+      "id": 19,
+      "before": 242,
+      "after": 380
+    },
+    {
+      "id": 26,
+      "before": 226,
+      "after": 383
+    },
+    {
+      "id": 34,
+      "before": 238,
+      "after": 384
+    },
+    {
+      "id": 37,
+      "before": 249,
+      "after": 400
+    },
+    {
+      "id": 40,
+      "before": 213,
+      "after": 357
+    }
+  ],
+  "source_correlations": [
+    {
+      "id": "S19",
+      "url": "https://nicdc.in/projects/12-new-projects/zaheerabad-telangana",
+      "directly_viewed": true,
+      "scope": "Zaheerabad proposed node footprint, Phase1, focus sectors, land use and job potential; no realised-outcome claim"
+    },
+    {
+      "id": "S20",
+      "url": "https://mospi.gov.in/sites/default/files/press_release/Press_note_AR_PLFS_2023_24_22092024.pdf",
+      "directly_viewed": true,
+      "scope": "PLFS annual 2023-24 p2, age15+ usual-status LFPR/WPR/unemployment; survey not census"
+    },
+    {
+      "id": "S21",
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10840",
+      "directly_viewed": true,
+      "scope": "ORGI Census2011 D-03 migration variables and reason categories; data workbook not downloaded"
+    },
+    {
+      "id": "S22",
+      "url": "https://censusindia.gov.in/census.website/hi/node/97",
+      "directly_viewed": true,
+      "scope": "ORGI interpretive account of 2011 female migration; not 2026 data"
+    }
+  ],
+  "original_topic_count": 75,
+  "originals_modified": false,
+  "new_topic_created": false,
+  "mcqs_modified": false,
+  "original_mcqs_preserved": 25,
+  "mains_modified": false,
+  "original_mains_preserved": 6,
+  "r1": "PASS",
+  "r2": "IN_PROGRESS",
+  "r3": "IN_PROGRESS",
+  "r4": "IN_PROGRESS",
+  "r5": "IN_PROGRESS",
+  "r6": "IN_PROGRESS",
+  "r7": "IN_PROGRESS",
+  "r8": "PENDING_POST_EDIT_CI_AND_DOWNLOADED_ARTIFACT_QA",
+  "r9": "NOT_STARTED",
+  "independent_academic_approvals": 0,
+  "limitations": [
+    "22/40 concepts remain under 300 words by direct whole-section whitespace count; no qualitative expert review",
+    "Complete 25-key/100-option independent MCQ audit outstanding",
+    "Six mains answers need claim-level review",
+    "Source pages verify bounded factual correspondences, not project outcomes or complete chapter",
+    "No official PYQs, archival access or independent expert approvals claimed",
+    "CI PDF and actual downloaded artifact must be checked after merge; browser accessibility not certified"
+  ]
+}
