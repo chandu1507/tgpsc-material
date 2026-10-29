@@ -37,7 +37,7 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          chapter='Paper 6/Unit 3 - State Formation (1991–2014)/Topic 2'
+          chapter='Paper 6/Unit 3 - State Formation (1991–2014)/Topic 3'
           for attempt in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
