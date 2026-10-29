@@ -32,9 +32,10 @@
     "project-control/academic-readiness/2-3-2-turn14-integrated-rebuild-evidence-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn14-post-render-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-turn15-substantive-depth-mcq-evidence-2026-10-26.json",
-    "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json"
+    "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json",
+    "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json"
   ],
-  "next_action": "R2 dedup/contradictions, R3 35 sections under 300 words qualitative textbook depth, R4 claim-level official sources, R5 independent factual review of all 25 MCQs, R6 six mains, R7 maps/diagram accuracy, R8 full-resolution accessibility and public browser. No academic approval.",
+  "next_action": "Cycle93: 4/40 sections expanded with first-party methodology, 32/40 still under300 by whitespace count; independent R2-R7 claim, 25-key/100-option, six mains and diagrams audits remain. CI PDF and actual downloaded-artifact QA must be completed separately; R8 IN_PROGRESS; zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -115,5 +116,35 @@
     "pdf_ci_renderer_run": 40345471659,
     "full_resolution_accessibility_certified": false,
     "public_browser_usability_verified": false
+  },
+  "cycle93_2026_10_30": {
+    "status": "PARTIAL_SUBSTANTIVE_REBUILD_NOT_APPROVED",
+    "evidence": "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json",
+    "expanded_sections": [
+      27,
+      28,
+      29,
+      39
+    ],
+    "mechanical_whitespace_below300_before": 36,
+    "mechanical_whitespace_below300_after": 32,
+    "mechanical_method_not_comparable_to_historical_unicode_count": true,
+    "source_register_S14_to_S18": true,
+    "author_side_mcq_ids": [
+      19,
+      21,
+      22,
+      23
+    ],
+    "rewritten_mcqs": [
+      22,
+      23
+    ],
+    "independent_key_and_option_audit_complete": false,
+    "ci_pdf_and_artifact_qa": "PENDING",
+    "R3": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
   }
 }
