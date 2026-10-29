@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle86 29 Oct: 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED. Topic 2-2-3 integrated master: 25 concepts >=300 words, 30 structurally valid original MCQs, 6 mains; independent full claim audit and actual GitHub artifact QA pending. ZERO approvals.",
+  "last_readiness_update": "Cycle86 29 Oct: 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED. Topic 2-2-3 25 concepts >=300 words, 30 structurally valid original MCQs, six mains. Renderer 40869970881 SUCCESS; downloaded packaging 40870133330 artifact 12895317713 CRC/SHA/75 originals/link QA PASS. ZERO fully ready and ZERO independent approvals.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-2-3-cycle86-actual-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/2-2-3-cycle86-source-depth-and-mcq-structure-audit-2026-10-29.json",
     "project-control/academic-readiness/2-2-2-cycle85-final-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/2-2-2-cycle85-source-critical-and-mcq-format-audit-2026-10-29.json",

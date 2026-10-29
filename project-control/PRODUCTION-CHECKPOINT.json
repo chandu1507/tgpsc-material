@@ -104,8 +104,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle86_integrated_master_and_local_pdf_published_pending_independent_academic_audit",
-      "notes": "Cycle86: 25 concepts all >=300 words, 30 original four-option MCQs mechanically balanced A8/B8/C7/D7; 10 keys/30 distractors bounded author source-correlated, 20 keys/60 distractors and full independent audit pending; six mains 201/206/212/206/207/206, claims unchecked; 3 existing diagrams; original PDF SHA preserved; CI PDF and actual GitHub artifact QA pending; approvals ZERO.",
+      "production_review": "cycle86_ci_pdf_and_actual_downloaded_github_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle86: 25 concepts all >=300 words, 30 original four-option MCQs mechanically balanced A8/B8/C7/D7; 10 keys/30 distractors bounded author source-correlated, 20 keys/60 distractors and full independent audit pending; six mains 201/206/212/206/207/206, claims unchecked; 3 existing diagrams; original PDF SHA preserved; CI PDF and actual GitHub artifact QA pending; approvals ZERO. GitHub renderer 40869970881 SUCCESS; 38-page CI PDF SHA256 2fe68dd4...; packaging 40870133330 artifact 12895317713 ACTUALLY DOWNLOADED and independently verified 1951 files, 75 original PDFs unchanged, 75 readiness JSON, 86 HTML, 589 local links/1050 fragments zero broken, CRC/digest PASS; R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-2-3.json"
     },
