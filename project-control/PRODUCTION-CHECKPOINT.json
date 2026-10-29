@@ -104,9 +104,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "third_gap_focused_archival_chronology_repair_published_academic_audit_pending",
-      "notes": "Original older PDF and prior tenure/Vetti supplement preserved. 26 Oct 2026: new original archival chronology, uneven-modernisation research, 30 explained MCQs, six structured 200-250-word mains answers, three SVG diagrams, dated source audit and expanded consolidated editable master. Primary treaty clauses, 1857 police files and village-level reports not fully retrieved. NOT academically approved.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle86_integrated_master_and_local_pdf_published_pending_independent_academic_audit",
+      "notes": "Cycle86: 25 concepts all >=300 words, 30 original four-option MCQs mechanically balanced A8/B8/C7/D7; 10 keys/30 distractors bounded author source-correlated, 20 keys/60 distractors and full independent audit pending; six mains 201/206/212/206/207/206, claims unchecked; 3 existing diagrams; original PDF SHA preserved; CI PDF and actual GitHub artifact QA pending; approvals ZERO.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-2-3.json"
     },
     {

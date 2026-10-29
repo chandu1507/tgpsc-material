@@ -1,8 +1,8 @@
 {
   "topic_id": "2-2-3",
   "title": "Asaf Jahi State: Reforms, Land Tenure and Modernisation",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,29 @@
     "supplement_md_count": 2
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle86: 25 integrated analytical concepts, all >=300 words, 30 structurally valid original four-option MCQs (A8/B8/C7/D7, rebalanced positions do not verify correctness), six original mains body-only 201/206/212/206/207/206, three existing diagrams. Ten MCQ keys/30 distractors bounded author source-correlated against official institutional web pages, NOT independent verification. Original PDF preserved. R1 official-host PDF unavailable, original archives unexamined, full claim/distractor and live browser QA pending; NOT approved.",
+  "next_action": "Full claim-by-claim independent verification of 30 keys/90 distractors, six mains, original treaties and archival returns; accessibility/browser review; certify R1–R8 only on evidence.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "cycle86": {
+    "date": "2026-10-29",
+    "master": "source/integrated-student-master-cycle86.md",
+    "integrated_pdf": "source/integrated-student-edition-cycle86.pdf",
+    "ci_render_pending": true,
+    "original_pdf_sha256": "ddcc92da60cecb48d3676c1f85350b3462e5c89e197ef53d9c13746236732d79",
+    "concepts": 25,
+    "under300": 0,
+    "original_mcqs": 30,
+    "mains": 6,
+    "independent_approvals": 0
+  }
 }
