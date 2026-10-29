@@ -34,9 +34,10 @@
     "project-control/academic-readiness/2-3-4-render-qa.json",
     "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json",
-    "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/2-3-4-cycle97-seven-core-concept-expansions-2026-10-30.json"
   ],
-  "next_action": "Cycle96 23-page CI PDF and actual artifact 12936461515 downloaded: 75 original PDFs unchanged, 75 readiness JSON, ZIP CRC/SHA, 597 links and 1050 fragments PASS. Seven core concepts still below300; R1–R8 incomplete, no browser accessibility or academic approval.",
+  "next_action": "Cycle97 seven source-bounded core expansions; all 15 numbered core sections >=300 whitespace words, R3 IN_PROGRESS pending qualitative depth/full-page-per-concept/deduplication. CI and downloaded artifact QA pending; MCQ/mains/diagrams/browser and expert approval incomplete.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -87,7 +88,7 @@
     "packaging_artifact_id": 12671934843,
     "packaging_run_id": 40372793307,
     "packaging_integrity_pass": true,
-    "original_narrative_under_300": 7,
+    "original_narrative_under_300": 0,
     "source_correlated_mcq_keys_partial": [
       1,
       2,
@@ -109,7 +110,7 @@
       9,
       14
     ],
-    "source_depth_qualitative_status": "IN_PROGRESS",
+    "source_depth_qualitative_status": "IN_PROGRESS_NOT_R3_PASS",
     "renderer_script": "scripts/render_topic_2_3_4.py",
     "footer_correction": "Dedicated renderer fixes prior incorrect Topic 3 footer and PDF title; final artifact visual inspection still required.",
     "final_downloaded_artifact_id": 12679083916,
@@ -122,6 +123,33 @@
     "cycle96_post_edit_pdf_status": "CI_RENDER_23P_AND_ACTUAL_ARTIFACT_SHA_CRC_LINKS_VERIFIED",
     "cycle96_new_artifact_qa": "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "cycle96_integrated_pdf_sha256": "d6dee1e4c17925f75f2c5a600f0cd3a3736bb117fa16d3cf181f9cad1a5ad8cd",
-    "cycle96_artifact_id": 12936461515
+    "cycle96_artifact_id": 12936461515,
+    "cycle97_core_section_words": {
+      "1": 461,
+      "2": 451,
+      "3": 449,
+      "4": 438,
+      "5": 422,
+      "6": 438,
+      "7": 468,
+      "8": 451,
+      "9": 403,
+      "10": 447,
+      "11": 431,
+      "12": 450,
+      "13": 458,
+      "14": 473,
+      "15": 460
+    },
+    "cycle97_expanded_sections": [
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      15
+    ],
+    "cycle97_render_status": "PENDING_CI_AND_ACTUAL_ARTIFACT_QA"
   }
 }
