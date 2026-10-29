@@ -1,0 +1,58 @@
+name: Render Topic 2-1-4 Cycle82 Integrated Student Draft
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 2/Unit 1 - Indian History and Culture/Topic 4/source/integrated-student-master-cycle82.md'
+      - 'project-control/academic-readiness/2-1-4.json'
+      - 'scripts/render_topic_2_1_4_cycle82.py'
+      - 'scripts/publish_topic_2_1_4_cycle82.py'
+      - '.github/workflows/render-topic-2-1-4-cycle82.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-2-1-4-cycle82
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install deterministic PDF and HTML dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-noto-core libcairo2-dev pkg-config libffi-dev
+          python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'pillow>=10,<13' 'beautifulsoup4>=4,<5' 'mistune>=3,<4' 'pymupdf>=1.24,<2' 'svglib>=1.5,<2'
+      - name: Guarded nonforce publication from fresh main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          chapter='Paper 2/Unit 1 - Indian History and Culture/Topic 4/source'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/publish_topic_2_1_4_cycle82.py
+            git add -- "$chapter/integrated-student-edition-cycle82.pdf" "$chapter/integrated-student-cycle82.html" "$chapter/integrated-cycle82-manifest.json" 'project-control/academic-readiness/2-1-4-cycle82-ci-render-qa-2026-10-29.json'
+            if git diff --cached --quiet; then
+              echo 'Cycle82 already synchronized'
+              exit 0
+            fi
+            git commit -m 'CI: publish Topic 2-1-4 Cycle82 synchronized PDF and offline HTML'
+            if git push origin HEAD:main; then
+              echo 'Guarded nonforce publication succeeded'
+              exit 0
+            fi
+            echo 'Main advanced; retrying from fresh main'
+            sleep 5
+          done
+          echo 'Publication failed without force-push' >&2
+          exit 1
