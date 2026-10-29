@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle98: 75 original topics/PDFs; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 R1 PASS, zero R1-R8 ready/approvals. Topic 2-3-3 all 14 concepts >=300 words; corrected 26-page CI PDF has 14 distinct concept-start pages. Actual post-evidence downloaded artifact QA pending, academic claim audits incomplete.",
+  "warning": "Cycle98: 75 original topics/PDFs; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 R1 PASS, zero R1-R8 ready/approvals. Topic 2-3-3 14/14 >=300 whitespace words, 26-page CI PDF with 14 isolated concept starts; actual downloaded artifact 12942374019 SHA/CRC/75 originals/597 links/1050 fragments PASS. Academic MCQ/mains and browser audits incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json",
@@ -238,7 +239,6 @@
     "project-control/academic-readiness/5-2-5-cycle58-source-depth-mains-and-bounded-key-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json"
+    "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   ]
 }
