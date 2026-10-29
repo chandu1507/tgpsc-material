@@ -1,0 +1,14 @@
+# Cycle81 source and verification register — Topic 2-1-3
+
+**29 October 2026.** Author source-correlation is not independent academic approval. All 30 MCQs remain original practice, not official TGPSC PYQs.
+
+- **S00:** Official TGPSC Notification 02/2024, Annexure-II, PDF page 28, directly opened; Paper II, Item 3 syllabus mapping **R1 PASS**: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v
+- **S01:** UK Parliament institutional histories, Plassey/Buxar and 1813/1833 charter distinctions, not original statutes: https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/parliament-and-the-east-india-company/ and https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/east-india-company-and-raj-1785-1858/
+- **S02:** Yale Avalon transcription, Treaty of Paris (1763), Articles XI and XXIV, not the autograph treaty: https://avalon.law.yale.edu/18th_century/paris763.asp
+- **S03:** British Library catalogue Mss Eur G49 describes an Awadh–Company agreement, **not** a directly inspected diwani grant: https://searcharchives.bl.uk/catalog/032-002297521
+- **S04:** IIT Kanpur SATHEE reproduction of NCERT Class VIII *Ruling the Countryside*, settlement units and burden; not original district returns: https://sathee.iitk.ac.in/ncert-books/class-08/social-science/history-our-past-3/chapter-03-ruling-the-countryside/
+- **S05:** Indian Railway Board institutional history, Bori Bunder–Thane 16 April 1853 and Howrah–Hooghly 15 August 1854; not a welfare estimate: https://rb.indianrailways.gov.in/
+- **S06:** Bogart and Chaudhary, *Journal of Institutional Economics*, railway guarantees, public risk and qualified realised-return findings, not full welfare evaluation: https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/extractive-institutions-investor-returns-to-indian-railway-companies-in-the-age-of-high-imperialism/91B7BFAB12B66F7840CAAB4E39AA410A/share/06c3237dec03f4578f6c5763db80e407ab5601c5
+- **S08:** Alagappa University BA History teaching material on Mysore treaties and coalitions, not signed treaty originals: https://mis.alagappauniversity.ac.in/siteAdmin/dde-admin/uploads/5/__UG_B.A._History%20%28English%29_108%2051_History%20of%20Tamil%20Nadu%20%28Beginning%20to%201947%20AD%29_BA%20%28History%29_9683.pdf
+
+**Bounded MCQ audit:** Nine keys (Q1, Q2, Q4, Q11, Q12, Q13, Q23, Q24, Q26) and their 27 distractors author source-correlated. Seven items rewritten. **21 keys and 63 distractors remain unchecked.** Six mains body-only lengths verified, but historical claims remain unaudited. Original signed treaties, district revenue returns and railway contracts not examined.
