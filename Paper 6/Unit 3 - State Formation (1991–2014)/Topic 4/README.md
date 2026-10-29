@@ -1,5 +1,5 @@
-# Paper VI Unit III Topic 4
+# Cultural Revivalism, Social Participation and Major Protest Events
 
-Cultural Revivalism, Social Participation and Mass Protest in the Telangana Statehood Movement
+Original PDF preserved. Cycle77 source-labelled expansions in eight sections, corrected six structured mains answers, 30 original explained practice MCQs, three existing diagrams and a synchronized integrated PDF. **32/40 concepts remain below 300 words; this is NOT academically approved.** Six MCQ keys and 18 distractors were bounded source-checked. Remaining questions and mains claim sets require independent review.
 
-Original study draft; PDF, HTML, editable notes, three diagrams, 30 explained original MCQs, six structured mains answers. Academic approval: **pending**.
+[Original PDF](complete-notes.pdf) | [Integrated PDF](source/integrated-student-edition-cycle77.pdf) | [Editable master](source/complete-notes.md)

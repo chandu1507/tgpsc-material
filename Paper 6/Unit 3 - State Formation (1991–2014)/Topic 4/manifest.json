@@ -16,5 +16,30 @@
     "source/quick-revision.md": "f85273c5bd1f5229c667b4171775ad953c01a9a806a1d8fa3bd4edaf321b4428",
     "source/references.md": "669812a395916ee07a272d58a3ea092e1a333d89912c25138bd505d0a15981d4",
     "source/syllabus-index.md": "ad853a7063b96cf934f7eb45f2da6192e5e75a3c1610955678e719686e54ddab"
+  },
+  "academic_status": "not_approved",
+  "cycle77_partial_rebuild": true,
+  "concept_count": 40,
+  "concepts_below_300": 32,
+  "integrated_pdf_pages": 27,
+  "integrated_pdf_sha256": "1f1ff1bcae39a5a90f5f252a6668b61bc08f5560d687a1349c79ff9fb5f80bbb",
+  "independent_academic_approvals": 0,
+  "full_page_per_concept_met": false,
+  "sha256": {
+    "QA-REPORT.md": "d6378c67b8c72d622bfbb73abd1aee52a7dc8d5687f668f8926abc2b66641543",
+    "README.md": "3da7c9fa6f4730c3d0aed96a9a86855c7f990ef71bfc2e8dc4f6cb4e3668b0eb",
+    "complete-notes.pdf": "13b1609daccd0949df1c7fade614d1ef7d0e453f076aa92b189faf3a055c17d0",
+    "diagrams/culture-to-mobilisation.png": "4f504563cad1d66e8552f23e9d273c6a03ecf953b7142ec7eaff026990f86ba7",
+    "diagrams/participation-and-duties.png": "bb596a1e69a32456319dba48cb5668164cf7e9239e2dc66a2ea32168f83b9e16",
+    "diagrams/protest-chronology-2011.png": "46ad55d513f82ed7d2788ed31b19c9b8b1ea1b5c6d54c7254c08a5802d55568a",
+    "index.html": "a8775615e07305ff427360dbbe4d70e1d83913f50e153b3b78b071f61d940170",
+    "source/answer-blueprints.md": "b09593a46838d52493a57933cb0a30cec94a169e6e890f17e8d849c859f473c5",
+    "source/complete-model-answers.md": "32787ded8e73be2a8c06e3edf1c193f2754e2052572336fd0114ae2ade28f5b6",
+    "source/complete-notes.md": "d8777620c06dc49bf9daf1d8db6a26d4e85d569fe10200d840178fa71a300cad",
+    "source/integrated-student-edition-cycle77.pdf": "1f1ff1bcae39a5a90f5f252a6668b61bc08f5560d687a1349c79ff9fb5f80bbb",
+    "source/original-practice.md": "cde0c2d749a5ca614845fa6df4c166d6bb11b09a250401ee3008e3d35193ef80",
+    "source/quick-revision.md": "f85273c5bd1f5229c667b4171775ad953c01a9a806a1d8fa3bd4edaf321b4428",
+    "source/references.md": "5a3871e5567e93e83e9332210e10453755b6cd1764d5cff0ef757f85cc0a2aa8",
+    "source/syllabus-index.md": "ad853a7063b96cf934f7eb45f2da6192e5e75a3c1610955678e719686e54ddab"
   }
 }
