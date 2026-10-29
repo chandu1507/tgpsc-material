@@ -19,7 +19,7 @@
   "gate_status": {
     "R1": "PASS",
     "R2": "IN_PROGRESS",
-    "R3": "BLOCKED",
+    "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
@@ -35,7 +35,7 @@
     "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json"
   ],
-  "next_action": "Complete independent 13-key/100-option MCQ audit and six mains claim audits; R3 qualitative depth, diagram, source, browser accessibility pending. Cycle91 actual downloaded CI PDF and 75-topic CRC/link/hash QA passed; no approval.",
+  "next_action": "Cycle92: all 16 explanatory sections now >=300 words; qualitative R3 remains IN_PROGRESS, not PASS. Independent MCQ 25-key/100-option, six mains claim, diagram, browser and accessibility audits outstanding; CI PDF and downloaded-artifact QA pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -111,5 +111,67 @@
     "integrated_pdf_pages": 19,
     "integrated_pdf_sha256": "21d9c4075c82a5c645331431ea4504f35bcdf4fc9b64ad3f2a23203dfb77b088",
     "post_render_qa": "project-control/academic-readiness/2-3-5-cycle91-actual-downloaded-github-artifact-qa-2026-10-29.json"
+  },
+  "cycle92_2026_10_29": {
+    "status": "SUBSTANTIVE_AUTHOR_SIDE_DEPTH_REBUILD_NOT_APPROVED",
+    "baseline_main": "d3478fb4cf5e9375171e5390e70bb4a9c28aa406",
+    "expanded_sections": [
+      5,
+      6,
+      7,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "before": {
+      "1": 372,
+      "2": 361,
+      "3": 372,
+      "4": 394,
+      "5": 160,
+      "6": 279,
+      "7": 180,
+      "8": 349,
+      "9": 370,
+      "10": 326,
+      "11": 341,
+      "12": 169,
+      "13": 154,
+      "14": 95,
+      "15": 149,
+      "16": 221
+    },
+    "after": {
+      "1": 372,
+      "2": 361,
+      "3": 372,
+      "4": 394,
+      "5": 380,
+      "6": 437,
+      "7": 362,
+      "8": 349,
+      "9": 370,
+      "10": 326,
+      "11": 341,
+      "12": 367,
+      "13": 338,
+      "14": 360,
+      "15": 379,
+      "16": 386
+    },
+    "below300_before": 8,
+    "below300_after": 0,
+    "new_official_sources": [
+      "U14",
+      "U15",
+      "U16",
+      "U17"
+    ],
+    "R3": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_academic_approvals": 0
   }
 }

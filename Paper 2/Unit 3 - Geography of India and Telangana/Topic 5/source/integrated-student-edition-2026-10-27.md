@@ -59,6 +59,14 @@ Hyderabad's **historic south-of-Musi urban fabric** contains dense bazaars, monu
 
 **Evidence-led conceptual extension:** Agglomeration can reduce business costs through shared workers, suppliers and institutions. Congestion, rent inflation and pollution are countervailing social costs. A regional strategy should build complementary strengths in Warangal, Karimnagar and other centres rather than merely relocating Hyderabad’s skyline. Evidence should be employment quality, commute duration, rent burden and service coverage, not investment announcements alone.
 
+
+
+**Measuring primacy.** Urban primacy is a relationship between the leading city and the rest of an urban system, not merely a synonym for a large city. A population-based measure compares the largest and second-largest settlements; functional primacy examines where specialist hospitals, universities, headquarters, advanced services and major transport decisions concentrate. These indicators can yield different results. Hyderabad district, GHMC, the Census urban agglomeration and the HMDA planning region are different geographies, so comparing their population figures without a common boundary and date is invalid. [U1,U4]
+
+**Cumulative advantages and costs.** Firms cluster where workers, suppliers and infrastructure are available; workers follow jobs, colleges and medical facilities. These mutually reinforcing choices create agglomeration economies. They can also raise land prices, extend commutes and overload infrastructure. A western office cluster can generate state income while lower-paid service workers remain excluded from nearby housing. Thus primacy is neither inherently beneficial nor inherently harmful.
+
+**Policy evaluation.** Regional balance requires credible jobs, hospitals, higher education and transport in secondary cities, not just shifting offices. Compare employment growth outside Hyderabad, access to specialist services, housing costs and actual travel times. Do not claim that every migrant came for IT work or that one dominant city proves all regional policy failed. A strong mains answer weighs productivity against unequal opportunity and proposes a functioning network of urban centres.
+
 ## 6. Migration and the informal labour geography
 Hyderabad attracts students, skilled professionals, construction workers, domestic workers, retail employees, logistics workers and seasonal migrants from within Telangana and beyond. The migration system is more diverse than a simple 'poor rural people move to slums' narrative: incomes, skills and durations vary. Migrants may circulate repeatedly between rural households and urban work sites; household dependants can remain in different places. Housing affordability, tenant documentation, access to anganwadis and schools, occupational safety and public transport matter for inclusion. **Original analytical point:** metropolitan service planning should follow the **de facto population present**, not solely permanent voter lists or official residential boundaries. Informal workers are essential to urban growth but commonly lack secure tenure and social protection.
 
@@ -68,10 +76,24 @@ Hyderabad attracts migrants for education, government work, construction, health
 
 High-end real-estate development can increase municipal revenue and investment, yet rising land prices can exclude existing residents. Land-use decisions should consider who benefits from public infrastructure and who bears relocation costs. A city can be globally connected while displaying deep neighbourhood inequality. For a geography answer, use the concepts of primacy, peri-urbanisation, land-use change, spatial segregation and commuting catchments, then illustrate them with western employment clusters and peripheral residential expansion without making unsupported ward-level numerical claims.
 
+
+
+**Types of movement.** Migration may be seasonal, circular, permanent or family-based; commuting from the fringe is different again. Census migration counts, workplace surveys and daily bus trips therefore describe different populations. Informal employment also differs from migration: a person may work under an informal contract for a registered firm, while a small self-employed enterprise may not have a conventional employer. Treating all migrants as informal workers produces an invalid estimate.
+
+**Jobs–housing geography.** Construction work follows development sites; domestic work follows residential concentrations; delivery work follows consumer demand. Cheap peripheral rent can be offset by long travel times and unreliable services. Women's access to jobs can be additionally constrained by childcare, safety and late-evening transport. Practical interventions include accessible public transport, serviced rental housing, lawful vending space, childcare and portable social protection. A claim about the share of informal employment needs a dated labour-force source and a clearly defined geographical denominator; urban population growth alone does not establish it.
+
 ## 7. Hyderabad Metro: accessibility, ridership and last-mile gaps
 Metro rail provides high-capacity travel on its served corridors and can reduce some road congestion, but impact depends on network coverage, feeder buses, walking safety, fares, transfers and land-use intensity around stations. A corridor's route kilometres should not be confused with total metropolitan accessibility. For many people, a short last-mile distance with unsafe crossings can be a greater barrier than the train ride itself. Policy should compare door-to-door journey times, transfer penalties, bus integration, affordable fares and ridership—not just inauguration dates or train capacity. Transit-oriented development can concentrate jobs and housing near stations, but without affordable housing measures it can displace lower-income residents. **Mains takeaway:** Metro works as part of a multimodal network, not as an isolated prestige project.
 
 **Evidence-led conceptual extension:** For a door-to-door Metro journey, walking distance, safe crossings, feeder frequency, transfer penalties, fare and waiting time matter as much as the train ride. A line can increase capacity while still excluding residents far from stations. Compare accessibility across income, gender and disability groups. Do not infer ridership or emission reductions merely from route length or station counts.
+
+
+
+**Existing versus proposed lines.** Hyderabad Metro Rail Limited describes Phase I as three implemented corridors of about 69 km. Its Phase-II(A) five-corridor proposal totals 76.4 km and its Phase-II(B) proposal totals 86.1 km. These proposals are not operational rail mileage. The Phase-I links are Miyapur–LB Nagar, JBS–MGBS and Nagole–Raidurg; the airport and other extensions are distinct planning stages. Approval, construction and passenger commissioning are separate milestones. [U14]
+
+**Door-to-door accessibility.** The usefulness of a station depends on walking safety, feeder frequency, fare, waiting, interchange and the final journey, not simply distance measured on a map. Missing footpaths or difficult road crossings can shrink a station's practical catchment. Metro should be assessed with MMTS, buses, cycling and pedestrian access. A route map proves alignment but not reliability or reduction in congestion.
+
+**How to measure impact.** Compare passenger trips, peak crowding, feeder connections, door-to-door journey times and access for low-income or disabled riders. Use dated observations before claiming that a new line reduced emissions or traffic. In a mains diagram, draw existing three corridors separately from proposed extensions and label the schematic 'not to scale'.
 
 ## 8. Outer Ring Road: freight, commuting and sprawl
 Hyderabad's **Outer Ring Road (ORR)** provides an important orbital road connection and affects intercity transport, industrial access and metropolitan development. Its benefits include bypassing some inner-city movements and redistributing freight and travel flows, but improved accessibility can induce peripheral land conversion and longer commutes. New developments may rely on private vehicles if feeder transit and mixed-use planning lag. A road is not an ecological boundary: crossing of drainage lines, loss of local tanks, fragmentation and groundwater recharge consequences require mitigation. Compare ORR with the proposed **Regional Ring Road**: they serve different geographic scales and project stages; do not describe all proposed stretches as completed. Evaluation requires freight diversion, safety, emissions, travel times and land-use outcomes.
@@ -122,18 +144,52 @@ The metropolitan region uses water brought from outside immediate local catchmen
 
 **Evidence-led conceptual extension:** Water-supply capacity must be distinguished from actual hours of safe service. Similarly, a sewage-treatment plant’s design capacity is not proof of verified collection or effluent compliance. Peri-urban wells, bulk imported water, leaks and wastewater reuse belong in one metropolitan water balance. Shade and tree cover also influence heat exposure among outdoor workers and low-income residents.
 
+
+
+**Water balance, not only reservoir capacity.** Metropolitan water security depends on source availability, treatment, transmission, storage, distribution, safe household access, wastewater collection and reuse. A new bulk-water scheme can increase potential supply while some localities remain dependent on tankers because of connection gaps, pressure losses or unreliable service. The Hyderabad district economy page records historical supply sources but contains outdated proposals; it must not be used to assert current daily volumes. [U8]
+
+**Sewerage and contamination.** Untreated flows can enter tanks, drains and the Musi if collection and treatment lag behind construction. Treatment-plant design capacity is not proof of actual sewage collected or compliant effluent. Reuse can reduce demand for freshwater when quality and distribution are monitored. Rainwater harvesting needs appropriate recharge conditions and maintenance.
+
+**Heat as an unequal exposure.** Paving, sparse shade, waste heat and poorly ventilated buildings can intensify heat stress, particularly for outdoor workers and vulnerable households. Telangana's official heatwave implementation framework provides for risk identification, warnings and coordination, but it does not by itself prove that a local cooling programme succeeded. [U16] Evaluate water by reliability, quality, affordability and actual wastewater treatment, and heat policy by access to shade, drinking water, alerts and health protection.
+
 ## 13. Housing, land markets and social segregation
 As land values rise near high-income employment nodes and transport corridors, lower-income residents may be pushed toward long commutes or insecure rental arrangements. Peri-urban agricultural land conversion can deliver housing but also remove drainage and livelihood assets. Gated developments and informal colonies frequently have unequal access to piped water, sewerage and public transport. Inclusive planning requires rental housing, access to serviced land, predictable tenure, universal transport and enforceable development controls. **Indicator package:** rent-to-income ratio, commute time by income, walking distance to transit, reliable water supply and local flood risk. Counting housing approvals alone does not measure affordability or accessibility.
 
 **Evidence-led conceptual extension:** Housing affordability should be measured as a combined rent, transport and service burden. A household moving farther from jobs may pay less rent but lose hours in travel. Count lawful rental opportunities, reliable water, schools and transit—not only new building approvals. Migrant households and tenants need to be represented in metropolitan planning.
 
+
+
+**The jobs–housing trade-off.** Access to employment, transit and public services influences land and rental prices. Workers near high-value employment corridors may choose crowded housing or travel from cheaper peripheral settlements. The effective cost of housing includes rent, deposits, travel fares, lost time and access to water and sanitation. A cheaper dwelling with an extremely long commute is not necessarily affordable.
+
+**Different tenure risks.** Owners, tenants, hostel residents, construction workers and households in unregularised layouts have different legal and service vulnerabilities. Conversion of peripheral land can increase housing supply but alter drainage and agricultural livelihoods. A land-use plan does not prove that sewers, schools, buses or fire services were delivered with each approved building. [U6]
+
+**Policy and evidence.** Serviced rental homes near employment, safe walking access, lawful tenure processes and coordinated peripheral infrastructure are complementary. Relocation from hazardous sites should evaluate livelihood disruption and school access as well as flood safety. Measure rent-to-income, commute times, water reliability and tenure security by income group before claiming segregation has fallen. Distinguish housing supply (dwellings), affordability (ability to secure adequate accommodation) and inclusion (fair access to urban opportunity).
+
 ## 14. Industrial estates, logistics and the global-city claim
 Hyderabad's status as an IT, pharmaceuticals, education and business-services center is supported by local supply chains, skilled workers and institutional clustering. International flights and investment do not, by themselves, make development equitable; a 'global city' is a functional relationship linking global finance, labour, technology and specialised services. Industrial estates require reliable energy, wastewater management, worker transport and housing. Policy should compare employment quality, local supplier participation and environmental compliance, rather than regard multinational offices as sufficient evidence of progress. Global competitiveness is increasingly shaped by resilience to floods, heat stress, water shortages and travel-time unreliability.
+
+
+
+**Clusters are economic relationships.** Hyderabad combines older manufacturing and public institutions with pharmaceutical, research, IT and business-service activities. An industrial or service cluster is more than buildings: its strength depends on suppliers, skilled labour, research links, utilities and access to markets. The Telangana investment portal identifies western IT/GCC locations such as Madhapur and Gachibowli, while the Ranga Reddy district inventory names related technology parks. These establish locations, not independently verified job totals or completion of every announced project. [U10,U11]
+
+**Different location needs.** Manufacturing relies heavily on goods movement, reliable power, water and effluent treatment; professional offices emphasise skilled labour, communications and client access. Industrial estates therefore create distinct freight, commuting and land-use patterns. A logistics park near an orbital road is not automatically accessible to workers without buses or safe pedestrian routes. Evaluate freight time, actual occupancy, worker housing and environmental compliance rather than only capital announcements.
+
+**Global-city functions.** Internationally traded services, cross-border coordination, research and specialised producer services can connect Hyderabad to world markets. However, the presence of multinational offices or an airport is not an official 'global city' certification, nor evidence of equal prosperity. Land-price increases can coexist with insecure housing and inadequate sanitation. A credible assessment asks whether local suppliers benefit, skills and wages improve, and environmental costs are controlled.
+
+**Critical comparison.** Distinguish proposed investment from operational capacity, direct employment from estimated indirect employment, and economic output from household welfare. Assess whether public land or transport support created additional benefits rather than merely subsidising projects that would have occurred anyway. For mains, link industrial geography to worker access, wastewater enforcement and resilience.
 
 ## 15. Heritage and tourism in a living metropolitan city
 The **Charminar**, **Golconda Fort**, **Qutb Shahi Tombs**, **Chowmahalla Palace** and **Salar Jung Museum** illustrate distinct historical layers. Heritage preservation must balance visitor access, resident livelihoods, traffic, air pollution and structural conservation. Street vendors and traditional bazaars are part of the lived cultural landscape; blanket commercial displacement can undermine the character that tourism seeks to promote. A thoughtful tourist circuit should coordinate safe pedestrian access, wayfinding, local crafts, public transport and regulated visitor intensity. Monument designation does not establish a uniform protection zone across every nearby property; legal controls must be checked case by case.
 
 **Evidence-led conceptual extension:** The district government lists Hyderabad’s historical attractions, but that list does not independently establish current visitor volumes. Heritage districts are inhabited places with shops and livelihoods. Conservation should balance safe access, regulated traffic, monument protection and existing businesses. Distinguish the legal boundary of a protected monument from the wider cultural landscape. [U7]
+
+
+
+**Three distinct heritage nodes.** Charminar, Golconda Fort and the Qutb Shahi Tombs are related parts of a historical urban system but not one contiguous monument. India's 2010 UNESCO submission for these sites is on the **Tentative List**, reference 5573; this is not World Heritage inscription. The submission describes Charminar's central position in the historical street plan and identifies modern development pressures. It is a nomination document, not a field survey conducted for these notes. [U15]
+
+**Conservation of setting and livelihoods.** A monument may retain its stonework while surrounding street patterns, sightlines and historic trading activities are disrupted. National monument protection, state heritage controls and wider urban planning operate through different rules; do not assume one uniform restriction for every nearby property. Residents, street vendors, artisans and traditional markets are part of the lived cultural landscape. Removing businesses without viable alternatives can harm both livelihoods and visitor experience.
+
+**Tourism evaluation.** Visitors can support crafts, food, transport and guiding services, but congestion, waste and unsafe crossings impose costs. The Hyderabad district tourism page describes attractions and the contrast between the old and newer city; it is not an audited visitor-count dataset. [U17] Measure pedestrian safety, conservation condition, local business earnings and resident access, not only ticket sales. A mains answer must distinguish a tentative UNESCO listing from inscription, monument fabric from urban setting, and an interpretive sketch from an accurate survey map.
 
 ## 16. Balanced growth: polycentric corridors and regional cities
 Hyderabad cannot sustainably absorb unlimited migration and traffic without complementary development across the state. Strengthening secondary urban centers requires universities, district hospitals, value-added industry, digital services and regional bus/rail accessibility, coupled with environmental safeguards. Within the metropolis, growth can be made more polycentric through jobs–housing balance and good orbital public transport instead of concentrating every new office in one corridor. **Evaluation framework:** distribute employment and services, shorten trips, protect catchments and enable affordable housing. The distinctive conclusion is that metropolitan success should be measured by the quality of everyday urban life—not merely by a skyline or aggregated investment figures.
@@ -144,6 +200,14 @@ Hyderabad cannot sustainably absorb unlimited migration and traffic without comp
 
 Use the sequence **historic core → institutional and industrial expansion → IT/services growth → metropolitan sprawl → governance and environmental challenges**. Explain GHMC versus HMDA, road versus rail, population growth versus administrative reclassification, and beautification versus catchment-scale flood mitigation. Conclude that Hyderabad's success depends on integrated planning, inclusive housing, resilient water systems and transparent metropolitan coordination rather than on construction alone.
 
+
+
+
+**Two scales of polycentricity.** Within Hyderabad, polycentric development means distributing workplaces, schools, hospitals and civic services across accessible centres. Across Telangana, balanced urbanisation means enabling secondary cities through sector-specific jobs, higher education, healthcare and regional transport. These are distinct problems: a peripheral residential suburb may be physically distant yet remain economically dependent on one central job corridor.
+
+**Testing outcomes.** Map actual workplaces and household origins, not merely approved commercial zones. Compare commuting times, affordable rents, transit coverage and jobs created outside dominant corridors. A ring road can improve freight circulation but may also stimulate low-density expansion unless land-use controls and feeder transit accompany it. More centres can shorten trips, yet badly planned growth can damage tanks and shift flooding downstream. Coordination between metropolitan planning and municipal service delivery is essential. [U4,U5,U12]
+
+**Conclusion.** A resilient urban hierarchy combines metropolitan productivity with affordable housing, reliable water, protected catchments and opportunity in regional towns. Announced office parks and road budgets are inputs; improved resident outcomes are the test.
 
 ## Part B — 25 original four-option explained practice MCQs (NOT official PYQs)
 
@@ -481,7 +545,7 @@ D. 112,077 sq km (Telangana State area)
 
 ## Part E — Dated official-source register and claim limits
 
-**Evidence limitations:** This is a working integrated edition. All 25 original MCQ distractor sets still require independent item-level validation; 13 keys lack even bounded source correspondence; four new mains answers and two inherited mains answers require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
+**Evidence limitations:** All 16 sections now exceed 300 whitespace words, but this mechanical threshold is NOT qualitative R3 approval. This is a working integrated edition. All 25 original MCQ distractor sets still require independent item-level validation; 13 keys lack even bounded source correspondence; four new mains answers and two inherited mains answers require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
 
 
 | Code | Source | Scope of verification |
@@ -499,3 +563,7 @@ D. 112,077 sq km (Telangana State area)
 | U11 | Ranga Reddy district Industries, https://rangareddy.telangana.gov.in/industries/ | Official inventory naming HITEC City Madhapur and Gachibowli IT park |
 | U12 | HMDA institutional remit, https://www.hmda.gov.in/home/ | Metropolitan coordination; older area figures on legacy page must be dated |
 | U13 | HMDA ORR and RRR, https://www.hmda.gov.in/orr/ and https://www.hmda.gov.in/ | Separate operational ORR and proposed RRR descriptions; no completion inference |
+| U14 | Hyderabad Metro Rail Limited, https://hmrl.co.in/phase-ii/ | Three implemented Phase-I corridors about 69 km; proposed Phase-II(A) 76.4 km and II(B) 86.1 km; do not conflate proposed and operational |
+| U15 | UNESCO World Heritage Centre, Tentative List 5573, https://whc.unesco.org/en/tentativelists/5573/ | India's 2010 Qutb Shahi Monuments Tentative List submission; NOT an inscription |
+| U16 | Government of Telangana Heatwave Implementation Plan, https://mgov.telangana.gov.in/HeatWaveActionPlan.html | Preparedness and warnings, not independently measured policy effectiveness |
+| U17 | Hyderabad District Tourism, https://hyderabad.telangana.gov.in/tourism/ | Official attractions and urban-history description; not current visitor statistics |
