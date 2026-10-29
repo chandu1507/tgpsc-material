@@ -1,0 +1,82 @@
+{
+  "cycle": 83,
+  "date": "2026-10-29",
+  "topic_id": "2-1-5",
+  "fresh_main_baseline": "c2377fcbbead2ed2585e7e060e76728a28b77d5f",
+  "original_pdf_sha256": "b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3",
+  "original_pdf_pages": 15,
+  "original_topic_count": 75,
+  "original_pdf_count": 75,
+  "readiness_json_count": 75,
+  "status_partition": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 65,
+    "NOT_ASSESSED": 3
+  },
+  "verified_R1_pass_count": 13,
+  "concepts": 23,
+  "concepts_at_least_300_words": 5,
+  "concepts_below_300_words": 18,
+  "mcqs": {
+    "count": 30,
+    "original_practice_not_official_pyqs": true,
+    "answer_distribution": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "bounded_source_correlated_question_numbers": [
+      4,
+      5,
+      26,
+      27,
+      28,
+      29
+    ],
+    "bounded_keys": 6,
+    "bounded_distractors": 18,
+    "remaining_unchecked_keys": 24,
+    "remaining_unchecked_distractors": 72,
+    "partial_check_warning": "Q5 arrest date requires separate original contemporaneous record"
+  },
+  "mains": {
+    "count": 6,
+    "body_only_word_counts": [
+      217,
+      212,
+      203,
+      207,
+      216,
+      206
+    ],
+    "all_claim_sets_independently_verified": false
+  },
+  "sources": {
+    "uk_hansard_1946": "directly read contemporary parliamentary statement",
+    "gandhi_heritage_1931": "dated chronology; CWMG original not read",
+    "mani_bhavan_1942": "speech reproduction; original resolution not read",
+    "poona_pact_1932": "historical transcription; signed original not read",
+    "independence_act_1947": "UK indexed statute + historical transcription; original printed copy not inspected",
+    "official_tgpsc_2024_syllabus": "direct access failed; R1 not PASS"
+  },
+  "diagram": "new original Cabinet Mission proposed architecture, source-correlated but not independently reviewed",
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED_PENDING_CI_ARTIFACT_BROWSER",
+    "R9": "NOT_STARTED"
+  },
+  "ci_renderer": "PENDING",
+  "post_ci_downloaded_artifact": "PENDING",
+  "live_browser_accessibility": "NOT_CERTIFIED",
+  "full_page_per_concept_met": false,
+  "independent_academic_approvals": 0,
+  "academic_approved": false,
+  "source_register": "Paper 2/Unit 1 - Indian History and Culture/Topic 5/source/source-register-cycle83.md"
+}

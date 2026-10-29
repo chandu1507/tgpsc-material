@@ -1,8 +1,8 @@
 {
   "topic_id": "2-1-5",
   "title": "Indian National Movement: Negotiations, Mass Politics and Partition",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,45 @@
     "supplement_md_count": 5
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED_PENDING_CI_AND_DOWNLOADED_ARTIFACT",
+    "R9": "NOT_STARTED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle83 5 source-critical essays (Gandhi–Irwin, Quit India, Poona Pact, Cabinet Mission, 1947 Act); original PDF SHA preserved; 23 concepts/18 shallow; 30 original MCQs with six bounded source correlations, all other questions pending; six mains lengths corrected but claim audits incomplete; no official PYQ or archival-original consultation asserted.",
+  "next_action": "Complete 18 shallow concepts, independently check 24 MCQ keys and 72 distractors and all mains claims; reauthenticate official 2024 syllabus; render deterministic CI PDF and verify actual downloaded artifact, browser accessibility, diagrams and 75 originals. No R9 without named independent expert.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "cycle83": {
+    "original_pdf_sha256": "b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3",
+    "original_pdf_pages": 15,
+    "concept_count": 23,
+    "concepts_at_least_300_words": 5,
+    "concepts_under_300_words": 18,
+    "original_practice_mcqs": 30,
+    "bounded_source_correlated_keys": 6,
+    "bounded_source_correlated_distractors": 18,
+    "unchecked_keys": 24,
+    "unchecked_distractors": 72,
+    "mains_body_only_counts": [
+      217,
+      212,
+      203,
+      207,
+      216,
+      206
+    ],
+    "mains_claim_sets_fully_verified": 0,
+    "original_diagrams_retained": 3,
+    "new_source_checked_diagram": 1,
+    "originals_preserved": true,
+    "independent_approvals": 0,
+    "ci_render": "PENDING",
+    "downloaded_post_ci_artifact_qa": "PENDING"
+  }
 }
