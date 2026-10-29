@@ -13,7 +13,7 @@
   "not_assessed_count": 2,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 66 ASSESSED_REBUILD_REQUIRED / 2 NOT_ASSESSED; 14 R1 mappings directly/historically verified; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle84 2-2-1 has local integrated candidate but CI/downloaded artifact pending.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 66 ASSESSED_REBUILD_REQUIRED / 2 NOT_ASSESSED; 14 verified/historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle84 Topic 2-2-1 actual GitHub artifact integrity PASS but R8 IN_PROGRESS.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -159,7 +159,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle84 Topic 2-2-1 official 2024 commission PDF R1 PASS; 16 concept bodies >=300 words, 30 original MCQs (6 rewritten distractor sets, keys not independently audited), six mains 227/240/237/230/228/225 words; local deterministic 30-page PDF candidate, original preserved. CI and actual downloaded artifact pending, R8 IN_PROGRESS, R9 NOT_STARTED, approvals 0.",
+  "last_readiness_update": "Cycle84 Topic 2-2-1 packaging run 40853445962 artifact 12888541117 actually downloaded: 1931 files, 75 originals unchanged, 75 readiness JSON, 84 HTML, 525 local links/1050 fragments zero broken, CRC/digest PASS. CI 30-page PDF SHA f1d66d601f235c437fb73e7b4badb43e7fa67abde6f6f116162ff07ff6b5be50. 16 concepts >=300 words, MCQ/mains claim audit and browser QA pending. R8 IN_PROGRESS, approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
