@@ -1,0 +1,98 @@
+{
+  "cycle": 82,
+  "topic_id": "2-1-4",
+  "date": "2026-10-29",
+  "base_main": "4d6406687dfdc132bf305cf7ff8857b159bc38ad",
+  "original_pdf_sha256": "23b21afafae86150ceaa698bdbea3a6de53f354e0653804596d0d28d93813862",
+  "existing_original_pdf_preserved": true,
+  "concepts": 19,
+  "concepts_under_300": 13,
+  "new_source_critical_chapters": 4,
+  "mcq_original_practice": 30,
+  "source_correlated_keys": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    9,
+    23,
+    28
+  ],
+  "source_correlated_distractors": 24,
+  "mcq_remaining_unchecked_keys": 22,
+  "mcq_remaining_unchecked_distractors": 66,
+  "mains_count": 6,
+  "mains_body_only_counts": [
+    204,
+    212,
+    225,
+    225,
+    202,
+    222
+  ],
+  "mains_claim_verification": "Two answer sets partially checked (Q2, Q6), none fully claim-level independently certified",
+  "official_syllabus_2024": "Original commission-hosted PDF attempted; HTTP 403; inherited syllabus transcription not authenticated in this cycle",
+  "source_evidence": [
+    {
+      "id": "C82-S1",
+      "url": "https://sathee.iitk.ac.in/ncert-books/class-08/social-science/history-our-past-3/chapter-04-tribals-dikus-and-the-vision-of-a-golden-age/",
+      "scope": "NCERT tribal uprisings, Kol, Santhal, Birsa; hosted text read"
+    },
+    {
+      "id": "C82-S2",
+      "url": "https://sathee.iitk.ac.in/sathee-clat/student-corner/ncert-books/class-12/themes-in-indian-history/chapter-09-colonialism-and-the-countryside-exploring-official-archives/",
+      "scope": "NCERT Deccan 1875; debt bonds and official response"
+    },
+    {
+      "id": "C82-S3",
+      "url": "https://nationalarchives.nic.in/index.php/en/collection-glance",
+      "scope": "Official commission holdings list only; no underlying transcripts"
+    },
+    {
+      "id": "C82-S4",
+      "url": "https://sathee.iitk.ac.in/sathee-railway-exams/student-corner/ncert-books/class-08/social-science/history-our-past-3/chapter-05-when-people-rebel-1857-and-after/",
+      "scope": "NCERT Awadh/Jhansi and 1857 military/agrarian grievances"
+    },
+    {
+      "id": "C82-S5",
+      "url": "https://sathee.iitk.ac.in/ncert-books/class-12/themes-in-indian-history/chapter-10-rebels-and-the-raj-the-revolt-of-1857-and-its-representations/",
+      "scope": "NCERT 1857 regional leadership and uneven mobilisation"
+    },
+    {
+      "id": "C82-S6",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/21-22/106/pdfs/ukpga_18580106_en.pdf",
+      "scope": "Original Government of India Act 1858, sections I-III"
+    },
+    {
+      "id": "C82-S7",
+      "url": "https://searcharchives.bl.uk/catalog/041-000566434",
+      "scope": "British Library catalogue only, proclamation manuscript not read"
+    },
+    {
+      "id": "C82-S8",
+      "url": "https://sathee.iitk.ac.in/te/sathee-ssc/student-corner/ncert-books/class-08/social-science/history-our-past-3/chapter-07-women-caste-and-reform/",
+      "scope": "NCERT Phule, Ramabai, Periyar and reform; original writings not read"
+    },
+    {
+      "id": "C82-S9",
+      "url": "https://www.constitutionofindia.net/historical-constitution/poona-pact-1932-b-r-ambedkar-and-m-k-gandhi/",
+      "scope": "Reproduced Poona Pact clauses; signed original not inspected"
+    }
+  ],
+  "gate_status": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED_PENDING_CI_AND_ACTUAL_ARTIFACT",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0,
+  "full_page_per_concept_met": false,
+  "live_browser_accessibility_certified": false,
+  "limitation": "Bounded source correlations do not certify full R1-R8 or independent academic approval; CI PDF and actual downloaded archive QA pending"
+}
