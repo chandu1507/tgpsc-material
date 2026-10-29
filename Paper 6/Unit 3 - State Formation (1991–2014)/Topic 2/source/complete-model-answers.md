@@ -10,7 +10,7 @@
 **Limitations.** Coalition bargaining created tension between office and movement credibility. Electoral results also reflected many issues besides statehood, so party votes cannot be read as a complete regional plebiscite. Civil-society and employee organisations continued to provide evidence and pressure outside formal party structures.
 
 **Conclusion.** TRS helped institutionalise and nationalise the demand, but the 2004 breakthrough remained conditional. Its significance was political leverage and sustained organisation, not a completed constitutional reorganisation.
-**Approximate answer length: 200 words.**
+**Body-only word count (Cycle75): 202 words.**
 
 ## Mains model answer 2 — Evaluate the 2004 UPA Common Minimum Programme and Pranab Mukherjee Committee in the Telangana statehood debate.
 **Introduction.** The 2004 Congress–TRS alliance brought Telangana into the agenda of the new Union coalition. The National Common Minimum Programme and subsequent ministerial consultation were important political steps, but neither created a state.
@@ -22,7 +22,7 @@
 **Achievements and shortcomings.** The demand acquired national visibility and a consultative forum. However, no binding deadline followed, and parties disagreed about whose consent constituted consensus. The lack of a transparent roadmap created space for postponement and frustration among supporters. Wider regional consultation was legitimate but could not be allowed to become an undefined veto.
 
 **Conclusion.** The programme and committee converted the issue into national coalition politics while exposing the limits of conditional assurances. Their central lesson is the need to distinguish recognition, consultation and enforceable constitutional action.
-**Approximate answer length: 205 words.**
+**Body-only word count (Cycle75): 208 words.**
 
 ## Mains model answer 3 — Explain how the Girgliani Committee and Telangana Employees Joint Action Committee influenced the separate-state movement.
 **Introduction.** Employment safeguards were a recurring Telangana grievance after the Six-Point Formula, Article 371-D and the 1975 Presidential Order. The Girgliani inquiry and employee associations made implementation a central public question in the 2000s.
@@ -34,7 +34,7 @@
 **Limitations and safeguards.** A regional allegation does not automatically prove every appointment unlawful. Correction must follow due process, individual hearings and appeal rights. Original committee annexures and departmental rosters are necessary before claiming exact violation counts. Transparent compliance reporting should distinguish exemptions, lawful transfers and established irregularities. The Employees JAC should not be confused with the Political JAC formed in December 2009.
 
 **Conclusion.** These institutions turned a broad political grievance into testable administrative questions. Their influence lay in linking documentary accountability, livelihood concerns and regional mobilisation while revealing the difficulty of implementing longstanding safeguards.
-**Approximate answer length: 208 words.**
+**Body-only word count (Cycle75): 212 words.**
 
 ## Mains model answer 4 — Discuss the Hyderabad free-zone controversy and its contribution to the 2009 Telangana agitation.
 **Introduction.** The 2009 Hyderabad free-zone dispute arose from the treatment of specified police posts under the 1975 Presidential Order. It became a political catalyst because employment safeguards were already a sensitive Telangana issue.
@@ -46,7 +46,7 @@
 **Administrative response.** Authorities needed to explain the precise post categories, comply with the judgment and consider lawful remedies without prejudicing valid appointments. Journalists and campaigners also had a duty not to convert a limited exception into a claim that the entire city was unrestricted for every department.
 
 **Conclusion.** The controversy strengthened distrust of existing safeguards and helped intensify mobilisation before KCR’s November fast. Its significance was the interaction of a specific judicial interpretation with longstanding political grievances, not a judicial order creating Telangana.
-**Approximate answer length: 211 words.**
+**Body-only word count (Cycle75): 213 words.**
 
 ## Mains model answer 5 — Trace the events from KCR’s November 2009 fast to the two Union statements in December 2009.
 **Introduction.** Late 2009 was a turning point because party mobilisation, student activism, employment disputes and central-government decisions converged. The fast created urgency but did not itself initiate a constitutional reorganisation.
@@ -58,7 +58,7 @@
 **Second announcement.** Opposition and resignations in Coastal Andhra and Rayalaseema followed. On 23 December the Centre said circumstances had changed and wider consultations were necessary. Telangana supporters regarded this as postponement; the government argued that emerging divisions required further dialogue.
 
 **Conclusion.** The sequence shows the cost of announcing a major constitutional intention without a transparent roadmap. It produced a breakthrough in recognition but also fresh distrust, leading directly to the Political Joint Action Committee’s formation. Article 3 still required Parliament to complete the prescribed constitutional process.
-**Approximate answer length: 200 words.**
+**Body-only word count (Cycle75): 204 words.**
 
 ## Mains model answer 6 — Assess the significance and limitations of the Telangana Political Joint Action Committee formed in December 2009.
 **Introduction.** The Political Joint Action Committee emerged on 24 December 2009 after the Union government’s second statement. It sought to coordinate a broad Telangana campaign during uncertainty over the statehood process.
@@ -70,4 +70,4 @@
 **Constraints.** The coalition was never permanently unanimous. Members disagreed over tactics and party rivalry; some Telangana TDP representatives withdrew or acted separately soon after its creation. A JAC could mobilise and negotiate, but it could not enact an Article 3 law or compel every member to follow a single line.
 
 **Conclusion.** The Political JAC transformed scattered mobilisation into a more durable coordinating network. Its importance lay in coalition management and broad participation, while its limits demonstrate that unity around statehood did not erase ideological, electoral or organisational differences. Its subsequent protest programmes require separate study beyond 2009.
-**Approximate answer length: 203 words.**
+**Body-only word count (Cycle75): 206 words.**
