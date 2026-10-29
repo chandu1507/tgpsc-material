@@ -36,7 +36,7 @@ for sec in parts:
  counts.append(len(re.findall(r"\b[\w]+(?:['’\-][\w]+)*\b",body)))
 assert counts==[204,211,213,205,207,211],counts
 out=src/'integrated-student-edition-cycle81.pdf'
-subprocess.run([sys.executable,'scripts/render_topic_2_1_2_cycle81.py','--input',str(src/'integrated-student-master-cycle81.md'),'--output',str(out)],check=True)
+subprocess.run([sys.executable,'scripts/render_topic_2_1_3_cycle81.py','--input',str(src/'integrated-student-master-cycle81.md'),'--output',str(out)],check=True)
 doc=fitz.open(out)
 blank=[i+1 for i,p in enumerate(doc) if len(p.get_text().strip())<60]
 outside=[]
