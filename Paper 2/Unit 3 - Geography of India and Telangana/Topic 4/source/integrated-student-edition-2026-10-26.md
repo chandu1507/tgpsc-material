@@ -1,6 +1,6 @@
 # Paper II · Unit III · Topic 4 — Telangana Agriculture, Irrigation, Industry, Population and Tribal Development
 
-**Status: integrated working edition; NOT academically ready or independently approved.** Existing legacy PDF is preserved. This editable master combines the existing original narrative, the previously separate six-section repair, original model answers, 25 new explained practice MCQs, and four additional structured mains answers. No question below is represented as an authenticated official PYQ. A synchronized CI-rendered working PDF is now published; this does NOT mean academic R1–R8 approval. The dedicated Topic 4 renderer is being used to correct its footer, and full post-render accessibility and source checks remain open.
+**Status: integrated working edition; NOT academically ready or independently approved.** Existing legacy PDF is preserved. This editable master combines the existing original narrative, the previously separate six-section repair, original model answers, 25 new explained practice MCQs, and four additional structured mains answers. No question below is represented as an authenticated official PYQ. A synchronized CI-rendered working PDF is now published; this does NOT mean academic R1–R8 approval. The dedicated Topic 4 renderer publishes a synchronized PDF; integrity evidence is tracked separately in project-control/academic-readiness. Full browser accessibility and independent academic source checks remain open.
 
 ## Official syllabus — local transcription; original clause-by-clause recheck pending
 
@@ -683,10 +683,10 @@ UNESCO 2026 Decision 48 COM 7B.11 deals with protection and assessment requireme
 ## Publication and academic QA blockers
 - R1: direct original official TGPSC syllabus clause-by-clause comparison pending.
 - R2: consolidate repeated points in original narrative and prior six-section repair, then editorial contradiction review.
-- R3: four core concepts (§§4,5,6,9) expanded with worked mechanisms and source caveats; the seven remaining shallow sections have now been expanded in place; qualitative depth and editorial nonduplication still require independent review. Automated word counts are a diagnostic, not a pass criterion.
+- R3: all 15 numbered core concepts now exceed 300 whitespace words after bounded source-grounded expansions; this does not certify a full page per concept, nonrepetitive textbook depth, or independent academic correctness. The earlier six-section repair still needs deduplication.
 - R4: claim-level evidence register incomplete; dated statistics require original tables and administrative scope.
 - R5: 25 original explained draft MCQs written; ALL 25 key/distractor sets require complete source verification and discrimination review.
 - R6: six model answers assembled, four new drafts within 200–250 words; two inherited answers require recheck, first previously exceeded 250 words.
 - R7: SVG diagrams and map accuracy checks not completed; no visual claimed.
-- R8: Cycle96 integrated PDF was downloaded and verified; this Cycle97 source edit requires a NEW synchronized CI PDF and fresh artifact CRC/SHA/75-topic/link QA. Full-resolution student usability remains outstanding; legacy original PDF remains untouched.
+- R8: deterministic PDF rendering and actual downloaded-artifact CRC/SHA/75-topic/link checks are documented in separate dated project-control evidence. They do not certify live browser usability, accessibility, diagram accuracy or academic completeness; legacy original PDF remains untouched.
 - R9: NOT STARTED; zero external academic approvals.
