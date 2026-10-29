@@ -2,7 +2,7 @@
   "cycle": "88",
   "date": "2026-10-29",
   "topic_id": "3-1-1",
-  "scope": "Bounded author-side statutory source correlation of original practice MCQs 11-15 (5 keys, 20 option-level findings) and correction of mains Q5 overbroad consent language. NOT independent expert approval, NOT official PYQ authentication, NOT complete 25-item audit.",
+  "scope": "Bounded author-side statutory source correlation of original practice MCQs 11-15 (5 keys, 20 option-level findings), legal-precision correction of mains Q5, and three evidence-discipline additions to mains Q2-Q4. NOT independent expert approval, NOT official PYQ authentication, NOT complete 25-item or six-mains claim audit.",
   "baseline_main": "ba2e36860641bd331cbf6e4876c28cd272d3d194",
   "total_original_topics_unchanged": 75,
   "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
@@ -122,7 +122,13 @@
     "original": "Local consent, language access and livelihood security matter alongside roads and schooling.",
     "revised": "Meaningful consultation, language access and livelihood security matter alongside roads and schooling. PESA section 4(i) requires consultation for specified land acquisition and rehabilitation decisions; it does not itself create an unconditional veto. Any stronger consent requirement must be established from the separately applicable law.",
     "reason": "The previous unqualified 'local consent' could incorrectly imply that PESA 4(i) itself mandates an unconditional veto. Corrected the source model answer and integrated editable master in lockstep.",
-    "full_six_mains_claim_audit_complete": false
+    "full_six_mains_claim_audit_complete": false,
+    "questions_updated": [
+      2,
+      3,
+      4,
+      5
+    ]
   },
   "measured_this_cycle": {
     "keys_correlated": 5,
@@ -132,5 +138,27 @@
     "official_pyqs_authenticated": 0
   },
   "gate_status_after": "R1 PASS; R2/R3/R4/R5/R6/R7/R8 not PASS; R9 NOT_STARTED; independent academic approvals 0",
-  "remaining": "Full 25-question independent item audit; six mains claim-level audit; source original PDF access; expert review; full browser/accessibility; actual new renderer/packaging QA after merge."
+  "remaining": "Full independent 25-question/100-option audit; all six mains factual-claim audit; direct original statutory PDF review; expert review; browser/accessibility; actual new renderer/packaging QA after merge.",
+  "mains_body_recount": {
+    "method": "Split at each ## Question N and ### Model answer; stop at next question or quality-gate heading; exclude blank lines and leading bold subheading labels; split remaining body on whitespace. This intentionally differs from legacy historical metrics; preserve both and disclose discrepancy.",
+    "q1_to_q6_whitespace_tokens": [
+      203,
+      213,
+      214,
+      213,
+      233,
+      203
+    ],
+    "unicode_regex_tokens": [
+      204,
+      214,
+      214,
+      214,
+      234,
+      205
+    ],
+    "all_six_between_200_and_250_under_both_methods": true,
+    "corrections": "Q2/Q3/Q4 gained concise, nonrepetitive evidence-check sentences on household surveys, caste-power triangulation, and peri-urban commuting/watershed measurements. Q5 clarified PESA consultation vs consent.",
+    "independent_claim_audit_complete": false
+  }
 }
