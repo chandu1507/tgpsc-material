@@ -32,9 +32,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "substantive_repair_published_independent_academic_audit_pending",
-      "notes": "Original 17-page PDF preserved. 25 October 2026: original 3,817-word explanatory historical section, 30 original explained practice MCQs, six complete structured 200–250-word mains answers, three SVG diagrams, dated evidence register and 18-page supplementary PDF. Consolidated editable master recovered and expanded. Not independently academically approved.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle80_source_bounded_rebuild_integrated_candidate_ci_pending",
+      "notes": "Original 17-page PDF SHA256 31da79b3c2d7ce2d67ccfff40124bd4e9cff63a5bfdf0d887253797557151e3c preserved. Cycle80: 20 source-critical concepts, five expanded to >=300 words, 15 still shallow; 30 original four-option practice MCQs, six keys/18 distractors bounded checked against UNESCO; six mains body-only counts 216/218/217/216/216/228 but claims not independently verified; three existing diagrams; coherent editable master and local candidate PDF. No academic approval; post-CI artifact QA pending.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-1-2.json"
     },
     {
