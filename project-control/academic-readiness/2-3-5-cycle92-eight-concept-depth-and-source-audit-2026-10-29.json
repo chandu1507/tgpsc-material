@@ -1,0 +1,69 @@
+{
+  "cycle": 92,
+  "date": "2026-10-29",
+  "topic_id": "2-3-5",
+  "baseline_main": "d3478fb4cf5e9375171e5390e70bb4a9c28aa406",
+  "expanded_sections": [
+    5,
+    6,
+    7,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "before": {
+    "1": 372,
+    "2": 361,
+    "3": 372,
+    "4": 394,
+    "5": 160,
+    "6": 279,
+    "7": 180,
+    "8": 349,
+    "9": 370,
+    "10": 326,
+    "11": 341,
+    "12": 169,
+    "13": 154,
+    "14": 95,
+    "15": 149,
+    "16": 221
+  },
+  "after": {
+    "1": 372,
+    "2": 361,
+    "3": 372,
+    "4": 394,
+    "5": 380,
+    "6": 437,
+    "7": 362,
+    "8": 349,
+    "9": 370,
+    "10": 326,
+    "11": 341,
+    "12": 367,
+    "13": 338,
+    "14": 360,
+    "15": 379,
+    "16": 386
+  },
+  "below300_before": 8,
+  "below300_after": 0,
+  "sources": [
+    "| U14 | Hyderabad Metro Rail Limited, https://hmrl.co.in/phase-ii/ | Three implemented Phase-I corridors about 69 km; proposed Phase-II(A) 76.4 km and II(B) 86.1 km; do not conflate proposed and operational |",
+    "| U15 | UNESCO World Heritage Centre, Tentative List 5573, https://whc.unesco.org/en/tentativelists/5573/ | India's 2010 Qutb Shahi Monuments Tentative List submission; NOT an inscription |",
+    "| U16 | Government of Telangana Heatwave Implementation Plan, https://mgov.telangana.gov.in/HeatWaveActionPlan.html | Preparedness and warnings, not independently measured policy effectiveness |",
+    "| U17 | Hyderabad District Tourism, https://hyderabad.telangana.gov.in/tourism/ | Official attractions and urban-history description; not current visitor statistics |"
+  ],
+  "limitations": "Bounded author-side checks only; no independent expert approval, no original archival consultation, no official PYQs; Phase II proposals not operational; UNESCO Tentative List not inscription.",
+  "pending": [
+    "CI synchronized PDF",
+    "Actual downloaded artifact SHA/CRC/75 originals/link QA",
+    "25 MCQ keys and 100 options independent review",
+    "Six mains claim sets",
+    "Diagrams and browser accessibility"
+  ],
+  "approvals": 0
+}
