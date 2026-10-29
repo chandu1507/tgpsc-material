@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-29",
+  "topic_id": "2-3-5",
+  "cycle": 91,
+  "operation": "source-critical Hyderabad urban form expansion and bounded original-practice MCQ revision",
+  "source_references": [
+    {
+      "code": "U3",
+      "url": "https://www.ghmc.gov.in/City_History.aspx",
+      "observed": "1591 founder, Charminar, 1798 subsidiary alliance and Secunderabad",
+      "type": "first-party retrospective"
+    },
+    {
+      "code": "U4",
+      "url": "https://www.hmda.gov.in/",
+      "observed": "2008/2025 jurisdiction distinction, RRR upcoming, ORR navigation",
+      "type": "official institutional site"
+    },
+    {
+      "code": "U5",
+      "url": "https://www.ghmc.gov.in/",
+      "observed": "GHMC constituted in 2007 from earlier corporation",
+      "type": "official institutional site"
+    },
+    {
+      "code": "U6",
+      "url": "https://www.hmda.gov.in/planning-2/",
+      "observed": "Master Plan 2031 listed; implementation not certified",
+      "type": "official planning index"
+    },
+    {
+      "code": "U8",
+      "url": "https://hyderabad.telangana.gov.in/economy/",
+      "observed": "Musi and hard rocky Deccan plateau; district area inconsistency across pages",
+      "type": "district government"
+    },
+    {
+      "code": "U9",
+      "url": "https://hyderabad.telangana.gov.in/about-district/",
+      "observed": "historic and northern city layers, Secunderabad",
+      "type": "district government"
+    },
+    {
+      "code": "U10",
+      "url": "https://invest.telangana.gov.in/sectors/it-and-gcc/",
+      "observed": "Madhapur/Gachibowli and office belt",
+      "type": "state investment portal"
+    },
+    {
+      "code": "U11",
+      "url": "https://rangareddy.telangana.gov.in/industries/",
+      "observed": "HITEC City Madhapur and IT Park Gachibowli",
+      "type": "district government"
+    },
+    {
+      "code": "U12",
+      "url": "https://www.hmda.gov.in/home/",
+      "observed": "metropolitan coordination mandate",
+      "type": "official institutional page"
+    },
+    {
+      "code": "U13",
+      "url": "https://www.hmda.gov.in/orr/",
+      "observed": "ORR operational toll/pass information, separate RRR described as upcoming",
+      "type": "official institutional page"
+    }
+  ],
+  "expanded_concepts": [
+    3,
+    4
+  ],
+  "newly_bounded_source_correlated_mcqs": [
+    8,
+    10,
+    11,
+    16,
+    17,
+    18
+  ],
+  "prior_distinct_source_correlated_mcqs": [
+    3,
+    5,
+    6,
+    7,
+    9,
+    25
+  ],
+  "distinct_correlated_total": 12,
+  "remaining_mcq_keys_without_bounded_source_correlation": 13,
+  "revised_distractor_sets": [
+    8,
+    10,
+    11,
+    16,
+    17,
+    18
+  ],
+  "item_level_findings": {
+    "8": "HMDA metropolitan coordination, GHMC municipal, HMWSSB sectoral, Census enumeration",
+    "10": "published master plan does not certify works, expenditure or fresh Census",
+    "11": "operational ORR separate from proposed RRR; 2025 boundary order is not opening certificate",
+    "16": "Madhapur/Gachibowli named technology offices, regional towns and heritage locations not substitutes",
+    "17": "1798 cantonment origin distinct from 1591/2007/2025 events",
+    "18": "Charminar centre distinguished from Golconda, Hussain Sagar and later Osmania University"
+  },
+  "mechanical_answer_position_qa": {
+    "target_distribution": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "question_count": 25,
+    "correct_option_text_preserved": true,
+    "original_distractor_text_preserved": true,
+    "mapping": [
+      {
+        "q": 1,
+        "old_key": "B",
+        "new_key": "A",
+        "correct_option_text": "Settlement reclassification",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 2,
+        "old_key": "B",
+        "new_key": "B",
+        "correct_option_text": "The jurisdictional boundary changed",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 3,
+        "old_key": "A",
+        "new_key": "C",
+        "correct_option_text": "Muhammad Quli Qutb Shah",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 4,
+        "old_key": "B",
+        "new_key": "D",
+        "correct_option_text": "One city dominating a regional urban hierarchy",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 5,
+        "old_key": "C",
+        "new_key": "A",
+        "correct_option_text": "38.88% (2011 urban share)",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 6,
+        "old_key": "B",
+        "new_key": "B",
+        "correct_option_text": "7,257 sq km",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 7,
+        "old_key": "A",
+        "new_key": "C",
+        "correct_option_text": "G.O.Ms.No.68, 12 March 2025",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 8,
+        "old_key": "B",
+        "new_key": "D",
+        "correct_option_text": "Hyderabad Metropolitan Development Authority (HMDA)",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 9,
+        "old_key": "C",
+        "new_key": "A",
+        "correct_option_text": "2007",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 10,
+        "old_key": "B",
+        "new_key": "B",
+        "correct_option_text": "Spatial land-use planning documents are publicly available",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 11,
+        "old_key": "B",
+        "new_key": "C",
+        "correct_option_text": "ORR is an existing orbital road; RRR is a distinct wider corridor described as upcoming",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 12,
+        "old_key": "B",
+        "new_key": "D",
+        "correct_option_text": "Door-to-door time, fares and safe last-mile access",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 13,
+        "old_key": "B",
+        "new_key": "A",
+        "correct_option_text": "Protecting connected tanks and drainage",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 14,
+        "old_key": "C",
+        "new_key": "B",
+        "correct_option_text": "Faster runoff and reduced infiltration",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 15,
+        "old_key": "B",
+        "new_key": "C",
+        "correct_option_text": "Rent plus commute and service access",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 16,
+        "old_key": "A",
+        "new_key": "D",
+        "correct_option_text": "Madhapur and Gachibowli",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 17,
+        "old_key": "B",
+        "new_key": "A",
+        "correct_option_text": "The Nizam–East India Company subsidiary alliance of 1798",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 18,
+        "old_key": "A",
+        "new_key": "B",
+        "correct_option_text": "Charminar",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 19,
+        "old_key": "B",
+        "new_key": "C",
+        "correct_option_text": "Repeated movement between origin and destination",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 20,
+        "old_key": "B",
+        "new_key": "D",
+        "correct_option_text": "Boundaries and land development change independently",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 21,
+        "old_key": "B",
+        "new_key": "A",
+        "correct_option_text": "Specialised services and economic networks",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 22,
+        "old_key": "B",
+        "new_key": "B",
+        "correct_option_text": "Actual collection, treatment and reuse",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 23,
+        "old_key": "B",
+        "new_key": "C",
+        "correct_option_text": "Protect monuments and livelihoods with safe access",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 24,
+        "old_key": "B",
+        "new_key": "D",
+        "correct_option_text": "Complementary jobs, education and connectivity",
+        "operation": "option_position_reorder_only"
+      },
+      {
+        "q": 25,
+        "old_key": "B",
+        "new_key": "A",
+        "correct_option_text": "10,472.723 sq km (2025 HMR area)",
+        "operation": "option_position_reorder_only"
+      }
+    ]
+  },
+  "original_pdf_unchanged_by_this_change": true,
+  "original_topic_count": 75,
+  "official_pyq_attributions_added": 0,
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "limitations": [
+    "Author-side first-party source correspondence, not independent academic review",
+    "All 100 distractors still need independent item-level checking",
+    "All six mains claims need independent source checking",
+    "Two expanded concepts exceed 300 words but qualitative depth still not certified",
+    "HMDA RRR completion and original historical documents not asserted",
+    "CI PDF, actual downloaded artifact and browser accessibility not yet verified for this edit"
+  ],
+  "independent_academic_approvals": 0
+}
