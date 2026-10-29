@@ -7,7 +7,7 @@ on:
       - 'Paper 6/Unit 3 - State Formation (1991–2014)/Topic 5/source/references.md'
       - 'Paper 6/Unit 3 - State Formation (1991–2014)/Topic 5/source/complete-model-answers.md'
       - 'project-control/academic-readiness/6-3-5.json'
-      - 'scripts/publish_topic_6_3_4.py'
+      - 'scripts/publish_topic_6_3_5.py'
       - 'scripts/render_topic_6_3_4_integrated.py'
       - '.github/workflows/render-topic-6-3-5-integrated.yml'
   workflow_dispatch:
@@ -42,7 +42,7 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
-            python scripts/publish_topic_6_3_4.py
+            python scripts/publish_topic_6_3_5.py
             git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle78.pdf" 'project-control/academic-readiness/6-3-5-cycle78-ci-render-qa-2026-10-29.json'
             if git diff --cached --quiet; then
               echo 'Topic 6-3-5 already synchronized'
