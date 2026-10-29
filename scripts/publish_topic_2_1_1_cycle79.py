@@ -21,7 +21,8 @@ original=sha(root/'complete-notes.pdf')
 assert original=='e2ff8daae5db64520648bedca60ed4658d8cd43980c447c8c9d2664293665009',original
 md=(src/'integrated-student-master-cycle79.md').read_text()
 assert md.count('![Evidence hierarchy]')==1 and md.count('![Religious networks]')==1 and md.count('![Art attribution]')==1
-assert len(re.findall(r'^## (?:[1-9]|1[0-9])\. ',md,re.M))==19
+concept_block=md.split('## Source-critical detailed concepts',1)[1].split('## Original analytical diagrams',1)[0]
+assert len(re.findall(r'^## (?:[1-9]|1[0-9])\. ',concept_block,re.M))==19
 mcqs=(src/'original-explained-mcqs-depth-repair.md').read_text()
 assert len(re.findall(r'^### Q\d+\.',mcqs,re.M))==30
 assert len(re.findall(r'^\*\*Correct answer: [ABCD]\.',mcqs,re.M))==30
