@@ -45,8 +45,8 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "substantive_repair_published_independent_academic_audit_pending",
-      "notes": "Original 12-page PDF preserved; 25 October 2026 original 4,649-word explanatory research supplement, 23-page PDF, 30 original explained MCQs, six complete 200–250-word structured mains answers, three SVG diagrams, 14-entry dated source audit and provenance-labelled expanded editable master. Historical archival sources not all retrieved. NOT academically approved.",
-      "readiness_status": "NOT_ASSESSED",
+      "notes": "Cycle81 direct official 2024 syllabus R1 PASS; four source-based expansions, 14/19 concepts shallow; nine keys/27 distractors author source-correlated; six mains lengths pass but claim audit incomplete; original PDF preserved; CI PDF and archive QA pending, NOT APPROVED.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-1-3.json"
     },
     {
@@ -1017,7 +1017,7 @@
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
     "pilot_in_progress": 7,
-    "topics_not_assessed": 7,
+    "topics_not_assessed": 5,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
@@ -1037,9 +1037,11 @@
       "2-3-4",
       "2-3-5"
     ],
-    "last_topic": "2-1-1",
+    "last_topic": "2-1-3",
     "topics_assessed_rebuild_required": [
       "2-1-1",
+      "2-1-2",
+      "2-1-3",
       "3-1-1",
       "3-1-2",
       "3-1-3",
@@ -1105,20 +1107,20 @@
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 61,
-    "not_assessed": 7,
-    "verified_R1_pass": 12,
+    "assessed_rebuild_required": 63,
+    "not_assessed": 5,
+    "verified_R1_pass": 13,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "2-1-1",
-    "evidence": "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
+    "last_assessed": "2-1-3",
+    "evidence": "project-control/academic-readiness/2-1-3-cycle81-direct-source-and-depth-audit-2026-10-29.json"
   },
-  "last_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: CI 22-page integrated PDF SHA verified in actual downloaded artifact 12874497503, 75 originals preserved, 513 local links/1050 DOM fragments zero broken. 17/19 concepts shallow, 28 keys/84 distractors and six mains claim audits pending; 7/61/7; approvals ZERO.",
-  "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 61 ASSESSED_REBUILD_REQUIRED, 7 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals.",
+  "last_readiness_update": "Cycle81 2-1-3 R1 PASS, 14/19 shallow, 9 keys/27 distractors checked, six mains lengths pass; CI archive QA pending; 7/63/5.",
+  "last_readiness_reconciliation": "75 originals; 7 IN_PROGRESS / 63 ASSESSED_REBUILD_REQUIRED / 5 NOT_ASSESSED; 13 R1 mappings; ZERO fully ready and ZERO approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
-    "assessed_rebuild_required": 61,
-    "not_assessed": 7,
+    "assessed_rebuild_required": 63,
+    "not_assessed": 5,
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
@@ -1143,5 +1145,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: CI 22-page integrated PDF SHA verified in actual downloaded artifact 12874497503, 75 originals preserved, 513 local links/1050 DOM fragments zero broken. 17/19 concepts shallow, 28 keys/84 distractors and six mains claim audits pending; 7/61/7; approvals ZERO."
+  "latest_readiness_update": "Cycle81 2-1-3 R1 PASS, 14/19 shallow, 9 keys/27 distractors checked, six mains lengths pass; CI archive QA pending; 7/63/5."
 }
