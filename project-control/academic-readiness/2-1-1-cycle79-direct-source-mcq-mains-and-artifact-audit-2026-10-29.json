@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-29",
+  "cycle": 79,
+  "topic_id": "2-1-1",
+  "source_main_sha": "c34094c99880cf61a9c4aa2f74f38b9d34bbc516",
+  "original_topic_pdf_sha256": "e2ff8daae5db64520648bedca60ed4658d8cd43980c447c8c9d2664293665009",
+  "original_pdf_preserved": true,
+  "source_audit": {
+    "primary_concepts": 19,
+    "below_300_after_edits": 17,
+    "expanded_sections": [
+      3
+    ],
+    "mcq_total": 30,
+    "original_practice_not_official_pyqs": true,
+    "source_checked_keys": [
+      1,
+      2
+    ],
+    "source_checked_distractors": 6,
+    "unchecked_keys": 28,
+    "unchecked_distractors": 84,
+    "mains_body_only_counts": [
+      212,
+      203,
+      211,
+      204,
+      213,
+      210
+    ],
+    "claim_level_mains_review_complete": false,
+    "diagram_accuracy_certified": false,
+    "official_syllabus_direct_pdf": "HTTP_403_NOT_AUTHENTICATED",
+    "source_register": [
+      {
+        "source": "Ashmolean Museum EAMd.8",
+        "url": "https://jameelcentre.ashmolean.org/collection/921/object/11118",
+        "scope": "Harappan chert cubical weight, shared measurement traditions"
+      },
+      {
+        "source": "UNESCO Dholavira 1645",
+        "url": "https://whc.unesco.org/en/list/1645/",
+        "scope": "Seasonal streams, reservoirs, workshops, trade"
+      },
+      {
+        "source": "British Museum 1947,0416.3",
+        "url": "https://www.britishmuseum.org/collection/object/A_1947-0416-3",
+        "scope": "Undeciphered inscribed steatite seal as physical evidence"
+      }
+    ]
+  },
+  "pre_edit_artifact": {
+    "run": 40814829694,
+    "artifact_id": 12870904995,
+    "sha256": "5074cc02433e2745aa2b0b3bf31da4006a808e5ee46e94c7ed9ef4e3ff8f8281",
+    "outer_crc_pass": true,
+    "inner_crc_pass": true,
+    "entries": 1862,
+    "original_pdfs": 75,
+    "readiness_json": 75,
+    "html_pages": 78,
+    "local_links_checked": 503,
+    "broken_local_links": 0,
+    "dom_fragments_checked": 1050,
+    "broken_fragments": 0,
+    "spa_routes_excluded": 43
+  },
+  "post_edit_ci_artifact_verified": false,
+  "fully_R1_R8_ready": false,
+  "independent_academic_approvals": 0,
+  "readiness_status": "ASSESSED_REBUILD_REQUIRED",
+  "remaining_topics_not_assessed": 7
+}

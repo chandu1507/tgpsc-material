@@ -4,27 +4,27 @@
 
 ### Q1. Which conclusion is best supported by Harappan standardized weights?
 
-A. A single named emperor controlled all cities
+A. Identical royal tax rates operated at every Harappan settlement
 
-B. Shared measurement conventions aided exchange
+B. Shared measurement conventions could facilitate exchange across settlements
 
-C. The Indus script has been deciphered
+C. The weights establish the exact prices charged for all traded commodities
 
-D. There were no regional differences
+D. The weights identify the language written on every Harappan seal
 
-**Correct answer: B.** Repeated weight standards suggest exchange conventions across settlements. They do not establish a single imperial office or allow translation of the undeciphered script.
+**Correct answer: B.** The Ashmolean Museum catalogues graduated chert weights found across a wide area. This supports a shared measuring practice, not a deciphered price list, uniform tax schedule, or readable language. Source: Ashmolean, cubical weight EAMd.8. The distractors are claims not established by the object record.
 
 ### Q2. Dholavira is especially useful for explaining which historical problem?
 
-A. Water management in an arid settlement
+A. Capturing seasonal runoff in reservoirs in an arid settlement
 
-B. Buddhist monastic discipline
+B. Dependence on a perennial river without a substantial storage system
 
-C. Gupta Sanskrit court poetry
+C. Reliance on a tidal estuary as the city's main source of fresh water
 
-D. Mauryan land grants
+D. Exclusive dependence on household wells rather than shared reservoirs
 
-**Correct answer: A.** Its reservoir systems and seasonal-stream catchments illuminate urban ecological adaptation. UNESCO documentation also identifies stone architecture and craft production.
+**Correct answer: A.** UNESCO identifies Dholavira's seasonal streams and an extensive network of reservoirs. Its water-harvesting strategy contradicts B, C and D. Source: UNESCO World Heritage Centre, Dholavira listing 1645.
 
 ### Q3. Which statement about the Harappan script is methodologically sound?
 

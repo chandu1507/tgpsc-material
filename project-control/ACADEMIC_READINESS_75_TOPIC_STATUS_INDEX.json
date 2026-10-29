@@ -10,10 +10,10 @@
     "2-3-4",
     "2-3-5"
   ],
-  "not_assessed_count": 8,
+  "not_assessed_count": 7,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 60 ASSESSED_REBUILD_REQUIRED / 8 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle78 6-3-5 integrated 27-page PDF and actual GitHub artifact verified, but 30/38 concepts still shallow.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 61 ASSESSED_REBUILD_REQUIRED / 7 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle79 Topic 2-1-1 academic rebuild incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -92,6 +92,7 @@
     "project-control/academic-readiness/2-2-4.json"
   ],
   "assessed_rebuild_required": [
+    "2-1-1",
     "3-1-1",
     "3-1-2",
     "3-1-3",
@@ -153,7 +154,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle78 6-3-5 renderer 40814563389 SUCCESS; packaging 40814618975 SUCCESS, artifact 12871468885 downloaded SHA/CRC/75 originals/503 links/1050 fragments/23 manifest hashes PASS. 30/38 concepts shallow, 20 MCQ keys/60 distractors and six mains claim sets pending. R8 IN_PROGRESS, approvals ZERO.",
+  "last_readiness_update": "Cycle79 2-1-1 source-critical partial assessment: 19 concepts/17 shallow, two MCQ keys and six distractors checked, six mains 200–250 words, prework artifact SHA/CRC/75 original PDFs/503 links/1050 fragments verified; new integrated PDF CI pending. 7/61/7, approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -170,6 +171,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json",
     "project-control/academic-readiness/6-3-5-cycle78-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-3-5-cycle78-direct-source-depth-and-bounded-mcq-audit-2026-10-29.json",
     "project-control/academic-readiness/6-3-4-cycle77-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",

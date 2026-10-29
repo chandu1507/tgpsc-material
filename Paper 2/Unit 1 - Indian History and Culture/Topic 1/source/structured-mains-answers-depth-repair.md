@@ -10,11 +10,11 @@
 
 **Ecological adaptation.** Dholavira, located in an arid setting, developed reservoirs and channels drawing on seasonal water. Its stone architecture differs from the baked-brick emphasis of other cities. UNESCO documentation also identifies craft workshops and varied residential areas, demonstrating a complex settlement rather than a universal grid template.
 
-**Political interpretation.** Monumental structures and differentiated houses suggest organisation and social distinctions, but neither a palace nor a king can be securely named from these observations. Local institutions, merchant conventions and wider networks may all have contributed to coordination.
+**Political interpretation.** Monumental structures and differentiated houses suggest organisation and social distinctions, but neither a palace nor a king can be securely named from these observations. Local institutions, merchant conventions and wider networks may all have contributed to coordination. The distribution of craft areas, reservoirs and streets must be compared across excavation phases before identifying a central authority.
 
 **Conclusion.** Harappan urbanism should be explained as technically sophisticated and regionally adaptive, while political centralisation remains a hypothesis to test. The distinction between excavated evidence and reconstructed authority is the key to a defensible historical answer.
 
-*Answer body: 201 words; original practice.*
+*Answer body: 212 words under Cycle79 body-only method; original practice.*
 
 ## Mains 2. Discuss changes from early to later Vedic society and limitations of textual evidence.
 
@@ -28,7 +28,7 @@
 
 **Conclusion.** The shift is best understood as a long, uneven interaction of economy, political authority and thought. Comparing source types produces a stronger account than the crude binary of an entirely pastoral early society and an entirely agricultural later one.
 
-*Answer body: 212 words; original practice.*
+*Answer body: 203 words under Cycle79 body-only method; original practice.*
 
 ## Mains 3. Explain the rise of Jainism and Buddhism and compare their central doctrines.
 
@@ -40,11 +40,11 @@
 
 **Buddhist teaching.** Buddhism teaches the Four Noble Truths, the Eightfold Path and the Middle Way. Dependent origination explains conditioned processes, while anatta rejects a permanent independent self. The sangha provided disciplined monastic institutions supported by lay donors.
 
-**Social significance.** Both traditions expanded networks of teaching, gifts and monuments. Their historical communities were diverse; neither can be reduced to the assertion that all caste distinctions disappeared.
+**Social significance.** Both traditions expanded networks of teaching, gifts and monuments. Their historical communities were diverse; neither can be reduced to the assertion that all caste distinctions disappeared. Lay donors and merchants also supported institutions, so religious expansion cannot be explained by royal sponsorship alone.
 
 **Conclusion.** The shared emphasis on ethical liberation should be balanced against the fundamental difference between Jain jiva and Buddhist anatta, alongside their distinct institutional histories.
 
-*Answer body: 204 words; original practice.*
+*Answer body: 211 words under Cycle79 body-only method; original practice.*
 
 ## Mains 4. Compare Gandhara, Mathura and Amaravati schools of art with reference to Telangana.
 
@@ -60,7 +60,7 @@
 
 **Conclusion.** A careful comparison identifies typical features while resisting rigid labels. Findspot, inscriptions and material context are stronger evidence than colour or a single decorative motif. Chronological phases and donor records further refine any attribution, especially for displaced museum fragments.
 
-*Answer body: 211 words; original practice.*
+*Answer body: 204 words under Cycle79 body-only method; original practice.*
 
 ## Mains 5. Assess the social and cultural character of the Mauryan and Satavahana periods.
 
@@ -72,11 +72,11 @@
 
 **Religious culture.** Buddhist monasteries received donations, while rulers and households also participated in other ritual traditions. Patronage was plural rather than an exclusively sectarian state programme.
 
-**Telangana evidence.** Dhulikatta, Peddabankur and Kotilingala have yielded coins, pottery and early historic objects. These sites demonstrate Deccan connectivity; identifying Kotilingala conclusively as the first Satavahana capital remains debated.
+**Telangana evidence.** Dhulikatta, Peddabankur and Kotilingala have yielded coins, pottery and early historic objects. These sites demonstrate Deccan connectivity; identifying Kotilingala conclusively as the first Satavahana capital remains debated. Objects must be assigned to secure archaeological layers before they can support claims about a particular dynasty.
 
 **Conclusion.** Mauryan edicts illuminate public imperial ethics, whereas Satavahana inscriptions and archaeological networks illuminate regional patronage. Both require source criticism and attention to ordinary producers.
 
-*Answer body: 206 words; original practice.*
+*Answer body: 213 words under Cycle79 body-only method; original practice.*
 
 ## Mains 6. Critically examine the Gupta “Golden Age” label in social and cultural history.
 
@@ -92,4 +92,4 @@
 
 **Conclusion.** Retain the Gupta age as a period of important cultural creativity, but qualify “Golden Age” by asking: golden for whom, where and according to which sources?
 
-*Answer body: 221 words; original practice.*
+*Answer body: 210 words under Cycle79 body-only method; original practice.*

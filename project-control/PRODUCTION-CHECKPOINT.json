@@ -20,9 +20,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "substantive_repair_published_independent_academic_audit_pending",
-      "notes": "Original 17-page PDF preserved; 25 October 2026 original 4,776-word source-audited depth repair, 21-page supplement PDF, 30 original explained MCQs, six complete structured mains answers (201/212/204/211/206/221 words), three SVG diagrams, 12-entry dated source register, consolidated 12,252-word provenance-labelled master. NOT independently academically approved.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle79_source_critical_partial_rebuild_ci_pending",
+      "notes": "Original 17-page PDF preserved. Cycle79 19 primary concept sections, 17 below 300 words after one expanded section; 30 original MCQs, 2 keys/6 distractors bounded source-checked, 6 mains body-only counts 212/203/211/204/213/210, source register with directly viewed Ashmolean/UNESCO/British Museum. Integrated editable master prepared; CI PDF and post-edit downloaded artifact not yet certified. NOT approved.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-1-1.json"
     },
     {
@@ -947,17 +947,16 @@
   "next_sequential_topic": null,
   "next_new_topic": null,
   "latest_verified_publication": {
-    "topic_id": "6-2-1",
+    "topic_id": "6-3-5",
     "date": "2026-10-29",
-    "publication_status": "actual_github_artifact_integrity_verified_not_academic_approval",
+    "publication_status": "pre_cycle79_actual_downloaded_artifact_integrity_verified_not_post_edit",
     "academic_status": "not_approved",
     "published_pdf_pairs": 75,
-    "html_slots": 75,
-    "packaging_run_id": 40760089345,
-    "artifact_id": 12847353235,
-    "unique_archive_entries": 1794,
-    "artifact_sha256": "3c63db5e8409658b9c76645d06e49084ce878cb258b534277b8f4b4b04273721",
-    "qa_evidence": "project-control/academic-readiness/6-2-1-cycle69-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+    "html_pages": 78,
+    "packaging_run_id": 40814829694,
+    "artifact_id": 12870904995,
+    "unique_archive_entries": 1862,
+    "artifact_sha256": "5074cc02433e2745aa2b0b3bf31da4006a808e5ee46e94c7ed9ef4e3ff8f8281",
     "independent_live_browser_status": "unverified",
     "academic_approval": 0
   },
@@ -1017,17 +1016,17 @@
     "status": "READINESS_IN_PROGRESS",
     "total_topics": 75,
     "pilot_in_progress": 7,
-    "topics_not_assessed": 14,
+    "topics_not_assessed": 7,
     "topics_ready_for_independent_audit": 0,
     "independently_academically_approved": 0,
     "topic_gate_files": 75,
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle72 direct assessment only, 40/40 shallow and Mains2 197; Cycle71 last actual artifact verified; 7/54/14, zero approvals.",
+    "note": "Cycle79 2-1-1 partial source-critical assessment and integrated editable master; 7/61/7; 0 approvals. Post-edit PDF/artifact pending.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40760089345,
-    "last_verified_package_artifact": 12847353235,
+    "last_verified_package_run": 40814829694,
+    "last_verified_package_artifact": 12870904995,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1037,8 +1036,9 @@
       "2-3-4",
       "2-3-5"
     ],
-    "last_topic": "6-2-4",
+    "last_topic": "2-1-1",
     "topics_assessed_rebuild_required": [
+      "2-1-1",
       "3-1-1",
       "3-1-2",
       "3-1-3",
@@ -1092,30 +1092,36 @@
       "6-2-1",
       "6-2-2",
       "6-2-3",
-      "6-2-4"
+      "6-2-4",
+      "6-2-5",
+      "6-3-1",
+      "6-3-2",
+      "6-3-3",
+      "6-3-4",
+      "6-3-5"
     ]
   },
   "academic_readiness_summary": {
     "total_topics": 75,
     "in_progress": 7,
-    "assessed_rebuild_required": 54,
-    "not_assessed": 14,
+    "assessed_rebuild_required": 61,
+    "not_assessed": 7,
     "verified_R1_pass": 12,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "6-2-4",
-    "evidence": "project-control/academic-readiness/6-2-4-cycle72-direct-depth-mcq-mains-and-source-audit-2026-10-29.json"
+    "last_assessed": "2-1-1",
+    "evidence": "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json"
   },
-  "last_readiness_update": "2026-10-29 Cycle72 Topic 6-2-4 direct audit: 40/40 shallow, 30 structurally valid MCQs with unverified keys/distractors, Mains 2 197 words; 7/54/14; no new integrated PDF, R8 BLOCKED, approvals zero.",
-  "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 54 ASSESSED_REBUILD_REQUIRED, 14 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals.",
+  "last_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: 19 primary concepts/17 shallow; 2 MCQ keys/6 distractors source-checked, 6 mains 200-250 body-only, original PDF preserved; 7/61/7; PDF CI pending, approvals ZERO.",
+  "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 61 ASSESSED_REBUILD_REQUIRED, 7 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
-    "assessed_rebuild_required": 54,
-    "not_assessed": 14,
+    "assessed_rebuild_required": 61,
+    "not_assessed": 7,
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/6-2-4-cycle72-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1136,5 +1142,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "2026-10-29 Cycle72 Topic 6-2-4 direct audit: 40/40 shallow, 30 structurally valid MCQs with unverified keys/distractors, Mains 2 197 words; 7/54/14; no new integrated PDF, R8 BLOCKED, approvals zero."
+  "latest_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: 19 primary concepts/17 shallow; 2 MCQ keys/6 distractors source-checked, 6 mains 200-250 body-only, original PDF preserved; 7/61/7; PDF CI pending, approvals ZERO."
 }
