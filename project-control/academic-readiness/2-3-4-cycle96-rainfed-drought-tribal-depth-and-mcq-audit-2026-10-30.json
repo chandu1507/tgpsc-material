@@ -1,0 +1,163 @@
+{
+  "cycle": 96,
+  "date": "2026-10-30",
+  "topic_id": "2-3-4",
+  "repository": "chandu1507/tgpsc-material",
+  "base_main_sha": "9bf4c020e5401ac3bc39725d772980a2714faa17",
+  "status": "AUTHOR_SIDE_BOUNDED_SOURCE_DEPTH_REBUILD_CI_PENDING",
+  "scope": {
+    "original_topics_expected": 75,
+    "per_topic_readiness_json_expected": 75,
+    "original_pdf_preserved": true,
+    "independent_academic_approvals": 0
+  },
+  "method": {
+    "sections": "Count whitespace-separated words from each numbered ## core narrative section, including its nested ### subheadings and text; stop at next numbered ## or Additional case-study section.",
+    "mcqs": "Author-side rationale for key and three alternatives. Does not constitute independent subject expert approval or authenticated PYQ.",
+    "verification": "Sources as indexed official pages or accessible official summaries; full PDF not claimed where unavailable."
+  },
+  "before": {
+    "core_sections": 15,
+    "below_300": 11,
+    "section_words": {
+      "1": 116,
+      "2": 106,
+      "3": 104,
+      "14": 112
+    }
+  },
+  "after": {
+    "core_sections": 15,
+    "below_300": 7,
+    "section_words": {
+      "1": 451,
+      "2": 444,
+      "3": 441,
+      "14": 466
+    },
+    "remaining_shallow_sections": [
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      15
+    ]
+  },
+  "sources": [
+    {
+      "id": "T96-S1",
+      "url": "https://icar.gov.in/en/training-programme-farmers-sustainable-rainfed-farming-pathway-livelihood-security-under-scsp",
+      "scope": "ICAR-CRIDA Jan 2025 training: rainwater, crops, value addition, livestock, pests",
+      "limitation": "Training report, not measured statewide impact"
+    },
+    {
+      "id": "T96-S2",
+      "url": "https://ecostat.telangana.gov.in/functional_area_des.html",
+      "scope": "Telangana DES agriculture and rainfall statistical categories",
+      "limitation": "No numeric table or district series extracted"
+    },
+    {
+      "id": "T96-S3",
+      "url": "https://www.agritech.tnau.ac.in/agriculture/agri_majorareas_dryland_agromeasures_intercropping.html",
+      "scope": "General dryland intercropping agronomy",
+      "limitation": "Not Telangana field validation"
+    },
+    {
+      "id": "T96-S4",
+      "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/1155",
+      "scope": "NRSC/ISRO 2016 agricultural drought monitoring abstract",
+      "limitation": "Full PDF not directly examined"
+    },
+    {
+      "id": "T96-S5",
+      "url": "https://cgwb.gov.in/cgwbpnm/publication-detail/1541",
+      "scope": "CGWB 2024 Telangana groundwater assessment official repository",
+      "limitation": "Full PDF retrieval failed; no detailed local figures used"
+    },
+    {
+      "id": "T96-S6",
+      "url": "https://tribal.nic.in/FRA.aspx",
+      "scope": "Ministry of Tribal Affairs FRA rights overview",
+      "limitation": "Not Telangana-specific implementation"
+    },
+    {
+      "id": "T96-S7",
+      "url": "https://tribal.nic.in/FRA/data/FRARulesBook.pdf",
+      "scope": "FRA Rules indexed excerpt on Gram Sabha and committee claims",
+      "limitation": "Full primary PDF not independently examined"
+    }
+  ],
+  "mcq_author_checks": [
+    {
+      "question": 1,
+      "key": "A",
+      "source_ids": [
+        "T96-S1",
+        "T96-S3"
+      ],
+      "options": {
+        "A": "Conceptual distinction between precipitation source and moisture-limited production; teaching inference, formal definition still pending",
+        "B": "False: rainfed does not require canals and dryland is not defined by borewells",
+        "C": "False: no statutory identity established by sources",
+        "D": "False: dryland farming is not restricted to black cotton soils"
+      },
+      "independent_review": false
+    },
+    {
+      "question": 2,
+      "key": "B",
+      "source_ids": [
+        "T96-S1",
+        "T96-S4"
+      ],
+      "options": {
+        "A": "False: crops and stages have differing rainfall requirements",
+        "B": "Crop-stage dry spell can harm yields despite a satisfactory cumulative rainfall total",
+        "C": "False: crop failure can relate to rainfall distribution",
+        "D": "False: rainfall totals do not directly determine farm-gate price"
+      },
+      "independent_review": false
+    },
+    {
+      "question": 3,
+      "key": "C",
+      "source_ids": [
+        "T96-S4"
+      ],
+      "options": {
+        "A": "Unrelated industrial and transport variables",
+        "B": "Unrelated tourism and naming variables",
+        "C": "Root-zone soil moisture, crop condition and dry-spell duration target agricultural drought",
+        "D": "Statewide annual mean is insufficient to diagnose crop stress"
+      },
+      "independent_review": false
+    }
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "publication": {
+    "new_integrated_pdf_rendered": false,
+    "actual_post_edit_artifact_downloaded": false,
+    "crc_verified": false,
+    "links_verified": false,
+    "legacy_original_pdf_unchanged": "NOT_YET_RECHECKED_POST_EDIT"
+  },
+  "next_actions": [
+    "Merge guarded PR then observe deterministic Topic 2-3-4 renderer",
+    "Download actual post-render Actions artifact and verify outer/inner CRC and SHA, exactly 75 originals and readiness JSON, local links and fragments",
+    "Expand remaining 7 shallow concepts with nonrepetitive source-backed detail",
+    "Independently verify all 25 keys, 75 distractors, six mains claims and diagrams",
+    "Full browser and accessibility QA; no R9 without named independent expert"
+  ]
+}
