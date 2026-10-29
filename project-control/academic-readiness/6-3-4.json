@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle77 direct source and depth audit: 40 concepts initially below 300 words, eight expanded to >=300, 32 remain shallow. Six mains body-only counts corrected to 211/211/210/210/211/210; 30 original MCQs with 6 keys and 18 distractors bounded source-checked; 24 keys and 72 distractors pending. Original PDF SHA 13b1609daccd0949df1c7fade614d1ef7d0e453f076aa92b189faf3a055c17d0 preserved. Source register R14-R22 distinguishes original law, contemporaneous reporting and unavailable signed records. CI PDF and downloaded artifact pending. No independent academic approval.",
-  "next_action": "Expand 32 shallow concepts to full-page depth; check 24 MCQ keys, 72 distractors, all six mains claims, diagrams and browser accessibility; verify CI PDF and actual artifact. R9 only after R1-R8 PASS and named independent expert.",
+  "evidence": "Cycle77 direct source and depth audit: 40 concepts initially below 300 words, eight expanded to >=300, 32 remain shallow. Six mains body-only counts corrected to 211/211/210/210/211/210; 30 original MCQs with 6 keys and 18 distractors bounded source-checked; 24 keys and 72 distractors pending. Original PDF SHA 13b1609daccd0949df1c7fade614d1ef7d0e453f076aa92b189faf3a055c17d0 preserved. Source register R14-R22 distinguishes original law, contemporaneous reporting and unavailable signed records. CI PDF and downloaded artifact pending. No independent academic approval. Cycle77 renderer Actions 40809836067 SUCCESS; packaging 40809883194 SUCCESS, artifact 12870335424 ACTUALLY DOWNLOADED; SHA256 a4e6d3f6587cdefc5fd9bbf17181c81e8648cd6861821446ffa87a599c8b6f70 matched GitHub; outer/inner CRC PASS; 1,851 files, 75/75 original PDF hashes unchanged, 75 readiness JSON, 78 HTML, 458 local links and 1,050 fragments ZERO broken, 15/15 Topic 6-3-4 manifest hashes PASS. CI PDF 27 pages SHA256 1f1ff1bcae39a5a90f5f252a6668b61bc08f5560d687a1349c79ff9fb5f80bbb. R8 IN_PROGRESS, not PASS. Evidence project-control/academic-readiness/6-3-4-cycle77-actual-downloaded-post-ci-artifact-qa-2026-10-29.json.",
+  "next_action": "Expand remaining 32 concepts to full-page depth; verify 24 MCQ keys and 72 distractors, six mains claim sets, historical diagrams and direct browser accessibility. R9 only after all R1-R8 PASS and named independent expert.",
   "external_reviewer": null,
   "student_accepted": false
 }

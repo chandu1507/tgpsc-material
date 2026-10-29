@@ -921,8 +921,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle77_partial_source_critical_rebuild_ci_publication_pending",
-      "notes": "Original PDF preserved. Eight of 40 shallow concepts expanded with dated sources, 32 remain shallow. Six mains body-only counts 211/211/210/210/211/210. Six MCQ keys and 18 distractors source-checked; CI integrated PDF and actual artifact QA pending. ZERO approvals.",
+      "production_review": "cycle77_source_critical_partial_rebuild_ci_artifact_verified_not_approved",
+      "notes": "Original PDF preserved. Eight of 40 shallow concepts expanded with dated sources, 32 remain shallow. Six mains body-only counts 211/211/210/210/211/210. Six MCQ keys and 18 distractors source-checked; CI integrated PDF and actual artifact QA pending. ZERO approvals. CI 27-page PDF and actual downloaded artifact SHA/CRC/75-originals/458 links/1050 fragments/15 manifest hashes verified; R8 IN_PROGRESS, no academic approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-3-4.json"
     },
