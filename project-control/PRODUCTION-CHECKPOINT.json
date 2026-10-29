@@ -9,7 +9,7 @@
     "last_reported_topic": "2-3-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle97 2-3-4 seven core concepts expanded, all 15 >=300 words; academic gates incomplete, CI/downloaded artifact QA pending, approvals zero."
+    "note": "Cycle97 Topic 2-3-4 seven source-bounded core expansions; 28-page PDF and downloaded artifact 12940470131 SHA/CRC/75 originals/links verified. R1–R8 incomplete, approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -178,11 +178,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle97_seven_core_concepts_expanded_source_bounded_ci_qa_pending",
-      "notes": "Cycle97: 7 core sections (7/8/10/11/12/13/15) expanded in place, all 15 >=300 whitespace words (not qualitative R3 PASS), direct institutional source register T97-S1..S15. CI PDF and actual downloaded post-edit artifact QA pending; 25 MCQ keys/75 distractors, six mains, diagrams, full-page depth and browser QA incomplete. Original PDF preserved; no academic approval.",
+      "production_review": "cycle97_seven_core_concepts_expanded_28page_ci_and_downloaded_artifact_verified_academic_pending",
+      "notes": "Cycle97 all 15 core concepts >=300 whitespace words after seven source-bounded expansions; 28-page CI PDF SHA a79623fc56e1dcd178c83e5632572bec24f29cbb8cc18fc97fe9e17bda684560. Downloaded GitHub artifact 12940470131 SHA/CRC/75 original PDFs/75 readiness JSON/597 links/1050 fragments PASS. R1–R8 incomplete: independent MCQ/mains/source checks, diagrams, full-page-per-concept, browser/accessibility pending; approvals zero.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-cycle97-seven-core-concept-expansions-2026-10-30.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-cycle97-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
     },
     {
       "id": "2-3-5",
