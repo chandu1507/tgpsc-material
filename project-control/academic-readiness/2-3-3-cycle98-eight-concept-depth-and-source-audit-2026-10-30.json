@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-30",
+  "cycle": 98,
+  "topic_id": "2-3-3",
+  "topic_title": "Telangana: Physical Geography, Rivers, Forests and Minerals",
+  "baseline_head_sha": "b432b28d7073fc0203ee143305f34d2822f14cfe",
+  "source_edit_commit": "7fb0d4730d1d3f4adea5f030beccdaf47d869ddd",
+  "editable_master_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.md",
+  "master_blob_sha": "7826cad6e24682e411f2ccdf576f409eeba66bcc",
+  "expanded_existing_sections": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    14
+  ],
+  "method": "Whitespace-token count of each existing numbered Part C section from heading to next numbered heading; counts include section headings and newly added analytical paragraphs; not a proxy for independent academic completeness.",
+  "words_after": {
+    "1": 463,
+    "2": 442,
+    "3": 430,
+    "4": 440,
+    "5": 429,
+    "6": 398,
+    "7": 335,
+    "8": 428,
+    "9": 409,
+    "10": 396,
+    "11": 387,
+    "12": 386,
+    "13": 376,
+    "14": 400
+  },
+  "below_300_before": 8,
+  "below_300_after": 0,
+  "existing_concepts": 14,
+  "original_practice_mcqs_before_after": 25,
+  "original_mains_before_after": 6,
+  "mcq_keys_independently_verified": 0,
+  "mains_claims_independently_verified": 0,
+  "source_register_additions": [
+    {
+      "id": "T17",
+      "url": "https://new1.isro.gov.in/River_Basin_Atlas.html",
+      "access": "directly_viewed_html",
+      "supports": "CWC-ISRO India-WRIS basin atlas includes distinct Godavari and Krishna basin reports; not current project performance."
+    },
+    {
+      "id": "T18",
+      "url": "https://icar-nbsslup.org.in/",
+      "access": "directly_viewed_html",
+      "supports": "Institutional soil survey and land-resource-inventory remit; not Telangana district soil percentages."
+    },
+    {
+      "id": "T19",
+      "url": "https://gwd.telangana.gov.in/",
+      "access": "search_excerpt_only_direct_open_timed_out",
+      "supports": "Groundwater monitoring and hydrogeological survey remit, not original report or independent field audit."
+    }
+  ],
+  "verified_renderer_run_id": 40976010702,
+  "renderer_conclusion": "success",
+  "renderer_pdf_pages": 21,
+  "renderer_pdf_sha256": "11a11d342d16f13fb042c67e17d3aa66e40a8b231eaf81c1c6bec1381ef3103c",
+  "renderer_pdf_qa_path": "project-control/academic-readiness/2-3-3-render-qa.json",
+  "post_renderer_final_packaging_artifact_downloaded_and_verified": false,
+  "original_pdf_preservation": "Original 7-page PDF must remain unchanged; original SHA256 d935e79390c4e9d9d84c96d41f8c0d454d4e20462d64e9cd9f9a56e27478a9c9; recheck in actual downloaded final artifact.",
+  "gate_decisions": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "academic_approval_count": 0,
+  "limitations": [
+    "Mechanical section depth threshold now met but full-page-per-concept, diagrams and qualitative source coverage not certified.",
+    "All 25 MCQ keys and 75 incorrect alternatives need independent checking.",
+    "Six mains need claim-level independent review.",
+    "Original TGPSC syllabus PDF direct recheck incomplete.",
+    "Full browser/accessibility and final downloaded artifact CRC/SHA/75-topic QA pending."
+  ]
+}
