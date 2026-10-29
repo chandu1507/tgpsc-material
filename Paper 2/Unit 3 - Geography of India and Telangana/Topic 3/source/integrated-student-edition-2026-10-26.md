@@ -549,7 +549,6 @@ D. Total watershed expenditure and desilted cubic metres alone
 | T14 | [SCCL official About Us](https://scclmines.com/scclnew/company_about-us.asp) | Current corporate ownership and district-level operating scope; not a geological reserve audit. |
 | T15 | [NTPC environmental compliance report, Oct 2024–Mar 2025](https://ntpc.co.in/sites/default/files/hyc_docs/NTPC%20Tealangana%20Phase-I%20%20HYC%20Oct%202024%20to%20Mar%202025.pdf) | Separates 2,600-MW Ramagundam station from Telangana STPP Phase-I 1,600 MW; phase status dated. |
 | T16 | [US Department of Energy, Types of Hydropower Plants](https://www.energy.gov/cmei/water/types-hydropower-plants) and [Turbines](https://www.energy.gov/cmei/water/types-hydropower-turbines) | Generic head/flow and configuration principles; illustrative equation is NOT a Telangana plant measurement. |
-
 | T17 | [ISRO / CWC India-WRIS River Basin Atlas](https://new1.isro.gov.in/River_Basin_Atlas.html) | Directly viewed index identifies Godavari and Krishna as distinct basin reports; does NOT establish a named project's actual 2026 delivery or command. |
 | T18 | [ICAR-NBSS&LUP institutional site](https://icar-nbsslup.org.in/) | Directly viewed institutional remit and soil-survey/land-resource-inventory training; NOT a verified Telangana district soil map. |
 | T19 | [Telangana Ground Water Department](https://gwd.telangana.gov.in/) | Search-index institutional description identifies monitoring, hydrogeological survey and water-quality functions; direct page retrieval timed out, so NOT a primary-document consultation. |
