@@ -673,7 +673,7 @@ Caste and tribe are historically important categories, but **neither identifies 
 
 **Institutional context:** Tribal rights debates frequently concern land, forests, local self-governance, displacement and mother-tongue education. The Fifth Schedule, PESA and the Forest Rights Act address different aspects of governance and tenure; they are not interchangeable protections.
 
-**Telangana specificity:** Gond, Kolam, Koya and Lambada communities require culturally and historically informed approaches, not a single 'tribal development' template. Local consent, language access and livelihood security matter alongside roads and schooling.
+**Telangana specificity:** Gond, Kolam, Koya and Lambada communities require culturally and historically informed approaches, not a single 'tribal development' template. Meaningful consultation, language access and livelihood security matter alongside roads and schooling. PESA section 4(i) requires consultation for specified land acquisition and rehabilitation decisions; it does not itself create an unconditional veto. Any stronger consent requirement must be established from the separately applicable law.
 
 **Policy design:** Disaggregate evidence by settlement, gender, livelihood and land tenure. Consult affected communities before relocation or forest-use restrictions and test whether safeguards work in practice.
 
