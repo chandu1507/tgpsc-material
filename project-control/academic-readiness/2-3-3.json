@@ -1,7 +1,7 @@
 {
   "topic_id": "2-3-3",
   "title": "Telangana: Physical Geography, Rivers, Forests and Minerals",
-  "date": "2026-10-26",
+  "date": "2026-10-30",
   "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -32,9 +32,10 @@
     "project-control/academic-readiness/2-3-3-render-qa.json",
     "project-control/academic-readiness/2-3-3-turn18-downloaded-artifact-integrity-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-cycle95-wii-sccl-ntpc-hydropower-depth-audit-2026-10-30.json",
-    "project-control/academic-readiness/2-3-3-cycle95-actual-downloaded-post-layout-fix-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/2-3-3-cycle95-actual-downloaded-post-layout-fix-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json"
   ],
-  "next_action": "Cycle95 five concepts expanded; 8/14 still below300. Post-layout renderer 40954194256 and actual downloaded packaging artifact 12932148998 SHA/CRC/75 originals/597 local links/1050 fragments PASS; 19-page PDF, no blank pages, source table visually sampled. Full MCQ/mains academic audit, R1 direct syllabus, browser accessibility and independent approval pending.",
+  "next_action": "Cycle98 expanded eight original concepts, 14/14 now >=300 whitespace words; 25 original MCQs and six mains preserved. CI renderer 40976010702 SUCCESS, 21-page PDF SHA256 11a11d342d16f13fb042c67e17d3aa66e40a8b231eaf81c1c6bec1381ef3103c. Final downloaded post-render artifact QA, complete MCQ/mains independent claim audit, R1 direct official syllabus, browser accessibility, and independent academic approval pending. R3/R8 IN_PROGRESS, not PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_source_gap": {
@@ -99,5 +100,30 @@
     "artifact_id": 12932148998,
     "integrated_pdf_sha256": "044a16bbe886299d49e540b9bfdf02d96f20e4fb0e45d4e5927811967dba2079",
     "artifact_qa_evidence": "project-control/academic-readiness/2-3-3-cycle95-actual-downloaded-post-layout-fix-artifact-qa-2026-10-30.json"
+  },
+  "cycle98_2026_10_30": {
+    "status": "PARTIAL_SUBSTANTIVE_REBUILD_NOT_APPROVED",
+    "evidence": "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json",
+    "expanded_sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      14
+    ],
+    "concepts_total": 14,
+    "concepts_under_300_after": 0,
+    "mechanical_word_count_only": true,
+    "original_mcqs": 25,
+    "original_mains": 6,
+    "full_mcq_mains_claim_audit": false,
+    "ci_renderer_run": 40976010702,
+    "ci_pdf_pages": 21,
+    "ci_pdf_sha256": "11a11d342d16f13fb042c67e17d3aa66e40a8b231eaf81c1c6bec1381ef3103c",
+    "actual_post_render_artifact_downloaded_and_verified": false,
+    "academic_approval": 0
   }
 }
