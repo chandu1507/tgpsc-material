@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-29",
+  "cycle": 75,
+  "topic_id": "6-3-2",
+  "renderer": {
+    "run_id": 40797633217,
+    "conclusion": "success",
+    "pdf_pages": 26,
+    "pdf_sha256": "a589c83ac406136cb4a0f52800ce88323f8ab07f67e194f26513603b9a811d76",
+    "embedded_images": 3,
+    "blank_pages": 0,
+    "out_of_bounds_pages": 0
+  },
+  "publication": {
+    "run_id": 40797732316,
+    "conclusion": "success",
+    "artifact_id": 12864841269,
+    "actually_downloaded": true,
+    "outer_sha256": "d17a72abdacfb64ca98d4c75972dfecc780423f40e9febd736be29ac77ce2065",
+    "github_digest_matches": true,
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "packaged_files": 1835,
+    "original_topic_pdfs": 75,
+    "original_pdf_hashes_unchanged_vs_prior_artifact": 75,
+    "readiness_json_records": 75,
+    "html_pages": 78,
+    "relative_file_links_checked": 454,
+    "broken_relative_links": 0,
+    "dom_fragments_checked": 1050,
+    "broken_fragments": 0,
+    "spa_routes_excluded": 46,
+    "topic_manifest_hashes_checked": 15,
+    "topic_manifest_hash_mismatches": 0
+  },
+  "chapter": {
+    "original_pdf_pages": 27,
+    "original_pdf_sha256": "9188ab1d4092d564a3f2712353cc1d2d8c99a9114de5dff00eca07a55ecdea65",
+    "explanatory_concepts": 47,
+    "concepts_below300": 44,
+    "expanded_section_words_python_split": {
+      "22": 337,
+      "30": 372,
+      "31": 378
+    },
+    "original_practice_mcqs": 30,
+    "answer_distribution": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "independently_verified_keys": 0,
+    "independently_verified_distractors": 0,
+    "mains_body_only_words": [
+      202,
+      208,
+      212,
+      213,
+      204,
+      206
+    ],
+    "claim_level_mains_review": false
+  },
+  "scope_limits": [
+    "The 26-page integrated PDF does not give one full page to each of 47 concepts",
+    "44 concepts remain shallow",
+    "all MCQ keys and distractors require independent factual verification",
+    "mains claims and three diagrams not independently certified",
+    "2024 commission syllabus and signed historical documents not fully reopened",
+    "full-resolution browser usability and accessibility not tested",
+    "R8 IN_PROGRESS; R9 NOT_STARTED; independent approvals ZERO"
+  ],
+  "verified_source_commit": "6c511a710f314160ca238ed4ac03dfea84a44e9e",
+  "note": "This QA evidence commit is later than the actual downloaded artifact; do not claim the artifact contains this evidence file."
+}
