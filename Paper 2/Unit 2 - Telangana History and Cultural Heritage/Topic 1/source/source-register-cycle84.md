@@ -1,0 +1,13 @@
+# Source register and verification scope — Cycle84 (29 October 2026)
+
+**C84-S1 — TGPSC Notification 02/2024, Annexure-II, PDF p.28 (printed page 28; zero-based PDF page 27).** Commission-hosted original, directly opened and text inspected 29 Oct 2026. Paper II / II / Item 1 explicitly includes Satavahanas, Ikshvakus, Vishnukundins, Jainism, Buddhism, socio-cultural conditions, language, literature, art and architecture. R1 PASS. [Commission original PDF](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v)
+
+**C84-S2 — Karimnagar District Administration, Archaeology & Museums.** Official public museum description, directly opened 29 Oct 2026; confirms collections from Kotilingala, Peddabankur and Dhulikatta, including coins and household material. Does NOT supply original excavation stratigraphy, full object inventory or a settled capital attribution. [Karimnagar district museum](https://karimnagar.telangana.gov.in/archaeology-museums/)
+
+**C84-S3 — Telangana Department of Heritage, excavation overview.** Official public report directly opened 29 Oct 2026; describes Pullur/Narmeta megaliths, Phanigiri's 2001–2019 excavation phases and 3,730 lead-coin hoard announced in March 2024. Public summary is NOT a complete context-level excavation monograph. [Telangana Heritage excavation overview](https://tgarch.telangana.gov.in/Excavationinfo)
+
+**C84-S4 — Peddapalli District Administration, Buddhist Stupa Dhulikatta.** Official site description directly opened 29 Oct 2026; records circular drum, four ayaka platforms, symbolic representations and a palaeographically dated Brahmi label. Dating the label is NOT dating all building phases. [Dhulikatta district page](https://peddapalli.telangana.gov.in/tourist-place/buddhist-stupa-dhulikatta/)
+
+**C84-S5 — Earlier 26 October source-critical epigraphic supplement.** Retained as prior research, NOT independently reverified here. Original Tummalagudem and Ipur critical editions, Nasik inscription edition, original Nagarjunakonda inscription corpus and Kotilingala excavation report NOT examined in Cycle84. The original supplement is preserved unchanged as `depth-repair-epigraphy-material-culture-2026-10-26.md`.
+
+**Source limitation:** These records support only bounded site descriptions and the syllabus mapping. Do not call original practice MCQs official PYQs, do not infer an ancient capital from a coin alone, and do not present a catalogue entry as direct consultation of the underlying archival record.
