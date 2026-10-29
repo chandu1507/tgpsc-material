@@ -35,7 +35,7 @@
     "project-control/academic-readiness/2-3-3-cycle95-actual-downloaded-post-layout-fix-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json"
   ],
-  "next_action": "Cycle98 expanded eight original concepts, 14/14 now >=300 whitespace words; 25 original MCQs and six mains preserved. CI renderer 40976010702 SUCCESS, 21-page PDF SHA256 11a11d342d16f13fb042c67e17d3aa66e40a8b231eaf81c1c6bec1381ef3103c. Final downloaded post-render artifact QA, complete MCQ/mains independent claim audit, R1 direct official syllabus, browser accessibility, and independent academic approval pending. R3/R8 IN_PROGRESS, not PASS.",
+  "next_action": "Cycle98 all 14 original concepts >=300 whitespace words; corrected renderer 40976307263 SUCCESS, 26-page PDF SHA256 09d44043b3fe10a2c726f7a9f90a83658c4e71b1e4154e98097345ca32eac981 with 14 distinct concept-start pages and 19-row source register. Final downloaded post-evidence artifact QA, full 25 MCQ key/75 distractor and six mains claim audits, official syllabus recheck, browser accessibility and independent approval still pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_source_gap": {
@@ -120,10 +120,12 @@
     "original_mcqs": 25,
     "original_mains": 6,
     "full_mcq_mains_claim_audit": false,
-    "ci_renderer_run": 40976010702,
-    "ci_pdf_pages": 21,
-    "ci_pdf_sha256": "11a11d342d16f13fb042c67e17d3aa66e40a8b231eaf81c1c6bec1381ef3103c",
+    "ci_renderer_run": 40976307263,
+    "ci_pdf_pages": 26,
+    "ci_pdf_sha256": "09d44043b3fe10a2c726f7a9f90a83658c4e71b1e4154e98097345ca32eac981",
     "actual_post_render_artifact_downloaded_and_verified": false,
-    "academic_approval": 0
+    "academic_approval": 0,
+    "distinct_concept_start_pages": 14,
+    "source_register_table_fixed": true
   }
 }
