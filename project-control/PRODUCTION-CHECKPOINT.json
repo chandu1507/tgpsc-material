@@ -80,8 +80,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle84_source_based_integrated_master_and_local_deterministic_pdf_ci_pending",
-      "notes": "29 Oct Cycle84: commission-hosted Notification 02/2024 Annexure-II R1 PASS; 16 substantive analytical concepts all 319–387 words, 30 original practice MCQs with six rewritten distractor sets and mechanically balanced key positions (NOT independently verified), six structured original mains body counts 227/240/237/230/228/225; original PDF preserved. Local 30-page deterministic PDF with 16 concept-start pages; CI and downloaded artifact pending; R2–R8 not PASS, academic approval ZERO.",
+      "production_review": "cycle84_ci_pdf_actual_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "29 Oct Cycle84: commission-hosted Notification 02/2024 Annexure-II R1 PASS; 16 substantive analytical concepts all 319–387 words, 30 original practice MCQs with six rewritten distractor sets and mechanically balanced key positions (NOT independently verified), six structured original mains body counts 227/240/237/230/228/225; original PDF preserved. Local 30-page deterministic PDF with 16 concept-start pages; CI and downloaded artifact pending; R2–R8 not PASS, academic approval ZERO. Actual GitHub artifact 12888541117 downloaded and independently verified: 1931 files, 75 original PDFs unchanged, 75 readiness JSON, 525 local links/1050 fragments zero broken, outer/inner ZIP CRC and digest PASS. Actual CI PDF 30 pages SHA f1d66d601f235c437fb73e7b4badb43e7fa67abde6f6f116162ff07ff6b5be50. R8 IN_PROGRESS, browser/academic review pending.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-2-1.json"
     },
@@ -997,7 +997,8 @@
     "independent_review": "pending"
   },
   "last_quality_repair": {
-    "topic_id": "2-1-5",    "repair_type": "targeted_gap_filling_mass_movements_partition",
+    "topic_id": "2-1-5",
+    "repair_type": "targeted_gap_filling_mass_movements_partition",
     "pdf_path": "Paper 2/Unit 1 - Indian History and Culture/Topic 5/source/depth-repair-mass-movements-partition.pdf",
     "original_pdf_unchanged": true,
     "original_pdf_sha256": "b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3",
