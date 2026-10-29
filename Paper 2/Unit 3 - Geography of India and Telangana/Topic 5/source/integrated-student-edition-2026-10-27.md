@@ -31,9 +31,27 @@ The Qutb Shahi foundation of Hyderabad in 1591 established an urban core associa
 Post-independence Hyderabad developed public-sector and research institutions, industrial estates and educational centres. From the 1990s, IT and business services reshaped the western corridor and stimulated new office, housing and transport demand. These phases overlap: a contemporary megapolis retains heritage districts, public institutions, manufacturing areas and informal livelihoods. The transition from a historical capital to a globalising metropolitan economy is therefore additive and uneven, not a clean replacement of an 'old' city by a 'new' one.
 
 ## 3. Site, situation and why the city expanded
+
+**Site and situation—two different explanations.** The physical site comprises the hard-rock Deccan plateau, granite outcrops, the Musi valley and connected tanks. Hyderabad district's official economy profile describes rocky terrain and identifies the Musi as a Krishna tributary. The *situation* is the city's changing relationship to routes, political authority, regional markets and employment networks. GHMC dates the Charminar-centred foundation to 1591; Secunderabad's cantonment followed the 1798 subsidiary alliance. These are separate historical developments, not a single continuous cause of modern growth. [U3,U8,U9]
+
+**Economic and transport mechanisms.** Later railway, road, aviation and technology-sector connections enlarged Hyderabad's labour market. The official Telangana investment portal identifies Madhapur, Gachibowli, Raidurg and other western office clusters. Such evidence establishes named employment locations, not a measured migration rate. Housing may extend beyond municipal boundaries while workers continue to commute into established employment corridors. [U10]
+
+**Hydrology and risk.** Rocky ridges and valley gradients shape runoff routes; tanks and feeder channels store and convey water. Increased impervious cover can speed runoff, but observed flood losses also depend on rainfall, channel maintenance and exposure. A broad causal model is not a substitute for measured catchment mapping. Do not present a schematic drainage diagram as a survey.
+
+**Boundaries and uncertainty.** Hyderabad district, GHMC, Census urban agglomeration and HMDA are different statistical and administrative geographies. The 2025 enlargement of HMDA's planning region is not proof that the entire added area was built up in 2025. The district government's own pages contain inconsistent area figures; this edition therefore avoids treating either figure as the metropolitan area. For a defensible mains answer, use dated, constant-boundary comparisons and link physical site, accessibility, jobs, flood risk and public services. [U4,U8,U9]
+
 Hyderabad developed on a rocky plateau near the **Musi** River, with tank systems and trade routes supporting settlement. Its situation—connections to the Deccan hinterland, political centrality and later railway and airport links—helped it become an administrative and service hub. Plateau topography restricts and channels drainage, especially where valleys and lake catchments are built over. The city occupies a strategic inland location rather than a coastal port, so logistics competitiveness depends heavily on inland networks and air links. Growth pressures extend beyond the core into peripheral corridors, requiring metropolitan planning rather than separate municipal decisions for every new neighbourhood.
 
 ## 4. Urban morphology: old city, core, industrial belts and western corridor
+
+**Historical layers rather than a uniform city.** Urban morphology concerns street networks, land uses, densities, buildings and the accumulated results of different periods. Hyderabad district's tourism account locates the historic Charminar-centred city south of the Musi and describes a newer urban area to the north. This is a broad historical contrast, not a claim that every neighbourhood south of the river is old. Dense bazaars combine housing, worship, workshops and commerce; heritage policy must therefore consider livelihoods and access. [U3,U9]
+
+**Cantonment and institutional layer.** GHMC associates Secunderabad's cantonment with the 1798 subsidiary alliance and its subsequent naming after Sikander Jah. Railway and institutional functions helped form a different urban fabric. Do not confuse this settlement history with GHMC's 2007 constitution or HMDA's 2025 boundary extension: those are separate administrative events. [U3,U5]
+
+**Industrial and knowledge-economy geography.** Manufacturing and warehousing require freight access, industrial land and utilities, while technology offices depend more heavily on skilled labour, connectivity and service clusters. Ranga Reddy district's official industry inventory lists HITEC City at Madhapur and an IT park at Gachibowli. Telangana's investment portal lists a broader office belt including Raidurg, Financial District, Nanakramguda and Kokapet. These lists identify locations but do not establish neighbourhood-level employment or property-price trends. [U10,U11]
+
+**Peripheral inequality and mapping limits.** New interchanges and employment centres may pull housing outward, but services and affordable transport can lag. Evaluate commuting time, safe walking, rental burden, water and drainage rather than treating western districts as uniformly prosperous or the old city as static. A teaching diagram may show historic core → cantonment → industrial belts → western office corridor → peri-urban transition, with the Musi and transport links labelled. It must be marked **not to scale** and cannot establish current statutory zoning or municipal boundaries. [U4,U9,U10]
+
 Hyderabad's **historic south-of-Musi urban fabric** contains dense bazaars, monuments, mixed land use and inherited street patterns. Secunderabad and older planned institutional districts illustrate a different colonial and modern layer. Industrial and manufacturing locations emerged in places such as the northwestern belt, while the westward IT-led expansion fostered large office campuses, residential towers and new transport demands. These layers form a city of uneven densities, housing types and service networks. Exam diagrams should portray **old core → institutional/cantonment districts → industrial belts → western knowledge-economy corridor → peri-urban growth**, with the Musi and major roads as structuring elements, not as decorative map features.
 
 ## 5. Primacy: benefits and costs of concentration
@@ -131,12 +149,12 @@ Use the sequence **historic core → institutional and industrial expansion → 
 
 ### Q1. Which can increase recorded urban population without equivalent net migration?
 
-A. Only new births
-B. Settlement reclassification
+A. Settlement reclassification
+B. Only new births
 C. A station closure
 D. A fall in municipal area
 
-**Answer: B.** Reclassification can count existing residents as urban without migration. **Source category:** U1. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** Reclassification can count existing residents as urban without migration. **Source category:** U1. Independent item-level key and distractor verification is PENDING.
 
 ### Q2. What makes 2008 and 2025 HMDA area figures non-comparable without adjustment?
 
@@ -149,30 +167,30 @@ D. The Musi changed course
 
 ### Q3. Who founded Hyderabad in 1591?
 
-A. Muhammad Quli Qutb Shah
-B. Asaf Jah I
-C. Salar Jung I
+A. Asaf Jah I
+B. Salar Jung I
+C. Muhammad Quli Qutb Shah
 D. Osman Ali Khan
 
-**Answer: A.** GHMC official city history identifies Muhammad Quli Qutb Shah. **Source category:** U3. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** GHMC official city history identifies Muhammad Quli Qutb Shah. **Source category:** U3. Independent item-level key and distractor verification is PENDING.
 
 ### Q4. Urban primacy refers principally to:
 
 A. All towns having equal functions
-B. One city dominating a regional urban hierarchy
-C. Every village being a municipality
-D. Every urban resident being a migrant
+B. Every village being a municipality
+C. Every urban resident being a migrant
+D. One city dominating a regional urban hierarchy
 
-**Answer: B.** A primate city dominates in population and/or higher-order functions. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** A primate city dominates in population and/or higher-order functions. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q5. Telangana Census 2011 urban share is approximately:
 
-A. 31.80% (2001 urban share)
-B. 61.12% (2011 rural share)
-C. 38.88% (2011 urban share)
+A. 38.88% (2011 urban share)
+B. 31.80% (2001 urban share)
+C. 61.12% (2011 rural share)
 D. 20.99% (1971 urban share)
 
-**Answer: C.** Telangana's government State Profile gives the 2011 urban share as 38.88% (about 38.9%), while 61.12% is the 2011 rural share and 31.80% is the 2001 urban share. The historical 1971 figure is reported in the 2014 Socio-Economic Outlook. This is not a 2026 estimate. **Source category:** U1; Telangana State Profile and Socio-Economic Outlook 2014. Full independent item-level verification remains pending.
+**Answer: A.** Telangana's government State Profile gives the 2011 urban share as 38.88% (about 38.9%), while 61.12% is the 2011 rural share and 31.80% is the 2001 urban share. The historical 1971 figure is reported in the 2014 Socio-Economic Outlook. This is not a 2026 estimate. **Source category:** U1; Telangana State Profile and Socio-Economic Outlook 2014. Full independent item-level verification remains pending.
 
 ### Q6. HMDA reports its 2008 jurisdiction as approximately:
 
@@ -185,138 +203,138 @@ D. 112,077 sq km
 
 ### Q7. Which order is associated with the 2025 HMDA region expansion?
 
-A. G.O.Ms.No.68, 12 March 2025
-B. G.O.Ms.No.570, 25 August 2008
-C. G.O.Ms.No.69, 12 March 2025
+A. G.O.Ms.No.570, 25 August 2008
+B. G.O.Ms.No.69, 12 March 2025
+C. G.O.Ms.No.68, 12 March 2025
 D. Metropolitan Development Plan 2031
 
-**Answer: A.** HMDA's official website identifies G.O.Ms.No.68 dated 12 March 2025 for the expanded HMR boundary. G.O.Ms.No.570 established the 2008 region; HMDA's About page separately discusses G.O.Ms.No.69 concerning FCDA village treatment. A master plan is not the boundary-extension order. **Source category:** U4. Full independent item-level verification remains pending.
+**Answer: C.** HMDA's official website identifies G.O.Ms.No.68 dated 12 March 2025 for the expanded HMR boundary. G.O.Ms.No.570 established the 2008 region; HMDA's About page separately discusses G.O.Ms.No.69 concerning FCDA village treatment. A master plan is not the boundary-extension order. **Source category:** U4. Full independent item-level verification remains pending.
 
-### Q8. Which body primarily coordinates metropolitan spatial planning?
+### Q8. Which institution coordinates metropolitan planning across multiple local authorities rather than only municipal civic services?
 
-A. GHMC alone
-B. HMDA
-C. A single ward committee
-D. Census Commissioner
+A. Greater Hyderabad Municipal Corporation (GHMC)
+B. Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB)
+C. Directorate of Census Operations
+D. Hyderabad Metropolitan Development Authority (HMDA)
 
-**Answer: B.** HMDA has a metropolitan planning mandate; GHMC handles municipal services. **Source category:** U4. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** HMDA's official description identifies metropolitan planning and coordination as its remit. GHMC administers municipal services, HMWSSB is sectoral, and the Census directorate is not a land-use planning authority. **Source category:** U4,U5,U12. Bounded institutional correspondence; independent statutory review pending.
 
 ### Q9. GHMC gives which formation year?
 
-A. 1591
-B. 1908
-C. 2007
+A. 2007
+B. 1591
+C. 1908
 D. 2025
 
-**Answer: C.** GHMC official About identifies its formation in 2007. **Source category:** U5. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** GHMC official About identifies its formation in 2007. **Source category:** U5. Independent item-level key and distractor verification is PENDING.
 
-### Q10. A master plan most directly provides:
+### Q10. What does HMDA's publication of Master Plan 2031 materials establish without separate implementation evidence?
 
-A. Proof of completed works
-B. A spatial land-use framework
-C. A certified project expenditure list
-D. A commuter census
+A. Every mapped road has opened to traffic
+B. Spatial land-use planning documents are publicly available
+C. All proposed infrastructure has certified completed expenditure
+D. A fresh post-2011 population census has been conducted
 
-**Answer: B.** Master plans guide proposals; they do not establish completion. **Source category:** U6. Independent item-level key and distractor verification is PENDING.
+**Answer: B.** HMDA publishes Master Plan 2031 and zone-wise materials. Publication does not demonstrate completed construction, expenditure or a new census. **Source category:** U6. Direct planning-page correspondence; detailed plan sheets not audited.
 
-### Q11. Which statement distinguishes ORR and RRR?
+### Q11. Which distinction between Hyderabad's Outer Ring Road (ORR) and Regional Ring Road (RRR) is supported by HMDA?
 
-A. Both are the same completed road
-B. ORR is a railway
-C. They differ in geographic scale and project stage
-D. RRR is a drainage channel
+A. Both names refer to one completed road
+B. RRR is an operating Metro Rail line within the ORR
+C. ORR is an existing orbital road; RRR is a distinct wider corridor described as upcoming
+D. The 2025 HMDA boundary order proves the entire RRR was open that year
 
-**Answer: C.** HMDA describes the RRR as upcoming, unlike the operational ORR. **Source category:** U4. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** HMDA publishes ORR operational information separately from the upcoming RRR. Extending the planning region does not certify road completion. **Source category:** U4,U13. Direct first-party pages; final alignment and construction completion not independently established.
 
 ### Q12. Which best measures equitable Metro access?
 
 A. Train colour
-B. Door-to-door time, fares and safe last-mile access
-C. Station advertising
-D. Route length alone
+B. Station advertising
+C. Route length alone
+D. Door-to-door time, fares and safe last-mile access
 
-**Answer: B.** Effective accessibility includes walking, feeder transport and affordability. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Effective accessibility includes walking, feeder transport and affordability. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q13. Which action best addresses urban flooding at catchment scale?
 
-A. Paving all feeder channels
-B. Protecting connected tanks and drainage
+A. Protecting connected tanks and drainage
+B. Paving all feeder channels
 C. Replacing lakes with parking
 D. Counting flyovers
 
-**Answer: B.** Flood risk depends on connected storage, runoff and channel capacity. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** Flood risk depends on connected storage, runoff and channel capacity. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q14. Impervious land cover can cause:
 
 A. Guaranteed higher infiltration
-B. No runoff effect
-C. Faster runoff and reduced infiltration
+B. Faster runoff and reduced infiltration
+C. No runoff effect
 D. Elimination of floods
 
-**Answer: C.** Sealing changes hydrological response; effects depend on catchment conditions. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: B.** Sealing changes hydrological response; effects depend on catchment conditions. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q15. Which best tests affordable housing?
 
 A. Number of billboards
-B. Rent plus commute and service access
-C. Office floors alone
+B. Office floors alone
+C. Rent plus commute and service access
 D. Road length
 
-**Answer: B.** Household affordability includes transport and reliable services. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** Household affordability includes transport and reliable services. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
-### Q16. Which locations illustrate western Hyderabad IT growth?
+### Q16. Which pair appears in the official Telangana investment portal's Hyderabad technology office belt?
 
-A. Madhapur and Gachibowli
-B. Only Charminar and Golconda
-C. Only Warangal and Nizamabad
-D. Only the Musi bed
+A. Warangal and Karimnagar
+B. Charminar and Golconda Fort
+C. Secunderabad cantonment and the Musi riverbed
+D. Madhapur and Gachibowli
 
-**Answer: A.** Madhapur and Gachibowli are western employment centres. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Madhapur and Gachibowli are listed office clusters; Warangal and Karimnagar are separate regional cities, while the other pairs identify heritage or physical features. **Source category:** U10,U11. First-party location evidence, not audited employment statistics.
 
-### Q17. Secunderabad illustrates which metropolitan layer?
+### Q17. Which development does GHMC's history associate with Secunderabad's emergence as a cantonment?
 
-A. Ocean-port functions
-B. Railway and cantonment development
-C. Only an HMDA GIS office
-D. A replacement for the Musi
+A. The Nizam–East India Company subsidiary alliance of 1798
+B. Hyderabad's foundation in 1591
+C. GHMC's constitution in 2007
+D. HMDA's planning-area extension in 2025
 
-**Answer: B.** The railway/cantonment history shaped a distinct urban layer. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** GHMC connects the 1798 alliance to a cantonment north of Hussain Sagar, later named after Sikander Jah. Other dates concern separate events. **Source category:** U3. First-party retrospective, not original treaty consultation.
 
-### Q18. The old Hyderabad core is associated with:
+### Q18. Which landmark was central to Muhammad Quli Qutb Shah's planned Hyderabad in GHMC's account?
 
-A. Charminar
-B. RRR interchange
-C. Airport cargo area
-D. Metro depot alone
+A. Golconda Fort
+B. Charminar
+C. Hussain Sagar
+D. Osmania University
 
-**Answer: A.** The Charminar-centred foundation is historically documented. **Source category:** U3. Independent item-level key and distractor verification is PENDING.
+**Answer: B.** GHMC describes Charminar as the centre of the new city. Golconda was an earlier fortress city, Hussain Sagar a separate tank, and Osmania University a later institution. **Source category:** U3,U9. Direct official retrospective, not an original period map.
 
 ### Q19. Circular migration means:
 
 A. No return after relocation
-B. Repeated movement between origin and destination
-C. Orbital highway traffic
+B. Orbital highway traffic
+C. Repeated movement between origin and destination
 D. Municipal annexation
 
-**Answer: B.** Circular migrants retain links and may move repeatedly for work. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** Circular migrants retain links and may move repeatedly for work. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q20. Why can municipal and built-up growth differ?
 
 A. They are always identical
-B. Boundaries and land development change independently
-C. Census excludes towns
-D. Built-up areas never cross boundaries
+B. Census excludes towns
+C. Built-up areas never cross boundaries
+D. Boundaries and land development change independently
 
-**Answer: B.** Administrative and physical geographies are distinct. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Administrative and physical geographies are distinct. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q21. Which is evidence for a functional global-city claim?
 
-A. A skyline photograph alone
-B. Specialised services and economic networks
+A. Specialised services and economic networks
+B. A skyline photograph alone
 C. An unfunded road proposal
 D. A mall name
 
-**Answer: B.** Global economic links are more informative than branding. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** Global economic links are more informative than branding. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q22. Wastewater service should be judged by:
 
@@ -330,29 +348,29 @@ D. Design capacity alone
 ### Q23. Balanced heritage management should:
 
 A. Remove all residents
-B. Protect monuments and livelihoods with safe access
-C. Ban all buses
+B. Ban all buses
+C. Protect monuments and livelihoods with safe access
 D. Replace markets with parking
 
-**Answer: B.** Living heritage requires conservation and social access. **Source category:** U7. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** Living heritage requires conservation and social access. **Source category:** U7. Independent item-level key and distractor verification is PENDING.
 
 ### Q24. A sound regional-city strategy builds:
 
 A. One more capital-only corridor
-B. Complementary jobs, education and connectivity
-C. Housing without work
-D. Car-only transport
+B. Housing without work
+C. Car-only transport
+D. Complementary jobs, education and connectivity
 
-**Answer: B.** Productive institutions are necessary for balanced growth. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Productive institutions are necessary for balanced growth. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
 ### Q25. HMDA states the expanded 2025 planning area is approximately:
 
-A. 7,257 sq km (2008 HMDA area)
-B. 10,472.723 sq km (2025 HMR area)
+A. 10,472.723 sq km (2025 HMR area)
+B. 7,257 sq km (2008 HMDA area)
 C. 650 sq km (GHMC's published area)
 D. 112,077 sq km (Telangana State area)
 
-**Answer: B.** HMDA gives approximately 10,472.723 sq km for the HMR under its March 2025 boundary order. The 7,257 sq km figure refers to 2008 HMDA jurisdiction; 650 sq km is a published GHMC municipal-area figure, and 112,077 sq km is the state area. **Source category:** U4, U1 and GHMC official site. Full independent item-level verification remains pending.
+**Answer: A.** HMDA gives approximately 10,472.723 sq km for the HMR under its March 2025 boundary order. The 7,257 sq km figure refers to 2008 HMDA jurisdiction; 650 sq km is a published GHMC municipal-area figure, and 112,077 sq km is the state area. **Source category:** U4, U1 and GHMC official site. Full independent item-level verification remains pending.
 
 ## Part C — Structured mains model answers (original, NOT official PYQs)
 
@@ -463,7 +481,7 @@ D. 112,077 sq km (Telangana State area)
 
 ## Part E — Dated official-source register and claim limits
 
-**Evidence limitations:** This is a working integrated edition. All 25 original MCQ distractor sets, four new mains answers and two inherited mains answers require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
+**Evidence limitations:** This is a working integrated edition. All 25 original MCQ distractor sets still require independent item-level validation; 13 keys lack even bounded source correspondence; four new mains answers and two inherited mains answers require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
 
 
 | Code | Source | Scope of verification |
@@ -475,3 +493,9 @@ D. 112,077 sq km (Telangana State area)
 | U5 | GHMC official About, https://www.ghmc.gov.in/ | GHMC formation in 2007; displayed ward count may be stale |
 | U6 | HMDA Master Plan, https://www.hmda.gov.in/planning-2/ | Published 2031 planning material; completion of projects NOT verified |
 | U7 | Hyderabad district government About, https://hyderabad.telangana.gov.in/about-district/ | Listed heritage attractions, not visitor statistics |
+| U8 | Hyderabad district Economy, https://hyderabad.telangana.gov.in/economy/ | Deccan rocky terrain, Musi and district geography; other district pages conflict on area |
+| U9 | Hyderabad district About and Tourism, https://hyderabad.telangana.gov.in/about-district/ and https://hyderabad.telangana.gov.in/tourism/ | Charminar core, Musi north/south contrast and cantonment |
+| U10 | Invest Telangana IT/GCC, https://invest.telangana.gov.in/sectors/it-and-gcc/ | First-party Madhapur/Gachibowli and other technology-office clusters; not audited employment totals |
+| U11 | Ranga Reddy district Industries, https://rangareddy.telangana.gov.in/industries/ | Official inventory naming HITEC City Madhapur and Gachibowli IT park |
+| U12 | HMDA institutional remit, https://www.hmda.gov.in/home/ | Metropolitan coordination; older area figures on legacy page must be dated |
+| U13 | HMDA ORR and RRR, https://www.hmda.gov.in/orr/ and https://www.hmda.gov.in/ | Separate operational ORR and proposed RRR descriptions; no completion inference |
