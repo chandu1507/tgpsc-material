@@ -581,23 +581,23 @@ D. Migration, life expectancy and industrial output
 
 **Answer: C.** UNDP uses life expectancy, schooling indicators and GNI per capita to operationalise these dimensions. **Source anchors:** [S6]. Correct key checked against UNDP's official HDI methodology 26 Oct 2026; other options remain to be item-tested.
 
-### Q22. Which combination can change the *measured urban population* between two censuses?
+### Q22. Which is the most complete set of mechanisms to consider when explaining a change in the *measured urban population* between two censuses?
 
-A. Only net migration and no other demographic or administrative change  
-B. Natural increase and migration, but never reclassification  
-C. Boundary extensions can never alter the count classified as urban  
-D. Natural increase, net migration, settlement reclassification and boundary change  
+A. Natural increase and net migration, assuming settlement classes and boundaries are fixed  
+B. Natural increase, net migration and settlement reclassification, but excluding boundary revisions  
+C. Natural increase, net migration and boundary revisions, but excluding settlement reclassification  
+D. Natural increase, net migration, settlement reclassification and boundary revisions  
 
-**Answer: D.** Urban counts depend on demographic change and on the definition and boundaries of urban areas. **Source anchors:** [S8]. Key source-correlated; distinguish census classification from contemporary estimates.
+**Answer: D.** A leaves out both classification and boundary effects; B leaves out jurisdictional changes; C leaves out the movement of settlements into or out of the census-defined urban category. The question asks for the *most complete* decomposition, not whether a partial mechanism can also affect a city. Official Census 2011 definitions distinguish statutory towns and census towns; use consistent units and dates. **Source anchors:** [S8,S14]. Author-side key and three distractors reviewed 30 Oct 2026; not an independent examiner approval.
 
-### Q23. Which is the strongest criterion for evaluating whether a *Smart City* intervention improved urban welfare?
+### Q23. Which evaluation would best establish whether a *Smart City* intervention improved urban welfare rather than merely delivering project outputs?
 
-A. Measured service reliability, accessibility and accountability, with technology treated as an enabling tool  
-B. Faster dashboard reporting without measuring whether services improved  
-C. Capital spending and application downloads without a service baseline  
-D. Completion of a technology pilot without long-term maintenance or coverage data  
+A. Compare baseline-adjusted service reliability, accessibility and equity across affected wards, and test continued operation and accountability  
+B. Count completed projects and compare expenditure per project across cities, without measuring service delivery  
+C. Measure app registrations and complaint closures, treating digital activity as a sufficient proxy for physical service quality  
+D. Measure the proportion of installed sensors that are online, without checking whether the underlying urban service improved  
 
-**Answer: A.** Technology is instrumental; verified outcomes and equitable access are the relevant tests. **Source anchors:** [S2,S8]. This is a policy-evaluation item, not an official PYQ.
+**Answer: A.** B measures implementation and spending, not household outcomes; C can reward digital activity even when unresolved faults are marked closed; D measures equipment availability rather than water, mobility or safety. A is a policy-evaluation judgement anchored to the mission's area-based design and NUDM's service-delivery objectives, not a claim that a particular project has passed an impact evaluation. **Source anchors:** [S16,S17]. Author-side key and three distractors reviewed 30 Oct 2026; not an official PYQ or independent academic certification.
 
 ### Q24. What comparative advantage makes roads especially useful for *dispersed rural freight origins*?
 
