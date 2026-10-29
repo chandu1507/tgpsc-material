@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle98: 75 original topics/PDFs, per-topic statuses directly reconciled 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 normalized R1 PASS, 0 R1-R8 ready and 0 independent approvals. Topic 2-3-3 eight substantive expansions: 14/14 core concepts >=300 whitespace words; mechanical threshold only, not R3 PASS. CI 21-page PDF, final actual downloaded artifact QA pending.",
+  "warning": "Cycle98: 75 original topics/PDFs; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 R1 PASS, zero R1-R8 ready/approvals. Topic 2-3-3 all 14 concepts >=300 words; corrected 26-page CI PDF has 14 distinct concept-start pages. Actual post-evidence downloaded artifact QA pending, academic claim audits incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle98 Topic 2-3-3 eight original concept expansions (8->0 under300), 25 original MCQs/six mains preserved; CI renderer 40976010702 success 21 pages. R1-R8 not all PASS, R9 not started, zero approvals.",
+  "last_readiness_update": "Cycle98 2-3-3 8 concept expansions, corrected 26-page CI PDF, source-register table and 14 distinct concept-start pages; R3/R8 not PASS, R9 not started, approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
