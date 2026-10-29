@@ -58,7 +58,7 @@
 
 **Critical assessment.** Unorganised labourers and poorer households often bore disproportionate economic costs. Professional resolutions cannot be treated as proof that every member participated. Sector-specific records and oral testimonies are needed.
 
-**Evidence and qualification.** Local testimonies should be disaggregated by gender, occupation and district, since organisational statements alone conceal differences in lived experience.
+**Evidence and qualification.** Local testimonies should be disaggregated by gender, occupation and district, since organisational statements alone conceal differences in lived experience. Compare these accounts with dated campus notices, union resolutions and emergency-service arrangements before generalising participation.
 
 **Conclusion.** These networks transformed a political demand into sustained collective action. A complete history recognises both their agency and their responsibilities toward people affected by disruption.
 
@@ -74,7 +74,7 @@
 
 **Historical method.** Songs and oral testimonies explain how groups understood dignity; administrative and legal records are required to test claims about allocations and representation.
 
-**Evidence and qualification.** State cultural institutions should safeguard community ownership and avoid converting a diverse regional history into one exclusive cultural canon.
+**Evidence and qualification.** State cultural institutions should safeguard community ownership and avoid converting a diverse regional history into one exclusive cultural canon. Participation should also be assessed through access to leadership, archives and public funding.
 
 **Conclusion.** Telangana's cultural revivalism is most defensible when it combines regional self-respect with pluralism, constitutional citizenship and measurable social justice.
 
@@ -88,7 +88,7 @@
 
 **Constitutional balance.** Article 19 protects peaceful expression and assembly subject to lawful restrictions. Administrators should negotiate routes, maintain emergency access, document decisions and enforce against identifiable offences without suppressing peaceful dissent.
 
-**Evidence and qualification.** Policy evaluation must ask whether less disruptive channels of negotiation were available and whether vulnerable citizens received reasonable safeguards.
+**Evidence and qualification.** Policy evaluation must ask whether less disruptive channels of negotiation were available and whether vulnerable citizens received reasonable safeguards. The answer should distinguish contemporaneous restrictions from later legal findings, which may differ.
 
 **Conclusion.** Mass protest created sustained pressure but did not substitute for parliamentary state reorganisation. Its democratic legacy depends on recognising both mobilisation's political power and the rights of people affected by it.
 
