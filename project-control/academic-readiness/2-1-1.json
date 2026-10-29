@@ -24,11 +24,11 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED",
+    "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED"
   },
-  "evidence": "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json",
-  "next_action": "Expand 17 remaining sub-300-word primary concepts without duplication; verify 28 keys/84 distractors and all six mains claim sets; authenticate original TGPSC PDF, verify diagrams, render and independently download post-edit CI artifact; R9 only after all R1-R8 PASS and named expert.",
+  "evidence": "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+  "next_action": "17 shallow primary concepts; 28 MCQ keys/84 distractors and six mains claim sets; direct TGPSC syllabus authentication, diagram historical accuracy, browser accessibility. R8 remains IN_PROGRESS despite SHA/CRC/link PASS; R9 requires R1-R8 PASS plus named independent expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "audit_metrics": {
@@ -54,7 +54,16 @@
     "prework_artifact_run": 40814829694,
     "prework_artifact_id": 12870904995,
     "prework_artifact_sha256": "5074cc02433e2745aa2b0b3bf31da4006a808e5ee46e94c7ed9ef4e3ff8f8281",
-    "integrated_pdf_ci_status": "NOT_YET_RENDERED",
-    "academic_approvals": 0
+    "integrated_pdf_ci_status": "SUCCESS_ACTUAL_ARTIFACT_VERIFIED_NOT_R8_PASS",
+    "academic_approvals": 0,
+    "integrated_pdf_sha256": "258f237461c8c2ae4c4e0be942bacbc07690f0831dedd39e380594481ae775b7",
+    "integrated_pdf_pages": 22,
+    "render_run_id": 40821270971,
+    "packaging_run_id": 40821535609,
+    "artifact_id": 12874497503,
+    "artifact_sha256": "60f34c611b29f53654c6e1aeebf8517950f9f9bb5e78b2817fd4fa2d8b5b6562",
+    "post_edit_artifact_qa": "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+    "full_page_per_concept_met": false,
+    "independent_approvals": 0
   }
 }

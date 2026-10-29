@@ -154,7 +154,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle79 2-1-1 source-critical partial assessment: 19 concepts/17 shallow, two MCQ keys and six distractors checked, six mains 200–250 words, prework artifact SHA/CRC/75 original PDFs/503 links/1050 fragments verified; new integrated PDF CI pending. 7/61/7, approvals ZERO.",
+  "last_readiness_update": "Cycle79 Topic 2-1-1 actual post-CI artifact downloaded and independently verified: renderer 40821270971 SUCCESS, packaging 40821535609 SUCCESS, artifact 12874497503 SHA/CRC/75 original PDFs/513 links/1050 fragments/6 manifest hashes PASS. R8 IN_PROGRESS, R9 NOT_STARTED; 7/61/7; approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -171,6 +171,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json",
     "project-control/academic-readiness/6-3-5-cycle78-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-3-5-cycle78-direct-source-depth-and-bounded-mcq-audit-2026-10-29.json",

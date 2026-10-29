@@ -947,17 +947,18 @@
   "next_sequential_topic": null,
   "next_new_topic": null,
   "latest_verified_publication": {
-    "topic_id": "6-3-5",
+    "topic_id": "2-1-1",
     "date": "2026-10-29",
-    "publication_status": "pre_cycle79_actual_downloaded_artifact_integrity_verified_not_post_edit",
+    "publication_status": "actual_post_ci_github_artifact_integrity_verified_not_academic_approval",
     "academic_status": "not_approved",
     "published_pdf_pairs": 75,
-    "html_pages": 78,
-    "packaging_run_id": 40814829694,
-    "artifact_id": 12870904995,
-    "unique_archive_entries": 1862,
-    "artifact_sha256": "5074cc02433e2745aa2b0b3bf31da4006a808e5ee46e94c7ed9ef4e3ff8f8281",
-    "independent_live_browser_status": "unverified",
+    "html_pages": 79,
+    "packaging_run_id": 40821535609,
+    "artifact_id": 12874497503,
+    "unique_archive_entries": 1871,
+    "artifact_sha256": "60f34c611b29f53654c6e1aeebf8517950f9f9bb5e78b2817fd4fa2d8b5b6562",
+    "qa_evidence": "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+    "independent_live_browser_status": "unverified_blocked_by_environment",
     "academic_approval": 0
   },
   "latest_quality_repair": {
@@ -1023,10 +1024,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle79 2-1-1 partial source-critical assessment and integrated editable master; 7/61/7; 0 approvals. Post-edit PDF/artifact pending.",
+    "note": "Cycle79 2-1-1 actual CI 22-page PDF and downloaded artifact SHA/CRC/75 originals/513 links/1050 fragments PASS. 17/19 concepts shallow; 7/61/7; approvals ZERO.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40814829694,
-    "last_verified_package_artifact": 12870904995,
+    "last_verified_package_run": 40821535609,
+    "last_verified_package_artifact": 12874497503,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1110,9 +1111,9 @@
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "2-1-1",
-    "evidence": "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json"
+    "evidence": "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
   },
-  "last_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: 19 primary concepts/17 shallow; 2 MCQ keys/6 distractors source-checked, 6 mains 200-250 body-only, original PDF preserved; 7/61/7; PDF CI pending, approvals ZERO.",
+  "last_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: CI 22-page integrated PDF SHA verified in actual downloaded artifact 12874497503, 75 originals preserved, 513 local links/1050 DOM fragments zero broken. 17/19 concepts shallow, 28 keys/84 distractors and six mains claim audits pending; 7/61/7; approvals ZERO.",
   "last_readiness_reconciliation": "Exactly 75 original topics/PDFs; 7 IN_PROGRESS, 61 ASSESSED_REBUILD_REQUIRED, 7 NOT_ASSESSED; 12 historical R1 mappings; ZERO fully R1-R8 ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1121,7 +1122,7 @@
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1142,5 +1143,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: 19 primary concepts/17 shallow; 2 MCQ keys/6 distractors source-checked, 6 mains 200-250 body-only, original PDF preserved; 7/61/7; PDF CI pending, approvals ZERO."
+  "latest_readiness_update": "2026-10-29 Cycle79 Topic 2-1-1: CI 22-page integrated PDF SHA verified in actual downloaded artifact 12874497503, 75 originals preserved, 513 local links/1050 DOM fragments zero broken. 17/19 concepts shallow, 28 keys/84 distractors and six mains claim audits pending; 7/61/7; approvals ZERO."
 }
