@@ -25,7 +25,7 @@ master=src/'integrated-student-master-cycle84.md';md=master.read_text()
 assert 'NOT academically approved' in md and 'NOT official TGPSC previous-year questions' in md
 concept=md.split('# Detailed textbook-style concepts (16 substantive sections)',1)[1].split('## Evidence-to-inference comparison',1)[0]
 parts=re.split(r'(?=^## \d+\.\s)',concept,flags=re.M)
-counts=[len(re.findall(r"\b[\w]+(?:['’\-][\w]+)*\b",p)) for p in parts if re.match(r'^## \d+\.\s',p)]
+counts=[len(re.findall(r"\b[\w]+(?:['’\-][\w]+)*\b",p.split('\n',1)[1])) for p in parts if re.match(r'^## \d+\.\s',p)]
 assert len(counts)==16 and all(n>=300 for n in counts),counts
 practice=md.split('## Original practice MCQs',1)[1].split('## Six complete original mains',1)[0]
 answers=re.findall(r'\*\*Answer: ([ABCD])\.',practice)
