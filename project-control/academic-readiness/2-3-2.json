@@ -35,9 +35,10 @@
     "project-control/academic-readiness/2-3-2-turn15-post-render-artifact-qa-verified-2026-10-26.json",
     "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/2-3-2-cycle94-nicdc-plfs-census-depth-reconciliation-2026-10-30.json"
+    "project-control/academic-readiness/2-3-2-cycle94-nicdc-plfs-census-depth-reconciliation-2026-10-30.json",
+    "project-control/academic-readiness/2-3-2-cycle94-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Cycle94 expanded five original concepts (19/26/34/37/40) using directly viewed NICDC/PLFS/Census sources. Direct pre-edit whole-section whitespace recount was 27 under300 (not prior narrative 32); now 22/40 under300. CI PDF and downloaded artifact QA pending; all MCQs/mains and browser accessibility remain unaudited; zero approvals.",
+  "next_action": "Cycle94 five concepts expanded, direct under300 recount 27→22; 32-page CI PDF and actual downloaded artifact 12929445210 SHA/CRC/75 originals/597 local links/1050 DOM fragments verified. Full MCQ/mains academic review, concept-page layout, browser accessibility and expert approval remain pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -174,10 +175,14 @@
     "cycle93_reported_32_discrepancy_unresolved": true,
     "mcq_keys_independently_audited": false,
     "mains_claim_level_audited": false,
-    "ci_pdf_and_actual_artifact": "PENDING_POST_MERGE",
+    "ci_pdf_and_actual_artifact": "ACTUALLY_DOWNLOADED_AND_INTEGRITY_VERIFIED",
     "R3": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "pdf_pages": 32,
+    "pdf_sha256": "fffed09dc239e068a04205a54acad4219bce96e54eab1cfc673dfc15c4ac2ad0",
+    "artifact_id": 12929445210,
+    "qa_evidence": "project-control/academic-readiness/2-3-2-cycle94-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   }
 }
