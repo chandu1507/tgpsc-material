@@ -1,7 +1,7 @@
 {
   "topic_id": "2-3-5",
   "title": "Telangana Urbanisation and the Hyderabad Megapolis",
-  "date": "2026-10-27",
+  "date": "2026-10-29",
   "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -35,7 +35,7 @@
     "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json"
   ],
-  "next_action": "R2 dedup and qualitative R3; verify 19 remaining MCQ keys and ALL distractors, six mains sources, diagram accuracy, full-res every-page and public-browser accessibility. Technical ZIP/75-topic/1092 local links/686 fragments verified, but R8 not PASS.",
+  "next_action": "Cycle91: CI render and actual post-render artifact verification first. Then independent claim-level audit of remaining 13 MCQ keys, all 100 distractors, six mains, qualitative depth, diagram accuracy and browser accessibility. 0 approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -52,7 +52,7 @@
   "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
   "integrated_source": {
     "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
-    "publication_state": "GITHUB_PDF_AND_ACTUAL_POST_RENDER_ARTIFACT_VERIFIED",
+    "publication_state": "SOURCE_REVISED_CYCLE91_CI_PDF_PENDING",
     "original_practice_mcqs": 25,
     "model_answers": 6,
     "schematic_diagrams": 2,
@@ -67,9 +67,43 @@
     "full_resolution_every_page_accessibility_certified": false
   },
   "mcq_primary_key_review": {
-    "source_correlated_correct_keys": 6,
+    "source_correlated_correct_keys": 12,
     "total_questions": 25,
-    "remaining_keys": 19,
+    "remaining_keys": 13,
     "all_distractors_independently_validated": false
+  },
+  "cycle91_2026_10_29": {
+    "status": "FIRST_PARTY_SOURCE_CORRELATION_AND_DEPTH_REPAIR_NOT_APPROVED",
+    "evidence": "project-control/academic-readiness/2-3-5-cycle91-urban-form-and-mcq-evidence-2026-10-29.json",
+    "expanded_concepts": [
+      3,
+      4
+    ],
+    "newly_bounded_checked_keys": [
+      8,
+      10,
+      11,
+      16,
+      17,
+      18
+    ],
+    "total_distinct_bounded_correlated_keys": 12,
+    "remaining_unchecked_keys": 13,
+    "mcq_answer_distribution": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "mechanical_option_reordering_not_factual_certification": true,
+    "integrated_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
+    "pdf_synchronization": "CI_RENDER_PENDING",
+    "actual_downloaded_post_edit_artifact_verified": false,
+    "independent_academic_approvals": 0,
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
   }
 }
