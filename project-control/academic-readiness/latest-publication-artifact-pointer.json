@@ -1,9 +1,9 @@
 {
-  "run_id": 40790319654,
-  "artifact_id": 12860638443,
-  "artifact_digest": "fbe48f676dfa9d0c3cb41225ffa495bc73026fe3fcdadd229ecad010241dc784",
-  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40790319654/artifacts/12860638443",
+  "run_id": 40796954934,
+  "artifact_id": 12863624483,
+  "artifact_digest": "8381bc69030c17c9131c9c3570654d1a9c8568a0c1d106094af5332bc819cf58",
+  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40796954934/artifacts/12863624483",
   "name": "tgpsc-github-publication-snapshot",
-  "recorded_utc": "2026-10-28T23:52:55.632544+00:00",
+  "recorded_utc": "2026-10-29T00:53:41.901074+00:00",
   "independently_downloaded_and_qa_verified": false
 }
