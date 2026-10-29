@@ -897,8 +897,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle75_three_evidence_based_expansions_mains_counts_and_answer_position_bias_fixed_but_academic_rebuild_required",
-      "notes": "Original 27-page PDF SHA256 9188ab1d4092d564a3f2712353cc1d2d8c99a9114de5dff00eca07a55ecdea65 preserved; 47 concepts, 44 still under300 after 3 substantive expansions; 30 original practice MCQs rotated to A8/B8/C7/D7 but no independent key/distractor validation; six mains body-only 202/208/212/213/204/206; new integrated PDF and artifact pending; ZERO independent approval.",
+      "production_review": "cycle75_partial_depth_mains_mcq_bias_repair_and_integrated_pdf_artifact_verified_academic_rebuild_still_required",
+      "notes": "Original 27-page PDF SHA256 9188ab1d4092d564a3f2712353cc1d2d8c99a9114de5dff00eca07a55ecdea65 preserved. Cycle75 integrated 26-page PDF SHA256 a589c83ac406136cb4a0f52800ce88323f8ab07f67e194f26513603b9a811d76 verified in actual downloaded artifact 12864841269. 44/47 concepts under300; MCQs 30 answer positions balanced but 30 keys and 90 distractors not independently verified; six mains 202/208/212/213/204/206; R8 IN_PROGRESS, ZERO independent approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-3-2.json"
     },
