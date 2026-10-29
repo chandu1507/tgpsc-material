@@ -56,8 +56,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle82_consolidated_source_critical_master_and_bounded_audit_ci_pending",
-      "notes": "Original 11-page PDF SHA256 23b21afa... preserved; earlier supplements retained. Cycle82 integrated 10,514-word editable master with 19 concepts (13 under300), 4 new source-correlated analytical chapters, 30 original practice MCQs (8 keys/24 distractors source-correlated), 6 mains body-only 204/212/225/225/202/222, 3 existing diagrams. Official 2024 PDF HTTP 403. CI PDF and downloaded artifact pending. NOT APPROVED.",
+      "production_review": "cycle82_ci_pdf_and_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Original 11-page PDF SHA256 23b21afa... preserved; earlier supplements retained. Cycle82 integrated 10,514-word editable master with 19 concepts (13 under300), 4 new source-correlated analytical chapters, 30 original practice MCQs (8 keys/24 distractors source-correlated), 6 mains body-only 204/212/225/225/202/222, 3 existing diagrams. Official 2024 PDF HTTP 403. CI PDF and downloaded artifact pending. NOT APPROVED. Cycle82 renderer 40838650522 SUCCESS, actual downloaded artifact 12881029105 (packaging 40838792165) 1905 files, 75 original PDFs unchanged, 75 readiness JSON, 82 HTML, 499 local links/1050 fragments zero broken, outer/inner CRC and digest PASS; integrated PDF 25 pages SHA 0e3d90fb6179f3e94a4c5cc44573e6ebd41cb4ba04815912105f9bf7e5b02018. R8 IN_PROGRESS not PASS, academic approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-1-4.json"
     },
@@ -1024,10 +1024,10 @@
     "pilot_topic": "2-2-4",
     "pilot_publication_commit": "90e6cba7ab8eb5cb3e49f9041412d3b8b7f68500",
     "status_index": "project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json",
-    "note": "Cycle82 2-1-4 assessed: 7/64/4; 13/19 concepts shallow; 8 MCQ keys/24 distractors source-correlated; R8 pending CI and downloaded artifact, approvals ZERO.",
+    "note": "Cycle82 Topic 2-1-4 CI PDF 25p and actual downloaded artifact integrity PASS; 7/64/4; 13/19 concepts shallow; R8 IN_PROGRESS, R9 NOT_STARTED; approvals ZERO.",
     "pilot_pdf_sha256": "d18e3c4cfd9e85d3b85d71b4dccbfd1dc2f870229e68b33b8dcf8e72838d964f",
-    "last_verified_package_run": 40832672608,
-    "last_verified_package_artifact": 12879800240,
+    "last_verified_package_run": 40838792165,
+    "last_verified_package_artifact": 12881029105,
     "topics_in_progress": [
       "2-2-4",
       "2-2-5",
@@ -1114,9 +1114,9 @@
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "2-1-4",
-    "evidence": "project-control/academic-readiness/2-1-4-cycle82-direct-source-depth-mcq-mains-audit-2026-10-29.json"
+    "evidence": "project-control/academic-readiness/2-1-4-cycle82-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
   },
-  "last_readiness_update": "Cycle82 Topic 2-1-4 source-critical master and bounded academic audit: 19 concepts/13 shallow, 8 MCQ keys/24 distractors source-correlated, six mains body-only counts pass, 75 originals unchanged in prior verified artifact; CI and new downloaded archive QA pending. ZERO approvals.",
+  "last_readiness_update": "Cycle82 2-1-4 renderer 40838650522 SUCCESS; package 40838792165 artifact 12881029105 ACTUALLY DOWNLOADED, 1905 files, 75 original PDFs unchanged, 75 readiness JSON, 82 HTML, 499 local links/1050 fragments zero broken, SHA/CRC PASS. 25-page PDF; 13/19 concepts shallow. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "last_readiness_reconciliation": "75 originals; 7 IN_PROGRESS / 64 ASSESSED_REBUILD_REQUIRED / 4 NOT_ASSESSED; 13 historically verified R1 mappings; ZERO fully ready and ZERO independent approvals.",
   "academic_readiness_counts": {
     "in_progress": 7,
@@ -1125,7 +1125,7 @@
     "fully_R1_R8_ready": 0,
     "independent_approvals": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-1-4-cycle82-direct-source-depth-mcq-mains-audit-2026-10-29.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-1-4-cycle82-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1146,5 +1146,5 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle82 2-1-4 assessed (7/64/4); source-critical master, 13/19 shallow, CI publication pending, no approval."
+  "latest_readiness_update": "Cycle82 2-1-4 renderer 40838650522 SUCCESS; package 40838792165 artifact 12881029105 ACTUALLY DOWNLOADED, 1905 files, 75 original PDFs unchanged, 75 readiness JSON, 82 HTML, 499 local links/1050 fragments zero broken, SHA/CRC PASS. 25-page PDF; 13/19 concepts shallow. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO."
 }
