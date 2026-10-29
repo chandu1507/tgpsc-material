@@ -1,0 +1,30 @@
+{
+  "cycle": 80,
+  "topic_id": "2-1-2",
+  "original_pdf_sha256": "31da79b3c2d7ce2d67ccfff40124bd4e9cff63a5bfdf0d887253797557151e3c",
+  "integrated_pdf_sha256": "578340150863840154d6378fcb582e4cdd37582fb10b2eb0781c971d936f8860",
+  "integrated_pdf_pages": 18,
+  "pdf_blank_pages": [],
+  "pdf_out_of_bounds_pages": [],
+  "vector_diagram_references": 3,
+  "mcq_count": 30,
+  "bounded_source_checked_keys": 6,
+  "bounded_source_checked_distractors": 18,
+  "mains_body_only_counts": [
+    216,
+    218,
+    217,
+    216,
+    216,
+    228
+  ],
+  "concept_count": 20,
+  "concepts_below_300": 15,
+  "html_local_links_checked": 7,
+  "broken_html_links": [],
+  "full_page_per_concept_met": false,
+  "full_browser_accessibility_certified": false,
+  "independent_academic_approvals": 0,
+  "R8": "IN_PROGRESS_PENDING_DOWNLOADED_ARTIFACT_QA",
+  "R9": "NOT_STARTED"
+}
