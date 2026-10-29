@@ -933,9 +933,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Full original draft published; independent academic review required.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle78_source_critical_partial_rebuild_ci_pending",
+      "notes": "Original 23-page PDF SHA256 6d044094ceff7305ad9f9cd67fb59d6695d43b53aa5f4911cd4e5b29e5c14f90 preserved. Eight sections expanded beyond 300 words (11,12,18,19,20,21,23,24); 30/38 remain shallow. 10/30 practice MCQ keys and 30/90 distractors bounded checked; mains body-only 228/219/212/200/214/216, claim-level review pending. Source register S17-S20. CI PDF and actual artifact pending; ZERO academic approval.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-3-5.json"
     }
   ],
