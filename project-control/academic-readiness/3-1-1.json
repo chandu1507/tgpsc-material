@@ -19,7 +19,7 @@
   "gate_status": {
     "R1": "PASS",
     "R2": "IN_PROGRESS",
-    "R3": "BLOCKED",
+    "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
