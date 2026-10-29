@@ -24,12 +24,13 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": [
-    "project-control/academic-readiness/2-1-3-cycle81-direct-source-and-depth-audit-2026-10-29.json"
+    "project-control/academic-readiness/2-1-3-cycle81-direct-source-and-depth-audit-2026-10-29.json",
+    "project-control/academic-readiness/2-1-3-cycle81-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
   ],
-  "next_action": "14/19 concepts under300; 21 keys/63 distractors, six mains claim sets, primary treaties, browser and actual downloaded artifact QA outstanding.",
+  "next_action": "14/19 concepts shallow; 21 keys/63 distractors, six mains claims, original treaty texts, full-page layout and live browser QA outstanding. R8 IN_PROGRESS not PASS; R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle81": {
@@ -57,6 +58,11 @@
       207,
       211
     ],
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "integrated_pdf_sha256": "e53a2769c5fd9db8b226965002d66d3b5b4f84e18133f4e86773d41c0a92b4a6",
+    "integrated_pdf_pages": 18,
+    "packaging_run_id": 40832672608,
+    "downloaded_artifact_id": 12879800240,
+    "actual_artifact_integrity_pass": true
   }
 }
