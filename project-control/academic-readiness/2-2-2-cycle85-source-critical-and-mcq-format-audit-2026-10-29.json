@@ -1,0 +1,148 @@
+{
+  "cycle": 85,
+  "date": "2026-10-29",
+  "topic_id": "2-2-2",
+  "baseline_main_sha": "32f1e8bfc83256a2bfcda4fdb98fc8dce15df13b",
+  "baseline_status": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 66,
+    "NOT_ASSESSED": 2
+  },
+  "post_assessment_status": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 67,
+    "NOT_ASSESSED": 1
+  },
+  "original_topic_pdf": {
+    "pages": 13,
+    "sha256": "1c53597fbae9aaa794f6f3e2c5ca065e19eb38757941d8ce5d16462822b567b1",
+    "preservation_requirement": true
+  },
+  "structural_defect": {
+    "file": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2/source/TGPSC_P2_U2_T2_30_EXPLAINED_MCQS.md",
+    "questions": 30,
+    "option_lines_rewritten": 120,
+    "example_before": "T)  Palampet inscription associated with Recharla Rudra",
+    "example_after": "A) The 1213 Palampet inscription associated with Recharla Rudra",
+    "description": "Original bank exhibited invalid option labels and truncated option text throughout. Rewrote four alternatives for each of the existing 30 original practice questions; did not convert them to official PYQs.",
+    "format_after": "30 x A/B/C/D; exactly one keyed answer per question",
+    "answer_distribution": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "format_check": "PASS",
+    "independent_correctness_check": "NOT COMPLETE"
+  },
+  "academic_depth": {
+    "concepts": 22,
+    "concept_word_counts": [
+      357,
+      133,
+      114,
+      148,
+      108,
+      113,
+      320,
+      130,
+      110,
+      330,
+      121,
+      109,
+      109,
+      110,
+      113,
+      119,
+      109,
+      315,
+      303,
+      316,
+      123,
+      120
+    ],
+    "concepts_at_least_300": 6,
+    "concepts_under_300": 16,
+    "source_grounded_expansion_sections": [
+      1,
+      7,
+      10,
+      18,
+      19,
+      20
+    ],
+    "all_concepts_full_page": "NOT YET CERTIFIED",
+    "no_verbatim_supplement_append": "Existing supplements preserved separately rather than duplicated wholesale"
+  },
+  "source_correlations": {
+    "directly_viewed_sources": [
+      {
+        "title": "UNESCO Ramappa Temple",
+        "url": "https://whc.unesco.org/en/list/1570/",
+        "scope": "1213, architecture, reservoir setting, World Heritage recognition"
+      },
+      {
+        "title": "UNESCO Qutb Shahi Monuments Tentative List 5573",
+        "url": "https://whc.unesco.org/en/tentativelists/5573",
+        "scope": "1591 foundation, 2010 tentative-list status, epitaphs, Charminar urban role"
+      },
+      {
+        "title": "Government of Telangana Warangal Fort",
+        "url": "https://warangal.telangana.gov.in/tourist-place/warangal-fort/",
+        "scope": "Warangal heritage and fortification context"
+      },
+      {
+        "title": "Government of Telangana Golconda Fort",
+        "url": "https://hyderabad.telangana.gov.in/tourist-place/golconda-fort/",
+        "scope": "Golconda fort history and structure"
+      }
+    ],
+    "bounded_author_correlated_mcq_numbers": [
+      1,
+      2,
+      5,
+      11,
+      12,
+      16,
+      23,
+      28
+    ],
+    "bounded_author_correlated_keys": 8,
+    "bounded_author_correlated_distractors": 24,
+    "remaining_keys_for_independent_audit": 22,
+    "remaining_distractors_for_independent_audit": 66,
+    "original_primary_epigraphic_editions_examined": false,
+    "commission_2024_syllabus_directly_reauthenticated": false
+  },
+  "mains": {
+    "original_practice_count": 6,
+    "claim_level_source_audit_complete": false,
+    "body_only_word_count_audit_this_cycle": false
+  },
+  "diagrams": {
+    "original_svg_files_preserved": 3,
+    "historical_accuracy_certified": false
+  },
+  "publication": {
+    "editable_master": "Paper 2/Unit 2 - Telangana History and Cultural Heritage/Topic 2/source/integrated-student-master-cycle85.md",
+    "renderer": "scripts/render_topic_2_2_2_cycle85.py",
+    "publisher": "scripts/publish_topic_2_2_2_cycle85.py",
+    "workflow": ".github/workflows/render-topic-2-2-2-cycle85.yml",
+    "ci_pdf_rendered": false,
+    "actual_github_actions_artifact_downloaded": false,
+    "live_browser_accessibility_certified": false
+  },
+  "readiness_gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "BLOCKED",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  },
+  "fully_ready_topics": 0,
+  "independent_approvals": 0
+}

@@ -92,9 +92,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "second_gap_focused_medieval_culture_repair_published_academic_audit_pending",
-      "notes": "Original 13-page PDF preserved. 26 Oct 2026: new original 3,752-word source-critical research supplement, 17-page PDF, 30 original explained MCQs, six structured 200–250-word mains answers, three SVG diagrams, 16-entry dated evidence register, consolidated provenance-labelled master. Earlier medieval-institutions supplement retained. Direct original 2024 commission syllabus verified. Not independently academically approved.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle85_30_original_mcqs_repaired_120_malformed_options_source_grounded_six_concepts_ci_pending",
+      "notes": "Cycle85: Original 13-page PDF SHA 1c53597fbae9aaa794f6f3e2c5ca065e19eb38757941d8ce5d16462822b567b1 preserved. Previous 30-question bank had 120 malformed/truncated option lines. All 120 rewritten as clear A–D choices, answer positions A8/B8/C7/D7; 8 keys/24 distractors bounded author-correlated with directly inspected UNESCO pages; remaining 22/66 and all six mains claim sets require independent audit. Coherent 22-concept master with six source-based expansions, 16 under 300 words; guarded CI PDF and actual artifact verification pending. R1 not reauthenticated from commission this cycle, R3/R6/R8 not PASS. NOT approved.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-2-2.json"
     },
     {
@@ -1115,18 +1115,21 @@
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
     "last_assessed": "2-1-5",
-    "evidence": "project-control/academic-readiness/2-1-5-cycle83-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
+    "evidence": "project-control/academic-readiness/2-1-5-cycle83-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 67,
+    "NOT_ASSESSED": 1,
+    "fully_R1_to_R8_ready": 0,
+    "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle83 Topic 2-1-5 renderer 40846405116 SUCCESS: synchronized 23-page PDF SHA256 7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c. Packaging 40846501172 artifact 12884269106 ACTUALLY DOWNLOADED: 1920 files, 75 unchanged originals, 75 readiness JSON, 83 HTML, 558 local links and 1050 DOM fragments zero broken, ZIP CRC and GitHub digest PASS. 18/23 concepts shallow, 24 MCQ keys/72 distractors and six mains claim audits pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
+  "last_readiness_update": "2026-10-29 Cycle85: 7 IN_PROGRESS / 67 ASSESSED_REBUILD_REQUIRED / 1 NOT_ASSESSED; Topic 2-2-2 original 30-MCQ bank repaired, six concepts expanded, CI PDF/actual artifact QA pending; R9 zero.",
   "last_readiness_reconciliation": "75 originals; 7 IN_PROGRESS / 65 ASSESSED_REBUILD_REQUIRED / 3 NOT_ASSESSED; 13 verified/historical R1 mappings; ZERO fully ready and ZERO independent approvals.",
   "academic_readiness_counts": {
-    "in_progress": 7,
-    "assessed_rebuild_required": 65,
-    "not_assessed": 3,
-    "fully_R1_R8_ready": 0,
-    "independent_approvals": 0
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 67,
+    "NOT_ASSESSED": 1
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-1-4-cycle82-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-2-2-cycle85-source-critical-and-mcq-format-audit-2026-10-29.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
