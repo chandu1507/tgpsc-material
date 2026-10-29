@@ -93,10 +93,10 @@ while i<len(tokens):
       widths=None
       n=len(current_table[0]); avail=A4[0]-84
       if n==2:widths=[avail*.56,avail*.44]
-      elif n==3:widths=[avail*.32,avail*.33,avail*.35]
+      elif n==3:widths=[avail*.08,avail*.42,avail*.50]  # Source register: compact ID, readable evidence columns
       elif n==4:widths=[avail*.25]*4
       table=Table(current_table,colWidths=widths,repeatRows=1,hAlign='LEFT')
-      table.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),navy),('ROWBACKGROUNDS',(0,1),(-1,-1),[colors.white,colors.HexColor('#F3F7FA')]),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),6),('RIGHTPADDING',(0,0),(-1,-1),6),('TOPPADDING',(0,0),(-1,-1),5),('BOTTOMPADDING',(0,0),(-1,-1),5),('LINEBELOW',(0,0),(-1,-1),.25,colors.HexColor('#CCD9E3'))]))
+      table.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),navy),('ROWBACKGROUNDS',(0,1),(-1,-1),[colors.white,colors.HexColor('#F3F7FA')]),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),6),('RIGHTPADDING',(0,0),(-1,-1),6),('TOPPADDING',(0,0),(-1,-1),4),('BOTTOMPADDING',(0,0),(-1,-1),4),('LINEBELOW',(0,0),(-1,-1),.25,colors.HexColor('#CCD9E3'))]))
       story.append(table);story.append(Spacer(1,8))
     current_table=None;i+=1;continue
  if t.type in ('bullet_list_open','ordered_list_open'):list_depth+=1;i+=1;continue
