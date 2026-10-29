@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-2",
+    "last_reported_topic": "2-3-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle94 five source-based Topic 2-3-2 expansions; direct pre-edit recount 27 (Cycle93 narrative 32 unreplicated) to 22 below300. CI PDF and actual downloaded artifact pending; 75 originals preserved, zero academic approvals."
+    "note": "Cycle95: Topic 2-3-3 five source-grounded expansions, 13→8/14 concepts below300. Source master committed on academic branch; post-merge renderer and downloaded artifact QA pending. 75 originals preserved; 0 academic approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
