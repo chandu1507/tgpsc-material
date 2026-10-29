@@ -1,8 +1,8 @@
 {
   "topic_id": "2-1-2",
   "title": "Islam, Bhakti–Sufi Traditions and Composite Culture",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,47 @@
     "supplement_md_count": 2
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "BLOCKED"
   },
   "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "next_action": "Finish 15 shallow concepts; verify 24 MCQ keys/72 distractors and six mains claim sets, original syllabus, diagrams, browser and post-CI artifact. Do not claim R1-R8 PASS or independent approval.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "cycle80_assessment": {
+    "original_pdf_sha256": "31da79b3c2d7ce2d67ccfff40124bd4e9cff63a5bfdf0d887253797557151e3c",
+    "original_pdf_pages": 17,
+    "concept_count": 20,
+    "concepts_below_300": 15,
+    "concepts_expanded": [
+      4,
+      11,
+      12,
+      16,
+      17
+    ],
+    "original_practice_mcqs": 30,
+    "bounded_source_checked_mcq_keys": 6,
+    "bounded_source_checked_distractors": 18,
+    "remaining_mcq_keys": 24,
+    "remaining_distractors": 72,
+    "mains_body_only_counts": [
+      216,
+      218,
+      217,
+      216,
+      216,
+      228
+    ],
+    "mains_claim_sets_verified": 0,
+    "existing_diagrams_embedded": 3,
+    "direct_original_syllabus_reauthenticated": false,
+    "independent_expert_approvals": 0
+  }
 }
