@@ -1,0 +1,98 @@
+{
+  "topic_id": "2-3-3",
+  "cycle": 95,
+  "date": "2026-10-30",
+  "status": "PARTIAL_SUBSTANTIVE_REBUILD_NOT_APPROVED",
+  "branch": "academic-cycle95-topic-2-3-3-20261030",
+  "source_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 3/source/integrated-student-edition-2026-10-26.md",
+  "expanded_sections": [
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "section_whitespace_word_counts_before": {
+    "9": 243,
+    "10": 220,
+    "11": 221,
+    "12": 213,
+    "13": 211
+  },
+  "section_whitespace_word_counts_after": {
+    "9": 409,
+    "10": 396,
+    "11": 387,
+    "12": 386,
+    "13": 376
+  },
+  "all_14_section_word_counts_after": [
+    276,
+    267,
+    246,
+    260,
+    233,
+    228,
+    335,
+    233,
+    409,
+    396,
+    387,
+    386,
+    376,
+    216
+  ],
+  "under_300_before": 13,
+  "under_300_after": 8,
+  "method": "Each numbered ## Part C section including its heading and in-section labels; split on whitespace; not equivalent to independent full-page depth or body-only metric.",
+  "sources": [
+    {
+      "id": "T12",
+      "url": "https://www.wii.gov.in/mee-reports",
+      "checked": "2023 fifth-cycle management-evaluation listing; not current corridor occupancy"
+    },
+    {
+      "id": "T13",
+      "url": "https://scclmines.com/Scclnew/company_history.asp",
+      "checked": "Separate SCCL institutional milestones"
+    },
+    {
+      "id": "T14",
+      "url": "https://scclmines.com/scclnew/company_about-us.asp",
+      "checked": "Company ownership and operating scope, not audited reserves"
+    },
+    {
+      "id": "T15",
+      "url": "https://ntpc.co.in/sites/default/files/hyc_docs/NTPC%20Tealangana%20Phase-I%20%20HYC%20Oct%202024%20to%20Mar%202025.pdf",
+      "checked": "Ramagundam 2600 MW distinct from Telangana STPP Phase-I 1600 MW"
+    },
+    {
+      "id": "T16",
+      "url": "https://www.energy.gov/cmei/water/types-hydropower-plants",
+      "checked": "Impoundment, diversion and pumped storage concepts"
+    },
+    {
+      "id": "T16b",
+      "url": "https://www.energy.gov/cmei/water/types-hydropower-turbines",
+      "checked": "Head/flow turbine distinction"
+    }
+  ],
+  "editorial_invariants": {
+    "original_topic_count": 75,
+    "original_pdf_preserved": true,
+    "original_mcq_text_unchanged": true,
+    "original_six_mains_unchanged": true,
+    "official_pyqs_claimed": 0,
+    "independent_academic_approvals": 0
+  },
+  "pending": [
+    "CI PDF generation after merge",
+    "actual GitHub Actions artifact download and SHA/CRC/link QA",
+    "8 shallow concepts",
+    "25 MCQ keys and all distractors independent audit",
+    "6 mains claim-level audit",
+    "official commission-hosted syllabus PDF direct authentication",
+    "browser accessibility",
+    "named external expert R9"
+  ]
+}
