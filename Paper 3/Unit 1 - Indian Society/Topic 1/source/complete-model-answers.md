@@ -42,6 +42,8 @@ The widely repeated claim that India's 'joint family is disappearing' confuses *
 
 **Telangana illustration:** Students and workers migrating from districts to Hyderabad may establish independent city residences while supporting rural parents and participating in extended ceremonies and property decisions.
 
+**Evidence check:** Compare household survey categories with interviews on caregiving, remittances and inheritance before inferring a decline in kinship obligations.
+
 **Conclusion:** The more precise description is **reorganisation of residence, authority and support across places**. Sociological analysis should examine who performs care, who controls resources and how obligations persist—not merely count household members.
 
 ## Question 3. Distinguish caste, class and power. Why is the concept of dominant caste important in village studies? (10 marks)
@@ -61,6 +63,8 @@ M. N. Srinivas's concept of the **dominant caste** captures this intersection in
 Ambedkar's critique of caste as **graded inequality** adds the institutional and moral dimension: greater mobility for some individuals does not automatically dissolve inherited exclusion or barriers to marriage.
 
 **Telangana application:** Agrarian landholding, village leadership and control over credit or employment can be studied separately rather than attributed to caste rank alone.
+
+**Evidence check:** Village-level land records, electoral representation and field interviews should be triangulated rather than treating ritual status as political power.
 
 **Conclusion:** Good sociological analysis maps the **interaction of inherited status, material resources and decision-making power**, and tests how these relationships change across places and generations.
 
@@ -84,6 +88,8 @@ The rural–urban continuum describes **gradations of livelihood, settlement and
 
 **Planning implication:** Compare commuting times, service catchments and watershed impacts before drawing development boundaries; administrative population labels alone obscure these cross-border dependencies.
 
+**Evidence check:** Compare commuting flows, travel times, land-conversion records and watershed maps before asserting any specific metropolitan impact.
+
 **Conclusion:** Telangana's urban planning must recognise **functional regions extending beyond GHMC boundaries**, combining transport, watershed protection, livelihood transition and equitable public services. The continuum is a planning reality as well as a sociological insight.
 
 ## Question 5. Compare caste and tribe as social categories. Discuss how policy must move beyond stereotypes. (10 marks)
@@ -100,7 +106,7 @@ Caste and tribe are historically important categories, but **neither identifies 
 
 **Institutional context:** Tribal rights debates frequently concern land, forests, local self-governance, displacement and mother-tongue education. The Fifth Schedule, PESA and the Forest Rights Act address different aspects of governance and tenure; they are not interchangeable protections.
 
-**Telangana specificity:** Gond, Kolam, Koya and Lambada communities require culturally and historically informed approaches, not a single 'tribal development' template. Local consent, language access and livelihood security matter alongside roads and schooling.
+**Telangana specificity:** Gond, Kolam, Koya and Lambada communities require culturally and historically informed approaches, not a single 'tribal development' template. Meaningful consultation, language access and livelihood security matter alongside roads and schooling. PESA section 4(i) requires consultation for specified land acquisition and rehabilitation decisions; it does not itself create an unconditional veto. Any stronger consent requirement must be established from the separately applicable law.
 
 **Policy design:** Disaggregate evidence by settlement, gender, livelihood and land tenure. Consult affected communities before relocation or forest-use restrictions and test whether safeguards work in practice.
 
