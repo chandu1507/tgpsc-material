@@ -35,7 +35,7 @@
     "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json"
   ],
-  "next_action": "Cycle91: CI render and actual post-render artifact verification first. Then independent claim-level audit of remaining 13 MCQ keys, all 100 distractors, six mains, qualitative depth, diagram accuracy and browser accessibility. 0 approvals.",
+  "next_action": "Complete independent 13-key/100-option MCQ audit and six mains claim audits; R3 qualitative depth, diagram, source, browser accessibility pending. Cycle91 actual downloaded CI PDF and 75-topic CRC/link/hash QA passed; no approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -52,7 +52,7 @@
   "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
   "integrated_source": {
     "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
-    "publication_state": "SOURCE_REVISED_CYCLE91_CI_PDF_PENDING",
+    "publication_state": "CI_PDF_AND_ACTUAL_DOWNLOADED_ARTIFACT_VERIFIED_ACADEMIC_AUDIT_PENDING",
     "original_practice_mcqs": 25,
     "model_answers": 6,
     "schematic_diagrams": 2,
@@ -60,9 +60,9 @@
     "qualitative_depth_pass": false,
     "source_level_mains_audit": false,
     "pdf_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
-    "pdf_sha256": "0d47c2b00f84d2632e8950899ba3ef0788028d05286e0898185d5b91aa1b0210",
-    "pdf_pages": 18,
-    "actual_downloaded_artifact_id": 12688058456,
+    "pdf_sha256": "21d9c4075c82a5c645331431ea4504f35bcdf4fc9b64ad3f2a23203dfb77b088",
+    "pdf_pages": 19,
+    "actual_downloaded_artifact_id": 12915777592,
     "portal_links_checked": true,
     "full_resolution_every_page_accessibility_certified": false
   },
@@ -97,13 +97,19 @@
     },
     "mechanical_option_reordering_not_factual_certification": true,
     "integrated_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
-    "pdf_synchronization": "CI_RENDER_PENDING",
-    "actual_downloaded_post_edit_artifact_verified": false,
+    "pdf_synchronization": "CI_RENDER_SUCCESS_ACTUAL_DOWNLOADED_ARTIFACT_VERIFIED",
+    "actual_downloaded_post_edit_artifact_verified": true,
     "independent_academic_approvals": 0,
     "R3": "BLOCKED",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
-    "R9": "NOT_STARTED"
+    "R9": "NOT_STARTED",
+    "renderer_run": 40916472781,
+    "packaging_run": 40916472785,
+    "artifact_id": 12915777592,
+    "integrated_pdf_pages": 19,
+    "integrated_pdf_sha256": "21d9c4075c82a5c645331431ea4504f35bcdf4fc9b64ad3f2a23203dfb77b088",
+    "post_render_qa": "project-control/academic-readiness/2-3-5-cycle91-actual-downloaded-github-artifact-qa-2026-10-29.json"
   }
 }
