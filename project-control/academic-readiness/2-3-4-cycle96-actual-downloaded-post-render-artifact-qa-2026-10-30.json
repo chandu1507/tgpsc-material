@@ -1,0 +1,57 @@
+{
+  "cycle": 96,
+  "date": "2026-10-30",
+  "topic_id": "2-3-4",
+  "verified_from": "ACTUAL_DOWNLOADED_GITHUB_ACTIONS_ARTIFACT",
+  "packaging_run_id": 40961903615,
+  "renderer_run_id": 40961903604,
+  "artifact_id": 12936461515,
+  "artifact_sha256": "733b2fa596b28b7e6876176cd1cb3e5c50b0642779271717e3f6725914f17da4",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "total_packaged_files": 1978,
+  "original_topic_pdfs": 75,
+  "original_pdfs_unchanged_against_cycle95": 75,
+  "readiness_json_count": 75,
+  "html_pages": 87,
+  "local_file_links_checked": 597,
+  "broken_local_links": 0,
+  "dom_fragments_checked": 1050,
+  "broken_fragments": 0,
+  "spa_routes_excluded": 43,
+  "topic_integrated_pdf_pages": 23,
+  "topic_pdf_sha256": "d6dee1e4c17925f75f2c5a600f0cd3a3736bb117fa16d3cf181f9cad1a5ad8cd",
+  "topic_master_git_blob_sha": "e4b12020ea8693a274bca1c81e6dcd57e81627e5",
+  "topic_pdf_git_blob_sha": "7d4c98702869b0ac6325c992006bfd9c95b97007",
+  "pdf_render_qa_sha256_matches_download": true,
+  "concepts_expanded_present_in_downloaded_pdf": [
+    1,
+    2,
+    3,
+    14
+  ],
+  "mcq_1_2_3_present": true,
+  "blank_pages": 0,
+  "out_of_bounds_text_blocks": 0,
+  "visual_sample_pages": [
+    1,
+    23
+  ],
+  "visual_sample_obvious_clipping": false,
+  "topic_statuses": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1_PASS": 14,
+  "fully_R1_R8_ready": 0,
+  "independent_academic_approvals": 0,
+  "limitations": [
+    "Visual sample is not full-resolution accessibility certification",
+    "Browser keyboard and offline interaction not certified",
+    "Source-correlated MCQs are author-side only, not independent expert reviewed",
+    "Seven of fifteen core concepts remain shallow",
+    "R2 duplicate case-study material not yet fully consolidated",
+    "This report is checked against first post-merge packaging; a subsequent post-evidence artifact should be downloaded and verified for final snapshot"
+  ]
+}

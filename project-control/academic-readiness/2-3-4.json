@@ -33,9 +33,10 @@
     "project-control/academic-readiness/2-3-4-post-publication-packaging-qa-2026-10-26.json",
     "project-control/academic-readiness/2-3-4-render-qa.json",
     "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json"
+    "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json",
+    "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Cycle96: four substantive source-bounded sections (1,2,3,14) expanded, 11→7 of 15 below300 by whitespace method; MCQs 1–3 author-side keys and 9 distractors checked, NOT independently approved. Post-edit PDF and actual Actions artifact pending; R1–R8 incomplete.",
+  "next_action": "Cycle96 23-page CI PDF and actual artifact 12936461515 downloaded: 75 original PDFs unchanged, 75 readiness JSON, ZIP CRC/SHA, 597 links and 1050 fragments PASS. Seven core concepts still below300; R1–R8 incomplete, no browser accessibility or academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -118,7 +119,9 @@
     "full_resolution_accessibility_certified": false,
     "public_browser_usability_verified": false,
     "cycle96_author_source_checked_distractors": 9,
-    "cycle96_post_edit_pdf_status": "PENDING_DETERMINISTIC_CI_RENDER",
-    "cycle96_new_artifact_qa": "PENDING"
+    "cycle96_post_edit_pdf_status": "CI_RENDER_23P_AND_ACTUAL_ARTIFACT_SHA_CRC_LINKS_VERIFIED",
+    "cycle96_new_artifact_qa": "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
+    "cycle96_integrated_pdf_sha256": "d6dee1e4c17925f75f2c5a600f0cd3a3736bb117fa16d3cf181f9cad1a5ad8cd",
+    "cycle96_artifact_id": 12936461515
   }
 }

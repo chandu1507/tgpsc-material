@@ -9,7 +9,7 @@
     "last_reported_topic": "2-3-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle96 four substantive sections expanded, 11→7/15 under300, three bounded author-side MCQ key checks and nine distractors; post-edit CI PDF and downloaded artifact pending, zero academic approvals."
+    "note": "Cycle96 Topic 2-3-4 4 source-bounded expansions, 3 MCQ keys/9 distractors author-side; 23-page PDF and actual artifact 12936461515 downloaded CRC/SHA/75 original/links PASS. R1–R8 incomplete, approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -1159,9 +1159,13 @@
     "cycle": 96,
     "topic_id": "2-3-4",
     "evidence": "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json",
-    "editorial_state": "SOURCE_AND_MCQ_EDITS_PENDING_MERGE",
-    "renderer_conclusion": "PENDING",
-    "artifact_post_render_qa": "PENDING",
+    "actual_post_render_artifact_qa": "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
+    "editorial_state": "MERGED",
+    "renderer_run_id": 40961903604,
+    "renderer_conclusion": "SUCCESS",
+    "artifact_id": 12936461515,
+    "artifact_downloaded_and_verified": true,
+    "artifact_post_render_qa": "PASS_INTEGRITY_NOT_ACADEMIC_APPROVAL",
     "whitespace_sections_below300": 7,
     "qualitative_R3": "IN_PROGRESS",
     "independent_approvals": 0

@@ -12,7 +12,7 @@
     "independent_academic_approvals": 0
   },
   "method": {
-    "sections": "Count whitespace-separated words from each numbered ## core narrative section, including its nested ### subheadings and text; stop at next numbered ## or Additional case-study section.",
+    "sections": "Count whitespace-separated words after each numbered ## heading (excluding that heading title), including nested ### subheadings and text, stopping at next numbered ## or Additional case-study section.",
     "mcqs": "Author-side rationale for key and three alternatives. Does not constitute independent subject expert approval or authenticated PYQ.",
     "verification": "Sources as indexed official pages or accessible official summaries; full PDF not claimed where unavailable."
   },
@@ -147,11 +147,16 @@
     "R9": "NOT_STARTED"
   },
   "publication": {
-    "new_integrated_pdf_rendered": false,
-    "actual_post_edit_artifact_downloaded": false,
-    "crc_verified": false,
-    "links_verified": false,
-    "legacy_original_pdf_unchanged": "NOT_YET_RECHECKED_POST_EDIT"
+    "new_integrated_pdf_rendered": true,
+    "renderer_run": 40961903604,
+    "pdf_pages": 23,
+    "pdf_sha256": "d6dee1e4c17925f75f2c5a600f0cd3a3736bb117fa16d3cf181f9cad1a5ad8cd",
+    "actual_post_edit_artifact_downloaded": true,
+    "artifact_id": 12936461515,
+    "artifact_sha256": "733b2fa596b28b7e6876176cd1cb3e5c50b0642779271717e3f6725914f17da4",
+    "crc_verified": true,
+    "links_verified": true,
+    "legacy_original_pdf_unchanged": "75/75 original PDFs SHA matched Cycle95"
   },
   "next_actions": [
     "Merge guarded PR then observe deterministic Topic 2-3-4 renderer",
