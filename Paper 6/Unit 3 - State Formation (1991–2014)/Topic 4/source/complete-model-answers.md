@@ -91,3 +91,4 @@
 **Evidence and qualification.** Policy evaluation must ask whether less disruptive channels of negotiation were available and whether vulnerable citizens received reasonable safeguards. The answer should distinguish contemporaneous restrictions from later legal findings, which may differ.
 
 **Conclusion.** Mass protest created sustained pressure but did not substitute for parliamentary state reorganisation. Its democratic legacy depends on recognising both mobilisation's political power and the rights of people affected by it.
+
