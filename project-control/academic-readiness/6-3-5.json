@@ -24,9 +24,9 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle78 direct source-based partial expansion and bounded question audit; 30/38 concepts remain below 300 words. See project-control/academic-readiness/6-3-5-cycle78-direct-source-depth-and-bounded-mcq-audit-2026-10-29.json. No integrated PDF or artifact certified yet.",
+  "evidence": "Cycle78 integrated 27-page PDF and actual downloaded GitHub artifact verified; 75/75 originals SHA preserved, 23/23 manifest hashes, zero broken local links/fragments. 30/38 concepts remain shallow; R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO. See project-control/academic-readiness/6-3-5-cycle78-actual-downloaded-post-ci-artifact-qa-2026-10-29.json.",
   "next_action": "Render synchronized editable master as CI PDF; verify actual downloaded artifact, then expand remaining 30 shallow concepts and verify 20 keys, 60 distractors and all six mains claims.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -79,8 +79,14 @@
     ],
     "government_statute_full_pdf_opened": false,
     "official_2014_eci_results_pdf_opened": false,
-    "integrated_pdf_rendered": false,
-    "post_edit_artifact_certified": false,
-    "independent_academic_approvals": 0
+    "integrated_pdf_rendered": true,
+    "post_edit_artifact_certified": true,
+    "independent_academic_approvals": 0,
+    "integrated_pdf_pages": 27,
+    "integrated_pdf_sha256": "14d7f219929e09646829053de3a3a184875476075774452b608027caf4889201",
+    "artifact_id": 12871468885,
+    "artifact_sha256": "03a6b2f78049737fc9b1f419d69fa40fdb053c87ca204ffb6683a3815338c4dc",
+    "artifact_files": 1861,
+    "browser_accessibility_certified": false
   }
 }
