@@ -41,3 +41,11 @@
 ### Final chapter synthesis
 
 The demand for Telangana was resolved legally through Articles 3 and 4 and the Andhra Pradesh Reorganisation Act, 2014. The Act established the territory and a transition framework; Parliament's February votes, the President's March assent, and the 2 June appointed day had distinct effects. The TRS majority and first ministry translated movement politics into representative government, but administrative allocation, equity and inter-state cooperation continued beyond statehood.
+
+**S17 — accessed 29 Oct 2026 — Government of India, Legislative Department.** *Constitution of India*, 2025 English-Kannada official diglot, Articles 3 and 4. https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf. Evidence: **directly opened official PDF**; 2025 consolidated text, not an original 2014 legislative proceeding. Used for constitutional-procedure checks.
+
+**S18 — accessed 29 Oct 2026 — India Code, Government of India.** *Andhra Pradesh Reorganisation Act, 2014*, Act 6 of 2014. https://upload.indiacode.nic.in/showfile?actid=AC_CEN_5_5_00058_201406_1517807327989&filename=201406.pdf&type=actfile. Evidence: **official indexed PDF text only**; direct opening timed out. Bounded checks: sections 2, 3, 5, 8 and population-ratio definition; full statutory page-level audit and subsequent amendments **not** certified.
+
+**S19 — accessed 29 Oct 2026 — Ministry of Home Affairs notification S.O. 655(E), 4 Mar 2014.** https://indiacode.ecourtsindia.com/rules/appointed-day-for-the-purpose-of-the-act-36d63b00/. Evidence: **Gazette text reproduced** from India Code-held instrument, not original Gazette scan; fixes 2 Jun 2014 as appointed day under section 2(a).
+
+**S20 — accessed 29 Oct 2026 — Election Commission of India.** 2014 assembly statistical-report directory https://www.eci.gov.in/statistical-reports. Evidence: **official directory inspected**; original 2014 constituency PDF not downloaded, so reported TRS 63/119 is not counted as independently checked from an original ECI result sheet in this cycle.
