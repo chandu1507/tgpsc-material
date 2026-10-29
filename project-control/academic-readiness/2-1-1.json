@@ -1,8 +1,8 @@
 {
   "topic_id": "2-1-1",
   "title": "Early Indian Civilizations, Religious Movements and Classical Culture",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,44 @@
     "supplement_md_count": 3
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "BLOCKED",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json",
+  "next_action": "Expand 17 remaining sub-300-word primary concepts without duplication; verify 28 keys/84 distractors and all six mains claim sets; authenticate original TGPSC PDF, verify diagrams, render and independently download post-edit CI artifact; R9 only after all R1-R8 PASS and named expert.",
   "external_reviewer": null,
-  "student_accepted": false
+  "student_accepted": false,
+  "audit_metrics": {
+    "primary_depth_repair_concepts": 19,
+    "concepts_below_300": 17,
+    "substantively_expanded_sections": [
+      3
+    ],
+    "original_mcqs": 30,
+    "source_checked_keys": 2,
+    "source_checked_distractors": 6,
+    "unchecked_keys": 28,
+    "unchecked_distractors": 84,
+    "mains_body_only_counts": [
+      212,
+      203,
+      211,
+      204,
+      213,
+      210
+    ],
+    "original_pdf_sha256": "e2ff8daae5db64520648bedca60ed4658d8cd43980c447c8c9d2664293665009",
+    "prework_artifact_run": 40814829694,
+    "prework_artifact_id": 12870904995,
+    "prework_artifact_sha256": "5074cc02433e2745aa2b0b3bf31da4006a808e5ee46e94c7ed9ef4e3ff8f8281",
+    "integrated_pdf_ci_status": "NOT_YET_RENDERED",
+    "academic_approvals": 0
+  }
 }

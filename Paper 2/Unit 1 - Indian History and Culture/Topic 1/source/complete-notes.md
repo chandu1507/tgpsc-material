@@ -321,6 +321,16 @@ Use the Rakhigarhi case in an answer about archaeological methods; use Sarnath i
 
 **Audit status:** Contemporary items above checked against institutional publications. Historical textbook references are not yet page-level audited. Verified TGPSC PYQ collection remains pending.
 
+## Cycle79 direct-source correspondences (29 October 2026)
+
+- **Ashmolean Museum, University of Oxford, cubical weight EAMd.8:** https://jameelcentre.ashmolean.org/collection/921/object/11118 — directly viewed object catalogue, graduated chert weights found over a wide area; supports the bounded Q1 key, not royal-tax or price claims.
+- **UNESCO World Heritage Centre, Dholavira, listing 1645:** https://whc.unesco.org/en/list/1645/ — directly viewed property dossier, seasonal streams, reservoirs, craft workshops and regional trade; supports the bounded Q2 key and water-management explanation.
+- **British Museum, Indus stamp-seal 1947,0416.3:** https://www.britishmuseum.org/collection/object/A_1947-0416-3 — directly viewed museum object record; shows an inscribed steatite seal, not a deciphered contract.
+- **NCERT, Class XII Themes in Indian History-I index:** https://ncert.nic.in/textbook.php?lehs1=3-4 — book index viewed; individual chapter PDF was NOT examined, so this is not page-level textbook verification.
+- **TGPSC Group I Notification 02/2024 PDF:** commission preview link in `syllabus-index.md` returned HTTP 403 on 29 October 2026. Existing syllabus transcription retained, but direct original PDF authentication remains IN_PROGRESS.
+
+**Bounded verification only:** Q1 and Q2 keys and their six distractors were reviewed against the institutional records above. The remaining 28 keys and 84 distractors are not independently verified. All six mains answers now pass the 200–250 body-only word-count check, but historical claims require separate review. No original TGPSC PYQs or archival documents were claimed.
+
 
 ## Recovered segment: quality-audit.md
 
@@ -375,6 +385,8 @@ Urban planning also required maintenance. Wastewater channels had to be laid out
 Craft production involved carnelian beads, shell objects, copper alloys, ceramics, faience and stone weights. The raw materials came from different ecological zones, implying procurement routes and knowledge of distant sources. Mesopotamian texts referring to Meluhha are often discussed in connection with Harappan exchange; the identification is widely argued but does not mean that every object or trader can be assigned an ethnic label. Coastal settlements and inland craft centres participated in networks whose scale changed through time. The archaeological record cannot tell us exactly how profits were distributed among merchants, producers and political elites. It does, however, allow historians to ask how standards, transport and specialised skills reduced the friction of exchange.
 
 After about 1900 BCE, several large urban centres contracted while settlement patterns shifted in different directions. No single flood, invasion, river change or climatic episode can explain every site. River-course changes, changing monsoon patterns, soil and water pressures, altered exchange and regional economic adaptation are plausible contributing processes. The disappearance of one urban form is not the disappearance of its people. Later settlement horizons show continuities and changes in farming, ceramics and habitation. The careful term is **regional de-urbanisation and reorganisation**, not a dramatic overnight extinction. This is also a lesson in causal reasoning: if the same cause cannot explain geographically different trajectories, the model is incomplete.
+
+**Source-critical method: weighing objects against claims (Cycle 79).** The Ashmolean Museum's catalogued chert cubical weights from Mohenjo-daro (accessions EAMd.7–9) are physical objects, not translated account books. The museum describes graduated weight sets found over a wide area. This supports the existence of measurement conventions across settlements, but cannot identify an empire-wide tax rate, fixed commodity prices, or the identity of an official who used a weight. The British Museum's accessioned steatite seals preserve actual inscriptions and animal motifs; because the Indus script has no generally accepted decipherment, a seal cannot yet be read as a named merchant's contract. UNESCO's Dholavira dossier independently records bead workshops, reservoir engineering, and exchange links with Mesopotamia and the Oman peninsula. Together these observations suggest skilled production and interregional movement, while leaving open the balance between private exchange, redistribution, and tribute. A careful inference compares findspot, archaeological layer, workshop waste, storage facilities, and regional distribution before proposing a political institution. A standardized measure is evidence for a shared practice, not a complete theory of government. Sources: Ashmolean accession EAMd.8; British Museum 1947,0416.3; UNESCO World Heritage listing 1645.**
 
 **Worked comparison:** A question asks whether drainage proves a centralized Harappan empire. First establish the observed drains and standardized elements. Second explain that coordination could occur through city authorities, neighbourhood bodies, guild-like groups or other arrangements. Third note that undeciphered writing prevents identification of office-holders. Conclude that sophisticated governance is plausible but a single empire is unproven. This earns more analytical credit than simply writing “well-planned cities show a strong central government.”
 
@@ -527,27 +539,27 @@ The following institutional resources were directly accessible or indexed during
 
 ### Q1. Which conclusion is best supported by Harappan standardized weights?
 
-A. A single named emperor controlled all cities
+A. Identical royal tax rates operated at every Harappan settlement
 
-B. Shared measurement conventions aided exchange
+B. Shared measurement conventions could facilitate exchange across settlements
 
-C. The Indus script has been deciphered
+C. The weights establish the exact prices charged for all traded commodities
 
-D. There were no regional differences
+D. The weights identify the language written on every Harappan seal
 
-**Correct answer: B.** Repeated weight standards suggest exchange conventions across settlements. They do not establish a single imperial office or allow translation of the undeciphered script.
+**Correct answer: B.** The Ashmolean Museum catalogues graduated chert weights found across a wide area. This supports a shared measuring practice, not a deciphered price list, uniform tax schedule, or readable language. Source: Ashmolean, cubical weight EAMd.8. The distractors are claims not established by the object record.
 
 ### Q2. Dholavira is especially useful for explaining which historical problem?
 
-A. Water management in an arid settlement
+A. Capturing seasonal runoff in reservoirs in an arid settlement
 
-B. Buddhist monastic discipline
+B. Dependence on a perennial river without a substantial storage system
 
-C. Gupta Sanskrit court poetry
+C. Reliance on a tidal estuary as the city's main source of fresh water
 
-D. Mauryan land grants
+D. Exclusive dependence on household wells rather than shared reservoirs
 
-**Correct answer: A.** Its reservoir systems and seasonal-stream catchments illuminate urban ecological adaptation. UNESCO documentation also identifies stone architecture and craft production.
+**Correct answer: A.** UNESCO identifies Dholavira's seasonal streams and an extensive network of reservoirs. Its water-harvesting strategy contradicts B, C and D. Source: UNESCO World Heritage Centre, Dholavira listing 1645.
 
 ### Q3. Which statement about the Harappan script is methodologically sound?
 
@@ -898,11 +910,11 @@ D. Treat all ancient societies as identical
 
 **Ecological adaptation.** Dholavira, located in an arid setting, developed reservoirs and channels drawing on seasonal water. Its stone architecture differs from the baked-brick emphasis of other cities. UNESCO documentation also identifies craft workshops and varied residential areas, demonstrating a complex settlement rather than a universal grid template.
 
-**Political interpretation.** Monumental structures and differentiated houses suggest organisation and social distinctions, but neither a palace nor a king can be securely named from these observations. Local institutions, merchant conventions and wider networks may all have contributed to coordination.
+**Political interpretation.** Monumental structures and differentiated houses suggest organisation and social distinctions, but neither a palace nor a king can be securely named from these observations. Local institutions, merchant conventions and wider networks may all have contributed to coordination. The distribution of craft areas, reservoirs and streets must be compared across excavation phases before identifying a central authority.
 
 **Conclusion.** Harappan urbanism should be explained as technically sophisticated and regionally adaptive, while political centralisation remains a hypothesis to test. The distinction between excavated evidence and reconstructed authority is the key to a defensible historical answer.
 
-*Answer body: 201 words; original practice.*
+*Answer body: 212 words under Cycle79 body-only method; original practice.*
 
 ## Mains 2. Discuss changes from early to later Vedic society and limitations of textual evidence.
 
@@ -916,7 +928,7 @@ D. Treat all ancient societies as identical
 
 **Conclusion.** The shift is best understood as a long, uneven interaction of economy, political authority and thought. Comparing source types produces a stronger account than the crude binary of an entirely pastoral early society and an entirely agricultural later one.
 
-*Answer body: 212 words; original practice.*
+*Answer body: 203 words under Cycle79 body-only method; original practice.*
 
 ## Mains 3. Explain the rise of Jainism and Buddhism and compare their central doctrines.
 
@@ -928,11 +940,11 @@ D. Treat all ancient societies as identical
 
 **Buddhist teaching.** Buddhism teaches the Four Noble Truths, the Eightfold Path and the Middle Way. Dependent origination explains conditioned processes, while anatta rejects a permanent independent self. The sangha provided disciplined monastic institutions supported by lay donors.
 
-**Social significance.** Both traditions expanded networks of teaching, gifts and monuments. Their historical communities were diverse; neither can be reduced to the assertion that all caste distinctions disappeared.
+**Social significance.** Both traditions expanded networks of teaching, gifts and monuments. Their historical communities were diverse; neither can be reduced to the assertion that all caste distinctions disappeared. Lay donors and merchants also supported institutions, so religious expansion cannot be explained by royal sponsorship alone.
 
 **Conclusion.** The shared emphasis on ethical liberation should be balanced against the fundamental difference between Jain jiva and Buddhist anatta, alongside their distinct institutional histories.
 
-*Answer body: 204 words; original practice.*
+*Answer body: 211 words under Cycle79 body-only method; original practice.*
 
 ## Mains 4. Compare Gandhara, Mathura and Amaravati schools of art with reference to Telangana.
 
@@ -948,7 +960,7 @@ D. Treat all ancient societies as identical
 
 **Conclusion.** A careful comparison identifies typical features while resisting rigid labels. Findspot, inscriptions and material context are stronger evidence than colour or a single decorative motif. Chronological phases and donor records further refine any attribution, especially for displaced museum fragments.
 
-*Answer body: 211 words; original practice.*
+*Answer body: 204 words under Cycle79 body-only method; original practice.*
 
 ## Mains 5. Assess the social and cultural character of the Mauryan and Satavahana periods.
 
@@ -960,11 +972,11 @@ D. Treat all ancient societies as identical
 
 **Religious culture.** Buddhist monasteries received donations, while rulers and households also participated in other ritual traditions. Patronage was plural rather than an exclusively sectarian state programme.
 
-**Telangana evidence.** Dhulikatta, Peddabankur and Kotilingala have yielded coins, pottery and early historic objects. These sites demonstrate Deccan connectivity; identifying Kotilingala conclusively as the first Satavahana capital remains debated.
+**Telangana evidence.** Dhulikatta, Peddabankur and Kotilingala have yielded coins, pottery and early historic objects. These sites demonstrate Deccan connectivity; identifying Kotilingala conclusively as the first Satavahana capital remains debated. Objects must be assigned to secure archaeological layers before they can support claims about a particular dynasty.
 
 **Conclusion.** Mauryan edicts illuminate public imperial ethics, whereas Satavahana inscriptions and archaeological networks illuminate regional patronage. Both require source criticism and attention to ordinary producers.
 
-*Answer body: 206 words; original practice.*
+*Answer body: 213 words under Cycle79 body-only method; original practice.*
 
 ## Mains 6. Critically examine the Gupta “Golden Age” label in social and cultural history.
 
@@ -980,4 +992,4 @@ D. Treat all ancient societies as identical
 
 **Conclusion.** Retain the Gupta age as a period of important cultural creativity, but qualify “Golden Age” by asking: golden for whom, where and according to which sources?
 
-*Answer body: 221 words; original practice.*
+*Answer body: 210 words under Cycle79 body-only method; original practice.*
