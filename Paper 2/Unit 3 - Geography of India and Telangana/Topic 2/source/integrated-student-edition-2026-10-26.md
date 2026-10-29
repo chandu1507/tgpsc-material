@@ -561,7 +561,7 @@ B. Total urban residents divided by only built-up urban area
 C. Annual population increase divided by the midyear population  
 D. Total working-age residents divided by the dependent population  
 
-**Answer: A.** B is a different density measure, C a growth-rate concept and D a demographic ratio. **Source anchors:** [S2,S8]. Definitional key source-correlated; full item review pending.
+**Answer: A.** Official Census 2011 district-handbook terminology defines population density as persons per square kilometre of area. B uses a restricted urban built-up denominator rather than the specified geographical unit; C is a population-change rate; D compares age groups rather than people with area. **Source anchors:** [S18]. Author-side key and three distractors checked against the definition on 30 Oct 2026; independent item review remains pending.
 
 ### Q20. Which change is central to the *demographic transition* model?
 
@@ -579,7 +579,7 @@ B. GDP growth, population density and urban share
 C. Health, education and a decent standard of living  
 D. Migration, life expectancy and industrial output  
 
-**Answer: C.** UNDP uses life expectancy, schooling indicators and GNI per capita to operationalise these dimensions. **Source anchors:** [S6]. Correct key checked against UNDP's official HDI methodology 26 Oct 2026; other options remain to be item-tested.
+**Answer: C.** UNDP uses life expectancy, two schooling indicators and purchasing-power-adjusted GNI per capita for health, knowledge and living standards. A includes inflation and employment rather than the three HDI dimensions; B substitutes economic growth and settlement characteristics; D mixes migration and industrial output with one health indicator. **Source anchors:** [S6,S15]. Author-side key and three distractors checked 30 Oct 2026; question discrimination and independent examiner review remain pending.
 
 ### Q22. Which is the most complete set of mechanisms to consider when explaining a change in the *measured urban population* between two censuses?
 
@@ -705,5 +705,7 @@ D. Restricting labour mobility while concentrating skills in one metropolis
 | S15 | [UNDP HDI methodology FAQ](https://hdr.undp.org/publication/citation-export/3356) and [technical notes](https://hdr.undp.org/sites/default/files/data/2020/hdr2019_technical_notes.pdf) | Directly viewed 30 Oct 2026: three dimensions, four indicators, geometric mean; numeric parameters and PPP base years are edition-specific. |
 | S16 | [MoHUA Smart City Proposal template](https://www.mohua.gov.in/pdf/58fd958bc7ed75821af4818704SCP_Template.pdf) | Official proposal-design document directly viewed 30 Oct 2026: area-based development and selected area; not independent evidence of project impact. |
 | S17 | [National Urban Digital Mission overview](https://www.nudm.mohua.gov.in/what-is-nudm/) | Official programme description directly viewed 30 Oct 2026: common standards, shared infrastructure and registries; objectives, not measured service outcomes. |
+
+| S18 | [Census of India 2011 North Goa District Census Handbook](https://censusindia.gov.in/nada/index.php/catalog/368/download/1120/DH_2011_3001_PART_A_DCHB_NORTH_GOA.pdf) | Original ORGI district handbook text directly located 30 Oct 2026: density defined as persons per square kilometre, computed as population divided by area; historical source, not current demographic estimate. |
 
 **Limitations:** R1 syllabus mapping checked; R2 consolidation requires human deduplication; R3 many concepts remain shallow; R4 source checks incomplete; R5 25 questions drafted but not externally audited; R6 six answers drafted, source review pending; R7 diagrams require accuracy review; R8 PDF/public browser not yet verified. **R9 NOT STARTED. Zero academic approvals.**
