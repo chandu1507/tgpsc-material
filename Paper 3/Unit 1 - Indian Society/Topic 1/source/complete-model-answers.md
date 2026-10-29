@@ -42,6 +42,8 @@ The widely repeated claim that India's 'joint family is disappearing' confuses *
 
 **Telangana illustration:** Students and workers migrating from districts to Hyderabad may establish independent city residences while supporting rural parents and participating in extended ceremonies and property decisions.
 
+**Evidence check:** Compare household survey categories with interviews on caregiving, remittances and inheritance before inferring a decline in kinship obligations.
+
 **Conclusion:** The more precise description is **reorganisation of residence, authority and support across places**. Sociological analysis should examine who performs care, who controls resources and how obligations persist—not merely count household members.
 
 ## Question 3. Distinguish caste, class and power. Why is the concept of dominant caste important in village studies? (10 marks)
@@ -61,6 +63,8 @@ M. N. Srinivas's concept of the **dominant caste** captures this intersection in
 Ambedkar's critique of caste as **graded inequality** adds the institutional and moral dimension: greater mobility for some individuals does not automatically dissolve inherited exclusion or barriers to marriage.
 
 **Telangana application:** Agrarian landholding, village leadership and control over credit or employment can be studied separately rather than attributed to caste rank alone.
+
+**Evidence check:** Village-level land records, electoral representation and field interviews should be triangulated rather than treating ritual status as political power.
 
 **Conclusion:** Good sociological analysis maps the **interaction of inherited status, material resources and decision-making power**, and tests how these relationships change across places and generations.
 
@@ -83,6 +87,8 @@ The rural–urban continuum describes **gradations of livelihood, settlement and
 **Unequal access:** Urban proximity does not automatically secure affordable housing, safe mobility or good schools; the quality of access differs by gender, class and location.
 
 **Planning implication:** Compare commuting times, service catchments and watershed impacts before drawing development boundaries; administrative population labels alone obscure these cross-border dependencies.
+
+**Evidence check:** Compare commuting flows, travel times, land-conversion records and watershed maps before asserting any specific metropolitan impact.
 
 **Conclusion:** Telangana's urban planning must recognise **functional regions extending beyond GHMC boundaries**, combining transport, watershed protection, livelihood transition and equitable public services. The continuum is a planning reality as well as a sociological insight.
 
