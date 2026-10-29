@@ -1126,7 +1126,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle98 30 Oct: directly inspected all 75 per-topic JSON: 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS, 0 fully R1-R8 ready and 0 independent approvals. Topic 2-3-3 eight existing concepts expanded, all 14 mechanically >=300 words; 25 MCQs/six mains preserved, independent academic audit incomplete. Renderer 40976010702 SUCCESS, 21-page PDF. Actual post-render artifact QA pending.",
+  "last_readiness_update": "Cycle98: 75 existing topics; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 R1 PASS, 0 fully R1-R8 ready and 0 approvals. Topic 2-3-3 all 14 concepts >=300 whitespace words, corrected 26-page CI PDF with distinct concept starts and source register table fixed. Post-evidence downloaded archive QA and full independent academic review pending.",
   "last_readiness_reconciliation": "Fresh 29 Oct main and 75 per-topic JSON: 75 originals, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 verified/historical R1 mappings, 0 fully ready, 0 approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
@@ -1160,13 +1160,14 @@
     "topic_id": "2-3-3",
     "evidence": "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json",
     "editorial_state": "MERGED",
-    "renderer_run_id": 40976010702,
+    "renderer_run_id": 40976307263,
     "renderer_conclusion": "SUCCESS",
-    "integrated_pdf_pages": 21,
-    "integrated_pdf_sha256": "11a11d342d16f13fb042c67e17d3aa66e40a8b231eaf81c1c6bec1381ef3103c",
+    "integrated_pdf_pages": 26,
+    "integrated_pdf_sha256": "09d44043b3fe10a2c726f7a9f90a83658c4e71b1e4154e98097345ca32eac981",
     "artifact_downloaded_and_verified": false,
     "whitespace_sections_below300": 0,
     "qualitative_R3": "IN_PROGRESS",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "concept_start_pages_distinct": 14
   }
 }
