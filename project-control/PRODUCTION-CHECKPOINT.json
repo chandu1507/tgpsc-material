@@ -1160,9 +1160,13 @@
     "editorial_merge": "0e2eae31f1aa742f43389f9bf1b02a0cab921081",
     "renderer_run": 40925286660,
     "renderer_conclusion": "success",
-    "artifact_post_render_qa": "PENDING",
+    "artifact_post_render_qa": "VERIFIED_ACTUAL_DOWNLOAD",
     "all_16_concepts_over_300": true,
     "qualitative_R3": "IN_PROGRESS",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "artifact_id": 12920506594,
+    "packaging_run": 40925515212,
+    "artifact_sha256": "cf8cd89146a60a71c3c5f17795deb29962fbc1d226cf37e52d6ab512db8d5e8b",
+    "evidence": "project-control/academic-readiness/2-3-5-cycle92-actual-downloaded-post-render-artifact-qa-2026-10-29.json"
   }
 }
