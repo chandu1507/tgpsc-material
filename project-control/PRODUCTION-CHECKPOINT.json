@@ -32,8 +32,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle80_source_bounded_rebuild_integrated_candidate_ci_pending",
-      "notes": "Original 17-page PDF SHA256 31da79b3c2d7ce2d67ccfff40124bd4e9cff63a5bfdf0d887253797557151e3c preserved. Cycle80: 20 source-critical concepts, five expanded to >=300 words, 15 still shallow; 30 original four-option practice MCQs, six keys/18 distractors bounded checked against UNESCO; six mains body-only counts 216/218/217/216/216/228 but claims not independently verified; three existing diagrams; coherent editable master and local candidate PDF. No academic approval; post-CI artifact QA pending.",
+      "production_review": "cycle80_integrated_pdf_ci_published_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "Original 17-page PDF SHA256 31da79b3c2d7ce2d67ccfff40124bd4e9cff63a5bfdf0d887253797557151e3c preserved. Cycle80: 20 source-critical concepts, five expanded to >=300 words, 15 still shallow; 30 original four-option practice MCQs, six keys/18 distractors bounded checked against UNESCO; six mains body-only counts 216/218/217/216/216/228 but claims not independently verified; three existing diagrams; coherent editable master and local candidate PDF. No academic approval; latest GitHub packaging artifact 12876418855 actually downloaded: 1883 files, 75 original PDFs unchanged, 75 readiness JSON, 80 HTML, 480 local links/1050 fragments zero broken, outer/inner CRC PASS. 18-page CI PDF SHA256 578340150863840154d6378fcb582e4cdd37582fb10b2eb0781c971d936f8860. Academic depth, full MCQ/mains source checks and browser QA still incomplete..",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/2-1-2.json"
     },

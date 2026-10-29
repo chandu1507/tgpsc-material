@@ -155,7 +155,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle80 Topic 2-1-2 bounded academic assessment: 20 concepts, 15 still under300; 6/30 MCQ keys and 18/90 distractors source-correlated; six mains lengths 216/218/217/216/216/228 but claim-level verification pending; 75 originals preserved; R8 BLOCKED until synchronized PDF and actual post-edit artifact QA; R9 NOT_STARTED; 7/62/6; approvals ZERO.",
+  "last_readiness_update": "Cycle80 Topic 2-1-2 post-CI actual artifact downloaded and verified: renderer 40826558873 SUCCESS; packaging 40826667914 SUCCESS; artifact 12876418855 outer SHA256 56de878fcaaceb91c7e04bbe289baabe3529e3bc5db069a27e14089606ab27d1; outer/inner CRC PASS; 1883 files, exactly 75 original PDFs unchanged, 75 readiness JSON, 80 HTML, 480 local file links and 1050 DOM fragments ZERO broken (43 SPA routes excluded), 6/6 topic manifest hashes PASS. Integrated PDF 18 pages, 15/20 concepts still shallow. R8 IN_PROGRESS, R9 NOT_STARTED; 7/62/6, independent approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-2-4",
     "2-2-5",
@@ -172,6 +172,7 @@
   ],
   "verified_R1_pass_count": 12,
   "recent_evidence": [
+    "project-control/academic-readiness/2-1-2-cycle80-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/2-1-2-cycle80-direct-depth-mcq-mains-audit-2026-10-29.json",
     "project-control/academic-readiness/2-1-1-cycle79-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/2-1-1-cycle79-direct-source-mcq-mains-and-artifact-audit-2026-10-29.json",

@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Finish 15 shallow concepts; verify 24 MCQ keys/72 distractors and six mains claim sets, original syllabus, diagrams, browser and post-CI artifact. Do not claim R1-R8 PASS or independent approval.",
+  "next_action": "Finish 15 concepts under 300 words, verify remaining 24 MCQ keys/72 distractors and all six mains claim sets, direct syllabus, diagrams and live browser accessibility. R8 IN_PROGRESS, R9 NOT_STARTED; no independent approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle80_assessment": {
@@ -58,6 +58,20 @@
     "mains_claim_sets_verified": 0,
     "existing_diagrams_embedded": 3,
     "direct_original_syllabus_reauthenticated": false,
-    "independent_expert_approvals": 0
+    "independent_expert_approvals": 0,
+    "post_ci_publication": {
+      "renderer_run": 40826558873,
+      "packaging_run": 40826667914,
+      "downloaded_artifact_id": 12876418855,
+      "archive_sha256": "56de878fcaaceb91c7e04bbe289baabe3529e3bc5db069a27e14089606ab27d1",
+      "integrated_pdf_sha256": "578340150863840154d6378fcb582e4cdd37582fb10b2eb0781c971d936f8860",
+      "integrated_pdf_pages": 18,
+      "outer_inner_crc": "PASS",
+      "original_pdf_hashes_preserved": "75/75",
+      "local_links_broken": 0,
+      "dom_fragments_broken": 0,
+      "live_browser_certified": false,
+      "independent_academic_approvals": 0
+    }
   }
 }
