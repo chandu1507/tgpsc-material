@@ -1,0 +1,74 @@
+{
+  "cycle": 78,
+  "date": "2026-10-29",
+  "baseline_main": "a5c46f61944fb1f96bf8c26ed37b0924ce89048d",
+  "topic_id": "6-3-5",
+  "title": "Parliamentary Process, Reorganisation Act and First Telangana Government",
+  "original_pdf_sha256": "6d044094ceff7305ad9f9cd67fb59d6695d43b53aa5f4911cd4e5b29e5c14f90",
+  "original_pdf_pages": 23,
+  "concept_count": 38,
+  "initially_below_300": 38,
+  "expanded_sections": [
+    11,
+    12,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24
+  ],
+  "expanded_section_word_counts": {
+    "11": 391,
+    "12": 371,
+    "18": 359,
+    "19": 373,
+    "20": 366,
+    "21": 363,
+    "23": 370,
+    "24": 370
+  },
+  "still_below_300": 30,
+  "source_check_details": {
+    "direct_opened_official_constitution": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "official_IndiaCode_statute_indexed_but_direct_pdf_timeout": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_5_5_00058_201406_1517807327989&filename=201406.pdf&type=actfile",
+    "gazette_notification_reproduction": "https://indiacode.ecourtsindia.com/rules/appointed-day-for-the-purpose-of-the-act-36d63b00/",
+    "ECI_official_directory_no_original_result_sheet": "https://www.eci.gov.in/statistical-reports"
+  },
+  "mcq_audit": {
+    "original_practice_not_PYQ": true,
+    "total": 30,
+    "checked_keys": [
+      1,
+      2,
+      3,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      21
+    ],
+    "checked_distractors": 30,
+    "unchecked_keys": 20,
+    "unchecked_distractors": 60,
+    "limitations": "Direct Constitution for 1-3; government indexed statute for 14,17,18,19,21; reproduced Gazette for 15-16. Not full independent item-by-item audit."
+  },
+  "mains_body_only_counts": [
+    228,
+    219,
+    212,
+    200,
+    214,
+    216
+  ],
+  "mains_claim_level_review_complete": false,
+  "diagram_accuracy_certified": false,
+  "integrated_pdf_rendered": false,
+  "post_edit_downloaded_artifact_verified": false,
+  "full_page_per_concept_met": false,
+  "academic_approvals": 0,
+  "readiness": "ASSESSED_REBUILD_REQUIRED",
+  "R9": "NOT_STARTED"
+}
