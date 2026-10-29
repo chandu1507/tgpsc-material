@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle96: exactly 75 originals; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 R1 PASS, 0 R1–R8 ready and 0 approvals. Topic 2-3-4 11→7 shallow, 3 keys/9 distractors bounded checked; CI 23-page PDF and actual downloaded artifact 12936461515 CRC/SHA/75/links verified. R8 IN_PROGRESS.",
+  "warning": "Cycle98: 75 original topics/PDFs, per-topic statuses directly reconciled 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 normalized R1 PASS, 0 R1-R8 ready and 0 independent approvals. Topic 2-3-3 eight substantive expansions: 14/14 core concepts >=300 whitespace words; mechanical threshold only, not R3 PASS. CI 21-page PDF, final actual downloaded artifact QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle96 Topic 2-3-4 four concept expansions; 23-page CI PDF and actual downloaded artifact integrity verified, not academically certified.",
+  "last_readiness_update": "Cycle98 Topic 2-3-3 eight original concept expansions (8->0 under300), 25 original MCQs/six mains preserved; CI renderer 40976010702 success 21 pages. R1-R8 not all PASS, R9 not started, zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle94-nicdc-plfs-census-depth-reconciliation-2026-10-30.json",
@@ -238,16 +239,6 @@
     "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
     "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
     "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json",
-    "project-control/academic-readiness/5-2-2-cycle55-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-2-2-cycle55-direct-source-repair-and-bounded-key-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-1-5-cycle53-direct-structure-and-official-key-correspondence-2026-10-28.json",
-    "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-1-3-cycle51-direct-artifact-depth-and-isro-source-correspondence-2026-10-28.json",
-    "project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json"
+    "project-control/academic-readiness/5-2-3-cycle56-direct-source-expansion-and-bounded-key-review-2026-10-28.json"
   ]
 }
