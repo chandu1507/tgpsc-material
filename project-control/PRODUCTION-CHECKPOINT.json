@@ -909,8 +909,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle76_partial_rebuild_ci_pdf_and_actual_artifact_verified_not_academically_ready",
-      "notes": "Original 23-page PDF SHA 413f9dccb2974da2fc4c09479603ed2a63fc1a0deb2a4286bac13a1cd770a94b preserved. Cycle76 27-page integrated PDF SHA a7f9541f6427fb621a9ea69c9256a9194bd61f0eeaa12ca097eb5bd728bff7c6 CI-generated and downloaded artifact 12866528612 verified (CRC, SHA, 75 originals, 456 links, 1050 fragments). 3/35 concepts expanded, 32 shallow; 2/30 keys and 6/90 distractors source-checked, six mains length-checked but claims pending. NOT academically approved.",
+      "production_review": "cycle76_partial_source_checked_depth_and_two_mcq_repairs_pdf_pending",
+      "notes": "Original 23-page PDF SHA 413f9dccb2974da2fc4c09479603ed2a63fc1a0deb2a4286bac13a1cd770a94b preserved. Cycle76 source-critical review: 35 concepts; sections 3,11,25 expanded beyond 300 words, 32 still shallow. Two original MCQs rewritten and bounded source-checked, 28 keys/84 distractors pending. Six mains body-only counts 227/216/219/230/213/216, claim audits pending. No post-edit integrated PDF or GitHub artifact certified. NOT academically approved.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-3-3.json"
     },
@@ -921,9 +921,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Original full PDF, Markdown, offline HTML, 30 explained MCQs and six mains answers published; independent academic audit pending.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle77_partial_source_critical_rebuild_ci_publication_pending",
+      "notes": "Original PDF preserved. Eight of 40 shallow concepts expanded with dated sources, 32 remain shallow. Six mains body-only counts 211/211/210/210/211/210. Six MCQ keys and 18 distractors source-checked; CI integrated PDF and actual artifact QA pending. ZERO approvals.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-3-4.json"
     },
     {
@@ -997,8 +997,7 @@
     "independent_review": "pending"
   },
   "last_quality_repair": {
-    "topic_id": "2-1-5",
-    "repair_type": "targeted_gap_filling_mass_movements_partition",
+    "topic_id": "2-1-5",    "repair_type": "targeted_gap_filling_mass_movements_partition",
     "pdf_path": "Paper 2/Unit 1 - Indian History and Culture/Topic 5/source/depth-repair-mass-movements-partition.pdf",
     "original_pdf_unchanged": true,
     "original_pdf_sha256": "b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3",

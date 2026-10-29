@@ -1,0 +1,60 @@
+name: Render Topic 6-3-4 Integrated Student Edition
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 6/Unit 3 - State Formation (1991–2014)/Topic 4/source/complete-notes.md'
+      - 'Paper 6/Unit 3 - State Formation (1991–2014)/Topic 4/source/references.md'
+      - 'Paper 6/Unit 3 - State Formation (1991–2014)/Topic 4/source/complete-model-answers.md'
+      - 'project-control/academic-readiness/6-3-4.json'
+      - 'scripts/publish_topic_6_3_4.py'
+      - 'scripts/render_topic_6_3_4_integrated.py'
+      - '.github/workflows/render-topic-6-3-4-integrated.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-6-3-4-integrated
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install deterministic rendering dependencies
+        run: |
+          python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'pillow>=10,<13' 'beautifulsoup4>=4,<5' 'mistune>=3,<4' 'pymupdf>=1.24,<2'
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-noto-core
+      - name: Guarded nonforce PDF HTML and manifest publication
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          chapter='Paper 6/Unit 3 - State Formation (1991–2014)/Topic 4'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/publish_topic_6_3_4.py
+            git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle77.pdf" 'project-control/academic-readiness/6-3-4-cycle77-ci-render-qa-2026-10-29.json'
+            if git diff --cached --quiet; then
+              echo 'Topic 6-3-4 already synchronized'
+              exit 0
+            fi
+            git commit -m 'CI: synchronize Topic 6-3-4 integrated PDF HTML and manifest'
+            if git push origin HEAD:main; then
+              echo 'Guarded nonforce publication succeeded'
+              exit 0
+            fi
+            echo 'Main advanced; rebuilding from fresh main'
+            sleep 5
+          done
+          echo 'Publication failed without force-push' >&2
+          exit 1
