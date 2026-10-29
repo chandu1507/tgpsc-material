@@ -5,5 +5,8 @@
   "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40853445962/artifacts/12888541117",
   "name": "tgpsc-github-publication-snapshot",
   "recorded_utc": "2026-10-29T09:55:57.381158+00:00",
-  "independently_downloaded_and_qa_verified": false
+  "independently_downloaded_and_qa_verified": true,
+  "qa_evidence": "project-control/academic-readiness/2-2-1-cycle84-actual-downloaded-github-artifact-qa-2026-10-29.json",
+  "qa_scope": "ZIP CRC/SHA/75 original PDFs/75 readiness JSON/links/fragments/topic PDF; NOT academic approval",
+  "qa_verified_date": "2026-10-29"
 }
