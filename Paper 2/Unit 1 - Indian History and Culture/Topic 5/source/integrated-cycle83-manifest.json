@@ -1,0 +1,17 @@
+{
+  "topic_id": "2-1-5",
+  "cycle": 83,
+  "academic_status": "not_approved",
+  "original_pdf_sha256": "b35f6eedbad2bb3b7235bf3ac1d27e0a7ae731b03a4cd33e1f83dde7468d23a3",
+  "integrated_pdf_sha256": "7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c",
+  "integrated_pdf_pages": 23,
+  "sha256": {
+    "integrated-student-master-cycle83.md": "c91aedda8459dc873086c814561665a478dfb12f748aeee37efde01085b077f0",
+    "integrated-student-edition-cycle83.pdf": "7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c",
+    "integrated-student-cycle83.html": "6f972a0a96fea2f566f7980e765ae926b87354c7dda319781f57282871c447a3",
+    "source-register-cycle83.md": "b17fe707bf2e18f59bd5c210ab3182f2d630e6f36f0386a1e072c33f9c3a45fa",
+    "original-explained-mcqs-cycle83.md": "ea99adfc33035a8111424490e811c832a1cd99d18a75e5276871020762cc092a",
+    "six-structured-mains-answers-cycle83.md": "73597dff0ef294353593d58cdf9eb0827e26d32f94ac0675932830c84645d385",
+    "cabinet-mission-architecture-cycle83.svg": "e792c3cfdb99f777fedc4d1965ac4379abb11d9fa3a4f5513a17c060a785c237"
+  }
+}
