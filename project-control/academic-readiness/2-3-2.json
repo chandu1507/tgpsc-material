@@ -149,7 +149,7 @@
     "independent_approvals": 0,
     "pdf_pages": 31,
     "pdf_sha256": "01617c9e3f17d6ee5b54f1ad21e3a6f19907243ab03745f1babc2728134f938c",
-    "artifact_id": "GitHub Actions run 40936365470, artifact 12924997214, actual ZIP downloaded and independently inspected",
+    "artifact_id": 12924997214,
     "post_render_qa": "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json"
   }
 }
