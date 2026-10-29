@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-30",
+  "cycle": 93,
+  "topic_id": "2-3-2",
+  "title": "India: Agriculture, Industry, Population and Urbanisation",
+  "baseline_main_sha": "987a9a2611b2f0d057d4ead6777a4feb76d5a5bc",
+  "original_topic_count": 75,
+  "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+  "source_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+  "audit_method": "Count whitespace-delimited tokens inside each numbered Part C section, including headings and prose. Earlier Turn15 '35/40 below300' used a different tokenisation method; DO NOT claim direct metric equivalence.",
+  "sections_before": 40,
+  "sections_after": 40,
+  "below_300_whitespace_before": 36,
+  "below_300_whitespace_after": 32,
+  "expanded_sections": [
+    {
+      "id": 27,
+      "title": "Human development and population policy",
+      "before": 232,
+      "after": 489
+    },
+    {
+      "id": 28,
+      "title": "Urbanisation and megacities",
+      "before": 220,
+      "after": 473
+    },
+    {
+      "id": 29,
+      "title": "Urban policy and Smart Cities",
+      "before": 209,
+      "after": 429
+    },
+    {
+      "id": 39,
+      "title": "Smart cities: technology as a tool, not a definition",
+      "before": 218,
+      "after": 431
+    }
+  ],
+  "mcq_count": 25,
+  "mcq_keys_present": 25,
+  "mains_count": 6,
+  "mains_unchanged": true,
+  "author_side_mcq_audit": {
+    "ids": [
+      19,
+      21,
+      22,
+      23
+    ],
+    "keys_correlated": 4,
+    "distractors_checked": 12,
+    "rewritten_in_place": [
+      22,
+      23
+    ],
+    "correct_key_positions": {
+      "19": "A",
+      "21": "C",
+      "22": "D",
+      "23": "A"
+    },
+    "claim": "Bounded author-side correlation only; NOT independent question certification",
+    "remaining_independent_audit": "All 25 keys and 100 options still require independent reviewer signoff."
+  },
+  "sources_directly_viewed": [
+    {
+      "id": "S14",
+      "url": "https://ies.gov.in/arthapedia/concept/cities-and-towns",
+      "scope": "2011 statutory/census town and megacity definitions"
+    },
+    {
+      "id": "S15",
+      "url": "https://hdr.undp.org/publication/citation-export/3356",
+      "scope": "HDI geometric mean and dimensions"
+    },
+    {
+      "id": "S15b",
+      "url": "https://hdr.undp.org/sites/default/files/data/2020/hdr2019_technical_notes.pdf",
+      "scope": "HDI technical indicators, historical edition"
+    },
+    {
+      "id": "S16",
+      "url": "https://www.mohua.gov.in/pdf/58fd958bc7ed75821af4818704SCP_Template.pdf",
+      "scope": "Smart City area-based proposal design, not impact evaluation"
+    },
+    {
+      "id": "S17",
+      "url": "https://www.nudm.mohua.gov.in/what-is-nudm/",
+      "scope": "NUDM standards and digital infrastructure objectives"
+    },
+    {
+      "id": "S18",
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/368/download/1120/DH_2011_3001_PART_A_DCHB_NORTH_GOA.pdf",
+      "scope": "Population density definition in original Census district handbook"
+    }
+  ],
+  "limitations": [
+    "R2 editorial deduplication incomplete",
+    "32/40 Part C sections below300 under whitespace method; qualitative R3 not passed",
+    "Most claim-level R4 review outstanding",
+    "MCQ independent audit not complete",
+    "Six mains claim-level checks outstanding",
+    "Diagrams not independently reviewed",
+    "CI PDF render, actual downloaded artifact integrity and browser/accessibility QA pending until separately performed"
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0,
+  "originals_preserved": true,
+  "new_topic_created": false
+}
