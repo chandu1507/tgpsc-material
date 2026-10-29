@@ -9,7 +9,7 @@
     "last_reported_topic": "2-3-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle96 Topic 2-3-4 4 source-bounded expansions, 3 MCQ keys/9 distractors author-side; 23-page PDF and actual artifact 12936461515 downloaded CRC/SHA/75 original/links PASS. R1–R8 incomplete, approvals ZERO."
+    "note": "Cycle97 2-3-4 seven core concepts expanded, all 15 >=300 words; academic gates incomplete, CI/downloaded artifact QA pending, approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -178,11 +178,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle96_four_concepts_expanded_three_mcqs_bounded_source_checked_ci_pending",
-      "notes": "Cycle96: sections 1/2/3/14 expanded to 451/444/441/466 whitespace words; 7/15 shallow. Three original MCQ keys and nine distractors author-side checked against institutional evidence; not independently approved. Deterministic CI PDF and actual artifact verification pending. Original PDF must remain unchanged.",
+      "production_review": "cycle97_seven_core_concepts_expanded_source_bounded_ci_qa_pending",
+      "notes": "Cycle97: 7 core sections (7/8/10/11/12/13/15) expanded in place, all 15 >=300 whitespace words (not qualitative R3 PASS), direct institutional source register T97-S1..S15. CI PDF and actual downloaded post-edit artifact QA pending; 25 MCQ keys/75 distractors, six mains, diagrams, full-page depth and browser QA incomplete. Original PDF preserved; no academic approval.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-4.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/2-3-4-cycle97-seven-core-concept-expansions-2026-10-30.json"
     },
     {
       "id": "2-3-5",
