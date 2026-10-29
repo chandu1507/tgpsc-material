@@ -24,10 +24,13 @@
     "R5": "IN_PROGRESS",
     "R6": "BLOCKED",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/6-3-2-cycle75-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
-  "next_action": "Expand remaining 44 concepts, independently audit all 30 MCQ keys and 90 distractors and six mains, validate sources and diagrams, render deterministic synchronized PDF, download actual post-edit Actions artifact and complete browser QA.",
+  "evidence": [
+    "project-control/academic-readiness/6-3-2-cycle75-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
+    "project-control/academic-readiness/6-3-2-cycle75-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
+  ],
+  "next_action": "Expand remaining 44 concepts, independently verify 30 MCQ keys/90 distractors and six mains, validate diagrams and primary sources, complete full-page layout and direct browser/accessibility QA. R9 requires named expert only after R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle75": {
@@ -42,7 +45,13 @@
       204,
       206
     ],
-    "new_integrated_pdf_rendered": false,
-    "academic_approved": false
+    "new_integrated_pdf_rendered": true,
+    "academic_approved": false,
+    "integrated_pdf_pages": 26,
+    "integrated_pdf_sha256": "a589c83ac406136cb4a0f52800ce88323f8ab07f67e194f26513603b9a811d76",
+    "actual_post_ci_artifact_verified": true,
+    "artifact_id": 12864841269,
+    "browser_accessibility_certified": false,
+    "full_page_per_concept_met": false
   }
 }
