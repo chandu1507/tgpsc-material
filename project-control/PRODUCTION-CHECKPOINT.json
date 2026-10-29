@@ -909,9 +909,9 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "structural_and_visual_checks_passed_academic_audit_pending",
-      "notes": "Original 10,509-word English Markdown, 23-page full PDF, 35 substantive explanatory sections, six applied cases, 30 original explained MCQs, six 200–250-word structured mains answers, three diagrams; exact syllabus wording directly authenticated from Notification 02/2024; historical evidence gaps disclosed.",
-      "readiness_status": "NOT_ASSESSED",
+      "production_review": "cycle76_partial_source_checked_depth_and_two_mcq_repairs_pdf_pending",
+      "notes": "Original 23-page PDF SHA 413f9dccb2974da2fc4c09479603ed2a63fc1a0deb2a4286bac13a1cd770a94b preserved. Cycle76 source-critical review: 35 concepts; sections 3,11,25 expanded beyond 300 words, 32 still shallow. Two original MCQs rewritten and bounded source-checked, 28 keys/84 distractors pending. Six mains body-only counts 227/216/219/230/213/216, claim audits pending. No post-edit integrated PDF or GitHub artifact certified. NOT academically approved.",
+      "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/6-3-3.json"
     },
     {

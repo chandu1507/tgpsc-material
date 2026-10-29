@@ -1,8 +1,8 @@
 {
   "topic_id": "6-3-3",
   "title": "Role of Political Parties, Dalit-Bahujan Sanghams, JACs and Popular Protests",
-  "date": "2026-10-26",
-  "status": "NOT_ASSESSED",
+  "date": "2026-10-29",
+  "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
   "published_draft_pdf": true,
@@ -17,17 +17,17 @@
     "supplement_md_count": 0
   },
   "gate_status": {
-    "R1": "NOT_STARTED",
-    "R2": "NOT_STARTED",
-    "R3": "NOT_STARTED",
-    "R4": "NOT_STARTED",
-    "R5": "NOT_STARTED",
-    "R6": "NOT_STARTED",
-    "R7": "NOT_STARTED",
-    "R8": "NOT_STARTED"
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED"
   },
-  "evidence": "No individual R1–R8 evidence-based readiness assessment performed; inventory metrics do not establish content correctness or depth.",
-  "next_action": "Inspect actual source files and syllabus, consolidate, deepen, source-check, validate questions and final integrated PDF.",
+  "evidence": "Cycle76 direct audit: 35 concepts, 3 source-checked expansions >=300 words, 32 still shallow; 30 original MCQs, 2 legal keys and 6 distractors checked, 28 keys and 84 distractors pending; six mains body-only counts 227/216/219/230/213/216, claims pending. Original 23-page PDF preserved. NO synchronized post-edit CI PDF/artifact. See project-control/academic-readiness/6-3-3-cycle76-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
+  "next_action": "Render synchronized PDF and offline HTML through CI, download actual packaging artifact and validate SHA/CRC/75 originals; deepen 32 shallow concepts, verify 28 remaining MCQ keys and 84 distractors and all six mains claims.",
   "external_reviewer": null,
   "student_accepted": false
 }

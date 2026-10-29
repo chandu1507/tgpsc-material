@@ -1,0 +1,251 @@
+{
+  "cycle": 76,
+  "review_date": "2026-10-29",
+  "topic_id": "6-3-3",
+  "baseline_main": "6c3230ce90f5e6823d31ce02e4338db8b7180da3",
+  "scope": "direct source assessment and bounded substantive repair; NOT a completed chapter rebuild",
+  "original_pdf": {
+    "pages": 23,
+    "sha256": "413f9dccb2974da2fc4c09479603ed2a63fc1a0deb2a4286bac13a1cd770a94b",
+    "preserved_in_local_cycle75_baseline": true,
+    "post_edit_publication_artifact_verified": false
+  },
+  "archive_baseline": {
+    "artifact_id": 12865280415,
+    "outer_and_inner_crc": "PASS_LOCAL_RECHECK",
+    "packaged_files": 1836,
+    "original_topic_pdfs": 75,
+    "readiness_json": 75,
+    "notice": "Cycle75 archive predates Cycle76 edits and DOES NOT certify them"
+  },
+  "concepts": {
+    "total": 35,
+    "initial_below_300": 35,
+    "expanded_sections": [
+      3,
+      11,
+      25
+    ],
+    "section_word_counts": [
+      {
+        "section": 1,
+        "words": 211
+      },
+      {
+        "section": 2,
+        "words": 169
+      },
+      {
+        "section": 3,
+        "words": 406
+      },
+      {
+        "section": 4,
+        "words": 167
+      },
+      {
+        "section": 5,
+        "words": 164
+      },
+      {
+        "section": 6,
+        "words": 161
+      },
+      {
+        "section": 7,
+        "words": 161
+      },
+      {
+        "section": 8,
+        "words": 166
+      },
+      {
+        "section": 9,
+        "words": 160
+      },
+      {
+        "section": 10,
+        "words": 159
+      },
+      {
+        "section": 11,
+        "words": 392
+      },
+      {
+        "section": 12,
+        "words": 163
+      },
+      {
+        "section": 13,
+        "words": 167
+      },
+      {
+        "section": 14,
+        "words": 158
+      },
+      {
+        "section": 15,
+        "words": 161
+      },
+      {
+        "section": 16,
+        "words": 161
+      },
+      {
+        "section": 17,
+        "words": 164
+      },
+      {
+        "section": 18,
+        "words": 161
+      },
+      {
+        "section": 19,
+        "words": 165
+      },
+      {
+        "section": 20,
+        "words": 151
+      },
+      {
+        "section": 21,
+        "words": 152
+      },
+      {
+        "section": 22,
+        "words": 167
+      },
+      {
+        "section": 23,
+        "words": 155
+      },
+      {
+        "section": 24,
+        "words": 165
+      },
+      {
+        "section": 25,
+        "words": 386
+      },
+      {
+        "section": 26,
+        "words": 153
+      },
+      {
+        "section": 27,
+        "words": 157
+      },
+      {
+        "section": 28,
+        "words": 166
+      },
+      {
+        "section": 29,
+        "words": 164
+      },
+      {
+        "section": 30,
+        "words": 153
+      },
+      {
+        "section": 31,
+        "words": 152
+      },
+      {
+        "section": 32,
+        "words": 150
+      },
+      {
+        "section": 33,
+        "words": 147
+      },
+      {
+        "section": 34,
+        "words": 152
+      },
+      {
+        "section": 35,
+        "words": 167
+      }
+    ],
+    "remaining_below_300": 32,
+    "full_page_per_concept_met": false
+  },
+  "practice": {
+    "type": "original practice; not official PYQs",
+    "total": 30,
+    "four_option_count": 30,
+    "answer_distribution": {
+      "A": 5,
+      "B": 12,
+      "C": 11,
+      "D": 2
+    },
+    "rewritten_questions": [
+      1,
+      29
+    ],
+    "source_checked_keys": [
+      1,
+      29
+    ],
+    "source_checked_distractors": 6,
+    "unverified_keys": 28,
+    "unverified_distractors": 84,
+    "all_25_or_30_official_PYQs_verified": false
+  },
+  "mains": {
+    "total": 6,
+    "body_only_word_counts": [
+      227,
+      216,
+      219,
+      230,
+      213,
+      216
+    ],
+    "method": "Unicode alphanumeric word tokens in six standalone model answers; excludes Markdown headings, question stems and title; includes substantive answer body and example sentences",
+    "all_within_200_250": true,
+    "claim_level_source_review_complete": false
+  },
+  "sources": [
+    {
+      "id": "R15",
+      "type": "official primary legal text",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "checked": "official PDF opened; Article 3/4 legal distinctions"
+    },
+    {
+      "id": "R16",
+      "type": "official primary act index",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6E.pdf",
+      "checked": "official indexed text; direct PDF open timed out; NOT full PDF consultation"
+    },
+    {
+      "id": "R17",
+      "type": "contemporary press",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2012/Dec/12/nine-parties-invited-for-telangana-meet-433297.html",
+      "checked": "article directly opened; 12 Dec invitation-stage positions"
+    },
+    {
+      "id": "R18",
+      "type": "contemporary press",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2011/Sep/12/telangana-in-strike-mode-for-sakalajanula-samme-290124.html",
+      "checked": "article directly opened; planned district-specific participation and costs"
+    }
+  ],
+  "unverified": "Signed all-party minutes, TDP letters, JAC membership rolls, audited strike losses, 30 full MCQ keys/distractors, six mains claim sets, diagram factual accuracy, direct browser accessibility, fresh commission-hosted syllabus reauthentication",
+  "readiness": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED",
+    "academic_approvals": 0
+  },
+  "next": "Render synchronized CI PDF and offline HTML from revised editable master, verify downloaded Actions artifact CRC/SHA/75 original PDF preservation; deepen remaining 32 concepts; audit 28 keys/84 distractors and six mains claim sets."
+}

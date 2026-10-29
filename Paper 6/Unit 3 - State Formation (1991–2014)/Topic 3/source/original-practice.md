@@ -1,13 +1,13 @@
 # Thirty original explained MCQs (NOT official TGPSC PYQs)
 
-## MCQ 1. Which institution has constitutional power to form a new Indian state?
+## MCQ 1. Which institution can enact a law forming a new Indian state under Article 3?
 
-- A political JAC
-- A party state committee
-- Parliament under Article 3
-- A university senate
+- The affected State Legislature by a binding resolution
+- The President by notification without parliamentary legislation
+- Parliament, following the Article 3 procedure
+- The Union Cabinet without a parliamentary Bill
 
-**Answer: C.** A statehood movement can influence the agenda, but Parliament enacts state reorganisation under Article 3.
+**Answer: C.** Article 3 gives Parliament lawmaking power; the President's recommendation and reference for the State Legislature's views are procedural steps, not alternative state-creating authorities (R15).
 
 ## MCQ 2. The defining political objective of TRS when established in 2001 was:
 
@@ -252,14 +252,14 @@
 
 **Answer: B.** Their dispute concerned movement methods and autonomy, not necessarily the central statehood objective.
 
-## MCQ 29. The 2014 Andhra Pradesh Reorganisation Act should be distinguished from:
+## MCQ 29. Which event supplied the statutory basis for Telangana's formation, with 2 June 2014 later fixed as the appointed day?
 
-- A law of Parliament
-- A political JAC demand or a ministerial announcement
-- A Gazette notification
-- The Constitution
+- Adoption of a Telangana political JAC resolution
+- Enactment of the Andhra Pradesh Reorganisation Act, 2014
+- Publication of a political party's statehood letter
+- A Union minister's announcement without legislation
 
-**Answer: B.** Demands and announcements can influence lawmaking but do not themselves establish a state.
+**Answer: B.** Parliament enacted the Reorganisation Act, assented to on 1 March 2014; the 4 March notification fixed 2 June as the appointed day. Political resolutions, letters and statements were not substitutes for the Act (R16).
 
 ## MCQ 30. A balanced conclusion about Telangana’s creation is:
 
