@@ -35,9 +35,10 @@
     "project-control/academic-readiness/2-3-4-turn19-corrected-pdf-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-4-cycle96-rainfed-drought-tribal-depth-and-mcq-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/2-3-4-cycle97-seven-core-concept-expansions-2026-10-30.json"
+    "project-control/academic-readiness/2-3-4-cycle97-seven-core-concept-expansions-2026-10-30.json",
+    "project-control/academic-readiness/2-3-4-cycle97-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Cycle97 seven source-bounded core expansions; all 15 numbered core sections >=300 whitespace words, R3 IN_PROGRESS pending qualitative depth/full-page-per-concept/deduplication. CI and downloaded artifact QA pending; MCQ/mains/diagrams/browser and expert approval incomplete.",
+  "next_action": "Cycle97 all 15 core sections >=300 whitespace words; 28-page synchronized CI PDF and downloaded artifact 12940470131 SHA/CRC/75 originals/75 readiness JSON/597 links/1050 fragments verified. R3/R8 IN_PROGRESS, not PASS. Independent 25 MCQ keys/75 distractors and six mains, original diagrams, qualitative depth, deduplication, browser/accessibility and independent academic review pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -150,6 +151,11 @@
       13,
       15
     ],
-    "cycle97_render_status": "PENDING_CI_AND_ACTUAL_ARTIFACT_QA"
+    "cycle97_render_status": "CI_28P_AND_ACTUAL_ARTIFACT_SHA_CRC_75_LINKS_VERIFIED",
+    "cycle97_integrated_pdf_sha256": "a79623fc56e1dcd178c83e5632572bec24f29cbb8cc18fc97fe9e17bda684560",
+    "cycle97_integrated_pdf_pages": 28,
+    "cycle97_artifact_id": 12940470131,
+    "cycle97_packaging_run": 40969654074,
+    "cycle97_actual_artifact_qa": "project-control/academic-readiness/2-3-4-cycle97-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   }
 }
