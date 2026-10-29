@@ -81,7 +81,7 @@ while i<len(tokens):
  if t.type=='heading_open':
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
-    if tag=='h1' and inl.content.startswith('Telangana Physical Geography:'):story.append(PageBreak())
+    if tag=='h2' and ('Part B' in inl.content or 'Part C' in inl.content):story.append(PageBreak())
     if tag=='h2' and re.match(r'^(?:[2-9]|1[0-4])\. ',inl.content):story.append(PageBreak())
     if tag=='h2' and ('Part D' in inl.content or 'Part F' in inl.content):story.append(PageBreak())
     story.append(Paragraph(val,styles[key]));i+=3;continue
