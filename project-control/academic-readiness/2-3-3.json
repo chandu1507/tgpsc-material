@@ -30,9 +30,10 @@
     "project-control/academic-readiness/2-3-3-objective-gap-assessment-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-primary-claim-and-hydrology-audit-2026-10-26.json",
     "project-control/academic-readiness/2-3-3-render-qa.json",
-    "project-control/academic-readiness/2-3-3-turn18-downloaded-artifact-integrity-qa-2026-10-26.json"
+    "project-control/academic-readiness/2-3-3-turn18-downloaded-artifact-integrity-qa-2026-10-26.json",
+    "project-control/academic-readiness/2-3-3-cycle95-wii-sccl-ntpc-hydropower-depth-audit-2026-10-30.json"
   ],
-  "next_action": "R8 artifact SHA/CRC/75-slot/link preflight passed; fix sparse page17 and complete full-resolution accessibility and public-browser QA; R1–R7 academic gates remain incomplete. No R9.",
+  "next_action": "Cycle95 five sections 9-13 expanded with WII/SCCL/NTPC/DOE source-limited correspondence; 14-section whitespace recount 13→8 under300. MCQs/mains unchanged. Post-merge CI PDF, actual downloaded artifact and full R1-R8 independent verification pending; no R9 or approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_source_gap": {
@@ -76,5 +77,23 @@
     "mcq_keys_source_correlated": 13,
     "post_render_artifact_id": 12666696387,
     "post_render_publication_run_id": 40357743468
+  },
+  "cycle95_2026_10_30": {
+    "status": "PARTIAL_SUBSTANTIVE_REBUILD_NOT_APPROVED",
+    "evidence": "project-control/academic-readiness/2-3-3-cycle95-wii-sccl-ntpc-hydropower-depth-audit-2026-10-30.json",
+    "expanded_sections": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "concepts_total": 14,
+    "concepts_under_300_after": 8,
+    "original_mcqs": 25,
+    "original_mains": 6,
+    "full_mcq_mains_claim_audit": false,
+    "ci_pdf_post_edit_verified": false,
+    "actual_artifact_downloaded": false
   }
 }
