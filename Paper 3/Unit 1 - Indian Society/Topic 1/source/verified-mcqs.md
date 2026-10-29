@@ -4,14 +4,14 @@
 
 # Original topic MCQs — not official TGPSC PYQs
 
-## 1. What is the most accurate relationship between family and household?
+## 1. Under the Census household definition, which inference best distinguishes a household from a wider family network?
 
-- **A.** They must always contain identical members
-- **B.** A family can span more than one household
-- **C.** Only blood relatives can form a household
-- **D.** Joint family and nuclear family are legal categories
+- **A.** All relatives at one postal address necessarily form one Census household, even if they maintain separate kitchens.
+- **B.** A family can span multiple households, while unrelated co-residents who normally share a kitchen may constitute one household.
+- **C.** A Census household must contain at least one married couple, even when a person lives alone.
+- **D.** Two people with the same surname must be enumerated as one household even across separate residences.
 
-**Correct: B.** Family is a kin/care network; residential arrangements may be dispersed, and households can include unrelated people.
+**Correct: B.** Census 2011 uses normal co-residence and a common kitchen, with specified exceptions; kinship can span residences. A ignores separate kitchens; C excludes one-person households; D confuses surname with enumeration. **Evidence:** ORGI *District Census Handbook, Wayanad, Census 2011* household definitions (official indexed PDF); NCERT *Indian Society* Ch.3 §3.3 (SATHEE indexed text). **Limit:** Full Census PDF could not be opened in this cycle. **Type:** original practice, not official PYQ.
 
 ## 2. Which thinker is strongly associated with the 'dominant caste' concept?
 
@@ -40,14 +40,14 @@
 
 **Correct: C.** Matriliny describes descent rules; authority and power require separate study.
 
-## 5. Caste endogamy and lineage exogamy can:
+## 5. A community ordinarily expects marriage within the jati but prohibits marriage within one's gotra. Which analysis is most precise?
 
-- **A.** Never coexist
-- **B.** Coexist because they apply to different marriage boundaries
-- **C.** Occur only in urban settings
-- **D.** Have identical definitions
+- **A.** Jati exogamy and gotra endogamy operate together.
+- **B.** Jati endogamy and gotra exogamy regulate different boundaries of the same marriage decision.
+- **C.** Both rules are endogamy because the spouses belong to one society.
+- **D.** These rules are necessarily inconsistent and cannot coexist.
 
-**Correct: B.** A community may prescribe marriage within a caste while forbidding unions within a particular lineage or gotra.
+**Correct: B.** Endogamy is within a specified unit; exogamy is outside a specified unit. A reverses the levels; C erases the exogamy distinction; D ignores different group boundaries. This pattern is context-specific, not a universal rule for all communities. **Evidence:** IGNOU *Kinship, Family and Marriage in India*, Unit 6 §6.5.1 (indexed university PDF); NCERT *Themes in Indian History* Ch.3 marriage rules (SATHEE indexed). **Limit:** Full IGNOU PDF timed out. **Type:** original practice, not official PYQ.
 
 ## 6. Which source is most appropriate for the reference-year distribution of reported mother tongues?
 
@@ -58,14 +58,14 @@
 
 **Correct: A.** C-16 is an official classification by mother tongue; it does not establish present-day proficiency or new 2026 counts.
 
-## 7. Which statement best expresses the rural–urban continuum?
+## 7. Workers commute from a village to a nearby city while maintaining village kinship, land and market ties. Which interpretation fits the rural–urban continuum?
 
-- **A.** All villages gradually become identical cities
-- **B.** Villages and cities are linked by gradations of work, migration and services
-- **C.** Urban residents have no kinship relations
-- **D.** Agriculture exists only outside cities
+- **A.** The village is legally an urban municipality as soon as commuting begins.
+- **B.** Rural and urban social forms overlap and interact through mobility, livelihoods and institutions without becoming identical.
+- **C.** Settlement classifications become unnecessary for every administrative purpose.
+- **D.** Migration must immediately end caste and extended-family ties in the city.
 
-**Correct: B.** Functional social and economic linkages cut across administrative settlement categories.
+**Correct: B.** The continuum models gradations and interaction, not automatic municipal reclassification. A invents a legal consequence; C overextends the model; D assumes ties vanish on migration. **Evidence:** IGNOU *Rural–Urban Continuum*, Unit 4 (2017), and *Rural–Urban Linkages*, Unit 4 (2023), indexed university texts. **Limit:** Full PDFs timed out; source correspondence uses indexed excerpts and catalogues. **Type:** original practice, not official PYQ.
 
 ## 8. What is 'multiculturalism' in the stronger institutional sense?
 
@@ -76,14 +76,14 @@
 
 **Correct: B.** Multiculturalism concerns recognition and equitable participation, not simply visibility or forced uniformity.
 
-## 9. Which pairing is accurate?
+## 9. Which author–research association is correctly matched?
 
-- **A.** Karve — regional kinship studies
-- **B.** Béteille — discovery of the Indus script
-- **C.** Wirth — abolition of Article 17
-- **D.** Srinivas — Bengal Permanent Settlement
+- **A.** Irawati Karve — comparative regional patterns of Indian kinship.
+- **B.** M. N. Srinivas — authorship of *Caste, Class and Power*.
+- **C.** André Béteille — introduction of Sanskritisation.
+- **D.** Louis Wirth — authorship of *Kinship Organisation in India*.
 
-**Correct: A.** Irawati Karve's scholarship focused on kinship organisation and its regional variation.
+**Correct: A.** Karve's 1953 *Kinship Organisation in India* has northern, central and southern regional sections. B attributes Béteille's work to Srinivas; C attributes Srinivas's concept to Béteille; D attributes Karve's book to Wirth. **Evidence:** Google Books, Deccan College 1953 bibliographic record and visible table of contents; NCERT *Indian Society* Ch.3 (SATHEE indexed text). **Limit:** The complete 1953 monograph was not consulted. **Type:** original practice, not official PYQ.
 
 ## 10. What was Telangana's SEEEPC survey, according to the Centre for Good Governance?
 

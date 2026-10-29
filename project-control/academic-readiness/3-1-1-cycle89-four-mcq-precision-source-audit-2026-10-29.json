@@ -1,0 +1,58 @@
+{
+  "cycle": 89,
+  "date": "2026-10-29",
+  "topic_id": "3-1-1",
+  "baseline_main": "d7b6a138026f6402d2bffa604277ece07a1ec6cd",
+  "original_topics": 75,
+  "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "scope": "Four original MCQs 1,5,7,9 rewritten in place, keys B/B/B/A, 16 option findings. Source correlation author-side and heterogeneous, NOT independent approval or official PYQs.",
+  "items": [
+    {
+      "q": 1,
+      "key": "B",
+      "A": "wrong: postal address alone not household; common kitchen",
+      "B": "supported: separate family residences and unrelated common-kitchen co-residents",
+      "C": "wrong: one-person household allowed",
+      "D": "wrong: surname not Census criterion",
+      "source": "https://www.censusindia.gov.in/nada/index.php/catalog/668/download/2320/DH_2011_3203_PART_A_DCHB_WAYANAD.pdf",
+      "access": "indexed official PDF, direct open unsupported"
+    },
+    {
+      "q": 5,
+      "key": "B",
+      "A": "wrong: reversed group rules",
+      "B": "supported: endogamy within jati, exogamy outside gotra",
+      "C": "wrong: exogamy not endogamy",
+      "D": "wrong: group levels differ",
+      "source": "https://www.egyankosh.ac.in/bitstream/123456789/79050/1/Unit-6.pdf",
+      "access": "indexed university excerpt, full PDF timeout"
+    },
+    {
+      "q": 7,
+      "key": "B",
+      "A": "wrong: commuting not legal reclassification",
+      "B": "supported: overlap and interaction",
+      "C": "wrong: administrative classifications remain relevant",
+      "D": "wrong: social ties may persist",
+      "source": "https://egyankosh.ac.in/handle/123456789/27590",
+      "access": "indexed university source; full PDF timeout"
+    },
+    {
+      "q": 9,
+      "key": "A",
+      "A": "supported: Karve 1953 book regional chapters",
+      "B": "wrong: Caste Class and Power is Béteille, not Srinivas",
+      "C": "wrong: Sanskritisation associated with Srinivas",
+      "D": "wrong: Karve authored book, not Wirth",
+      "source": "https://books.google.com/books?id=Jp6AAAAAMAAJ",
+      "access": "bibliographic page and contents directly viewed; original book not read"
+    }
+  ],
+  "verified_original_mcq_count": 25,
+  "independent_full_mcq_audit_complete": false,
+  "independent_mains_claim_audit_complete": false,
+  "official_pyqs_authenticated": 0,
+  "independent_approvals": 0,
+  "gate_status": "R1 PASS; R2-R8 IN_PROGRESS; R9 NOT_STARTED",
+  "next": "CI PDF render, actual GitHub artifact download, CRC/SHA/75-original QA, browser accessibility and independent academic review"
+}
