@@ -1,12 +1,9 @@
 {
-  "run_id": 40853445962,
-  "artifact_id": 12888541117,
-  "artifact_digest": "120399e280de92784d52ae7a5a5e8c287bbe5c5e389237cfa4c3a755a0978de3",
-  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40853445962/artifacts/12888541117",
+  "run_id": 40853851901,
+  "artifact_id": 12887808660,
+  "artifact_digest": "c97e6247011d40edd9192d893cf8ed90bd0105852aca76972f93f0ac73677a70",
+  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40853851901/artifacts/12887808660",
   "name": "tgpsc-github-publication-snapshot",
-  "recorded_utc": "2026-10-29T09:55:57.381158+00:00",
-  "independently_downloaded_and_qa_verified": true,
-  "qa_evidence": "project-control/academic-readiness/2-2-1-cycle84-actual-downloaded-github-artifact-qa-2026-10-29.json",
-  "qa_scope": "ZIP CRC/SHA/75 original PDFs/75 readiness JSON/links/fragments/topic PDF; NOT academic approval",
-  "qa_verified_date": "2026-10-29"
+  "recorded_utc": "2026-10-29T09:59:09.495885+00:00",
+  "independently_downloaded_and_qa_verified": false
 }
