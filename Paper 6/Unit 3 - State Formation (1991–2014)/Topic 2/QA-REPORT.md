@@ -1,0 +1,229 @@
+# Cycle75 Topic 6-3-2 deterministic publication QA
+
+{
+  "cycle": 74,
+  "topic_id": "6-3-2",
+  "original_pdf_sha256": "9188ab1d4092d564a3f2712353cc1d2d8c99a9114de5dff00eca07a55ecdea65",
+  "integrated_pdf_sha256": "a589c83ac406136cb4a0f52800ce88323f8ab07f67e194f26513603b9a811d76",
+  "integrated_pdf_pages": 26,
+  "concept_count": 47,
+  "concept_word_counts": [
+    {
+      "section": 1,
+      "words": 201
+    },
+    {
+      "section": 2,
+      "words": 186
+    },
+    {
+      "section": 3,
+      "words": 167
+    },
+    {
+      "section": 4,
+      "words": 164
+    },
+    {
+      "section": 5,
+      "words": 167
+    },
+    {
+      "section": 6,
+      "words": 158
+    },
+    {
+      "section": 7,
+      "words": 171
+    },
+    {
+      "section": 8,
+      "words": 169
+    },
+    {
+      "section": 9,
+      "words": 160
+    },
+    {
+      "section": 10,
+      "words": 175
+    },
+    {
+      "section": 11,
+      "words": 154
+    },
+    {
+      "section": 12,
+      "words": 164
+    },
+    {
+      "section": 13,
+      "words": 170
+    },
+    {
+      "section": 14,
+      "words": 162
+    },
+    {
+      "section": 15,
+      "words": 155
+    },
+    {
+      "section": 16,
+      "words": 161
+    },
+    {
+      "section": 17,
+      "words": 166
+    },
+    {
+      "section": 18,
+      "words": 167
+    },
+    {
+      "section": 19,
+      "words": 157
+    },
+    {
+      "section": 20,
+      "words": 169
+    },
+    {
+      "section": 21,
+      "words": 171
+    },
+    {
+      "section": 22,
+      "words": 337
+    },
+    {
+      "section": 23,
+      "words": 166
+    },
+    {
+      "section": 24,
+      "words": 162
+    },
+    {
+      "section": 25,
+      "words": 146
+    },
+    {
+      "section": 26,
+      "words": 156
+    },
+    {
+      "section": 27,
+      "words": 157
+    },
+    {
+      "section": 28,
+      "words": 147
+    },
+    {
+      "section": 29,
+      "words": 161
+    },
+    {
+      "section": 30,
+      "words": 372
+    },
+    {
+      "section": 31,
+      "words": 378
+    },
+    {
+      "section": 32,
+      "words": 147
+    },
+    {
+      "section": 33,
+      "words": 158
+    },
+    {
+      "section": 34,
+      "words": 157
+    },
+    {
+      "section": 35,
+      "words": 158
+    },
+    {
+      "section": 36,
+      "words": 151
+    },
+    {
+      "section": 37,
+      "words": 143
+    },
+    {
+      "section": 38,
+      "words": 153
+    },
+    {
+      "section": 39,
+      "words": 159
+    },
+    {
+      "section": 40,
+      "words": 158
+    },
+    {
+      "section": 41,
+      "words": 159
+    },
+    {
+      "section": 42,
+      "words": 152
+    },
+    {
+      "section": 43,
+      "words": 144
+    },
+    {
+      "section": 44,
+      "words": 153
+    },
+    {
+      "section": 45,
+      "words": 139
+    },
+    {
+      "section": 46,
+      "words": 150
+    },
+    {
+      "section": 47,
+      "words": 150
+    }
+  ],
+  "concepts_below_300": 44,
+  "mcq_count": 30,
+  "key_distribution": {
+    "A": 8,
+    "B": 8,
+    "C": 7,
+    "D": 7
+  },
+  "mains_body_only_counts": [
+    202,
+    208,
+    212,
+    213,
+    204,
+    206
+  ],
+  "embedded_images": 3,
+  "blank_pages": [],
+  "out_of_bounds_pages": [],
+  "local_links_checked": 7,
+  "broken_links": [],
+  "all_75_original_pdf_files_present": true,
+  "full_page_per_concept_met": false,
+  "independent_keys_verified": 0,
+  "independent_distractors_verified": 0,
+  "mains_claim_level_review_complete": false,
+  "browser_accessibility_certified": false,
+  "R8": "IN_PROGRESS_PENDING_DOWNLOADED_ARTIFACT_QA",
+  "independent_academic_approvals": 0
+}
