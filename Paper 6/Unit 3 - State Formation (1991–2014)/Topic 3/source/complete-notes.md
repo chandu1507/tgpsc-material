@@ -74,6 +74,12 @@ Article 3 of the Constitution places the power to form a new state with Parliame
 
 The boundary helps assess political claims. Parties could promise to support a bill, mobilise MPs, negotiate transitional arrangements or raise questions about Hyderabad. They could not make a state by passing a party resolution. Likewise, a JAC could coordinate agitation and sustain accountability but could not replace elected legislatures. A constitutional answer should distinguish popular legitimacy, executive agenda-setting, parliamentary competence and administrative implementation rather than treating them as interchangeable.
 
+### Constitutional procedure and the 2014 implementation sequence (source-checked, Cycle 76)
+
+The proviso to Article 3 imposes two procedural safeguards that must not be confused with a state legislature's veto. A Bill affecting an existing state's territory, boundaries or name requires the President's recommendation for introduction, and the proposal must be referred to the affected state legislature for its views within the specified or extended period. The legislature expresses views; its approval is not a constitutional condition for Parliament's exercise of the power. Article 4 permits consequential changes to the First and Fourth Schedules and related arrangements through the reorganisation law, without treating that law as an Article 368 constitutional amendment. This is a distinction between **consultation**, **legislative competence**, and **political consent**, not an argument that regional objections were irrelevant.
+
+The Andhra Pradesh Reorganisation Act received assent on 1 March 2014. Section 2(a) left the *appointed day* to a subsequent Central Government notification. Notification S.O. 655(E), dated 4 March 2014, fixed 2 June 2014. Therefore, an answer that equates assent on 1 March, the notification on 4 March, and actual formation on 2 June collapses three legally different events. A Telangana party letter or JAC demand had political significance but no independent state-creating force. For a mains answer, show the causal chain: mobilisation and bargaining → Union decision to introduce legislation → parliamentary enactment → notification and administrative transition. Sources R15–R16; the original signed parliamentary proceedings have not been separately audited here.
+
 ## 4. TRS: a statehood-centred electoral vehicle
 
 The Telangana Rashtra Samithi (TRS), founded by K. Chandrashekar Rao in 2001, made a separate Telangana its defining political objective. It organised candidates and campaigns, entered alliances and carried the issue into legislatures and national coalition negotiations. During the 2009–13 mobilisation, TRS leaders participated in public protests and used parliamentary interventions to signal that the demand was not merely local. Its electoral role mattered because central parties had to calculate whether delay could affect seats and coalition stability.
@@ -121,6 +127,12 @@ Hyderabad was simultaneously a historic city, a shared economic centre under uni
 A December 2012 snapshot is useful precisely because it is dated. Contemporary reports summarised BJP, CPI, TRS and TDP as favouring Telangana; Congress as divided; CPI(M) as favouring unity; and AIMIM as favouring unity with a conditional Rayala-Telangana alternative. This table must not be projected backward to 2001 or forward unchanged to the final parliamentary vote. Party leadership changed, constituencies evolved, and the 2013 Union decision reshaped incentives.
 
 A rigorous comparison needs four columns: stated position, source date, institutional leverage and internal constraints. TRS had regional electoral mobilisation; Congress had Union executive responsibility; BJP had opposition leverage; TDP faced cross-regional splits; CPI and CPI(M) reflected distinct left analyses; AIMIM foregrounded Hyderabad. The analytical value lies in the relation between position and capacity. Supporting a cause did not guarantee that a party could implement it, while resisting one boundary did not preclude advocating protections under another arrangement.
+
+### Two December snapshots, and why their apparent disagreement matters (source-checked, Cycle 76)
+
+A contemporary report dated 12 December 2012 described the Union Home Ministry's invitations for the 28 December all-party meeting. It listed nine invited parties, including Congress, TDP, YSR Congress, TRS, BJP, CPI, CPI(M), MIM and Lok Satta. At that **invitation stage**, the report described Congress, TDP, YSR Congress and Lok Satta as not having clear positions, while TRS, BJP and CPI demanded separation and CPI(M) and MIM opposed it. This is a report about the position as then understood, not a certified transcription of the later meeting. The later 28 December reporting of TDP's formal letter reiterating its 2008 position should not be presented as proof that the 12 December report was fabricated. Statements, letters, factions and dates are different units of evidence.
+
+For examination purposes, create an evidence table with the date of each statement, the speaker or authorised party organ, whether the position was submitted in writing, and whether it represented the party nationally or a regional faction. The distinction matters especially for Congress and TDP, whose Telangana and Seemandhra leaders had conflicting constituencies. An official meeting minute or signed party submission would outrank a press paraphrase for exact wording. The contemporary invitation report was directly read (R17); the signed original party letters and complete meeting minutes remain unavailable in this review. Avoid projecting any December snapshot unchanged into the 2014 parliamentary vote.
 
 ## 12. Political JAC: coordination without a single-party monopoly
 
@@ -205,6 +217,12 @@ Do not confuse a protest call with a verified measure of participation. A leader
 Sakala Janula Samme began on 13 September 2011 as a strike by multiple sections of society, including government employees and transport and mining workers. Contemporary reporting confirms demonstrations, road blockades and workplace participation. The action was intended to show the depth of support for statehood and increase pressure on the Union government. Its political strength came from synchronisation across occupational groups rather than from any single rally or leader.
 
 The strike also interrupted public services and economic activity. Families relying on buses, schools or daily wages bore costs that were not evenly distributed. Claims about exact participation, losses or strike duration differ by source and should be checked against government and union records before being quoted as official totals. This topic emphasises JACs and popular protests; the following syllabus topic studies major protest events and cultural mobilisation in greater depth. Here the strike illustrates the organisational capacity of federated associations.
+
+### District-level participation was uneven, not a single uniform shutdown (source-checked, Cycle 76)
+
+A detailed contemporary report published before the 13 September 2011 strike described different responses across districts and occupations. In Karimnagar, lawyers' representatives announced a boycott of court duties, while a private-schools association supported the cause but indicated that schools would remain open to avoid loss of teaching days. The report also described advance notices from non-gazetted employees and coal workers; it said RTC participation was planned from 19 September, not necessarily from the opening day. In Khammam, respondents raised concerns about health services, transport, crop-loan processing and sanitation. In Nalgonda, some interviewees objected that shutdowns would harm students, pensioners and households. These examples challenge the misleading claim that every occupational group joined simultaneously or that every resident endorsed the strike's methods.
+
+The evidentiary distinction is important: a union's *announcement*, a newspaper's *district interview*, and an audited record of actual attendance or service interruption are not equivalent. The report also quoted projected fiscal losses, which must remain attributed forecasts rather than verified government accounts. In a mains answer, weigh the political signalling of coordinated industrial and public-service action against the unequal costs borne by daily-wage workers, patients and students. The direct contemporary article (R18) corroborates the planned 13 September opening and differentiated participation; original strike registers and official loss assessments have not been examined.
 
 ## 26. Protest and counter-protest: the united-Andhra perspective
 
@@ -294,14 +312,14 @@ Avoid four common mistakes: calling TPF an ordinary parliamentary party; treatin
 
 # Thirty original explained MCQs (NOT official TGPSC PYQs)
 
-## MCQ 1. Which institution has constitutional power to form a new Indian state?
+## MCQ 1. Which institution can enact a law forming a new Indian state under Article 3?
 
-- A political JAC
-- A party state committee
-- Parliament under Article 3
-- A university senate
+- The affected State Legislature by a binding resolution
+- The President by notification without parliamentary legislation
+- Parliament, following the Article 3 procedure
+- The Union Cabinet without a parliamentary Bill
 
-**Answer: C.** A statehood movement can influence the agenda, but Parliament enacts state reorganisation under Article 3.
+**Answer: C.** Article 3 gives Parliament lawmaking power; the President's recommendation and reference for the State Legislature's views are procedural steps, not alternative state-creating authorities (R15).
 
 ## MCQ 2. The defining political objective of TRS when established in 2001 was:
 
@@ -546,14 +564,14 @@ Avoid four common mistakes: calling TPF an ordinary parliamentary party; treatin
 
 **Answer: B.** Their dispute concerned movement methods and autonomy, not necessarily the central statehood objective.
 
-## MCQ 29. The 2014 Andhra Pradesh Reorganisation Act should be distinguished from:
+## MCQ 29. Which event supplied the statutory basis for Telangana's formation, with 2 June 2014 later fixed as the appointed day?
 
-- A law of Parliament
-- A political JAC demand or a ministerial announcement
-- A Gazette notification
-- The Constitution
+- Adoption of a Telangana political JAC resolution
+- Enactment of the Andhra Pradesh Reorganisation Act, 2014
+- Publication of a political party's statehood letter
+- A Union minister's announcement without legislation
 
-**Answer: B.** Demands and announcements can influence lawmaking but do not themselves establish a state.
+**Answer: B.** Parliament enacted the Reorganisation Act, assented to on 1 March 2014; the 4 March notification fixed 2 June as the appointed day. Political resolutions, letters and statements were not substitutes for the Act (R16).
 
 ## MCQ 30. A balanced conclusion about Telangana’s creation is:
 
@@ -695,5 +713,13 @@ A responsible account combines compassion, careful source criticism and constitu
 **R13 — PTI / OneIndia, 16–17 February 2011.** Non-cooperation programme announced by the political JAC. Status: **dated secondary contemporary report; announcements distinguished from measured participation**. https://www.oneindia.com/2011/02/17/telanganajacs-non-cooperation-agitation-fromtomorrow-aid0126.html
 
 **R14 — The Economic Times, 20 June 2011.** Cook-and-eat protest and multi-party presence. Status: **dated secondary contemporary report**. https://economictimes.indiatimes.com/news/politics-and-nation/telangana-intensifies-struggle-for-a-separate-state/articleshow/8918892.cms
+
+**R15 — Government of India, Ministry of Law and Justice, Legislative Department, Constitution of India (official English–Kannada diglot edition, 11 November 2025), Articles 3–4.** Original official PDF opened; Article 3 requires presidential recommendation and reference for state-legislature views; Article 4 provides consequential schedule changes. Status: **primary official legal text directly opened; not an archival copy of 2014 parliamentary debates**. https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf
+
+**R16 — Government of India, India Code, Andhra Pradesh Reorganisation Act, 2014, Act 6 of 2014, sections 1–2 and footnote to section 2(a).** Official indexed Act text identifies assent on 1 March 2014 and notification S.O. 655(E) dated 4 March 2014 appointing 2 June 2014. Status: **official India Code PDF search text corroborated; full PDF direct open timed out, so no claim of page-by-page examination**. https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6E.pdf
+
+**R17 — New Indian Express, 12 December 2012, 'Nine parties invited for Telangana meet'.** Article directly opened; describes the 28 December invitation, nine parties, and invitation-stage position reporting. Status: **contemporary secondary reporting, not signed all-party minutes**. https://www.newindianexpress.com/states/andhra-pradesh/2012/Dec/12/nine-parties-invited-for-telangana-meet-433297.html
+
+**R18 — New Indian Express, 12 September 2011, 'Telangana in strike mode for Sakalajanula Samme'.** Article directly opened; describes planned 13 September strike and differing district/occupational participation, including private schools and RTC staging. Web page metadata shows a later update, so date and event chronology are separately distinguished. Status: **contemporary secondary reporting, not an audited participation or fiscal-loss register**. https://www.newindianexpress.com/states/andhra-pradesh/2011/Sep/12/telangana-in-strike-mode-for-sakalajanula-samme-290124.html
 
 **Evidence limitations:** Signed founding resolutions of TPF/TUF, complete party manifestos, audited JAC membership rolls, independent regional turnout and fiscal-loss datasets, and an independently reconciled register of movement-related deaths were not obtained. In particular, no single suicide figure is presented as a certified total. Political positions are dated; no source is claimed to prove a party's position for every year. Sources are given as URLs in the research register; no unsupported original TGPSC PYQs are labelled official.
