@@ -172,6 +172,12 @@
     "R3": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
-    "independent_academic_approvals": 0
+    "independent_academic_approvals": 0,
+    "post_render_packaging_run": 40925515212,
+    "actual_downloaded_artifact_id": 12920506594,
+    "actual_downloaded_artifact_verified": true,
+    "pdf_pages": 23,
+    "pdf_sha256": "9d6950f093849721ab9876e39922bc79653a0e61bf195a346f0d4a199542d170",
+    "post_render_evidence": "project-control/academic-readiness/2-3-5-cycle92-actual-downloaded-post-render-artifact-qa-2026-10-29.json"
   }
 }
