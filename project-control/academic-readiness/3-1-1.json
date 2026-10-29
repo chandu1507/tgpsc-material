@@ -36,7 +36,7 @@
     "project-control/academic-readiness/3-1-1-turn24-final-package-and-svg-qa-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-render-qa.json"
   ],
-  "next_action": "Cycle87 integrated Part C all 18 numbered sections >=300 mechanical words; independent editorial/dedup, source-level verification of all 25 MCQ keys and 100 distractors, all six mains, original diagrams and accessibility still outstanding. Do not promote R3 or R8 to PASS on word count.",
+  "next_action": "After Cycle88 merge, observe deterministic CI renderer and packaging, download actual artifact, verify original 75 PDFs/75 readiness JSON, CRC/hash/link/fragment QA. Then complete remaining independent 25-MCQ/100-option and six-mains claim audits. No R1-R8 promotion without evidence.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -224,5 +224,54 @@
     "gate_R8": "IN_PROGRESS",
     "academic_approvals": 0,
     "evidence": "project-control/academic-readiness/3-1-1-cycle87-four-concept-and-mcq-evidence-2026-10-29.json"
+  },
+  "cycle88_2026_10_29": {
+    "status": "BOUNDED_SOURCE_CORRECTION_NOT_APPROVED",
+    "evidence": "project-control/academic-readiness/3-1-1-cycle88-pesa-fra-mcq11-15-and-mains-q5-source-audit-2026-10-29.json",
+    "reviewed_mcq_ids": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "reviewed_keys": 5,
+    "reviewed_distractor_options": 20,
+    "audit_character": "author source-correlation against official government pages, official search-extracted guidance and reproduced statutory clauses; official primary PDFs timed out; not an independent reviewer",
+    "new_distinct_mcq_questions_added": 0,
+    "mcq_total_original_practice": 25,
+    "mains_changed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "mains_body_only_whitespace_tokens": [
+      203,
+      213,
+      214,
+      213,
+      233,
+      203
+    ],
+    "mains_body_only_unicode_tokens": [
+      204,
+      214,
+      214,
+      214,
+      234,
+      205
+    ],
+    "word_count_discrepancy": "New conservative recount excludes subheading labels and differs from Cycle22 historical body counts; new counting method explicitly recorded in Cycle88 evidence. Do not silently overwrite provenance.",
+    "legal_precision_fix": "PESA 4(i) consultation must not be represented as universal unconditional local consent/veto; distinguish separately applicable laws.",
+    "original_pdf_preserved": true,
+    "independent_expert_approvals": 0,
+    "gate_R3": "IN_PROGRESS",
+    "gate_R4": "IN_PROGRESS",
+    "gate_R5": "IN_PROGRESS",
+    "gate_R6": "IN_PROGRESS",
+    "gate_R8": "IN_PROGRESS",
+    "gate_R9": "NOT_STARTED",
+    "post_merge_ci_pdf_qa": "PENDING"
   }
 }
