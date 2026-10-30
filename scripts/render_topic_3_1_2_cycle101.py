@@ -84,7 +84,8 @@ while i<len(tokens):
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
     if tag=='h1':
-      in_part_c=('Part C' in inl.content)
+      if 'Part C' in inl.content:in_part_c=True
+      elif 'Part D' in inl.content:in_part_c=False
       if any(x in inl.content for x in ('Part C', 'Part E', 'Part F', 'Part H')):story.append(PageBreak())
     if tag=='h2' and in_part_c and re.match(r'^\d+\. ', inl.content):
       if concept_starts:story.append(PageBreak())
