@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle99: 75 original topics/PDFs; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 R1 PASS, zero R1–R8 ready and independent approvals. Topic 2-3-1 corrected 2026 IMD mains conclusion, 4 MCQ four-option sets author-checked, 328-word synthesis and deterministic 32-page PDF; actual downloaded artifact 12945935403 SHA/CRC/75 originals/597 total local refs (554 file refs +43 SPA routes)/1050 fragments PASS. Browser/accessibility and academic verification incomplete.",
+  "warning": "75 original topics/PDFs; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS, ZERO R1–R8 fully ready, ZERO independent approvals. Cycle101 3-1-2 partial source-based repair; CI PDF and actual artifact QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle99 Topic 2-3-1 bounded IMD source corrections, 32-page PDF layout fix and actual downloaded post-layout artifact QA; no gate promotion.",
+  "last_readiness_update": "Cycle101 Topic 3-1-2: 23 concepts, 18 under300 after four substantive expansions; original practice MCQs 10→25 with 15 bounded author-side key/distractor checks, six mains included once, coherent editable master, two vector diagrams and CI renderer pending. No R1–R8 full PASS; approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-2-cycle101-legal-mcq-depth-and-deduplicated-master-2026-10-30.json",
     "project-control/academic-readiness/2-3-1-cycle99-actual-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json",
@@ -213,34 +214,6 @@
     "project-control/academic-readiness/6-3-4-cycle77-direct-source-depth-mcq-mains-audit-2026-10-29.json",
     "project-control/academic-readiness/6-3-3-cycle76-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
     "project-control/academic-readiness/6-3-2-cycle75-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
-    "project-control/academic-readiness/6-3-2-cycle75-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-3-1-cycle74-direct-source-depth-mcq-and-mains-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-2-5-cycle73-actual-downloaded-github-artifact-qa-2026-10-29.json",
-    "project-control/academic-readiness/6-2-5-cycle73-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-2-4-cycle72-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-2-3-cycle71-actual-downloaded-github-artifact-qa-2026-10-29.json",
-    "project-control/academic-readiness/6-2-3-cycle71-direct-source-depth-and-practice-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-2-2-cycle70-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
-    "project-control/academic-readiness/6-2-2-cycle70-direct-source-and-depth-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-2-1-cycle69-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
-    "project-control/academic-readiness/6-2-1-cycle69-direct-depth-and-bounded-primary-source-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-1-5-cycle68-direct-depth-mcq-mains-and-archive-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-1-4-cycle67-actual-downloaded-post-assessment-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/6-1-4-cycle67-direct-source-legal-mcq-mains-and-archive-audit-2026-10-28.json",
-    "project-control/academic-readiness/6-1-3-cycle66-actual-downloaded-final-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/6-1-3-cycle66-source-depth-and-primary-document-audit-2026-10-28.json",
-    "project-control/academic-readiness/6-1-1-cycle64-actual-downloaded-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/6-1-1-cycle64-direct-legal-source-and-local-render-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-3-5-cycle63-actual-downloaded-final-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-3-3-cycle61-direct-source-depth-and-concentration-correction-2026-10-28.json",
-    "project-control/academic-readiness/5-3-2-cycle60-actual-downloaded-post-ci-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-2-5-cycle58-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-2-5-cycle58-source-depth-mains-and-bounded-key-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "project-control/academic-readiness/5-2-4-cycle57-direct-source-and-local-render-audit-2026-10-28.json",
-    "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
+    "project-control/academic-readiness/6-3-2-cycle75-direct-depth-mcq-mains-and-source-audit-2026-10-29.json"
   ]
 }
