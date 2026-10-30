@@ -9,7 +9,7 @@
     "last_reported_topic": "3-2-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle114 Topic 3-2-3 five source-correlated original MCQs and stale CI guard fix staged. CI render/downloaded artifact pending; ZERO independent approvals."
+    "note": "Cycle114 Topic 3-2-3 actual downloaded post-render artifact SHA/CRC/75 original PDFs/offline links PASS; post-evidence package pending; academic approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -291,8 +291,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle114_five_primary_text_mcqs_added_render_pending_academic_audit_pending",
-      "notes": "27 Oct Cycle30: ten existing substantial concepts, 25 original MCQs, six mains; Article171 proviso and separate Art164 17-minister ceiling expanded; Q13 revised; five limited key source checks. Original PDF unchanged. All R1-R8 remain incomplete, no R9. Cycle114: Q26-Q30 original practice questions added, five keys/15 distractors bounded author-correlated to official Constitution Articles 85/100/111/123/200; 30 total, full 30-key/90-distractor independent review and six mains pending. Stale CI guard hardcoded 8 rebuilt against live 75-topic index. Renderer and downloaded post-edit artifact pending. No R1-R8/R9 promotion.",
+      "production_review": "cycle114_33page_ci_pdf_actual_downloaded_artifact_qa_pass_academic_audit_pending",
+      "notes": "27 Oct Cycle30: ten existing substantial concepts, 25 original MCQs, six mains; Article171 proviso and separate Art164 17-minister ceiling expanded; Q13 revised; five limited key source checks. Original PDF unchanged. All R1-R8 remain incomplete, no R9. Cycle114: Q26-Q30 original practice questions added, five keys/15 distractors bounded author-correlated to official Constitution Articles 85/100/111/123/200; 30 total, full 30-key/90-distractor independent review and six mains pending. Stale CI guard hardcoded 8 rebuilt against live 75-topic index. Renderer and downloaded post-edit artifact pending. No R1-R8/R9 promotion. Cycle114 renderer 41085152328 SUCCESS, 33-page PDF SHA ed626f1a...; packaging 41085374481 artifact 12990609672 ACTUALLY DOWNLOADED: 2053 files, 75 originals unchanged, 75 readiness JSON, 597 links/1050 fragments zero broken, CRC/digest PASS. No independent academic audit, R8 IN_PROGRESS, R9 NOT_STARTED.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-3.json"
     },
