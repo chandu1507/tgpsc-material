@@ -68,6 +68,8 @@ jobs:
                       assert x0>=20 and y0>=0 and x1<=p.rect.width-15 and y1<=p.rect.height-8,(i+1,b['bbox'])
           m=json.loads((root/'manifest.json').read_text())
           assert m['original_mcqs']==30 and m['mains_answers']==6
+          assert m['major_concept_chapters']==15 and len(m['concept_chapter_words'])==15
+          assert min(m['concept_chapter_words'])>=300
           assert m['academically_approved']==0
           for rel,sha in m['file_sha256'].items():
               f=root/rel
