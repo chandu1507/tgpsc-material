@@ -1126,7 +1126,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle110 Topic 3-1-4: 8,054-word deduplicated master, primary statutory Vetti correction, 30 original MCQs, six mains, two original vector diagrams. Local 18-page PDF; CI artifact pending; R1-R8 ready ZERO, approvals ZERO.",
+  "last_readiness_update": "Cycle110 Topic 3-1-4: coherent source-corrected master, 30 original MCQs/six mains, two vector diagrams; 18-page GitHub CI PDF SHA 294e15aa... SUCCESS run 41051117243. Post-render packaging artifact verification pending. R1-R8 ready ZERO, approvals ZERO.",
   "last_readiness_reconciliation": "Fresh 29 Oct main and 75 per-topic JSON: 75 originals, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 verified/historical R1 mappings, 0 fully ready, 0 approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
@@ -1180,7 +1180,7 @@
     "integrated_master_sha256": "5a82f451edb6108e0a6199ff3f91fb5a84d95e99a67c8efe020b6cdbb80a5cae",
     "local_pdf_pages": 18,
     "local_pdf_sha256": "2bdae18b40f3016ef3f72889a58de005dc0ca853fc667efc5663ca1d3f962174",
-    "github_ci_pdf": "PENDING",
+    "github_ci_pdf": "SUCCESS",
     "downloaded_artifact_qa": "PENDING",
     "topic_counts": {
       "IN_PROGRESS": 7,
@@ -1188,7 +1188,9 @@
       "NOT_ASSESSED": 0
     },
     "fully_ready": 0,
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "github_ci_run_id": 41051117243,
+    "github_ci_pdf_sha256": "294e15aa983b8e9fad3e845bcdf66d3d484c6b12c649920247903e71028203d4"
   },
   "recent_evidence": [
     "project-control/academic-readiness/2-3-1-cycle100-final-downloaded-artifact-qa-2026-10-30.json",
