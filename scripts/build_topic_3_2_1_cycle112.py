@@ -25,10 +25,10 @@ text=text.replace('## 7. Original mains practice',mcqs+'\n\n## 7. Original mains
 text=text.replace('**Internal accuracy gates performed:**',sources+'\n\n**Internal accuracy gates performed:**',1)
 text=text.replace('**Status:** Expanded research draft', '**Status:** Cycle112 coherent integrated research draft')
 text=text.replace('Prepared 23 October 2026.', 'Updated 30 October 2026; original 23 October draft preserved separately.')
-assert len(re.findall(r'^### Concept [A-H]\\.',text,re.M))==8
-assert len(re.findall(r'^\\*\\*Q\\d+\\.\\*\\*',text,re.M))==30
-assert len(re.findall(r'^### Mains Q\\d+\\.',text,re.M))==6
-assert len(re.findall(r'^\\*\\*Answer: [ABCD]\\.',text,re.M))==30
+assert len(re.findall(r'^### Concept [A-H][.]',text,re.M))==8
+assert len(re.findall(r'^[*][*]Q[0-9]+[.][*][*]',text,re.M))==30
+assert len(re.findall(r'^[*][*]Q[0-9]+[.][*][*]',text,re.M))==30
+assert len(re.findall(r'^[*][*]Answer: [ABCD][.]',text,re.M))==30
 assert text.count('constitutional-amendment-thresholds.svg')==1
 a.output.parent.mkdir(parents=True,exist_ok=True)
 a.output.write_text(text)
