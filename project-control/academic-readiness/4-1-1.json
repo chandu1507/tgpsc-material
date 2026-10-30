@@ -28,7 +28,7 @@
     "R9": "NOT_STARTED"
   },
   "evidence": "project-control/academic-readiness/4-1-1-cycle35-national-accounts-reconciliation-and-objective-audit-2026-10-27.json",
-  "next_action": "Complete independent verification of all 25 keys/75 distractors and six mains, diagrams and browser QA; verify Cycle122 synchronized CI PDF and actual downloaded publication ZIP; R9 only after R1-R8 PASS and named expert.",
+  "next_action": "Independent subject-expert verification of all 25 keys and 75 distractors (author-side rationale complete), six mains claims, diagrams, Telangana numeric tables, full browser/accessibility; R9 only after R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle35_inventory": {
@@ -81,6 +81,14 @@
     "existing_options_author_side_audited": 100,
     "independent_expert_checks": 0,
     "academic_approved": false,
-    "publication_pending": true
+    "publication_pending": false,
+    "renderer_run": 41146921327,
+    "packaging_run": 41146955731,
+    "artifact_id": 13021491886,
+    "actual_downloaded_artifact_sha256": "0f88740f936f9b76cbbe62d2b3f3d387965d21626b4728e43817d4022e9b6a09",
+    "integrated_pdf_pages": 28,
+    "integrated_pdf_sha256": "e3ab85fef7194f2f14f1a320979255ab74f25a2d031515149c2ca68c05856d38",
+    "qa_file": "project-control/academic-readiness/4-1-1-cycle122-actual-downloaded-artifact-qa-2026-10-31.json",
+    "original_pdf_preserved": true
   }
 }
