@@ -1,0 +1,103 @@
+{
+  "cycle": 116,
+  "date": "2026-10-30",
+  "topic_id": "3-2-5",
+  "original_topic_count_guard": 75,
+  "original_pdf_sha256": "44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15",
+  "academic_status": "ASSESSED_REBUILD_REQUIRED",
+  "academically_approved": false,
+  "independent_expert_approval_count": 0,
+  "direct_primary_source": {
+    "institution": "Government of India, Ministry of Law and Justice, Legislative Department",
+    "title": "Constitution of India, English-Kannada official edition",
+    "as_of": "2025-11-11",
+    "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "checked_articles": [
+      {
+        "article": "243ZD(2)(b)",
+        "pdf_page": 322,
+        "claim": "At least four-fifths elected District Planning Committee membership from specified elected local-body members",
+        "question": 26,
+        "answer": "D",
+        "distractors_checked": 3
+      },
+      {
+        "article": "243ZE(2)(b)",
+        "pdf_page": 324,
+        "claim": "At least two-thirds elected Metropolitan Planning Committee membership from specified elected local-body members/panchayat chairpersons",
+        "question": 27,
+        "answer": "C",
+        "distractors_checked": 3
+      },
+      {
+        "article": "243Y(1)",
+        "pdf_page": 318,
+        "claim": "Article 243I State Finance Commission also reviews municipal finances",
+        "question": 28,
+        "answer": "D",
+        "distractors_checked": 3
+      },
+      {
+        "article": "243K(2)",
+        "pdf_page": 302,
+        "claim": "State Election Commissioner removal in like manner and on like grounds as High Court judge",
+        "question": 29,
+        "answer": "C",
+        "distractors_checked": 3
+      },
+      {
+        "article": "243ZE(3)",
+        "pdf_page": 324,
+        "claim": "Metropolitan planning considers local plans, common resources, Union/State priorities, investments",
+        "question": 30,
+        "answer": "D",
+        "distractors_checked": 3
+      }
+    ]
+  },
+  "added_original_practice_mcqs": 5,
+  "total_original_practice_mcqs": 30,
+  "new_key_author_source_correspondences": 5,
+  "new_distractor_author_source_correspondences": 15,
+  "concept_expansion": {
+    "title": "District versus metropolitan planning: constitutional arithmetic and an implementation test",
+    "approx_words": 418,
+    "illustrative_DPC": {
+      "seats": 25,
+      "min_elected": 20
+    },
+    "illustrative_MPC": {
+      "seats": 30,
+      "min_elected": 20
+    },
+    "not_a_verified_Telangana_roster": true
+  },
+  "synchronized_editable_files": [
+    "Paper 3/Unit 2 - Constitution of India/Topic 5/source/original-mcqs.md",
+    "Paper 3/Unit 2 - Constitution of India/Topic 5/source/complete-notes.md",
+    "Paper 3/Unit 2 - Constitution of India/Topic 5/source/detailed-notes.md",
+    "Paper 3/Unit 2 - Constitution of India/Topic 5/source/sources-and-audit.md",
+    "Paper 3/Unit 2 - Constitution of India/Topic 5/index.html"
+  ],
+  "limitations": [
+    "Original 25 MCQ keys and 75 distractors not independently audited",
+    "Six mains answers not independently claim-audited",
+    "Official TGPSC 2024 syllabus PDF not directly reauthenticated",
+    "No verified 2026 Telangana DPC/MPC roster or implementation outcome",
+    "Deterministic CI PDF and downloaded Actions artifact not yet verified at evidence-write time",
+    "Full browser accessibility not certified",
+    "No authenticated official PYQs",
+    "No independent academic approval"
+  ],
+  "gates": {
+    "R1": "NOT_STARTED",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  }
+}

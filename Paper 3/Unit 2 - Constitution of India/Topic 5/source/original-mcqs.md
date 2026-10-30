@@ -1,4 +1,4 @@
-# 25 original MCQs with explanations
+# 30 original MCQs with explanations
 
 **Classification:** Original practice questions created for this chapter. **Verified official PYQs:** None. Each answer is explained so that incorrect alternatives become revision cues.
 
@@ -126,3 +126,28 @@ A. A national defence treaty  B. Flooding caused by drainage and land-use decisi
 A. Rely only on political speeches  B. Eliminate measurement stations  C. Joint telemetry, drought rules and verified release logs  D. Treat every reservoir as a separate sovereign state
 
 **Answer: C.** Water entitlements require operational evidence and compliance. Shared gauges, transparent releases and drought protocols reduce uncertainty and the temptation to relitigate disputed facts.
+
+**26. For a District Planning Committee with 25 members, what is the minimum number who must be elected from the constitutionally specified local-body membership pool under Article 243ZD?**
+A. 10  B. 15  C. 18  D. 20
+
+**Answer: D.** Article 243ZD(2)(b) requires at least four-fifths: 25 × 4/5 = 20. A (10) is only 40%; B (15) is 60%; C (18) is 72%, all below the constitutional minimum. The eligible pool is elected district-level panchayat and municipal members; this is illustrative arithmetic, not a Telangana committee roster.
+
+**27. Under Article 243ZE, the minimum elected share of a Metropolitan Planning Committee must be:**
+A. One-half of the members  B. Three-fourths of the members  C. Two-thirds of the members  D. All members without exception
+
+**Answer: C.** Article 243ZE(2)(b) specifies at least two-thirds elected from municipal elected members and panchayat chairpersons in the metropolitan area. A understates the floor; B wrongly imports a higher fraction; D mistakes a minimum elected share for a requirement that every seat be elected.
+
+**28. Which body reviews municipal finances under Article 243Y?**
+A. The Union Finance Commission alone under Article 280  B. The Inter-State Council under Article 263  C. The GST Council under Article 279A  D. The State Finance Commission constituted under Article 243I
+
+**Answer: D.** Article 243Y expressly extends the review by the Finance Commission constituted under Article 243I to municipalities. A confuses a Union constitutional commission with this State-level review; B concerns interstate consultation; C concerns GST and does not conduct the Article 243Y municipal-finance review.
+
+**29. Which statement accurately describes removal protection for a State Election Commissioner under Article 243K(2)?**
+A. The Governor may remove the Commissioner at pleasure  B. A simple majority resolution of the State Assembly always suffices  C. Removal is only in like manner and on like grounds as a High Court judge  D. The Union Finance Commission must approve removal
+
+**Answer: C.** The proviso to Article 243K(2) protects the Commissioner through the High Court judge removal standard. A incorrectly treats the appointment authority as having unrestricted removal power; B replaces the constitutional safeguard with a simple-majority shortcut; D assigns a role to an unrelated institution.
+
+**30. When preparing a metropolitan draft development plan under Article 243ZE(3), which set of inputs must be considered?**
+A. Only the Union government's five-year expenditure statement  B. Only decisions of an interstate river-water tribunal  C. Only municipal election results and ward boundaries  D. Municipal and panchayat plans, shared infrastructure and water concerns, government priorities and likely investments
+
+**Answer: D.** Article 243ZE(3) expressly identifies local plans, common interests including water and infrastructure, Union and State priorities, and likely investments. A omits local planning and other required factors; B confuses metropolitan planning with river adjudication; C omits substantive planning and resources.

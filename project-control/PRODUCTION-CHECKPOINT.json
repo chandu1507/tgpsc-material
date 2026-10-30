@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-2-4",
+    "last_reported_topic": "3-2-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle115 3-2-4 actual post-render artifact QA PASS (36-page PDF, 75 originals preserved, 597 local links and 1050 fragments intact). Post-evidence packaging pending; approvals ZERO."
+    "note": "Cycle116 Topic 3-2-5 primary-text MCQ/source changes committed on guarded branch; PDF and final artifact QA pending; academic approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -315,8 +315,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle31_objective_audit_and_source_based_mains_corrected_pdf_ci_pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Cycle31: objective assessment of actual 11 concepts (448–664 words), 25 original explained MCQs, six mains body-only 200/209/201/239/248/214 after Q4/Q5 correction, 2 original SVGs linked in canonical master. Primary-source limited check of Article 243ZE and ISRWD Act sections 6/11; original 32-page PDF preserved. All R1–R8 NOT fully passed; CI PDF pending, zero independent approvals. Cycle31 post-render: synchronized GitHub PDF downloaded in artifact 12712828105, CRC/SHA/original preservation and static links passed; R8 IN_PROGRESS (browser accessibility pending).",
+      "production_review": "cycle116_5_primary_text_correlated_mcqs_and_planning_arithmetic_ci_pending",
+      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Cycle31: objective assessment of actual 11 concepts (448–664 words), 25 original explained MCQs, six mains body-only 200/209/201/239/248/214 after Q4/Q5 correction, 2 original SVGs linked in canonical master. Primary-source limited check of Article 243ZE and ISRWD Act sections 6/11; original 32-page PDF preserved. All R1–R8 NOT fully passed; CI PDF pending, zero independent approvals. Cycle31 post-render: synchronized GitHub PDF downloaded in artifact 12712828105, CRC/SHA/original preservation and static links passed; R8 IN_PROGRESS (browser accessibility pending). Cycle116: 418-word Article 243ZD/243ZE worked example, Q26-Q30 original MCQs with five keys and fifteen distractors author-side source-correlated to official Constitution; 30 MCQs now, full independent audit and post-edit CI/downloaded artifact QA pending; approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-5.json"
     },
