@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-30",
+  "cycle": 114,
+  "topic_id": "3-2-3",
+  "type": "ACTUAL_DOWNLOADED_POST_RENDER_ACTIONS_ARTIFACT_QA",
+  "renderer_run": 41085152328,
+  "packaging_run": 41085374481,
+  "artifact_id": 12990609672,
+  "artifact_sha256": "62b78c1af925e906a8cb348bb0ffccea52326756eac926b04f540426bebee9c2",
+  "declared_digest_matches": true,
+  "outer_zip_crc_pass": true,
+  "inner_zip_crc_pass": true,
+  "packaged_files": 2053,
+  "original_topic_pdfs": 75,
+  "original_pdf_sha256_all_match_previous_verified_cycle113": true,
+  "readiness_json": 75,
+  "html_pages": 87,
+  "local_file_links_checked": 597,
+  "broken_local_links": 0,
+  "dom_fragment_links_checked": 1050,
+  "broken_dom_fragment_links": 0,
+  "spa_routes_excluded": 43,
+  "original_topic_pdf_sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24",
+  "integrated_pdf_pages": 33,
+  "integrated_pdf_sha256": "ed626f1a97c2f9f7520894d4dac7a1d715ee1f64a3fef8389450fbe0859fa770",
+  "manifest_pdf_sha_matches": true,
+  "pdf_blank_pages": 0,
+  "pdf_out_of_bounds_text_blocks": 0,
+  "visual_samples_pages": [
+    1,
+    18,
+    19,
+    32,
+    33
+  ],
+  "full_resolution_pages": [
+    33
+  ],
+  "original_practice_mcqs": 30,
+  "mcq_structurally_valid": 30,
+  "mains_answers": 6,
+  "answer_key_distribution": {
+    "A": 4,
+    "B": 12,
+    "C": 11,
+    "D": 3
+  },
+  "topic_statuses": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "checkpoint_index_75_readiness_ids_match": true,
+  "normalized_R1_pass": 14,
+  "fully_R1_R8_ready": 0,
+  "independent_academic_approvals": 0,
+  "R9": "NOT_STARTED",
+  "browser_accessibility_certified": false,
+  "full_independent_30_key_90_distractor_audit": false,
+  "six_mains_claim_audit": false,
+  "limitations": [
+    "PDF final page 33 has short source/audit tail and generous whitespace, but is not blank",
+    "Static links and DOM fragments pass, full browser/screen-reader QA not done",
+    "The five new keys and 15 distractors were author-correlated, not independently reviewed",
+    "This evidence commit postdates the inspected artifact; final post-evidence packaging needs separate download and SHA/CRC verification"
+  ]
+}
