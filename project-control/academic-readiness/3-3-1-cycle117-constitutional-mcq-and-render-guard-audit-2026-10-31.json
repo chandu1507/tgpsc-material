@@ -1,0 +1,67 @@
+{
+  "cycle": 117,
+  "date": "2026-10-31",
+  "topic_id": "3-3-1",
+  "original_topic_count": 75,
+  "original_pdf_sha256": "c0184a2d7a4e74237d3a205d9058f6dbfa0d4703a491e19440d88bcaba5dd372",
+  "question_count_before": 25,
+  "question_count_after": 30,
+  "new_questions": [
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "new_keys": [
+    {
+      "question": 26,
+      "key": "A",
+      "primary_article": "151(1)",
+      "distractors_checked": 3,
+      "source_id": "S21"
+    },
+    {
+      "question": 27,
+      "key": "B",
+      "primary_article": "321",
+      "distractors_checked": 3,
+      "source_id": "S21"
+    },
+    {
+      "question": 28,
+      "key": "C",
+      "primary_article": "281",
+      "distractors_checked": 3,
+      "source_id": "S21"
+    },
+    {
+      "question": 29,
+      "key": "D",
+      "primary_article": "322",
+      "distractors_checked": 3,
+      "source_id": "S21"
+    },
+    {
+      "question": 30,
+      "key": "A",
+      "primary_article": "323(1)",
+      "distractors_checked": 3,
+      "source_id": "S21"
+    }
+  ],
+  "source_url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+  "verification_scope": "Author-side direct constitutional-text correlation of five new keys and fifteen distractor explanations, NOT independent academic approval.",
+  "workflows": "Renderer stale 7/12/56 status guard replaced with 75-topic checkpoint/index reconciliation. Packaging workflow now listens for Topic 3-3-1 renderer completion.",
+  "not_verified": [
+    "all 30 keys and 90 distractors independently",
+    "all six mains claims independently",
+    "current direct syllabus authentication",
+    "PDF after CI",
+    "actual downloaded final Actions artifact",
+    "browser and screen reader accessibility",
+    "named independent academic approval"
+  ],
+  "academic_approvals": 0,
+  "R9": "NOT_STARTED"
+}

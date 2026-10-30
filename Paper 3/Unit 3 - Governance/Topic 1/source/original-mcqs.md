@@ -1,4 +1,4 @@
-# 25 original practice MCQs with explanations
+# 30 original practice MCQs with explanations
 
 **Status:** All questions below are original study questions. None is labelled or represented as a verified official previous-year question.
 
@@ -176,3 +176,38 @@ B. Rules 3, 5–16, 22 and 23 came into force on publication; the rest are defer
 C. Rule 4 takes effect after eighteen months, while Rules 17–21 take effect after one year.  
 D. Rules 1, 2 and 17–21 took effect on publication; Rule 4 is deferred one year, and Rules 3, 5–16, 22 and 23 eighteen months.  
 **Answer: D.** Gazette G.S.R. 846(E), dated 13 November 2025, Rule 1(2)–(4) specifies these three commencement groups [S20]. The Act's commencement notifications must be examined separately; the question concerns the Rules, not every obligation under the Act.
+
+### Q26. Under Article 151(1), which sequence correctly describes submission of the CAG's Union audit reports?
+A. The CAG submits them to the President, who causes them to be laid before each House of Parliament.  
+B. The CAG sends them only to the Supreme Court for approval.  
+C. The Finance Commission submits them to the Governor for state legislative approval.  
+D. The Public Accounts Committee must first approve them before they can be laid before Parliament.  
+**Answer: A.** Article 151(1) specifies submission of Union-account audit reports to the President and laying before both Houses. B is wrong because the Supreme Court is not the constitutional recipient; C confuses the Finance Commission and State pathway; D confuses subsequent parliamentary scrutiny with a prerequisite for tabling. [S21]
+
+### Q27. Which constitutional route can extend the functions of the Union or State Public Service Commission to specified additional services?
+A. An unpublished administrative instruction from any district collector.  
+B. An Act of Parliament or, as applicable, a State Legislature under Article 321.  
+C. An order issued solely by the Public Accounts Committee.  
+D. A resolution of the National Human Rights Commission automatically binding both commissions.  
+**Answer: B.** Article 321 permits extension by an Act of the appropriate legislature, including for certain local authorities and public institutions. A lacks the legislative route; C describes a parliamentary scrutiny committee, not the Article 321 lawmaker; D confuses a statutory human-rights commission with a legislature. [S21]
+
+### Q28. Under Article 281, what must be laid before each House of Parliament in relation to Finance Commission recommendations?
+A. Only the Finance Commission chairperson's appointment order.  
+B. Only the Union Budget speech, without recommendations.  
+C. Every recommendation together with an explanatory memorandum as to action taken thereon.  
+D. The State Election Commission's annual election expenditure statement.  
+**Answer: C.** Article 281 requires the President to cause every Finance Commission recommendation and an explanatory memorandum on action taken to be laid before both Houses. A and B omit the mandated documents; D concerns a different institution. This is a laying requirement, not automatic acceptance of every recommendation. [S21]
+
+### Q29. How does Article 322 treat the expenses of the Union and State Public Service Commissions?
+A. Both are paid exclusively from the Contingency Fund of India.  
+B. Both depend on discretionary donations from candidates.  
+C. The Union Commission is paid only from State Consolidated Funds.  
+D. UPSC expenses are charged on the Consolidated Fund of India; State Commission expenses on the corresponding State Consolidated Fund.  
+**Answer: D.** Article 322 charges expenses, including specified salaries, allowances and pensions, on the relevant Consolidated Fund. A incorrectly substitutes the Contingency Fund; B invents a donation basis; C reverses the Union-State allocation. 'Charged' does not mean the Commission can spend without lawful budget processes. [S21]
+
+### Q30. Which account of UPSC's annual reporting duty is consistent with Article 323(1)?
+A. UPSC reports annually to the President; the President causes the report and, where applicable, a memorandum explaining non-acceptance of advice to be laid before each House.  
+B. UPSC reports only to the Chief Justice and its advice is always legally binding.  
+C. UPSC reports to each District Collector, who must table it in the State Assembly.  
+D. UPSC reports only to the Election Commission, which can suppress it indefinitely.  
+**Answer: A.** Article 323(1) identifies the President as the recipient of UPSC's annual report and requires parliamentary laying with reasons for any non-acceptance of advice. B falsely treats advice as invariably binding; C confuses Union and State institutions; D substitutes the Election Commission and ignores the reporting duty. [S21]
