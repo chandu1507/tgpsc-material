@@ -9,7 +9,7 @@
     "last_reported_topic": "3-2-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle113 Topic 3-2-2 source-bounded integrated master and CI renderer proposed; actual CI PDF and downloaded publication artifact QA pending; zero approvals."
+    "note": "Cycle113 Topic 3-2-2 post-render actual downloaded artifact CRC/SHA/75 original PDFs and offline links PASS; final post-evidence package pending. Academic approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -279,8 +279,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle113_article20_mcq_integrated_master_committed_ci_pdf_pending",
-      "notes": "27 Oct Cycle29: seven 985–1297-word constitutional chapters, 25 original explained MCQs, Q16 duplicate forced-labour item replaced with Article 24 child-employment question, Q21 digital-KYC case scope qualified, seven limited source correspondences, two original SVG diagrams. Original legacy PDF SHA256 a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d preserved; integrated CI PDF pending. R1-R8 incomplete; zero academic approvals. CI run 40448120479 SUCCESS; 28-page integrated PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831; manifest 12 files synchronized; full post-render package QA pending. Final packaging run 40448473538 artifact 12708959142 actually downloaded: 1544 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 474 static links/686 fragments zero broken, 64 SPA routes excluded, ZIP CRC PASS, PDF SHA matches. Full accessibility/browser and academic verification pending. Cycle113: added source-bounded Article20 analysis, five original MCQs (30 total), answer positions A8/B8/C7/D7, original vector diagram and new editable integrated master; guarded CI PDF/postrender artifact QA pending; no independent claims or approval.",
+      "production_review": "cycle113_integrated_29_page_ci_pdf_actual_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "27 Oct Cycle29: seven 985–1297-word constitutional chapters, 25 original explained MCQs, Q16 duplicate forced-labour item replaced with Article 24 child-employment question, Q21 digital-KYC case scope qualified, seven limited source correspondences, two original SVG diagrams. Original legacy PDF SHA256 a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d preserved; integrated CI PDF pending. R1-R8 incomplete; zero academic approvals. CI run 40448120479 SUCCESS; 28-page integrated PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831; manifest 12 files synchronized; full post-render package QA pending. Final packaging run 40448473538 artifact 12708959142 actually downloaded: 1544 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 474 static links/686 fragments zero broken, 64 SPA routes excluded, ZIP CRC PASS, PDF SHA matches. Full accessibility/browser and academic verification pending. Cycle113: added source-bounded Article20 analysis, five original MCQs (30 total), answer positions A8/B8/C7/D7, original vector diagram and new editable integrated master; guarded CI PDF/postrender artifact QA pending; no independent claims or approval. Cycle113 actual downloaded artifact 12986359935: 2051 files, 75 originals unchanged, 75 readiness JSON, 87 HTML, 554 local links/1050 fragments zero broken, CRC/digest PASS; 29-page integrated PDF SHA a14a6267..., 30 original MCQs and six mains; independent academic audit pending, not approved.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-2.json"
     },

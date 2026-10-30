@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics: 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 normalized R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle113 Topic 3-2-2 master/renderer source-bounded, CI PDF and actual downloaded publication artifact QA pending.",
+  "warning": "Exactly 75 topics: 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 normalized R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle113 Topic 3-2-2 actual downloaded post-render artifact QA PASS; final post-control package pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
