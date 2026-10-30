@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics: 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle115 3-2-4 5 source-bounded MCQs staged; CI and actual artifact QA PENDING.",
+  "warning": "Exactly 75 topics: 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle115 3-2-4 actual post-render artifact QA PASS; post-evidence packaging pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle115 Topic 3-2-4 source edits: 5 new original MCQs (30 total), 5 keys and 15 distractors bounded author checks, 4 option-position reorders; synchronized Markdown/HTML source; CI PDF, artifact download and academic certification pending.",
+  "last_readiness_update": "Cycle115 Topic 3-2-4 renderer 41093473197 SUCCESS (36 pages, SHA87b61658); early artifact rejected as stale; post-render artifact 12993939939 ACTUALLY DOWNLOADED and independently QA PASS (75 originals unchanged, 597 links, 1050 fragments, CRC/digest). Complete academic audit pending, R8 IN_PROGRESS.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-4-cycle115-actual-downloaded-postrender-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-2-4-cycle115-five-constitutional-mcqs-and-offline-sync-2026-10-30.json",
     "project-control/academic-readiness/3-2-1-cycle112-actual-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-2-1-cycle112-constitutional-arithmetic-and-ci-evidence-2026-10-30.json",
