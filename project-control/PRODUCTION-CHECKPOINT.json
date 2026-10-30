@@ -1126,7 +1126,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle98 Topic 2-3-3: 8 concept expansions, all 14 >=300 whitespace words; 26-page CI PDF SHA256 5d6b5068..., 14 distinct concept-start pages. Actual downloaded GitHub artifact 12942374019 SHA/CRC PASS, 1982 files, 75 unchanged originals, 75 readiness JSON, 597 local links/1050 fragments zero broken. 7 IN_PROGRESS/68 rebuild, 14 R1 PASS, 0 fully R1-R8 ready and 0 approvals.",
+  "last_readiness_update": "Cycle100 Topic 2-3-1: four original practice MCQs (Q6/Q8/Q19/Q21) rewritten in place with 16 option rationales, CEA/NPP and World Bank source correspondence; 33-page synchronized PDF, actual post-layout artifact 12948276635 SHA/CRC/75 originals/links PASS. No gate promotion or independent approval.",
   "last_readiness_reconciliation": "Fresh 29 Oct main and 75 per-topic JSON: 75 originals, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 verified/historical R1 mappings, 0 fully ready, 0 approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
@@ -1187,5 +1187,9 @@
     },
     "fully_ready": 0,
     "independent_approvals": 0
-  }
+  },
+  "recent_evidence": [
+    "project-control/academic-readiness/2-3-1-cycle100-final-downloaded-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/2-3-1-cycle100-capacity-and-aquifer-mcq-audit-2026-10-30.json"
+  ]
 }
