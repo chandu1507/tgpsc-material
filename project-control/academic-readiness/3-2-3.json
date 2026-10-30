@@ -1,7 +1,7 @@
 {
   "topic_id": "3-2-3",
   "title": "System of Government: Parliament, Union and State Executives and Legislatures",
-  "date": "2026-10-27",
+  "date": "2026-10-30",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -51,7 +51,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle30: actual 10 concepts, 25 original MCQs, six mains inspected. Added substantive Article171 forty-member minimum proviso vs one-third Council ceiling and separate Art164 ministry 17 maximum; revised Q13 in detailed notes, integrated master and offline HTML; five limited author-side source correspondences Q5/Q12/Q13/Q14/Q23. No independent distractor, mains, R1, accessibility or PDF synchronization certification. GitHub CI renderer run 40452135732 SUCCESS, 33-page searchable integrated PDF, SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; page18 330 chars and page33 490 chars require layout review; post-render downloaded archive and browser accessibility NOT verified. Cycle30 correction: contact-sheet page18 orphan visual heading identified in initial 33-page render; renderer PageBreak removed, rerender run 40452389432 SUCCESS, now 32 searchable pages SHA256 bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05. Actual final post-render artifact download pending. Final GitHub packaging run 40452521425 SUCCESS, artifact 12711190435 actually downloaded: 1553 inner files, outer/inner ZIP CRC PASS, 75 original topic PDFs byte-identical to Cycle29, 75 readiness JSON, 78 HTML, 476 static links and 686 DOM fragments zero broken, 64 SPA hash routes excluded, 12/12 Topic3 manifest hashes PASS, corrected 32-page PDF SHA match. All 32 pages contact-sheet inspected; pages18 and32 full resolution; full accessibility/public browser not certified.",
-  "next_action": "Complete R1 fresh official syllabus and R2/R4/R5/R6/R7 independent content audits; fix last-page source-tail pagination and perform accessibility/browser QA before R8 PASS.",
+  "next_action": "Merge source and CI guard; inspect deterministic GitHub render; download actual post-render Actions artifact and verify 75 unchanged originals, 75 readiness JSON, offline links, ZIP CRC, PDF SHA and QA. Then complete 30-key/90-distractor, six-mains, R1 and browser audits.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -71,5 +71,22 @@
       32
     ],
     "full_accessibility_verified": false
+  },
+  "cycle114": {
+    "new_original_practice_mcqs": 5,
+    "total_original_practice_mcqs": 30,
+    "new_keys_and_distractors_author_correlated": 5,
+    "new_distractors_author_correlated": 15,
+    "primary_source": "Government of India Legislative Department Constitution of India 11 November 2025 English-Kannada diglot, Articles 85,100,111,123,200",
+    "source_url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "original_pdf_sha256_guard": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24",
+    "renderer_stale_guard_repaired": true,
+    "renderer_status": "PENDING_MAIN_MERGE_AND_ACTIONS",
+    "actual_downloaded_artifact": "PENDING",
+    "all_30_keys_and_90_distractors_independently_checked": false,
+    "six_mains_claim_level_checked": false,
+    "academic_approved": false,
+    "r9": "NOT_STARTED",
+    "notes": "The 25 existing original MCQs are preserved in order. New Q26-Q30 are distinct primary-text questions with three explicitly explained distractors each. No claim of official PYQs or independent review."
   }
 }
