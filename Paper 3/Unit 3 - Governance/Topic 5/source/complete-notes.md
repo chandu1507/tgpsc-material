@@ -2,7 +2,7 @@
 
 **TGPSC Group I | Paper III | Unit III | Topic 5 | Expanded draft | 27 October 2026**
 
-**ACADEMIC STATUS: NOT APPROVED.** All 25 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.
+**ACADEMIC STATUS: NOT APPROVED.** All 30 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.
 
 **Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.
 
@@ -262,6 +262,19 @@ First read chapters 1–8 to build the values-to-service framework; then compare
 **Fourth: make a durable correction.** Require independent commissioning tests before final payment, record asset downtime, create maintenance service-level agreements, publish anonymised uptime metrics and establish a complaint escalation path. A gender and disability audit should examine who is excluded from booking and travel. Officers must give candid written advice even if an elected representative prefers a ceremonial inauguration; once lawful remedial decisions are taken, officials must implement them without partisan discrimination.
 
 **Evaluation.** Success is not the number of raids, RTI replies or portal logins. It is verified machine uptime, timely access for patients, fair procurement, reasoned accountability and reduced repeat failure. This integrated approach demonstrates how ethical values become enforceable institutional practice rather than isolated definitions.
+
+
+## 19. RTI remedies after refusal: appeals, complaints, cost relief and penalties
+
+**Different procedures solve different problems.** An applicant who seeks an existing road-inspection report may receive a refusal or no reply. Section 7(2) treats a failure to decide within the prescribed period as a deemed refusal. Section 19 provides an appeal: the first appeal ordinarily goes to an officer senior to the PIO within 30 days of the decision or expiry of the applicable period. A second appeal goes to the competent Information Commission within 90 days of the relevant decision or expected decision. Both filing periods have statutory provisions allowing delayed appeals for sufficient cause. These periods are not promises that an entire case will be decided in 90 days [S23].
+
+**Complaint versus appeal.** Section 18 allows an Information Commission to receive and inquire into complaints about inability to lodge a request, refusal, silence, unreasonable fees and misleading information. Section 19 separately establishes appellate review, and Section 19(8)(a)(i) expressly empowers the Commission to require access to information in an appeal decision. The distinction matters when the applicant seeks disclosure rather than an inquiry into how the application was handled. Neither route overrides lawful exemptions. The Supreme Court's 2011 Manipur judgment also distinguishes the two jurisdictions, but the current author-side check here is confined to the statutory text, not a comprehensive case-law review [S23].
+
+**Clocks, costs and reasons.** Section 19(6) requires a first appeal to be decided within 30 days or, with reasons recorded, within a total of 45 days. Section 19(5) puts the burden of proving a denial justified on the denying PIO during appeal proceedings. If a public authority misses the Section 7(1) deadline, Section 7(6) requires the information to be supplied free of charge; this cost rule is not a declaration of criminal wrongdoing. Section 7(8) requires a rejection to state reasons, appeal time and appellate-authority particulars. Ordinary request timing differs from the life-or-liberty rule and certain transfer or third-party procedures [S23].
+
+**Penalties are conditional, not automatic.** Section 20(1) specifies Rs 250 per day up to Rs 25,000 for enumerated PIO defaults without reasonable cause. The PIO must be heard and bears the statutory burden of showing reasonable and diligent conduct. Section 20(2) concerns recommending disciplinary action for persistent specified failures. Section 19(8)(b) separately allows compensation for loss or detriment. A fine, compensation, disclosure order and disciplinary recommendation are legally different outcomes; a delayed reply does not automatically produce all four [S23].
+
+**Telangana case and mains structure.** Suppose a resident seeks a tank-bund measurement book and completion certificate. Preserve the application receipt, any transfer notice, the PIO decision and dates; then use the correct first- and second-appeal routes if necessary. A separate complaint may address refusal to accept the application. A request for expenditure records does not automatically authorise disclosure of unrelated personal identifiers: Section 10 severability and the post-2025 wording of Section 8(1)(j) require attention. In mains answers, distinguish **request → decision → appeal → disclosure or reasoned exemption** from **complaint inquiry** and **penalty/disciplinary accountability** [S23, S18].
 
 
 # Visual learning and comparison tables
@@ -592,6 +605,56 @@ D. Timeliness must be assessed alongside decision accuracy, reasons, accessibili
 **Answer: D.** A fast closure rate measures processing speed, not substantive correctness. Appeal reversals warrant sample review; they do not alone prove offences or justify removing appellate safeguards.
 
 
+## Cycle 121 — five additional original RTI-remedies practice questions (31 October 2026)
+
+These are original four-option practice items, not official TGPSC PYQs. Their five keys and 15 distractors received bounded author-side checks against India Code's RTI Act consolidated as on 18 November 2025.
+
+### MCQ 26. An RTI applicant seeks an order requiring lawful disclosure after a PIO's refusal. Which provision expressly empowers an Information Commission to require access in an appeal decision?
+
+A. CVC Act, 2003, general vigilance powers.
+B. RTI Section 19(8)(a)(i).
+C. RTI Section 20 as an applicant's direct civil-court remedy.
+D. RTI Section 24 exemption notifications.
+
+**Answer: B.** Section 19(8)(a)(i) permits an access direction in appeal. A concerns vigilance rather than RTI access; C confuses Commission penalties with a civil-court remedy; D concerns specified organisational exclusions, not access directions. [C121-01]
+
+### MCQ 27. A public authority misses the applicable Section 7(1) RTI decision deadline. What does Section 7(6) provide?
+
+A. A compulsory late-response surcharge.
+B. Automatic dismissal of the PIO.
+C. Information supplied free of charge because the statutory deadline was missed.
+D. Permanent exemption of the requested record.
+
+**Answer: C.** Section 7(6) requires information free of charge after failure to meet Section 7(1)'s deadline. A reverses the cost rule; B is not automatic; D invents an exemption. Other lawful exemptions still require separate analysis. [C121-02]
+
+### MCQ 28. During an RTI appeal, who bears the onus of proving that denial was justified under Section 19(5)?
+
+A. The applicant in every case.
+B. The district police superintendent.
+C. The department's external auditor.
+D. The PIO who denied the request.
+
+**Answer: D.** Section 19(5) allocates the burden to the denying PIO, not the applicant (A), police (B) or auditor (C). It does not guarantee that every requested record must be disclosed. [C121-03]
+
+### MCQ 29. Which description correctly states the monetary penalty under RTI Section 20(1) for specified unjustified PIO defaults?
+
+A. Rs 1,000 daily, with no statutory cap or hearing.
+B. Rs 250 daily, capped at Rs 25,000, with an opportunity to be heard.
+C. Rs 25,000 automatically for any delayed application.
+D. Rs 250 monthly, paid directly to the requester.
+
+**Answer: B.** Section 20(1) provides Rs 250 per day, total cap Rs 25,000, and a hearing. A misstates the rate and cap; C removes statutory conditions; D changes the period and confuses penalties with compensation. [C121-04]
+
+### MCQ 30. What is the disposal period for a first RTI appeal under Section 19(6)?
+
+A. Exactly 48 hours in all cases.
+B. No statutory period exists.
+C. Ordinarily 30 days, extendable to a total of 45 days with written reasons.
+D. A mandatory 90-day waiting period.
+
+**Answer: C.** Section 19(6) provides 30 days or a reasoned extension up to 45. A confuses the request's life-or-liberty rule; B denies the stated deadline; D confuses the second-appeal filing period with first-appeal disposal. [C121-05]
+
+
 # Original mains practice: question-specific blueprints and complete model answers
 
 **Provenance:** These six questions and answers are original practice. None is represented as an official TGPSC previous-year question. Verified official PYQ count: **zero**; original paper and question number are unavailable.
@@ -753,3 +816,17 @@ Dated author-side primary-source correspondences (not independent academic certi
 - [C34-08] DARPG, Second ARC Twelfth Report, *Citizen Centric Administration*, Sevottam service quality and grievance outcomes (Q25): https://darpg.gov.in/sites/default/files/ccadmin12.pdf
 
 Verification boundary: item-level author-side comparisons to the listed government texts for the relevant legal/institutional propositions; no independent examiner, no complete legal audit of all 25 questions and 100 alternatives, no independent mains claim audit, and no direct official Commission syllabus PDF retrieval. Q3/Q25 remain evaluative scenarios, not statutory holdings. R1/R4/R5/R6 remain unpassed; R9 not started.
+
+## Cycle 121 — 31 October 2026: RTI remedies, primary-source register and bounded question audit
+
+**[S23] India Code, Right to Information Act, 2005, consolidated as on 18 November 2025:** https://upload.indiacode.nic.in/showfile?actid=AC_CEN_26_36_00004_200522_1517807322955&filename=a2005-22.pdf&type=actfile . Sections 7(2), 7(6), 7(8), 18, 19(1), 19(3), 19(5), 19(6), 19(8), 20(1) and 20(2) were directly inspected. The consolidated text records the post-13-November-2025 amendment of Section 8(1)(j); Gazette [S18] independently documents its commencement.
+
+| Audit ID | Question | Correct key and primary section | Three distractors individually checked |
+|---|---|---|---|
+| C121-01 | Q26 | B; Section 19(8)(a)(i) | A CVC is not RTI disclosure forum; C Section 20 is not direct civil-court relief; D Section 24 is an exclusion mechanism |
+| C121-02 | Q27 | C; Section 7(6) | A no surcharge; B no automatic dismissal; D delay creates no exemption |
+| C121-03 | Q28 | D; Section 19(5) | A applicant not burden-holder; B police not specified; C auditor not specified |
+| C121-04 | Q29 | B; Section 20(1) | A wrong rate/cap; C wrong automatic flat penalty; D wrong monthly rate and beneficiary |
+| C121-05 | Q30 | C; Section 19(6) | A 48-hour rule is for life-or-liberty requests; B statutory period exists; D 90 days concerns second-appeal filing |
+
+**Verification boundary:** The five new keys and 15 new distractors were author-side correlated with the named primary statutory provisions; these are not independent examiner approvals. All 30 questions are original practice; verified official PYQs remain zero. The previous 25 keys/75 distractors and six mains answers still require independent claim-level audit. Direct Commission-hosted syllabus authentication, full browser accessibility, diagram review and named expert approval remain pending. R1–R8 are incomplete; R9 NOT_STARTED.
