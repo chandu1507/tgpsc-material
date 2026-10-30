@@ -37,9 +37,9 @@
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1/source/integrated-student-edition-2026-10-26.pdf",
     "renderer": "scripts/render_geography_integrated_student_edition.py",
     "workflow": ".github/workflows/render-topic-2-3-1-integrated.yml",
-    "pdf_pages": 33,
-    "pdf_sha256": "77167265a766468bf00d71a9b94b5821c77e730712d4435220568ab41e40adfb",
-    "pdf_text_words": 16589,
+    "pdf_pages": 32,
+    "pdf_sha256": "3ee9e4d067b89f117a19c7d9518bdcedefd7fa13a13e94542133d5fde789f71c",
+    "pdf_text_words": 16571,
     "concepts": 25,
     "original_explained_mcqs": 25,
     "structured_mains_answers": 6,
@@ -74,7 +74,7 @@
     "latest_render_qa": "project-control/academic-readiness/2-3-1-turn10-render-layout-qa-2026-10-26.json",
     "post_latest_render_artifact_download_pending": true,
     "latest_verified_remote_qa": "project-control/academic-readiness/2-3-1-turn11-post-render-artifact-qa-2026-10-26.json",
-    "latest_renderer_run": 40982026980,
+    "latest_renderer_run": 40982386478,
     "latest_renderer_result": "SUCCESS",
     "packaging_run": 40318970135
   },
@@ -168,7 +168,7 @@
   "cycle99": {
     "evidence": "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json",
     "source_commit": "50d2c9699b3b3838aaac3ff9a1bd02c5e6749f9e",
-    "renderer_commit": "33bd560b8f5fac5f418abcf4bd3f0ff42171c897",
+    "renderer_commit": "aa3521aef0148de544cdbd3f2cdb5a0a90309de5",
     "concept_25_words": 328,
     "mcq_option_sets_audited": [
       11,
@@ -178,6 +178,9 @@
     ],
     "mains_q1_body_words": 245,
     "post_evidence_artifact_verification": "PENDING",
-    "independent_approval": false
+    "independent_approval": false,
+    "pdf_sha256": "3ee9e4d067b89f117a19c7d9518bdcedefd7fa13a13e94542133d5fde789f71c",
+    "pdf_pages": 32,
+    "layout_defect_fixed": "Q6 blueprint no longer orphaned; page 27 now includes model answers"
   }
 }
