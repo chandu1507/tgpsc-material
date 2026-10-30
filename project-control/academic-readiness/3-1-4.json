@@ -67,7 +67,11 @@
       13,
       14
     ],
-    "render_status": "CI_PENDING",
-    "independent_approval": false
+    "render_status": "GITHUB_ACTIONS_SUCCESS",
+    "independent_approval": false,
+    "github_ci_run_id": 41051117243,
+    "github_pdf_sha256": "294e15aa983b8e9fad3e845bcdf66d3d484c6b12c649920247903e71028203d4",
+    "github_pdf_pages": 18,
+    "downloaded_packaging_artifact": "PENDING"
   }
 }
