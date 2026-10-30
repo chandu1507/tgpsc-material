@@ -1,0 +1,39 @@
+{
+  "cycle": 111,
+  "date": "2026-10-30",
+  "topic_id": "3-1-4",
+  "baseline_main": "90da17ef07ad830c0b125c1d615604c9989a6303",
+  "scope": "Legacy source and student HTML statutory synchronization; integrated master/PDF unchanged",
+  "statutory_source": "https://www.indiacode.nic.in/bitstream/123456789/20973/1/the_bonded_labour_system_%28abolition%29_act%2C_1976.pdf",
+  "source_checked_sections": [
+    "2(b) explanation explicitly lists Vetti",
+    "4 abolition of bonded labour system",
+    "5 bonded-service customs/agreements void"
+  ],
+  "nuance": "Express statutory listing of Vetti is not automatic proof of the factual elements of an individual case.",
+  "edited_existing_files": [
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/complete-notes.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/detailed-notes.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/original-explained-mcqs.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/complete-model-answers.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/structured-mains-answers-revised.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/depth-repair-telangana-social-movements.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/references.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/index.html"
+  ],
+  "original_topic_pdfs_modified": false,
+  "integrated_master_modified": false,
+  "integrated_pdf_modified": false,
+  "unchanged_topic_inventory_target": 75,
+  "readiness": "ASSESSED_REBUILD_REQUIRED",
+  "academic_gate_promotions": [],
+  "r1_r8_fully_ready": 0,
+  "independent_approvals": 0,
+  "pending": [
+    "Post-merge packaging artifact must be downloaded and independently checked; this branch has no new Actions artifact yet.",
+    "Full 30-key/90-distractor and six-mains claim audits",
+    "Direct R1 syllabus authentication",
+    "Full browser and screen-reader testing",
+    "Named independent expert review"
+  ]
+}
