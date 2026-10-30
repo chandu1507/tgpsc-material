@@ -41,7 +41,23 @@
     "R1-R8 not fully PASS; R9 NOT_STARTED; independent approvals ZERO",
     "PDF and actual post-edit Actions artifact verification pending at authoring time"
   ],
-  "measurement_correction": "Initial local audit script concatenated string section ID with 1 (e.g. 11->111), accidentally counting to end of master. Corrected to numeric section ID + 1 and recomputed against both immutable base and edited branch.",
-  "concepts_below_300_before": 17,
-  "concepts_below_300_after": 13
+  "measurement_correction": "Two independent issues corrected: (1) initial string-concatenation bug counted to end of file for sections 11/15/16/18; (2) corrected script still incorrectly included Part D onward for final section 23 because it lacked a next numbered heading. Recount bounded strictly to Part C and each numbered section gives 18 before, 14 after. Four edited section word counts remain correct (161->375, 186->381, 206->385, 184->388).",
+  "concepts_below_300_before": 18,
+  "concepts_below_300_after": 14,
+  "verification_update": {
+    "renderer_run": 40999961337,
+    "renderer_success": true,
+    "packaging_run": 40999992504,
+    "packaging_success": true,
+    "downloaded_artifact": 12953455154,
+    "outer_sha256": "72f561293c2a958c50a5f93230e8fdf97905948ef05d66fc5085182456755e5f",
+    "original_pdfs_unchanged": 75,
+    "files": 1995,
+    "readiness_json": 75,
+    "broken_local_refs": 0,
+    "broken_fragments": 0,
+    "pdf_pages": 40,
+    "pdf_sha256": "9609ed25b5b490855d126ca89c3b0cd4a73adabaf703f3acc6faa3fcc52dbc15",
+    "browser_accessibility_certified": false
+  }
 }

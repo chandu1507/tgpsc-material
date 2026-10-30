@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 originals; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS, ZERO R1-R8 fully ready, ZERO independent approvals. Cycle102 Topic 3-1-2 four source-bounded expansions; 13/23 under300 by documented section-body whitespace method; CI and post-edit artifact QA pending.",
+  "warning": "75 originals; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS, ZERO R1-R8 fully ready, ZERO independent approvals. Cycle102 Topic 3-1-2 four source-bounded expansions; 14/23 under300 by documented section-body whitespace method; CI and actual post-render downloaded-artifact technical QA PASS; academic/browser QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle102 Topic 3-1-2: concepts 11,15,16,18 expanded 161->375, 186->381, 206->385, 184->388 whitespace words; 17->13 sections under300 by corrected section-body method (earlier Cycle101 18 used a different boundary). No independent question/answer audits; R8 incomplete; approvals zero.",
+  "last_readiness_update": "Cycle102 3-1-2: 4 source-bounded concept expansions to 375/381/385/388 words; Part C-only count 18->14 under300 (corrected from erroneous 17->13 due final-section boundary). Renderer 40999961337 SUCCESS, post-render packaging 40999992504 artifact 12953455154 actually downloaded: CRC/digest, 75 originals and 1647 local links/1050 fragments PASS. No R1-R8 full readiness; approvals zero.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-2-cycle102-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-2-cycle102-inclusion-depth-and-source-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-2-cycle101-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-2-cycle101-legal-mcq-depth-and-deduplicated-master-2026-10-30.json",
