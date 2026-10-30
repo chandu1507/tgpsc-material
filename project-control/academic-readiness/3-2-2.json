@@ -1,7 +1,7 @@
 {
   "topic_id": "3-2-2",
   "title": "Fundamental Rights, Directive Principles, Rule of Law and Fundamental Duties",
-  "date": "2026-10-27",
+  "date": "2026-10-30",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -41,7 +41,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending. Final 28-page PDF and 75-topic downloaded artifact CRC/hash/link checks PASS; 1544 files, 474 file links and 686 DOM fragments zero broken. R8 remains IN_PROGRESS due browser/accessibility checks.",
-  "next_action": "Download actual post-render GitHub packaging artifact; verify PDF hash, 75 original PDFs, readiness JSON, ZIP CRC and offline links; then full academic R1-R7 review.",
+  "next_action": "Verify Cycle113 CI-rendered PDF and actual post-render GitHub artifact CRC/SHA/75 original PDFs/offline links; independently audit all 30 keys/90 distractors and six mains; direct R1 and browser/accessibility checks; no R9 until all gates PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -57,5 +57,27 @@
     "packaging_run": 40448473538,
     "packaging_artifact_id": 12708959142,
     "integrity_report": "project-control/academic-readiness/3-2-2-cycle29-downloaded-artifact-qa-2026-10-27.json"
+  },
+  "cycle113": {
+    "substantive_article20_concept_added": true,
+    "original_practice_mcqs": 30,
+    "new_original_mcqs": 5,
+    "new_keys_author_correlated": 5,
+    "new_distractors_author_correlated": 15,
+    "original_diagram_added": true,
+    "balanced_answer_positions": {
+      "A": 8,
+      "B": 8,
+      "C": 7,
+      "D": 7
+    },
+    "mains": 6,
+    "master": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-30.md",
+    "pdf": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-30.pdf",
+    "evidence": "project-control/academic-readiness/3-2-2-cycle113-article20-and-mcq-source-audit-2026-10-30.json",
+    "ci_render": "PENDING",
+    "post_render_downloaded_artifact_qa": "PENDING",
+    "r1_r8_ready": false,
+    "independent_approval": false
   }
 }
