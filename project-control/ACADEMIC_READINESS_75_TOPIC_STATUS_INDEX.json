@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle98: 75 original topics/PDFs; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 R1 PASS, zero R1-R8 ready/approvals. Topic 2-3-3 14/14 >=300 whitespace words, 26-page CI PDF with 14 isolated concept starts; actual downloaded artifact 12942374019 SHA/CRC/75 originals/597 links/1050 fragments PASS. Academic MCQ/mains and browser audits incomplete.",
+  "warning": "Cycle99: 75 original topics/PDFs; 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 R1 PASS, zero R1–R8 ready and independent approvals. Topic 2-3-1 corrected 2026 IMD mains conclusion, 4 MCQ four-option sets author-checked, 328-word synthesis and deterministic 32-page PDF; actual downloaded artifact 12945935403 SHA/CRC/75 originals/597 total local refs (554 file refs +43 SPA routes)/1050 fragments PASS. Browser/accessibility and academic verification incomplete.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle98 2-3-3 8 concept expansions, corrected 26-page CI PDF, source-register table and 14 distinct concept-start pages; R3/R8 not PASS, R9 not started, approvals ZERO.",
+  "last_readiness_update": "Cycle99 Topic 2-3-1 bounded IMD source corrections, 32-page PDF layout fix and actual downloaded post-layout artifact QA; no gate promotion.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,8 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-1-cycle99-actual-downloaded-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-4-cycle96-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
