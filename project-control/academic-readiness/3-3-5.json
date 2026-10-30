@@ -1,7 +1,7 @@
 {
   "topic_id": "3-3-5",
   "title": "Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle34 bounded source audit and 15 MCQ revisions plus actual downloaded artifact QA. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json and 3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json. No independent academic approval.",
-  "next_action": "Verify 25 keys and 100 distractors independently, all six mains claims, syllabus source, diagrams, deduplication, actual rendered CI PDF and downloaded GitHub artifact CRC/SHA/links/browser QA; R9 only after all R1-R8 PASS and named expert.",
+  "evidence": "Cycle34 bounded source audit and 15 MCQ revisions plus actual downloaded artifact QA. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json and 3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json. No independent academic approval. Cycle121 adds RTI remedies concept and five new original MCQs; five keys and 15 distractors bounded author-side checked against consolidated RTI Act sections 7/18/19/20. Existing 25 questions and six mains still require independent audit. CI artifact QA pending.",
+  "next_action": "Independently verify all 30 keys/90 distractors, six mains, official Commission syllabus, diagrams, browser accessibility, deterministic CI PDF and downloaded ZIP CRC/SHA; R9 only after R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_cycle34": {
@@ -58,5 +58,16 @@
     "r1_official_pdf_directly_verified": false,
     "independent_academic_approval": false,
     "integrated_pdf": "36-page GitHub CI PDF SHA256 3d0785bd3facd5e1726b08d8a99d13117e2b7ccd069d978669e36c84347a731d; downloaded artifact 12721128624 independently checked; R8 IN_PROGRESS, not PASS"
+  },
+  "objective_cycle121": {
+    "concepts": 19,
+    "original_practice_mcqs": 30,
+    "new_mcqs": 5,
+    "new_keys_author_source_checked": 5,
+    "new_distractors_author_source_checked": 15,
+    "verified_official_pyqs": 0,
+    "independent_approvals": 0,
+    "all_r1_r8_pass": false,
+    "ci_artifact_qa": "PENDING"
   }
 }
