@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics, 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED, 14 R1 PASS, ZERO fully R1-R8 ready and ZERO independent approvals. Cycle110 CI PDF SUCCESS, downloaded post-render artifact QA pending.",
+  "warning": "Exactly 75 topics: 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 normalized R1 PASS, ZERO fully R1-R8 ready and ZERO independent approvals. Cycle110 actual post-render packaging QA passed; post-control repackage pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle110 Topic 3-1-4: 8,054-word deduplicated master, Vetti statutory correction, 30 original MCQs, six mains, two vector diagrams; 18-page GitHub CI PDF SHA 294e15aa... SUCCESS. Actual post-render packaging artifact QA pending; no approvals.",
+  "last_readiness_update": "Cycle110 Topic 3-1-4: 18-page GitHub CI PDF and actual artifact 12974667647 downloaded and SHA/CRC/75 originals/links verified. R1-R8 ready ZERO, independent approvals ZERO.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-4-cycle110-actual-downloaded-postrender-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle110-deduplicated-master-vetti-primary-source-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle109-actual-downloaded-post-layout-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle109-five-concept-primary-source-depth-audit-2026-10-30.json",
@@ -193,7 +194,6 @@
     "project-control/academic-readiness/3-1-2-cycle101-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-2-cycle101-legal-mcq-depth-and-deduplicated-master-2026-10-30.json",
     "project-control/academic-readiness/2-3-1-cycle99-actual-downloaded-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json",
-    "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json"
   ]
 }
