@@ -18,4 +18,4 @@ This is one numbered syllabus topic, not eight separate official topics. Editori
 | Aged | 13 | Old-age protection 2007, care and autonomy |
 | Disabled | 14–15 | Rights model; RPwD 2016; 4% employment versus 5% higher education |
 
-**Compulsory learner assets:** 23 explanatory sections; 6 original professional model answers and blueprints; 10 explained original MCQs; topic summary; quick revision; four analytical diagrams/tables; source-checked contemporary examples. This chapter is still a draft requiring independent academic review.
+**Compulsory learner assets:** 23 explanatory sections; 6 original professional model answers and blueprints; 25 original four-option practice MCQs (15 added Cycle101; all independent source checks pending); topic summary; quick revision; four analytical diagrams/tables; source-checked contemporary examples. This chapter is still a draft requiring independent academic review.
