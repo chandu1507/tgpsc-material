@@ -1,0 +1,88 @@
+{
+  "cycle": 104,
+  "date": "2026-10-30",
+  "topic_id": "3-1-3",
+  "base_main_sha": "0c63137a8140f1bdcb7630a02de9796c12d5571f",
+  "source_master": "Paper 3/Unit 1 - Indian Society/Topic 3/source/integrated-student-edition-2026-10-30.md",
+  "issue": "Cycle103 bank had repeated concepts Q2/Q18, Q4/Q21, Q12/Q26 and malformed inline option layout Q2/Q6. Duplicate content weakens exam breadth; a mechanical 30-item count did not reveal it.",
+  "edits": [
+    {
+      "question": 2,
+      "change": "format four options on separate lines; add explicit distractor rationales",
+      "key": "C",
+      "source_scope": "existing labour force denominators; no new independent review"
+    },
+    {
+      "question": 6,
+      "change": "format four options on separate lines; add distractor rationales",
+      "key": "B",
+      "source_scope": "existing Telangana formation chronology; no new independent review"
+    },
+    {
+      "question": 18,
+      "change": "replace repeated PLFS denominator with unpaid domestic-work time-use participation",
+      "key": "B",
+      "source": "https://www.mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf",
+      "source_publication_date": "2025-02-25",
+      "check": "all India, 6+, 81.5% female, 27.1% male, activity participation not duration",
+      "distractors_checked": [
+        "A conflates participation and duration",
+        "C conflates time use and unemployment",
+        "D falsely limits geography and age"
+      ]
+    },
+    {
+      "question": 21,
+      "change": "replace repeated child labour statutory framing with Constitution Articles 23 versus 24",
+      "key": "B",
+      "source": "https://www.legislative.gov.in/static/uploads/2025/07/ca7ce5c746fa7480804bbdeb6cb704f0.pdf",
+      "check": "Article23 trafficking/begar/forced labour; Article24 under14 hazardous employment; Art23(2) public service exception",
+      "distractors_checked": [
+        "A reverses provisions",
+        "C invents duty",
+        "D misstates protected age and scope"
+      ]
+    },
+    {
+      "question": 26,
+      "change": "replace repeated demographic momentum with 2011 census town criteria",
+      "key": "A",
+      "source": "https://censusindia.gov.in/nada/index.php/catalog/42617/download/46288/Census%20of%20India%202011%E2%80%91Rural%20Urban%20Distribution%20of%20Population.pdf",
+      "check": "5000 population, 400 per square km, 75% male main workers nonagricultural; distinct statutory town",
+      "distractors_checked": [
+        "B wrong thresholds",
+        "C statutory not census town",
+        "D wrong denominator and missing thresholds"
+      ]
+    }
+  ],
+  "mechanical_check": {
+    "exact_original_practice_mcqs": 30,
+    "all_have_exactly_four_line_separated_options": true,
+    "all_have_one_ABCD_key": true,
+    "original_mains_answers": 8,
+    "original_topic_pdfs_preserved_by_source_commit": true
+  },
+  "baseline_snapshot": {
+    "github_final_packaging_run": 41006271750,
+    "downloaded_artifact_id": 12954859143,
+    "downloaded_archive_sha256": "8e18238ff0fe117a6d03c94d900eeffaa1155d84db37c9682f7a1531a91107ed",
+    "zip_files": 2003,
+    "original_pdfs": 75,
+    "readiness_json": 75,
+    "readiness_statuses": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "R1_pass_normalized": 14,
+    "R1_pass_gate_status_field": 13,
+    "R1_pass_nested_gates_field": 1,
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0,
+    "crc": "PASS"
+  },
+  "pending": "CI synchronized PDF, downloaded post-edit Actions artifact, CRC/hash/link verification and Library preservation are not yet verified at source-edit commit time.",
+  "academic_gates": "R1-R8 incomplete; R9 NOT_STARTED; academic approvals ZERO. Five author-side item corrections are NOT a full independent 30-key/90-distractor or eight-mains audit.",
+  "provenance": "Directly inspected official-source web documents on 30 Oct 2026; not official PYQs; no archival or independent-expert consultation claimed."
+}

@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 original topics; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 R1 PASS, ZERO fully R1–R8 ready, ZERO independent approvals. Cycle103 3-1-3 publication QA PASS, academic review pending.",
+  "warning": "75 originals; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS (13 gate_status plus one nested gates record); ZERO R1-R8 ready and ZERO independent approvals. Cycle104 3-1-3 MCQ deduplication committed; CI/artifact QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle103 Topic 3-1-3: 20 sections >=300 whitespace words, 30 original MCQs, eight mains; CI 40-page PDF renderer 41005951143 SUCCESS; actual downloaded artifact 12955477589 SHA/CRC/75 originals/1647 local links/1050 fragments PASS. Academic review, diagrams and browser accessibility incomplete; 7 IN_PROGRESS, 68 REBUILD, 14 R1 PASS, zero approvals.",
+  "last_readiness_update": "2026-10-30 Cycle104 five-item MCQ correction; no gate promotion",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -218,6 +218,7 @@
     "project-control/academic-readiness/6-3-4-cycle77-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/6-3-4-cycle77-direct-source-depth-mcq-mains-audit-2026-10-29.json",
     "project-control/academic-readiness/6-3-3-cycle76-direct-depth-mcq-mains-and-source-audit-2026-10-29.json",
-    "project-control/academic-readiness/6-3-2-cycle75-actual-downloaded-post-ci-artifact-qa-2026-10-29.json"
+    "project-control/academic-readiness/6-3-2-cycle75-actual-downloaded-post-ci-artifact-qa-2026-10-29.json",
+    "project-control/academic-readiness/3-1-3-cycle104-mcq-dedup-and-four-option-source-audit-2026-10-30.json"
   ]
 }
