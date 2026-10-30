@@ -41,7 +41,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending. Final 28-page PDF and 75-topic downloaded artifact CRC/hash/link checks PASS; 1544 files, 474 file links and 686 DOM fragments zero broken. R8 remains IN_PROGRESS due browser/accessibility checks.",
-  "next_action": "Download actual post-render packaging artifact and independently check CRC/SHA, exactly 75 originals and offline links; complete MCQ/mains/official syllabus/browser audit; R9 remains NOT_STARTED.",
+  "next_action": "Full independent 30-key/90-distractor and six-mains claim audits; direct Commission syllabus R1; legacy HTML synchronization and full browser/accessibility; R9 only after genuine R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -76,11 +76,15 @@
     "pdf": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-30.pdf",
     "evidence": "project-control/academic-readiness/3-2-2-cycle113-article20-and-mcq-source-audit-2026-10-30.json",
     "ci_render": "SUCCESS",
-    "post_render_downloaded_artifact_qa": "PENDING",
+    "post_render_downloaded_artifact_qa": "ACTUALLY_DOWNLOADED_SHA_CRC_75_ORIGINALS_554_LOCAL_LINKS_1050_FRAGMENTS_PASS",
     "r1_r8_ready": false,
     "independent_approval": false,
     "ci_run_id": 41075957635,
     "pdf_pages": 29,
-    "pdf_sha256": "a14a626791052834b40d267fa8707126e87c2ff69032c4786f2d7a0535792d25"
+    "pdf_sha256": "a14a626791052834b40d267fa8707126e87c2ff69032c4786f2d7a0535792d25",
+    "packaging_run": 41076184215,
+    "artifact_id": 12986359935,
+    "artifact_sha256": "76541afe179ba1f93f54f887f2ce6049f7694bf874d8cc87c8ca54b5eea09dd8",
+    "qa_evidence": "project-control/academic-readiness/3-2-2-cycle113-actual-downloaded-artifact-qa-2026-10-30.json"
   }
 }
