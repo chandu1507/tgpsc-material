@@ -64,5 +64,12 @@
       "static_broken_links": 0,
       "integrated_pdf": false
     }
+  },
+  "cycle106": {
+    "date": "2026-10-30",
+    "finding": "Current-law defect: legacy Topic 3-1-5 source and student HTML describe MGNREGA as current in October 2026; correct law is VB–G RAM G Act 2025 effective 1 July 2026, 125 days per eligible rural household.",
+    "status": "BLOCKED_PENDING_SYNCHRONIZED_SOURCE_HTML_PDF_REPAIR",
+    "no_changes_to_student_material_this_cycle": true,
+    "academic_approval": false
   }
 }
