@@ -1,0 +1,105 @@
+{
+  "cycle": 115,
+  "date": "2026-10-30",
+  "topic_id": "3-2-4",
+  "baseline_main": "022456f32aa6267a66046c8a5848b7ff24b9af27",
+  "inventory": {
+    "original_topics": 75,
+    "original_pdfs": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 68,
+    "not_assessed": 0,
+    "r1_pass": 14,
+    "r1_to_r8_ready": 0,
+    "independent_approvals": 0
+  },
+  "source": {
+    "type": "primary constitutional text",
+    "publisher": "Government of India, Legislative Department",
+    "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "directly_viewed_articles": [
+      "129",
+      "130",
+      "144",
+      "215",
+      "233(1)",
+      "234"
+    ],
+    "source_limit": "PDF includes footnotes on invalidated NJAC provisions; none of the five questions relies on those provisions."
+  },
+  "original_practice_questions": [
+    {
+      "number": 26,
+      "correct": "D",
+      "article": "129, 215",
+      "all_three_distractors_explained": true,
+      "official_pyq": false
+    },
+    {
+      "number": 27,
+      "correct": "D",
+      "article": "130",
+      "all_three_distractors_explained": true,
+      "official_pyq": false
+    },
+    {
+      "number": 28,
+      "correct": "D",
+      "article": "144",
+      "all_three_distractors_explained": true,
+      "official_pyq": false
+    },
+    {
+      "number": 29,
+      "correct": "D",
+      "article": "233(1)",
+      "all_three_distractors_explained": true,
+      "official_pyq": false
+    },
+    {
+      "number": 30,
+      "correct": "C",
+      "article": "234",
+      "all_three_distractors_explained": true,
+      "official_pyq": false
+    }
+  ],
+  "reordered_prior_questions": [
+    1,
+    2,
+    6,
+    8
+  ],
+  "reorder_rule": "Swap B and D option propositions, change answer B to D; no correct proposition changed.",
+  "bank": {
+    "prior": 25,
+    "added": 5,
+    "after": 30,
+    "distribution": {
+      "A": 7,
+      "B": 8,
+      "C": 7,
+      "D": 8
+    }
+  },
+  "synchronized_sources": [
+    "Paper 3/Unit 2 - Constitution of India/Topic 4/source/original-mcqs.md",
+    "Paper 3/Unit 2 - Constitution of India/Topic 4/source/complete-notes.md",
+    "Paper 3/Unit 2 - Constitution of India/Topic 4/index.html",
+    "Paper 3/Unit 2 - Constitution of India/Topic 4/source/sources-and-audit.md"
+  ],
+  "original_pdf_expected_sha256": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f",
+  "verification": {
+    "new_keys_author_source_checked": 5,
+    "new_distractors_author_source_checked": 15,
+    "all_30_independently_checked": false,
+    "all_90_distractors_independently_checked": false,
+    "all_six_mains_claims_checked": false,
+    "official_tgpsc_pyqs": 0,
+    "ci_render": "PENDING",
+    "actual_downloaded_artifact": "PENDING",
+    "browser_accessibility": "NOT_TESTED",
+    "r9": "NOT_STARTED",
+    "approvals": 0
+  }
+}
