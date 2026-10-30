@@ -203,7 +203,14 @@
     "arithmetic_checked": true,
     "independent_validation": false,
     "evidence": "project-control/academic-readiness/2-3-1-cycle100-capacity-and-aquifer-mcq-audit-2026-10-30.json",
-    "post_merge_pdf_and_artifact": "PENDING",
-    "original_pdf_preservation": "MUST_VERIFY"
+    "post_merge_pdf_and_artifact": "SUCCESS_FINAL_POST_LAYOUT_DOWNLOADED_ARTIFACT_QA_PASS",
+    "original_pdf_preservation": "75_OF_75_UNCHANGED_VS_CYCLE99",
+    "integrated_pdf_pages": 33,
+    "integrated_pdf_sha256": "0d225b2aa64f6a61111956062dab5112034d6bf38263b0974c2a090d576b7e36",
+    "actual_artifact_id": 12948276635,
+    "actual_artifact_sha256": "9473c290e1a69072cb6e1654b2d3958ab4d4435bb704f13e6ad62f2b249a6736",
+    "actual_artifact_qa": "project-control/academic-readiness/2-3-1-cycle100-final-downloaded-artifact-qa-2026-10-30.json",
+    "browser_accessibility": "NOT_CERTIFIED",
+    "independent_approval": false
   }
 }
