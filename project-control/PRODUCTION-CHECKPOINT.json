@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-2",
+    "last_reported_topic": "3-1-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle102 3-1-2: 4 source-bounded concept expansions; 14/23 under300 by Part C-only section-body count; 40-page CI PDF and actual downloaded artifact technical QA PASS, academic approvals ZERO."
+    "note": "Cycle103 integrated Topic 3-1-3 editable master; CI and actual artifact QA pending; academic approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -230,8 +230,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "objective_assessment_20_sections_18_under300_30_mcqs_8_mains_rebuild_required",
-      "notes": "Consolidated editable master recovered; original 4,530-word 9-page depth repair and 15 additional original explained MCQs published; older PDF preserved; NOT academically approved. 27 Oct objective academic assessment: 18/20 narrative sections below 300 words; 30 original MCQs across original-practice and complete-notes appendix; 8 mains; no standalone SVG or verified integrated PDF. No independent approval.",
+      "production_review": "cycle103_deduplicated_integrated_master_20_sections_30_mcq_8_mains_ci_pending",
+      "notes": "Cycle103: integrated earlier 4530-word repair into original 20 sections without duplicate MCQ/mains banks; 20/20 sections >=300 whitespace words, but not full academic depth certification. 30 original MCQs and 8 mains, author source checks only; original PDF SHA preserved. CI PDF, actual artifact QA, full claim audits, browser/accessibility and R9 pending; approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-3.json"
     },

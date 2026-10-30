@@ -1,0 +1,82 @@
+{
+  "cycle": 103,
+  "date": "2026-10-30",
+  "topic_id": "3-1-3",
+  "reconciled_main_at_start": "d3cbf8a802e391367d1309d95562ad55f04e4106",
+  "original_topic_pdf_sha256": "4232d13cc97da86bafcef526f7a3f86b951c96444b569dae00e8f444e0a0a5ef",
+  "topic_total": 75,
+  "readiness_counts_before": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0,
+    "R1_PASS": 14,
+    "R1_to_R8_ready": 0,
+    "independent_approvals": 0
+  },
+  "source_components_preserved": [
+    "syllabus-index.md",
+    "quick-revision.md",
+    "detailed-notes.md",
+    "depth-repair-social-issues-2026.md",
+    "visual-learning.md",
+    "original-practice.md",
+    "complete-model-answers.md",
+    "current-affairs.md",
+    "source-register-internal.md"
+  ],
+  "integrated_master": "Paper 3/Unit 1 - Indian Society/Topic 3/source/integrated-student-edition-2026-10-30.md",
+  "concepts": 20,
+  "concepts_under300_whitespace": 0,
+  "mcqs": 30,
+  "original_mcqs_not_official_pyqs": true,
+  "mains": 8,
+  "repair_integrated_into_original_sections": true,
+  "source_correspondences": [
+    {
+      "name": "Telangana State Profile",
+      "url": "https://www.telangana.gov.in/About/State-Profile/",
+      "checked": "Telangana 1956 and 2 June 2014 dates"
+    },
+    {
+      "name": "Indian Economic Service urban classification",
+      "url": "https://ies.gov.in/arthapedia/concept/urban",
+      "checked": "Census-town population, male main-worker and density criteria"
+    },
+    {
+      "name": "Government MGNREGA portal",
+      "url": "https://nrega.nic.in/index.html",
+      "checked": "100-day rural household guarantee definition"
+    },
+    {
+      "name": "UN 2030 Agenda",
+      "url": "https://sdgs.un.org/2030agenda",
+      "checked": "integrated economic, social, environmental dimensions"
+    },
+    {
+      "name": "DGE PLFS annual catalogue",
+      "url": "https://www.dge.gov.in/reference-publication-reports-annual",
+      "checked": "2023-24 report listing and date"
+    },
+    {
+      "name": "NITI MPI official communication",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pm-reiterates-commitment-towards-a-prosperous-future-for-every-indian-as-24-82-crore-people-escape-multidimensional-poverty-in-last-9-years-as-per-niti-paper/",
+      "checked": "2022-23 projected 11.28% MPI figure"
+    },
+    {
+      "name": "Labour Ministry Child Labour Act",
+      "url": "https://labour.gov.in/acts/child-labour-act-23-dec-1986",
+      "checked": "statutory identity and 2016 amendment context"
+    }
+  ],
+  "limits": [
+    "Direct commission syllabus PDF not reauthenticated",
+    "Full 30 MCQ keys/90 distractors not independently audited",
+    "Eight mains not independently claim-audited",
+    "Section word threshold does not prove one full page or qualitative depth",
+    "Original diagram accuracy and screen-reader/browser usability pending",
+    "CI PDF and actual downloaded Actions artifact QA pending"
+  ],
+  "gate_promotion": false,
+  "R9": "NOT_STARTED",
+  "independent_academic_approvals": 0
+}
