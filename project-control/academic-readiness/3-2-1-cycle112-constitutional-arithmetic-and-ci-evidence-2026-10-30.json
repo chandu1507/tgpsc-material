@@ -1,0 +1,58 @@
+{
+  "cycle": "112",
+  "date": "2026-10-30",
+  "topic_id": "3-2-1",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approved": false,
+  "fresh_main_at_start": "0e5b2c89578afdad26a7d5647f230be4a229b889",
+  "source_pr": 176,
+  "source_merge": "35bb7bd37778b0fccf4abd189b9631b29831888d",
+  "renderer_run": 41067350363,
+  "renderer_conclusion": "success",
+  "render_commit": "9a294eee9562a09fef14dd9920037704a4062fa1",
+  "integrated_master": "Paper 3/Unit 2 - Constitution of India/Topic 1/source/integrated-student-edition-2026-10-30.md",
+  "integrated_master_sha256": "5b18632919028ae47eecbc1cd1b6d9f83514dbd66c9315eb25697503e838a021",
+  "integrated_pdf": "Paper 3/Unit 2 - Constitution of India/Topic 1/source/integrated-student-edition-2026-10-30.pdf",
+  "integrated_pdf_sha256": "85cdf27451e2f3bf4e3b863f791db27d19d701d92d9c8badc5edccbf8a8bf28e",
+  "integrated_pdf_pages": 23,
+  "original_pdf_sha256": "15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21",
+  "original_pdf_preserved_by_ci_guard": true,
+  "concepts": 8,
+  "mcqs_original_practice": 30,
+  "added_mcqs": [
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "mains": 6,
+  "original_svg": 1,
+  "bounded_checks": {
+    "legal_text": [
+      "Article 13(4)",
+      "Article 169(1),(3)",
+      "Article 300A",
+      "Article 368(2)"
+    ],
+    "new_keys_and_distractors": "Five new original four-option MCQs author-side checked against official text, not independent expert approval.",
+    "news_source": "https://newsonair.gov.in/hi/131st-constitutional-amendment-bill-not-passed-lok-sabha-vote-count/",
+    "news_source_discrepancy": "298 for + 230 against = 528, but same article also states 489 present and threshold 326. Parliamentary primary division record NOT retrieved; exact historical denominator uncertified.",
+    "official_constitution": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+  },
+  "qa": {
+    "deterministic_builder": "PASS",
+    "pdf_render": "PASS",
+    "pdf_blank_pages": 0,
+    "all_pdf_pages_at_least_100_text_chars": true,
+    "full_independent_30_key_90_distractor_audit": false,
+    "full_six_mains_claim_audit": false,
+    "full_browser_accessibility": false,
+    "student_html_synced": false,
+    "actual_postrender_downloaded_actions_artifact": "PENDING",
+    "outer_inner_crc_and_75_originals_and_offline_links": "PENDING"
+  },
+  "gates": "NO_R1_R8_PROMOTION",
+  "r9": "NOT_STARTED",
+  "independent_approvals": 0
+}
