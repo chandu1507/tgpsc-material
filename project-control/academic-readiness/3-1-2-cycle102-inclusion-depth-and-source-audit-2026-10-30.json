@@ -8,23 +8,23 @@
   "concepts": [
     {
       "number": 11,
-      "whitespace_words_before": 8573,
-      "whitespace_words_after": 8787
+      "whitespace_words_before": 161,
+      "whitespace_words_after": 375
     },
     {
       "number": 15,
-      "whitespace_words_before": 7100,
-      "whitespace_words_after": 7295
+      "whitespace_words_before": 186,
+      "whitespace_words_after": 381
     },
     {
       "number": 16,
-      "whitespace_words_before": 6906,
-      "whitespace_words_after": 7085
+      "whitespace_words_before": 206,
+      "whitespace_words_after": 385
     },
     {
       "number": 18,
-      "whitespace_words_before": 6498,
-      "whitespace_words_after": 6702
+      "whitespace_words_before": 184,
+      "whitespace_words_after": 388
     }
   ],
   "word_count_method": "Whitespace tokens in the complete numbered section body, excluding heading; this is mechanical and not a qualitative depth certification.",
@@ -40,5 +40,8 @@
     "Remaining 14 shallow sections and full 25-MCQ / six-mains independent claim audits pending",
     "R1-R8 not fully PASS; R9 NOT_STARTED; independent approvals ZERO",
     "PDF and actual post-edit Actions artifact verification pending at authoring time"
-  ]
+  ],
+  "measurement_correction": "Initial local audit script concatenated string section ID with 1 (e.g. 11->111), accidentally counting to end of master. Corrected to numeric section ID + 1 and recomputed against both immutable base and edited branch.",
+  "concepts_below_300_before": 17,
+  "concepts_below_300_after": 13
 }
