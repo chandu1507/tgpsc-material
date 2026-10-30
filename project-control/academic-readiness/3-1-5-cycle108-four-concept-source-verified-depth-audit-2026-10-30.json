@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-30",
+  "cycle": 108,
+  "topic_id": "3-1-5",
+  "kind": "bounded_author_side_source_and_depth_repair",
+  "base_main_sha": "fd69e19b0a891f355a30dfd7a807f7ff3587c6c7",
+  "original_pdf_sha256": "01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01",
+  "master": "Paper 3/Unit 1 - Indian Society/Topic 5/source/integrated-student-edition-2026-10-30.md",
+  "edited_existing_concepts": [
+    4,
+    6,
+    8,
+    10
+  ],
+  "pre_edit_concept_word_counts": {
+    "4": 296,
+    "6": 236,
+    "8": 255,
+    "10": 250
+  },
+  "post_edit_concept_word_counts": {
+    "4": 509,
+    "6": 451,
+    "8": 493,
+    "10": 486
+  },
+  "word_count_method": "Whitespace tokens bounded by numbered Part A ## headings; text after final numbered concept excluded",
+  "concepts_under_300_before": 15,
+  "concepts_under_300_after": 11,
+  "retained": {
+    "original_topic_count": 75,
+    "numbered_concepts": 18,
+    "original_practice_mcqs": 30,
+    "structured_mains": 6
+  },
+  "source_register_additions": [
+    {
+      "id": "S20",
+      "institution": "Ministry of Women and Child Development",
+      "url": "https://wcd.gov.in/offerings/nutrition-mission-saksham-anganwadi-and-poshan-2-0-mission-saksham-anganwadi-poshan-2-0",
+      "scope": "Six Anganwadi services and NHM coordination; no district outcome audit"
+    },
+    {
+      "id": "S21",
+      "institution": "Department of Empowerment of Persons with Disabilities",
+      "url": "https://depwd.gov.in/en/faqs-4/",
+      "scope": "Reasonable accommodation and accessible public services; no case-level compliance audit"
+    },
+    {
+      "id": "S22",
+      "institution": "Ministry of Tribal Affairs",
+      "url": "https://tribal.nic.in/FRA.aspx",
+      "scope": "FRA individual/community rights; published rules Gram Sabha process; no Telangana claim records"
+    },
+    {
+      "id": "S23",
+      "institution": "Ministry of Education Samagra Shiksha",
+      "url": "https://samagra.education.gov.in/about.html",
+      "scope": "Pre-school to Class XII, inclusion; no Telangana learning outcomes"
+    },
+    {
+      "id": "S24",
+      "institution": "Ministry of Education PM POSHAN",
+      "url": "https://pmposhan.education.gov.in/PAB_PM_POSHAN.html",
+      "scope": "2026-27 renewal pending on retrieved page; does not prove approval or discontinuation on 30 Oct"
+    }
+  ],
+  "specific_correction": "PM POSHAN 2021-22 to 2025-26 approved design and temporary extension through 30 Sep 2026 are not evidence of 30 Oct 2026 renewal; claim bounded pending subsequent order.",
+  "qa": {
+    "original_pdf_not_edited": true,
+    "mcq_count_preserved": 30,
+    "mains_count_preserved": 6,
+    "concept_count_preserved": 18,
+    "render_pending": true,
+    "downloaded_post_edit_actions_artifact_pending": true,
+    "independent_claim_level_mcq_mains_audit_pending": true,
+    "full_browser_accessibility_pending": true
+  },
+  "gates": {
+    "R1_R8": "INCOMPLETE",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "no_official_pyq_claim": true
+}
