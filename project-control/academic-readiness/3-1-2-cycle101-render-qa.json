@@ -27,8 +27,8 @@
   "concept_start_count": 23,
   "file": "Paper 3/Unit 1 - Indian Society/Topic 2/source/integrated-student-edition-2026-10-30.pdf",
   "pages": 40,
-  "sha256": "a95d0848f053a9279b47a90e34facd98a4923a20d807f427149b694103fdb673",
-  "pdf_text_words": 12734,
+  "sha256": "9609ed25b5b490855d126ca89c3b0cd4a73adabaf703f3acc6faa3fcc52dbc15",
+  "pdf_text_words": 13638,
   "page_text_lengths": [
     2354,
     1830,
@@ -43,14 +43,14 @@
     2081,
     1920,
     2035,
-    1399,
+    2937,
     3441,
     2985,
     3271,
-    1573,
-    1688,
+    3073,
+    3012,
     1625,
-    1584,
+    3104,
     1615,
     1707,
     1377,
@@ -68,8 +68,8 @@
     3794,
     3076,
     844,
-    2819,
-    2308
+    3401,
+    2892
   ],
   "pages_with_no_text": []
 }
