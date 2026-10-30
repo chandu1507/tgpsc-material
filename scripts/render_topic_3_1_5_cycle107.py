@@ -9,7 +9,7 @@ from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.graphics.shapes import Drawing, Rect, String, Line
+from svglib.svglib import svg2rlg
 
 parser=argparse.ArgumentParser(description='Render a full integrated student edition from Markdown')
 parser.add_argument('--input',required=True,type=Path)
@@ -54,24 +54,8 @@ def inline_html(tok):
         elif t.type=='image':parts.append(html.escape(t.content))
     return ''.join(parts)
 
-def diagram(num):
-    sets={
-      1:['Land and labour','Vetti / eviction','Village sanghams','Collective defence','Contested authority'],
-      2:['Paramountcy ends','Accession dispute','Standstill falters','Operation Polo','Integration'],
-      3:['Specific claim','Locate original','Cross-check','Label confidence','Qualified notes']}
-    labels=sets[num]; W=510; H=75; d=Drawing(W,H)
-    for i,label in enumerate(labels):
-        x=5+i*102; d.add(Rect(x,21,93,35,rx=7,ry=7,fillColor=pale,strokeColor=accent,strokeWidth=.9));
-        a=label.split(' ')
-        if len(label)>15:
-            mid=len(a)//2; lines=[' '.join(a[:mid]),' '.join(a[mid:])]
-        else:lines=[label]
-        for j,l in enumerate(lines):d.add(String(x+46.5,42+(len(lines)-1)*5-j*10,l,textAnchor='middle',fontName='Noto',fontSize=7.2,fillColor=navy))
-        if i<4:
-            d.add(Line(x+93,38,x+100,38,strokeColor=accent,strokeWidth=1.5))
-    return d
-
 story=[]
+rendered_diagrams=[]
 tokens=MarkdownIt('commonmark').enable('table').parse(src.read_text())
 i=0; current_table=None; row=None; cell=None; list_depth=0
 while i<len(tokens):
@@ -79,7 +63,7 @@ while i<len(tokens):
  if t.type=='heading_open':
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
-    if tag=='h2' and ('Part B —' in inl.content or 'Part C —' in inl.content):story.append(PageBreak())
+    if tag=='h2' and 'Part C —' in inl.content:story.append(PageBreak())
     story.append(Paragraph(val,styles[key]));i+=3;continue
  if t.type=='table_open':current_table=[];i+=1;continue
  if t.type=='tr_open':row=[];i+=1;continue
@@ -102,10 +86,18 @@ while i<len(tokens):
  if t.type in ('list_item_open','list_item_close'):i+=1;continue
  if t.type=='paragraph_open':
     inl=tokens[i+1]; val=inline_html(inl)
-    if inl.content.startswith('**Diagram '):
-      m=re.search(r'Diagram (\d)',inl.content)
-      if m:story.append(diagram(int(m.group(1))))
     story.append(Paragraph(('•  '+val) if list_depth else val,styles['li' if list_depth else 'p']))
+    match=re.search(r'diagrams/([0-9]{2}_[a-z_]+\\.svg)',inl.content)
+    if match:
+        diagram_path=src.parent/'diagrams'/match.group(1)
+        if not diagram_path.exists():raise FileNotFoundError(diagram_path)
+        illustration=svg2rlg(str(diagram_path))
+        if illustration is None:raise RuntimeError('SVG conversion failed: '+str(diagram_path))
+        scale=min(1,(A4[0]-84)/illustration.width)
+        illustration.scale(scale,scale)
+        illustration.width*=scale;illustration.height*=scale
+        story.extend([Spacer(1,4),illustration,Spacer(1,9)])
+        rendered_diagrams.append(match.group(1))
     i+=3;continue
  if t.type=='fence':story.append(Paragraph(html.escape(t.content).replace('\n','<br/>'),styles['note']));i+=1;continue
  i+=1
@@ -118,11 +110,12 @@ def footer(canvas,doc):
     canvas.drawRightString(w-42,26,f'Page {doc.page}')
     canvas.restoreState()
 
+assert rendered_diagrams==['01_entitlement_chain.svg','02_policy_matrix.svg','03_district_convergence.svg'],rendered_diagrams
 doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargin=45,bottomMargin=52,invariant=1,title="TGPSC Paper III Unit I Topic 5 - Social Policies Integrated Edition",author="TGPSC Academic Readiness Production")
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
-qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
+qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'embedded_vector_diagrams':rendered_diagrams, 'total_pdf_vector_drawing_paths':sum(len(p.get_drawings()) for p in pdf), 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 if args.qa:
     args.qa.parent.mkdir(parents=True,exist_ok=True)
     args.qa.write_text(json.dumps(qa,indent=2))
