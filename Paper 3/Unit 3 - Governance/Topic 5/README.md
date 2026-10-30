@@ -1,3 +1,3 @@
-# P3-U3-T5 academic-readiness working edition (27 October 2026)
+# P3-U3-T5 academic-readiness working edition (31 October 2026)
 
-Original 31-page `complete-notes.pdf` preserved unchanged. The synchronized editable student master is `source/complete-notes.md`, its searchable integrated edition is `source/integrated-student-edition-2026-10-27.pdf`, and the offline chapter is `index.html`. There are 18 detailed concepts, 25 original practice MCQs (15 revised in place), six mains answers and three original diagrams. All remain academically unapproved; no official PYQs claimed.
+Original 31-page `complete-notes.pdf` preserved unchanged. The synchronized editable student master is `source/complete-notes.md`, its searchable integrated edition is `source/integrated-student-edition-2026-10-27.pdf`, and the offline chapter is `index.html`. There are 19 detailed concepts, 30 original practice MCQs (15 earlier questions revised in place, five new RTI-remedies questions added), six mains answers and three original diagrams. All remain academically unapproved; no official PYQs claimed.
