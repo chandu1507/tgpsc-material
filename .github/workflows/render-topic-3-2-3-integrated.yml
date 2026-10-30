@@ -61,16 +61,16 @@ jobs:
           chapter=pathlib.Path('Paper 3/Unit 2 - Constitution of India/Topic 3/source')
           for name in ('complete-notes.md','original-mcqs.md'):
             s=(chapter/name).read_text()
-            questions=list(re.finditer(r'(?m)^### Q(\\d+)\\.',s))
+            questions=list(re.finditer(r'(?m)^### Q([0-9]+)[.]',s))
             assert [int(x.group(1)) for x in questions]==list(range(1,31)),(name,len(questions))
             for i,m in enumerate(questions):
               block=s[m.start():(questions[i+1].start() if i+1<len(questions) else len(s))]
               if name=='complete-notes.md' and i==29:
-                block=block.split('\\n---\\n',1)[0]
-              labels=re.findall(r'(?m)^([ABCD])\\. ',block)
-              keys=re.findall(r'\\*\\*Answer: ([ABCD])\\.',block)
+                block=block.split('---',1)[0]
+              labels=re.findall(r'(?m)^([ABCD])[.] ',block)
+              keys=re.findall(r'[*][*]Answer: ([ABCD])[.]',block)
               assert labels==['A','B','C','D'] and len(keys)==1,(name,i+1,labels,keys)
-          assert len(re.findall(r'(?m)^## Mains [1-6]\\.',(chapter/'complete-notes.md').read_text()))==6
+          assert len(re.findall(r'(?m)^## Mains [1-6][.]',(chapter/'complete-notes.md').read_text()))==6
           PY
             python scripts/render_topic_3_2_3.py \
               --input "$chapter/source/complete-notes.md" \
