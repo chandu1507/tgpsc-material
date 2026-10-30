@@ -62,3 +62,17 @@ Dated author-side primary-source correspondences (not independent academic certi
 - [C34-08] DARPG, Second ARC Twelfth Report, *Citizen Centric Administration*, Sevottam service quality and grievance outcomes (Q25): https://darpg.gov.in/sites/default/files/ccadmin12.pdf
 
 Verification boundary: item-level author-side comparisons to the listed government texts for the relevant legal/institutional propositions; no independent examiner, no complete legal audit of all 25 questions and 100 alternatives, no independent mains claim audit, and no direct official Commission syllabus PDF retrieval. Q3/Q25 remain evaluative scenarios, not statutory holdings. R1/R4/R5/R6 remain unpassed; R9 not started.
+
+## Cycle 121 — 31 October 2026: RTI remedies, primary-source register and bounded question audit
+
+**[S23] India Code, Right to Information Act, 2005, consolidated as on 18 November 2025:** https://upload.indiacode.nic.in/showfile?actid=AC_CEN_26_36_00004_200522_1517807322955&filename=a2005-22.pdf&type=actfile . Sections 7(2), 7(6), 7(8), 18, 19(1), 19(3), 19(5), 19(6), 19(8), 20(1) and 20(2) were directly inspected. The consolidated text records the post-13-November-2025 amendment of Section 8(1)(j); Gazette [S18] independently documents its commencement.
+
+| Audit ID | Question | Correct key and primary section | Three distractors individually checked |
+|---|---|---|---|
+| C121-01 | Q26 | B; Section 19(8)(a)(i) | A CVC is not RTI disclosure forum; C Section 20 is not direct civil-court relief; D Section 24 is an exclusion mechanism |
+| C121-02 | Q27 | C; Section 7(6) | A no surcharge; B no automatic dismissal; D delay creates no exemption |
+| C121-03 | Q28 | D; Section 19(5) | A applicant not burden-holder; B police not specified; C auditor not specified |
+| C121-04 | Q29 | B; Section 20(1) | A wrong rate/cap; C wrong automatic flat penalty; D wrong monthly rate and beneficiary |
+| C121-05 | Q30 | C; Section 19(6) | A 48-hour rule is for life-or-liberty requests; B statutory period exists; D 90 days concerns second-appeal filing |
+
+**Verification boundary:** The five new keys and 15 new distractors were author-side correlated with the named primary statutory provisions; these are not independent examiner approvals. All 30 questions are original practice; verified official PYQs remain zero. The previous 25 keys/75 distractors and six mains answers still require independent claim-level audit. Direct Commission-hosted syllabus authentication, full browser accessibility, diagram review and named expert approval remain pending. R1–R8 are incomplete; R9 NOT_STARTED.
