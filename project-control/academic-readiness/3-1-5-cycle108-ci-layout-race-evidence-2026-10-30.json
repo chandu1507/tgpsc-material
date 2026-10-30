@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-30",
+  "cycle": 108,
+  "topic_id": "3-1-5",
+  "source_master_blob": "8a1cf7086e6b27f52ac6c10724a694b06be7284a",
+  "original_topic_pdf_sha256": "01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01",
+  "renderer_attempts": [
+    {
+      "run_id": 41037390630,
+      "result": "FAILURE",
+      "cause": "svglib dependency transitively attempted pycairo without system Cairo headers"
+    },
+    {
+      "run_id": 41037615156,
+      "result": "FAILURE",
+      "cause": "Raw regex escaped twice; three diagrams not detected"
+    },
+    {
+      "run_id": 41037708051,
+      "result": "SUCCESS",
+      "result_pdf_sha256": "2b43b384df5c34b9135c6de696d79280bbf5d77c6b8629de49e6b7706204c6e8",
+      "result_pdf_pages": 26,
+      "diagrams": "THREE_NATIVE_REPORTLAB_VECTOR"
+    },
+    {
+      "run_id": 41038028347,
+      "result": "SUCCESS",
+      "layout_change": "Removed forced Part C page break",
+      "result_pdf_git_blob": "ff2cefb9609b1b5109d3e9f059125c8fe7f66a80"
+    }
+  ],
+  "actual_downloaded_intermediate_artifact": {
+    "run_id": 41037708063,
+    "artifact_id": 12968248477,
+    "sha256": "d5c7d9a6898a5e8b4f5f05063e9f6e2a9837b526a1155ec4cac40a4f49c885dc",
+    "crc": "PASS",
+    "files": 2018,
+    "originals": 75,
+    "readiness": 75,
+    "broken_links": 0,
+    "broken_fragments": 0,
+    "pdf_blob": "9cc8b79ff53a56435ab0e182a184a0d20f88b50a"
+  },
+  "rejected_stale_artifact": {
+    "run_id": 41038028317,
+    "artifact_id": 12968871967,
+    "downloaded_sha256": "82e631f15b834d720d77de420222b067f3c52ade85a662a508552497465fcb9e",
+    "artifact_pdf_blob": "9cc8b79ff53a56435ab0e182a184a0d20f88b50a",
+    "latest_github_pdf_blob": "ff2cefb9609b1b5109d3e9f059125c8fe7f66a80",
+    "reason": "Concurrent packaging ran before final renderer committed PDF; not a synchronized post-layout artifact"
+  },
+  "final_post_render_package": "PENDING",
+  "browser_accessibility": "NOT_CERTIFIED",
+  "academic_approval": false,
+  "r9": "NOT_STARTED"
+}
