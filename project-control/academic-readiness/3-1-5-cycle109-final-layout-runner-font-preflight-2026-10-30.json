@@ -1,0 +1,53 @@
+{
+  "topic_id": "3-1-5",
+  "cycle": 109,
+  "date": "2026-10-30",
+  "status": "FINAL_LAYOUT_LOCAL_PREFLIGHT_CI_PENDING",
+  "replaces_local_preflight": "project-control/academic-readiness/3-1-5-cycle109-local-layout-preflight-2026-10-30.json",
+  "note": "The prior 24-page local Noto-font result was not representative of GitHub runner DejaVu fallback. Reproduced runner font exactly; observed 26 pages and two sparse pages (diagram-only and final mains tail), then corrected layout by grouping three diagrams and starting Q5/Q6 on clean pages.",
+  "runner_font_simulated": "DejaVuSans (GitHub ubuntu-latest fallback)",
+  "local_candidate": {
+    "pages": 26,
+    "minimum_page_text_chars": 1265,
+    "blank_pages": 0,
+    "out_of_bounds_text_blocks": 0,
+    "vector_diagrams": 3,
+    "sha256": "1e69a43a389f803cc3249cdce072652de8805c6bb8f7f040cc3029dc82f59ff8",
+    "page_text_lengths": [
+      3331,
+      4808,
+      4960,
+      5176,
+      4501,
+      5165,
+      5056,
+      5110,
+      4890,
+      4937,
+      4102,
+      1391,
+      1265,
+      3076,
+      3885,
+      2511,
+      2098,
+      2224,
+      2253,
+      2020,
+      2119,
+      2995,
+      4362,
+      2431,
+      1918,
+      2085
+    ]
+  },
+  "pending": [
+    "CI deterministic render",
+    "actual post-render artifact download",
+    "SHA/CRC/75-originals/link QA",
+    "browser and independent academic audit"
+  ],
+  "academic_approvals": 0,
+  "R9": "NOT_STARTED"
+}
