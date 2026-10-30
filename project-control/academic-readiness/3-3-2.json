@@ -1,7 +1,7 @@
 {
   "topic_id": "3-3-2",
   "title": "Governance at State and District Levels; Local Institutions and Administrative Controls",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -18,16 +18,16 @@
   },
   "gate_status": {
     "R1": "IN_PROGRESS",
-    "R2": "BLOCKED",
+    "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
-    "R5": "BLOCKED",
+    "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle32 objective: 15 detailed concepts all >300 words, 25 original MCQs with A5/B14/C5/D1 skew, six mains body-only 221/216/218/221/212/221, two SVGs, legacy 43-page PDF SHA 93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24. No synchronized new PDF. Full source and distractor audit not done.",
-  "next_action": "Independently audit MCQ keys and all distractors (14 B/1 D), direct syllabus source, six mains, SVG accuracy; consolidate source and synchronize integrated PDF.",
+  "evidence": "Cycle32 objective: 15 detailed concepts all >300 words, 25 original MCQs with A5/B14/C5/D1 skew, six mains body-only 221/216/218/221/212/221, two SVGs, legacy 43-page PDF SHA 93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24. No synchronized new PDF. Full source and distractor audit not done. Cycle118: five new original constitutional-text MCQs Q26-Q30, five keys and 15 distractors bounded author-correlated against Legislative Department Constitution Arts 167/243S/243U/243X/243ZA; nine existing answer-option positions reordered without proposition changes, 30 MCQs A8/B7/C8/D7. Editable master, offline HTML and 40-page CI PDF synchronized; original PDF SHA 93d0838f... unchanged. Renderer 41119419616 SUCCESS; actual downloaded packaging 41119473052 artifact 13008480828 SHA256 1566c9f6e2380e5bb9b0f357b39183171b7003e19640164843c65ea8546d47cf digest MATCH, outer/inner ZIP CRC PASS, 2064 files, 75 original PDFs unchanged, 75 readiness JSON, 87 HTML, 599 local links and 1004 DOM fragments zero broken, 43 SPA routes excluded. Complete independent MCQ/mains, official syllabus, browser accessibility and expert approval NOT done.",
+  "next_action": "Complete independent 30-key/90-distractor and six-mains claim audits; directly authenticate Commission-hosted syllabus, verify Telangana statutes/diagrams and full browser accessibility; R8 remains IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false
 }
