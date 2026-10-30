@@ -81,9 +81,16 @@
   "academic_approval": false,
   "external_reviewer": null,
   "publication": {
-    "pdf": "PENDING_POST_MERGE_RENDER",
-    "downloaded_artifact": "PENDING",
-    "zip_crc": "PENDING",
-    "original_75_sha": "PENDING"
+    "renderer_run": 40988365540,
+    "renderer_conclusion": "SUCCESS",
+    "renderer_source_sha": "aeae49ecef5da8b09e6372abc99472e03b08aad3",
+    "renderer_published_commit": "4dbbe88f4fa3a437730fbcb9ffa919b6d8288553",
+    "integrated_pdf_pages": 33,
+    "integrated_pdf_sha256": "dd0e8c5f070b8f4cdeb5935bdd7ab51198f14c815a248def5471116cebdc34d5",
+    "original_pdf_preservation_assertion": "PASS_IN_RENDER_WORKFLOW",
+    "post_render_downloaded_artifact": "PENDING",
+    "outer_inner_zip_crc": "PENDING",
+    "original_75_sha_comparison": "PENDING",
+    "offline_links": "PENDING"
   }
 }
