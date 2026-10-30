@@ -1,7 +1,7 @@
 {
   "topic_id": "3-3-3",
   "title": "Urban and Rural Development, Participation, Poverty Alleviation and Social Rights",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -21,13 +21,13 @@
     "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
-    "R5": "BLOCKED",
+    "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
     "R8": "BLOCKED"
   },
   "evidence": "Cycle33 individual source/PDF/MCQ/mains inventory, bounded primary-source correspondence and preserved-original hashes; see project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json. No complete R1–R8 verification.",
-  "next_action": "Complete direct syllabus comparison, all MCQ keys and distractors, six mains claim audits, diagram review and accessible synchronized publication; do not claim R9.",
+  "next_action": "Cycle119 added concept 15 and original practice Q26-Q30 author-side source-checked against Constitution 243A-243H; render and downloaded artifact QA pending. Independent 30-key/90-distractor and six-mains claim audits, direct official syllabus, accessibility and expert review pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_cycle33": {
@@ -66,6 +66,16 @@
     "source_check_scope": "10 revised keys author-side checked against accessible official materials; remaining 15 and all distractors lack independent audit",
     "r1_direct_official_pdf_verified": false,
     "integrated_pdf": "CI pending; original preserved",
+    "independent_approval": false
+  },
+  "cycle119": {
+    "original_legacy_pdf_sha256": "d7ea1aca5e13e1d71283bb58d0de064e047064f03a6a60b26eb1501395d5bcfc",
+    "detailed_concepts": 15,
+    "original_practice_mcqs": 30,
+    "new_keys_author_checked": 5,
+    "new_distractors_author_checked": 15,
+    "full_independent_audit": false,
+    "actual_downloaded_artifact_qa": false,
     "independent_approval": false
   }
 }

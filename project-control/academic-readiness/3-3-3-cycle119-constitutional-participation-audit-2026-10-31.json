@@ -1,0 +1,32 @@
+{
+  "topic_id": "3-3-3",
+  "date": "2026-10-31",
+  "baseline_main": "910b84ac147b17c4489e994f2650d067a5040b1d",
+  "source": "https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf",
+  "primary_articles": [
+    "243A",
+    "243B(2)",
+    "243C(2)",
+    "243D(3)",
+    "243G",
+    "243H"
+  ],
+  "new_concept": 15,
+  "new_mcqs": [
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "author_checked_new_keys": 5,
+  "author_checked_new_distractors": 15,
+  "independent_30_key_90_distractor_audit": false,
+  "six_mains_claim_audit": false,
+  "official_pyqs_claimed": 0,
+  "original_topic_pdf_preserved": true,
+  "expected_topic_count": 75,
+  "ci_pdf": "PENDING",
+  "downloaded_artifact_qa": "PENDING",
+  "academic_approval": false
+}

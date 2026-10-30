@@ -291,3 +291,26 @@ A pregnant woman in a remote hamlet has low hemoglobin, intermittent water suppl
 ### Common lesson and exam synthesis
 
 These cases demonstrate **rights convergence without institutional confusion**. The state must protect legally specified entitlements, but local agencies retain different powers and budgets. Community participation supplies evidence about exclusion; technical staff ensure feasibility; financial systems sustain delivery; independent review corrects unlawful or ineffective decisions. A top-grade mains answer moves from a concrete deprivation to the right or scheme, names the responsible institution, identifies implementation barriers, weighs competing policy approaches and proposes measurable safeguards. Avoid universal claims that any one programme has 'eradicated poverty' without credible causal evidence.
+
+## 15. Gram Sabha, elected Panchayat and fiscal devolution: constitutional design versus implementation
+
+### Distinguish the institutions
+
+Participatory development requires separating three questions: **who deliberates**, **who represents voters**, and **who can lawfully spend or raise money**. Article 243A permits State legislation to confer village-level functions on a Gram Sabha. It does not automatically transfer every development budget, taxation power or staff position to a village meeting. Article 243C(2), in contrast, provides for directly elected seats in Panchayats from territorial constituencies. The Gram Sabha is therefore a participatory forum, while the elected Panchayat is a representative institution. Conflating them produces weak answers about accountability. [S25]
+
+### Tier structure and inclusive representation
+
+Article 243B generally provides Panchayats at village, intermediate and district levels. Its population exception allows a State **not exceeding twenty lakh people** to omit the intermediate tier. The relevant population is that of the State, not an individual district. Article 243D requires SC/ST representation in proportion to local population and a constitutional minimum of **one-third of directly elected seats for women**, counting SC/ST women's reserved seats. States may enact higher women's quotas, but current Telangana-specific provisions require separate verification. [S25]
+
+### Functional versus fiscal devolution
+
+Article 243G allows State law to empower Panchayats to prepare plans and implement economic-development and social-justice schemes, including subjects in the Eleventh Schedule. Article 243H separately permits State legislation authorising local taxation, assignment of State levies, grants-in-aid and Panchayat funds. The constitutional listing of a subject such as drinking water or rural housing is **not proof** that a particular Panchayat controls the relevant staff, engineering approvals and money. Effective devolution must be checked against State laws, delegated powers and budget practice. [S2; S25]
+
+### Worked village example
+
+A Gram Sabha reports that houses at the end of a water network receive contaminated water despite having tap connections. The meeting may document complaints and exercise the powers assigned by State law. Elected Panchayat representatives may formulate a response, but district engineers and the designated water agency may retain technical responsibilities. Distinguish the **output** (installed connections) from the **outcome** (reliably delivered safe water). Verify water-quality results, repair time, hamlet-level disparities and complaint closure rather than assuming infrastructure completion equals welfare success.
+
+### Mains structure and cautions
+
+Use five headings: *constitutional foundation* (243A–243D), *functional devolution* (243G), *fiscal powers* (243H), *implementation constraints*, and *accountable reforms*. Propose inclusive meetings, public records, disaggregated service indicators and independently checked complaints. Explain that State-law authority, actual budget availability and field performance are separate evidence questions. This chapter does **not** claim to have independently authenticated current Telangana Panchayat Raj rules or every local operational order. [S25]
+
