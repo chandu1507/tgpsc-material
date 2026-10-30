@@ -1,7 +1,7 @@
 {
   "topic_id": "3-1-2",
   "title": "Social Exclusion and Vulnerable Groups: SCs, STs, Backward Classes, Minorities, Women, Children, Aged and Disabled",
-  "date": "2026-10-27",
+  "date": "2026-10-30",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -19,17 +19,18 @@
   "gate_status": {
     "R1": "IN_PROGRESS",
     "R2": "IN_PROGRESS",
-    "R3": "BLOCKED",
-    "R4": "BLOCKED",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
-    "R7": "BLOCKED",
+    "R7": "IN_PROGRESS",
     "R8": "BLOCKED"
   },
   "evidence": [
-    "project-control/academic-readiness/3-1-2-objective-gap-assessment-2026-10-27.json"
+    "project-control/academic-readiness/3-1-2-objective-gap-assessment-2026-10-27.json",
+    "project-control/academic-readiness/3-1-2-cycle101-legal-mcq-depth-and-deduplicated-master-2026-10-30.json"
   ],
-  "next_action": "Verify R1 official clause, integrate separate repair without duplication, deepen 22 explanations, create 15 source-checked MCQs, source-check mains, diagrams and integrated PDF with full artifact QA.",
+  "next_action": "Cycle101: CI renderer, actual downloaded artifact SHA/CRC/75 original PDF/link QA pending; 18/23 concepts still under300, 25 original four-option MCQs now present but only 15 new keys and distractor sets have bounded author-side statutory correspondence; original 10 and all six mains need full independent claim-level review. Integrate prior repair editorially, authenticate official syllabus, full browser/accessibility QA. R1–R8 NOT ready; R9 NOT_STARTED; independent approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -50,5 +51,42 @@
     "original_pdf_pages": 27,
     "original_pdf_sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921",
     "standalone_svg_files": 0
+  },
+  "cycle101_2026_10_30": {
+    "status": "PARTIAL_REBUILD_PENDING_CI_NOT_APPROVED",
+    "source_baseline_main": "973a186fb1ca715a91010cb10298b10962d26ba2",
+    "existing_topics_total": 75,
+    "original_pdf_sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921",
+    "concepts_total": 23,
+    "concepts_under_300_pre": 22,
+    "concepts_under_300_post": 18,
+    "expanded_concepts": [
+      7,
+      12,
+      13,
+      14
+    ],
+    "original_mcqs_before": 10,
+    "original_mcqs_after": 25,
+    "new_original_mcqs": 15,
+    "new_mcq_keys_and_45_distractors_author_bounded_source_correlated": true,
+    "all_25_keys_and_75_distractors_independently_verified": false,
+    "official_pyqs_authenticated": 0,
+    "mains_model_answers": 6,
+    "mains_claim_level_independent_review": false,
+    "integrated_master": "Paper 3/Unit 1 - Indian Society/Topic 2/source/integrated-student-edition-2026-10-30.md",
+    "integrated_pdf": "Paper 3/Unit 1 - Indian Society/Topic 2/source/integrated-student-edition-2026-10-30.pdf",
+    "renderer": "scripts/render_topic_3_1_2_cycle101.py",
+    "workflow": ".github/workflows/render-topic-3-1-2-cycle101.yml",
+    "render_status": "PENDING",
+    "independent_expert": null,
+    "academic_approvals": 0,
+    "limits": [
+      "Original 10 MCQ keys and distractors not reverified in this cycle",
+      "Official statutory PDFs sometimes timed out; author-side bounded index/search excerpts are not a full current-law audit",
+      "Prior standalone depth repair preserved but not fully merged; no duplicate mains bank in integrated edition",
+      "Concept count threshold is mechanical; no qualitative depth certification",
+      "Browser, screen reader, accessibility and original diagram accuracy not certified"
+    ]
   }
 }
