@@ -1,0 +1,65 @@
+name: Render Topic 3-3-4 Cycle120 Integrated Student Edition
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 3/Unit 3 - Governance/Topic 4/source/**'
+      - '.github/workflows/render-topic-3-3-4-cycle120.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-3-3-4-cycle120
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install rendering and QA dependencies
+        run: python -m pip install 'reportlab>=4,<5' 'mistune>=3,<4' 'pillow>=10,<13' 'beautifulsoup4>=4,<5' 'pymupdf>=1.24,<2'
+      - name: Render from fresh main and nonforce publish
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python - <<'PY'
+          import pathlib,json,hashlib
+          root=pathlib.Path('Paper 3/Unit 3 - Governance/Topic 4')
+          cp=json.loads(pathlib.Path('project-control/PRODUCTION-CHECKPOINT.json').read_text())
+          ix=json.loads(pathlib.Path('project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json').read_text())
+          ids={t['id'] for t in cp['topics']}
+          assert len(ids)==len(cp['topics'])==cp['total_topics']==ix['total_topics']==75
+          assert len(ix['paths'])==len(set(ix['paths']))==75
+          assert sum(t['readiness_status']=='IN_PROGRESS' for t in cp['topics'])==len(ix['pilot_in_progress'])
+          assert sum(t['readiness_status']=='ASSESSED_REBUILD_REQUIRED' for t in cp['topics'])==len(ix['assessed_rebuild_required'])
+          assert sum(t['readiness_status']=='NOT_ASSESSED' for t in cp['topics'])==ix['not_assessed_count']
+          assert all((pathlib.Path(t['path'])/'complete-notes.pdf').exists() for t in cp['topics'])
+          assert hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()=='0d4fb8463bbced10bc1f481020e9b2350f77ae646f1c0dcdd910781a33a98a63'
+          PY
+            python 'Paper 3/Unit 3 - Governance/Topic 4/source/render_cycle120.py'
+            git add -- 'Paper 3/Unit 3 - Governance/Topic 4/index.html' \
+              'Paper 3/Unit 3 - Governance/Topic 4/source/integrated-student-edition-cycle120.md' \
+              'Paper 3/Unit 3 - Governance/Topic 4/source/integrated-student-edition-cycle120.pdf' \
+              'Paper 3/Unit 3 - Governance/Topic 4/source/integrated-student-edition-cycle120.html' \
+              'Paper 3/Unit 3 - Governance/Topic 4/source/integrated-cycle120-manifest.json'
+            if git diff --cached --quiet; then
+              echo 'Integrated student edition already synchronized.'
+              exit 0
+            fi
+            git commit -m 'Publish Topic 3-3-4 Cycle120 integrated master and PDF (not academically approved)'
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Main moved; rerender on fresh main (attempt $attempt)"
+          done
+          echo '::error::Nonforce publish could not complete after three attempts'
+          exit 1
