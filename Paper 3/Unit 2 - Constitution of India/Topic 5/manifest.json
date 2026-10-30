@@ -15,7 +15,7 @@
   "master_archive_byte_verified": false,
   "is_full_cumulative_25_topic_archive": false,
   "verified_official_pyqs": 0,
-  "original_mcqs": 25,
+  "original_mcqs": 30,
   "mains_answers": 6,
   "mains_answer_body_words": [
     200,
@@ -25,7 +25,7 @@
     248,
     214
   ],
-  "major_concept_chapters": 11,
+  "major_concept_chapters": 12,
   "concept_chapter_words": [
     665,
     647,
@@ -37,24 +37,25 @@
     521,
     539,
     530,
-    449
+    449,
+    418
   ],
-  "manuscript_whitespace_words": 11073,
+  "manuscript_whitespace_words": 12191,
   "pdf_pages": 32,
   "sources_registered": 19,
   "file_sha256": {
-    "index.html": "faa236f46b4daba0120216e2d71b344162434ea4242cda82394c719bbe1661da",
+    "index.html": "e0776f1a3bdb255a54ddb4f3baba77c63aa4ed75e2f3056193f30c436b87760f",
     "complete-notes.pdf": "44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15",
     "visuals/water-dispute-process.png": "8c62e0fb809bd5497a928b36c2c2bd139c5b6a10c326b72dd1059f0c0d488360",
     "visuals/federal-governance.svg": "20e86924edd92bf639f75178fb6a724239d962d8e1278717168c0aa09e0431d6",
     "visuals/federal-governance.png": "377a98b00574bcfcf8225c1fc87afcc8fc9711ab420a3be5a2d892d62d7213ee",
     "visuals/water-dispute-process.svg": "5f7c6c4ab9636d8269505b86fe9b34a37f93ec880a3f04d8916da4a8ebf06ebb",
-    "source/detailed-notes.md": "92405e1b68465a6feaad84ef59f64087123111843ce66c114db5abc3b2ffca51",
+    "source/detailed-notes.md": "95f0123e94750963a62de0cfff3360bf9c8c355c3964f3ff0885b04ccd260ffe",
     "source/syllabus-and-summary.md": "a07a9aae0e752a837687f41a899854b7b98874a493274572ab08b211d0443904",
-    "source/complete-notes.md": "6c1378e5e157a111fa21c59df8cf48371f3f5f7854201380829986ccb2d8b747",
-    "source/sources-and-audit.md": "c99c4aa2d317a297d4bec17c26d53fcec2f1761b2b8aac1d2406f6881907e960",
+    "source/complete-notes.md": "9dc8c0f17c8223f7f6641c70920e2e7afb21bccffd60b92bf3f87af7b44b8807",
+    "source/sources-and-audit.md": "b9d7bdfb51b1c6e62ebb828a6d732154381036bb6afa421cf282f93936ed1cb8",
     "source/quick-revision.md": "1ffc159b00fb5fe4499e6ae1bf64f7e746c73e1804a7dd270a3145a772d51022",
-    "source/original-mcqs.md": "9bcc6a8ce230a084afd1c2071d680ccece8c3eb2f8dfe43f3613df99c36eb945",
+    "source/original-mcqs.md": "7dd851a95285a0d9c33027496c9554b871200e59fe0998f9af4b292c891aae68",
     "source/visual-learning.md": "caa41b7e587e07345e31f64ba957278259050bf82636db96872b64d407e7a96e",
     "source/mains-model-answers.md": "77cd5862ea4d3a0146492f0715864e7ee9a477f80d3e70f910a122234af595ba",
     "source/integrated-student-edition-2026-10-27.pdf": "0645e61df03c22d34aee7b096642c7e55fd02d52bfdbb2a701b9cfe7d289f10c"
@@ -62,5 +63,14 @@
   "academic_status": "NOT_APPROVED",
   "publication_state": "synchronized PDF from canonical editable Markdown; independent academic audit pending",
   "integrated_pdf_sha256": "0645e61df03c22d34aee7b096642c7e55fd02d52bfdbb2a701b9cfe7d289f10c",
-  "integrated_pdf_pages": 29
+  "integrated_pdf_pages": 29,
+  "cycle116": {
+    "date": "2026-10-30",
+    "new_original_mcqs": 5,
+    "new_author_source_checked_keys": 5,
+    "new_author_source_checked_distractors": 15,
+    "added_analytical_concept_words": 418,
+    "source": "Legislative Department Constitution 2025 Articles 243ZD/243ZE/243Y/243K",
+    "independent_approval": false
+  }
 }
