@@ -1,7 +1,7 @@
 {
   "topic_id": "2-3-1",
   "title": "Physical Geography of India: Monsoon, Resources and Water",
-  "date": "2026-10-26",
+  "date": "2026-10-30",
   "status": "IN_PROGRESS",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "Final integrated student edition 25 pages/11613 PDF text words; 25 numbered concepts, 25 four-option explained original MCQs with improved distractors, six 200–250-word mains answers, two SVG process diagrams. GitHub renderer succeeded; downloaded actual packaging artifact 12639056782 from run 40297113631, outer/inner ZIP CRC PASS, 1455 files, 75 original PDFs, 75 readiness JSONs, 78 HTML pages, 461 local links ZERO broken. Original PDF SHA256 2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879 preserved. PDF SHA256 b0180b9b0f84c1b1e842a88e90b388ba1388a6d13898babe8ed8171b3703fa16. 25 pages contact-sheet visually inspected for gross layout; no empty pages/outside-page text boxes; full-res accessibility pending. R1 official syllabus indexed text mapped 11 clauses, but original PDF returned 403. All R1–R8 still IN_PROGRESS, ZERO academic approvals. 26 Oct: R1 PASS after direct official Annexure II p29 visual inspection and 11-clause mapping. MCQ11/12 keys checked against IMD operational criteria, remaining 23 MCQ keys/distractors pending. First four mains answers given analytical subheadings in source; PDF sync requires post-render verification. 26 Oct latest: source register G9-G12 Markdown table layout fixed after visual defect, CI renderer run 40303002957 SUCCESS; remote PDF SHA256 9629ac7561a63902e8792cd1a9874f8dc7a0268b9784743e0f10652c736e1bc9 equals local regenerated PDF; 27 pages. Post-final-render packaging artifact CRC still pending; R8 IN_PROGRESS.\n26 Oct Turn11: IN-PLACE integrated student edition expanded 11 sections (+2052 explanatory words), sections under 300 reduced 20→9, source tags G13 India Code and G14 CGWB–IIT-H added; UNCLOS Q5/Q17, IMD Q11/Q12, NCERT Q15/Q24 key source-correspondence supported, 19 keys and all distractors still pending. Source commit 63ecd311; PDF renderer 40310989188 SUCCESS; post-render ZIP and full-res/public browser QA not yet certified. Evidence project-control/academic-readiness/2-3-1-turn11-depth-and-mcq-evidence-2026-10-26.json.\nTurn11 post-render artifact 12644212832 from successful GitHub packaging run 40311324424 actually downloaded: 1462 files, 75 original topic PDFs, 75 readiness JSON, 78 HTML, 461 local links zero broken, outer/inner CRC PASS. New 30-page integrated PDF SHA256 c0c5e8a23042ffd206ec10c23860a1e8e0f7fdec9e685cb0aa20c23c0c061a2b, MD SHA256 31aea8aa962af1b3fea4f4ee497837efc2ad182fe48bbf10688ce358717da38b, original PDF unchanged. All pages contact-sheet reviewed for gross layout; source register p29 full-res inspected; accessibility/public browser not certified. R8 IN_PROGRESS. QA 2-3-1-turn11-post-render-artifact-qa-2026-10-26.json.\n26 Oct Turn12: IN-PLACE sections §§1,11,12,13,14,15,20,21,23 expanded with causal examples and G15 official IMD 30 Sep final monsoon report (759.4 mm / 87% LPA; forecast versus final reconciled) and G16 NDMA urban-flood guidance. Narrative §§1–24 now all >=300 words by automated whitespace count; editorial synthesis §25 116 words. Word count does NOT close R3. Renderer run 40318787734 SUCCESS; post-render ZIP/CRC, full-res pages, and browser QA not yet verified. Evidence project-control/academic-readiness/2-3-1-turn12-nine-concepts-and-imd-final-2026-10-26.json.\n26 Oct Turn12 POST-RENDER ACTUAL GitHub artifact 12648147372 from run 40318970135 downloaded, outer/inner CRC PASS, 1464 files, 75 originals/75 status/78 HTML, 461 local links zero broken, original geography PDF unchanged. 32-page PDF SHA256 363188bf714065c91d48bfc992b17456781852582c45c24cf83ed1245666c487; Markdown SHA256 a924f581ed845af215cbe7d2aa81aa61ec139b6eb095f85e2b03a212a49d8e04. Contact sheets all 32 pages; full-res source table page32 reviewed, full accessibility/public browser NOT verified. project-control/academic-readiness/2-3-1-turn12-post-render-artifact-qa-2026-10-26.json.\nTurn13: official IMD final 30 Sep 2026 seasonal report directly checked; quick revision and Q23 corrected in integrated Markdown; GitHub renderer 40326345060 SUCCESS, remote PDF blob matches locally rendered 32-page PDF SHA256 43c990afe8e2560f7472d6758e721caa3c716b35846f9acb9b0ca2776c3591af; post-render packaging artifact and public browser QA pending. project-control/academic-readiness/2-3-1-turn13-final-monsoon-consistency-qa-2026-10-26.json",
-  "next_action": "R2 editorial contradiction and duplicate pass (including interim-vs-final 2026 quick revision), R3 qualitative depth assessment, R4 primary claim-level verification, R5 19 remaining MCQ keys and ALL distractors, R6 six mains factual reviews, R7 dated current-affairs consistency/maps, R8 public browser usability and full-resolution accessibility. No R9.",
+  "next_action": "R2 full contradiction/redundancy pass, R3 qualitative concept review, R4 primary claim-level checks, R5 complete independent 25-key/100-option audit beyond bounded Q11/12/13/23 checks, R6 all six mains independent claim checks, R7 diagrams/maps, R8 actual post-evidence ZIP SHA/CRC/75-topic/links plus browser accessibility; R9 prohibited until independent named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_report": "project-control/academic-readiness/2-3-1-objective-gap-assessment-2026-10-26.json",
@@ -37,9 +37,9 @@
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1/source/integrated-student-edition-2026-10-26.pdf",
     "renderer": "scripts/render_geography_integrated_student_edition.py",
     "workflow": ".github/workflows/render-topic-2-3-1-integrated.yml",
-    "pdf_pages": 32,
-    "pdf_sha256": "363188bf714065c91d48bfc992b17456781852582c45c24cf83ed1245666c487",
-    "pdf_text_words": 11613,
+    "pdf_pages": 33,
+    "pdf_sha256": "77167265a766468bf00d71a9b94b5821c77e730712d4435220568ab41e40adfb",
+    "pdf_text_words": 16589,
     "concepts": 25,
     "original_explained_mcqs": 25,
     "structured_mains_answers": 6,
@@ -72,9 +72,9 @@
     "source_to_pdf_resync_pending_verification": false,
     "renderer_run_latest": 40303002957,
     "latest_render_qa": "project-control/academic-readiness/2-3-1-turn10-render-layout-qa-2026-10-26.json",
-    "post_latest_render_artifact_download_pending": false,
+    "post_latest_render_artifact_download_pending": true,
     "latest_verified_remote_qa": "project-control/academic-readiness/2-3-1-turn11-post-render-artifact-qa-2026-10-26.json",
-    "latest_renderer_run": 40310989188,
+    "latest_renderer_run": 40982026980,
     "latest_renderer_result": "SUCCESS",
     "packaging_run": 40318970135
   },
@@ -164,5 +164,20 @@
       23
     ]
   },
-  "turn13_evidence": "project-control/academic-readiness/2-3-1-turn13-final-monsoon-consistency-qa-2026-10-26.json"
+  "turn13_evidence": "project-control/academic-readiness/2-3-1-turn13-final-monsoon-consistency-qa-2026-10-26.json",
+  "cycle99": {
+    "evidence": "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json",
+    "source_commit": "50d2c9699b3b3838aaac3ff9a1bd02c5e6749f9e",
+    "renderer_commit": "33bd560b8f5fac5f418abcf4bd3f0ff42171c897",
+    "concept_25_words": 328,
+    "mcq_option_sets_audited": [
+      11,
+      12,
+      13,
+      23
+    ],
+    "mains_q1_body_words": 245,
+    "post_evidence_artifact_verification": "PENDING",
+    "independent_approval": false
+  }
 }
