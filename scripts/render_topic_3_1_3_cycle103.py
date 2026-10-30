@@ -86,7 +86,7 @@ while i<len(tokens):
     if tag=='h1':
       if 'Part C' in inl.content:in_part_c=True
       elif 'Part D' in inl.content:in_part_c=False
-      if any(x in inl.content for x in ('Part C', 'Part E', 'Part H')):story.append(PageBreak())
+      if any(x in inl.content for x in ('Part C', 'Part E')):story.append(PageBreak())
     if tag=='h2' and in_part_c and re.match(r'^\d+\. ', inl.content):
       if concept_starts:story.append(PageBreak())
       concept_starts.append(inl.content)
