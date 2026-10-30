@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-30",
+  "cycle": 113,
+  "topic_id": "3-2-2",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approved": false,
+  "original_topic_pdf_sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d",
+  "previous_integrated_pdf_sha256": "1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831",
+  "integrated_master_path": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-30.md",
+  "pdf_path": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-30.pdf",
+  "new_substantive_concept": "Article 20 clauses 1-3 with worked examples and distinction from Articles 21/22",
+  "original_mcqs_preserved_in_legacy_file": 25,
+  "new_original_practice_mcqs": 5,
+  "total_integrated_original_practice_mcqs": 30,
+  "option_reorders_in_integrated_only": {
+    "1": "A->D",
+    "5": "A->D",
+    "6": "B->D",
+    "7": "B->C",
+    "8": "B->D",
+    "9": "A->D",
+    "14": "A->D"
+  },
+  "answer_distribution": {
+    "A": 8,
+    "B": 8,
+    "C": 7,
+    "D": 7
+  },
+  "new_items_source_correlated": [
+    {
+      "q": 26,
+      "answer": "B",
+      "source_articles": [
+        "13(1)",
+        "13(3)(a)"
+      ]
+    },
+    {
+      "q": 27,
+      "answer": "A",
+      "source_articles": [
+        "20(1)",
+        "20(2)",
+        "22(1)",
+        "51A"
+      ]
+    },
+    {
+      "q": 28,
+      "answer": "C",
+      "source_articles": [
+        "20(2)"
+      ]
+    },
+    {
+      "q": 29,
+      "answer": "B",
+      "source_articles": [
+        "20(3)"
+      ]
+    },
+    {
+      "q": 30,
+      "answer": "D",
+      "source_articles": [
+        "30(1)",
+        "29(2)",
+        "21A",
+        "39A"
+      ]
+    }
+  ],
+  "primary_source": {
+    "title": "Legislative Department, The Constitution of India, consolidated English PDF",
+    "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "directly_inspected": true
+  },
+  "new_keys_author_source_correlated": 5,
+  "new_distractors_author_source_correlated": 15,
+  "legacy_keys_and_distractors_independently_checked": false,
+  "six_mains_claim_level_verified": false,
+  "diagrams_external_reviewed": false,
+  "official_pyqs_claimed": 0,
+  "independent_approvals": 0,
+  "r1_r8_all_pass": false,
+  "r9": "NOT_STARTED",
+  "ci_pdf_status": "PENDING",
+  "actual_post_ci_artifact_qa": "PENDING",
+  "notes": "Master is source-bounded. Mechanical 30-question validation and balanced answer positions do not certify correctness. Preserve original files and original 75-topic inventory. No claim of archival consultation."
+}
