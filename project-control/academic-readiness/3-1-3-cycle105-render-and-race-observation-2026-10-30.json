@@ -1,0 +1,24 @@
+{
+  "cycle": 105,
+  "date": "2026-10-30",
+  "topic_id": "3-1-3",
+  "merge_commit": "4f75daa42f3450d6bed7028a5bab5fdd4267103b",
+  "renderer_run": 41017122679,
+  "renderer_status": "SUCCESS",
+  "rendered_pdf_pages": 41,
+  "rendered_pdf_sha256": "be10d41c26754b1a63e0ff1ffb6dca7303e8fb404b2b25cf2e0841b4c27673e6",
+  "concept_start_count": 20,
+  "short_pdf_pages_under_700_extracted_chars": [
+    10,
+    19
+  ],
+  "browser_accessibility": "NOT_CERTIFIED",
+  "concurrent_packaging_run": 41017122709,
+  "concurrent_artifact": 12959309096,
+  "concurrent_artifact_qa": "STALE: included new Markdown SHA256 0d98baff4f2490af0ad238e4ca417c0b518aa149ccabd05476f31bec5c6405c2 but OLD PDF SHA256 0241344e737f3b9670e68a406b00fcdc902a73413352316e7593d41967f83038; must repackage after renderer",
+  "current_pdf_sha256": "be10d41c26754b1a63e0ff1ffb6dca7303e8fb404b2b25cf2e0841b4c27673e6",
+  "next": "Trigger post-render packaging from fresh main and actually download archive; compare current Markdown/PDF, original 75 PDFs, 75 status JSON, ZIP CRC, local links and DOM fragments",
+  "academic_approvals": 0,
+  "R9": "NOT_STARTED",
+  "independent_key_distractor_mains_audit": "NOT_DONE"
+}
