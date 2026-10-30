@@ -1,0 +1,51 @@
+{
+  "cycle": 106,
+  "date": "2026-10-30",
+  "base_main": "00a1684a418a04af1c92afee42650218e832255b",
+  "topic": "3-1-3",
+  "title": "Social Issues",
+  "scope": "Synchronized legacy student HTML and source modules with corrected integrated master/PDF current rural employment law",
+  "legal_sources": [
+    {
+      "publisher": "Ministry of Rural Development, Press Information Bureau",
+      "date": "2026-05-11",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259773&lang=1&reg=6",
+      "claim": "VB–G RAM G effective 1 July 2026; 125 days per eligible rural household"
+    },
+    {
+      "publisher": "Gazette of India",
+      "date": "2026-05-11",
+      "notification": "S.O. 2383(E)",
+      "claim": "MGNREGA repeal from 1 July 2026"
+    }
+  ],
+  "student_html_updated": true,
+  "legacy_source_modules_updated": [
+    "answer-blueprints.md",
+    "complete-model-answers.md",
+    "complete-notes.md",
+    "depth-repair-social-issues-2026.md",
+    "detailed-notes.md",
+    "original-practice.md",
+    "quick-revision.md",
+    "source-register-internal.md",
+    "syllabus-index.md"
+  ],
+  "mcq10": {
+    "original_practice": true,
+    "options": 4,
+    "answer": "B",
+    "checked_distractors": 3,
+    "official_pyq": false
+  },
+  "original_topic_count": 75,
+  "original_pdfs_modified": false,
+  "integrated_master_modified": false,
+  "integrated_pdf_modified": false,
+  "prior_pdf_sha256": "be10d41c26754b1a63e0ff1ffb6dca7303e8fb404b2b25cf2e0841b4c27673e6",
+  "topic_3_1_5": "Stale-law issue documented in per-topic readiness; full synchronized repair pending",
+  "academic_gates": "R1-R8 incomplete",
+  "r9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "post_merge_downloaded_artifact_qa": "PENDING"
+}
