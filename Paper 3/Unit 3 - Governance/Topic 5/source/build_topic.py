@@ -12,7 +12,8 @@ from PIL import Image as PILImage
 ROOT=Path(__file__).resolve().parent.parent;SRC=ROOT/'source'
 TITLE='Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms'
 parts=['syllabus-and-summary.md','detailed-notes.md','visual-learning.md','quick-revision.md','original-mcqs.md','mains-model-answers.md','sources-and-audit.md']
-header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 5 | Expanded draft | 27 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All 25 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
+mcq_count=len(re.findall(r'(?m)^### MCQ \\d+\\.',(SRC/'original-mcqs.md').read_text(encoding='utf-8')))
+header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 5 | Expanded draft | 27 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All {mcq_count} MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
 md=header+'\n\n'.join((SRC/p).read_text(encoding='utf-8') for p in parts)
 (SRC/'complete-notes.md').write_text(md,encoding='utf-8')
 # offline HTML
@@ -25,7 +26,7 @@ from bs4 import BeautifulSoup
 soup=BeautifulSoup(htmlbody,'html.parser');toc=[]
 for i,h in enumerate(soup.find_all('h2')):
  id=f'section-{i+1}';h['id']=id;toc.append(f'<a href="#{id}">{html.escape(h.get_text())}</a>')
-page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(TITLE)} — TGPSC</title><style>{css}</style></head><body><header><h1>TGPSC Group I · Paper III · Unit III · Topic 5</h1><p>Ethics · Administrative neutrality · Citizen Charters · Anti-corruption · Right to Information</p><p><span class="badge">Expanded draft — academically unapproved</span> &nbsp; 25 original MCQs · 6 mains models</p><p><a style="color:#ffd4aa" href="../../../index.html">← 75-topic offline study portal</a> &nbsp; <a style="color:#ffd4aa" href="source/integrated-student-edition-2026-10-27.pdf">Read integrated PDF</a> &nbsp; <a style="color:#ffd4aa" href="source/complete-notes.md">Editable Markdown</a></p></header><main><nav><b>Chapter contents</b><div class="toc">{''.join(toc)}</div></nav>{str(soup)}</main><footer>Original practice material, not official PYQs. No independent academic approval.</footer></body></html>'''
+page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(TITLE)} — TGPSC</title><style>{css}</style></head><body><header><h1>TGPSC Group I · Paper III · Unit III · Topic 5</h1><p>Ethics · Administrative neutrality · Citizen Charters · Anti-corruption · Right to Information</p><p><span class="badge">Expanded draft — academically unapproved</span> &nbsp; {mcq_count} original MCQs · 6 mains models</p><p><a style="color:#ffd4aa" href="../../../index.html">← 75-topic offline study portal</a> &nbsp; <a style="color:#ffd4aa" href="source/integrated-student-edition-2026-10-27.pdf">Read integrated PDF</a> &nbsp; <a style="color:#ffd4aa" href="source/complete-notes.md">Editable Markdown</a></p></header><main><nav><b>Chapter contents</b><div class="toc">{''.join(toc)}</div></nav>{str(soup)}</main><footer>Original practice material, not official PYQs. No independent academic approval.</footer></body></html>'''
 (ROOT/'index.html').write_text(page,encoding='utf-8')
 # reportlab PDF
 pdfmetrics.registerFont(TTFont('DV','/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'))
@@ -117,7 +118,7 @@ manifest['new_topics_this_run']=0
 manifest['historical_creation_inventory']={k:manifest.pop(k,None) for k in ('previous_distinct_accessible_drafts','accessible_distinct_drafts_after_run','remaining_without_first_draft')}
 manifest['current_topic_inventory_total']=75
 manifest.pop('files_sha256',None)
-manifest['research_cutoff']='2026-10-27'
+manifest['research_cutoff']='2026-10-31'
 manifest['academic_status']='ASSESSED_REBUILD_REQUIRED; partial author-side checks; independent approval zero'
 # Refresh actual content metrics rather than retaining historical manifest estimates.
 detail=(SRC/'detailed-notes.md').read_text(encoding='utf-8')
@@ -127,10 +128,10 @@ manifest['major_concept_chapters']=len(matches)
 manifest['manuscript_whitespace_words']=len(md.split())
 manifest['legacy_pdf_pages']=31
 manifest['mains_answer_words_body_only']=[204,220,227,212,222,237]
-manifest['detailed_concept_chapters']=18
+manifest['detailed_concept_chapters']=len(matches)
 manifest['total_manuscript_words']=len(md.split())
 manifest['original_diagrams']=3
-manifest['original_mcqs']=25
+manifest['original_mcqs']=mcq_count
 manifest['mains_answers']=6
 import fitz
 manifest['integrated_pdf_pages']=len(fitz.open(SRC/'integrated-student-edition-2026-10-27.pdf'))
