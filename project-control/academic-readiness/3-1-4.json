@@ -29,9 +29,10 @@
   "evidence": [
     "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json",
     "project-control/academic-readiness/3-1-4-cycle110-deduplicated-master-vetti-primary-source-audit-2026-10-30.json",
-    "project-control/academic-readiness/3-1-4-cycle110-actual-downloaded-postrender-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/3-1-4-cycle110-actual-downloaded-postrender-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/3-1-4-cycle111-legacy-statutory-synchronization-2026-10-30.json"
   ],
-  "next_action": "Independent expert audit of all 30 MCQ keys/90 distractors and six mains; direct R1 syllabus authentication, historical archival checks, diagram and full browser accessibility. R1–R8 remain incomplete; R9 NOT_STARTED; approvals ZERO.",
+  "next_action": "After merge, download latest packaging artifact and check SHA/CRC/75 originals/links; independent expert review of 30 keys/90 distractors and six mains, direct R1, browser accessibility. No R1-R8 promotion or R9.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -77,5 +78,13 @@
     "packaging_run_id": 41051324081,
     "artifact_id": 12974667647,
     "artifact_sha256": "3f4cad96c8fb9d44737e2287439dd5c80d5e50dc2bbf50f791e832ae9e67eafd"
+  },
+  "cycle111": {
+    "legacy_files_synchronized": 8,
+    "statutory_claim": "Section 2(b) explanation expressly names Vetti; sections 4 and 5 checked",
+    "original_pdfs_modified": false,
+    "integrated_pdf_modified": false,
+    "full_independent_audit": false,
+    "postmerge_packaging_qa": "PENDING"
   }
 }
