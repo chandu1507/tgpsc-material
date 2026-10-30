@@ -424,7 +424,7 @@ Constitutional amendment → Art. 368: separate special majorities; no joint sit
 
 # Original practice MCQs with explanations — NOT official PYQs
 
-**Provenance:** All 25 questions below are newly written for this draft. They are not represented as questions from a TGPSC, UPSC or other official examination.
+**Provenance:** All 30 questions below are newly written for this draft. They are not represented as questions from a TGPSC, UPSC or other official examination.
 
 ### Q1. Which institution can directly remove the Union Council of Ministers through a vote of no confidence?
 A. Rajya Sabha  
@@ -601,6 +601,42 @@ C. Governor is appointed by the President and normally acts on state ministerial
 D. Governor can personally vote on every Assembly bill.  
 **Answer: C.** Articles 155 and 163 govern appointment and advice. Exceptional discretion must be grounded in the Constitution and controlling case law.
 
+### Q26. Which interval does Article 85(1) restrict when Parliament is summoned?
+A. The interval between the last sitting of one session and the first sitting of the next session must not reach six months.
+B. The interval between successive general elections must never exceed six months.
+C. Parliament must conduct at least six months of sittings every calendar year.
+D. Every two consecutive daily sittings must be less than six months apart.
+**Answer: A.** Article 85(1) measures the gap from the last sitting of one session to the first sitting of the next. B confuses session summoning with elections; C invents a minimum duration of sittings; D incorrectly treats every pair of daily sittings as the constitutional reference points. [S13]
+
+### Q27. Until Parliament provides otherwise by law, what is the constitutional quorum for a meeting of either House under Article 100(3)?
+A. A majority of the House's total membership.
+B. One-third of the total membership.
+C. Two-thirds of members present and voting.
+D. One-tenth of the total membership.
+**Answer: D.** Article 100(3) specifies one-tenth of the total membership, subject to Parliament legislating otherwise. A and B invent different fractions; C confuses a special voting threshold with the quorum needed to conduct a sitting. Article 100(4) addresses absence of quorum. [S13]
+
+### Q28. A non-Money Bill returned by the President under Article 111 is passed again by both Houses. What follows?
+A. The President may return the same Bill repeatedly without limit.
+B. The President must call a joint sitting regardless of whether the Houses agree.
+C. The President shall not withhold assent after the Bill is passed again with or without amendment.
+D. The President may require a referendum before assent.
+**Answer: C.** Article 111 expressly bars withholding assent after the returned non-Money Bill is reconsidered and passed again. A invents a recurring return power; B confuses reconsideration with the separately conditioned Article 108 joint-sitting process; D invents a referendum requirement. Money Bills cannot be returned under this proviso. [S13]
+
+### Q29. Under Article 123(1), which parliamentary-session situation can permit a presidential ordinance, assuming the immediate-action condition is satisfied?
+A. Both Houses are in session and the Cabinet asks for an ordinance.
+B. One House is not in session, even though the other House is in session.
+C. Both Houses are in session but the ordinary legislative process is inconvenient.
+D. Both Houses have passed a Bill and are awaiting the President's assent.
+**Answer: B.** Article 123 excludes promulgation when both Houses are in session; one House being out of session can satisfy the session condition, but necessity and other constitutional limits remain. A and C fail the session restriction; D concerns assent to legislation, not an ordinance gateway. [S13]
+
+### Q30. Which State Bill must the Governor reserve for the President under the second proviso to Article 200?
+A. Every Bill dealing with a matter on the Concurrent List.
+B. Every Bill affecting the remuneration of State ministers.
+C. Every Bill passed by a Legislative Council.
+D. A Bill that, in the Governor's opinion, would so derogate from High Court powers as to endanger its constitutional position.
+**Answer: D.** The second proviso to Article 200 mandates reservation in the specified High Court-protection situation. A and B incorrectly turn subject matter into automatic reservation; C invents a rule about the originating House and ignores the Assembly-centred legislative procedure. This is distinct from discretionary reservation questions addressed in the 2025 Presidential Reference. [S13]
+
+
 ---
 
 # Original mains practice questions and structured model answers — NOT official PYQs
@@ -709,7 +745,7 @@ D. Governor can personally vote on every Assembly bill.
 7. **Governor assent:** The five-judge November 2025 Presidential Reference is controlling for this draft's summary. No blanket judicial three-month limit and no deemed assent; limited scrutiny of prolonged, unexplained inaction remains.
 8. **Legislative sittings:** PRS 2025 review's 11-day Telangana Council figure is historical descriptive evidence, not a mandatory minimum.
 9. **Telangana seats:** Official Telangana department reports 119 Assembly and 40 Council seats; avoid third-party claims of 43 Council seats or confusing sanctioned strength with filled vacancies.
-10. **Original questions:** 25 new MCQs and six mains practice questions; zero official PYQ labels; no invented TGPSC question numbers.
+10. **Original questions:** 30 original practice MCQs and six mains practice questions; zero official PYQ labels; no invented TGPSC question numbers.
 
 ## 27 October 2026 — Article 171 primary-text and practice-item review
 
@@ -722,6 +758,18 @@ Government of India, Legislative Department, Constitution of India, Article 171(
 - Q23: PRS's 11 Telangana Council sitting days refer to calendar year 2025, not a 2026 tally or statutory minimum.
 
 These are five limited author-side answer-key source correspondences, not an independent review of all 25 keys and 100 distractors. Six mains answers remain unverified claim by claim. No R1–R8 PASS or R9 approval is claimed.
+
+## 30 October 2026 — Cycle114 primary-text MCQ additions and limits
+
+**S13 (directly viewed):** Government of India, Legislative Department, *Constitution of India*, English–Kannada diglot edition **as on 11 November 2025**, Articles **85(1), 100(3)–(4), 111, 123(1), and 200 second proviso**. Official source: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf . The constitutional clauses were inspected directly on 30 October 2026. This source supplements, but does not silently replace, the earlier S2 edition.
+
+- **Q26:** Article 85 refers to the last sitting of one session and the first sitting of the next; the wrong options confuse elections, sitting duration and ordinary daily sittings.
+- **Q27:** Article 100(3) sets one-tenth total membership unless Parliament legislates otherwise; do not confuse quorum with voting majorities.
+- **Q28:** Article 111's non-Money-Bill return and reconsideration proviso requires assent after repassage; no referendum or endless return.
+- **Q29:** Article 123(1) forbids ordinance promulgation when **both** Houses are in session; one House out of session may satisfy that condition, but necessity remains independently required.
+- **Q30:** Article 200's second proviso mandates presidential reservation where a Bill would endanger the High Court's constitutional position; it does not apply automatically to every Concurrent List or financial matter.
+
+All five are **original practice questions**, not verified official PYQs. Each new key and its three distractors received **author-side constitutional-text correlation**, not independent expert review. The remaining 25 pre-existing keys, all 75 older distractors and all six mains answers still require full claim-level review. No R1–R8 gate is promoted and R9 remains NOT_STARTED.
 
 ## Outstanding full academic-audit tasks (do not mark approved)
 

@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-2-2",
+    "last_reported_topic": "3-2-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle113 Topic 3-2-2 post-render actual downloaded artifact CRC/SHA/75 original PDFs and offline links PASS; final post-evidence package pending. Academic approvals ZERO."
+    "note": "Cycle114 Topic 3-2-3 five source-correlated original MCQs and stale CI guard fix staged. CI render/downloaded artifact pending; ZERO independent approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -291,8 +291,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "article171_source_critical_revision_published_render_and_academic_review_pending",
-      "notes": "27 Oct Cycle30: ten existing substantial concepts, 25 original MCQs, six mains; Article171 proviso and separate Art164 17-minister ceiling expanded; Q13 revised; five limited key source checks. Original PDF unchanged. All R1-R8 remain incomplete, no R9.",
+      "production_review": "cycle114_five_primary_text_mcqs_added_render_pending_academic_audit_pending",
+      "notes": "27 Oct Cycle30: ten existing substantial concepts, 25 original MCQs, six mains; Article171 proviso and separate Art164 17-minister ceiling expanded; Q13 revised; five limited key source checks. Original PDF unchanged. All R1-R8 remain incomplete, no R9. Cycle114: Q26-Q30 original practice questions added, five keys/15 distractors bounded author-correlated to official Constitution Articles 85/100/111/123/200; 30 total, full 30-key/90-distractor independent review and six mains pending. Stale CI guard hardcoded 8 rebuilt against live 75-topic index. Renderer and downloaded post-edit artifact pending. No R1-R8/R9 promotion.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-3.json"
     },
