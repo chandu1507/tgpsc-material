@@ -124,12 +124,12 @@ while i<len(tokens):
  if t.type=='paragraph_open':
     inl=tokens[i+1]; val=inline_html(inl)
     story.append(Paragraph(('•  '+val) if list_depth else val,styles['li' if list_depth else 'p']))
-    match=re.search(r'diagrams/([0-9]{2}_[a-z_]+\\.svg)',inl.content)
+    match=re.search(r'diagrams/([0-9]{2}_[a-z_]+\.svg)',inl.content)
     if match:
         diagram_path=src.parent/'diagrams'/match.group(1)
         if not diagram_path.exists():raise FileNotFoundError(diagram_path)
         illustration=policy_diagram(match.group(1))
-        if illustration is None:raise RuntimeError('SVG conversion failed: '+str(diagram_path))
+        if illustration is None:raise RuntimeError('Native vector drawing failed: '+str(diagram_path))
         scale=min(1,(A4[0]-84)/illustration.width)
         illustration.scale(scale,scale)
         illustration.width*=scale;illustration.height*=scale
