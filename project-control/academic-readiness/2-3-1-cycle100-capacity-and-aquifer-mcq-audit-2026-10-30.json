@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-30",
+  "topic_id": "2-3-1",
+  "cycle": 100,
+  "status": "AUTHOR_SIDE_SOURCE_BOUNDED_CORRECTION_NOT_APPROVED",
+  "baseline_main": "f101df69080f2dedaf40f6c5222bddb8fe2a0054",
+  "academic_source_commit": "274df057727a8fdab91b645dede24367623dae8a",
+  "integrated_source": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 1/source/integrated-student-edition-2026-10-26.md",
+  "source_blob_sha": "4d6c00e2949344e58f0d354d4e67ff7627948959",
+  "original_mcq_total": 25,
+  "reviewed_mcqs": [
+    6,
+    8,
+    19,
+    21
+  ],
+  "options_per_question": 4,
+  "options_reviewed": 16,
+  "correct_keys": {
+    "6": "A",
+    "8": "B",
+    "19": "A",
+    "21": "A"
+  },
+  "source_register": [
+    {
+      "tag": "G17",
+      "publisher": "Central Electricity Authority / National Power Portal",
+      "url": "https://npp.gov.in/publishedReports",
+      "directly_viewed": true,
+      "claim": "Separate installed capacity MW and actual energy generation reporting; hypothetical capacity-factor arithmetic independently computed",
+      "limits": "Does not prove any real plant's curtailment or performance"
+    },
+    {
+      "tag": "G18",
+      "publisher": "World Bank",
+      "date": "2020-02-17",
+      "url": "https://www.worldbank.org/en/news/press-release/2020/02/17/improving-groundwater-management-india",
+      "directly_viewed": true,
+      "claim": "Atal Bhujal community water budgeting, groundwater recharge, crop demand and withdrawal management",
+      "limits": "Programme design; no check-dam field effect or downstream-flow measurement claimed"
+    }
+  ],
+  "calculations": [
+    {
+      "mcq": 6,
+      "rated_MW": 100,
+      "hours": 8760,
+      "observed_MWh": 175200,
+      "maximum_MWh": 876000,
+      "capacity_factor": 0.2
+    },
+    {
+      "mcq": 19,
+      "rated_MW": 100,
+      "plant_X_GWh": 175,
+      "plant_Y_GWh": 140,
+      "maximum_GWh": 876,
+      "capacity_factor_X_rounded": 0.1998,
+      "capacity_factor_Y_rounded": 0.1598
+    }
+  ],
+  "key_and_distractor_reasoning": "Each of four options per question is explicitly evaluated in the integrated answer. Hypothetical water and solar examples clearly labelled as such.",
+  "unverified": [
+    "Independent academic item validation",
+    "All other MCQ options and mains claim-level audit",
+    "Live browser and screen-reader accessibility",
+    "Full-page concept and map accuracy"
+  ],
+  "gate_status": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "academic_approval": false,
+  "external_reviewer": null,
+  "publication": {
+    "pdf": "PENDING_POST_MERGE_RENDER",
+    "downloaded_artifact": "PENDING",
+    "zip_crc": "PENDING",
+    "original_75_sha": "PENDING"
+  }
+}
