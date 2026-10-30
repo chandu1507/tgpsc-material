@@ -510,9 +510,12 @@ D. It measures only consumption of food grains.
 
 **2. Which ratio uses the labour force, not the entire population, as denominator?**
 
-A. WPR  B. LFPR  C. UR  D. Literacy rate
+A. Worker Population Ratio (WPR)  
+B. Labour Force Participation Rate (LFPR)  
+C. Unemployment Rate (UR)  
+D. Literacy rate  
 
-**Answer: C.** UR = unemployed / labour force. LFPR = labour force / population; WPR = workers / population. All require a stated age band and survey convention.
+**Answer: C.** UR = unemployed persons / labour force. LFPR = labour force / population; WPR = workers / population. State the age band, activity status and reference period. **Distractors:** A and B use population denominators; D measures literacy rather than labour-market status.
 
 **3. The distinction between usual-status and current-weekly-status PLFS measures matters because they:**
 
@@ -541,11 +544,14 @@ D. housing support.
 
 **Answer: A.** PWDVA provides domestic-protection remedies; POSH creates workplace prevention and redressal obligations. They address different institutional settings.
 
-**6. Which date is correctly associated with the establishment of the Telangana state?**
+**6. Which date is correctly associated with the establishment of Telangana state?**
 
-A. 1 November 1956  B. 2 June 2014  C. 15 August 1947  D. 1 May 1960
+A. 1 November 1956  
+B. 2 June 2014  
+C. 15 August 1947  
+D. 1 May 1960  
 
-**Answer: B.** Telangana's state formation took effect on 2 June 2014 under the Andhra Pradesh Reorganisation Act 2014. The 1956 arrangements concern an earlier reorganisation episode.
+**Answer: B.** Telangana's state formation took effect on 2 June 2014 under the Andhra Pradesh Reorganisation Act, 2014. **Distractors:** A concerns the 1956 reorganisation, not Telangana state formation; C is India's independence date; D is associated with Maharashtra and Gujarat state formation, not Telangana.
 
 **7. Which is NOT necessarily communalism?**
 
@@ -650,14 +656,14 @@ D. It is the urban unemployment rate
 
 **Answer: B.** The January 2024 discussion paper explicitly uses extrapolation; the measure is multidimensional, not a directly enumerated monetary-poverty rate.
 
-**18. Which pair uses the correct PLFS denominator?**
+**18. According to the all-India Time Use Survey 2024, which interpretation of unpaid domestic-service participation is accurate?**
 
-A. UR/population and LFPR/labour force  
-B. UR/labour force and LFPR/population  
-C. Both use employed persons  
-D. Both use total households  
+A. 81.5% of women spent 81.5% of every day on unpaid domestic services.  
+B. Among persons aged six years and above, 81.5% of females and 27.1% of males participated in unpaid domestic services for household members during the survey day.  
+C. The figures measure the unemployment rate of the female and male labour forces.  
+D. The figures apply exclusively to working-age residents of urban Telangana.  
 
-**Answer: B.** UR concerns unemployed persons as a share of the labour force, whereas LFPR is labour force relative to population.
+**Answer: B.** MoSPI's 2024 Time Use Survey factsheet reports these **all-India, sex-specific participation rates for persons aged 6+**. Participation means performing an activity in the 24-hour reference period, not spending that percentage of the day on it. **Distractors:** A confuses participation with duration; C substitutes a labour-market rate; D invents a Telangana-only, urban, working-age population. Source: MoSPI, *Time Use Survey 2024 Factsheet*, released 25 February 2025.
 
 **19. A farm household reports a good harvest but negative net returns. Which explanation is most plausible?**
 
@@ -677,14 +683,14 @@ D. Relocation cannot affect schooling
 
 **Answer: B.** Economic displacement includes common-property and non-titleholder losses that cash for titled land may miss.
 
-**21. Which statement about the Child and Adolescent Labour law is defensible?**
+**21. Which pairing of the Indian Constitution's rights against exploitation is correct?**
 
-A. Every family-business activity is exempt without conditions  
-B. Adolescent hazardous work is restricted and child-employment exceptions are constrained  
-C. Children may work at night if paid  
-D. Education law applies only to employers  
+A. Article 23 prohibits only child factory employment; Article 24 addresses trafficking and begar.  
+B. Article 23 prohibits trafficking in human beings, begar and similar forced labour; Article 24 prohibits employment of children below 14 in factories, mines or other hazardous employment.  
+C. Article 23 requires every adolescent to accept compulsory private-sector employment.  
+D. Article 24 prohibits every form of adult employment in dangerous industries.  
 
-**Answer: B.** The amended framework prohibits most child employment and specifically regulates adolescent hazardous work; exceptions are not blanket permissions.
+**Answer: B.** The Constitution separates the general ban on trafficking/forced labour (Article 23) from the specific under-14 hazardous-employment protection (Article 24). Article 23(2) permits nondiscriminatory compulsory service for public purposes; that qualification is not a licence for forced private labour. **Distractors:** A reverses the provisions; C invents a duty; D substitutes adults for children and exaggerates the scope. The separate Child and Adolescent Labour statute must not be confused with the constitutional text. Source: Legislative Department, *Constitution of India*, Part III, Articles 23–24.
 
 **22. An increase in registered violence complaints necessarily proves what?**
 
@@ -722,14 +728,14 @@ D. Count new road signs
 
 **Answer: B.** Relocation should reduce hazard exposure without creating livelihood or education losses.
 
-**26. A falling fertility rate may coexist with population growth mainly because of:**
+**26. Under the Census of India 2011 definition, which combination identifies a census town rather than a statutory town?**
 
-A. Demographic momentum from age structure  
-B. A necessary rise in mortality  
-C. Universal migration bans  
-D. An increase in poverty thresholds  
+A. At least 5,000 population, at least 400 persons per sq. km, and at least 75% of male main workers in non-agricultural pursuits.  
+B. At least 1,000 population, at least 100 persons per sq. km, and no occupational test.  
+C. Every settlement notified as a municipality, regardless of demographic characteristics.  
+D. At least 75% of all residents working outside agriculture, with no population or density threshold.  
 
-**Answer: A.** A large cohort entering reproductive ages can sustain births even after fertility per woman declines.
+**Answer: A.** The 2011 Census criteria for a **census town** combine minimum population, density and the **male main-worker** non-agricultural share. **Distractors:** B gives false thresholds; C describes the separate *statutory town* route; D changes the denominator and drops two mandatory criteria. A census-town classification is not proof that municipal services or statutory municipal status have been provided. Source: Office of the Registrar General & Census Commissioner, *Census of India 2011—Rural–Urban Distribution of Population*, definition slide.
 
 **27. How can public employment programmes affect rural bargaining power?**
 
@@ -925,7 +931,12 @@ Do NOT silently promote unverified original questions to PYQs. Verify contempora
 | [MGNREGA portal](https://nrega.nic.in/index.html) | 100-day rural household entitlement | Not proof of delivery |
 | [Indian Economic Service urban classification](https://ies.gov.in/arthapedia/concept/urban) | Census-town classification thresholds | Not 2026 town counts |
 | [UN 2030 Agenda](https://sdgs.un.org/2030agenda) | Three integrated sustainable-development dimensions | Not project success evidence |
+| [MoSPI Time Use Survey 2024 factsheet (25 February 2025)](https://www.mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf) | Q18: 81.5% female / 27.1% male all-India unpaid domestic-service participation, persons 6+ | Survey-day participation, not hours or Telangana-specific rates; no microdata reanalysis |
+| [Legislative Department, Constitution Part III, Articles 23–24](https://www.legislative.gov.in/static/uploads/2025/07/ca7ce5c746fa7480804bbdeb6cb704f0.pdf) | Q21: trafficking, begar, forced labour versus under-14 hazardous employment | Constitutional text only; no case-law or state enforcement audit |
+| [Census of India 2011 rural–urban definition](https://censusindia.gov.in/nada/index.php/catalog/42617/download/46288/Census%20of%20India%202011%E2%80%91Rural%20Urban%20Distribution%20of%20Population.pdf) | Q26: census-town population, density, male main-worker thresholds | 2011 classification rules, not evidence of 2026 settlement status |
 
+
+**Cycle104 editorial note (30 October 2026):** Replaced three substantially overlapping MCQs (18, 21, 26) with differentiated official-source-correlated questions; repaired inline option formatting in Q2 and Q6. This is an author-side five-item review, NOT independent verification of all 30 keys and 90 distractors.
 
 **Academic status:** Claim-level review, official syllabus authentication, browser accessibility and named independent expert review remain outstanding; approvals ZERO.
 
