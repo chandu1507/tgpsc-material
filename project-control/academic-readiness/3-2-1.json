@@ -28,9 +28,10 @@
   },
   "evidence": [
     "project-control/academic-readiness/3-2-1-cycle28-constitutional-mcq-and-objective-audit-2026-10-27.json",
-    "project-control/academic-readiness/3-2-1-cycle112-constitutional-arithmetic-and-ci-evidence-2026-10-30.json"
+    "project-control/academic-readiness/3-2-1-cycle112-constitutional-arithmetic-and-ci-evidence-2026-10-30.json",
+    "project-control/academic-readiness/3-2-1-cycle112-actual-downloaded-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Download and inspect post-render GitHub packaging artifact (outer/inner CRC, digest, 75 original PDFs, 75 readiness JSON, links and SVG); reconcile legacy HTML and modules; independently audit all 30 MCQ keys/90 distractors, six mains, and official TGPSC syllabus host; browser and named expert review. Do not promote R1-R8/R9.",
+  "next_action": "Post-evidence packaging artifact download and independent QA; legacy HTML sync; direct R1 syllabus authentication; independent 30-key/90-distractor and six-mains audits; full browser/accessibility and named expert. No gate promotion.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -76,8 +77,11 @@
     "ci_render_status": "SUCCESS",
     "pdf_sha256": "85cdf27451e2f3bf4e3b863f791db27d19d701d92d9c8badc5edccbf8a8bf28e",
     "source_conflict": "News On AIR 18 April 2026 inconsistent 298+230=528 versus 489 present; exact parliamentary denominator not independently authenticated",
-    "downloaded_artifact_qa": "PENDING",
+    "downloaded_artifact_qa": "ACTUALLY_DOWNLOADED_SHA_CRC_75_ORIGINALS_597_LINKS_1050_FRAGMENTS_PASS",
     "r1_r8_ready": false,
-    "independent_approval": false
+    "independent_approval": false,
+    "packaging_run": 41067766053,
+    "artifact_id": 12984710066,
+    "artifact_sha256": "fe6c6976a906850893051476ed2b976b10b746f55daf89383a849d4480bdd0a7"
   }
 }
