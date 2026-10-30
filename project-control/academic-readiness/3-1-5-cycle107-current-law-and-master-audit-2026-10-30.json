@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-30",
+  "topic": "3-1-5",
+  "baseline_main": "cba2e83407b3213e4bbece96238361565288ae65",
+  "source_register": [
+    "https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259703&lang=1&reg=1",
+    "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2279995&lang=2&reg=48"
+  ],
+  "legal_finding": "Act 36/2025: 125 days per eligible rural household, commenced 1 July 2026, MGNREGA 2005 repealed",
+  "preserved_original_pdfs": true,
+  "integrated_master": {
+    "concepts": 18,
+    "original_mcqs": 30,
+    "original_mains": 6,
+    "legacy_duplicates_excluded": true
+  },
+  "corrected_student_files": [
+    "detailed-notes.md",
+    "index.html",
+    "source/complete-notes.md",
+    "source/detailed-notes.md",
+    "source/depth-repair-social-policy.md",
+    "source/original-explained-mcqs.md",
+    "source/structured-mains-answers.md",
+    "source/quick-revision.md",
+    "topic-summary-and-quick-revision.md",
+    "source/sources-internal.md",
+    "sources-internal.md"
+  ],
+  "unverified": [
+    "Telangana implementing orders and delivery",
+    "Independent MCQ/distractor and mains claim checks",
+    "Full R1-R8 academic readiness",
+    "Direct browser and screen-reader QA"
+  ],
+  "independent_approvals": 0
+}

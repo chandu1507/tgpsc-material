@@ -13,7 +13,7 @@
 - **Population:** National Population Policy 2000, voluntary choice, demographic momentum and ageing.
 - **Education:** RTE, NEP 2020, Samagra Shiksha, PM POSHAN; learning outcomes must accompany access.
 - **Health:** NHP 2017, NHM and Ayushman Bharat; primary care differs from hospital insurance.
-- **Poverty:** MGNREGA, NFSA, housing and livelihood instruments solve different deprivation dimensions.
+- **Poverty:** VB–G RAM G (125 household-days from 1 July 2026; replacing the historical MGNREGA 100-day framework), NFSA, housing and livelihood instruments address different deprivation dimensions.
 
 ## 12-point quick revision
 
@@ -29,3 +29,5 @@
 10. Contrast a **cash benefit** with service quality and institutional rights.
 11. Use short mains **subheadings** for readability.
 12. End with an accountable **delivery improvement** and success metric.
+
+**Legal-currentness check (30 Oct 2026):** VB–G RAM G Act 2025 (Act 36/2025), in force 1 July 2026, replaced MGNREGA 2005; 125 days per eligible rural household per financial year, not per individual. India Code and MoRD PIB PRID 2259703. Actual Telangana implementation requires separate evidence.

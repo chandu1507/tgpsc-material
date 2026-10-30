@@ -1,6 +1,6 @@
 # TGPSC Paper III — Unit I — Topic 5 | Consolidated editable study master
 
-**Academic status: NOT APPROVED.** This is a provenance-preserving editorial master, not a certified textbook or official TGPSC question bank. The previously published `complete-notes.pdf` remains unchanged. The original substantive supplement below is an addition; historical legacy content remains separately labelled to permit audit and correction. The newly written 30 MCQs and six mains answers are **original practice**, not official PYQs.
+**Academic status: NOT APPROVED.** **Legal-currentness check (30 Oct 2026):** VB–G RAM G Act, 2025 replaced MGNREGA on 1 July 2026, guaranteeing 125 household-days; see [S18][S19]. This is a provenance-preserving editorial master, not a certified textbook or official TGPSC question bank. The previously published `complete-notes.pdf` remains unchanged. The original substantive supplement below is an addition; historical legacy content remains separately labelled to permit audit and correction. The newly written 30 MCQs and six mains answers are **original practice**, not official PYQs.
 
 ## Editorial map
 
@@ -130,9 +130,9 @@ Environmental policy should identify who benefits from a project, who bears cost
 
 ## 14. Poverty alleviation: cash, work, food and public services
 
-Poverty is multidimensional: low income interacts with malnutrition, unsafe housing, poor sanitation, education gaps, disability and insecure work. MGNREGA provides a legal employment guarantee for eligible rural households whose adult members seek unskilled manual work; its demand-driven design and the time-bound work-provision principle distinguish it from a discretionary training scheme [S17]. The National Food Security Act, 2013 establishes food and nutrition entitlements in specified categories [S06]. Pensions and scholarships provide different protections. One household may need several instruments simultaneously, but that does not justify duplicate or inaccessible paperwork.
+Poverty is multidimensional: low income interacts with malnutrition, unsafe housing, poor sanitation, education gaps, disability and insecure work. Historically, MGNREGA 2005 provided a demand-driven legal guarantee of 100 days of unskilled wage employment per eligible rural household. From 1 July 2026, the VB–G RAM G Act, 2025 replaced that law and provides 125 days per eligible rural household whose adult members volunteer for unskilled manual work; the entitlement is household-based, not 125 days per adult [S17][S18][S19]. The National Food Security Act, 2013 establishes food and nutrition entitlements in specified categories [S06]. Pensions and scholarships provide different protections. One household may need several instruments simultaneously, but that does not justify duplicate or inaccessible paperwork.
 
-Consider a landless labour household in a drought-prone Telangana mandal. Work demand under MGNREGA may reduce distress migration, while public food support stabilises consumption and an Anganwadi supports a young child's nutrition. None alone guarantees escape from poverty if wages are delayed, productive assets are poorly maintained or schooling is interrupted. Public works should be evaluated for timely employment and useful water/soil assets; food security for regular access and nutritional quality; livelihood programmes for sustained earnings. Do not infer poverty reduction merely from money disbursed.
+Consider a landless labour household in a drought-prone Telangana mandal. Work demand under the current VB–G RAM G framework may reduce distress migration, while public food support stabilises consumption and an Anganwadi supports a young child's nutrition. None alone guarantees escape from poverty if wages are delayed, productive assets are poorly maintained or schooling is interrupted. Public works should be evaluated for timely employment and useful water/soil assets; food security for regular access and nutritional quality; livelihood programmes for sustained earnings. Do not infer poverty reduction merely from money disbursed.
 
 A universalist approach reduces exclusion but costs more; narrow targeting conserves funds but can exclude eligible people through outdated lists. The best design often combines broad foundational services, transparent means-tested supplements, accessible appeals and periodic list correction. District dashboards should distinguish demand for work, work actually provided, delayed payments, eligible households excluded, food access and longer-term income changes. Causal attribution requires caution: improved household outcomes may also reflect rainfall, market prices or migration.
 
@@ -210,7 +210,9 @@ For a 200–250-word mains answer use: **Background / constitutional basis → i
 | S14 | Department of School Education and Literacy, Samagra Shiksha implementation guidelines | School education scope and inclusion objectives; district outcomes not audited. https://dsel.education.gov.in/sites/default/files/update/ss_implementation.pdf |
 | S15 | Ministry of Health and Family Welfare, National Health Policy 2017 | Public-health and primary-care policy framework; local facility-level results not retrieved. https://cdsco.mohfw.gov.in/opencms/opencms/en/consumer/National-Health-Policy/ |
 | S16 | Ministry of Health and Family Welfare, National Population Policy 2000, official reprint | Reproductive health and voluntary choice; no unsupported district fertility estimates used. https://mohfw.gov.in/sites/default/files/26953755641410949469%20%281%29.pdf |
-| S17 | Ministry of Rural Development, MGNREGA official portal, accessed 25 Oct 2026 | Demand-driven rural employment guarantee and public works; no claim of current Telangana district delivery rate. https://nrega.nic.in/ |
+| S17 | Ministry of Rural Development, MGNREGA historical portal (legacy scheme evidence, NOT current legal authority) | Former 100-day guarantee under the repealed 2005 law; do not cite as the operative 2026 entitlement. https://nrega.nic.in/ |
+
+**Current-law evidence:** [S18] India Code, Act 36 of 2025 (125 household-days); [S19] Ministry of Rural Development PIB 11 May and 1 July 2026 (commencement/repeal). See source register for official URLs. Current Telangana implementing orders and district delivery were not independently audited.
 
 **Outstanding audit:** Direct signed Telangana government orders for every current scheme amount, district-wise pension disbursement records, independent scheme impact evaluations, beneficiary appeals datasets, complete original commission question papers and a genuinely independent academic review are not available in this run. The topic must remain **NOT ACADEMICALLY APPROVED**.
 
@@ -515,15 +517,15 @@ D. Number of ribbon-cuttings
 **Explanation:** Source reduction and measured water quality are more probative than cosmetic works.
 
 ## MCQ 28
-**Question:** MGNREGA is distinctive because it is:
+**Question:** Under the VB–G RAM G Act, 2025, effective from 1 July 2026, what is the statutory wage-employment guarantee for an eligible rural household whose adult members volunteer for unskilled manual work?
 
-A. A purely discretionary loan
-B. A demand-driven statutory rural employment guarantee
-C. A health insurance card
-D. A school meal
+A. 100 days per rural household under the former MGNREGA 2005 framework
+B. 125 days per eligible rural household in a financial year
+C. 125 days separately for every adult member of the household
+D. An automatic cash grant without demand for wage employment
 
-**Correct answer: B. A demand-driven statutory rural employment guarantee**
-**Explanation:** It guarantees employment subject to the statutory framework and requires response to work demand.
+**Correct answer: B. 125 days per eligible rural household in a financial year**
+**Explanation:** The new law guarantees 125 household-days, not individual adult entitlements. A describes the former 100-day MGNREGA framework, repealed from 1 July 2026. C wrongly changes the entitlement unit from household to each adult. D confuses demand-based wage employment with an unconditional cash transfer. Official evidence: India Code Act 36 of 2025 and Ministry of Rural Development, PIB 11 May and 1 July 2026 [S18][S19].
 
 ## MCQ 29
 **Question:** What should not be inferred from an old Aasara district webpage?
@@ -628,7 +630,7 @@ D. Only allocations should be audited
 
 **Introduction.** Poverty is not only inadequate income. It also includes hunger, poor health, insecure employment, interrupted schooling and weak access to public services. Consequently, no single transfer or programme can reliably eliminate deprivation.
 
-**Employment and food.** MGNREGA provides a demand-driven statutory rural employment guarantee within its legal conditions. The National Food Security Act establishes specified food and nutrition entitlements. Timely work, wage payment, food access and nutritional quality must be measured separately.
+**Employment and food.** The VB–G RAM G Act, 2025 provides a demand-driven statutory guarantee of 125 days of unskilled wage employment per eligible rural household from 1 July 2026; MGNREGA 2005 was the preceding 100-day law. The National Food Security Act establishes specified food and nutrition entitlements. Timely work, wage payment, food access and nutritional quality must be measured separately.
 
 **Human capabilities.** Anganwadi nutrition, PM POSHAN, school education and primary healthcare reduce longer-term deprivation. Insurance for hospital treatment can limit eligible expenses but does not substitute for preventive care, regular medicines or safe drinking water.
 
@@ -851,7 +853,7 @@ Telangana-specific discussion may include public hospitals, Basti Dawakhanas, ur
 
 ### Meaning and policy background
 
-**Multidimensional deprivation.** Income poverty, consumption poverty and multidimensional poverty capture different shortfalls. A household may have income above a threshold while lacking sanitation, education or health access. Poverty alleviation therefore uses several instruments: employment guarantee, food security, housing, livelihoods and essential services. The rural MGNREGA guarantee is employment-based and demand-driven under statute, subject to legal conditions; PMAY housing support is a distinct asset policy.
+**Multidimensional deprivation.** Income poverty, consumption poverty and multidimensional poverty capture different shortfalls. A household may have income above a threshold while lacking sanitation, education or health access. Poverty alleviation therefore uses several instruments: employment guarantee, food security, housing, livelihoods and essential services. The current VB–G RAM G Act guarantee is employment-based and demand-driven, with 125 days per eligible rural household per financial year from 1 July 2026; PMAY housing support is a distinct asset policy.
 
 ### Legal and institutional mechanisms
 
@@ -925,7 +927,7 @@ A restored river must demonstrate improved monitored water quality over time, re
 
 ### A household pathway
 
-A rainfed agricultural labour household may face volatile wages, medical expenses and irregular access to affordable food. MGNREGA can stabilise a portion of rural wage income when work is demanded and provided under legal conditions. NFSA food entitlements help protect nutrition; primary healthcare can prevent illness-driven debt; residential schooling and transport may support children’s continuation. Housing support reduces shelter insecurity, but can fail if the location is disconnected from work or utilities.
+A rainfed agricultural labour household may face volatile wages, medical expenses and irregular access to affordable food. The VB–G RAM G employment guarantee can stabilise a portion of rural wage income when work is demanded and provided under legal conditions. NFSA food entitlements help protect nutrition; primary healthcare can prevent illness-driven debt; residential schooling and transport may support children’s continuation. Housing support reduces shelter insecurity, but can fail if the location is disconnected from work or utilities.
 
 ### Risks of fragmentation
 
@@ -943,7 +945,7 @@ At Gram Panchayat and urban ward levels, link grievance officers, frontline work
 | Child undernutrition | Anganwadi nutrition and healthcare | Irregular services or erroneous registration | Anthropometric improvement and dietary diversity |
 | Tribal land insecurity | FRA recognition and Gram Sabha process | Delayed claims or improper rejection | Recognised, secure rights with due process |
 | Disability exclusion | Reasonable accommodation and accessibility | Inaccessible documents, tests or buildings | Usable facilities and retained employment |
-| Rural income shock | MGNREGA and livelihoods services | Late wages and non-provision of requested work | Days of timely paid work and income stability |
+| Rural income shock | VB–G RAM G and livelihoods services | Late wages and non-provision of requested work | Days of timely paid work and income stability |
 | Urban river pollution | Sewage, industrial effluent and catchment management | Fragmented agencies and diffuse sources | Monitored water quality and flood-risk reduction |
 
 ## Answer-writing method
@@ -969,7 +971,7 @@ For 10 marks, keep roughly 200 words but ensure visible headings and at least fo
 - **Population:** National Population Policy 2000, voluntary choice, demographic momentum and ageing.
 - **Education:** RTE, NEP 2020, Samagra Shiksha, PM POSHAN; learning outcomes must accompany access.
 - **Health:** NHP 2017, NHM and Ayushman Bharat; primary care differs from hospital insurance.
-- **Poverty:** MGNREGA, NFSA, housing and livelihood instruments solve different deprivation dimensions.
+- **Poverty:** VB–G RAM G (125 household-days from 1 July 2026; replacing the historical MGNREGA 100-day framework), NFSA, housing and livelihood instruments address different deprivation dimensions.
 
 ## 12-point quick revision
 

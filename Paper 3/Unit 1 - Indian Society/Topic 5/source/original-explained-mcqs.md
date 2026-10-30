@@ -294,15 +294,15 @@ D. Number of ribbon-cuttings
 **Explanation:** Source reduction and measured water quality are more probative than cosmetic works.
 
 ## MCQ 28
-**Question:** MGNREGA is distinctive because it is:
+**Question:** Under the VB–G RAM G Act, 2025, effective from 1 July 2026, what is the statutory wage-employment guarantee for an eligible rural household whose adult members volunteer for unskilled manual work?
 
-A. A purely discretionary loan
-B. A demand-driven statutory rural employment guarantee
-C. A health insurance card
-D. A school meal
+A. 100 days per rural household under the former MGNREGA 2005 framework
+B. 125 days per eligible rural household in a financial year
+C. 125 days separately for every adult member of the household
+D. An automatic cash grant without demand for wage employment
 
-**Correct answer: B. A demand-driven statutory rural employment guarantee**
-**Explanation:** It guarantees employment subject to the statutory framework and requires response to work demand.
+**Correct answer: B. 125 days per eligible rural household in a financial year**
+**Explanation:** The new law guarantees 125 household-days, not individual adult entitlements. A describes the former 100-day MGNREGA framework, repealed from 1 July 2026. C wrongly changes the entitlement unit from household to each adult. D confuses demand-based wage employment with an unconditional cash transfer. Official evidence: India Code Act 36 of 2025 and Ministry of Rural Development, PIB 11 May and 1 July 2026 [S18][S19].
 
 ## MCQ 29
 **Question:** What should not be inferred from an old Aasara district webpage?

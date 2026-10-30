@@ -1,3 +1,5 @@
+> **Current-law note (30 October 2026):** VB–G RAM G Act, 2025 replaced MGNREGA 2005 on 1 July 2026. The statutory entitlement is 125 days per eligible rural household per financial year, not per adult. India Code Act 36/2025; MoRD PIB PRID 2259703. Telangana operational outcomes remain unverified.
+
 # Six original structured mains model answers
 **Original practice responses; not authenticated TGPSC PYQs.**
 
@@ -77,7 +79,7 @@
 
 **Introduction.** Poverty is not only inadequate income. It also includes hunger, poor health, insecure employment, interrupted schooling and weak access to public services. Consequently, no single transfer or programme can reliably eliminate deprivation.
 
-**Employment and food.** MGNREGA provides a demand-driven statutory rural employment guarantee within its legal conditions. The National Food Security Act establishes specified food and nutrition entitlements. Timely work, wage payment, food access and nutritional quality must be measured separately.
+**Employment and food.** The VB–G RAM G Act, 2025 provides a demand-driven statutory guarantee of 125 days of unskilled wage employment per eligible rural household from 1 July 2026; MGNREGA 2005 was the preceding 100-day law. The National Food Security Act establishes specified food and nutrition entitlements. Timely work, wage payment, food access and nutritional quality must be measured separately.
 
 **Human capabilities.** Anganwadi nutrition, PM POSHAN, school education and primary healthcare reduce longer-term deprivation. Insurance for hospital treatment can limit eligible expenses but does not substitute for preventive care, regular medicines or safe drinking water.
 

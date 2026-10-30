@@ -1,0 +1,67 @@
+name: Render Topic 3-1-5 Cycle107 Integrated Edition
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 3/Unit 1 - Indian Society/Topic 5/source/integrated-student-edition-2026-10-30.md'
+      - 'scripts/render_topic_3_1_5_cycle107.py'
+      - '.github/workflows/render-topic-3-1-5-cycle107.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-3-1-5-cycle107-render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install rendering dependencies
+        run: python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'pymupdf>=1.24,<2'
+      - name: Guarded nonforce render and publish
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          chapter='Paper 3/Unit 1 - Indian Society/Topic 5'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            test "$(sha256sum "$chapter/complete-notes.pdf" | cut -d' ' -f1)" = '01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01'
+            python - <<'PY'
+          import pathlib,re,json
+          c=json.loads(pathlib.Path('project-control/PRODUCTION-CHECKPOINT.json').read_text())
+          i=json.loads(pathlib.Path('project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json').read_text())
+          assert c['total_topics']==75 and len(c['topics'])==75
+          assert i['total_topics']==75 and len(i['paths'])==75
+          assert len(list(pathlib.Path('project-control/academic-readiness').glob('[2-6]-[1-3]-[1-5].json')))==75
+          s=pathlib.Path('Paper 3/Unit 1 - Indian Society/Topic 5/source/integrated-student-edition-2026-10-30.md').read_text()
+          assert len(re.findall(r'^## \d+\. ',s,re.M))==18
+          assert len(re.findall(r'^## MCQ \d+',s,re.M))==30
+          assert len(re.findall(r'^## Question \d+:',s,re.M))==6
+          assert 'NOT INDEPENDENTLY ACADEMICALLY APPROVED' in s
+          PY
+            python scripts/render_topic_3_1_5_cycle107.py --input "$chapter/source/integrated-student-edition-2026-10-30.md" --output "$chapter/source/integrated-student-edition-2026-10-30.pdf" --qa 'project-control/academic-readiness/3-1-5-cycle107-render-qa.json'
+            python - <<'PY'
+          import fitz
+          p='Paper 3/Unit 1 - Indian Society/Topic 5/source/integrated-student-edition-2026-10-30.pdf'
+          d=fitz.open(p)
+          assert len(d)>=20
+          assert all(len(x.get_text().strip())>=60 for x in d)
+          print('Topic 3-1-5 integrated PDF pages:',len(d))
+          PY
+            git add -- "$chapter/source/integrated-student-edition-2026-10-30.pdf" project-control/academic-readiness/3-1-5-cycle107-render-qa.json
+            if git diff --cached --quiet; then echo 'Already synchronized'; exit 0; fi
+            git commit -m 'Render Topic 3-1-5 Cycle107 synchronized integrated PDF'
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Concurrent main advanced; retry guarded nonforce render $attempt"
+          done
+          exit 1

@@ -1,3 +1,5 @@
+> **Current-law note (30 October 2026):** VB–G RAM G Act, 2025 replaced MGNREGA 2005 on 1 July 2026. The statutory entitlement is 125 days per eligible rural household per financial year, not per adult. India Code Act 36/2025; MoRD PIB PRID 2259703. Telangana operational outcomes remain unverified.
+
 # TGPSC Paper III — Unit I — Topic 5: Social Policies and Programmes in India and Telangana
 
 **Status:** Expanded draft for academic review, not a certified official answer key. **Official syllabus:** Social Policies and Programmes in India and Telangana: Policies for Women, Children, Aged and Disabled; Policies for Scheduled Castes, Scheduled Tribes, Backward Classes and Minorities; Environmental Policy; Population Policy; Policy on Education; Policy on Health; Poverty Alleviation Programmes; Welfare Schemes for Scheduled Castes, Scheduled Tribes, Backward Classes, Women, Children, Minorities, Aged and Disabled.
@@ -192,7 +194,7 @@ Telangana-specific discussion may include public hospitals, Basti Dawakhanas, ur
 
 ### Meaning and policy background
 
-**Multidimensional deprivation.** Income poverty, consumption poverty and multidimensional poverty capture different shortfalls. A household may have income above a threshold while lacking sanitation, education or health access. Poverty alleviation therefore uses several instruments: employment guarantee, food security, housing, livelihoods and essential services. The rural MGNREGA guarantee is employment-based and demand-driven under statute, subject to legal conditions; PMAY housing support is a distinct asset policy.
+**Multidimensional deprivation.** Income poverty, consumption poverty and multidimensional poverty capture different shortfalls. A household may have income above a threshold while lacking sanitation, education or health access. Poverty alleviation therefore uses several instruments: employment guarantee, food security, housing, livelihoods and essential services. The current VB–G RAM G Act guarantee is employment-based and demand-driven, with 125 days per eligible rural household per financial year from 1 July 2026; PMAY housing support is a distinct asset policy.
 
 ### Legal and institutional mechanisms
 
@@ -266,7 +268,7 @@ A restored river must demonstrate improved monitored water quality over time, re
 
 ### A household pathway
 
-A rainfed agricultural labour household may face volatile wages, medical expenses and irregular access to affordable food. MGNREGA can stabilise a portion of rural wage income when work is demanded and provided under legal conditions. NFSA food entitlements help protect nutrition; primary healthcare can prevent illness-driven debt; residential schooling and transport may support children’s continuation. Housing support reduces shelter insecurity, but can fail if the location is disconnected from work or utilities.
+A rainfed agricultural labour household may face volatile wages, medical expenses and irregular access to affordable food. The VB–G RAM G employment guarantee can stabilise a portion of rural wage income when work is demanded and provided under legal conditions. NFSA food entitlements help protect nutrition; primary healthcare can prevent illness-driven debt; residential schooling and transport may support children’s continuation. Housing support reduces shelter insecurity, but can fail if the location is disconnected from work or utilities.
 
 ### Risks of fragmentation
 
@@ -284,7 +286,7 @@ At Gram Panchayat and urban ward levels, link grievance officers, frontline work
 | Child undernutrition | Anganwadi nutrition and healthcare | Irregular services or erroneous registration | Anthropometric improvement and dietary diversity |
 | Tribal land insecurity | FRA recognition and Gram Sabha process | Delayed claims or improper rejection | Recognised, secure rights with due process |
 | Disability exclusion | Reasonable accommodation and accessibility | Inaccessible documents, tests or buildings | Usable facilities and retained employment |
-| Rural income shock | MGNREGA and livelihoods services | Late wages and non-provision of requested work | Days of timely paid work and income stability |
+| Rural income shock | VB–G RAM G and livelihoods services | Late wages and non-provision of requested work | Days of timely paid work and income stability |
 | Urban river pollution | Sewage, industrial effluent and catchment management | Fragmented agencies and diffuse sources | Monitored water quality and flood-risk reduction |
 
 ## Answer-writing method
