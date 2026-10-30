@@ -120,8 +120,8 @@ manifest['research_cutoff']='2026-10-31'
 manifest['academic_status']='ASSESSED_REBUILD_REQUIRED; partial author-side checks; independent approval zero'
 # Refresh actual content metrics rather than retaining historical manifest estimates.
 detail=(SRC/'detailed-notes.md').read_text(encoding='utf-8')
-matches=list(re.finditer(r'^##\\s+\\d+\\.\\s+',detail,re.M))
-manifest['concept_chapter_words']=[len(re.findall(r"\\b[\\w’-]+\\b",detail[m.end():(matches[i+1].start() if i+1<len(matches) else len(detail))])) for i,m in enumerate(matches)]
+matches=list(re.finditer(r'^##\s+\d+\.\s+',detail,re.M))
+manifest['concept_chapter_words']=[len(re.findall(r"\b[\w’-]+\b",detail[m.end():(matches[i+1].start() if i+1<len(matches) else len(detail))])) for i,m in enumerate(matches)]
 manifest['major_concept_chapters']=len(matches)
 manifest['manuscript_whitespace_words']=len(md.split())
 manifest['legacy_pdf_pages']=37
