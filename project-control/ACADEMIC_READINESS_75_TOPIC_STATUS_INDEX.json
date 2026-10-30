@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics: 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle120 Topic 3-3-4 actual downloaded artifact QA PASS; complete academic audit pending.",
+  "warning": "Exactly 75 original topics; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle121 Topic 3-3-5: 19 concepts, 30 original practice MCQs; actual downloaded post-render artifact integrity verified, full academic audit pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
