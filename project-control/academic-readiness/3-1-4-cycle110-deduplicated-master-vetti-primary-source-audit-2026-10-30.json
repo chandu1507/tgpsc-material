@@ -3,7 +3,7 @@
   "cycle": 110,
   "date": "2026-10-30",
   "academic_approval": "NONE",
-  "stage": "AUTHOR_SIDE_SOURCE_CORRECTION_AND_INTEGRATED_CI_PENDING",
+  "stage": "CI_RENDER_SUCCESS_PACKAGING_DOWNLOAD_PENDING",
   "preservation": {
     "exact_original_topic_count": 75,
     "original_topic_3_1_4_pdf_sha256": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3",
@@ -68,7 +68,7 @@
     "drawn_vector_figures": 2,
     "no_blank_pages": true,
     "full_browser_accessibility_certified": false,
-    "status": "LOCAL_CANDIDATE_ONLY_NOT_GITHUB_ARTIFACT"
+    "status": "LOCAL_CANDIDATE_NOT_BIT_IDENTICAL_TO_CI_FONT_ENVIRONMENT"
   },
   "open_gaps": [
     "No independent expert verification of all 30 keys and 90 distractors",
@@ -77,7 +77,7 @@
     "Direct R1 syllabus authentication not complete",
     "Detailed historical archival records not obtained",
     "No full browser/screen-reader accessibility testing",
-    "Post-merge CI PDF and downloaded artifact SHA/CRC/links must be verified"
+    "Post-render packaging artifact must be downloaded and independently CRC/SHA/link/75-original verified"
   ],
   "gates": {
     "R1": "IN_PROGRESS",
@@ -89,5 +89,15 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED",
     "R9": "NOT_STARTED"
+  },
+  "github_ci_render": {
+    "run_id": 41051117243,
+    "conclusion": "SUCCESS",
+    "commit": "5e30199bc3407bb7d9f216be2e252550110ea984",
+    "pdf_pages": 18,
+    "pdf_sha256": "294e15aa983b8e9fad3e845bcdf66d3d484c6b12c649920247903e71028203d4",
+    "render_qa": "project-control/academic-readiness/3-1-4-cycle110-render-qa.json",
+    "native_vector_diagrams": 2,
+    "blank_pages": 0
   }
 }
