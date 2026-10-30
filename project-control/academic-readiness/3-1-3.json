@@ -32,9 +32,10 @@
     "project-control/academic-readiness/3-1-3-cycle103-actual-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-3-cycle104-mcq-dedup-and-four-option-source-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-3-cycle104-actual-downloaded-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/3-1-3-cycle105-rural-employment-law-and-key-position-audit-2026-10-30.json"
+    "project-control/academic-readiness/3-1-3-cycle105-rural-employment-law-and-key-position-audit-2026-10-30.json",
+    "project-control/academic-readiness/3-1-3-cycle105-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "CI render and actual artifact QA; repair three sparse continuation pages; independent 30-key/90-distractor and 8-mains claim audits; browser accessibility and syllabus authentication; R9 only after named independent expert.",
+  "next_action": "Repair two sparse concept continuation pages; independent 30-key/90-distractor and eight-mains claim audits; syllabus authentication and browser accessibility. R9 only after R1–R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -119,6 +120,12 @@
     "reordered_unchanged_option_propositions": 12,
     "original_pdf_preserved": true,
     "full_independent_audit": "NOT_DONE",
-    "academic_approval": false
+    "academic_approval": false,
+    "ci_pdf": "PASS — renderer 41017122679; 41 pages SHA256 be10d41c26754b1a63e0ff1ffb6dca7303e8fb404b2b25cf2e0841b4c27673e6",
+    "actual_downloaded_artifact_qa": "PASS — packaging 41017260877, artifact 12959448845, 2007 files, 75 originals unchanged, 597 local links/1050 fragments zero broken, outer/inner CRC and digest match",
+    "near_empty_pages": [
+      10,
+      19
+    ]
   }
 }
