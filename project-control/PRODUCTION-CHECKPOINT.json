@@ -9,7 +9,7 @@
     "last_reported_topic": "3-1-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle109 Topic 3-1-5 five substantive source-bounded concepts expanded (2,5,11,14,16); under300 11→6/18. Original PDF preserved; 30 original MCQs/six mains retained. Post-merge CI PDF and downloaded artifact QA pending; no independent audits/approvals, 0 R1-R8 ready."
+    "note": "Cycle109 Topic 3-1-5 five source-bounded concept expansions; under300 11→6/18. Renderer 41044849184 26-page PDF SHA 48bb4837; actual downloaded packaging artifact 12970844174 SHA/CRC/75 originals/links PASS, three figures and final two mains layout visually checked. Post-control repackage pending; independent audits/accessibility and R1-R8 readiness incomplete, R9 NOT_STARTED, approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
