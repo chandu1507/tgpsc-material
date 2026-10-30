@@ -2,6 +2,8 @@
 
 ## 1. Exclusion cycle
 
+**Diagram 1 — Original structural-exclusion feedback loop.** The arrows show an analytical mechanism, not a measured causal estimate. Social hierarchy → institutional barrier → unequal access → constrained capabilities → reproduced exclusion.
+
 Social hierarchy / inaccessible institution → unequal entry and safety → weak education / health / assets → limited bargaining power and voice → reproduced hierarchy.
 
 **Break points:** legal protection | accessible public service | asset and employment opportunity | accountable representation.
@@ -28,6 +30,8 @@ Social hierarchy / inaccessible institution → unequal entry and safety → wea
 | Persons with disabilities | Environmental/institutional barriers | RPwD Act 2016 | Usable infrastructure and services |
 
 ## 4. Answer reasoning template
+
+**Diagram 2 — Original FRA claims pathway.** Gram Sabha initiates and verifies → Sub-Divisional Level Committee examines → District Level Committee decides → implementation and monitoring. This represents the FRA recognition pathway; it must not be confused with PESA's Scheduled-Area governance powers. [Ministry of Tribal Affairs](https://tribal.gov.in/about/divisions/fra).
 
 **Identity/group** → **specific barrier** → **constitutional/statutory response** → **implementation bottleneck** → **Telangana case** → **outcome indicator**.
 
