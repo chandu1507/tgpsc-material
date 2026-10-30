@@ -1,8 +1,8 @@
 # Programmes, Agencies and Institutions for Urban and Rural Development; Participatory Development; Poverty Alleviation; Women Empowerment; Rights to Health, Food Security and Education
 
-**TGPSC Group I | Paper III | Unit III | Topic 3 | Expanded draft | 27 October 2026**
+**TGPSC Group I | Paper III | Unit III | Topic 3 | Expanded draft | 31 October 2026**
 
-**ACADEMIC STATUS: NOT APPROVED.** All 25 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.
+**ACADEMIC STATUS: NOT APPROVED.** All 30 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.
 
 **Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.
 
@@ -350,6 +350,29 @@ A pregnant woman in a remote hamlet has low hemoglobin, intermittent water suppl
 
 These cases demonstrate **rights convergence without institutional confusion**. The state must protect legally specified entitlements, but local agencies retain different powers and budgets. Community participation supplies evidence about exclusion; technical staff ensure feasibility; financial systems sustain delivery; independent review corrects unlawful or ineffective decisions. A top-grade mains answer moves from a concrete deprivation to the right or scheme, names the responsible institution, identifies implementation barriers, weighs competing policy approaches and proposes measurable safeguards. Avoid universal claims that any one programme has 'eradicated poverty' without credible causal evidence.
 
+## 15. Gram Sabha, elected Panchayat and fiscal devolution: constitutional design versus implementation
+
+### Distinguish the institutions
+
+Participatory development requires separating three questions: **who deliberates**, **who represents voters**, and **who can lawfully spend or raise money**. Article 243A permits State legislation to confer village-level functions on a Gram Sabha. It does not automatically transfer every development budget, taxation power or staff position to a village meeting. Article 243C(2), in contrast, provides for directly elected seats in Panchayats from territorial constituencies. The Gram Sabha is therefore a participatory forum, while the elected Panchayat is a representative institution. Conflating them produces weak answers about accountability. [S25]
+
+### Tier structure and inclusive representation
+
+Article 243B generally provides Panchayats at village, intermediate and district levels. Its population exception allows a State **not exceeding twenty lakh people** to omit the intermediate tier. The relevant population is that of the State, not an individual district. Article 243D requires SC/ST representation in proportion to local population and a constitutional minimum of **one-third of directly elected seats for women**, counting SC/ST women's reserved seats. States may enact higher women's quotas, but current Telangana-specific provisions require separate verification. [S25]
+
+### Functional versus fiscal devolution
+
+Article 243G allows State law to empower Panchayats to prepare plans and implement economic-development and social-justice schemes, including subjects in the Eleventh Schedule. Article 243H separately permits State legislation authorising local taxation, assignment of State levies, grants-in-aid and Panchayat funds. The constitutional listing of a subject such as drinking water or rural housing is **not proof** that a particular Panchayat controls the relevant staff, engineering approvals and money. Effective devolution must be checked against State laws, delegated powers and budget practice. [S2; S25]
+
+### Worked village example
+
+A Gram Sabha reports that houses at the end of a water network receive contaminated water despite having tap connections. The meeting may document complaints and exercise the powers assigned by State law. Elected Panchayat representatives may formulate a response, but district engineers and the designated water agency may retain technical responsibilities. Distinguish the **output** (installed connections) from the **outcome** (reliably delivered safe water). Verify water-quality results, repair time, hamlet-level disparities and complaint closure rather than assuming infrastructure completion equals welfare success.
+
+### Mains structure and cautions
+
+Use five headings: *constitutional foundation* (243A–243D), *functional devolution* (243G), *fiscal powers* (243H), *implementation constraints*, and *accountable reforms*. Propose inclusive meetings, public records, disaggregated service indicators and independently checked complaints. Explain that State-law authority, actual budget availability and field performance are separate evidence questions. This chapter does **not** claim to have independently authenticated current Telangana Panchayat Raj rules or every local operational order. [S25]
+
+
 
 # Visual learning: original conceptual diagrams and comparisons
 
@@ -457,10 +480,12 @@ A household's deprivation becomes a public-service obligation only when the appr
 
 **Source reminder:** Original MCQs only; no official PYQ claims. Current legal and programme changes require recheck at examination time. Academic status: expanded draft, not approved.
 
+**Cycle119 constitutional distinction:** Gram Sabha functions depend on State law (243A); intermediate tier may be omitted for States at most twenty lakh (243B); Panchayat seats are directly elected (243C); women's reservation minimum one-third including SC/ST women (243D); functional and fiscal powers require separate State-law arrangements (243G, 243H). [S25]
+
 
 # Original practice MCQs with explanations
 
-**All 25 questions below are original practice questions. None is represented as an official TGPSC previous-year question.**
+**All 30 questions below are original practice questions. None is represented as an official TGPSC previous-year question.**
 
 ### Q1. Which statement best captures the distinction between a programme output and an outcome?
 A. A sanctioned house is an outcome and reduced disease is an input.  
@@ -636,6 +661,42 @@ B. Only number of mobile apps installed.
 C. Disaggregated coverage, service quality, sustained outcomes, complaint resolution and independent checks.  
 D. Only average income of the richest ward.  
 **Answer: C.** **Explanation:** Inclusive evaluation must reveal who was left out and whether services produced lasting benefits rather than counting inputs.
+
+### Q26. What is the constitutional position of the Gram Sabha under Article 243A?
+A. It can amend the Constitution for village matters.  
+B. It automatically controls every municipal function.  
+C. It may exercise village-level powers and functions provided by State law.  
+D. It independently levies every Panchayat tax without enabling legislation.  
+**Answer: C.** **Explanation:** Article 243A makes Gram Sabha functions subject to State legislation. A confuses it with Parliament's constitutional amendment process; B confuses rural and urban bodies; D ignores State-law fiscal authorisation under Article 243H. [S25]
+
+### Q27. Under Article 243B(2), which exception is permitted?
+A. A State whose population does not exceed twenty lakh may omit intermediate-level Panchayats.  
+B. Any State may omit district-level Panchayats without qualification.  
+C. A district below twenty lakh population must abolish village Panchayats.  
+D. States above twenty lakh population must omit intermediate Panchayats.  
+**Answer: A.** **Explanation:** The threshold applies to a **State**, and the optional omission concerns only the intermediate tier. B lacks the constitutional condition; C substitutes district for State and targets the wrong tier; D reverses the threshold. [S25]
+
+### Q28. How are Panchayat seats generally filled under Article 243C(2)?
+A. By appointment from district officers.  
+B. By Governor's nomination to all seats.  
+C. By inheritance of traditional village offices.  
+D. By direct election from territorial constituencies in the Panchayat area.  
+**Answer: D.** **Explanation:** Article 243C(2) specifies direct election to Panchayat seats. A, B and C substitute administrative appointment, executive nomination and inheritance. Rules for selecting chairpersons are a separate matter. [S25]
+
+### Q29. Which is the minimum reservation for women in directly elected Panchayat seats under Article 243D(3)?
+A. Exactly half of all seats, with no variation allowed.  
+B. Not less than one-third, including seats reserved for SC/ST women.  
+C. Only the SC/ST women's seats, with no other women's reservation.  
+D. Reservation applies to chairperson offices alone.  
+**Answer: B.** **Explanation:** The Constitution establishes a **minimum** one-third including SC/ST women's reserved seats. A confuses a possible higher State quota with the constitutional floor; C excludes other women's seats; D ignores seat reservation. [S25]
+
+### Q30. How may a Panchayat be authorised to levy specified taxes under Article 243H?
+A. Through State legislation, subject to the prescribed procedures and limits.  
+B. Automatically by any Gram Sabha oral resolution.  
+C. Through a mandatory allocation of all State taxes by the Election Commission.  
+D. Never, because Article 243H forbids grants-in-aid and local funds.  
+**Answer: A.** **Explanation:** State law may authorise levies, assign State taxes, provide grants and constitute Panchayat funds. B omits enabling law; C misattributes fiscal authority to an election body; D directly contradicts Article 243H(c)–(d). [S25]
+
 
 
 # Six original mains practice questions and structured model answers
@@ -829,3 +890,9 @@ Ten existing practice MCQs (Q2, Q3, Q4, Q7, Q8, Q11, Q16, Q18, Q20 and Q24) were
 - Constitutional framework and existing chapter source register for Article 21 and public-health policy (Q18); conceptual programme-output/outcome distinction (Q20).
 
 The revised answer distribution is A4/B9/C6/D6. A balanced distribution is not evidence of correctness. No official PYQs are claimed. All six mains bodies satisfy the numerical 200–250-word target, but factual claim-by-claim review is still pending. The direct TGPSC syllabus PDF remains inaccessible and R1 is not PASS.
+
+## 31 October 2026 — Cycle119 bounded constitutional check, not independent R5 approval
+
+**S25 — directly inspected primary text:** Legislative Department, *Constitution of India*, Articles 243A, 243B(2), 243C(2), 243D(3), 243G and 243H: https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf . Historical constitutional design also compared with the official 73rd Amendment Act: https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf .
+
+New original practice Q26–Q30: **five keys and 15 distractors checked author-side** against the named provisions; every new distractor has an explicit rationale. These are not official PYQs, not independent question certification, and do not authenticate Q1–Q25. New detailed concept 15 distinguishes deliberation, representation, functional devolution and fiscal authority. Full 30-key/90-distractor independent audit, six mains claim checks, current Telangana operational rules, official TGPSC syllabus direct PDF, browser accessibility and named academic expert remain pending. No academic approval.
