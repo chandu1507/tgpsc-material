@@ -24,13 +24,14 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
   "evidence": [
     "project-control/academic-readiness/3-1-2-objective-gap-assessment-2026-10-27.json",
-    "project-control/academic-readiness/3-1-2-cycle101-legal-mcq-depth-and-deduplicated-master-2026-10-30.json"
+    "project-control/academic-readiness/3-1-2-cycle101-legal-mcq-depth-and-deduplicated-master-2026-10-30.json",
+    "project-control/academic-readiness/3-1-2-cycle101-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Cycle101: CI renderer, actual downloaded artifact SHA/CRC/75 original PDF/link QA pending; 18/23 concepts still under300, 25 original four-option MCQs now present but only 15 new keys and distractor sets have bounded author-side statutory correspondence; original 10 and all six mains need full independent claim-level review. Integrate prior repair editorially, authenticate official syllabus, full browser/accessibility QA. R1–R8 NOT ready; R9 NOT_STARTED; independent approvals ZERO.",
+  "next_action": "18/23 concepts still shallow; independent full 25 MCQ key/75 distractor and six mains claim audits, editorial repair integration, direct official syllabus verification, full browser/accessibility and final post-evidence artifact QA pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -78,7 +79,7 @@
     "integrated_pdf": "Paper 3/Unit 1 - Indian Society/Topic 2/source/integrated-student-edition-2026-10-30.pdf",
     "renderer": "scripts/render_topic_3_1_2_cycle101.py",
     "workflow": ".github/workflows/render-topic-3-1-2-cycle101.yml",
-    "render_status": "PENDING",
+    "render_status": "SUCCESS_40_PAGE_CI_PDF_ACTUAL_POST_RENDER_ARTIFACT_SHA_CRC_LINK_QA_PASS_BROWSER_PENDING",
     "independent_expert": null,
     "academic_approvals": 0,
     "limits": [
@@ -87,6 +88,11 @@
       "Prior standalone depth repair preserved but not fully merged; no duplicate mains bank in integrated edition",
       "Concept count threshold is mechanical; no qualitative depth certification",
       "Browser, screen reader, accessibility and original diagram accuracy not certified"
-    ]
+    ],
+    "renderer_run_id": 40994933197,
+    "integrated_pdf_sha256": "67f8663a3a8ad5bb8c3ae91a279e3cf995b3480028c41f5016c22fcf001be5f0",
+    "integrated_pdf_pages": 40,
+    "actual_downloaded_artifact_id": 12951215163,
+    "artifact_outer_sha256": "faddbd80b29a7d11b14c51c8ea98c66388723622ceab4ec3de20ab27b2d6edc9"
   }
 }
