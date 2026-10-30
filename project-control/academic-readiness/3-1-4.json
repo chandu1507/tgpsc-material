@@ -1,7 +1,7 @@
 {
   "topic_id": "3-1-4",
   "title": "Social Issues and Social Movements in Telangana",
-  "date": "2026-10-27",
+  "date": "2026-10-30",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -27,9 +27,10 @@
     "R8": "BLOCKED"
   },
   "evidence": [
-    "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json"
+    "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json",
+    "project-control/academic-readiness/3-1-4-cycle110-deduplicated-master-vetti-primary-source-audit-2026-10-30.json"
   ],
-  "next_action": "Deduplicate the recovered 12.9k-word master into one coherent student chapter; direct syllabus mapping; review all 30 MCQ keys/120 distractors and six mains claims; produce accurate original SVG diagrams, deterministic integrated PDF, and actual post-render artifact integrity QA.",
+  "next_action": "Verify post-merge CI PDF and actual downloaded packaging artifact SHA/CRC/75 original PDFs/links; independently audit all 30 MCQ keys and 90 distractors, all six mains, original diagrams and browser accessibility; complete direct syllabus R1. Do not promote R1-R8 or R9 without evidence.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -50,5 +51,23 @@
     "original_svgs": 0,
     "synchronized_integrated_pdf": false,
     "limited_mcq_keys_correlated": 8
+  },
+  "cycle110": {
+    "master": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+    "master_sha256": "5a82f451edb6108e0a6199ff3f91fb5a84d95e99a67c8efe020b6cdbb80a5cae",
+    "concept_sections": 8,
+    "mcqs": 30,
+    "mains": 6,
+    "original_diagrams": 2,
+    "material_correction": "1976 Bonded Labour Act explanation to section 2 explicitly names Vetti",
+    "source_correlations_this_cycle": [
+      4,
+      6,
+      7,
+      13,
+      14
+    ],
+    "render_status": "CI_PENDING",
+    "independent_approval": false
   }
 }
