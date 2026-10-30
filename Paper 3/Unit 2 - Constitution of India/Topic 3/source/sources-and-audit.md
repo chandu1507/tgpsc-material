@@ -28,7 +28,7 @@
 7. **Governor assent:** The five-judge November 2025 Presidential Reference is controlling for this draft's summary. No blanket judicial three-month limit and no deemed assent; limited scrutiny of prolonged, unexplained inaction remains.
 8. **Legislative sittings:** PRS 2025 review's 11-day Telangana Council figure is historical descriptive evidence, not a mandatory minimum.
 9. **Telangana seats:** Official Telangana department reports 119 Assembly and 40 Council seats; avoid third-party claims of 43 Council seats or confusing sanctioned strength with filled vacancies.
-10. **Original questions:** 25 new MCQs and six mains practice questions; zero official PYQ labels; no invented TGPSC question numbers.
+10. **Original questions:** 30 original practice MCQs and six mains practice questions; zero official PYQ labels; no invented TGPSC question numbers.
 
 ## 27 October 2026 — Article 171 primary-text and practice-item review
 
@@ -41,6 +41,18 @@ Government of India, Legislative Department, Constitution of India, Article 171(
 - Q23: PRS's 11 Telangana Council sitting days refer to calendar year 2025, not a 2026 tally or statutory minimum.
 
 These are five limited author-side answer-key source correspondences, not an independent review of all 25 keys and 100 distractors. Six mains answers remain unverified claim by claim. No R1–R8 PASS or R9 approval is claimed.
+
+## 30 October 2026 — Cycle114 primary-text MCQ additions and limits
+
+**S13 (directly viewed):** Government of India, Legislative Department, *Constitution of India*, English–Kannada diglot edition **as on 11 November 2025**, Articles **85(1), 100(3)–(4), 111, 123(1), and 200 second proviso**. Official source: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf . The constitutional clauses were inspected directly on 30 October 2026. This source supplements, but does not silently replace, the earlier S2 edition.
+
+- **Q26:** Article 85 refers to the last sitting of one session and the first sitting of the next; the wrong options confuse elections, sitting duration and ordinary daily sittings.
+- **Q27:** Article 100(3) sets one-tenth total membership unless Parliament legislates otherwise; do not confuse quorum with voting majorities.
+- **Q28:** Article 111's non-Money-Bill return and reconsideration proviso requires assent after repassage; no referendum or endless return.
+- **Q29:** Article 123(1) forbids ordinance promulgation when **both** Houses are in session; one House out of session may satisfy that condition, but necessity remains independently required.
+- **Q30:** Article 200's second proviso mandates presidential reservation where a Bill would endanger the High Court's constitutional position; it does not apply automatically to every Concurrent List or financial matter.
+
+All five are **original practice questions**, not verified official PYQs. Each new key and its three distractors received **author-side constitutional-text correlation**, not independent expert review. The remaining 25 pre-existing keys, all 75 older distractors and all six mains answers still require full claim-level review. No R1–R8 gate is promoted and R9 remains NOT_STARTED.
 
 ## Outstanding full academic-audit tasks (do not mark approved)
 
