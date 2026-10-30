@@ -1,6 +1,6 @@
 # Authoritative evidence register and academic audit ledger
 
-**Evidence date:** 23 October 2026. **Status:** internally checked draft, **NOT academically approved**. The numbered references are part of the student-facing evidence trail; they are not claims of verified official PYQs.
+**Evidence date:** 23 October 2026; additional Article 167/243S/243U/243X/243ZA text checks on 31 October 2026. **Status:** internally checked draft, **NOT academically approved**. The numbered references are part of the student-facing evidence trail; they are not claims of verified official PYQs.
 
 | ID | Primary source and link | Specific proposition checked | Limit / caution |
 |---|---|---|---|
@@ -37,5 +37,21 @@
 - **Audit:** CAG report's audit period and legislative tabling year differentiated; no audit finding treated as conviction.
 - **Corporations:** Named SC/ST/BC/minority/disability institutions supported by Telangana departmental pages; no invented current subsidy amounts.
 - **Service delivery:** MeeSeva front office distinguished from competent record authority; Prajavani not confused with statutory appeal.
-- **Questions:** 25 original MCQs with explanations, six original mains model answers; zero verified official PYQs.
+- **Questions:** 30 original MCQs with explanations (five added 31 October 2026), six original mains model answers; zero verified official PYQs. The 25 pre-existing questions have not received a complete independent key-and-distractor audit.
 - **Outstanding academic audit:** verify official notification PDF directly when accessible; review Telangana Acts for amendments through examination date; check individual citations, legal nuance, scheme status and visual accessibility with subject expert. **Approval count remains zero.**
+
+## Cycle 118: five constitutional-text practice MCQs (author-side, not independent certification)
+
+The [Legislative Department Constitution of India, July 2025 publication](https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf) was directly consulted for Articles 167, 243S, 243U, 243X and 243ZA on 31 October 2026. These are **original practice questions**, not official TGPSC PYQs. The checks below support the narrow constitutional propositions, not current Telangana implementation or the other 25 MCQs.
+
+| Question | Correct option and directly checked provision | Why each of the three distractors fails |
+|---|---|---|
+| Q26 | A — Art. 167(a): Chief Minister communicates Council decisions and legislative proposals to Governor | B: High Court judgments are not this communication duty; C: municipal election administration is State Election Commission under 243ZA; D: no blanket CM direction to SFC in 167. |
+| Q27 | B — Art. 243S(1): Wards Committees for Municipalities with population >= 3 lakh | A: rural Panchayat is not Municipality; C: 10 lakh metropolitan concept differs; D: 50,000 is not 243S(1)'s threshold. Additional committees under 243S(5) remain possible. |
+| Q28 | C — Art. 243U(1): five years from appointed date of first meeting, unless lawfully dissolved earlier | A: result declaration not starting date; B: budget passage not starting date; D: State Assembly election not starting date. |
+| Q29 | D — Art. 243X(a): State legislation may authorize local levy with limits | A: not unconditional municipal power; B: not exclusively Parliament; C: SFC recommendation is not a taxing enactment. |
+| Q30 | B — Art. 243ZA(1): State Election Commission referred to in 243K | A: ECI Article 324 is different; C: CAG Article 148 is audit; D: SFC Article 243I is finance review. |
+
+**Editorial-only reordering:** Nine existing B-keyed questions (Q1, Q3, Q4, Q7, Q8, Q9, Q11, Q12, Q14) had the correct option proposition moved to another letter with the same four substantive options; no legal claims were rewritten. This reduces answer-position cueing but is **not** a substitute for verifying those nine keys or all 75 original distractors. After addition the distribution is A8/B7/C8/D7.
+
+**Open gates:** R1 official notification direct access, all 30 keys and 90 distractors independent audit, six mains claim-level audit, state-law amendment currency, accessibility, and independent named reviewer. R9 NOT_STARTED, approvals ZERO.
