@@ -26,7 +26,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle34 bounded source audit and 15 MCQ revisions plus actual downloaded artifact QA. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json and 3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json. No independent academic approval. Cycle121 adds RTI remedies concept and five new original MCQs; five keys and 15 distractors bounded author-side checked against consolidated RTI Act sections 7/18/19/20. Existing 25 questions and six mains still require independent audit. CI artifact QA pending.",
+  "evidence": "Cycle34 bounded source audit and 15 MCQ revisions plus actual downloaded artifact QA. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json and 3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json. No independent academic approval. Cycle121 adds RTI remedies concept and five new original MCQs; five keys and 15 distractors bounded author-side checked against consolidated RTI Act sections 7/18/19/20. Existing 25 questions and six mains still require independent audit. CI artifact QA pending. Downloaded artifact QA evidence: project-control/academic-readiness/3-3-5-cycle121-downloaded-artifact-qa-2026-10-31.json.",
   "next_action": "Independently verify all 30 keys/90 distractors, six mains, official Commission syllabus, diagrams, browser accessibility, deterministic CI PDF and downloaded ZIP CRC/SHA; R9 only after R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -68,6 +68,6 @@
     "verified_official_pyqs": 0,
     "independent_approvals": 0,
     "all_r1_r8_pass": false,
-    "ci_artifact_qa": "PENDING"
+    "ci_artifact_qa": "ACTUAL downloaded packaging artifact 13018274118: CRC, digest, 75 original PDFs, 75 readiness JSON, 88 HTML, 562 local links/1031 DOM fragments zero broken; 43 SPA routes excluded; 39-page PDF and 30 MCQs. QA is production-only, not R8 PASS."
   }
 }
