@@ -51,7 +51,7 @@ jobs:
           assert hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()=='e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825'
           mcq=(root/'source/original-mcqs.md').read_text()
           assert len(re.findall(r'(?m)^### MCQ \d+\.',mcq))==30
-          assert len(re.findall(r'\*\*Answer:\s*[ABCD]',mcq))==25
+          assert len(re.findall(r'\*\*Answer:\s*[ABCD]',mcq))==30
           PY
             python 'Paper 3/Unit 3 - Governance/Topic 5/source/build_topic.py'
             python - <<'PY'
