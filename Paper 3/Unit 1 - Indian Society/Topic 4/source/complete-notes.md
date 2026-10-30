@@ -30,7 +30,7 @@ The economic consequences were cumulative. Days spent on compulsory service redu
 
 Telangana's peasant mobilisation of 1946–51 opposed coercive labour, arbitrary levies, eviction and landlord domination. It is analytically wrong to treat the 1948 integration of Hyderabad, the agrarian struggle and the 1976 bonded-labour legislation as a single event. Political integration changed sovereignty; agrarian organisation challenged village power; later law established enforceable statutory rights. Their effects were related but neither immediate nor identical. The movement also combined different constituencies and strategies, so its achievements and violence require evidence-sensitive assessment rather than celebration by default.
 
-Article 23 of the Constitution prohibits traffic in human beings, begar and other similar forms of forced labour. The Bonded Labour System (Abolition) Act, 1976 addresses debt-linked and other bonded labour relations, including extinguishment of bonded debt and release from obligations. These legal categories overlap historically with Vetti but should not be used as exact synonyms. A district officer must identify the actual restriction on movement, wage withholding, threats, advances, tenancy dependence and the worker's ability to leave. Release without rehabilitation, land access, wages and a safe complaint channel may leave the person vulnerable to the same employer or a different recruiter.
+Article 23 of the Constitution prohibits traffic in human beings, begar and other similar forms of forced labour. The Bonded Labour System (Abolition) Act, 1976 addresses debt-linked and other bonded labour relations, including extinguishment of bonded debt and release from obligations. Section 2(b), Explanation, of the Bonded Labour System (Abolition) Act, 1976 expressly names **Vetti** among customary forms of forced labour for which an agreement is ordinarily presumed. Section 4 abolishes the bonded labour system, and section 5 renders bonded-service customs and agreements void. This textual recognition does not mean that every historically described Vetti episode automatically establishes all facts of an individual bonded-labour case; assess coercion, obligations, remuneration and loss of freedom using the statutory criteria. A district officer must identify the actual restriction on movement, wage withholding, threats, advances, tenancy dependence and the worker's ability to leave. Release without rehabilitation, land access, wages and a safe complaint channel may leave the person vulnerable to the same employer or a different recruiter.
 
 ### 2.3 Administrative case: brick kiln workers
 
@@ -218,7 +218,7 @@ A. Companies Act, 2013
 B. Bonded Labour System (Abolition) Act, 1976
 C. Indian Forest Act, 1927
 D. Official Languages Act, 1963
-**Answer: B.** The 1976 Act addresses bonded labour obligations and associated debt, although the historical term Vetti is not an exact statutory synonym.
+**Answer: B.** The Act abolishes bonded labour (section 4) and expressly names Vetti in the explanation to section 2(b). Other options do not provide that framework; the statutory mention does not establish facts of any individual case.
 
 ## 5. Why is rehabilitation needed after release from coercive labour?
 A. Dependence and threats can reproduce coercion
@@ -424,7 +424,7 @@ Land dependence, credit obligations, hereditary service expectations and local p
 Vetti curtailed bargaining power, dignity and opportunities for schooling and alternative work. It also maintained the wider landlord structure by providing cheap services beyond ordinary agriculture.
 
 ### Resistance and law
-The 1946–51 Telangana agrarian struggle challenged forced labour alongside levies and evictions. Article 23 prohibits forced labour; the Bonded Labour System (Abolition) Act, 1976 provides a related statutory protection, though the terms Vetti and bonded labour are not identical.
+The 1946–51 Telangana agrarian struggle challenged forced labour alongside levies and evictions. Article 23 prohibits forced labour. The explanation to section 2(b) of the Bonded Labour System (Abolition) Act, 1976 expressly names Vetti among customary forced-labour forms; section 4 abolishes the bonded-labour system. That express naming is not a shortcut to proving the facts of an individual case.
 
 ### Critical insight
 The examiner should distinguish involuntary service from ordinary low wages and show how caste rank, tenancy and credit generated a coercive bargaining environment. An anti-Vetti answer must specify what changed after agrarian resistance and what present-day accountability mechanisms prevent re-emergence.
@@ -583,7 +583,7 @@ The structure of exploitation operated through three reinforcing channels. **Eco
 Telangana peasant mobilisation against oppressive land relations in the 1940s placed forced labour among central grievances. Agricultural struggles, village sanghams and resistance to arbitrary levies cannot be explained by a single cause; debt, rack-renting, evictions, violence, social humiliation and forced labour interacted. Exam answers should distinguish the **1946–51 Telangana armed peasant struggle**, the **1948 accession of Hyderabad**, and later statutory and land-reform developments. These events overlap but are not interchangeable. The abolition of a princely political order by itself does not prove that caste coercion or informal labour dependence disappeared.
 
 ### 4. Law and institutional response
-The **Bonded Labour System (Abolition) Act, 1976** is crucial for understanding the present legal framework, alongside **Article 23** of the Constitution prohibiting trafficking and forced labour. The Act addresses bonded labour, extinguishes specified obligations and provides for identification and rehabilitation. However, Vetti and bonded labour are not perfect synonyms: Vetti describes historically situated customary coerced service, whereas the 1976 Act establishes a statutory category with defined legal implications. A stronger answer makes the distinction explicit instead of saying that all unpaid work is bonded labour.
+The **Bonded Labour System (Abolition) Act, 1976** is crucial for understanding the present legal framework, alongside **Article 23** of the Constitution prohibiting trafficking and forced labour. The Act addresses bonded labour, extinguishes specified obligations and provides for identification and rehabilitation. The explanation to section 2(b) of the Act **expressly lists Vetti** among customary forced-labour forms for which an agreement is ordinarily presumed; section 4 abolishes the bonded-labour system and section 5 voids relevant customs and agreements. Express statutory recognition is not automatic proof of every historical incident: examine coercion, obligations, wages and restrictions in each case. Nor is all unpaid work automatically bonded labour.
 
 ### 5. Critical evaluation and way forward
 The policy challenge is implementation. An affected family may fear losing housing, informal credit, farmland access or social relationships after formal release. Rehabilitation therefore needs land or livelihood security, legal aid, schooling, safe housing, transparent identification, accessible complaints and protection against retaliation. Panchayats and district administrations must track actual freedom and income after release, not merely issue certificates. **High-value conclusion:** Vetti shows how caste, property and local state capacity combine to turn economic dependency into unfree labour.
@@ -740,7 +740,7 @@ Land dependence, credit obligations, hereditary service expectations and local p
 Vetti curtailed bargaining power, dignity and opportunities for schooling and alternative work. It also maintained the wider landlord structure by providing cheap services beyond ordinary agriculture.
 
 ### Resistance and law
-The 1946–51 Telangana agrarian struggle challenged forced labour alongside levies and evictions. Article 23 prohibits forced labour; the Bonded Labour System (Abolition) Act, 1976 provides a related statutory protection, though the terms Vetti and bonded labour are not identical.
+The 1946–51 Telangana agrarian struggle challenged forced labour alongside levies and evictions. Article 23 prohibits forced labour. The explanation to section 2(b) of the Bonded Labour System (Abolition) Act, 1976 expressly names Vetti among customary forced-labour forms; section 4 abolishes the bonded-labour system. That express naming is not a shortcut to proving the facts of an individual case.
 
 ### Critical insight
 The examiner should distinguish involuntary service from ordinary low wages and show how caste rank, tenancy and credit generated a coercive bargaining environment. An anti-Vetti answer must specify what changed after agrarian resistance and what present-day accountability mechanisms prevent re-emergence.
