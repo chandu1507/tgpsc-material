@@ -1,6 +1,6 @@
 # Federal System: Centre–State Relations, Local Self-Government and Inter-State Water Disputes
 
-**TGPSC Group I | Paper III | Unit II | Topic 5 | Expanded study draft | 23 October 2026**
+**TGPSC Group I | Paper III | Unit II | Topic 5 | Expanded study draft updated 30 October 2026**
 
 **Academic status: NOT APPROVED.** All MCQs and mains questions are original practice, not verified official PYQs.
 
@@ -738,8 +738,13 @@ Publish a joint basin account, verify gauges independently, agree on seasonal de
 - Ministry of External Affairs, official Constitution Part IXA extract, https://www.mea.gov.in/Images/pdf1/Part9.pdf — Article 243ZE Metropolitan Planning Committee: draft metropolitan development plan, municipal and panchayat plans, shared infrastructure and environmental conservation. Does not establish whether Hyderabad's current institutions fully comply.
 - India Code, Inter-State River Water Disputes Act, 1956, official statutory PDF, https://www.indiacode.nic.in/bitstream/123456789/1664/3/A1956-33.pdf — Sections 6 and 11 checked for Gazette publication/binding effect and statutory jurisdictional bar. This check does not establish every possible appellate route.
 - Ministry of Jal Shakti, official annual report, https://www.jalshakti-dowr.gov.in/static/uploads/2024/05/2023041116.pdf — describes KRMB/GRMB constitution and the 2014 Reorganisation Act; historical report is not proof of 2026 operating status.
-- Two mains expansions are author-side source correspondences, not independent review. R1, all 25 MCQ keys/distractors, remaining mains claims, R2, R7 and R8 remain **not passed**.
+- Two mains expansions are author-side source correspondences, not independent review. R1, the first 25 MCQ keys/distractors (the five new Q26–Q30 have bounded author-side source checks), remaining mains claims, R2, R7 and R8 remain **not passed**.
 
 
 ---
 
+## 30 October 2026 — Cycle 116 direct constitutional-text correspondence
+
+- Directly viewed the Legislative Department's *Constitution of India*, English–Kannada official edition, as on 11 November 2025: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf. Article 243ZD(2)(b), PDF page 322, requires **at least four-fifths** elected DPC members; Article 243ZE(2)(b), PDF page 324, requires **at least two-thirds** elected MPC members. Their different membership pools are retained in the worked examples.
+- Article 243Y(1), PDF page 318, refers to the State Finance Commission constituted under Article 243I for municipal review. Article 243K(2), PDF page 302, protects the State Election Commissioner from removal except in like manner and on like grounds as a High Court judge. Article 243ZE(3), PDF page 324, enumerates the MPC's planning inputs.
+- Five **new original practice** MCQs Q26–Q30 have author-side correspondence for their five keys and all fifteen distractors. The first 25 MCQs and all six mains remain **not independently claim-audited**. No official PYQ or authenticated current Telangana DPC/MPC roster is claimed. R1–R8 and R9 status are unchanged; independent academic approvals remain ZERO.
