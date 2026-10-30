@@ -1,0 +1,53 @@
+{
+  "cycle": 110,
+  "date": "2026-10-30",
+  "repo": "chandu1507/tgpsc-material",
+  "source_prs": [
+    171,
+    172
+  ],
+  "render_run": 41051117243,
+  "packaging_run": 41051324081,
+  "artifact_id": 12974667647,
+  "downloaded_artifact_sha256": "3f4cad96c8fb9d44737e2287439dd5c80d5e50dc2bbf50f791e832ae9e67eafd",
+  "github_declared_digest": "3f4cad96c8fb9d44737e2287439dd5c80d5e50dc2bbf50f791e832ae9e67eafd",
+  "github_digest_matches": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "packaged_files": 2030,
+  "original_topic_pdfs": 75,
+  "original_pdfs_changed_since_cycle109": [],
+  "readiness_records": 75,
+  "html_pages": 87,
+  "local_path_references_checked": 597,
+  "broken_local_paths": [],
+  "dom_fragment_references_checked": 1050,
+  "broken_fragments": [],
+  "spa_hash_routes_excluded": 43,
+  "academic_status_counts": {
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "IN_PROGRESS": 7
+  },
+  "normalized_r1_pass_count": 14,
+  "fully_r1_r8_ready_count": 0,
+  "independent_academic_approvals": 0,
+  "integrated_pdf_sha256": "294e15aa983b8e9fad3e845bcdf66d3d484c6b12c649920247903e71028203d4",
+  "integrated_pdf_pages": 18,
+  "integrated_pdf_vector_paths": 62,
+  "blank_pages": [],
+  "out_of_bounds_text": [],
+  "integrated_master_sha256": "5a82f451edb6108e0a6199ff3f91fb5a84d95e99a67c8efe020b6cdbb80a5cae",
+  "github_git_blob_sha_verified": {
+    "markdown": "7fcc1f932a97645da1f93d4529668dd6828551d2",
+    "pdf": "ef40a6a4eb47b0a4d221460e8a68109eb6d89d3f"
+  },
+  "visually_sampled_pdf_pages": [
+    1,
+    9,
+    18
+  ],
+  "visually_observed_defects": [],
+  "browser_accessibility_certified": false,
+  "independent_mcq_mains_academic_approval": false,
+  "notes": "Actual GitHub Actions artifact downloaded and independently verified; static file/fragment integrity is not browser or academic certification. This control update postdates verified artifact; a final post-control package must be checked separately."
+}
