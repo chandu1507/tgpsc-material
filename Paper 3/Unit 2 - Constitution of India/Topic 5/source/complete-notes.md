@@ -308,6 +308,18 @@ For a ten-mark question, begin with the constitutional provision, identify the i
 
 ---
 
+## 12. District versus metropolitan planning: constitutional arithmetic and an implementation test
+
+**Legal distinction.** Article 243ZD requires a District Planning Committee (DPC) to consolidate plans prepared by district panchayats and municipalities into a draft district development plan. At least **four-fifths** of its members must be elected by and from elected district-level panchayat members and municipal members, proportionate to rural and urban population. Article 243ZE instead requires a Metropolitan Planning Committee (MPC) to prepare a draft plan for the entire metropolitan area. At least **two-thirds** of MPC members must be elected by and from municipal elected members and panchayat chairpersons in the metropolitan area, proportionate to municipal and panchayat populations. These are distinct denominators, membership pools and planning territories; do not interchange them.
+
+**Worked arithmetic.** For an illustrative DPC with 25 seats, at least 20 seats must satisfy the elected-member condition (25 × 4/5 = 20). For an illustrative MPC with 30 seats, at least 20 seats must satisfy the elected-member condition (30 × 2/3 = 20). Identical numerical outcomes in these examples do **not** imply identical constitutional fractions. In practice, the actual membership composition, selection rules and treatment of fractions depend on the applicable State law; the examples are calculations, not claims about Telangana's present committee composition.
+
+**Planning responsibility.** A DPC must consider shared spatial planning, water, infrastructure, environmental conservation and available resources; its chairperson forwards the recommended plan to the State Government. An MPC must also take account of local plans, common infrastructure and resource issues, Union and State priorities and likely investments, and its chairperson forwards the recommended metropolitan plan to the State Government. Neither provision alone proves that a particular local body controls a budget or a project agency. Planning is not the same as executing a project.
+
+**Telangana application and evidence test.** For a hypothetical Hyderabad-region flood-mitigation proposal, ask which municipality or panchayat owns each drain, which authority controls the catchment, who maintains gauges, which budget pays for desilting and where the metropolitan plan records inter-agency responsibilities. An answer that merely names the MPC fails to identify the implementation chain. The correct test combines legal committee composition, published draft plans, budget allocations, meeting records and measurable flood outcomes. **Verification limit:** no 2026 Hyderabad MPC membership list or approved metropolitan plan was directly authenticated for this example.
+
+**Mains synthesis.** State the 243ZD/243ZE distinction, calculate the constitutional minimum accurately, identify the implementing authority, then evaluate funding, data-sharing and accountability. Source: Legislative Department, Constitution of India (as on 11 November 2025), Articles 243ZD–243ZE, PDF pages 322–325: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf.
+
 # Visual learning and comparison charts
 
 **Original conceptual diagrams (not empirical GIS maps or independently certified illustrations):**
@@ -414,7 +426,7 @@ India is a constitutionally structured federation with a strong Union. Article 1
 
 ---
 
-# 25 original MCQs with explanations
+# 30 original MCQs with explanations
 
 **Classification:** Original practice questions created for this chapter. **Verified official PYQs:** None. Each answer is explained so that incorrect alternatives become revision cues.
 
@@ -543,6 +555,32 @@ A. Rely only on political speeches  B. Eliminate measurement stations  C. Joint 
 
 **Answer: C.** Water entitlements require operational evidence and compliance. Shared gauges, transparent releases and drought protocols reduce uncertainty and the temptation to relitigate disputed facts.
 
+
+
+**26. For a District Planning Committee with 25 members, what is the minimum number who must be elected from the constitutionally specified local-body membership pool under Article 243ZD?**
+A. 10  B. 15  C. 18  D. 20
+
+**Answer: D.** Article 243ZD(2)(b) requires at least four-fifths: 25 × 4/5 = 20. A (10) is only 40%; B (15) is 60%; C (18) is 72%, all below the constitutional minimum. The eligible pool is elected district-level panchayat and municipal members; this is illustrative arithmetic, not a Telangana committee roster.
+
+**27. Under Article 243ZE, the minimum elected share of a Metropolitan Planning Committee must be:**
+A. One-half of the members  B. Three-fourths of the members  C. Two-thirds of the members  D. All members without exception
+
+**Answer: C.** Article 243ZE(2)(b) specifies at least two-thirds elected from municipal elected members and panchayat chairpersons in the metropolitan area. A understates the floor; B wrongly imports a higher fraction; D mistakes a minimum elected share for a requirement that every seat be elected.
+
+**28. Which body reviews municipal finances under Article 243Y?**
+A. The Union Finance Commission alone under Article 280  B. The Inter-State Council under Article 263  C. The GST Council under Article 279A  D. The State Finance Commission constituted under Article 243I
+
+**Answer: D.** Article 243Y expressly extends the review by the Finance Commission constituted under Article 243I to municipalities. A confuses a Union constitutional commission with this State-level review; B concerns interstate consultation; C concerns GST and does not conduct the Article 243Y municipal-finance review.
+
+**29. Which statement accurately describes removal protection for a State Election Commissioner under Article 243K(2)?**
+A. The Governor may remove the Commissioner at pleasure  B. A simple majority resolution of the State Assembly always suffices  C. Removal is only in like manner and on like grounds as a High Court judge  D. The Union Finance Commission must approve removal
+
+**Answer: C.** The proviso to Article 243K(2) protects the Commissioner through the High Court judge removal standard. A incorrectly treats the appointment authority as having unrestricted removal power; B replaces the constitutional safeguard with a simple-majority shortcut; D assigns a role to an unrelated institution.
+
+**30. When preparing a metropolitan draft development plan under Article 243ZE(3), which set of inputs must be considered?**
+A. Only the Union government's five-year expenditure statement  B. Only decisions of an interstate river-water tribunal  C. Only municipal election results and ward boundaries  D. Municipal and panchayat plans, shared infrastructure and water concerns, government priorities and likely investments
+
+**Answer: D.** Article 243ZE(3) expressly identifies local plans, common interests including water and infrastructure, Union and State priorities, and likely investments. A omits local planning and other required factors; B confuses metropolitan planning with river adjudication; C omits substantive planning and resources.
 
 ---
 
