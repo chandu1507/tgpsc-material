@@ -30,7 +30,8 @@
     "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json",
     "project-control/academic-readiness/3-1-4-cycle110-deduplicated-master-vetti-primary-source-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle110-actual-downloaded-postrender-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/3-1-4-cycle111-legacy-statutory-synchronization-2026-10-30.json"
+    "project-control/academic-readiness/3-1-4-cycle111-legacy-statutory-synchronization-2026-10-30.json",
+    "project-control/academic-readiness/3-1-4-cycle111-actual-downloaded-artifact-qa-2026-10-30.json"
   ],
   "next_action": "After merge, download latest packaging artifact and check SHA/CRC/75 originals/links; independent expert review of 30 keys/90 distractors and six mains, direct R1, browser accessibility. No R1-R8 promotion or R9.",
   "external_reviewer": null,
@@ -85,6 +86,9 @@
     "original_pdfs_modified": false,
     "integrated_pdf_modified": false,
     "full_independent_audit": false,
-    "postmerge_packaging_qa": "PENDING"
+    "postmerge_packaging_qa": "ACTUAL_ARTIFACT_DOWNLOADED_SHA_CRC_75_ORIGINALS_LINKS_PASS",
+    "packaging_run": 41058318972,
+    "artifact_id": 12977761980,
+    "artifact_sha256": "9603dd9a7c79d243a612e5e07fd06289e249603d65db0960d6aa052ec5e674a9"
   }
 }
