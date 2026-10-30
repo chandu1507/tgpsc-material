@@ -226,3 +226,53 @@ C. The appeal system should be abolished to improve closure statistics.
 D. Timeliness must be assessed alongside decision accuracy, reasons, accessibility and appeal outcomes.
 
 **Answer: D.** A fast closure rate measures processing speed, not substantive correctness. Appeal reversals warrant sample review; they do not alone prove offences or justify removing appellate safeguards.
+
+
+## Cycle 121 — five additional original RTI-remedies practice questions (31 October 2026)
+
+These are original four-option practice items, not official TGPSC PYQs. Their five keys and 15 distractors received bounded author-side checks against India Code's RTI Act consolidated as on 18 November 2025.
+
+### MCQ 26. An RTI applicant seeks an order requiring lawful disclosure after a PIO's refusal. Which provision expressly empowers an Information Commission to require access in an appeal decision?
+
+A. CVC Act, 2003, general vigilance powers.
+B. RTI Section 19(8)(a)(i).
+C. RTI Section 20 as an applicant's direct civil-court remedy.
+D. RTI Section 24 exemption notifications.
+
+**Answer: B.** Section 19(8)(a)(i) permits an access direction in appeal. A concerns vigilance rather than RTI access; C confuses Commission penalties with a civil-court remedy; D concerns specified organisational exclusions, not access directions. [C121-01]
+
+### MCQ 27. A public authority misses the applicable Section 7(1) RTI decision deadline. What does Section 7(6) provide?
+
+A. A compulsory late-response surcharge.
+B. Automatic dismissal of the PIO.
+C. Information supplied free of charge because the statutory deadline was missed.
+D. Permanent exemption of the requested record.
+
+**Answer: C.** Section 7(6) requires information free of charge after failure to meet Section 7(1)'s deadline. A reverses the cost rule; B is not automatic; D invents an exemption. Other lawful exemptions still require separate analysis. [C121-02]
+
+### MCQ 28. During an RTI appeal, who bears the onus of proving that denial was justified under Section 19(5)?
+
+A. The applicant in every case.
+B. The district police superintendent.
+C. The department's external auditor.
+D. The PIO who denied the request.
+
+**Answer: D.** Section 19(5) allocates the burden to the denying PIO, not the applicant (A), police (B) or auditor (C). It does not guarantee that every requested record must be disclosed. [C121-03]
+
+### MCQ 29. Which description correctly states the monetary penalty under RTI Section 20(1) for specified unjustified PIO defaults?
+
+A. Rs 1,000 daily, with no statutory cap or hearing.
+B. Rs 250 daily, capped at Rs 25,000, with an opportunity to be heard.
+C. Rs 25,000 automatically for any delayed application.
+D. Rs 250 monthly, paid directly to the requester.
+
+**Answer: B.** Section 20(1) provides Rs 250 per day, total cap Rs 25,000, and a hearing. A misstates the rate and cap; C removes statutory conditions; D changes the period and confuses penalties with compensation. [C121-04]
+
+### MCQ 30. What is the disposal period for a first RTI appeal under Section 19(6)?
+
+A. Exactly 48 hours in all cases.
+B. No statutory period exists.
+C. Ordinarily 30 days, extendable to a total of 45 days with written reasons.
+D. A mandatory 90-day waiting period.
+
+**Answer: C.** Section 19(6) provides 30 days or a reasoned extension up to 45. A confuses the request's life-or-liberty rule; B denies the stated deadline; D confuses the second-appeal filing period with first-appeal disposal. [C121-05]
