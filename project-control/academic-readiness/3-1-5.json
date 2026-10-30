@@ -30,7 +30,8 @@
     "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
     "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/3-1-5-cycle107-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/3-1-5-cycle108-four-concept-source-verified-depth-audit-2026-10-30.json"
+    "project-control/academic-readiness/3-1-5-cycle108-four-concept-source-verified-depth-audit-2026-10-30.json",
+    "project-control/academic-readiness/3-1-5-cycle108-ci-layout-race-evidence-2026-10-30.json"
   ],
   "next_action": "Verify CI synchronized PDF and actual post-edit downloaded artifact; expand remaining 11 shallow concepts; independently audit all 30 MCQ keys/90 distractors and six mains; review diagrams, Telangana orders and browser accessibility; no R8/R9 promotion.",
   "external_reviewer": null,
@@ -124,6 +125,11 @@
     "original_pdf_preserved": true,
     "render_pending": true,
     "post_edit_downloaded_artifact_pending": true,
-    "academic_approval": false
+    "academic_approval": false,
+    "renderer_run": 41038028347,
+    "renderer_result": "SUCCESS",
+    "post_render_pdf_blob": "ff2cefb9609b1b5109d3e9f059125c8fe7f66a80",
+    "post_render_downloaded_artifact": "PENDING_REPACKAGING",
+    "sparse_page_layout_audit": "REQUIRES_REVIEW"
   }
 }
