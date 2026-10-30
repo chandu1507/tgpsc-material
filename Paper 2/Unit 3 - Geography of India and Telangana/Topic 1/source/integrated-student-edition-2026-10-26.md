@@ -430,14 +430,14 @@ D. The EEZ grants seabed mineral rights but excludes rights over living marine r
 
 **Answer: B. UNCLOS Articles 56–58 distinguish coastal-state resource rights from territorial sovereignty; the EEZ generally extends no farther than 200 nautical miles from baselines and preserves specified navigation freedoms.** [G6]
 
-### Q6. Why can renewable-energy capacity and renewable-energy generation differ substantially?
+### Q6. A solar plant has 100 MW of installed capacity and records 175,200 MWh of electrical generation over a 365-day year. Which interpretation is correct?
 
-A. Capacity is a measure of installed maximum capability while actual generation depends on resource availability and operation
-B. Installed capacity is the total electrical energy generated during a year
-C. Annual generation can be inferred from nameplate capacity without capacity-factor data
-D. Installed capacity and electrical generation are measured in identical units
+A. Its observed annual capacity factor is 20%, because 175,200 ÷ (100 × 8,760) = 0.20
+B. The plant generated 175,200 MW, because energy and capacity have the same unit
+C. Its capacity factor is 100%, because its installed capacity is 100 MW
+D. The plant necessarily delivered 876,000 MWh, regardless of recorded generation
 
-**Answer: A. A MW of installed capacity is not the same as the energy actually generated over time; capacity factors and system constraints matter.**
+**Answer: A.** Installed capacity (MW) is rated power, whereas annual generation (MWh) is accumulated energy. Maximum theoretical energy at constant rated output is 100 MW × 8,760 hours = 876,000 MWh. The observed 175,200 MWh therefore gives 20% annual capacity factor. **Distractors:** B confuses energy (MWh) with power (MW); C ignores actual generation; D substitutes theoretical maximum for observed energy. The calculation does not identify *why* output was lower: solar resource, outages and curtailment require separate evidence. CEA/National Power Portal separately reports installed capacity and actual generation. Original practice, not an official PYQ or independent item certification. [G17]
 
 ### Q7. Which soil is strongly associated with basaltic Deccan terrain and shrink-swell clay behavior?
 
@@ -448,14 +448,14 @@ D. Alluvial soil transported and deposited by large river systems
 
 **Answer: A. Black or regur soils are widely associated with Deccan basalt and high clay content.**
 
-### Q8. Which is the best example of integrated water conservation?
+### Q8. A hard-rock village builds recharge structures, but pumping for new irrigated acreage increases faster than measured recharge. Which assessment plan can establish whether groundwater use has become sustainable?
 
-A. Building recharge structures without monitoring the extraction they enable
-B. Combining recharge, demand management, crop choices, reuse and aquifer monitoring
-C. Prioritising surface storage while excluding groundwater and ecological flows
-D. Transferring water across basins before measuring seasonal demand and losses
+A. Count recharge structures without measuring aquifer levels or extraction
+B. Prepare a water budget covering recharge, withdrawals, crop demand, water quality and downstream effects
+C. Treat recharge works as proof that borewell extraction no longer requires monitoring
+D. Assume every litre of runoff intercepted becomes permanently recoverable groundwater
 
-**Answer: B. Integrated conservation manages both supply and demand and accounts for basin/aquifer limits.**
+**Answer: B.** Sustainable aquifer management requires accounting for inflows, withdrawals, storage trends and competing users; construction counts are not an outcome metric. **Distractors:** A measures inputs, not water balance; C ignores demand rebound; D assumes away evaporation, spill, subsurface losses and downstream uses. The World Bank's Atal Bhujal programme description explicitly links community water budgets, recharge, water harvesting and crop management. It does not certify this hypothetical village or the effectiveness of any particular check dam. Original practice, not an official PYQ or independent certification. [G18]
 
 ### Q9. A forest-corridor strategy primarily addresses:
 
@@ -549,14 +549,14 @@ D. Both originate in the Himalayan glaciers
 
 **Answer: C. Their westward flow and structural valleys contrast with the broad eastward drainage of Godavari and Krishna.** [G1]
 
-### Q19. Which is the strongest reason that an increase in solar installed capacity may not equal a proportional rise in usable electricity?
+### Q19. Two 100 MW solar plants have similar irradiation and equipment, but Plant X delivers 175 GWh in a year while Plant Y delivers 140 GWh because of grid curtailment. Which inference is defensible?
 
-A. Generation depends on irradiation, curtailment, grid capacity and storage
-B. Every solar plant operates at rated power throughout the night
-C. Installed capacity is measured in gigawatt-hours
-D. Transmission congestion increases the rated panel capacity
+A. Their installed capacities can remain identical while delivered energy and realised capacity factors differ
+B. Plant Y's installed capacity must automatically fall to 80 MW because its annual energy is lower
+C. Both plants must deliver equal annual energy because both are rated at 100 MW
+D. Grid curtailment increases Plant Y's delivered electrical energy
 
-**Answer: A. Installed MW measures rated capacity; energy delivered depends on resource, operations, grid and storage.** [G7]
+**Answer: A.** The stated outputs imply approximate delivered-energy capacity factors of 20.0% (175,000 ÷ 876,000) and 16.0% (140,000 ÷ 876,000). Nameplate MW does not change merely because grid constraints reduce MWh delivered. **Distractors:** B incorrectly converts an energy ratio into a change of nameplate capacity; C ignores dispatch/curtailment; D reverses curtailment's effect. This is a hypothetical arithmetic example, not observed plant data. CEA's National Power Portal publishes installed-capacity and generation reports separately. Original practice, not an official PYQ or independent certification. [G17]
 
 ### Q20. Which policy most directly addresses fragmentation of wildlife habitats?
 
@@ -567,14 +567,14 @@ D. Maintaining functioning corridors between habitat patches alongside core prot
 
 **Answer: D. Connectivity requires functional corridors and land-use compatibility, not simply a larger tree count.** [G1]
 
-### Q21. Why can a check dam fail to deliver net basin-wide water savings?
+### Q21. A check dam raises nearby well levels, but irrigation pumping expands and downstream dry-season flow declines. What is the strongest conclusion from these observations?
 
-A. Stored or recharged water may induce extra extraction and reduce downstream availability
-B. It automatically increases all downstream flows
-C. It necessarily stops evaporation in every season
-D. Its presence makes crop water demand independent of climate
+A. Local recharge benefits alone do not demonstrate net basin-wide water savings; extraction and downstream flows must also be measured
+B. The rise in nearby wells proves that downstream water availability has increased
+C. The dam's gross stored volume is automatically equal to permanent net basin savings
+D. Groundwater withdrawals cannot affect the basin water budget
 
-**Answer: A. Recharge structures need demand management and basin accounting to establish net savings.** [G1]
+**Answer: A.** The scenario shows why a local benefit and a basin-wide water-saving claim are different propositions. A valid assessment needs a baseline and measurements of recharge, abstraction, storage changes and downstream availability. **Distractors:** B contradicts the stated downstream decline; C equates temporary storage with net conservation; D excludes groundwater–surface-water accounting. The World Bank's Atal Bhujal description supports water budgeting and demand management, but does **not** establish that check dams generally reduce downstream flow: the flow decline is a condition of this hypothetical question, not an empirical finding about all structures. Original practice, not an official PYQ or independent certification. [G18]
 
 ### Q22. Which combination best describes the source of risk in a Himalayan landslide-prone settlement?
 
@@ -742,6 +742,9 @@ No fresh interstate-water award or tribunal decision is included without an auth
 | G14 | CGWB–IIT Hyderabad, *IN-GRES* groundwater resource assessment dashboard, https://ingres.iith.ac.in/ | Assessment variables include annual recharge, extractable resource, extraction and categorisation; no site-specific water-level finding asserted. |
 | G15 | India Meteorological Department, *Salient Features of the 2026 Southwest Monsoon Season*, 30 September 2026, pp. 1, 4, https://mausam.imd.gov.in/Forecast/marquee_data/Salient_Features_SW_MONSOON%20_2026_30_sep.pdf | Final June–September 2026 rainfall: 759.4 mm / 87% all-India LPA; regional and monthly figures; distinct from April–August forecasts and interim observations. |
 | G16 | National Disaster Management Authority, *National Disaster Management Guidelines: Management of Urban Flooding*, official-government-hosted PDF, https://www.niti.gov.in/sites/default/files/2021-03/Annexure-NDMA-Guidelines-compressed.pdf | Urban flood-risk management framework; not a measured flood outcome for a specific city or storm. |
+
+| G17 | Central Electricity Authority, National Power Portal, *Published Reports*, directly viewed 30 October 2026: https://npp.gov.in/publishedReports | Separately lists installed capacity (MW) and actual generation (energy reports); supports unit distinction and capacity-factor arithmetic. Does not validate hypothetical plant outputs or attribute a particular plant's curtailment. |
+| G18 | World Bank, *World Bank Signs Agreement to Improve Groundwater Management in Select States of India*, 17 February 2020: https://www.worldbank.org/en/news/press-release/2020/02/17/improving-groundwater-management-india | Atal Bhujal programme design includes community water budgets, recharge, withdrawals and crop management. Programme description, not field evidence that any hypothetical check dam caused downstream effects. |
 
 **Verification rule:** These tags identify sources relevant to specific claims. They do not certify every sentence, each MCQ distractor, or the entire chapter. Unverified data and interpretations remain provisional. No question below is represented as an authenticated TGPSC PYQ.
 
