@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="390" viewBox="0 0 800 390">
+<rect width="800" height="390" fill="#ffffff"/>
+<text x="400" y="30" text-anchor="middle" font-family="DejaVu Sans" font-size="19" font-weight="bold" fill="#17354f">Article 368: two concurrent House voting tests</text>
+<g font-family="DejaVu Sans" font-size="14" fill="#17354f" text-anchor="middle">
+<rect x="35" y="58" width="330" height="88" rx="9" fill="#e8f3fa" stroke="#2272a6" stroke-width="2"/>
+<text x="200" y="87" font-weight="bold">Test 1: total membership</text><text x="200" y="113">floor(M / 2) + 1</text>
+<rect x="435" y="58" width="330" height="88" rx="9" fill="#e8f3fa" stroke="#2272a6" stroke-width="2"/>
+<text x="600" y="87" font-weight="bold">Test 2: present and voting</text><text x="600" y="113">ceil(2 x V / 3)</text>
+<path d="M200 146 V178 H400 M600 146 V178 H400 V194" fill="none" stroke="#2272a6" stroke-width="2"/>
+<rect x="220" y="194" width="360" height="63" rx="9" fill="#eaf7ec" stroke="#34845a" stroke-width="2"/>
+<text x="400" y="220" font-weight="bold">Both tests must pass in each House</text>
+<text x="400" y="241">Higher required yes-vote threshold controls</text>
+<path d="M400 257 V277" stroke="#2272a6" stroke-width="2"/>
+<rect x="105" y="277" width="590" height="78" rx="9" fill="#fff5e6" stroke="#b77722" stroke-width="2"/>
+<text x="400" y="301" font-weight="bold">Next: specified federal subject?</text>
+<text x="400" y="323">If yes: ratification by at least half the States</text>
+<text x="400" y="342">Then Presidential assent; basic-structure scrutiny remains</text>
+<text x="400" y="379" font-size="11">Original analytical diagram | Source: Article 368(2) | Academic approval pending</text>
+</g></svg>
