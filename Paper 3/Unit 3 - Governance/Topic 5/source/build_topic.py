@@ -12,7 +12,7 @@ from PIL import Image as PILImage
 ROOT=Path(__file__).resolve().parent.parent;SRC=ROOT/'source'
 TITLE='Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms'
 parts=['syllabus-and-summary.md','detailed-notes.md','visual-learning.md','quick-revision.md','original-mcqs.md','mains-model-answers.md','sources-and-audit.md']
-mcq_count=len(re.findall(r'(?m)^### MCQ \\d+\\.',(SRC/'original-mcqs.md').read_text(encoding='utf-8')))
+mcq_count=len(re.findall(r'(?m)^### MCQ \d+\.',(SRC/'original-mcqs.md').read_text(encoding='utf-8')))
 header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 5 | Expanded draft | 27 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All {mcq_count} MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
 md=header+'\n\n'.join((SRC/p).read_text(encoding='utf-8') for p in parts)
 (SRC/'complete-notes.md').write_text(md,encoding='utf-8')
@@ -122,8 +122,8 @@ manifest['research_cutoff']='2026-10-31'
 manifest['academic_status']='ASSESSED_REBUILD_REQUIRED; partial author-side checks; independent approval zero'
 # Refresh actual content metrics rather than retaining historical manifest estimates.
 detail=(SRC/'detailed-notes.md').read_text(encoding='utf-8')
-matches=list(re.finditer(r'^##\\s+\\d+\\.\\s+',detail,re.M))
-manifest['concept_chapter_words']=[len(re.findall(r"\\b[\\w’-]+\\b",detail[m.end():(matches[i+1].start() if i+1<len(matches) else len(detail))])) for i,m in enumerate(matches)]
+matches=list(re.finditer(r'^##\s+\d+\.\s+',detail,re.M))
+manifest['concept_chapter_words']=[len(re.findall(r"\b[\w’-]+\b",detail[m.end():(matches[i+1].start() if i+1<len(matches) else len(detail))])) for i,m in enumerate(matches)]
 manifest['major_concept_chapters']=len(matches)
 manifest['manuscript_whitespace_words']=len(md.split())
 manifest['legacy_pdf_pages']=31
