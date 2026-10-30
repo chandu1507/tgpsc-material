@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-5",
+    "last_reported_topic": "3-1-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle109 Topic 3-1-5 five source-bounded concept expansions; under300 11→6/18. Renderer 41044849184 26-page PDF SHA 48bb4837; actual downloaded packaging artifact 12970844174 SHA/CRC/75 originals/links PASS, three figures and final two mains layout visually checked. Post-control repackage pending; independent audits/accessibility and R1-R8 readiness incomplete, R9 NOT_STARTED, approvals ZERO."
+    "note": "Cycle110 3-1-4 integrated source-corrected master; local PDF candidate; GitHub Actions renderer and downloaded packaging artifact pending. No independent academic approval."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -242,8 +242,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Cycle26: actual source assessment 8 major 360–453-word explanations, 30 original MCQs, six revised mains (body 220–224 words), no original standalone SVG or integrated student PDF; 8 keys limited source-correlated, R1–R8 incomplete, no approval.",
+      "production_review": "cycle110_deduplicated_source_critical_integrated_master_ci_pending",
+      "notes": "Cycle110 coherent 8,054-word master preserving legacy and original PDF: eight substantive numbered concepts, 30 original four-option MCQs, six revised mains, two original vector diagrams. Official India Code Act 19/1976 explicitly names Vetti in section 2 explanation; Q4, mains and source register corrected. Local 18-page PDF candidate SHA 2bdae18b...; post-merge CI PDF and actual Actions artifact QA pending. Independent keys/distractors/mains and accessibility incomplete. R1-R8 not ready, R9 NOT_STARTED, approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-4.json",
       "latest_readiness_evidence": "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json"
@@ -1126,7 +1126,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle100 Topic 2-3-1: four original practice MCQs (Q6/Q8/Q19/Q21) rewritten in place with 16 option rationales, CEA/NPP and World Bank source correspondence; 33-page synchronized PDF, actual post-layout artifact 12948276635 SHA/CRC/75 originals/links PASS. No gate promotion or independent approval.",
+  "last_readiness_update": "Cycle110 Topic 3-1-4: 8,054-word deduplicated master, primary statutory Vetti correction, 30 original MCQs, six mains, two original vector diagrams. Local 18-page PDF; CI artifact pending; R1-R8 ready ZERO, approvals ZERO.",
   "last_readiness_reconciliation": "Fresh 29 Oct main and 75 per-topic JSON: 75 originals, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 verified/historical R1 mappings, 0 fully ready, 0 approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
@@ -1173,13 +1173,15 @@
     "artifact_qa": "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
   },
   "latest_academic_readiness_cycle": {
-    "cycle": 99,
+    "cycle": 110,
     "date": "2026-10-30",
-    "topic": "2-3-1",
-    "source_audit": "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json",
-    "downloaded_artifact_qa": "project-control/academic-readiness/2-3-1-cycle99-actual-downloaded-artifact-qa-2026-10-30.json",
-    "integrated_pdf_pages": 32,
-    "integrated_pdf_sha256": "3ee9e4d067b89f117a19c7d9518bdcedefd7fa13a13e94542133d5fde789f71c",
+    "topic": "3-1-4",
+    "source_audit": "project-control/academic-readiness/3-1-4-cycle110-deduplicated-master-vetti-primary-source-audit-2026-10-30.json",
+    "integrated_master_sha256": "5a82f451edb6108e0a6199ff3f91fb5a84d95e99a67c8efe020b6cdbb80a5cae",
+    "local_pdf_pages": 18,
+    "local_pdf_sha256": "2bdae18b40f3016ef3f72889a58de005dc0ca853fc667efc5663ca1d3f962174",
+    "github_ci_pdf": "PENDING",
+    "downloaded_artifact_qa": "PENDING",
     "topic_counts": {
       "IN_PROGRESS": 7,
       "ASSESSED_REBUILD_REQUIRED": 68,
