@@ -29,9 +29,10 @@
   "evidence": [
     "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
     "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/3-1-5-cycle107-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/3-1-5-cycle107-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/3-1-5-cycle108-four-concept-source-verified-depth-audit-2026-10-30.json"
   ],
-  "next_action": "Substantively expand 15 shallow concepts, independently verify all 30 original MCQ keys and 90 distractors and six mains, review SVG diagrams and direct Telangana implementation, full browser/accessibility; do not promote R8/R9.",
+  "next_action": "Verify CI synchronized PDF and actual post-edit downloaded artifact; expand remaining 11 shallow concepts; independently audit all 30 MCQ keys/90 distractors and six mains; review diagrams, Telangana orders and browser accessibility; no R8/R9 promotion.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -115,5 +116,14 @@
     "concepts_below_300": 15,
     "r8": "IN_PROGRESS",
     "r9": "NOT_STARTED"
+  },
+  "cycle108": {
+    "date": "2026-10-30",
+    "scope": "Four source-bounded concept expansions (children, disability, FRA, education), new S20-S24 register; corrected PM POSHAN renewal caveat",
+    "concepts_below_300": 11,
+    "original_pdf_preserved": true,
+    "render_pending": true,
+    "post_edit_downloaded_artifact_pending": true,
+    "academic_approval": false
   }
 }
