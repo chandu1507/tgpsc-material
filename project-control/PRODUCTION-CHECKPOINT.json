@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-2-3",
+    "last_reported_topic": "3-2-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle114 Topic 3-2-3 actual downloaded post-render artifact SHA/CRC/75 original PDFs/offline links PASS; post-evidence package pending; academic approvals ZERO."
+    "note": "Cycle115 Topic 3-2-4 source edits staged: 5 original MCQs and offline HTML synchronized; CI PDF and actual downloaded artifact QA pending; approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -303,8 +303,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle31_source_based_mains_corrected_pdf_ci_pending",
-      "notes": "27 Oct Cycle30: 11 substantial concepts 605–910 words, 25 original MCQs, six mains. Direct body-only counts 205/210/196/200/200/194 contradict older manifest 220/228/208/211/212/208; M3/M6 below 200. Two existing SVGs; original 42-page PDF preserved. All academic gates incomplete. 27 Oct Cycle31: M3/M6 body-only length corrected to 239/235 directly in source, master and offline HTML; bounded Supreme Court/eCourts correspondence. Two existing SVGs linked in master; CI PDF pending. R6 IN_PROGRESS, NOT PASS. Cycle31 post-render: synchronized GitHub PDF downloaded in artifact 12712828105, CRC/SHA/original preservation and static links passed; R8 IN_PROGRESS (browser accessibility pending).",
+      "production_review": "cycle115_five_constitution_mcqs_markdown_html_source_synced_ci_pending",
+      "notes": "27 Oct Cycle30: 11 substantial concepts 605–910 words, 25 original MCQs, six mains. Direct body-only counts 205/210/196/200/200/194 contradict older manifest 220/228/208/211/212/208; M3/M6 below 200. Two existing SVGs; original 42-page PDF preserved. All academic gates incomplete. 27 Oct Cycle31: M3/M6 body-only length corrected to 239/235 directly in source, master and offline HTML; bounded Supreme Court/eCourts correspondence. Two existing SVGs linked in master; CI PDF pending. R6 IN_PROGRESS, NOT PASS. Cycle31 post-render: synchronized GitHub PDF downloaded in artifact 12712828105, CRC/SHA/original preservation and static links passed; R8 IN_PROGRESS (browser accessibility pending). Cycle115: added original Q26–Q30 on Arts129/215,130,144,233,234; 5 new keys/15 distractors bounded author checked, 4 old B-position option swaps; 30 total A7/B8/C7/D8. Full independent audit and CI/artifact QA pending, not approved.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-4.json"
     },
