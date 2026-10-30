@@ -58,12 +58,12 @@
     "source/original-mcqs.md": "7dd851a95285a0d9c33027496c9554b871200e59fe0998f9af4b292c891aae68",
     "source/visual-learning.md": "caa41b7e587e07345e31f64ba957278259050bf82636db96872b64d407e7a96e",
     "source/mains-model-answers.md": "77cd5862ea4d3a0146492f0715864e7ee9a477f80d3e70f910a122234af595ba",
-    "source/integrated-student-edition-2026-10-27.pdf": "0645e61df03c22d34aee7b096642c7e55fd02d52bfdbb2a701b9cfe7d289f10c"
+    "source/integrated-student-edition-2026-10-27.pdf": "5950f06c85c2683393798afa38b427136b1c9c40ea5bd085ceb0930e038d3756"
   },
   "academic_status": "NOT_APPROVED",
   "publication_state": "synchronized PDF from canonical editable Markdown; independent academic audit pending",
-  "integrated_pdf_sha256": "0645e61df03c22d34aee7b096642c7e55fd02d52bfdbb2a701b9cfe7d289f10c",
-  "integrated_pdf_pages": 29,
+  "integrated_pdf_sha256": "5950f06c85c2683393798afa38b427136b1c9c40ea5bd085ceb0930e038d3756",
+  "integrated_pdf_pages": 30,
   "cycle116": {
     "date": "2026-10-30",
     "new_original_mcqs": 5,
