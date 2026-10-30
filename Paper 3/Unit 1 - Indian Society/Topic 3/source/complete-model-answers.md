@@ -80,7 +80,7 @@
 
 **Distinct Telangana examples.** Cotton-growing areas face production and market uncertainties, while paddy cultivation raises irrigation and energy questions. Migrant construction settlements near expanding urban corridors may need portable food entitlements, wage redressal and school continuity.
 
-**Policy package.** Integrate protective irrigation, transparent procurement, timely crop insurance, tenant-sensitive credit, quality local nonfarm jobs, wage enforcement and MGNREGA's rural **household** employment guarantee. Measure real net farm income, days of paid labour, indebtedness, migrant wage retention and children's attendance.
+**Policy package.** Integrate protective irrigation, transparent procurement, timely crop insurance, tenant-sensitive credit, quality local nonfarm jobs, wage enforcement and the historical MGNREGA and current VB–G RAM G **rural-household** employment guarantees (100 days before July 2026; 125 days thereafter). Measure real net farm income, days of paid labour, indebtedness, migrant wage retention and children's attendance.
 
 **Conclusion.** The solution is not to prevent mobility, but to make **farming viable, farm labour dignified and migration a choice rather than desperation**.
 
