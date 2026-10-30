@@ -51,8 +51,8 @@
     "all_mains_claim_level_verified": false,
     "diagram_accuracy_certified": false,
     "browser_accessibility_certified": false,
-    "post_edit_ci_pdf": "PENDING",
-    "post_edit_downloaded_actions_artifact": "PENDING"
+    "post_edit_ci_pdf": "SUCCESS_RUN_41044048405_26_PAGES_SHA256_c1dbef60fb4c4c7a911339c5b1ecf825164b4904c8dd8da0a2c41e698ed68208",
+    "post_edit_downloaded_actions_artifact": "PENDING_REPACKAGING"
   },
   "source_register_added": [
     {
@@ -90,5 +90,14 @@
   "independent_academic_approvals": 0,
   "fully_R1_to_R8_ready": 0,
   "R9": "NOT_STARTED",
-  "notes": "Substantive additions distinguish legal authority vs administrative payment, maintenance tribunal vs social pension, AAM vs PM-JAY, dated national employment totals vs local outcomes, and historical social audit rules vs post-repeal oversight. 300-word threshold is mechanical only. No official PYQs invented."
+  "notes": "Substantive additions distinguish legal authority vs administrative payment, maintenance tribunal vs social pension, AAM vs PM-JAY, dated national employment totals vs local outcomes, and historical social audit rules vs post-repeal oversight. 300-word threshold is mechanical only. No official PYQs invented.",
+  "renderer_run_id": 41044048405,
+  "renderer_status": "SUCCESS",
+  "integrated_pdf_pages": 26,
+  "integrated_pdf_sha256": "c1dbef60fb4c4c7a911339c5b1ecf825164b4904c8dd8da0a2c41e698ed68208",
+  "initial_packaging_run_id": 41044048386,
+  "initial_artifact_id": 12971407935,
+  "initial_artifact_rejected": "ACTUALLY_DOWNLOADED_CRC_PASS_BUT_STALE_PDF_SHA_12f2b46b_vs_new_c1dbef60",
+  "post_render_packaging_required": true,
+  "layout_caveat": "Page 13 1056 text chars, page 26 998 chars; sparse pages require full visual review."
 }
