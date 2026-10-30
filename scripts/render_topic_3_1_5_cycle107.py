@@ -27,9 +27,9 @@ pdfmetrics.registerFontFamily('Noto',normal='Noto',bold='NotoBold',italic='NotoI
 navy=colors.HexColor('#132A44'); accent=colors.HexColor('#176AA3'); pale=colors.HexColor('#EAF2F7')
 styles={
  'title':ParagraphStyle('title',fontName='NotoBold',fontSize=17,leading=23,textColor=navy,spaceAfter=16),
- 'h2':ParagraphStyle('h2',fontName='NotoBold',fontSize=12,leading=17,textColor=navy,spaceBefore=15,spaceAfter=8,keepWithNext=True),
+ 'h2':ParagraphStyle('h2',fontName='NotoBold',fontSize=12,leading=17,textColor=navy,spaceBefore=13,spaceAfter=7,keepWithNext=True),
  'h3':ParagraphStyle('h3',fontName='NotoBold',fontSize=10.2,leading=15,textColor=accent,spaceBefore=11,spaceAfter=6,keepWithNext=True),
- 'p':ParagraphStyle('p',fontName='Noto',fontSize=8.6,leading=13.7,spaceAfter=5.5,allowWidows=0,allowOrphans=0),
+ 'p':ParagraphStyle('p',fontName='Noto',fontSize=8.6,leading=13.2,spaceAfter=4.5,allowWidows=0,allowOrphans=0),
  'li':ParagraphStyle('li',fontName='Noto',fontSize=8.5,leading=13.5,leftIndent=14,firstLineIndent=-8,spaceAfter=3),
  'cell':ParagraphStyle('cell',fontName='Noto',fontSize=7.2,leading=10.5),
  'cellhead':ParagraphStyle('cellhead',fontName='NotoBold',fontSize=7.2,leading=10.5,textColor=colors.white),
@@ -100,7 +100,8 @@ while i<len(tokens):
  if t.type=='heading_open':
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
-    # Keep Part C flowing after the final MCQ to avoid an orphaned question-only page.
+    # Keep the final mains answer intact on one page; prevents a sparse continuation-only final page.
+    if re.match(r'^Question 6:',inl.content): story.append(PageBreak())
     story.append(Paragraph(val,styles[key]));i+=3;continue
  if t.type=='table_open':current_table=[];i+=1;continue
  if t.type=='tr_open':row=[];i+=1;continue

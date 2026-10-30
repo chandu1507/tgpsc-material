@@ -1,0 +1,27 @@
+{
+  "topic_id": "3-1-5",
+  "date": "2026-10-30",
+  "cycle": 109,
+  "status": "LOCAL_RENDERER_PREFLIGHT_NOT_FINAL_GITHUB_ARTIFACT",
+  "renderer_path": "scripts/render_topic_3_1_5_cycle107.py",
+  "changes": [
+    "paragraph leading 13.7→13.2 pt; spaceAfter 5.5→4.5 pt",
+    "H2 spaceBefore 15→13 pt; spaceAfter 8→7 pt",
+    "start final Question 6 on a clean page"
+  ],
+  "local_candidate": {
+    "pages": 24,
+    "blank_pages": 0,
+    "out_of_bounds_text_blocks": 0,
+    "last_page_text_chars": 2085,
+    "vector_diagrams": 3,
+    "visual_sampled_pages": [
+      12,
+      24
+    ],
+    "sha256": "78c5d5684977e4dc88d11d9ed560cf3d85a2fe364872d378c81fa8822745eb2f"
+  },
+  "caveat": "Local render uses container font fallback and is NOT the CI PDF. Require GitHub Actions render, actual post-render download, SHA/CRC/link/original-75 checks and visual review. Figure page 12 intentionally has whitespace; not a full accessibility certification.",
+  "fully_R1_R8_ready": 0,
+  "independent_approvals": 0
+}
