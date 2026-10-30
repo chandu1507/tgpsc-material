@@ -41,7 +41,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending. Final 28-page PDF and 75-topic downloaded artifact CRC/hash/link checks PASS; 1544 files, 474 file links and 686 DOM fragments zero broken. R8 remains IN_PROGRESS due browser/accessibility checks.",
-  "next_action": "Verify Cycle113 CI-rendered PDF and actual post-render GitHub artifact CRC/SHA/75 original PDFs/offline links; independently audit all 30 keys/90 distractors and six mains; direct R1 and browser/accessibility checks; no R9 until all gates PASS and named expert.",
+  "next_action": "Download actual post-render packaging artifact and independently check CRC/SHA, exactly 75 originals and offline links; complete MCQ/mains/official syllabus/browser audit; R9 remains NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -75,9 +75,12 @@
     "master": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-30.md",
     "pdf": "Paper 3/Unit 2 - Constitution of India/Topic 2/source/integrated-student-edition-2026-10-30.pdf",
     "evidence": "project-control/academic-readiness/3-2-2-cycle113-article20-and-mcq-source-audit-2026-10-30.json",
-    "ci_render": "PENDING",
+    "ci_render": "SUCCESS",
     "post_render_downloaded_artifact_qa": "PENDING",
     "r1_r8_ready": false,
-    "independent_approval": false
+    "independent_approval": false,
+    "ci_run_id": 41075957635,
+    "pdf_pages": 29,
+    "pdf_sha256": "a14a626791052834b40d267fa8707126e87c2ff69032c4786f2d7a0535792d25"
   }
 }
