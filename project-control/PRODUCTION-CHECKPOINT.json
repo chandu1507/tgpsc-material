@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-3-1",
+    "last_reported_topic": "3-3-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle117: Topic 3-3-1 five original practice MCQs Q26-Q30 source-correlated with Constitution Arts 151, 281, 321, 322, 323; 30 total. Renderer 41110906700 SUCCESS; 38-page integrated PDF SHA256 de628fd042fa2c60766ea60b3b5dbffa1aef9210b083b37ee38befd4bdbfa556. Actual downloaded post-render packaging 41110956380 artifact 13002039135 digest 4e40628f9c529bac4d1ee99f79d64b78d51c60fecf678a324b851a642b7a9b77 MATCH; 2059 files, 75 original PDFs unchanged vs Cycle116, 75 readiness JSON, 87 HTML, 597 local links and 1050 DOM fragments zero broken, 43 SPA routes excluded, outer/inner ZIP CRC PASS. Full independent academic, browser and expert approval remain pending; ZERO R1-R8 ready, ZERO approvals."
+    "note": "Cycle118 Topic 3-3-2 source-checked Q26-Q30 and synchronized 40-page PDF; actual downloaded GitHub artifact 13008480828 SHA/CRC/75 originals/link QA PASS. Independent academic audits, direct syllabus and browser/accessibility remain pending. ZERO fully R1-R8 ready, ZERO approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -339,8 +339,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle32_objective_assessment_and_academic_rebuild_required",
-      "notes": "Recovered full pre-existing local expanded draft PDF/HTML/Markdown/visuals from byte-verified ten-topic subset; not a newly authored topic this run. Academic audit pending. Cycle32 objective assessment: concept depth numerical pass; academic source, MCQ, mains, diagram and browser checks incomplete. Topic 3-3-1 receives in-place DPDP timing/Q25 repair and separate integrated PDF render workflow; Topic 3-3-2 remains unsynchronized.",
+      "production_review": "cycle118_ci_pdf_and_actual_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "Cycle118: original 43-page PDF SHA256 93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24 unchanged; 15 substantive concepts, 30 original four-option MCQs (five new bounded primary-Constitution checked keys/15 distractors, original 25 full audit pending), A8/B7/C8/D7, six preserved mains. Editable master/offline HTML and 40-page integrated CI PDF SHA256 34481fa7da3ac77375d9759240ce7671cbe9ceb15dcdcd4f81e88222afb0398a. Actual downloaded artifact 13008480828 from packaging 41119473052 SHA256 1566c9f6e2380e5bb9b0f357b39183171b7003e19640164843c65ea8546d47cf CRC/digest PASS, 2064 files, 75 original PDFs unchanged, 75 readiness JSON, 87 HTML, 599 local links/1004 fragments zero broken, 43 SPA routes excluded. R1-R8 NOT fully PASS, R9 NOT_STARTED, academic approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-3-2.json"
     },
