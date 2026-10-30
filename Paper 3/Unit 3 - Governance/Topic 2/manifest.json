@@ -1,42 +1,98 @@
 {
-  "project": "TGPSC Group I 75-topic study library",
   "topic_id": "P3-U3-T2",
-  "paper": 3,
-  "unit": 3,
-  "topic": 2,
-  "title": "Governance at State and District Levels",
-  "date": "2026-10-23",
-  "academic_status": "expanded draft; not approved",
-  "syllabus_source_status": "public reproduction cross-check; official TGPSC PDF access 403 this run",
-  "word_count_whitespace": 15090,
-  "detailed_chapters": 15,
-  "original_mcqs": 25,
-  "mains_model_answers": 6,
-  "mains_answer_word_counts": [
-    221,
-    216,
-    218,
-    221,
-    212,
-    221
-  ],
+  "title": "Governance at State and District Levels: Secretariat, Directorates, Local Institutions and Administrative Controls",
+  "status": "expanded draft, NOT academically approved",
+  "syllabus_primary_source": "TGPSC Notification 02/2024, Annexure-II, Paper III, Unit III, item 2 (official direct PDF access pending)",
+  "total_planned_topics": 75,
+  "existing_topics": 75,
+  "remaining_without_first_draft": 0,
+  "academic_approvals": 0,
+  "original_mcqs": 30,
   "verified_official_pyqs": 0,
-  "source_references": 22,
+  "mains_model_answers": 6,
+  "detailed_chapters": 15,
+  "manuscript_word_count": 16055,
+  "pdf_bytes": 365323,
+  "components": [
+    "syllabus-and-summary.md",
+    "detailed-notes.md",
+    "visual-learning.md",
+    "quick-revision.md",
+    "original-mcqs.md",
+    "mains-model-answers.md",
+    "sources-and-audit.md"
+  ],
+  "source_register_count": 22,
   "diagrams": 2,
-  "file_sha256": {
-    "complete-notes.pdf": "93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24",
-    "index.html": "05f01eba7ad7b3371d70b575b0adb08ddc5d1daff4b10944d6aeb6ef51fc20c6",
-    "source/complete-notes.md": "93416b99504be4fa41ac39607fada2c3df15ae64a125446c13d4aef2ee04bcfa",
-    "source/detailed-notes.md": "337515d0957a32626c4240dd6e87cac406938a5001a3e0b611a14d5d485ffd9d",
-    "source/mains-model-answers.md": "ada2eee51e5e0e9c04454521e12a478f58efd7d7256457b5b6d7b02abf26eb41",
-    "source/original-mcqs.md": "84e3ca47ab960730fce8d43c94db1d9db93b10bdcdf3461b103fe073f501442f",
-    "source/quick-revision.md": "2575c32df694c8ea0a720f79af08fb53e3384ed75a38586be55ff2d52154597a",
-    "source/sources-and-audit.md": "3e4bfe4857d338cc4fa452dbdd7774a9080cc3d13320dabc591381afb2684f66",
-    "source/syllabus-and-summary.md": "08f3fb5bb2b4338ca086e972eced80a47aefc94553ed727b81e19b7b3abe1dd8",
-    "source/visual-learning.md": "afe13b014f3c1ee82ac4747ded14667d915b33c33fa712a69c01fdd7d9871c06",
-    "visuals/governance-chain.png": "cdc2ea41f7cc3fcda4a0fe2acdc85def7af5df89fbc3667667cf8223c66fa8ab",
-    "visuals/governance-chain.svg": "a94ecb8fe73f7a2f23351f83d35f4b1072615cd1f8001a47e9e81071e420ad74",
-    "visuals/three-controls.png": "06133f7706f9a24c58184ee9ee4474110a38eeff1d8123316ef2a3c28990e542",
-    "visuals/three-controls.svg": "be4a5354beb28fbec777676850ca8d21253d32f3a518d7b368878371871901b2"
-  }
+  "files": {
+    "README.md": {
+      "bytes": 598,
+      "sha256": "96bb1daa3733528ffc672d987b9652bc91fd738692055ff2ce65da1dd0c0165e"
+    },
+    "complete-notes.pdf": {
+      "bytes": 352414,
+      "sha256": "93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24"
+    },
+    "index.html": {
+      "bytes": 136617,
+      "sha256": "9d250fb9bd1ec417dc8d0e9cd0e68a14f4c770304d632f6cbaf87fd8d06f376b"
+    },
+    "source/build_topic.py": {
+      "bytes": 17170,
+      "sha256": "850a9be87f4513a6a9b6627bba4079944ad648d27ee3a9f35d7934746e8869cb"
+    },
+    "source/complete-notes.md": {
+      "bytes": 121667,
+      "sha256": "79ec6eaf0ce83a79b38b157daca212d5b19877675a36e8f9eb324077affe627f"
+    },
+    "source/detailed-notes.md": {
+      "bytes": 68334,
+      "sha256": "337515d0957a32626c4240dd6e87cac406938a5001a3e0b611a14d5d485ffd9d"
+    },
+    "source/integrated-student-edition-2026-10-31.pdf": {
+      "bytes": 365323,
+      "sha256": "34481fa7da3ac77375d9759240ce7671cbe9ceb15dcdcd4f81e88222afb0398a"
+    },
+    "source/mains-model-answers.md": {
+      "bytes": 12324,
+      "sha256": "ada2eee51e5e0e9c04454521e12a478f58efd7d7256457b5b6d7b02abf26eb41"
+    },
+    "source/original-mcqs.md": {
+      "bytes": 16209,
+      "sha256": "36007fff835c7b7a2d830f751c4b329b9c17292c9ee8a8352896e052e2254bbb"
+    },
+    "source/quick-revision.md": {
+      "bytes": 4847,
+      "sha256": "2575c32df694c8ea0a720f79af08fb53e3384ed75a38586be55ff2d52154597a"
+    },
+    "source/sources-and-audit.md": {
+      "bytes": 9723,
+      "sha256": "5d6842054a0fa5e0b90abaf1405d6c79a0fa75ed140b781f0875dbf76c2294bc"
+    },
+    "source/syllabus-and-summary.md": {
+      "bytes": 5949,
+      "sha256": "08f3fb5bb2b4338ca086e972eced80a47aefc94553ed727b81e19b7b3abe1dd8"
+    },
+    "source/visual-learning.md": {
+      "bytes": 3694,
+      "sha256": "afe13b014f3c1ee82ac4747ded14667d915b33c33fa712a69c01fdd7d9871c06"
+    },
+    "visuals/governance-chain.png": {
+      "bytes": 118228,
+      "sha256": "cdc2ea41f7cc3fcda4a0fe2acdc85def7af5df89fbc3667667cf8223c66fa8ab"
+    },
+    "visuals/governance-chain.svg": {
+      "bytes": 6607,
+      "sha256": "a94ecb8fe73f7a2f23351f83d35f4b1072615cd1f8001a47e9e81071e420ad74"
+    },
+    "visuals/three-controls.png": {
+      "bytes": 88956,
+      "sha256": "06133f7706f9a24c58184ee9ee4474110a38eeff1d8123316ef2a3c28990e542"
+    },
+    "visuals/three-controls.svg": {
+      "bytes": 5634,
+      "sha256": "be4a5354beb28fbec777676850ca8d21253d32f3a518d7b368878371871901b2"
+    }
+  },
+  "note": "Existing topic 3-3-1 only; preserved legacy complete-notes.pdf unchanged; integrated PDF generated from seven editable components; no independent academic approval."
 }

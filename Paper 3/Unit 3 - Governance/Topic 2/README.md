@@ -1,12 +1,7 @@
-# Paper III / Unit III / Topic 2 — Governance at State and District Levels
+# TGPSC Group I — Paper III / Unit III / Topic 2
 
-Expanded draft produced 23 October 2026. **Not academically approved.**
+Governance at State and District Levels: Secretariat, Directorates, Local Institutions and Administrative Controls
 
-- `index.html`: complete interactive/offline HTML chapter.
-- `complete-notes.pdf`: printable full notes.
-- `source/complete-notes.md`: fully editable manuscript.
-- `source/detailed-notes.md`, `quick-revision.md`, `original-mcqs.md`, `mains-model-answers.md`, `sources-and-audit.md`, `syllabus-and-summary.md`, `visual-learning.md`: modular editable sources.
-- `visuals/`: two diagrams in SVG and PNG.
-- `manifest.json`: source hashes and validation counts.
+Open `index.html` for the interactive offline chapter, `source/integrated-student-edition-2026-10-31.pdf` for print, or `source/complete-notes.md` for editing. Component Markdown files, diagrams (SVG and PNG), and source/audit register are included.
 
-25 **original** practice MCQs; six **original** structured mains answers; no official PYQ claim. Original official syllabus PDF returned 403 in this run; see source register.
+**One expanded draft, NOT academically approved.** No official PYQ is claimed. The chapter is one of the 75 preserved original topics; external academic approval remains pending.
