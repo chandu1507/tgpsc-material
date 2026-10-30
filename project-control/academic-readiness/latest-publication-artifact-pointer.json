@@ -1,16 +1,9 @@
 {
-  "run_id": 40976793956,
-  "artifact_id": 12942329614,
-  "artifact_digest": "65803ffc005a9a0f92c01aba94af5726fa938120935aee0fbe5d65cb26ff132c",
-  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40976793956/artifacts/12942329614",
+  "run_id": 40982027048,
+  "artifact_id": 12945750390,
+  "artifact_digest": "f2edbab0f31508d8e28ec8238680dbcc2c0c7ca09ee988e7785ad4ae08a3aad9",
+  "artifact_url": "https://github.com/chandu1507/tgpsc-material/actions/runs/40982027048/artifacts/12945750390",
   "name": "tgpsc-github-publication-snapshot",
-  "recorded_utc": "2026-10-30T00:00:25.340622+00:00",
-  "independently_downloaded_and_qa_verified": true,
-  "verification_scope": "archive_integrity_75_original_pdfs_links_fragments_and_topic_2_3_3_pdf_not_academic_approval",
-  "verification_report_library_path": "/Mounika/TGPSC_ACADEMIC_READINESS_P2_U3_T3_CYCLE98_20261030/CYCLE98_FINAL_POST_EVIDENCE_DOWNLOADED_ARTIFACT_QA.json",
-  "verified_original_topic_pdfs": 75,
-  "verified_readiness_json": 75,
-  "broken_local_links": 0,
-  "broken_dom_fragments": 0,
-  "academic_approvals": 0
+  "recorded_utc": "2026-10-30T00:49:09.076268+00:00",
+  "independently_downloaded_and_qa_verified": false
 }
