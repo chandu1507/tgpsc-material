@@ -9,7 +9,7 @@
     "last_reported_topic": "3-1-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle101 Topic 3-1-2 author-side partial rebuild: 4 concept expansions, 15 new original MCQs, coherent master and CI workflow; render/artifact QA pending, no academic approval."
+    "note": "Cycle101 3-1-2: 40-page CI PDF and actual downloaded post-render artifact QA PASS, 18/23 concepts shallow, 25 original MCQs not independently certified; approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -217,11 +217,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle101_25_original_mcqs_4_depth_expansions_coherent_master_ci_pending_not_approved",
-      "notes": "Cycle101: 23 original numbered explanations, four source-bounded substantive expansions (7,12,13,14) reduce under300 22→18; 15 new original four-option MCQs bring bank 10→25, each new key/3 distractors has bounded author-side statutory correspondence but not independent certification; six mains bank included once; two vector diagrams; original 27-page PDF SHA256 9d376a47... preserved. New coherent master and guarded CI renderer/workflow created. CI PDF, actual downloaded archive and browser QA pending; R1–R8 incomplete, R9 NOT_STARTED, approvals ZERO.",
+      "production_review": "cycle101_40page_ci_pdf_and_actual_downloaded_artifact_qa_pass_academic_rebuild_pending",
+      "notes": "Cycle101: 23 numbered concepts (18 below300), 25 original four-option practice MCQs (15 newly added author-bounded source-correlated, not independent), six mains once, two vector diagrams. CI renderer 40994933197 SUCCESS; 40-page PDF SHA256 67f8663a..., downloaded post-render package 12951215163 SHA/CRC/75 unchanged originals/1647 local links/1050 fragments PASS. Original 27-page PDF unchanged. R1–R8 incomplete, browser/academic audits pending, approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-2.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/3-1-2-cycle101-legal-mcq-depth-and-deduplicated-master-2026-10-30.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/3-1-2-cycle101-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
     },
     {
       "id": "3-1-3",
