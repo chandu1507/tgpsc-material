@@ -310,6 +310,10 @@ Rainwater harvesting, watershed treatment, tank restoration, check dams, aquifer
 The syllabus is exceptionally broad, so the best answers use process diagrams and spatial examples rather than encyclopedic lists. For climate, show the monsoon circulation and then qualify ENSO effects. For floods and droughts, distinguish hazard from vulnerability. For soils and vegetation, link pattern to climate and geology before discussing degradation. For minerals and energy, connect geological distribution to conservation and the energy transition. For marine resources, define EEZ precisely and then discuss economic and ecological significance. For water, frame interstate sharing as basin hydrology plus federal institutions. Every answer should end with a management principle—risk reduction, ecosystem-based conservation, integrated basin planning, circular mineral use or resilient energy systems—rather than a generic “sustainable development is needed.”
 
 
+**Worked evidence chain: the 2026 monsoon.** Begin with a testable claim: the June–September 2026 southwest monsoon was deficient nationally. State the observation with its baseline: IMD recorded **759.4 mm** against an LPA of **868.6 mm**, approximately **87.4% of LPA** (rounded to 87% in its summary). Compute (868.6 − 759.4) / 868.6 × 100 ≈ **12.6% deficit**. Then test spatial generalisation: Central India received 97% of LPA, while the South Peninsula received 76% and East/Northeast India 74%. These observations show regional variation; they do not prove any individual district's crop loss or that El Niño alone caused the shortfall. Cite the final **30 September 2026** IMD report, not the separate **2 August** interim observation. [G15, G5]
+
+**Forecast-verification step.** IMD's updated May forecast was 90% of LPA with a ±4 percentage-point model error; the final approximately 87.4% was within that band. Forecast accuracy at national seasonal scale does not establish district-level skill. The **4 June 2026** Kerala onset is a different variable from the four-month rainfall total. A strong mains answer identifies period and unit, calculates against the correct baseline, compares scales, explains a mechanism, states what the evidence cannot establish, and recommends an intervention matched to the scale. This sequence is more defensible than treating one national percentage as a universal explanation. [G15]
+
 ## Geography answer specificity upgrades
 **Monsoon:** distinguish ITCZ migration, differential heating, cross-equatorial low-level jet, Arabian Sea and Bay of Bengal branches and orographic effects; **ENSO** modifies probabilities but is not a one-variable rainfall formula. **Water sharing:** **Krishna Water Disputes Tribunals** and **Cauvery tribunal** are institutional, not merely river names; link upstream storage, allocated use, telemetry and environmental flows. **Energy:** compare coal-based thermal baseload economics with variable solar/wind and storage; distinguish installed capacity from output. **Marine geography:** **EEZ extends up to 200 nautical miles** in the conventional legal framework, subject to delimitations; connect fisheries, seabed resources, coastal ecology and surveillance. Avoid flat declarations about 2026 monsoon without a dated IMD release.
 
@@ -480,7 +484,7 @@ B. A simultaneous monsoon withdrawal from northwest India
 C. The completion of sowing across peninsular states
 D. A sustained low-level westerly wind field and supportive outgoing longwave radiation
 
-**Answer: D. IMD combines rainfall at selected stations with wind-field and OLR conditions; the declaration is not triggered by a national rainfall total.** [G2]
+**Answer: D.** IMD requires at least 2.5 mm rain for two consecutive days at 60% of its available 14 listed stations after 10 May, together with westerlies extending to 600 hPa, about 15–20 knots at 925 hPa in the specified box, and OLR below 200 W/m² in its specified box. **Distractors:** A invents a nationwide 100-mm threshold; B confuses Kerala onset with northwest withdrawal; C makes sowing a meteorological criterion. Only D states the required wind-and-convection checks alongside station rainfall. Author-side four-option check, not independent certification. [G2]
 
 ### Q12. Which combination is most consistent with IMD's initial southwest-monsoon withdrawal criteria?
 
@@ -489,7 +493,7 @@ B. An El Niño alert and falling Himalayan snow cover
 C. Five dry days, a lower-tropospheric anticyclone and falling atmospheric moisture
 D. A drop in average sea-surface temperature over the Arabian Sea alone
 
-**Answer: C. The operational criteria for the first withdrawal over northwest India require sustained dry conditions, an anticyclone and moisture reduction.** [G3]
+**Answer: C.** For initial withdrawal from western northwest India after 1 September, IMD considers five continuous dry days, an anticyclone at 850 hPa and below, and reduced atmospheric moisture. **Distractors:** A reverses the moisture/circulation signal; B substitutes ENSO and snow cover for operational criteria; D relies on Arabian Sea temperature alone. C is the only complete combination. Later withdrawal follows separate spatial-continuity rules. Author-side four-option check, not independent certification. [G3]
 
 ### Q13. Which statement best distinguishes the normal monsoon onset date from the actual onset?
 
@@ -498,7 +502,7 @@ B. A normal date is climatological; operational onset depends on observed meteor
 C. Actual onset must coincide with the calendar start of June
 D. The actual onset date is computed only from monthly national rainfall
 
-**Answer: B. The climatological normal describes long-term timing; operational declarations use observed rainfall, winds and convection.** [G2, G4]
+**Answer: B.** A normal date is a climatological reference, whereas actual Kerala onset depends on observed rainfall, wind and OLR. The normal is around **1 June**, while IMD reports **4 June** as the 2026 actual onset. **Distractors:** A invents an insurance-law deadline; C treats the normal as compulsory; D ignores station rainfall, winds and convection. The dated IMD final report provides a real example of the distinction. Author-side four-option check, not independent certification. [G2, G4, G15]
 
 ### Q14. Why is a national monsoon rainfall anomaly insufficient to predict one district's crop loss?
 
@@ -588,7 +592,7 @@ B. The 12% deficit through 2 August was the final June–September outcome; 87% 
 C. The final 87% of LPA applies only to rainfall through 2 August; the 12% deficit describes September alone.
 D. The 12% deficit was a dated cumulative interim anomaly; the final June–September observation was 759.4 mm, or 87% of LPA.
 
-**Answer: D.** The Ministry of Earth Sciences' 12 August parliamentary reply reported an interim cumulative deficit through 2 August; IMD's 30 September seasonal report subsequently measured the complete June–September period at 759.4 mm (87% of LPA). The two observations cover different periods and cannot be interchanged. [G5][G15]
+**Answer: D.** The Ministry of Earth Sciences' 12 August reply describes the cumulative position through **2 August**; IMD's **30 September 2026** report gives the final June–September rainfall as **759.4 mm**, approximately **87.4% of 868.6-mm LPA** (rounded to 87%). **Distractors:** A treats different periods as identical; B reverses interim observation and final outcome; C reverses their time coverage. Only D correctly identifies both periods. Author-side four-option check, not an official PYQ or independent certification. [G5, G15]
 
 ### Q24. Which factor most directly explains why black soils can develop on parts of the Deccan Plateau?
 
@@ -647,7 +651,7 @@ D. Prohibiting all upstream storage regardless of purpose
 
 **ENSO.** El Niño is an important external influence because warming in the central/eastern equatorial Pacific reorganizes the Walker circulation and can weaken large-scale monsoon ascent over South Asia. Yet the relationship is statistical, not mechanical. Indian Ocean Dipole conditions, intraseasonal oscillations, snow and land conditions, and synoptic systems can offset or reinforce the ENSO signal. Some El Niño years therefore avoid all-India drought, and district rainfall can differ sharply from the national mean.
 
-**Conclusion.** The 2026 season illustrates the mechanism: IMD anticipated below-normal rainfall and developing El Niño conditions, and by early August cumulative rainfall was below the long-period average, though July’s all-India total and district-level conditions were spatially uneven. Thus ENSO should be treated as one powerful predictor within a coupled system, not as a deterministic monsoon switch.
+**Conclusion.** IMD's final **30 September 2026** report recorded **759.4 mm, about 87% of all-India LPA**, compared with 97% in Central India and 74% in East/Northeast India. The earlier August deficit was an interim snapshot, not the final season. These differences illustrate spatial variability but cannot prove that ENSO alone caused the deficit. [G15]
 ## Q2. Show how India’s physiography controls drainage, soils, natural vegetation and hazard patterns.
 
 **Himalayas.** India’s physiography is a framework that organizes several other dimensions of physical geography. The young Himalaya have steep relief, active tectonics, glaciers and deeply incised valleys. They feed major river systems and create landslide, earthquake and high-sediment hazards. Altitude produces strong vegetation zonation, while orographic effects redistribute monsoon rainfall.
