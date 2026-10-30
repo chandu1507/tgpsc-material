@@ -8,7 +8,8 @@ Status: FACTUAL EDITORIAL REVIEW STILL REQUIRED. Core official sources consulted
 - MoSPI PLFS 2026 dashboard https://www.mospi.gov.in/themes/product/69--
 - Telangana SEO 2026 report catalogue https://www.telangana.gov.in/reports/
 - NITI Aayog MPI discussion published 2024 https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1996271&lang=2&reg=48
-- MGNREGA India Code https://www.indiacode.nic.in/handle/123456789/12887?locale=en
+- Historical MGNREGA India Code https://www.indiacode.nic.in/handle/123456789/12887?locale=en
+- Current law verified 30 Oct 2026: Ministry of Rural Development, PIB 11 May 2026, VB–G RAM G Act effective 1 July 2026, 125-day eligible rural-household guarantee: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259773&lang=1&reg=6; Gazette repeal notification S.O. 2383(E), 11 May 2026.
 - Child and Adolescent Labour Act Labour Ministry https://www.labour.gov.in/static/uploads/2025/06/2e8a5a3a8a785a9a96569af94290aee7.pdf
 - 2013 LARR official statute https://www.indiacode.nic.in/bitstream/123456789/2121/1/A2013-30.pdf
 - Relevant conceptual books NCERT Indian Society; NCERT Social Change and Development in India; Sen Development as Freedom; Dreze and Sen An Uncertain Glory; M.N. Srinivas Social Change in Modern India; Cernea on impoverishment risks.
