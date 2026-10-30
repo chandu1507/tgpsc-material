@@ -2,7 +2,7 @@
 
 # Social Issues: Integrated Editable Student Master
 
-**Cycle 103 · 30 October 2026 · ORIGINAL PRACTICE, NOT OFFICIAL PYQs · NOT INDEPENDENTLY APPROVED.**
+**Cycle 105 legal-currentness and option-position repair · 30 October 2026 · ORIGINAL PRACTICE, NOT OFFICIAL PYQs · NOT INDEPENDENTLY APPROVED.**
 
 This edition integrates the earlier analytical repair inside 20 original numbered concepts, retaining the original published PDF unchanged. Thirty original four-option MCQs and eight original mains answers appear once each. Claims and diagrams require further independent review.
 
@@ -26,7 +26,7 @@ This edition integrates the earlier analytical repair inside 20 original numbere
 | Communalism and secularism | Identity politics; Articles 14–16, 25–30; rights and accountability | Section 7 |
 | Corruption | Petty/grand/state capture; PCA 1988/2018; institutional design | Section 8 |
 | Caste conflicts | Graded inequality; dominant caste; atrocity law; land and local power | Section 9 |
-| Agricultural labour | Seasonal wages, landlessness, MGNREGA, gender, worker protection | Section 10 |
+| Agricultural labour | Seasonal wages, landlessness, historical MGNREGA and the VB–G RAM G 2025 transition, gender, worker protection | Section 10 |
 | Urbanisation | Urban share vs population growth; primacy, informal housing, Musi | Section 11 |
 | Development and displacement | Physical/economic displacement; Cernea; 2013 land acquisition law | Section 12 |
 | Environmental degradation | Water, air, ecology, exposures, legal responsibilities and justice | Section 13 |
@@ -51,7 +51,7 @@ This edition integrates the earlier analytical repair inside 20 original numbere
 - **Communalism:** organised religious antagonism ≠ religious identity; Articles 14, 15, 16, 25–30.
 - **Corruption:** PCA 1988 (amended 2018), Lokpal Act 2013; procurement audit and citizen appeal.
 - **Caste:** Ambedkar graded inequality; Srinivas dominant caste; Article 17, PCR 1955, PoA 1989.
-- **Agricultural labour:** seasonal days, real wages, land, unpaid care; MGNREGA = household 100-day entitlement under the 2005 law.
+- **Agricultural labour:** distinguish the **historical** MGNREGA 2005 household guarantee (100 days) from the **current** VB–G RAM G Act 2025 (125 days per eligible rural household), effective **1 July 2026**; check actual work and wages, not statutory numbers alone.
 - **City:** urban growth ≠ urbanisation; GHMC municipal vs HMDA metro planning; Musi is catchment issue.
 - **Displacement:** physical vs economic; Cernea eight impoverishment risks; 2013 LARR law where applicable.
 - **Environment:** exposure ≠ emission; environmental justice means unequal burden recognition.
@@ -111,7 +111,7 @@ Use an explicit chain: *shock or unequal endowment → household coping response
 
 The National Multidimensional Poverty Index uses a weighted deprivation method informed by Alkire-Foster measurement. Official estimates and projections must be labelled correctly: NITI Aayog's January 2024 discussion paper estimated an **11.28%** multidimensional-poverty headcount for **2022–23**, rather than supplying a directly enumerated 2026 poverty census. A student should not treat the figure as the current monetary poverty rate. At the household level, debt service, medical expenses, education cost, landlessness and gendered care responsibilities cause a **poverty trap**: low earnings prevent asset accumulation, and weak assets perpetuate low productivity. Poverty can be geographically clustered where irrigation, transport, schools and health facilities are inadequate.
 
-Telangana examples should compare rural dryland households vulnerable to monsoon-related earnings volatility with low-income renters in Hyderabad who face high housing and commuting costs despite proximity to jobs. The policy design must join reliable employment, health protection, safe housing and education. MGNREGA, under its **2005 statute**, guarantees up to **100 days of wage employment to each eligible rural household** whose adult members volunteer for unskilled manual work; it is not an unconditional individual entitlement for every resident. Beyond counting beneficiaries, measure timely wage payment, actual person-days, local asset durability, school attendance and the persistence of distress borrowing.
+Telangana examples should compare rural dryland households vulnerable to monsoon-related earnings volatility with low-income renters in Hyderabad who face high housing and commuting costs despite proximity to jobs. The policy design must join reliable employment, health protection, safe housing and education. **Historical versus current rural job law:** MGNREGA 2005 guaranteed at least **100 days per eligible rural household**, not per adult individual. The Union Government notified its repeal and the nationwide commencement of the **Viksit Bharat—Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB–G RAM G) Act, 2025** on **1 July 2026**; the replacement guarantees **125 days per eligible rural household**. A statutory guarantee is not evidence that a household actually received those days or timely wages. Beyond counting beneficiaries, measure timely wage payment, actual person-days, local asset durability, school attendance and the persistence of distress borrowing.
 
 **High-yield exam distinction:** reduction in a national MPI estimate is important, but it neither disproves deprivation in particular communities nor measures inequality among all groups. Use the words *headcount, intensity, method, period and denominator* before quoting a percentage.
 
@@ -251,7 +251,7 @@ A Telangana case could examine a village where workers complain that wages diffe
 
 Agricultural labourers sell labour to farm operators and may be landless, marginal cultivators who also work for wages, seasonal migrants or long-term attached workers. Employment is concentrated around sowing, weeding and harvesting, creating idle periods and bargaining weakness. **Agricultural workers and farmers are overlapping but not interchangeable populations**; policies that raise crop prices may not automatically increase labourers' incomes. Wages depend on crop mix, mechanisation, rural nonfarm alternatives, labour mobility and gendered task segregation. Tenancy uncertainty and informal credit can trap workers in dependent relationships.
 
-Distinct problems include irregular wages, absence of written contracts, unsafe chemical exposure, heat stress, inadequate child care, debt dependence, weak social protection and poor housing near work. In Telangana, cotton or paddy labour demand is seasonal and local practices vary; do not generalise one district's pattern statewide. MGNREGA's 100-day **household** statutory framework can support fallback employment and bargaining power, while road access, rural processing, skill mobility and childcare create alternatives. Labour inspection alone cannot solve dispersed informal worksites; worker collectives, wage information and grievance services matter.
+Distinct problems include irregular wages, absence of written contracts, unsafe chemical exposure, heat stress, inadequate child care, debt dependence, weak social protection and poor housing near work. In Telangana, cotton or paddy labour demand is seasonal and local practices vary; do not generalise one district's pattern statewide. The historical MGNREGA **100-day household** framework, replaced from **1 July 2026** by the VB–G RAM G Act's **125-day household** guarantee, illustrates how a credible fallback can improve bargaining power; road access, rural processing, skill mobility and childcare create complementary alternatives. Both legal design and actual work availability must be assessed. Labour inspection alone cannot solve dispersed informal worksites; worker collectives, wage information and grievance services matter.
 
 The answer should examine **both labour demand and bargaining capacity**. Indicators include real daily wages, days worked per year, occupational injury, women's wage gaps, credit cost and receipt of earned wages on time. A rise in agricultural output with stagnant labour earnings signals unequal sharing of productivity gains.
 
@@ -259,7 +259,7 @@ The answer should examine **both labour demand and bargaining capacity**. Indica
 
 ### Cycle 103 focused concept expansion — 10
 
-**Household guarantee versus individual labour rights.** The Government of India's MGNREGA portal describes the guarantee as at least **100 days of unskilled wage employment per financial year to a rural household** whose adult members volunteer. This does not mean 100 days for every individual member. Suppose a household has two adult workers and receives 70 person-days for one worker and 30 for the other: together they reach 100 household person-days, not 200. But even a formally available guarantee cannot establish that wages were paid on time or that demand was met when requested. Agricultural labourers also face seasonal private-market wage fluctuations, tenancy exclusion, occupational hazards and unpaid care burdens. For a Telangana rural labour analysis, distinguish demand for work, days actually provided, delays, real wage levels and quality of durable water-conservation assets. A complete response asks whether public employment reduces distress migration or merely smooths consumption during a lean season. **Evidence limit:** the portal confirms the programme's stated entitlement, not actual district-level performance.
+**Household guarantee versus individual labour rights — historical and current law.** The **2005 MGNREGA**, now repealed effective **1 July 2026**, guaranteed at least **100 days of unskilled wage employment per financial year per eligible rural household**, not per adult. Under the **VB–G RAM G Act 2025**, in force from that date, the statutory guarantee is **125 days per eligible rural household**. For a worked illustration, if two adults receive 70 and 55 person-days respectively, the household reaches 125 person-days in total, not 125 days each. A guarantee on paper does not demonstrate that work was actually offered on demand, wages were timely, or assets were durable. The 2026 transition requires evaluation of implementing rules and district delivery rather than an assumption of seamless performance. Agricultural labourers also face seasonal private-market wage fluctuations, tenancy exclusion, occupational hazards and unpaid care burdens. For a Telangana rural labour analysis, distinguish demand for work, days actually provided, delays, real wage levels and quality of durable water-conservation assets. A complete response asks whether public employment reduces distress migration or merely smooths consumption during a lean season. **Evidence limit:** the portal confirms the programme's stated entitlement, not actual district-level performance.
 
 ## 11. Urbanisation: demographic change versus the urban way of life
 
@@ -419,7 +419,7 @@ Read NCERT Class XII *Indian Society* and *Social Change and Development in Indi
 | MoSPI, *Annual PLFS 2025*, published May 2026 | State tables distinguish usual-status employment measures; Telangana all-ages usual-status UR 5.0% (rural + urban, persons) | Different age groups, CWS and later monthly bulletins not interchangeable |
 | India Code, RFCTLARR Act 2013, effective January 2014 | Statutory SIA, acquisition, compensation and rehabilitation architecture | Application, exceptions, amendments and local rules require case-specific review |
 | Ministry of Labour and Employment, Child and Adolescent Labour framework, 1986/2016 | Child employment generally prohibited with constrained exceptions; adolescent hazardous work restricted | Need current official consolidated text and schedules before advising on a real case |
-| NREGA Act 2005, statutory framework | Demand-driven rural wage guarantee for eligible households, not an individual universal payment | Administrative actual person-days and payment timeliness not audited here |
+| MGNREGA 2005 (historical); VB–G RAM G Act 2025, effective 1 July 2026 | The household statutory guarantee changed from 100 to 125 days when the 2005 law was repealed | MoRD PIB 11 May 2026 and India Code establish law/commencement; district delivery, fiscal effects and implementation remain unaudited |
 | PWDVA 2005; POSH Act 2013 | Distinct domestic-protection and workplace-redressal regimes | Local institutional performance not independently measured |
 | SC/ST Prevention of Atrocities Act 1989 | Specific statutory protection against defined atrocities | No inference about actual incidence from registered-case totals alone |
 | Telangana district examples | Mechanisms of dryland risk, migration, metropolitan housing and land conflict | Illustrations are analytical, not audited local incidents or casualty statistics |
@@ -501,12 +501,12 @@ Project alternatives → Impact identification → SIA/hearing where required
 
 **1. Which is a correct interpretation of India's multidimensional poverty index?**
 
-A. It measures only whether income is below a monetary poverty line.  
-B. It combines deprivations in health, education and living standards.  
+A. It combines deprivations in health, education and living standards.  
+B. It measures only whether income is below a monetary poverty line.  
 C. It is identical to the unemployment rate.  
-D. It measures only consumption of food grains.
+D. It measures only consumption of food grains.  
 
-**Answer: B.** MPI combines weighted deprivations; it should not be substituted for monetary-poverty estimates. The NITI Aayog 2022–23 figure is an estimate, not a direct 2026 enumeration.
+**Answer: A.** MPI combines weighted deprivations; it should not be substituted for monetary-poverty estimates. The NITI Aayog 2022–23 figure is an estimate, not a direct 2026 enumeration.
 
 **2. Which ratio uses the labour force, not the entire population, as denominator?**
 
@@ -528,12 +528,12 @@ D. measure only job satisfaction.
 
 **4. Under the Child and Adolescent Labour law amended in 2016, which assertion is most accurate?**
 
-A. Every adolescent aged 14–18 may work in hazardous mines.  
-B. Child employment is generally prohibited, with legally specified limited exceptions, and adolescent hazardous work is prohibited.  
+A. Child employment is generally prohibited, with legally specified limited exceptions, and adolescent hazardous work is prohibited.  
+B. Every adolescent aged 14–18 may work in hazardous mines.  
 C. All school attendance guarantees eliminate child labour.  
-D. The law defines adolescents as persons aged 18–21.
+D. The law defines adolescents as persons aged 18–21.  
 
-**Answer: B.** The statute includes a general child-employment prohibition with limited exceptions; adolescent hazardous occupations are specifically restricted. Age, work category and statutory exceptions must be checked.
+**Answer: A.** The statute includes a general child-employment prohibition with limited exceptions; adolescent hazardous occupations are specifically restricted. Age, work category and statutory exceptions must be checked.
 
 **5. The 2005 law providing civil protection from domestic abuse is distinct from:**
 
@@ -573,30 +573,30 @@ D. Assume corruption ended after digitisation.
 
 **9. M.N. Srinivas's idea of a dominant caste highlights:**
 
-A. ritual rank as the only dimension of caste power.  
-B. the interaction of numbers, land and political influence.  
+A. the interaction of numbers, land and political influence.  
+B. ritual rank as the only dimension of caste power.  
 C. the absence of local conflict.  
-D. that caste determines occupation without change.
+D. that caste determines occupation without change.  
 
-**Answer: B.** Dominance can arise through land, numbers, education and political power, not simply ritual prestige.
+**Answer: A.** Dominance can arise through land, numbers, education and political power, not simply ritual prestige.
 
-**10. MGNREGA's basic statutory guarantee is best stated as:**
+**10. As of October 2026, which comparison of India's rural wage-employment guarantees is accurate?**
 
-A. 100 days for every individual citizen.  
-B. 100 days of wage employment each financial year to each eligible rural household whose adult members volunteer for unskilled manual work.  
-C. a permanent urban civil-service job.  
-D. a subsidy exclusively for land-owning farmers.
+A. Both the 2005 and 2025 laws guarantee 100 days for every adult individual.  
+B. MGNREGA 2005 provided at least 100 days per eligible rural household; the VB–G RAM G Act 2025 replaced it from 1 July 2026 and guarantees 125 days per eligible rural household.  
+C. The 2025 law removed every statutory rural household employment guarantee.  
+D. The 2025 law provides 125 days for each adult individual rather than for a household.
 
-**Answer: B.** Its statutory unit is a rural household, not each individual; this distinction is often missed in mains writing.
+**Answer: B.** The entitlement unit is the **eligible rural household** under both statutes; the number of guaranteed days changed from **100** to **125**. The Government of India announced the repeal/commencement date on **11 May 2026**, effective **1 July 2026**. **Distractors:** A and D incorrectly change the unit to an individual; C wrongly denies the new statutory guarantee. A legal entitlement is not proof of actual person-days or timely wages. Sources: MoRD/PIB 11 May 2026 and India Code, Act 36 of 2025.
 
 **11. Economic displacement can occur when a household:**
 
-A. moves home and retains every productive asset.  
-B. loses access to grazing, fishing or wage opportunities without changing its residence.  
+A. loses access to grazing, fishing or wage opportunities without changing its residence.  
+B. moves home and retains every productive asset.  
 C. receives a school certificate.  
-D. experiences a temporary rain shower.
+D. experiences a temporary rain shower.  
 
-**Answer: B.** Compensation for land titles may fail to restore common-resource dependence and income networks.
+**Answer: A.** Compensation for land titles may fail to restore common-resource dependence and income networks.
 
 **12. A decline in TFR need not immediately stop population growth due to:**
 
@@ -627,12 +627,12 @@ D. number of flyovers announced.
 
 **15. Why is rehabilitation broader than compensation?**
 
-A. Rehabilitation counts only property prices.  
-B. Rehabilitation includes livelihood recovery, services, networks and common resources.  
+A. Rehabilitation includes livelihood recovery, services, networks and common resources.  
+B. Rehabilitation counts only property prices.  
 C. Rehabilitation need not identify affected households.  
-D. Rehabilitation necessarily ends when a cheque is issued.
+D. Rehabilitation necessarily ends when a cheque is issued.  
 
-**Answer: B.** Cernea's framework highlights multiple impoverishment risks beyond titleholder land value.
+**Answer: A.** Cernea's framework highlights multiple impoverishment risks beyond titleholder land value.
 
 ## Questions 16–30 — original analytical repair
 
@@ -641,20 +641,20 @@ D. Rehabilitation necessarily ends when a cheque is issued.
 **16. A district publishes a rising number of child-labour rescues. What further indicator best establishes sustained success?**
 
 A. Number of press releases  
-B. School attendance and learning after reintegration  
+B. Number of temporary shelters  
 C. Number of inspections only  
-D. Number of temporary shelters  
+D. School attendance and learning after reintegration  
 
-**Answer: B.** Rescue is an immediate administrative output; sustained educational reintegration better reflects the intended outcome.
+**Answer: D.** Rescue is an immediate administrative output; sustained educational reintegration better reflects the intended outcome.
 
 **17. Why is the NITI Aayog 11.28% figure for 2022–23 not a direct poverty census?**
 
 A. It is a nominal GDP growth rate  
-B. It is a projected MPI headcount based on prior trends  
+B. It is the urban unemployment rate  
 C. It counts only Hyderabad residents  
-D. It is the urban unemployment rate  
+D. It is a projected MPI headcount based on prior trends  
 
-**Answer: B.** The January 2024 discussion paper explicitly uses extrapolation; the measure is multidimensional, not a directly enumerated monetary-poverty rate.
+**Answer: D.** The January 2024 discussion paper explicitly uses extrapolation; the measure is multidimensional, not a directly enumerated monetary-poverty rate.
 
 **18. According to the all-India Time Use Survey 2024, which interpretation of unpaid domestic-service participation is accurate?**
 
@@ -668,20 +668,20 @@ D. The figures apply exclusively to working-age residents of urban Telangana.
 **19. A farm household reports a good harvest but negative net returns. Which explanation is most plausible?**
 
 A. Harvest volume always determines profit  
-B. Input costs and realised prices can offset yield  
+B. Tenancy has no effect on income  
 C. Crop insurance guarantees profit  
-D. Tenancy has no effect on income  
+D. Input costs and realised prices can offset yield  
 
-**Answer: B.** Farm profitability depends on realised price and production/financing costs, not only quantity harvested.
+**Answer: D.** Farm profitability depends on realised price and production/financing costs, not only quantity harvested.
 
 **20. Why might land compensation fail to restore displaced livelihoods?**
 
 A. All affected households are titleholders  
-B. Shared resources, tenancy and customer access may be lost  
+B. Relocation cannot affect schooling  
 C. Cash transfers always create employment  
-D. Relocation cannot affect schooling  
+D. Shared resources, tenancy and customer access may be lost  
 
-**Answer: B.** Economic displacement includes common-property and non-titleholder losses that cash for titled land may miss.
+**Answer: D.** Economic displacement includes common-property and non-titleholder losses that cash for titled land may miss.
 
 **21. Which pairing of the Indian Constitution's rights against exploitation is correct?**
 
@@ -704,29 +704,29 @@ D. All interventions failed
 **23. A programme trains 20,000 youths but reports no retention or wages. Its principal evaluation gap is:**
 
 A. Too many outcome measures  
-B. Lack of evidence about durable employment quality  
+B. No publicity budget  
 C. Insufficient certificates  
-D. No publicity budget  
+D. Lack of evidence about durable employment quality  
 
-**Answer: B.** Training completion is an output; job retention, earnings and work conditions test whether livelihoods improved.
+**Answer: D.** Training completion is an output; job retention, earnings and work conditions test whether livelihoods improved.
 
 **24. Which scenario illustrates institutional exclusion rather than only resource scarcity?**
 
 A. A village has no nearby health centre  
-B. A qualified worker is denied an available benefit because of mismatched identity records  
+B. A storm destroys a crop  
 C. A drought reduces groundwater  
-D. A storm destroys a crop  
+D. A qualified worker is denied an available benefit because of mismatched identity records  
 
-**Answer: B.** A benefit exists but procedural barriers prevent access, demonstrating institutional exclusion.
+**Answer: D.** A benefit exists but procedural barriers prevent access, demonstrating institutional exclusion.
 
 **25. What is the strongest way to assess flood-risk resettlement?**
 
 A. Count demolished dwellings  
-B. Compare risk, travel cost, income and schooling after relocation  
+B. Count new road signs  
 C. Measure only construction speed  
-D. Count new road signs  
+D. Compare risk, travel cost, income and schooling after relocation  
 
-**Answer: B.** Relocation should reduce hazard exposure without creating livelihood or education losses.
+**Answer: D.** Relocation should reduce hazard exposure without creating livelihood or education losses.
 
 **26. Under the Census of India 2011 definition, which combination identifies a census town rather than a statutory town?**
 
@@ -857,7 +857,7 @@ D. Overestimating urban population
 
 **Distinct Telangana examples.** Cotton-growing areas face production and market uncertainties, while paddy cultivation raises irrigation and energy questions. Migrant construction settlements near expanding urban corridors may need portable food entitlements, wage redressal and school continuity.
 
-**Policy package.** Integrate protective irrigation, transparent procurement, timely crop insurance, tenant-sensitive credit, quality local nonfarm jobs, wage enforcement and MGNREGA's rural **household** employment guarantee. Measure real net farm income, days of paid labour, indebtedness, migrant wage retention and children's attendance.
+**Policy package.** Integrate protective irrigation, transparent procurement, timely crop insurance, tenant-sensitive credit, quality local nonfarm jobs, wage enforcement and the **current VB–G RAM G Act 2025 rural-household guarantee (125 days since 1 July 2026)**; cite MGNREGA's 100-day guarantee only as historical context. Measure real net farm income, days of paid labour, indebtedness, migrant wage retention and children's attendance.
 
 **Conclusion.** The solution is not to prevent mobility, but to make **farming viable, farm labour dignified and migration a choice rather than desperation**.
 
@@ -913,7 +913,9 @@ Status: FACTUAL EDITORIAL REVIEW STILL REQUIRED. Core official sources consulted
 - MoSPI PLFS 2026 dashboard https://www.mospi.gov.in/themes/product/69--
 - Telangana SEO 2026 report catalogue https://www.telangana.gov.in/reports/
 - NITI Aayog MPI discussion published 2024 https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1996271&lang=2&reg=48
-- MGNREGA India Code https://www.indiacode.nic.in/handle/123456789/12887?locale=en
+- MGNREGA 2005 historical text (repealed 1 July 2026) https://www.indiacode.nic.in/bitstream/123456789/4649/1/a2005-42.pdf
+- VB–G RAM G Act 2025, Act 36 of 2025 https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse
+- MoRD/PIB 11 May 2026 commencement and repeal https://www.dord.gov.in/static/uploads/2026/05/6c0a4feea975932109261916ea1fc699.pdf
 - Child and Adolescent Labour Act Labour Ministry https://www.labour.gov.in/static/uploads/2025/06/2e8a5a3a8a785a9a96569af94290aee7.pdf
 - 2013 LARR official statute https://www.indiacode.nic.in/bitstream/123456789/2121/1/A2013-30.pdf
 - Relevant conceptual books NCERT Indian Society; NCERT Social Change and Development in India; Sen Development as Freedom; Dreze and Sen An Uncertain Glory; M.N. Srinivas Social Change in Modern India; Cernea on impoverishment risks.
@@ -928,7 +930,7 @@ Do NOT silently promote unverified original questions to PYQs. Verify contempora
 | Directorate General of Employment, PLFS 2023–24 catalogue (10 October 2024) | Report identity and labour-indicator denominator reasoning | Not a full PLFS table audit |
 | Ministry of Labour and Employment, Child Labour Act and 2016 amendment | Child/adolescent statutory categories and qualified exceptions | Not a complete case-law review |
 | [Telangana State Profile](https://www.telangana.gov.in/About/State-Profile/) | State formation chronology 1956/2014 | No district outcome audit |
-| [MGNREGA portal](https://nrega.nic.in/index.html) | 100-day rural household entitlement | Not proof of delivery |
+| [India Code: VB–G RAM G Act 2025](https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse) and [MoRD/PIB commencement notice, 11 May 2026](https://www.dord.gov.in/static/uploads/2026/05/6c0a4feea975932109261916ea1fc699.pdf) | 125-day eligible rural-household guarantee from 1 July 2026, replacing the repealed MGNREGA 100-day law | Not proof of delivered workdays, wage timeliness or transition quality |
 | [Indian Economic Service urban classification](https://ies.gov.in/arthapedia/concept/urban) | Census-town classification thresholds | Not 2026 town counts |
 | [UN 2030 Agenda](https://sdgs.un.org/2030agenda) | Three integrated sustainable-development dimensions | Not project success evidence |
 | [MoSPI Time Use Survey 2024 factsheet (25 February 2025)](https://www.mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf) | Q18: 81.5% female / 27.1% male all-India unpaid domestic-service participation, persons 6+ | Survey-day participation, not hours or Telangana-specific rates; no microdata reanalysis |
@@ -940,3 +942,6 @@ Do NOT silently promote unverified original questions to PYQs. Verify contempora
 
 **Academic status:** Claim-level review, official syllabus authentication, browser accessibility and named independent expert review remain outstanding; approvals ZERO.
 
+
+
+**Cycle105 source-critical correction (30 October 2026):** The 2005 MGNREGA 100-day entitlement was repealed effective 1 July 2026 and replaced by the 2025 VB–G RAM G Act with a 125-day **rural-household** guarantee, as announced by the Ministry of Rural Development on 11 May 2026. Q10 and affected chapter/mains/source-register statements were updated. Twelve other MCQs had their existing option texts **reordered only** (five B→A, seven B→D) to remove severe key-position bias; no correct answer proposition or distractor proposition was changed. This is an author-side correction, not independent 30-key/90-distractor verification, not official PYQ authentication and not R1–R8 approval.
