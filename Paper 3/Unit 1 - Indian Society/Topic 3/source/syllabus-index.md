@@ -14,7 +14,7 @@
 | Communalism and secularism | Identity politics; Articles 14–16, 25–30; rights and accountability | Section 7 |
 | Corruption | Petty/grand/state capture; PCA 1988/2018; institutional design | Section 8 |
 | Caste conflicts | Graded inequality; dominant caste; atrocity law; land and local power | Section 9 |
-| Agricultural labour | Seasonal wages, landlessness, MGNREGA, gender, worker protection | Section 10 |
+| Agricultural labour | Seasonal wages, landlessness, historical MGNREGA (2005–30 June 2026), current VB–G RAM G (from 1 July 2026), gender and worker protection | Section 10 |
 | Urbanisation | Urban share vs population growth; primacy, informal housing, Musi | Section 11 |
 | Development and displacement | Physical/economic displacement; Cernea; 2013 land acquisition law | Section 12 |
 | Environmental degradation | Water, air, ecology, exposures, legal responsibilities and justice | Section 13 |

@@ -75,14 +75,14 @@ D. that caste determines occupation without change.
 
 **Answer: B.** Dominance can arise through land, numbers, education and political power, not simply ritual prestige.
 
-**10. MGNREGA's basic statutory guarantee is best stated as:**
+**10. As of October 2026, which statement correctly describes India's statutory rural wage-employment guarantee?**
 
-A. 100 days for every individual citizen.  
-B. 100 days of wage employment each financial year to each eligible rural household whose adult members volunteer for unskilled manual work.  
-C. a permanent urban civil-service job.  
-D. a subsidy exclusively for land-owning farmers.
+A. Every adult citizen has an unconditional individual entitlement to 125 days of government work.  
+B. The VB–G RAM G Act 2025, effective 1 July 2026, provides 125 days of wage employment per eligible rural household whose adult members volunteer for unskilled manual work.  
+C. The repealed MGNREGA 2005 still provides the current 100-day guarantee without any statutory replacement.  
+D. The guarantee is restricted to rural households that own agricultural land.
 
-**Answer: B.** Its statutory unit is a rural household, not each individual; this distinction is often missed in mains writing.
+**Answer: B.** The unit is the **eligible rural household**, not every individual (A); the former 100-day MGNREGA framework was repealed from 1 July 2026 (C); landownership is not a condition stated in the guarantee (D). **Source:** Ministry of Rural Development, PIB, 11 May 2026 (PRID 2259773), and Gazette S.O. 2383(E). This is an original practice question, **not an authenticated PYQ**.
 
 **11. Economic displacement can occur when a household:**
 

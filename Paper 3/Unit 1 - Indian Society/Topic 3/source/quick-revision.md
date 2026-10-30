@@ -10,7 +10,7 @@
 - **Communalism:** organised religious antagonism ≠ religious identity; Articles 14, 15, 16, 25–30.
 - **Corruption:** PCA 1988 (amended 2018), Lokpal Act 2013; procurement audit and citizen appeal.
 - **Caste:** Ambedkar graded inequality; Srinivas dominant caste; Article 17, PCR 1955, PoA 1989.
-- **Agricultural labour:** seasonal days, real wages, land, unpaid care; MGNREGA = household 100-day entitlement under the 2005 law.
+- **Agricultural labour:** seasonal days, real wages, land, unpaid care; historical MGNREGA 2005 = 100-day rural-household guarantee; current VB–G RAM G Act 2025 = 125-day rural-household guarantee from 1 July 2026 (not 125 days per individual).
 - **City:** urban growth ≠ urbanisation; GHMC municipal vs HMDA metro planning; Musi is catchment issue.
 - **Displacement:** physical vs economic; Cernea eight impoverishment risks; 2013 LARR law where applicable.
 - **Environment:** exposure ≠ emission; environmental justice means unequal burden recognition.
