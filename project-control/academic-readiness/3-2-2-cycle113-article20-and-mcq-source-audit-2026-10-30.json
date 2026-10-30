@@ -85,7 +85,10 @@
   "independent_approvals": 0,
   "r1_r8_all_pass": false,
   "r9": "NOT_STARTED",
-  "ci_pdf_status": "PENDING",
+  "ci_pdf_status": "SUCCESS",
   "actual_post_ci_artifact_qa": "PENDING",
-  "notes": "Master is source-bounded. Mechanical 30-question validation and balanced answer positions do not certify correctness. Preserve original files and original 75-topic inventory. No claim of archival consultation."
+  "notes": "Master is source-bounded. Mechanical 30-question validation and balanced answer positions do not certify correctness. Preserve original files and original 75-topic inventory. No claim of archival consultation.",
+  "ci_run_id": 41075957635,
+  "ci_pdf_pages": 29,
+  "ci_pdf_sha256": "a14a626791052834b40d267fa8707126e87c2ff69032c4786f2d7a0535792d25"
 }
