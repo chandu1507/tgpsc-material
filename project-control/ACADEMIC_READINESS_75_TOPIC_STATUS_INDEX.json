@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 originals; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS; zero fully R1-R8 ready/approved. Cycle109 3-1-5 five concepts expanded, 6/18 under300, CI/post-edit artifact pending.",
+  "warning": "Exactly 75 originals, 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 normalized R1 PASS, 0 fully R1-R8 ready and 0 independent approvals. Cycle109 3-1-5 five concepts expanded, six under300; 26-page CI PDF and downloaded artifact verified; post-control repackage pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle109 Topic 3-1-5 source-bounded depth expansion: five concepts, under300 11→6/18; 30 original MCQs and six mains preserved; PDF/render and actual artifact QA pending; no approval.",
+  "last_readiness_update": "Cycle109 Topic 3-1-5: 5 concepts expanded, 11→6 under300, 30 original MCQs/six mains preserved, three vector diagrams, 26-page PDF. Actual artifact 12970844174 SHA/CRC/75 originals/links PASS. R9 NOT_STARTED, zero approvals.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-5-cycle109-actual-downloaded-post-layout-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle109-five-concept-primary-source-depth-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-final-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-ci-layout-race-evidence-2026-10-30.json",
