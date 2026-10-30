@@ -212,6 +212,9 @@ For a 200–250-word mains answer use: **Background / constitutional basis → i
 | S16 | Ministry of Health and Family Welfare, National Population Policy 2000, official reprint | Reproductive health and voluntary choice; no unsupported district fertility estimates used. https://mohfw.gov.in/sites/default/files/26953755641410949469%20%281%29.pdf |
 | S17 | Ministry of Rural Development, MGNREGA historical portal (legacy scheme evidence, NOT current legal authority) | Former 100-day guarantee under the repealed 2005 law; do not cite as the operative 2026 entitlement. https://nrega.nic.in/ |
 
+| S18 | India Code, VB–G RAM G Act, 2025, Act 36 of 2025, enacted 20 Dec 2025 | Primary enacted text: 125 days per eligible rural household in each financial year; not 125 days per adult. https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse |
+| S19 | Ministry of Rural Development, PIB 11 May 2026 PRID 2259703 and 1 July 2026 PRID 2279995 | Statutory commencement and MGNREGA repeal effective 1 July 2026; does not establish actual Telangana delivery. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259703&lang=1&reg=1 ; https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2279995&lang=2&reg=48 |
+
 **Current-law evidence:** [S18] India Code, Act 36 of 2025 (125 household-days); [S19] Ministry of Rural Development PIB 11 May and 1 July 2026 (commencement/repeal). See source register for official URLs. Current Telangana implementing orders and district delivery were not independently audited.
 
 **Outstanding audit:** Direct signed Telangana government orders for every current scheme amount, district-wise pension disbursement records, independent scheme impact evaluations, beneficiary appeals datasets, complete original commission question papers and a genuinely independent academic review are not available in this run. The topic must remain **NOT ACADEMICALLY APPROVED**.
