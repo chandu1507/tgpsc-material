@@ -87,7 +87,7 @@ while i<len(tokens):
       in_part_c=('Part C' in inl.content)
       if any(x in inl.content for x in ('Part C', 'Part E', 'Part F', 'Part H')):story.append(PageBreak())
     if tag=='h2' and in_part_c and re.match(r'^\d+\. ', inl.content):
-      story.append(PageBreak())
+      if concept_starts:story.append(PageBreak())
       concept_starts.append(inl.content)
     story.append(Paragraph(val,styles[key]));i+=3;continue
  if t.type=='table_open':current_table=[];i+=1;continue
