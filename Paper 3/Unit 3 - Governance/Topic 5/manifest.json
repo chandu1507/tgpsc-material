@@ -23,7 +23,7 @@
   "total_manuscript_words": 15964,
   "pdf_pages": 31,
   "original_diagrams": 3,
-  "primary_source_register": 22,
+  "primary_source_register": 23,
   "publication": {
     "github_published": true,
     "pdf_published": true,
@@ -83,10 +83,10 @@
     "legacy_pdf_preserved": true
   },
   "file_sha256": {
-    "README.md": "7d041097e1b01c7c3bcbd096600f630a9dfcb6c19e289d04103729575fdf8d69",
+    "README.md": "94bf38df21026514f73bd488deff60a3fe1c5238b7edd73a29bfb7a13cc95a27",
     "complete-notes.pdf": "e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825",
     "index.html": "23738ba17321d7e21ed090f8a09c613c5fc8d5e03ce7377d67ccc2e7b9913200",
-    "source/build_topic.py": "7b82e717758ff0bf2ad7184ac4307f50e79f08b017a791b7a3bb4175321e0259",
+    "source/build_topic.py": "1d383b94d50f523995d67b72b03d8b12279de62a58a039703a9a2a485b9cae68",
     "source/complete-notes.md": "cefc8992635619158f19603d8c2e9d5dc6e772e9b7a4d9f0c6bdace03152ff5e",
     "source/detailed-notes.md": "03e3c8772cd34854fe3c891a007dd5f91adb2091498d1455501897c22ba040de",
     "source/integrated-student-edition-2026-10-27.pdf": "38fd814d8ccb743ee977e49043bdd4383b2eea8b3661cbbd736773aecc9f05ee",
