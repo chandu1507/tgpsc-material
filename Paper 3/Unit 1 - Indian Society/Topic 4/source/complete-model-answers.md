@@ -13,7 +13,7 @@ Land dependence, credit obligations, hereditary service expectations and local p
 Vetti curtailed bargaining power, dignity and opportunities for schooling and alternative work. It also maintained the wider landlord structure by providing cheap services beyond ordinary agriculture.
 
 ### Resistance and law
-The 1946–51 Telangana agrarian struggle challenged forced labour alongside levies and evictions. Article 23 prohibits forced labour; the Bonded Labour System (Abolition) Act, 1976 provides a related statutory protection, though the terms Vetti and bonded labour are not identical.
+The 1946–51 Telangana agrarian struggle challenged forced labour alongside levies and evictions. Article 23 prohibits forced labour. The explanation to section 2(b) of the Bonded Labour System (Abolition) Act, 1976 expressly names Vetti among customary forced-labour forms; section 4 abolishes the bonded-labour system. That express naming is not a shortcut to proving the facts of an individual case.
 
 ### Critical insight
 The examiner should distinguish involuntary service from ordinary low wages and show how caste rank, tenancy and credit generated a coercive bargaining environment. An anti-Vetti answer must specify what changed after agrarian resistance and what present-day accountability mechanisms prevent re-emergence.
