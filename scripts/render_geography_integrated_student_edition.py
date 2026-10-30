@@ -79,7 +79,9 @@ while i<len(tokens):
  if t.type=='heading_open':
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
-    if tag=='h1' and ('Part C' in inl.content or 'Part E' in inl.content):story.append(PageBreak())
+    # Part C begins a new section; do not force a Part E break after the final blueprint.
+    # A forced break left the Q6 blueprint stranded on an almost-empty page.
+    if tag=='h1' and 'Part C' in inl.content:story.append(PageBreak())
     story.append(Paragraph(val,styles[key]));i+=3;continue
  if t.type=='table_open':current_table=[];i+=1;continue
  if t.type=='tr_open':row=[];i+=1;continue
