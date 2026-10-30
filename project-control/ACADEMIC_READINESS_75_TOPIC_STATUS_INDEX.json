@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 topics: 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED, 14 normalized R1 PASS, ZERO fully R1-R8 ready and ZERO independent approvals. Cycle112 Topic 3-2-1 23-page CI PDF rendered; actual post-render downloaded packaging artifact QA PENDING. Do not claim publication integrity from CI success alone.",
+  "warning": "Exactly 75 topics: 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 14 normalized R1 PASS; ZERO fully R1-R8 ready and ZERO independent approvals. Cycle112 actual post-render downloaded artifact SHA/CRC/75 originals/597 local links/1050 fragments PASS; post-evidence package still pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle112 Topic 3-2-1: 8 concepts, 30 original practice MCQs, six mains, original SVG; source-critical 131st Bill vote-denominator contradiction; renderer 41067350363 SUCCESS. Downloaded packaging artifact and independent academic audits PENDING. No academic gate promotions.",
+  "last_readiness_update": "Cycle112 Topic 3-2-1: renderer 41067350363 SUCCESS; downloaded packaging run 41067766053 artifact 12984710066 SHA/CRC/75 original PDFs/597 local links/1050 fragments PASS. Full academic audits and post-evidence packaging pending; no R1-R8 promotion.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-1-cycle112-actual-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-2-1-cycle112-constitutional-arithmetic-and-ci-evidence-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle111-actual-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle111-legacy-statutory-synchronization-2026-10-30.json",
