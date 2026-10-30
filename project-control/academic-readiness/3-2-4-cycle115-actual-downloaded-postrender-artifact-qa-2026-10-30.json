@@ -1,0 +1,69 @@
+{
+  "cycle": 115,
+  "date": "2026-10-30",
+  "topic_id": "3-2-4",
+  "stage": "ACTUAL DOWNLOADED POST-RENDER ARTIFACT QA",
+  "renderer": {
+    "run_id": 41093473197,
+    "status": "SUCCESS",
+    "generated_integrated_pdf_sha256": "87b61658459e69b82f35aa6c1ea863022d1e59a3c5b2436c0a1e4c208544ac4d",
+    "pages": 36
+  },
+  "rejected_early_artifact": {
+    "run_id": 41093473206,
+    "artifact_id": 12994578697,
+    "outer_sha256": "1ab38dd27b287e2f469be64a06974bcde0d6ffe4aae996b7da6917244f993aa7",
+    "reason": "30-question Markdown was packaged with stale 34-page PDF missing Q30; rejected despite successful packaging workflow"
+  },
+  "accepted_artifact": {
+    "run_id": 41093677607,
+    "artifact_id": 12993939939,
+    "downloaded_sha256": "3ab229e5a8350bb085877bd94baa52943283c7b17963cf0e9c7eb56c7181fff9",
+    "github_declared_digest": "sha256:3ab229e5a8350bb085877bd94baa52943283c7b17963cf0e9c7eb56c7181fff9",
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "files": 2055,
+    "original_topic_pdfs": 75,
+    "original_pdfs_unchanged_from_cycle114": 75,
+    "readiness_json": 75,
+    "html_pages": 87,
+    "local_file_links_checked": 597,
+    "broken_local_links": 0,
+    "dom_fragment_links_checked": 1050,
+    "broken_dom_fragments": 0,
+    "spa_hash_routes_excluded": 43
+  },
+  "topic_3_2_4": {
+    "source_and_pdf_synced": true,
+    "integrated_pdf_pages": 36,
+    "integrated_pdf_sha256": "87b61658459e69b82f35aa6c1ea863022d1e59a3c5b2436c0a1e4c208544ac4d",
+    "pdf_blank_pages": 0,
+    "pdf_out_of_bounds_text_blocks": 0,
+    "mcqs": 30,
+    "four_distinct_options_each": true,
+    "student_html_mcqs": 30,
+    "answer_key_distribution": {
+      "A": 7,
+      "B": 8,
+      "C": 7,
+      "D": 8
+    },
+    "six_original_mains_retained": true,
+    "visual_sample_pages": [
+      1,
+      36
+    ],
+    "visual_sample_caveat": "Page 36 source-audit continuation has substantial white space; no clipping observed in sampled pages."
+  },
+  "academic_limits": {
+    "independent_30_key_90_distractor_audit": "PENDING",
+    "independent_six_mains_claim_audit": "PENDING",
+    "current_direct_tgpsc_syllabus_reauthentication": "PENDING",
+    "full_browser_accessibility": "NOT_CERTIFIED",
+    "full_diagram_review": "PENDING",
+    "r1_to_r8_ready": 0,
+    "r9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "next_step": "After merging this QA evidence, repackage from fresh main and download the post-evidence artifact again; do not infer the post-evidence package from the prior run."
+}
