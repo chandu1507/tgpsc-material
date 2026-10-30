@@ -132,6 +132,7 @@ manifest['detailed_concept_chapters']=len(matches)
 manifest['total_manuscript_words']=len(md.split())
 manifest['original_diagrams']=3
 manifest['original_mcqs']=mcq_count
+manifest['primary_source_register']=23
 manifest['mains_answers']=6
 import fitz
 manifest['integrated_pdf_pages']=len(fitz.open(SRC/'integrated-student-edition-2026-10-27.pdf'))

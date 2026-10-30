@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-3-4",
+    "last_reported_topic": "3-3-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle120 actual downloaded artifact 13014309058 verified: 15 concepts, 30 practice MCQs, 39-page synchronized PDF; 75 originals unchanged. Academic approvals ZERO; R1-R8 not complete."
+    "note": "Cycle121 Topic 3-3-5: 19 concepts, 30 original practice MCQs, 39-page synchronized PDF, actual downloaded post-render artifact 13018274118 verified. Exactly 75 original topic PDFs unchanged. Academic approvals ZERO; R1-R8 not complete."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -375,8 +375,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle34_integrated_pdf_rendered_and_actual_github_artifact_verified_academic_rebuild_pending",
-      "notes": "27 Oct Cycle34: original 31-page PDF SHA256 e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825 preserved. 18 explanatory concepts 399–575 words, 25 original practice MCQs, 15 revised in place (A10/B5/C5/D5), six mains body-only counts 204/220/227/212/222/237, three original diagrams, dated bounded government-source checks. New deterministic renderer and synchronized edition in progress; R1/R4/R5/R6/R8 NOT PASS; no independent approval. CI 36-page PDF SHA256 3d0785bd3facd5e1726b08d8a99d13117e2b7ccd069d978669e36c84347a731d; packaging artifact 12721128624 actually downloaded: 1583 files, 75 original PDFs unchanged, 416 local links/688 fragments zero broken, CRC PASS. R8 IN_PROGRESS; academic review still incomplete.",
+      "production_review": "cycle121_rti_remedies_source_checked_ci_pdf_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "27 Oct Cycle34: original 31-page PDF SHA256 e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825 preserved. 18 explanatory concepts 399–575 words, 25 original practice MCQs, 15 revised in place (A10/B5/C5/D5), six mains body-only counts 204/220/227/212/222/237, three original diagrams, dated bounded government-source checks. New deterministic renderer and synchronized edition in progress; R1/R4/R5/R6/R8 NOT PASS; no independent approval. CI 36-page PDF SHA256 3d0785bd3facd5e1726b08d8a99d13117e2b7ccd069d978669e36c84347a731d; packaging artifact 12721128624 actually downloaded: 1583 files, 75 original PDFs unchanged, 416 local links/688 fragments zero broken, CRC PASS. R8 IN_PROGRESS; academic review still incomplete. Cycle121: added RTI complaint/appeal/penalty analysis and five source-correlated original MCQs; 30 total, 39-page CI PDF, original PDF preserved; full independent MCQ/mains audit and expert approval pending.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-3-5.json",
       "latest_readiness_evidence": "project-control/academic-readiness/3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json"
