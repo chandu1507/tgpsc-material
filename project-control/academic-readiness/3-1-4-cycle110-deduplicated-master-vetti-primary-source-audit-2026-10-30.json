@@ -1,0 +1,93 @@
+{
+  "topic_id": "3-1-4",
+  "cycle": 110,
+  "date": "2026-10-30",
+  "academic_approval": "NONE",
+  "stage": "AUTHOR_SIDE_SOURCE_CORRECTION_AND_INTEGRATED_CI_PENDING",
+  "preservation": {
+    "exact_original_topic_count": 75,
+    "original_topic_3_1_4_pdf_sha256": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3",
+    "original_pdf_modified": false
+  },
+  "integrated_master": {
+    "path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+    "sha256": "5a82f451edb6108e0a6199ff3f91fb5a84d95e99a67c8efe020b6cdbb80a5cae",
+    "source": "Existing 2026-10-25 depth repair + 30 original MCQs + six revised mains, each included once, legacy archive preserved separately",
+    "approx_words": 8054,
+    "numbered_concept_sections": 8,
+    "original_four_option_mcqs": 30,
+    "mains_answers": 6,
+    "vector_diagrams": 2,
+    "authenticated_official_pyqs": 0
+  },
+  "material_correction": {
+    "claim": "The official 1976 Bonded Labour System (Abolition) Act explicitly names Vetti in the explanation to section 2; section 4 abolishes the bonded-labour system. The historical description and case-level legal elements must still be distinguished.",
+    "locations": [
+      "Part A statutory precision",
+      "Original-practice MCQ Q4 explanation",
+      "First structured mains answer",
+      "Dated source register"
+    ],
+    "primary_source": "https://www.indiacode.nic.in/bitstream/123456789/15997/1/the_bonded_labour_system_%28abolition%29_act%2C_1976.pdf"
+  },
+  "bounded_source_checks": [
+    {
+      "question": 4,
+      "status": "AUTHOR_SIDE_PRIMARY_TEXT_CHECK",
+      "source": "India Code Act 19 of 1976 sections 2 and 4",
+      "claim": "Vetti expressly named; case-level elements still required"
+    },
+    {
+      "question": 6,
+      "status": "AUTHOR_SIDE_PRIMARY_TEXT_CHECK",
+      "source": "Telangana Act 10 of 1988 section 2(b)",
+      "claim": "Jogini included in Devadasi definition"
+    },
+    {
+      "question": 7,
+      "status": "AUTHOR_SIDE_PRIMARY_TEXT_CHECK",
+      "source": "Telangana Act 10 of 1988 section 3(1)",
+      "claim": "Dedication unlawful and void regardless of purported consent"
+    },
+    {
+      "question": 13,
+      "status": "AUTHOR_SIDE_OFFICIAL_DISTRICT_PAGE_CHECK",
+      "source": "Nalgonda district administration",
+      "claim": "DFMC established 14 November 2013"
+    },
+    {
+      "question": 14,
+      "status": "AUTHOR_SIDE_OFFICIAL_DGHS_PAGE_CHECK",
+      "source": "DGHS NPPCF last updated 17 April 2025",
+      "claim": "Desirable fluoride concentration 1.0 mg/L"
+    }
+  ],
+  "local_prepublication_pdf": {
+    "pages": 18,
+    "sha256": "2bdae18b40f3016ef3f72889a58de005dc0ca853fc667efc5663ca1d3f962174",
+    "drawn_vector_figures": 2,
+    "no_blank_pages": true,
+    "full_browser_accessibility_certified": false,
+    "status": "LOCAL_CANDIDATE_ONLY_NOT_GITHUB_ARTIFACT"
+  },
+  "open_gaps": [
+    "No independent expert verification of all 30 keys and 90 distractors",
+    "No independent claim-level verification of six mains",
+    "No authenticated official PYQs",
+    "Direct R1 syllabus authentication not complete",
+    "Detailed historical archival records not obtained",
+    "No full browser/screen-reader accessibility testing",
+    "Post-merge CI PDF and downloaded artifact SHA/CRC/links must be verified"
+  ],
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "BLOCKED",
+    "R9": "NOT_STARTED"
+  }
+}
