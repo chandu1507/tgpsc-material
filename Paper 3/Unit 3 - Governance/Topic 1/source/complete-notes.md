@@ -4,7 +4,7 @@
 
 **ACADEMIC STATUS: NOT APPROVED.** Original practice MCQs and mains answers only; no verified official PYQ claim.
 
-**Reader's guide:** Read the syllabus map first, then the 13 detailed chapters. Use the diagrams, revision sheets, 25 explained MCQs and six structured mains answers for consolidation. Official and primary-source links appear in the evidence register.
+**Reader's guide:** Read the syllabus map first, then the 13 detailed chapters. Use the diagrams, revision sheets, 30 explained MCQs and six structured mains answers for consolidation. Official and primary-source links appear in the evidence register.
 
 
 # Syllabus map and topic summary
@@ -467,7 +467,7 @@ MeeSeva = integrated G2C/G2B delivery with assisted centres; T-App Folio = mobil
 **Original practice only:** No question in this chapter is represented as a verified official previous-year question.
 
 
-# 25 original practice MCQs with explanations
+# 30 original practice MCQs with explanations
 
 **Status:** All questions below are original study questions. None is labelled or represented as a verified official previous-year question.
 
@@ -646,6 +646,41 @@ C. Rule 4 takes effect after eighteen months, while Rules 17–21 take effect af
 D. Rules 1, 2 and 17–21 took effect on publication; Rule 4 is deferred one year, and Rules 3, 5–16, 22 and 23 eighteen months.  
 **Answer: D.** Gazette G.S.R. 846(E), dated 13 November 2025, Rule 1(2)–(4) specifies these three commencement groups [S20]. The Act's commencement notifications must be examined separately; the question concerns the Rules, not every obligation under the Act.
 
+### Q26. Under Article 151(1), which sequence correctly describes submission of the CAG's Union audit reports?
+A. The CAG submits them to the President, who causes them to be laid before each House of Parliament.  
+B. The CAG sends them only to the Supreme Court for approval.  
+C. The Finance Commission submits them to the Governor for state legislative approval.  
+D. The Public Accounts Committee must first approve them before they can be laid before Parliament.  
+**Answer: A.** Article 151(1) specifies submission of Union-account audit reports to the President and laying before both Houses. B is wrong because the Supreme Court is not the constitutional recipient; C confuses the Finance Commission and State pathway; D confuses subsequent parliamentary scrutiny with a prerequisite for tabling. [S21]
+
+### Q27. Which constitutional route can extend the functions of the Union or State Public Service Commission to specified additional services?
+A. An unpublished administrative instruction from any district collector.  
+B. An Act of Parliament or, as applicable, a State Legislature under Article 321.  
+C. An order issued solely by the Public Accounts Committee.  
+D. A resolution of the National Human Rights Commission automatically binding both commissions.  
+**Answer: B.** Article 321 permits extension by an Act of the appropriate legislature, including for certain local authorities and public institutions. A lacks the legislative route; C describes a parliamentary scrutiny committee, not the Article 321 lawmaker; D confuses a statutory human-rights commission with a legislature. [S21]
+
+### Q28. Under Article 281, what must be laid before each House of Parliament in relation to Finance Commission recommendations?
+A. Only the Finance Commission chairperson's appointment order.  
+B. Only the Union Budget speech, without recommendations.  
+C. Every recommendation together with an explanatory memorandum as to action taken thereon.  
+D. The State Election Commission's annual election expenditure statement.  
+**Answer: C.** Article 281 requires the President to cause every Finance Commission recommendation and an explanatory memorandum on action taken to be laid before both Houses. A and B omit the mandated documents; D concerns a different institution. This is a laying requirement, not automatic acceptance of every recommendation. [S21]
+
+### Q29. How does Article 322 treat the expenses of the Union and State Public Service Commissions?
+A. Both are paid exclusively from the Contingency Fund of India.  
+B. Both depend on discretionary donations from candidates.  
+C. The Union Commission is paid only from State Consolidated Funds.  
+D. UPSC expenses are charged on the Consolidated Fund of India; State Commission expenses on the corresponding State Consolidated Fund.  
+**Answer: D.** Article 322 charges expenses, including specified salaries, allowances and pensions, on the relevant Consolidated Fund. A incorrectly substitutes the Contingency Fund; B invents a donation basis; C reverses the Union-State allocation. 'Charged' does not mean the Commission can spend without lawful budget processes. [S21]
+
+### Q30. Which account of UPSC's annual reporting duty is consistent with Article 323(1)?
+A. UPSC reports annually to the President; the President causes the report and, where applicable, a memorandum explaining non-acceptance of advice to be laid before each House.  
+B. UPSC reports only to the Chief Justice and its advice is always legally binding.  
+C. UPSC reports to each District Collector, who must table it in the State Assembly.  
+D. UPSC reports only to the Election Commission, which can suppress it indefinitely.  
+**Answer: A.** Article 323(1) identifies the President as the recipient of UPSC's annual report and requires parliamentary laying with reasons for any non-acceptance of advice. B falsely treats advice as invariably binding; C confuses Union and State institutions; D substitutes the Election Commission and ignores the reporting duty. [S21]
+
 
 # Six original mains practice questions and model answers
 
@@ -809,6 +844,7 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 | S17 | MeitY, Annual Report 2025–26 / DPDP Rules 2025 | DPDP Act 2023, Rules notified Nov 2025, phased implementation |
 | S18 | Lok Sabha Digital Sansad, Parliamentary Committees introduction | Estimates 30 LS; PAC/COPU 22; DRSC composition |
 | S19 | Lok Sabha Digital Sansad, Public Accounts Committee introduction | PAC ex-post role and opposition-chair convention |
+| S21 | Legislative Department, Ministry of Law and Justice, Constitution of India (as on 11 November 2025), Articles 151, 281, 321, 322 and 323 | Direct constitutional text for new original practice MCQs Q26-Q30; each key and three distractor explanations author-side checked, not independently certified. |
 | S20 | Ministry of Electronics and Information Technology, Gazette G.S.R. 846(E), dated 13 November 2025, Digital Personal Data Protection Rules, 2025, Rule 1(2)–(4) | Three different commencement groups: immediate Rules 1, 2, 17–21; Rule 4 after one year; Rules 3, 5–16, 22–23 after eighteen months. Verified from Gazette text on 27 October 2026. Does not by itself establish separate commencement of Act sections. |
 
 ## Source links
@@ -832,6 +868,7 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 - [S17] https://www.meity.gov.in/static/uploads/2026/04/46face7d48c8f6a97030f713ad5fdab4.pdf
 - [S18] https://sansad.in/ls/committee/introduction
 - [S20] https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf
+- [S21] https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf
 - [S19] https://sansad.in/ls/committee/financial-committees/26-Public%20Accounts-nameH%3D%E0%A4%B2%E0%A5%8B%E0%A4%95%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%20%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF
 
 ## Internal fact-check notes and unresolved audit tasks
@@ -844,4 +881,8 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 - DPDP Rules notification is checked against MeitY's 2025–26 annual report; commencement is not overclaimed.
 - No MCQ or mains question is represented as a verified official PYQ. All are original practice.
 - **Still required for academic approval:** expert verification of all constitutional/statutory interpretations; independent audit of every factual assertion and case-law nuance; checking latest amendments and implementation status; proofreading and question-key validation by a subject specialist. Approval remains **zero**.
+
+## Cycle 117 bounded constitutional-text checks (31 October 2026)
+
+Original practice questions Q26-Q30 were added to the existing 25, without representing any as official PYQs. Their answers and 15 incorrect alternatives were checked by the author against [S21]: Q26 Article 151(1) (Union CAG audit-report route); Q27 Article 321 (legislative extension of Public Service Commission functions); Q28 Article 281 (Finance Commission recommendations and explanatory memorandum); Q29 Article 322 (charged expenditure for UPSC/State PSC); Q30 Article 323(1) (UPSC annual report and reasons for advice not accepted). Each question explains why each of its three distractors is incorrect. This is a **bounded text correspondence**, not an independent complete audit of the 30 questions, 90 distractors, six mains answers or every constitutional interpretation. Current syllabus reauthentication, visual/browser accessibility, and named expert review remain pending; R1–R8 are not fully PASS and R9 remains NOT_STARTED.
 
