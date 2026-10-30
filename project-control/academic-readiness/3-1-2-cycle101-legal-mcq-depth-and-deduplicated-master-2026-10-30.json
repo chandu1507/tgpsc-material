@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-30",
+  "cycle": 101,
+  "topic_id": "3-1-2",
+  "title": "Social Exclusion and Vulnerable Groups",
+  "base_main_sha": "973a186fb1ca715a91010cb10298b10962d26ba2",
+  "reconciliation": {
+    "per_topic_records": 75,
+    "status_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "r1_pass_normalized": 14,
+    "original_complete_notes_pdfs": 75,
+    "all_r1_to_r8_ready": 0,
+    "independent_academic_approvals": 0,
+    "library_folder_checked": "/Mounika",
+    "prior_cycle100_folder_exists": true,
+    "last_successful_package_run_at_reconciliation": 40988914560,
+    "original_topic_pdf_sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921"
+  },
+  "changes": {
+    "concepts_total": 23,
+    "under_300_before": 22,
+    "under_300_after": 18,
+    "expanded_existing_concepts": [
+      7,
+      12,
+      13,
+      14
+    ],
+    "original_practice_mcqs_before": 10,
+    "after": 25,
+    "added_questions": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "added_question_key_order": "DCDABDACDBADCBA",
+    "each_new_question_has_four_options": true,
+    "each_new_question_has_key_and_three_distractor_rationales": true,
+    "existing_mains_answer_count": 6,
+    "integrated_mains_duplicate_removed": true,
+    "original_vector_diagrams_added": 2,
+    "integrated_master": "Paper 3/Unit 1 - Indian Society/Topic 2/source/integrated-student-edition-2026-10-30.md",
+    "pdf_renderer": "scripts/render_topic_3_1_2_cycle101.py",
+    "ci_workflow": ".github/workflows/render-topic-3-1-2-cycle101.yml",
+    "ci_pdf_status": "PENDING_MERGE_AND_RUN",
+    "integrated_master_contains_separate_depth_repair": false,
+    "depth_repair_remains_preserved_for_editorial_reconciliation": true
+  },
+  "source_correspondence": [
+    {
+      "id": "S01",
+      "question_ids": [
+        12,
+        13,
+        14
+      ],
+      "authority": "India Code FRA 2006, Ministry of Tribal Affairs FRA division",
+      "urls": [
+        "https://www.indiacode.nic.in/bitstream/123456789/2070/1/200702.pdf",
+        "https://tribal.gov.in/about/divisions/fra"
+      ],
+      "scope": "FRA rights and claims process"
+    },
+    {
+      "id": "S02",
+      "question_ids": [
+        11,
+        15
+      ],
+      "authority": "India Code PESA 1996",
+      "urls": [
+        "https://www.indiacode.nic.in/bitstream/123456789/1973/1/A1996-40.pdf"
+      ],
+      "scope": "Scheduled Areas and Gram Sabha development-plan role",
+      "access": "Search text; full official PDF direct open returned invalid/timeout"
+    },
+    {
+      "id": "S03",
+      "question_ids": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "authority": "India Code RPwD Act 2016",
+      "urls": [
+        "https://www.indiacode.nic.in/handle/123456789/13684",
+        "https://www.indiacode.nic.in/bitstream/123456789/13684/1/a2016-49_act.pdf"
+      ],
+      "scope": "Sections 23,31,32,34,40",
+      "access": "Official index and search snippets; full PDF direct open timed out"
+    },
+    {
+      "id": "S04",
+      "question_ids": [
+        21,
+        22
+      ],
+      "authority": "India Code RTE 2009 and Ministry of Education rationale",
+      "urls": [
+        "https://www.indiacode.nic.in/bitstream/123456789/15938/1/the_right_of_children_to_free_and_compulsory_education_act%2C_2009.pdf",
+        "https://dsel.education.gov.in/sites/default/files/rte/RTE_Section_wise_rationale_rev_0.pdf"
+      ],
+      "scope": "Sections 13,14"
+    },
+    {
+      "id": "S05",
+      "question_ids": [
+        23
+      ],
+      "authority": "India Code POCSO 2012 and NCPCR index",
+      "urls": [
+        "https://www.indiacode.nic.in/bitstream/123456789/2079/1/AA2012-32.pdf",
+        "https://ncpcr.gov.in/ncpcr_new/public/POCSO"
+      ],
+      "scope": "Child under 18"
+    },
+    {
+      "id": "S06",
+      "question_ids": [
+        24,
+        25
+      ],
+      "authority": "India Code Senior Citizens Act 2007",
+      "urls": [
+        "https://www.indiacode.nic.in/bitstream/123456789/2033/1/200756.pdf"
+      ],
+      "scope": "Sections 4,5",
+      "access": "Official PDF search excerpts; full PDF direct open timed out"
+    }
+  ],
+  "review_limits": [
+    "Source correspondence is author-side bounded checking, not independent item certification",
+    "Original MCQs 1–10 not rechecked here",
+    "Six mains claim-level independent review not done",
+    "R1 official syllabus clause requires direct authenticated primary PDF access",
+    "18/23 numbered explanations remain mechanically under 300 words",
+    "Standalone repair not fully reconciled with numbered concept content",
+    "CI PDF, actual downloaded artifact, link QA and browser accessibility pending",
+    "No official PYQ wording or archival consultation claimed"
+  ],
+  "r9": {
+    "eligible": false,
+    "named_independent_expert": null,
+    "approval_count": 0
+  }
+}
