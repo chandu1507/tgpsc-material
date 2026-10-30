@@ -9,7 +9,7 @@
     "last_reported_topic": "3-1-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle110 3-1-4 integrated source-corrected master; local PDF candidate; GitHub Actions renderer and downloaded packaging artifact pending. No independent academic approval."
+    "note": "Cycle111 eight legacy Topic 3-1-4 files synchronized with statutory express naming of Vetti; 75 originals preserved, no independent academic approval. Post-merge downloaded artifact QA pending."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -242,8 +242,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle110_deduplicated_source_critical_integrated_master_ci_pending",
-      "notes": "Cycle110 coherent 8,054-word master preserving legacy and original PDF: eight substantive numbered concepts, 30 original four-option MCQs, six revised mains, two original vector diagrams. Official India Code Act 19/1976 explicitly names Vetti in section 2 explanation; Q4, mains and source register corrected. Local 18-page PDF candidate SHA 2bdae18b...; post-merge CI PDF and actual Actions artifact QA pending. Independent keys/distractors/mains and accessibility incomplete. R1-R8 not ready, R9 NOT_STARTED, approvals ZERO.",
+      "production_review": "cycle111_legacy_vetti_statutory_sync_artifact_qa_pending",
+      "notes": "Cycle110 coherent 8,054-word master preserving legacy and original PDF: eight substantive numbered concepts, 30 original four-option MCQs, six revised mains, two original vector diagrams. Official India Code Act 19/1976 explicitly names Vetti in section 2 explanation; Q4, mains and source register corrected. Local 18-page PDF candidate SHA 2bdae18b...; post-merge CI PDF and actual Actions artifact QA pending. Independent keys/distractors/mains and accessibility incomplete. R1-R8 not ready, R9 NOT_STARTED, approvals ZERO. Cycle111: eight legacy source/HTML files aligned with India Code section 2(b) expressly naming Vetti; sections 4/5 clarified, individual-case proof not presumed. Integrated master/PDF unchanged; post-merge artifact QA pending; no academic approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-4.json",
       "latest_readiness_evidence": "project-control/academic-readiness/3-1-4-cycle26-objective-and-eight-mcq-source-correspondence-2026-10-27.json"

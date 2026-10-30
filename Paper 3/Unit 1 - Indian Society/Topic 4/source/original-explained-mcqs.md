@@ -27,7 +27,7 @@ A. Companies Act, 2013
 B. Bonded Labour System (Abolition) Act, 1976
 C. Indian Forest Act, 1927
 D. Official Languages Act, 1963
-**Answer: B.** The 1976 Act addresses bonded labour obligations and associated debt, although the historical term Vetti is not an exact statutory synonym.
+**Answer: B.** The Act abolishes bonded labour (section 4) and expressly names Vetti in the explanation to section 2(b). Other options do not provide that framework; the statutory mention does not establish facts of any individual case.
 
 ## 5. Why is rehabilitation needed after release from coercive labour?
 A. Dependence and threats can reproduce coercion
