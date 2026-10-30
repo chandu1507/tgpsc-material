@@ -58,8 +58,8 @@
     },
     {
       "path": "source/complete-notes.md",
-      "bytes": 107743,
-      "sha256": "59bd6cf918f0ed6b4ef4145b97de7259d727444463f64d16fcd3be29686548f6"
+      "bytes": 113286,
+      "sha256": "840816430e3d561a14caa6e602cef92f8eedce1432a248611aa6d8ffd22d4b28"
     },
     {
       "path": "source/detailed-notes.md",
@@ -73,8 +73,8 @@
     },
     {
       "path": "source/original-mcqs.md",
-      "bytes": 11227,
-      "sha256": "baf83840aacc4a683a57e7fd9fc457ff3ebe1a9044b5c581e69764690a7a2ec2"
+      "bytes": 14926,
+      "sha256": "b27de20a211c68dc032d0b6fc3b5eff58bdeaf01d7f5af6fcd8b131dbe971ab7"
     },
     {
       "path": "source/quick-revision.md",
@@ -83,8 +83,8 @@
     },
     {
       "path": "source/sources-and-audit.md",
-      "bytes": 7846,
-      "sha256": "ffb3b8ca4d8860aa933710ebe8495fa58631b7a827655323d42daa9de4c73922"
+      "bytes": 9690,
+      "sha256": "020d4177c74229005bae0a636653489abac4692ae32eb47f3b1d04f50d1d7f67"
     },
     {
       "path": "source/syllabus-and-summary.md",
@@ -103,8 +103,8 @@
     },
     {
       "path": "source/integrated-student-edition-2026-10-27.pdf",
-      "bytes": 164300,
-      "sha256": "bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05"
+      "bytes": 168260,
+      "sha256": "ed626f1a97c2f9f7520894d4dac7a1d715ee1f64a3fef8389450fbe0859fa770"
     }
   ],
   "github_branch": "topic-archive/p3-u2-t3-20261023",
@@ -112,6 +112,6 @@
   "github_full_pdf_included": false,
   "github_publication_verified": true,
   "status": "ASSESSED_REBUILD_REQUIRED; not academically approved",
-  "markdown_words": 14954,
+  "markdown_words": 15772,
   "sources_primary_and_secondary": 12
 }

@@ -1,8 +1,8 @@
 {
   "file": "Paper 3/Unit 2 - Constitution of India/Topic 3/source/integrated-student-edition-2026-10-27.pdf",
-  "pages": 32,
-  "sha256": "bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05",
-  "pdf_text_words": 15272,
+  "pages": 33,
+  "sha256": "ed626f1a97c2f9f7520894d4dac7a1d715ee1f64a3fef8389450fbe0859fa770",
+  "pdf_text_words": 16091,
   "page_text_lengths": [
     2199,
     3456,
@@ -29,13 +29,14 @@
     2351,
     2474,
     2227,
-    3158,
-    3754,
-    3791,
-    3545,
-    3379,
-    3251,
-    490
+    2752,
+    3536,
+    3888,
+    3927,
+    3504,
+    3166,
+    3067,
+    2991
   ],
   "pages_with_no_text": []
 }
