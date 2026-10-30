@@ -28,9 +28,10 @@
   },
   "evidence": [
     "project-control/academic-readiness/3-1-5-cycle27-objective-and-five-mcq-source-review-2026-10-27.json",
-    "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json"
+    "project-control/academic-readiness/3-1-5-cycle27-actual-downloaded-artifact-qa-2026-10-27.json",
+    "project-control/academic-readiness/3-1-5-cycle107-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Verify new post-render packaging artifact by actual download, CRC/SHA/75 original PDFs, 75 readiness JSON, offline links and CI PDF sha e303f295; independent academic audit still required.",
+  "next_action": "Substantively expand 15 shallow concepts, independently verify all 30 original MCQ keys and 90 distractors and six mains, review SVG diagrams and direct Telangana implementation, full browser/accessibility; do not promote R8/R9.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -89,6 +90,30 @@
     "initial_packaging_run": 41030278434,
     "initial_artifact_id": 12964709947,
     "initial_artifact_status": "REJECTED_STALE_PDF_SHA_c773a351_vs_e303f295",
-    "actual_final_artifact_qa": "PENDING"
+    "actual_final_artifact_qa": "PASS_ACTUALLY_DOWNLOADED",
+    "actual_verified_artifact": {
+      "packaging_run_id": 41030530762,
+      "artifact_id": 12965965409,
+      "sha256": "a1a0bca1d41bfba7ef49d1cb13172bd0153e90ddb2cdaa27ed36e5c249c1b439",
+      "actually_downloaded": true,
+      "outer_crc": "PASS",
+      "inner_crc": "PASS",
+      "files": 2016,
+      "original_pdfs": 75,
+      "originals_unchanged": true,
+      "readiness_json": 75,
+      "html_pages": 87,
+      "local_file_links": 554,
+      "dom_fragments": 1050,
+      "spa_routes_excluded": 43,
+      "broken_links": 0,
+      "broken_fragments": 0,
+      "integrated_pdf_sha256": "e303f295ca83e1e685ba0c3bb06535bbef314a28923e9efc733ce5309ea9582d",
+      "integrated_pdf_pages": 23,
+      "original_topic_pdf_sha256": "01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01"
+    },
+    "concepts_below_300": 15,
+    "r8": "IN_PROGRESS",
+    "r9": "NOT_STARTED"
   }
 }

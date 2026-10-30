@@ -1,0 +1,48 @@
+{
+  "cycle": 107,
+  "date": "2026-10-30",
+  "topic": "3-1-5",
+  "source": "ACTUAL downloaded GitHub Actions artifact",
+  "artifact": {
+    "packaging_run_id": 41030530762,
+    "artifact_id": 12965965409,
+    "sha256": "a1a0bca1d41bfba7ef49d1cb13172bd0153e90ddb2cdaa27ed36e5c249c1b439",
+    "actually_downloaded": true,
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "files": 2016,
+    "original_pdfs": 75,
+    "originals_unchanged": true,
+    "readiness_json": 75,
+    "html_pages": 87,
+    "local_file_links": 554,
+    "dom_fragments": 1050,
+    "spa_routes_excluded": 43,
+    "broken_links": 0,
+    "broken_fragments": 0,
+    "integrated_pdf_sha256": "e303f295ca83e1e685ba0c3bb06535bbef314a28923e9efc733ce5309ea9582d",
+    "integrated_pdf_pages": 23,
+    "original_topic_pdf_sha256": "01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01"
+  },
+  "original_topic_count": 75,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "r1_pass": 14,
+  "fully_r1_r8_ready": 0,
+  "independent_approvals": 0,
+  "integrated_master": {
+    "concepts": 18,
+    "under_300_words": 15,
+    "mcqs": 30,
+    "mains": 6,
+    "primary_law_sources_S18_S19": true
+  },
+  "no_official_pyq_claim": true,
+  "academic_status": "NOT_APPROVED",
+  "browser_accessibility": "NOT_CERTIFIED",
+  "independent_claim_audit": "INCOMPLETE",
+  "r9": "NOT_STARTED"
+}
