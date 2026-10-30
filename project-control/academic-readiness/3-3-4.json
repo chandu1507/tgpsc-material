@@ -1,7 +1,7 @@
 {
   "topic_id": "3-3-4",
   "title": "Development Debates; State and Market; Civil Society, SHGs, PPP and CSR",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -24,10 +24,10 @@
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle33 individual source/PDF/MCQ/mains inventory, bounded primary-source correspondence and preserved-original hashes; see project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json. No complete R1–R8 verification.",
-  "next_action": "Complete direct syllabus comparison, all MCQ keys and distractors, six mains claim audits, diagram review and accessible synchronized publication; do not claim R9.",
+  "evidence": "Cycle120 actual downloaded post-render artifact verified; see project-control/academic-readiness/3-3-4-cycle120-actual-downloaded-post-render-artifact-qa-2026-10-31.json. No complete R1-R8 verification.",
+  "next_action": "Authenticate direct official syllabus; independently check all 30 keys and 90 distractors, six mains claim-level, Telangana policy, diagrams, full browser accessibility and named expert. No R9 until R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_cycle33": {
@@ -55,6 +55,29 @@
     "source_check_scope": "Existing source register inspected; no complete independent question verification",
     "r1_direct_official_pdf_verified": false,
     "integrated_pdf": "not generated",
+    "independent_approval": false
+  },
+  "objective_cycle120": {
+    "concepts": 15,
+    "original_practice_mcqs": 30,
+    "mcq_answer_distribution": {
+      "A": 6,
+      "B": 9,
+      "C": 12,
+      "D": 3
+    },
+    "mains_answers": 6,
+    "integrated_pdf_pages": 39,
+    "integrated_pdf_sha256": "9f3fe8e55ae56b5377ce0e7b7d1b3f0e4fbae0b1df36983eefc3560137b40ab9",
+    "original_pdf_sha256": "0d4fb8463bbced10bc1f481020e9b2350f77ae646f1c0dcdd910781a33a98a63",
+    "original_pdf_preserved": true,
+    "new_mcq_keys_author_side_primary_checked": 5,
+    "new_mcq_distractors_author_side_primary_checked": 15,
+    "older_mcqs_full_independent_audit_pending": true,
+    "all_six_mains_independent_claim_audit_pending": true,
+    "offline_static_links_checked": 1399,
+    "broken_static_links": 0,
+    "full_browser_accessibility_certified": false,
     "independent_approval": false
   }
 }

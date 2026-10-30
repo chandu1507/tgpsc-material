@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-31",
+  "cycle": 120,
+  "topic_id": "3-3-4",
+  "scope": "ACTUAL downloaded GitHub Actions artifact after corrected source HTML and successful CI render",
+  "github": {
+    "renderer_run_id": 41134861889,
+    "renderer_conclusion": "success",
+    "packaging_run_id": 41134900164,
+    "packaging_conclusion": "success",
+    "artifact_id": 13014309058,
+    "artifact_sha256": "20d2d9ec3c1935edea856a024c412d8abca4dd2dfbedc3086d4d58e27eb9bc5f",
+    "artifact_digest_match": true
+  },
+  "archive": {
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "files": 2076,
+    "original_topic_pdfs": 75,
+    "all_original_pdf_sha256_unchanged_vs_cycle119": true,
+    "readiness_json": 75,
+    "html_pages": 88,
+    "local_links_checked": 1399,
+    "broken_local_links": 0,
+    "dom_fragments_checked": 1028,
+    "broken_dom_fragments": 0,
+    "spa_routes_excluded": 43
+  },
+  "topic": {
+    "original_pdf_sha256": "0d4fb8463bbced10bc1f481020e9b2350f77ae646f1c0dcdd910781a33a98a63",
+    "original_pdf_preserved": true,
+    "integrated_pdf_pages": 39,
+    "integrated_pdf_sha256": "9f3fe8e55ae56b5377ce0e7b7d1b3f0e4fbae0b1df36983eefc3560137b40ab9",
+    "integrated_master_sha256": "e2d15e4ef4661453f740ff61ea8902b3fa8b2802a7c8fcf7691b447e0b592ab2",
+    "manifest_hashes_checked": 7,
+    "manifest_hashes_match": true,
+    "blank_pdf_pages": 0,
+    "pdf_out_of_bounds_blocks": 0,
+    "concepts": 15,
+    "original_practice_mcqs": 30,
+    "mains_answers": 6,
+    "new_mcq_keys_author_checked": 5,
+    "new_distractors_author_checked": 15,
+    "old_mcqs_independently_audited": 0,
+    "mains_independently_claim_audited": 0,
+    "official_pyqs_verified": 0
+  },
+  "readiness": {
+    "in_progress": 7,
+    "assessed_rebuild_required": 68,
+    "not_assessed": 0,
+    "normalized_R1_PASS": 14,
+    "fully_R1_R8_PASS": 0,
+    "independent_academic_approvals": 0,
+    "R9": "NOT_STARTED"
+  },
+  "limitations": [
+    "Source HTML relative links corrected and static links tested; direct browser/screen-reader usability not certified",
+    "Primary Commission-hosted syllabus full text not authenticated",
+    "Five new MCQ keys and 15 distractors checked author-side; 25 existing keys, all older distractors and all six mains still need independent claim-level checks",
+    "No named independent expert; no academic approval"
+  ],
+  "publication_is_academic_approval": false
+}

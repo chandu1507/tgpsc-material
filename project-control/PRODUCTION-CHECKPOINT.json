@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-3-3",
+    "last_reported_topic": "3-3-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle119 actual downloaded artifact 13010777901 verified, 15 concepts, 30 original practice MCQs, 42-page synchronized PDF; 75 original PDFs preserved. Academic approvals ZERO; independent MCQ/mains, direct syllabus and accessibility pending."
+    "note": "Cycle120 actual downloaded artifact 13014309058 verified: 15 concepts, 30 practice MCQs, 39-page synchronized PDF; 75 originals unchanged. Academic approvals ZERO; R1-R8 not complete."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -363,8 +363,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle33_objective_gap_assessment_author_side_not_approved",
-      "notes": "14 concepts 459–633 words; 25 MCQs; 6 mains bodies 233/234/230/237/236/244; 35-page original PDF preserved, existing visuals not independently verified. Academic R1–R8 not fully passed; no independent approval.",
+      "production_review": "cycle120_39_page_ci_pdf_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle120: 15 substantive concepts, 30 original practice MCQs (five new keys/15 distractors bounded author-side against MCA/DEA/RBI), six preserved mains. Guarded CI produced synchronized 39-page PDF SHA256 9f3fe8e55ae56b5377ce0e4fbae0b1df36983eefc3560137b40ab9; original 35-page PDF preserved. Actual downloaded artifact 13014309058 from run 41134900164: outer/inner CRC PASS, GitHub digest MATCH, 2076 files, 75 original PDFs unchanged, 75 readiness JSON, 88 HTML, 1399 local links/1028 DOM fragments zero broken, 43 SPA routes excluded. R1 official syllabus, 25 older MCQs, all six mains claim-level, browser accessibility and named expert still pending; NOT APPROVED.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-3-4.json"
     },
