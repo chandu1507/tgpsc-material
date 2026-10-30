@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-31",
+  "cycle": 118,
+  "topic_id": "3-3-2",
+  "scope": "actual downloaded GitHub Actions artifact; publication integrity only",
+  "main_at_renderer": "7eee132e29902916145aa95e2ef9ee71027ae2c8",
+  "renderer_run": 41119419616,
+  "renderer_conclusion": "SUCCESS",
+  "packaging_run": 41119473052,
+  "packaging_conclusion": "SUCCESS",
+  "artifact_id": 13008480828,
+  "artifact_downloaded": true,
+  "github_digest_sha256": "1566c9f6e2380e5bb9b0f357b39183171b7003e19640164843c65ea8546d47cf",
+  "downloaded_artifact_sha256": "1566c9f6e2380e5bb9b0f357b39183171b7003e19640164843c65ea8546d47cf",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "packaged_files": 2064,
+  "original_topic_pdfs": 75,
+  "original_topic_pdf_hash_changes_vs_cycle117": 0,
+  "readiness_json_records": 75,
+  "html_pages": 87,
+  "local_file_links_checked": 599,
+  "broken_local_links": 0,
+  "dom_fragment_links_checked": 1004,
+  "broken_dom_fragment_links": 0,
+  "spa_routes_excluded": 43,
+  "topic_integrated_pdf_pages": 40,
+  "topic_integrated_pdf_sha256": "34481fa7da3ac77375d9759240ce7671cbe9ceb15dcdcd4f81e88222afb0398a",
+  "topic_original_pdf_sha256": "93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24",
+  "topic_manifest_hashes_verified": 17,
+  "pdf_blank_pages": 0,
+  "pdf_out_of_bounds_text_blocks": 0,
+  "mcqs": 30,
+  "original_practice_mcqs_added": 5,
+  "new_keys_and_distractors_author_source_correlated": {
+    "keys": 5,
+    "distractors": 15,
+    "source": "Legislative Department Constitution July 2025",
+    "articles": [
+      "167",
+      "243S",
+      "243U",
+      "243X",
+      "243ZA"
+    ]
+  },
+  "answer_distribution": {
+    "A": 8,
+    "B": 7,
+    "C": 8,
+    "D": 7
+  },
+  "mains_answers_preserved": 6,
+  "topic_status": "ASSESSED_REBUILD_REQUIRED",
+  "all_75_statuses": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "verified_R1_pass_count": 14,
+  "fully_R1_R8_ready": 0,
+  "R9": "NOT_STARTED",
+  "independent_academic_approvals": 0,
+  "limitations": [
+    "25 earlier MCQ keys and 75 distractors not independently checked",
+    "Six mains answers not claim-level independently audited",
+    "Direct Commission-hosted official syllabus access not verified",
+    "Original diagram accuracy and full browser accessibility not certified",
+    "No named independent academic reviewer"
+  ]
+}
