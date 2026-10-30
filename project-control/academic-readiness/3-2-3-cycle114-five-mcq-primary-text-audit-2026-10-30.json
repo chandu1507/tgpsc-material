@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-30",
+  "cycle": 114,
+  "topic_id": "3-2-3",
+  "status": "AUTHOR_SIDE_BOUNDED_SOURCE_CORRELATION_NOT_INDEPENDENT_APPROVAL",
+  "source": {
+    "publisher": "Government of India Legislative Department",
+    "edition": "Constitution of India English–Kannada diglot as on 11 November 2025",
+    "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "directly_viewed": "2026-10-30",
+    "article_pages_in_pdf": {
+      "85": 136,
+      "100": 144,
+      "111": 158,
+      "123": 168,
+      "200": 238
+    }
+  },
+  "original_pdf": {
+    "path": "Paper 3/Unit 2 - Constitution of India/Topic 3/complete-notes.pdf",
+    "sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24",
+    "must_preserve": true
+  },
+  "new_mcqs": [
+    {
+      "question": 26,
+      "article": "85(1)",
+      "key": "A",
+      "distractors": [
+        "B conflates parliamentary sessions and elections",
+        "C invents six months of sittings per calendar year",
+        "D measures arbitrary daily sittings rather than the last/first sittings of successive sessions"
+      ]
+    },
+    {
+      "question": 27,
+      "article": "100(3)-(4)",
+      "key": "D",
+      "distractors": [
+        "A substitutes a majority",
+        "B substitutes one-third",
+        "C confuses a voting threshold with quorum"
+      ]
+    },
+    {
+      "question": 28,
+      "article": "111",
+      "key": "C",
+      "distractors": [
+        "A invents repeated return",
+        "B confuses assent reconsideration with Article 108",
+        "D invents a referendum requirement"
+      ]
+    },
+    {
+      "question": 29,
+      "article": "123(1)",
+      "key": "B",
+      "distractors": [
+        "A requires both Houses in session, prohibited",
+        "C requires both Houses in session, prohibited",
+        "D concerns ordinary bill assent, not ordinance"
+      ]
+    },
+    {
+      "question": 30,
+      "article": "200 second proviso",
+      "key": "D",
+      "distractors": [
+        "A makes Concurrent List reservation automatic",
+        "B makes ministerial remuneration reservation automatic",
+        "C makes Council-origin bills automatically reservable"
+      ]
+    }
+  ],
+  "inventory": {
+    "original_topics": 75,
+    "preexisting_mcqs": 25,
+    "postedit_mcqs": 30,
+    "postedit_new_distractors_checked": 15,
+    "mains": 6,
+    "authenticated_official_pyqs": 0,
+    "independent_approvals": 0
+  },
+  "known_unfinished": [
+    "30-key/90-distractor full independent review",
+    "six mains claim-level review",
+    "R1 direct syllabus reauthentication",
+    "PDF renderer run and actual downloaded Actions artifact SHA/CRC QA",
+    "student HTML sync",
+    "browser and accessibility testing",
+    "named independent academic reviewer"
+  ],
+  "readiness": {
+    "R1_to_R8_all_pass": false,
+    "R9": "NOT_STARTED",
+    "independent_approval_count": 0
+  },
+  "ci_guard_fix": "Replaced stale hardcoded 8 ASSESSED_REBUILD_REQUIRED assertion with exact checkpoint/index/per-topic status consistency checks."
+}
