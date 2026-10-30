@@ -1,6 +1,6 @@
 # Original practice MCQs with explanations
 
-**All 25 questions below are original practice questions. None is represented as an official TGPSC previous-year question.**
+**All 30 questions below are original practice questions. None is represented as an official TGPSC previous-year question.**
 
 ### Q1. Which statement best captures the distinction between a programme output and an outcome?
 A. A sanctioned house is an outcome and reduced disease is an input.  
@@ -176,3 +176,39 @@ B. Only number of mobile apps installed.
 C. Disaggregated coverage, service quality, sustained outcomes, complaint resolution and independent checks.  
 D. Only average income of the richest ward.  
 **Answer: C.** **Explanation:** Inclusive evaluation must reveal who was left out and whether services produced lasting benefits rather than counting inputs.
+
+### Q26. What is the constitutional position of the Gram Sabha under Article 243A?
+A. It can amend the Constitution for village matters.  
+B. It automatically controls every municipal function.  
+C. It may exercise village-level powers and functions provided by State law.  
+D. It independently levies every Panchayat tax without enabling legislation.  
+**Answer: C.** **Explanation:** Article 243A makes Gram Sabha functions subject to State legislation. A confuses it with Parliament's constitutional amendment process; B confuses rural and urban bodies; D ignores State-law fiscal authorisation under Article 243H. [S25]
+
+### Q27. Under Article 243B(2), which exception is permitted?
+A. A State whose population does not exceed twenty lakh may omit intermediate-level Panchayats.  
+B. Any State may omit district-level Panchayats without qualification.  
+C. A district below twenty lakh population must abolish village Panchayats.  
+D. States above twenty lakh population must omit intermediate Panchayats.  
+**Answer: A.** **Explanation:** The threshold applies to a **State**, and the optional omission concerns only the intermediate tier. B lacks the constitutional condition; C substitutes district for State and targets the wrong tier; D reverses the threshold. [S25]
+
+### Q28. How are Panchayat seats generally filled under Article 243C(2)?
+A. By appointment from district officers.  
+B. By Governor's nomination to all seats.  
+C. By inheritance of traditional village offices.  
+D. By direct election from territorial constituencies in the Panchayat area.  
+**Answer: D.** **Explanation:** Article 243C(2) specifies direct election to Panchayat seats. A, B and C substitute administrative appointment, executive nomination and inheritance. Rules for selecting chairpersons are a separate matter. [S25]
+
+### Q29. Which is the minimum reservation for women in directly elected Panchayat seats under Article 243D(3)?
+A. Exactly half of all seats, with no variation allowed.  
+B. Not less than one-third, including seats reserved for SC/ST women.  
+C. Only the SC/ST women's seats, with no other women's reservation.  
+D. Reservation applies to chairperson offices alone.  
+**Answer: B.** **Explanation:** The Constitution establishes a **minimum** one-third including SC/ST women's reserved seats. A confuses a possible higher State quota with the constitutional floor; C excludes other women's seats; D ignores seat reservation. [S25]
+
+### Q30. How may a Panchayat be authorised to levy specified taxes under Article 243H?
+A. Through State legislation, subject to the prescribed procedures and limits.  
+B. Automatically by any Gram Sabha oral resolution.  
+C. Through a mandatory allocation of all State taxes by the Election Commission.  
+D. Never, because Article 243H forbids grants-in-aid and local funds.  
+**Answer: A.** **Explanation:** State law may authorise levies, assign State taxes, provide grants and constitute Panchayat funds. B omits enabling law; C misattributes fiscal authority to an election body; D directly contradicts Article 243H(c)–(d). [S25]
+

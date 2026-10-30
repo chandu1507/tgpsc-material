@@ -52,3 +52,9 @@ Ten existing practice MCQs (Q2, Q3, Q4, Q7, Q8, Q11, Q16, Q18, Q20 and Q24) were
 - Constitutional framework and existing chapter source register for Article 21 and public-health policy (Q18); conceptual programme-output/outcome distinction (Q20).
 
 The revised answer distribution is A4/B9/C6/D6. A balanced distribution is not evidence of correctness. No official PYQs are claimed. All six mains bodies satisfy the numerical 200–250-word target, but factual claim-by-claim review is still pending. The direct TGPSC syllabus PDF remains inaccessible and R1 is not PASS.
+
+## 31 October 2026 — Cycle119 bounded constitutional check, not independent R5 approval
+
+**S25 — directly inspected primary text:** Legislative Department, *Constitution of India*, Articles 243A, 243B(2), 243C(2), 243D(3), 243G and 243H: https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf . Historical constitutional design also compared with the official 73rd Amendment Act: https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf .
+
+New original practice Q26–Q30: **five keys and 15 distractors checked author-side** against the named provisions; every new distractor has an explicit rationale. These are not official PYQs, not independent question certification, and do not authenticate Q1–Q25. New detailed concept 15 distinguishes deliberation, representation, functional devolution and fiscal authority. Full 30-key/90-distractor independent audit, six mains claim checks, current Telangana operational rules, official TGPSC syllabus direct PDF, browser accessibility and named academic expert remain pending. No academic approval.
