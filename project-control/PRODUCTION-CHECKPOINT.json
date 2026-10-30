@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-4",
+    "last_reported_topic": "3-2-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle111 eight legacy Topic 3-1-4 files synchronized with statutory express naming of Vetti; 75 originals preserved, no independent academic approval. Post-merge downloaded artifact QA pending."
+    "note": "Cycle112 Topic 3-2-1 source-critical repair and 23-page integrated CI PDF; post-render downloaded publication artifact QA pending. Exactly 75 original topics preserved; independent approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -267,8 +267,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "Published draft artifacts still require content, syllabus and question-provenance review. 27 Oct Cycle28: seven substantial concepts, 20->25 explained MCQs (five author-side official-source correlated), six mains; original 25-page PDF preserved; R1-R8 unfinished, R9 not started.",
+      "production_review": "cycle112_source_critical_8_concept_30_mcq_ci_pdf_rendered_postrender_artifact_qa_pending",
+      "notes": "Cycle112 source-critical Article 368 worked vote arithmetic and News On AIR April 2026 conflicting attendance denominator documented; five new original four-option practice MCQs (30 total), 8 concepts, six mains, original SVG. Deterministic GitHub renderer run 41067350363 SUCCESS, 23-page integrated PDF SHA256 85cdf27451e2f3bf4e3b863f791db27d19d701d92d9c8badc5edccbf8a8bf28e. Original 25-page PDF SHA256 15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21 preserved. Downloaded post-render publication artifact, full MCQ/mains independent audits, legacy HTML and browser QA PENDING. NOT approved.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-2-1.json"
     },
