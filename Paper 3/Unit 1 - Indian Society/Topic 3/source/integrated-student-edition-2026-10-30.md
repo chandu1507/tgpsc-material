@@ -921,10 +921,11 @@ Do NOT silently promote unverified original questions to PYQs. Verify contempora
 | NITI Aayog discussion paper (January 2024) | 11.28% projected national MPI for 2022–23 | Not 2026 census or Telangana rate |
 | Directorate General of Employment, PLFS 2023–24 catalogue (10 October 2024) | Report identity and labour-indicator denominator reasoning | Not a full PLFS table audit |
 | Ministry of Labour and Employment, Child Labour Act and 2016 amendment | Child/adolescent statutory categories and qualified exceptions | Not a complete case-law review |
+| [Telangana State Profile](https://www.telangana.gov.in/About/State-Profile/) | State formation chronology 1956/2014 | No district outcome audit |
+| [MGNREGA portal](https://nrega.nic.in/index.html) | 100-day rural household entitlement | Not proof of delivery |
+| [Indian Economic Service urban classification](https://ies.gov.in/arthapedia/concept/urban) | Census-town classification thresholds | Not 2026 town counts |
+| [UN 2030 Agenda](https://sdgs.un.org/2030agenda) | Three integrated sustainable-development dimensions | Not project success evidence |
 
-Institutional links: https://www.pmindia.gov.in/en/news_updates/pm-reiterates-commitment-towards-a-prosperous-future-for-every-indian-as-24-82-crore-people-escape-multidimensional-poverty-in-last-9-years-as-per-niti-paper/ ; https://www.dge.gov.in/reference-publication-reports-annual ; https://labour.gov.in/acts/child-labour-act-23-dec-1986 .
 
-**Academic blockers:** full R1 syllabus authentication, 30 keys/90 distractors independent verification, eight mains claim audits, qualitative concept depth, browser accessibility and named independent review. No R1–R8 completion; R9 NOT STARTED; approvals ZERO.
+**Academic status:** Claim-level review, official syllabus authentication, browser accessibility and named independent expert review remain outstanding; approvals ZERO.
 
-
-**Additional official references (checked 30 October 2026):** Telangana State Profile https://www.telangana.gov.in/About/State-Profile/ ; MGNREGA https://nrega.nic.in/index.html ; urban classification https://ies.gov.in/arthapedia/concept/urban ; UN 2030 Agenda https://sdgs.un.org/2030agenda . No direct legal archival consultation or project-level environmental data is claimed.
