@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-4",
+    "last_reported_topic": "2-3-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle97 Topic 2-3-4 seven source-bounded core expansions; 28-page PDF and downloaded artifact 12940470131 SHA/CRC/75 originals/links verified. R1–R8 incomplete, approvals zero."
+    "note": "Cycle99 Topic 2-3-1: IMD final 2026 monsoon corrected in mains Q1; four MCQ option sets bounded source-checked; synthesis expanded; deterministic 32-page PDF SHA 3ee9e4d0...; actual downloaded post-layout artifact 12945935403 SHA/CRC/75 originals/597 links PASS. R1–R8 incomplete, independent approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -1171,5 +1171,21 @@
     "concept_start_pages_distinct": 14,
     "artifact_id": 12942374019,
     "artifact_qa": "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
+  },
+  "latest_academic_readiness_cycle": {
+    "cycle": 99,
+    "date": "2026-10-30",
+    "topic": "2-3-1",
+    "source_audit": "project-control/academic-readiness/2-3-1-cycle99-imd-mains-mcq-depth-audit-2026-10-30.json",
+    "downloaded_artifact_qa": "project-control/academic-readiness/2-3-1-cycle99-actual-downloaded-artifact-qa-2026-10-30.json",
+    "integrated_pdf_pages": 32,
+    "integrated_pdf_sha256": "3ee9e4d067b89f117a19c7d9518bdcedefd7fa13a13e94542133d5fde789f71c",
+    "topic_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "fully_ready": 0,
+    "independent_approvals": 0
   }
 }
