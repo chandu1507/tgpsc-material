@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-31",
+  "cycle": 122,
+  "topic_id": "4-1-1",
+  "topic_title": "National Income: Concepts, Measurement, Nominal and Real Income, Indian Economic Structure and Sectoral Growth",
+  "fresh_main_at_start": "a50b3f8bc69bae138605c2086b8a46f99f46ec3c",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approved": false,
+  "scope": "All 25 existing original practice MCQs, 25 proposed keys, 75 distractors; no new MCQ, no official PYQ claim.",
+  "audit": {
+    "question_count": 25,
+    "proposed_keys_with_author_side_rationale": 25,
+    "individual_options_with_author_side_rationale": 100,
+    "incorrect_distractors_with_rationale": 75,
+    "independent_subject_expert_review_count": 0,
+    "independently_verified_keys": 0,
+    "source_register_path": "Paper 4/Unit 1 - Indian Economy/Topic 1/source/sources-and-audit.md"
+  },
+  "directly_inspected_primary_sources": [
+    {
+      "authority": "MoSPI",
+      "title": "Provisional Estimates FY2025-26 dated 5 June 2026",
+      "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1780655857536_5ac01869-ca4a-422d-b7a7-57b81da60932_Press_Note_on_GDP_Estimates_for_Q4_2025-26_and_PE_FY_2025-26_F.pdf",
+      "pages": "3–6, Statements 1 and 2"
+    },
+    {
+      "authority": "MoSPI",
+      "title": "FAQ on 2022-23 GDP series and national accounts",
+      "url": "https://mospi.gov.in/faq"
+    },
+    {
+      "authority": "MoSPI",
+      "title": "Report of Sub-Committee on Constant Price Estimates (February 2026)",
+      "url": "https://www.mospi.gov.in/uploads/publications_reports/publications_reports1771587540761_dd1e8d41-cc40-4e4f-a204-39a6b6b81cb5_Final_Report_of_the_Sub-Committee.pdf",
+      "section": "2.3.2"
+    },
+    {
+      "authority": "UNSD",
+      "title": "2008 System of National Accounts concepts in brief",
+      "url": "https://unstats.un.org/unsd/nationalaccount/docs/2008sna-conceptsbrief.pdf",
+      "sections": "2.138–2.145"
+    },
+    {
+      "authority": "UNSD",
+      "title": "2008 System of National Accounts",
+      "url": "https://unstats.un.org/unsd/nationalaccount/docs/sna2008.pdf",
+      "sections": "24.50–24.55"
+    }
+  ],
+  "arithmetic_2025_26_provisional_in_crore": {
+    "constant_price": {
+      "gva": 29491088,
+      "net_product_taxes": 2820946,
+      "gdp": 32312034,
+      "gni": 31865977,
+      "nni": 27486593
+    },
+    "current_price": {
+      "gva": 31486840,
+      "net_product_taxes": 3148798,
+      "gdp": 34635638,
+      "gni": 34204634,
+      "nni": 29562127
+    },
+    "checks": {
+      "constant_gva_plus_net_taxes_equals_gdp": true,
+      "current_gva_plus_net_taxes_equals_gdp": true,
+      "current_net_primary_income_from_abroad": -431004,
+      "current_consumption_fixed_capital": 4642507
+    }
+  },
+  "uncertainties": [
+    "Telangana Socio-Economic Outlook 2026 original numerical tables not independently reauthenticated in this cycle",
+    "UN 2025 SNA exists; India's stated MoSPI implementation basis is 2008 SNA",
+    "No independent subject expert has reviewed any question or mains answer",
+    "No complete claim-level audit of six mains answers or three raster diagrams",
+    "No browser assistive-technology accessibility certification"
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "publication": {
+    "pdf_render": "PENDING",
+    "actual_downloaded_artifact_qa": "PENDING",
+    "original_pdf_preserved": "TO_VERIFY_AFTER_CI"
+  },
+  "approvals": 0
+}
