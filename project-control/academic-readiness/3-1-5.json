@@ -33,9 +33,10 @@
     "project-control/academic-readiness/3-1-5-cycle108-four-concept-source-verified-depth-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-ci-layout-race-evidence-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-final-downloaded-post-render-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/3-1-5-cycle109-five-concept-primary-source-depth-audit-2026-10-30.json"
+    "project-control/academic-readiness/3-1-5-cycle109-five-concept-primary-source-depth-audit-2026-10-30.json",
+    "project-control/academic-readiness/3-1-5-cycle109-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
   ],
-  "next_action": "Render synchronized Cycle109 PDF after merge; independently download post-render Actions artifact and verify SHA/CRC/75 originals/links; complete six shallow concepts, all 30 MCQ keys/90 distractors, six mains claim-level audit, figures and browser accessibility; R8 not PASS and R9 not started.",
+  "next_action": "Six concepts remain below300 (3,7,9,12,13,15); independently verify 30 MCQ keys and 90 distractors, all six mains claims, source registers, diagrams and browser accessibility. Post-control artifact repackage pending; R1-R8 not ready, R9 not started.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -161,7 +162,14 @@
     ],
     "integrated_master_updated": true,
     "post_edit_ci_pdf": "PENDING",
-    "actual_downloaded_artifact_qa": "PENDING",
-    "academic_approval": false
+    "actual_downloaded_artifact_qa": "PASS_SHA_CRC_75_ORIGINALS_597_LINKS_1050_FRAGMENTS",
+    "academic_approval": false,
+    "renderer_run": 41044849184,
+    "renderer_status": "SUCCESS",
+    "pdf_pages": 26,
+    "pdf_sha256": "48bb4837290970ff50207d6baea67858fcf54385f0d2fcda51824a3fded72596",
+    "actual_downloaded_packaging_run": 41044849142,
+    "actual_downloaded_artifact_id": 12970844174,
+    "pdf_layout": "THREE_VECTOR_DIAGRAMS_GROUPED_AND_FINAL_TWO_MAINS_NOT_ORPHANED"
   }
 }
