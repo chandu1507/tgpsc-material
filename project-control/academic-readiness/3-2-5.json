@@ -1,7 +1,7 @@
 {
   "topic_id": "3-2-5",
   "title": "Federal System: Centre-State Relations, Local Government and Water Disputes",
-  "date": "2026-10-27",
+  "date": "2026-10-30",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -53,9 +53,10 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle31 objective audit of actual archived and GitHub source: 11 concepts 448–664 words; 25 explained four-option original MCQs; six mains directly recounted 200/209/201/239/248/214 after source-based expansion of Q4 and Q5; two original SVGs embedded in canonical Markdown. Original 32-page PDF preserved SHA256 44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15. Limited primary-source correspondence: Constitution Article 243ZE (MEA), Inter-State River Water Disputes Act sections 6 and 11 (India Code), Ministry of Jal Shakti historical KRMB/GRMB report. Full independent MCQ/distractor/mains audits, R1 direct notification, qualitative deduplication, diagram correctness and synchronized PDF/accessibility remain pending. ZERO approvals. Cycle31 GitHub Actions synchronized integrated PDF for Topic 3-2-5 actually packaged and independently downloaded from run 40458404442 artifact 12712828105; outer/inner CRC, original 75 PDF hashes, static links and PDF text boundaries checked. Full browser accessibility not certified; R8 not PASS.",
-  "next_action": "Independent academic claim and MCQ audits, direct official syllabus, diagram factual checks, public browser accessibility; preserve original 75 PDFs.",
+  "evidence": "Cycle31 objective audit of actual archived and GitHub source: 11 concepts 448–664 words; 25 explained four-option original MCQs; six mains directly recounted 200/209/201/239/248/214 after source-based expansion of Q4 and Q5; two original SVGs embedded in canonical Markdown. Original 32-page PDF preserved SHA256 44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15. Limited primary-source correspondence: Constitution Article 243ZE (MEA), Inter-State River Water Disputes Act sections 6 and 11 (India Code), Ministry of Jal Shakti historical KRMB/GRMB report. Full independent MCQ/distractor/mains audits, R1 direct notification, qualitative deduplication, diagram correctness and synchronized PDF/accessibility remain pending. ZERO approvals. Cycle31 GitHub Actions synchronized integrated PDF for Topic 3-2-5 actually packaged and independently downloaded from run 40458404442 artifact 12712828105; outer/inner CRC, original 75 PDF hashes, static links and PDF text boundaries checked. Full browser accessibility not certified; R8 not PASS. Cycle116: 418-word new DPC/MPC arithmetic and implementation concept, five new original practice MCQs (Q26-Q30), 5 keys/15 distractors author-side checked directly against Legislative Department official Constitution Arts 243ZD, 243ZE, 243Y, 243K. 30 original MCQs total; old 25 keys/75 distractors and six mains NOT independently audited; CI PDF and artifact QA pending; R1 and R8 not PASS; approvals ZERO.",
+  "next_action": "Verify CI-rendered integrated PDF from 30-MCQ canonical master and actual downloaded GitHub Actions archive SHA/CRC/75-original/link QA; then independent full 30-key/90-distractor and six-mains audit, direct official R1, browser QA.",
   "external_reviewer": null,
   "student_accepted": false,
-  "last_updated_cycle": 31
+  "last_updated_cycle": 116,
+  "cycle116_evidence": "project-control/academic-readiness/3-2-5-cycle116-planning-committee-primary-text-mcq-audit-2026-10-30.json"
 }
