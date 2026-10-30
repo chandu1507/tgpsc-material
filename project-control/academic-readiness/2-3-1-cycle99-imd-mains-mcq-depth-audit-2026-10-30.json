@@ -64,14 +64,17 @@
     "original_practice_questions_not_official_pyqs": true
   },
   "publication": {
-    "renderer_run": 40982026980,
+    "renderer_run": 40982386478,
     "renderer_result": "SUCCESS",
-    "integrated_pdf_pages": 33,
-    "integrated_pdf_sha256": "77167265a766468bf00d71a9b94b5821c77e730712d4435220568ab41e40adfb",
+    "integrated_pdf_pages": 32,
+    "integrated_pdf_sha256": "3ee9e4d067b89f117a19c7d9518bdcedefd7fa13a13e94542133d5fde789f71c",
     "original_pdf_sha256": "2227266c96656e78cf9e3148a9fc8bb4393d1708bd1941680c065b67d939f879",
     "original_preservation_ci_assertion": "PASS",
     "post_evidence_actual_download_crc_sha_links": "PENDING",
-    "browser_accessibility": "NOT_CERTIFIED"
+    "browser_accessibility": "NOT_CERTIFIED",
+    "layout_fix_commit": "52406e7396588512b44ad0009ff7b28d1fa4012c",
+    "renderer_commit": "aa3521aef0148de544cdbd3f2cdb5a0a90309de5",
+    "layout_defect": "Old forced Part E break stranded Q6 blueprint alone on page 27 (511 PDF text chars). Removed forced break; deterministic local and CI 32-page PDF SHA matched; new page 27 has 3778 chars."
   },
   "inventory": {
     "original_topics": 75,
