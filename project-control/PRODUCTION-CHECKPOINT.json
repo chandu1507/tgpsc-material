@@ -9,7 +9,7 @@
     "last_reported_topic": "3-1-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle103 integrated Topic 3-1-3 editable master; CI and actual artifact QA pending; academic approvals ZERO."
+    "note": "Cycle103 Topic 3-1-3 synchronized CI PDF and downloaded artifact QA PASS; independent academic review pending, approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -230,8 +230,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle103_deduplicated_integrated_master_20_sections_30_mcq_8_mains_ci_pending",
-      "notes": "Cycle103: integrated earlier 4530-word repair into original 20 sections without duplicate MCQ/mains banks; 20/20 sections >=300 whitespace words, but not full academic depth certification. 30 original MCQs and 8 mains, author source checks only; original PDF SHA preserved. CI PDF, actual artifact QA, full claim audits, browser/accessibility and R9 pending; approvals ZERO.",
+      "production_review": "cycle103_integrated_master_40_page_ci_pdf_actual_artifact_verified_academic_review_pending",
+      "notes": "Cycle103: 20 original sections all >=300 whitespace words; 30 original practice MCQs and eight mains once; original 38-page PDF preserved. Renderer 41005951143 SUCCESS; 40-page PDF SHA c09de2a4; actual artifact 12955477589 downloaded: 2002 files, 75 original PDFs unchanged, 1647 local references and 1050 fragments zero broken, digest/CRC PASS. No independent claim, diagram or browser audit. Academic approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-3.json"
     },
