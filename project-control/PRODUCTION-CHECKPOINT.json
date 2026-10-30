@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-3-5",
+    "last_reported_topic": "4-1-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle121 Topic 3-3-5: 19 concepts, 30 original practice MCQs, 39-page synchronized PDF, actual downloaded post-render artifact 13018274118 verified. Exactly 75 original topic PDFs unchanged. Academic approvals ZERO; R1-R8 not complete."
+    "note": "Cycle122 4-1-1 25 existing original practice MCQs/100 option author-side audit; 28-page synchronized PDF and actual downloaded post-render artifact QA verified; exactly 75 original topic PDFs unchanged; no independent academic approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -388,10 +388,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle35_objective_assessment_and_source_reconciliation; integrated PDF local candidate, GitHub CI not verified",
-      "notes": "2026-10-23 expanded 11,211-word draft; 26-page PDF, original practice only; syllabus and Telangana PDF primary audit pending. Cycle35: 12 major concepts all >=300 words; 25 original four-option MCQs, six mains, three existing diagrams; MoSPI 5 June 2026 Statement 1 arithmetic correspondence checked. Full MCQ/distractor/mains, official syllabus, CI PDF and browser QA pending; no approval.",
+      "production_review": "cycle122_all_25_original_mcq_keys_and_75_distractors_author_audited_actual_ci_pdf_and_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "Cycle122: all 25 existing original practice MCQs received author-side source correlations and 100 option rationales against directly inspected MoSPI and UN SNA primary texts; no independent expert or official PYQ authentication. Original 26-page PDF SHA e0a70eca... unchanged. Synchronized 28-page CI PDF SHA e3ab85fe..., renderer 41146921327 SUCCESS; actual downloaded packaging artifact 13021491886 SHA/CRC PASS, 2079 files, exactly 75 unchanged original PDFs, 75 readiness JSON, 88 HTML, 605 local links/1031 DOM fragments zero broken, 43 SPA routes excluded. Six mains, diagrams, Telangana tables, browser accessibility and independent academic audit pending. R1 PASS, R2-R6 IN_PROGRESS, R7 BLOCKED, R8 IN_PROGRESS, R9 NOT_STARTED, approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
-      "readiness_gate_file": "project-control/academic-readiness/4-1-1.json"
+      "readiness_gate_file": "project-control/academic-readiness/4-1-1.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/4-1-1-cycle122-actual-downloaded-artifact-qa-2026-10-31.json"
     },
     {
       "id": "4-1-2",
