@@ -30,7 +30,7 @@ try:
     html=html.replace('href="complete-notes.pdf"','href="source/integrated-student-edition-cycle120.pdf"')
     html=html.replace('href="source/complete-notes.md"','href="source/integrated-student-edition-cycle120.md"')
     html=html.replace('Expanded draft — academically unapproved','Cycle120 integrated draft — academically unapproved')
-    (SRC/'integrated-student-edition-cycle120.html').write_text(html)
+    (SRC/'integrated-student-edition-cycle120.html').write_text(html.replace('<head>','<head><base href="../">',1))
     (ROOT/'index.html').write_text(html)
 finally:
     legacy_pdf.write_bytes(original_pdf)
