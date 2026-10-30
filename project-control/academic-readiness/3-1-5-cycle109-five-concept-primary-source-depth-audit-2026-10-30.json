@@ -1,0 +1,94 @@
+{
+  "topic_id": "3-1-5",
+  "cycle": 109,
+  "date": "2026-10-30",
+  "status": "AUTHOR_SIDE_SOURCE_BOUNDED_REBUILD_NOT_APPROVED",
+  "fresh_main_baseline": "50f804416e8c241cf5d6997b9fb707ff6f9f89a6",
+  "source_master": "Paper 3/Unit 1 - Indian Society/Topic 5/source/integrated-student-edition-2026-10-30.md",
+  "concepts_total": 18,
+  "under300_before": 11,
+  "under300_after": 6,
+  "expanded_concept_ids": [
+    2,
+    5,
+    11,
+    14,
+    16
+  ],
+  "concept_whitespace_counts_after": {
+    "1": 311,
+    "2": 363,
+    "3": 287,
+    "4": 499,
+    "5": 418,
+    "6": 439,
+    "7": 248,
+    "8": 484,
+    "9": 222,
+    "10": 476,
+    "11": 392,
+    "12": 204,
+    "13": 207,
+    "14": 437,
+    "15": 245,
+    "16": 388,
+    "17": 436,
+    "18": 1120
+  },
+  "under300_ids_after": [
+    3,
+    7,
+    9,
+    12,
+    13,
+    15
+  ],
+  "checks": {
+    "original_topic_pdf": "MUST_REMAIN_UNCHANGED_SHA256_01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01",
+    "original_mcqs": 30,
+    "original_mains": 6,
+    "full_25_or_30_mcq_independent_audit": false,
+    "all_mains_claim_level_verified": false,
+    "diagram_accuracy_certified": false,
+    "browser_accessibility_certified": false,
+    "post_edit_ci_pdf": "PENDING",
+    "post_edit_downloaded_actions_artifact": "PENDING"
+  },
+  "source_register_added": [
+    {
+      "id": "S25",
+      "source": "Ministry of Social Justice and Empowerment Ageing Division; India Code 2007 Act",
+      "url": "https://socialjustice.gov.in/common/47564",
+      "bounds": "Maintenance Act distinct from pensions; not current Telangana pension rates"
+    },
+    {
+      "id": "S26",
+      "source": "National Health Mission 16th Common Review Mission report 2024",
+      "url": "https://nhm.gov.in/New-Update-2024-26/CRM/16th_CRM_Report_2024.pdf",
+      "bounds": "AAM comprehensive primary care; not Telangana facility QA"
+    },
+    {
+      "id": "S27",
+      "source": "AIIMS Bhubaneswar PM-JAY institutional description",
+      "url": "https://aiimsbhubaneswar.nic.in/schemes/ayushman-bharat-pm-jay/",
+      "bounds": "Eligible secondary/tertiary hospital cover, not outpatient entitlement"
+    },
+    {
+      "id": "S28",
+      "source": "CAG 2016 report on MGNREGA 2011 social audit rules",
+      "url": "https://www.cag.gov.in/cen/kolkata/en/audit-report/details/21368",
+      "bounds": "Historical rules; no automatic inference of post-2026 procedural continuity"
+    },
+    {
+      "id": "S29",
+      "source": "PIB Ministry of Rural Development factsheet published 24 Oct 2026",
+      "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=151136&lang=1&reg=48",
+      "bounds": "National programme figures as of 24 Sep 2026; not independent or Telangana-specific outcome audit"
+    }
+  ],
+  "originals_preserved": true,
+  "independent_academic_approvals": 0,
+  "fully_R1_to_R8_ready": 0,
+  "R9": "NOT_STARTED",
+  "notes": "Substantive additions distinguish legal authority vs administrative payment, maintenance tribunal vs social pension, AAM vs PM-JAY, dated national employment totals vs local outcomes, and historical social audit rules vs post-repeal oversight. 300-word threshold is mechanical only. No official PYQs invented."
+}

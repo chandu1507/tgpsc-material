@@ -32,9 +32,10 @@
     "project-control/academic-readiness/3-1-5-cycle107-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-four-concept-source-verified-depth-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-ci-layout-race-evidence-2026-10-30.json",
-    "project-control/academic-readiness/3-1-5-cycle108-final-downloaded-post-render-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/3-1-5-cycle108-final-downloaded-post-render-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/3-1-5-cycle109-five-concept-primary-source-depth-audit-2026-10-30.json"
   ],
-  "next_action": "Expand remaining 11 shallow concepts; independently verify 30 MCQ keys/90 distractors and six mains; audit three figures and Telangana delivery sources, fix sparse final PDF page, browser/accessibility; do not promote R8/R9.",
+  "next_action": "Render synchronized Cycle109 PDF after merge; independently download post-render Actions artifact and verify SHA/CRC/75 originals/links; complete six shallow concepts, all 30 MCQ keys/90 distractors, six mains claim-level audit, figures and browser accessibility; R8 not PASS and R9 not started.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -139,5 +140,28 @@
     "pdf_sha256": "12f2b46b6ef21b3b4a1b0852c94ccb5d62d9ca1c2703dd4f9912b69633aec449",
     "rendered_vector_diagrams": 3,
     "sparse_page_25": true
+  },
+  "cycle109": {
+    "date": "2026-10-30",
+    "source_bounded_concepts_expanded": [
+      2,
+      5,
+      11,
+      14,
+      16
+    ],
+    "concepts_under_300_before": 11,
+    "concepts_under_300_after": 6,
+    "source_ids": [
+      "S25",
+      "S26",
+      "S27",
+      "S28",
+      "S29"
+    ],
+    "integrated_master_updated": true,
+    "post_edit_ci_pdf": "PENDING",
+    "actual_downloaded_artifact_qa": "PENDING",
+    "academic_approval": false
   }
 }
