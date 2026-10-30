@@ -1,0 +1,23 @@
+## 15. Three funding gates: CSR unspent obligations, PPP viability support and SHG credit
+
+### Distinguish the legal and financial instruments
+
+CSR, viability-gap funding and SHG bank linkage may all support development, but they solve different institutional problems. **CSR** creates a company spending and reporting obligation under Section 135 of the Companies Act, 2013. **Viability Gap Funding (VGF)** provides conditional public support to eligible PPP infrastructure that is economically or socially desirable but insufficiently commercially viable. **SHG bank linkage** connects savings-based community groups with formal loans. A budget announcement or loan disbursement is not, by itself, evidence of improved welfare. Compare each instrument's legal trigger, eligible recipient, financing terms, monitoring responsibility and measurable outcomes. [S09, S11, S14]
+
+### CSR: two different unspent-money routes
+
+Suppose a company subject to Section 135 has a year-end CSR shortfall. The required action depends on whether the amount relates to a qualifying **ongoing project**. Section 135(6) requires transfer of the ongoing-project amount to a separate **Unspent Corporate Social Responsibility Account within 30 days** of the financial-year end. The money must be used for the CSR obligation within **three financial years**; any remaining amount must then follow the statutory Schedule VII transfer requirement. In contrast, unspent CSR money **not** related to an ongoing project follows Section 135(5): transfer to a Schedule VII fund **within six months** after the financial-year end. The company cannot freely select the more convenient deadline. The Ministry of Corporate Affairs (MCA) FAQ also distinguishes money disbursed to an implementing agency from money actually utilised for the approved activity. [S09]
+
+Section 135(9) creates a narrower administrative exception. Where the required CSR spending does **not exceed ₹50 lakh**, constitution of a separate CSR Committee is not mandatory; the **Board** performs the committee's functions. That does not eliminate CSR expenditure, disclosure or proper treatment of unspent amounts. A useful mains distinction is **governance structure versus substantive statutory duty**. For any CSR intervention, track eligible spending, implementation, independent outcome measures and the beneficiaries' ability to complain. [S09]
+
+### PPP VGF: the headline percentage is not universal
+
+Consider a wastewater-treatment concession where public-health and environmental benefits exceed the private revenues recoverable through tariffs. The Department of Economic Affairs (DEA) revamped VGF framework allows eligible projects to seek public assistance, subject to eligibility, appraisal, bidding and contract controls. Under social-sector **Sub-scheme 1**, eligible projects may receive up to **30% of capital cost from the Centre** plus up to **30% from the eligible sponsoring authority**, with scheme conditions including operational-cost recovery. A separate pilot/demonstration **Sub-scheme 2** applies to eligible health and education projects and has different capital and operating-support ceilings. Therefore, “every PPP receives 80% subsidy” is incorrect. A government PPP pipeline listing also does not prove a completed or profitable project. [S11]
+
+### SHG lending: a benchmark is not an absolute cap
+
+The RBI's **1 April 2024 SHG–Bank Linkage Master Circular** describes savings-linked loans generally using a savings-to-loan ratio from **1:1 to 1:4**. It expressly permits lending **beyond four times savings for mature SHGs at the bank's discretion**. The 1:4 ratio is thus not a universal legal ceiling, and discretion is not an entitlement to unlimited credit. Credit quality depends on enterprise viability, repayment capacity, group governance and whether women retain control over income. Counting sanctioned loans alone cannot demonstrate empowerment. [S14]
+
+### Telangana application and examination conclusion
+
+For a Telangana case, first diagnose the failure: inadequate wastewater infrastructure, women entrepreneurs' working-capital constraints, or unmet public-health needs. Select an instrument only after identifying who is accountable for results. **CSR → company and Board oversight; VGF → public appraisal plus concession monitoring; SHG linkage → bank credit assessment plus group/member repayment.** State measurable outcomes such as reliable treatment capacity, sustained net earnings or reduced debt distress, and distinguish programme announcements from independent impact evaluations. The best development design aligns legal eligibility, fiscal realism, inclusion and verified results rather than celebrating the amount of funding alone.
