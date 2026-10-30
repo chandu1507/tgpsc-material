@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle108 Topic 3-1-5 15→11 shallow concepts; CI native-vector render 41038028347 SUCCESS, but concurrent packaging 41038028317 rejected as stale PDF. Post-render artifact repackage pending. 75 originals, 14 R1 PASS, zero fully ready/approved.",
+  "last_readiness_update": "Cycle108 Topic 3-1-5 final actual downloaded artifact 12969376154 digest/CRC/75 originals/links/25-page PDF PASS; four concepts expanded, 11/18 shallow, three vector figures; 0 R1-R8 ready, 0 independent approvals.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-5-cycle108-final-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-ci-layout-race-evidence-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-four-concept-source-verified-depth-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-3-cycle103-actual-downloaded-artifact-qa-2026-10-30.json",

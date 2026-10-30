@@ -9,7 +9,7 @@
     "last_reported_topic": "3-1-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle108 Topic 3-1-5 four concept expansions, 11/18 shallow, 3 native vector diagrams; renderer 41038028347 SUCCESS; concurrent artifact 12968871967 rejected stale PDF, post-render repackage pending; zero ready/approved."
+    "note": "Cycle108 Topic 3-1-5 4 substantive concepts expanded, 11/18 under300; 3 native vector diagrams in synchronized 25-page PDF SHA 12f2b46b; artifact 12969376154 actually downloaded, digest/CRC/75 originals/links PASS; page25 sparse, independent audits/accessibility pending; 0 ready/approved."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -255,8 +255,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle108_four_concept_depth_source_qa_pending",
-      "notes": "Original 16-page PDF preserved (SHA256 01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01). 15 detailed concepts; two expanded in place to 428/400 words; 13 still below300. 30 explained original MCQs; five source-correlated and distractors improved; all 30 options/keys structurally checked, remaining 25 unverified. Six mains body counts 240/227/231/234/227/234, factual audit pending. Three SVGs exist, no synchronized integrated PDF. ZERO academic approval. Cycle106 found outdated current-law claims in HTML/notes/MCQ28; synchronized repair pending; NOT approved. Cycle107 corrected 2026 employment law in source/HTML/MCQ28; new deduplicated editable master, CI PDF pending; no approval. Cycle107 CI 23-page integrated PDF rendered; first packaging artifact rejected due old PDF; final packaging pending. No academic approval. Cycle107 23-page CI PDF SHA e303f295; actual artifact 1 | Cycle108: four concepts expanded; 11/18 below300; PM POSHAN 2026-27 renewal caveat; CI PDF and artifact QA pending. No approval.",
+      "production_review": "cycle108_four_concept_native_vector_pdf_downloaded_qa_pass_academic_incomplete",
+      "notes": "Original 16-page PDF preserved (SHA256 01415cda362c08c73d2db3f82542f583f17be74a1de2c52d7fcec6bff9acac01). 15 detailed concepts; two expanded in place to 428/400 words; 13 still below300. 30 explained original MCQs; five source-correlated and distractors improved; all 30 options/keys structurally checked, remaining 25 unverified. Six mains body counts 240/227/231/234/227/234, factual audit pending. Three SVGs exist, no synchronized integrated PDF. ZERO academic approval. Cycle106 found outdated current-law claims in HTML/notes/MCQ28; synchronized repair pending; NOT approved. Cycle107 corrected 2026 employment law in source/HTML/MCQ28; new deduplicated editable master, CI PDF pending; no appr | Cycle108 final artifact 12969376154 downloaded QA PASS; 11/18 shallow, three vector figures, sparse page25; not approved.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/3-1-5.json"
     },
