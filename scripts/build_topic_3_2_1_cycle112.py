@@ -27,7 +27,7 @@ text=text.replace('**Status:** Expanded research draft', '**Status:** Cycle112 c
 text=text.replace('Prepared 23 October 2026.', 'Updated 30 October 2026; original 23 October draft preserved separately.')
 assert len(re.findall(r'^### Concept [A-H][.]',text,re.M))==8
 assert len(re.findall(r'^[*][*]Q[0-9]+[.][*][*]',text,re.M))==30
-assert len(re.findall(r'^[*][*]Q[0-9]+[.][*][*]',text,re.M))==30
+assert len(re.findall(r'^### Mains Q[0-9]+[.]',text,re.M))==6
 assert len(re.findall(r'^[*][*]Answer: [ABCD][.]',text,re.M))==30
 assert text.count('constitutional-amendment-thresholds.svg')==1
 a.output.parent.mkdir(parents=True,exist_ok=True)
