@@ -23,6 +23,7 @@
 | S17 | MeitY, Annual Report 2025–26 / DPDP Rules 2025 | DPDP Act 2023, Rules notified Nov 2025, phased implementation |
 | S18 | Lok Sabha Digital Sansad, Parliamentary Committees introduction | Estimates 30 LS; PAC/COPU 22; DRSC composition |
 | S19 | Lok Sabha Digital Sansad, Public Accounts Committee introduction | PAC ex-post role and opposition-chair convention |
+| S21 | Legislative Department, Ministry of Law and Justice, Constitution of India (as on 11 November 2025), Articles 151, 281, 321, 322 and 323 | Direct constitutional text for new original practice MCQs Q26-Q30; each key and three distractor explanations author-side checked, not independently certified. |
 | S20 | Ministry of Electronics and Information Technology, Gazette G.S.R. 846(E), dated 13 November 2025, Digital Personal Data Protection Rules, 2025, Rule 1(2)–(4) | Three different commencement groups: immediate Rules 1, 2, 17–21; Rule 4 after one year; Rules 3, 5–16, 22–23 after eighteen months. Verified from Gazette text on 27 October 2026. Does not by itself establish separate commencement of Act sections. |
 
 ## Source links
@@ -46,6 +47,7 @@
 - [S17] https://www.meity.gov.in/static/uploads/2026/04/46face7d48c8f6a97030f713ad5fdab4.pdf
 - [S18] https://sansad.in/ls/committee/introduction
 - [S20] https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf
+- [S21] https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf
 - [S19] https://sansad.in/ls/committee/financial-committees/26-Public%20Accounts-nameH%3D%E0%A4%B2%E0%A5%8B%E0%A4%95%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%20%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF
 
 ## Internal fact-check notes and unresolved audit tasks
@@ -58,3 +60,7 @@
 - DPDP Rules notification is checked against MeitY's 2025–26 annual report; commencement is not overclaimed.
 - No MCQ or mains question is represented as a verified official PYQ. All are original practice.
 - **Still required for academic approval:** expert verification of all constitutional/statutory interpretations; independent audit of every factual assertion and case-law nuance; checking latest amendments and implementation status; proofreading and question-key validation by a subject specialist. Approval remains **zero**.
+
+## Cycle 117 bounded constitutional-text checks (31 October 2026)
+
+Original practice questions Q26-Q30 were added to the existing 25, without representing any as official PYQs. Their answers and 15 incorrect alternatives were checked by the author against [S21]: Q26 Article 151(1) (Union CAG audit-report route); Q27 Article 321 (legislative extension of Public Service Commission functions); Q28 Article 281 (Finance Commission recommendations and explanatory memorandum); Q29 Article 322 (charged expenditure for UPSC/State PSC); Q30 Article 323(1) (UPSC annual report and reasons for advice not accepted). Each question explains why each of its three distractors is incorrect. This is a **bounded text correspondence**, not an independent complete audit of the 30 questions, 90 distractors, six mains answers or every constitutional interpretation. Current syllabus reauthentication, visual/browser accessibility, and named expert review remain pending; R1–R8 are not fully PASS and R9 remains NOT_STARTED.
