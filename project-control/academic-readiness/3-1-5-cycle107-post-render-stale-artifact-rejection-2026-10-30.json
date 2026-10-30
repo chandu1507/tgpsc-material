@@ -1,0 +1,36 @@
+{
+  "cycle": 107,
+  "date": "2026-10-30",
+  "topic": "3-1-5",
+  "source_commit": "42fe5a4b1c44b1520787962854151ad8789514e1",
+  "source_register_commit": "0e5ae09bb2193969dc3df3f66585b7fb3c695611",
+  "official_sources": [
+    "https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259703&lang=1&reg=1",
+    "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2279995&lang=2&reg=48"
+  ],
+  "legal_correction": "MGNREGA 2005 replaced effective 1 July 2026; VB-G RAM G Act 2025 provides 125 days per eligible rural household",
+  "integrated_master": {
+    "concepts": 18,
+    "below_300_words": 15,
+    "original_four_option_mcqs": 30,
+    "original_mains": 6
+  },
+  "renderer": {
+    "run_id": 41030278430,
+    "result": "SUCCESS",
+    "pages": 23,
+    "pdf_sha256": "e303f295ca83e1e685ba0c3bb06535bbef314a28923e9efc733ce5309ea9582d"
+  },
+  "first_artifact": {
+    "packaging_run_id": 41030278434,
+    "artifact_id": 12964709947,
+    "actual_download": true,
+    "result": "REJECTED",
+    "reason": "contained stale PDF c773a351..., not final e303f295..."
+  },
+  "final_artifact_qa": "PENDING",
+  "original_pdfs_preserved": 75,
+  "independent_approvals": 0,
+  "r9": "NOT_STARTED"
+}
