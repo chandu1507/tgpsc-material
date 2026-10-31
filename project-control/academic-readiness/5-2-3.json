@@ -1,7 +1,7 @@
 {
   "topic_id": "5-2-3",
   "title": "Food Biotechnology, Food Safety, Organic Farming, Farm Mechanisation and Safe Drinking Water",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-  "next_action": "Complete remaining 25 correct-answer checks, all 90 distractors, six mains claim-level audits, three diagram audits, independent 2024 syllabus authentication and direct browser accessibility. R8 IN_PROGRESS, not PASS; R9 only after all gates and named expert.",
+  "next_action": "Replace and independently review diagram 01 HACCP order and diagram 03 contaminant-specific branching; audit 20 MCQs/60 distractors, six mains and syllabus; verify actual post-render downloaded artifact; retain R1-R8 incomplete and R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -67,5 +67,30 @@
     "actual_github_artifact_sha256": "3ae5d747269bab408e0c71990edfac65fd0ccd010434eef742e1de9a2fad029d",
     "github_integrated_pdf_pages": 27,
     "github_integrated_pdf_sha256": "f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656"
+  },
+  "cycle144_source_review": {
+    "review_type": "bounded_author_side_four_option",
+    "question_numbers": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      19,
+      20,
+      26
+    ],
+    "reviewed_correct_keys": 10,
+    "reviewed_distractors": 30,
+    "remaining_unreviewed_correct_keys": 20,
+    "remaining_unreviewed_distractors": 60,
+    "diagram_01": "BLOCKED_HACCP_MONITOR_VERIFY_CORRECT_SEQUENCE",
+    "diagram_02": "PARTIAL_VISUAL_REVIEW",
+    "diagram_03": "BLOCKED_UNIVERSAL_SERIAL_TREATMENT_IMPLICATION",
+    "audit_path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 3/source/academic-option-audit-cycle144.md",
+    "independent_academic_approval": false,
+    "full_browser_accessibility": false
   }
 }

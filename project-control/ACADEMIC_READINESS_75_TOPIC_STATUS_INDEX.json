@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "75 originals, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED, 14 normalized R1 PASS, ZERO fully R1-R8 ready, ZERO approvals. Cycle143 Topic 5-2-2 ten four-option author-side audits; 29-page CI PDF, downloaded artifact 13057202704 SHA/CRC/75 originals/links/manifest QA PASS. Six mains, three diagrams, 20 keys/60 distractors, syllabus, browser and independent review remain.",
+  "warning": "Cycle144 Topic 5-2-3 ten four-option author-side reviews (10 keys/30 distractors) and two diagram sequence defects documented; 20 keys/60 distractors, six mains and independent visual checks pending. 75 original topics; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED, 14 normalized R1 PASS; ZERO fully R1-R8 ready and ZERO approvals. CI PDF and actual post-edit downloaded artifact not yet certified.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
