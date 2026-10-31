@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle144 Topic 5-2-3 ten four-option author-side reviews (10 keys/30 distractors) and two diagram sequence defects documented; 20 keys/60 distractors, six mains and independent visual checks pending. 75 original topics; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED, 14 normalized R1 PASS; ZERO fully R1-R8 ready and ZERO approvals. CI PDF and actual post-edit downloaded artifact not yet certified.",
+  "warning": "Cycle144 Topic 5-2-3 ten existing four-option author-side MCQ reviews; 29-page CI PDF and actual downloaded post-render artifact 13059017891 SHA/CRC/75 originals/75 readiness/591 local links/1581 fragments PASS. Diagram 01 HACCP sequencing and diagram 03 water-treatment branching defects OPEN. 20 MCQs/60 distractors and six mains still pending. 75 topics; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED / 14 normalized R1 PASS / ZERO fully R1-R8 ready / ZERO approvals. Evidence project-control/academic-readiness/5-2-3-cycle144-actual-downloaded-post-render-artifact-qa-2026-11-01.json.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
