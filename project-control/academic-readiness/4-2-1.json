@@ -102,7 +102,10 @@
       257
     ],
     "r8": "IN_PROGRESS",
-    "academic_approvals": 0
+    "academic_approvals": 0,
+    "remote_integrated_edition_rendered": true,
+    "ci_integrated_pdf_sha256": "384d1aafa1d795d15765c96bc0ab5510d192d3d81286683e07c1ef87c9ab915d",
+    "ci_integrated_pdf_pages": 33
   },
   "cycle127": {
     "date": "2026-10-31",

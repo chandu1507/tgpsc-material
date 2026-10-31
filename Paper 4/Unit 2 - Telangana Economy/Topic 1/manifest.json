@@ -7,9 +7,9 @@
   "syllabus": "Telangana economy in Hyderabad State (Agriculture, Industry and Trade); Telangana economy in United AP (1956-2014)- Deprivation and Under development; Structure and Growth of Telangana economy: Sectoral trends in GSDP ; Per capita income; Income inequalities and Poverty.",
   "production_status": "cycle41_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "academic_status": "not_approved",
-  "word_count_complete_markdown": 12277,
+  "word_count_complete_markdown": 13180,
   "word_count_detailed_notes": 7294,
-  "pdf_pages": 31,
+  "pdf_pages": 33,
   "original_explained_mcqs": 27,
   "original_mains_model_answers": 6,
   "mains_answer_word_counts": [
@@ -56,24 +56,24 @@
       "bytes": 246820
     },
     "index.html": {
-      "sha256": "a7389eac7b75d61e5438b97ce8faddb48930e485a481c931d41cb5e9ee4b5f9c",
-      "bytes": 124439
+      "sha256": "62e3260981a6e4ae8f40b08f946a1e9f46fb5fb763fffa5996b5cebef673162d",
+      "bytes": 133886
     },
     "source/answer-blueprints.md": {
       "sha256": "ac357aeea8e897cf9fa90c906f0491e141c5bf6bb3dd8d0962605723fd53a10c",
       "bytes": 1542
     },
     "source/complete-notes.md": {
-      "sha256": "d56316eb3463fd7f184939ca5c9257f138f4e0e928bbc82809a7659af190de92",
-      "bytes": 92468
+      "sha256": "c4fd84117b122ee1e2991382822a9989dd79979d99f3e9bc0250e00d556c126b",
+      "bytes": 99188
     },
     "source/detailed-notes.md": {
       "sha256": "ca7ccecd93787e25ef343f9feb961929c1b00dd54ebc722e78b2911d3e9fd6e7",
       "bytes": 54409
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "7a6186c20c663d67b9a40b0f40f51887fd55070bb95190d919e016c613b19679",
-      "bytes": 323767
+      "sha256": "384d1aafa1d795d15765c96bc0ab5510d192d3d81286683e07c1ef87c9ab915d",
+      "bytes": 331851
     },
     "source/mains-model-answers.md": {
       "sha256": "983eae814083288bb945220f333cc5511b15f6209d1d3bf74602c0cea2674325",
@@ -88,8 +88,8 @@
       "bytes": 3570
     },
     "source/sources-and-audit.md": {
-      "sha256": "1f6c10006bc9056c4948d34568b675a9b4774de61cb5dbd0ee9e5d716edb200a",
-      "bytes": 6325
+      "sha256": "d4d10b7fe3f0af3e2ad26b83b441c2257f813700bb94bf9ce4f638818194f9f0",
+      "bytes": 13045
     },
     "source/syllabus-and-summary.md": {
       "sha256": "22da5a859188eea9ff307d7fb6b103450a32174b801eaeb858f2372861864eae",
