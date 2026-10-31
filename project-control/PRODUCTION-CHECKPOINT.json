@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-1-4",
+    "last_reported_topic": "5-1-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle140 Topic5-1-4 29-page CI PDF and actual downloaded artifact 13051739993 verified; 10 author-side MCQs reviewed, academic R1–R8 incomplete. 75 original topics, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, zero approvals."
+    "note": "Cycle141 Topic5-1-5: ten author-side four-option audits; 29-page CI PDF succeeded; post-render packaging/download QA pending. 75 original topics, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -628,8 +628,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle54_ci_integrated_27page_pdf_html_and_master_synchronized_independent_audit_pending",
-      "notes": "Cycle54 source-critical Q14/18/29 and SHP 1–25MW scheme correction published; guarded CI run 40635045816 SUCCESS, commit c79dfe0, integrated 27-page PDF SHA256 30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68; original 27-page PDF SHA unchanged. 16 concepts >=300, 30 MCQs A11/B15/C2/D2, six regex body-only 220/222/227/224/220/219. Post-edit artifact download and full academic review pending, zero approvals.",
+      "production_review": "cycle141_ten_author_side_mcq_option_audits_ci_pdf_rendered_full_academic_audit_pending",
+      "notes": "Cycle141: 10 existing MCQs Q1/2/6/7/10/12/13/16/21/22 checked at author-side option level (10 keys/30 distractors) against nine DOE technical references; 20 keys/60 distractors remain. 16 existing concepts >=300 words but not full-page certification. Six mains claims and three diagrams not independently audited. CI 29-page PDF SHA256 edc651691dd21c94f980e1bdf5e62dc9469162f0dd167170ea4443faa15fe16e rendered via run 41231396690 SUCCESS; actual post-render publication artifact download QA still pending at control-commit time. Original PDF preserved by guarded SHA. R1–R8 incomplete; approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-5.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json"
