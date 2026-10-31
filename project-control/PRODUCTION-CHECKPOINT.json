@@ -9,7 +9,7 @@
     "last_reported_topic": "4-3-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle134 source audit: 12 existing original MCQ keys/36 distractors checked against six direct primary source pages; original 30 questions preserved; CI and actual downloaded artifact pending; R1–R8 incomplete, no approvals."
+    "note": "Cycle134 Topic4-3-3: 12 keys/36 distractors bounded primary-source author review; source table visual defect repaired; 28-page CI PDF and actual downloaded artifact 13041557929 verified (75 originals unchanged, 568 local links and 1185 fragments zero broken); 18 keys/54 distractors and all six mains claims pending. R1-R8 incomplete; no independent approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -539,8 +539,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle134_twelve_mcq_key_and_36_distractor_author_side_audit_ci_pending",
-      "notes": "Cycle47 29-page CI integrated PDF SHA256 46abe32cf6a0be20fe7e435f4dbd89f295741a5cc0f46b66a3e0e2edc7bf7c72; 16 concepts >=300 words; 30 original practice MCQs, six mains, three diagrams. Post-edit GitHub artifact 12774925781 actually downloaded: 1658 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 430 local links/1137 DOM fragments zero broken, outer/inner CRC PASS. R8 IN_PROGRESS; zero independent approvals. Cycle134: 12 keys/36 distractors bounded source-correlated; 18 keys/54 distractors pending; post-edit CI and downloaded artifact pending. No approval.",
+      "production_review": "cycle134_12_mcq_keys_36_distractors_28page_ci_actual_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle47 29-page CI integrated PDF SHA256 46abe32cf6a0be20fe7e435f4dbd89f295741a5cc0f46b66a3e0e2edc7bf7c72; 16 concepts >=300 words; 30 original practice MCQs, six mains, three diagrams. Post-edit GitHub artifact 12774925781 actually downloaded: 1658 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 430 local links/1137 DOM fragments zero broken, outer/inner CRC PASS. R8 IN_PROGRESS; zero independent approvals. Cycle134: 12 keys/36 distractors bounded source-correlated; 18 keys/54 distractors pending; 28-page GitHub CI PDF and downloaded artifact 13041557929 SHA/CRC verified. No approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-3-3.json"
     },
