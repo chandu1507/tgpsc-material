@@ -1,0 +1,80 @@
+# Topic 4-3-2 Cycle133 deterministic CI render QA
+
+{
+  "date": "2026-10-31",
+  "cycle": 133,
+  "topic_id": "4-3-2",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "academic_approvals": 0,
+  "concept_count": 16,
+  "concept_words_whitespace": {
+    "1": 385,
+    "2": 353,
+    "3": 344,
+    "4": 345,
+    "5": 347,
+    "6": 411,
+    "7": 318,
+    "8": 328,
+    "9": 440,
+    "10": 327,
+    "11": 414,
+    "12": 336,
+    "13": 438,
+    "14": 309,
+    "15": 435,
+    "16": 435
+  },
+  "concepts_below_300": 0,
+  "concept_expanded": [
+    6,
+    9,
+    11,
+    13,
+    15,
+    16
+  ],
+  "original_mcq_count": 30,
+  "keys": {
+    "B": 26,
+    "C": 1,
+    "A": 3
+  },
+  "author_side_option_reviews": [
+    4,
+    9,
+    16,
+    26
+  ],
+  "option_review_count": 16,
+  "full_mcq_independent_review": false,
+  "mains_claim_audit": false,
+  "diagram_accuracy_certified": false,
+  "commission_syllabus_directly_authenticated": false,
+  "source_register_additions": [
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+  ],
+  "original_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
+  "master_sha256": "11cc1ab32c988d524553ff4b7514d02f9d0578c04ce00fb3353673928ad9efd1",
+  "pdf_render_pending": false,
+  "actions_artifact_downloaded_after_edit": false,
+  "r1_r8_complete": false,
+  "r9": "NOT_STARTED",
+  "pdf_render": "GitHub_Actions_reportlab_deterministic",
+  "pdf_pages": 28,
+  "pdf_sha256": "aad608cc436d4fc0bbfe815e93e5c105feb900b4140800e5a60bb28fdb378fc8",
+  "pdf_blank_pages": [],
+  "pdf_text_boundary_violations": [],
+  "html_file_links_checked": 7,
+  "html_broken_file_links": [],
+  "html_fragment_links_checked": 0,
+  "html_broken_fragments": [],
+  "html_spa_routes_excluded": 0,
+  "offline_html_sha256": "39d5afb96338871e2935dd2eb363adbd070038667f65dc0be03355068029c53f",
+  "manifest_hashes_checked": 17,
+  "post_edit_actions_artifact_downloaded": false,
+  "browser_accessibility_certified": false
+}

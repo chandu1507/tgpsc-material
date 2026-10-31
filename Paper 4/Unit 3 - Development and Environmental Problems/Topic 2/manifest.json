@@ -2,47 +2,55 @@
   "topic_id": "4-3-2",
   "topic_title": "Natural Resources",
   "created": "2026-10-24",
-  "status": "expanded_draft_not_approved",
+  "status": "cycle133_author_side_depth_and_option_review_not_approved",
   "official_pyq_count": 0,
   "original_mcqs": 30,
   "mains_answers": 6,
   "diagrams": 3,
   "files": {
+    "README.md": {
+      "sha256": "0c204c45ae97745824ef77eedd0157ff5ebff17c2186ed31ffbca304d3767a42",
+      "bytes": 318
+    },
     "complete-notes.pdf": {
       "sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
       "bytes": 293282
     },
     "index.html": {
-      "sha256": "b96bb3954d0fbc532871dc0023ccd4207e74006e731cfda2cc9513f12cfd43a0",
-      "bytes": 84975
+      "sha256": "16b9b74d8fa1ebab43203ebfbcc32893293bf299c42b7ad2667334e0861db4e1",
+      "bytes": 99861
     },
     "source/answer-blueprints.md": {
       "sha256": "e2550f9110221899d7b7576823e743ef37bbe93d2a405b81759b75d292409023",
       "bytes": 1490
     },
     "source/complete-notes.md": {
-      "sha256": "88156d82e8841caf4c7dd26c98782395bfada7a77559e01d063f7d531edc7eb2",
-      "bytes": 79086
+      "sha256": "11cc1ab32c988d524553ff4b7514d02f9d0578c04ce00fb3353673928ad9efd1",
+      "bytes": 88272
     },
     "source/core.md": {
-      "sha256": "87877a8dd02f3c68add7dbc0fdc4c774b58de3b1bf62f8858597ee7fecae5caa",
-      "bytes": 39954
+      "sha256": "05e6bec087205bb5964880b6fcce67ed07f829eb9167c17b708d061b894e3c78",
+      "bytes": 45929
+    },
+    "source/integrated-student-edition-cycle133.pdf": {
+      "sha256": "aad608cc436d4fc0bbfe815e93e5c105feb900b4140800e5a60bb28fdb378fc8",
+      "bytes": 329924
     },
     "source/mains-model-answers.md": {
       "sha256": "0a51ae49da93bf05b63becde0c588d590243edc21e061fb946b1909727a909a2",
       "bytes": 11054
     },
     "source/original-mcqs.md": {
-      "sha256": "e43c2c02d66f6e3957f27ef3f6d238f38e0e8a49419cc05e7457e3e2c386d608",
-      "bytes": 9916
+      "sha256": "66a52a7780c7bb60c8aab55d323ee46551eea6ed1736f36a3ef3db32ea0d06d7",
+      "bytes": 11989
     },
     "source/quick-revision.md": {
       "sha256": "9efa92129116eac9a618cfe50b167525090fbff3f665fabd8b954a602c564213",
       "bytes": 4998
     },
     "source/sources-and-audit.md": {
-      "sha256": "a40aa87d8d10c19402c8a68c4ab83e4dd86fcf6a05cb8e15b28163b8d981dee1",
-      "bytes": 6697
+      "sha256": "273e4478df9292c21eee9e0cad5430a0436588d3da178f25fa269d31cbcfee7f",
+      "bytes": 7835
     },
     "source/syllabus-and-summary.md": {
       "sha256": "0c5d3a6d85b68b7751d8b6a3ffcf54e27ef1d2204e628bc05918e43e024d6c7e",
@@ -68,5 +76,10 @@
       "sha256": "a2b4e174beab780b7f2d54abadab1da3c1a854f5c118930f9f5644b975460b4e",
       "bytes": 49346
     }
-  }
+  },
+  "integrated_pdf_pages": 28,
+  "integrated_pdf_sha256": "aad608cc436d4fc0bbfe815e93e5c105feb900b4140800e5a60bb28fdb378fc8",
+  "academic_approval": "not_approved",
+  "cycle133_source_checked_option_reviews": 4,
+  "cycle133_core_concepts_above_300_whitespace_words": 16
 }
