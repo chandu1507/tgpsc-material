@@ -30,7 +30,16 @@ try:
     html=html.replace('href="complete-notes.pdf"','href="source/integrated-student-edition-cycle120.pdf"')
     html=html.replace('href="source/complete-notes.md"','href="source/integrated-student-edition-cycle120.md"')
     html=html.replace('Expanded draft — academically unapproved','Cycle120 integrated draft — academically unapproved')
-    (SRC/'integrated-student-edition-cycle120.html').write_text(html.replace('<head>','<head><base href="../">',1))
+    # A <base href="../"> fixes image paths but silently redirects fragment-only
+    # TOC links to the parent index instead of anchors in this document.
+    # Keep the offline HTML self-contained: rewrite only file references,
+    # leaving #section-N links relative to this same document.
+    offline_html = html.replace('href="../../../index.html"', 'href="../../../../index.html"')
+    offline_html = offline_html.replace('href="source/integrated-student-edition-cycle120.pdf"', 'href="integrated-student-edition-cycle120.pdf"')
+    offline_html = offline_html.replace('href="source/integrated-student-edition-cycle120.md"', 'href="integrated-student-edition-cycle120.md"')
+    offline_html = offline_html.replace('src="visuals/', 'src="../visuals/')
+    assert '<base ' not in offline_html, 'Fragment navigation must remain document-relative'
+    (SRC/'integrated-student-edition-cycle120.html').write_text(offline_html)
     (ROOT/'index.html').write_text(html)
 finally:
     legacy_pdf.write_bytes(original_pdf)
