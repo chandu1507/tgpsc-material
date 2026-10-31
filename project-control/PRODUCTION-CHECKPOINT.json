@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-3-3",
+    "last_reported_topic": "4-3-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle134 Topic4-3-3: 12 keys/36 distractors bounded primary-source author review; source table visual defect repaired; 28-page CI PDF and actual downloaded artifact 13041557929 verified (75 originals unchanged, 568 local links and 1185 fragments zero broken); 18 keys/54 distractors and all six mains claims pending. R1-R8 incomplete; no independent approvals."
+    "note": "Cycle135 Topic4-3-4: ten keys/30 distractors bounded source-correlated, 34-page GitHub CI PDF, actual downloaded archive 13043093883 SHA/CRC/75 original PDFs/568 links/1189 fragments PASS; Topic3-3-4 offline fragment bug fixed. Remaining 20 keys/60 distractors and six mains claims; R1-R8 incomplete, approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -1119,22 +1119,22 @@
     "verified_R1_pass": 14,
     "fully_R1_R8_ready": 0,
     "independently_approved": 0,
-    "last_assessed": "2-3-3",
-    "evidence": "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json",
+    "last_assessed": "4-3-4",
+    "evidence": "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
     "IN_PROGRESS": 7,
     "ASSESSED_REBUILD_REQUIRED": 68,
     "NOT_ASSESSED": 0,
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle110 Topic 3-1-4: source-critical integrated 8,054-word master, 18-page GitHub PDF, two original vector diagrams; actual packaging artifact 12974667647 SHA/CRC/75 originals/597 paths/1050 fragments PASS. Independent academic audits and browser accessibility pending; approvals ZERO.",
-  "last_readiness_reconciliation": "Fresh 29 Oct main and 75 per-topic JSON: 75 originals, 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 verified/historical R1 mappings, 0 fully ready, 0 approvals.",
+  "last_readiness_update": "Cycle135 Topic4-3-4: 10 keys/30 distractors author-side reviewed; CI 34-page PDF SHA 1249da2e..., actual downloaded artifact 13043093883 QA PASS; 20 keys/60 distractors, six mains, three diagrams, full browser and expert still pending.",
+  "last_readiness_reconciliation": "31 Oct Cycle135: exactly 75 per-topic records consistent with 75 original PDFs; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS, zero fully R1-R8 ready, zero independent approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
     "ASSESSED_REBUILD_REQUIRED": 68,
     "NOT_ASSESSED": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/2-2-2-cycle85-final-downloaded-github-artifact-qa-2026-10-29.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1155,7 +1155,7 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle83 Topic 2-1-5 renderer 40846405116 SUCCESS: synchronized 23-page PDF SHA256 7bd02f56e14d1250c8c66463950e88e0e54fffeef91665162a882347bf3c772c. Packaging 40846501172 artifact 12884269106 ACTUALLY DOWNLOADED: 1920 files, 75 unchanged originals, 75 readiness JSON, 83 HTML, 558 local links and 1050 DOM fragments zero broken, ZIP CRC and GitHub digest PASS. 18/23 concepts shallow, 24 MCQ keys/72 distractors and six mains claim audits pending. R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
+  "latest_readiness_update": "Cycle135 Topic4-3-4: 10 keys/30 distractors author-side reviewed; CI 34-page PDF SHA 1249da2e..., actual downloaded artifact 13043093883 QA PASS; 20 keys/60 distractors, six mains, three diagrams, full browser and expert still pending.",
   "latest_academic_cycle": {
     "cycle": 98,
     "topic_id": "2-3-3",
@@ -1174,29 +1174,27 @@
     "artifact_qa": "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
   },
   "latest_academic_readiness_cycle": {
-    "cycle": 110,
-    "date": "2026-10-30",
-    "topic": "3-1-4",
-    "source_audit": "project-control/academic-readiness/3-1-4-cycle110-deduplicated-master-vetti-primary-source-audit-2026-10-30.json",
-    "integrated_master_sha256": "5a82f451edb6108e0a6199ff3f91fb5a84d95e99a67c8efe020b6cdbb80a5cae",
-    "local_pdf_pages": 18,
-    "local_pdf_sha256": "2bdae18b40f3016ef3f72889a58de005dc0ca853fc667efc5663ca1d3f962174",
-    "github_ci_pdf": "SUCCESS",
-    "downloaded_artifact_qa": "project-control/academic-readiness/3-1-4-cycle110-actual-downloaded-postrender-artifact-qa-2026-10-30.json",
+    "cycle": 135,
+    "date": "2026-10-31",
+    "topic": "4-3-4",
+    "source_audit": "project-control/academic-readiness/4-3-4-cycle135-ten-mcq-option-audit-2026-10-31.md",
+    "downloaded_artifact_qa": "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
+    "github_ci_run_id": 41202713899,
+    "github_ci_pdf_sha256": "1249da2e479bab66623b479b7d842b3494f993efc4b77539534c6d5d432bae07",
+    "github_ci_pdf_pages": 34,
+    "packaging_run": 41202953628,
+    "artifact_id": 13043093883,
+    "artifact_sha256": "cef2076274fff07c02d1494b10d92f1b0e657bc7680deede9c4825077bb676e2",
     "topic_counts": {
       "IN_PROGRESS": 7,
       "ASSESSED_REBUILD_REQUIRED": 68,
       "NOT_ASSESSED": 0
     },
     "fully_ready": 0,
-    "independent_approvals": 0,
-    "github_ci_run_id": 41051117243,
-    "github_ci_pdf_sha256": "294e15aa983b8e9fad3e845bcdf66d3d484c6b12c649920247903e71028203d4",
-    "artifact_id": 12974667647,
-    "packaging_run": 41051324081,
-    "artifact_sha256": "3f4cad96c8fb9d44737e2287439dd5c80d5e50dc2bbf50f791e832ae9e67eafd"
+    "independent_approvals": 0
   },
   "recent_evidence": [
+    "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
     "project-control/academic-readiness/2-3-1-cycle100-final-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-1-cycle100-capacity-and-aquifer-mcq-audit-2026-10-30.json"
   ]
