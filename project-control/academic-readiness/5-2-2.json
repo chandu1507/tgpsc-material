@@ -1,7 +1,7 @@
 {
   "topic_id": "5-2-2",
   "title": "Biotechnology, Genetic Engineering, Stem Cell Research and Agricultural and Environmental Applications",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/5-2-2-cycle55-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-  "next_action": "Complete 25 remaining MCQ key checks and 90 distractor evaluations, six mains claim audits, three diagram audits, independent 2024 syllabus retrieval and direct browser accessibility. Then R1–R8 evidence-based gate review; R9 only with named independent expert.",
+  "next_action": "Verify CI cycle143 PDF and actual downloaded packaging artifact; 20 remaining MCQ keys/60 distractors, six mains claims, three diagrams, official syllabus and browser accessibility remain; no R1-R8 full PASS or R9 approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -70,5 +70,33 @@
     "actual_post_edit_github_artifact_verified": true,
     "actual_github_artifact_id": 12796015365,
     "actual_github_artifact_sha256": "747e03d2dbf07d5de172852c47c6589cb455dab05d29f159f41b0ccdaffd9c23"
+  },
+  "cycle143": {
+    "reviewed_existing_mcqs": [
+      1,
+      2,
+      3,
+      6,
+      9,
+      10,
+      12,
+      19,
+      22,
+      24
+    ],
+    "source_correlated_proposed_keys": 10,
+    "distractors_explained": 30,
+    "remaining_keys_without_full_option_audit": 20,
+    "remaining_distractors_without_full_option_audit": 60,
+    "previous_limited_key_correspondences": [
+      7,
+      11,
+      17,
+      26,
+      27
+    ],
+    "independent_approval": false,
+    "ci_pdf_pending": true,
+    "downloaded_post_edit_artifact_qa_pending": true
   }
 }

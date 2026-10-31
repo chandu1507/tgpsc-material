@@ -5,6 +5,7 @@ on:
     paths:
       - 'Paper 5/Unit 2 - Modern Applications of Science/Topic 2/source/complete-notes.md'
       - 'scripts/publish_topic_5_2_2.py'
+      - 'Paper 5/Unit 2 - Modern Applications of Science/Topic 2/source/academic-option-audit-cycle143.md'
       - 'scripts/render_topic_5_2_2_integrated.py'
       - '.github/workflows/render-topic-5-2-2-integrated.yml'
   workflow_dispatch:
@@ -40,7 +41,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             python scripts/publish_topic_5_2_2.py
-            git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle55.pdf" 'project-control/academic-readiness/5-2-2-cycle55-ci-render-qa-2026-10-28.json'
+            git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle143.pdf" 'project-control/academic-readiness/5-2-2-cycle143-ci-render-qa-2026-11-01.json'
             if git diff --cached --quiet; then
               echo 'Topic 5-2-2 already synchronized'
               exit 0
