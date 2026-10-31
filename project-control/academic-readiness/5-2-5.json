@@ -1,7 +1,7 @@
 {
   "topic_id": "5-2-5",
   "title": "Vaccines: Immunity, DPT and Rabies Production, and Recombinant Hepatitis B Vaccines",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-5-cycle58-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-  "next_action": "CI integrated 25-page PDF, editable master and actual downloaded GitHub artifact verified (CRC/SHA, 75 originals, manifest, links); R8 still IN_PROGRESS pending direct browser accessibility, 17 MCQ keys, 90 distractors, six mains claim audits, three diagrams and syllabus reauthentication. Zero approvals.",
+  "evidence": "Paper 5/Unit 2 - Modern Applications of Science/Topic 5/source/academic-option-audit-cycle146.md",
+  "next_action": "Cycle146 12 original MCQs received author-side 12-key/36-distractor primary-source option reviews; 18 keys/54 distractors, six mains claim audits, three diagrams, direct syllabus reauthentication and browser QA remain. CI PDF and post-edit downloaded artifact QA pending; original preserved; R5 BLOCKED, R8 IN_PROGRESS, independent approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -65,6 +65,27 @@
     "actual_github_artifact_id": 12803981224,
     "actual_github_artifact_sha256": "c19f9aae46971c73dc01e54e9bdd32c89dabe0b7a169f9540e55958da45d4c2f",
     "github_integrated_pdf_pages": 25,
-    "github_integrated_pdf_sha256": "11a55291d7d850484eb8dd6acbb9c942ea6d69bc1acf5bbc7a9455f74d3097b3"
+    "github_integrated_pdf_sha256": "11a55291d7d850484eb8dd6acbb9c942ea6d69bc1acf5bbc7a9455f74d3097b3",
+    "cycle146_four_option_audit": {
+      "question_ids": [
+        11,
+        12,
+        13,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        27,
+        29
+      ],
+      "keys_reviewed": 12,
+      "distractors_reviewed": 36,
+      "remaining_questions": 18,
+      "remaining_distractors": 54,
+      "independent_approval": false
+    }
   }
 }
