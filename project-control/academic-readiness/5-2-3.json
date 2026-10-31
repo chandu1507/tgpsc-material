@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-3-cycle56-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+  "evidence": "project-control/academic-readiness/5-2-3-cycle144-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
   "next_action": "Replace and independently review diagram 01 HACCP order and diagram 03 contaminant-specific branching; audit 20 MCQs/60 distractors, six mains and syllabus; verify actual post-render downloaded artifact; retain R1-R8 incomplete and R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -91,6 +91,11 @@
     "diagram_03": "BLOCKED_UNIVERSAL_SERIAL_TREATMENT_IMPLICATION",
     "audit_path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 3/source/academic-option-audit-cycle144.md",
     "independent_academic_approval": false,
-    "full_browser_accessibility": false
+    "full_browser_accessibility": false,
+    "actual_post_render_github_artifact_id": 13059017891,
+    "actual_post_render_artifact_sha256": "98df64ac07a29f73f301e0ef31fd05dff646f334d7ef73e2a73fb3a8d6853a81",
+    "integrated_github_pdf_sha256": "eb37db004c11d2171c98059e4588255337d07a30d69f387ed75fa412779d3bc7",
+    "integrated_github_pdf_pages": 29,
+    "actual_post_render_artifact_qa": "PASS_STRUCTURAL_NOT_ACADEMIC"
   }
 }
