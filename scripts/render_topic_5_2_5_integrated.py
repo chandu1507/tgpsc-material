@@ -55,23 +55,6 @@ def inline_html(tok):
         elif t.type=='image':parts.append(html.escape(t.content))
     return ''.join(parts)
 
-def diagram(num):
-    sets={
-      1:['Energy resources','Conversion','Grid integration','Energy service','Safeguards'],
-      2:['Demand','Supply mix','Dispatch','Reliability','Affordability'],
-      3:['Energy claim','Unit and date','Primary source','Cross-check','Caveat']}
-    labels=sets[num]; W=510; H=75; d=Drawing(W,H)
-    for i,label in enumerate(labels):
-        x=5+i*102; d.add(Rect(x,21,93,35,rx=7,ry=7,fillColor=pale,strokeColor=accent,strokeWidth=.9));
-        a=label.split(' ')
-        if len(label)>15:
-            mid=len(a)//2; lines=[' '.join(a[:mid]),' '.join(a[mid:])]
-        else:lines=[label]
-        for j,l in enumerate(lines):d.add(String(x+46.5,42+(len(lines)-1)*5-j*10,l,textAnchor='middle',fontName='Noto',fontSize=7.2,fillColor=navy))
-        if i<4:
-            d.add(Line(x+93,38,x+100,38,strokeColor=accent,strokeWidth=1.5))
-    return d
-
 story=[]
 tokens=MarkdownIt('commonmark').enable('table').parse(src.read_text())
 i=0; current_table=None; row=None; cell=None; list_depth=0
