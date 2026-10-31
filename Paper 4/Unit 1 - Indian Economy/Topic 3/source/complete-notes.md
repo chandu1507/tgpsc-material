@@ -709,3 +709,40 @@ D. M2 = ₹205 crore; M3 = ₹485 crore
 ## Cycle37 bounded author-side checks
 
 RBI S01 conventional monetary aggregate definitions and DICGC S20 insurance rules were directly checked. MCQs 11 and 25 were revised with source-linked explanations. The other 23 keys, all distractors, six mains answers and diagrams remain pending full academic review. All questions are original practice, not authenticated official PYQs.
+
+## Cycle124 bounded primary-source option audit — 31 October 2026
+
+**Scope and provenance.** This is an author-side option-by-option audit of ten *existing* original practice MCQs (Q1, Q2, Q4, Q8, Q9, Q10, Q11, Q22, Q24 and Q25): **10 keys and 30 distractors**. No question was added, deleted, or represented as an official previous-year question. Directly retrieved issuer publications are cited below. This is neither a named independent subject-expert review nor a complete 25-question audit. The other 15 questions, all six mains answers, diagrams, accessibility, and current-law amendment checks remain open. R5/R8 do not pass on this evidence.
+
+**Q1 — B retained.** A is false: M1 does not include all bank time deposits, and currency in circulation is not the same as currency with the public. B is the RBI conventional definition: currency with the public + demand deposits with the banking system + other deposits with RBI. C is false: all post-office deposits do not enter M1. D is false: bank capital is not an M1 component. **Evidence:** RBI Manual on Financial and Banking Statistics, conventional monetary aggregates [C124-1].
+
+**Q2 — B retained.** A (corporate shares), C (insurance policies), and D (household government-bond holdings) are not the incremental M3 component. B is correct because the RBI conventional definition is M3 = M1 + time deposits with the banking system. The distinction is between a monetary aggregate and ownership of financial instruments, not whether an instrument is valuable. **Evidence:** RBI manual [C124-1].
+
+**Q4 — C retained, under the question's unchanged-other-items assumption.** A is false because merely reclassifying ₹1 lakh of deposits from demand to time does not add ₹1 lakh to M3. B is false because the fall in demand deposits is exactly offset by the rise in time deposits. C is correct: M3 contains both categories, so the sum is unchanged; M1 falls. D is false: deposit conversion does not turn the deposit into RBI reserve money. **Evidence:** RBI manual definitions and arithmetic [C124-1]. This is a controlled hypothetical, not a measured monetary change.
+
+**Q8 — C retained as of the 31 October 2026 check.** A (8), B (10), and D (21) contradict the Department of Financial Services' presently displayed count of **12** public-sector banks. C agrees with the issuer's enumerated bank list. This is a **date-sensitive institutional count** and must be checked again before final examination publication. **Evidence:** DFS banking page [C124-2].
+
+**Q9 — B retained.** A (Canara Bank) is associated with the Syndicate Bank merger, not Andhra Bank. B is correct: Andhra Bank and Corporation Bank amalgamated with Union Bank of India effective 1 April 2020. C (Indian Bank) received Allahabad Bank, not Andhra Bank. D (Bank of Baroda) was the receiving bank for Vijaya Bank and Dena Bank in 2019. **Evidence:** DFS official merger chronology [C124-2].
+
+**Q10 — C retained.** A is false because an NBFC is not automatically a bank. B is false because NBFC public deposits do not carry DICGC insurance. C is correct **only for appropriately authorised deposit-taking NBFCs**, subject to RBI limits; registration alone does not confer deposit-taking authority. D is false because NBFCs do not have general bank-like demand-deposit cheque-issuance powers. **Evidence:** RBI NBFC depositor guidance and DICGC guide [C124-3, C124-4]. Regulatory detail may change; do not infer all NBFCs can take deposits.
+
+**Q11 — D retained.** The hypothetical same-capacity balances aggregate to ₹3.8 lakh + ₹2.1 lakh = ₹5.9 lakh, including interest. A incorrectly treats the whole ₹5.9 lakh as insured. B incorrectly multiplies the ceiling by branches. C incorrectly excludes eligible fixed deposits. D correctly applies the ₹5 lakh per depositor/per insured bank/same-right-and-capacity ceiling; ₹0.9 lakh exceeds the limit. **Evidence:** DICGC guide [C124-4]. This ignores separate capacities, which the stem explicitly excludes, and is not a claim settlement assessment.
+
+**Q22 — C retained with qualification.** A (7 days), B (30 days), and D (365 days in all cases) do not express the usual RBI term-loan overdue threshold. C is the common **more-than-90-days** rule for interest or principal instalments on term loans. This is not a universal rule for every agricultural advance, overdraft, or other product; crop-season and 'out-of-order' rules differ. **Evidence:** RBI income-recognition/asset-classification master circular [C124-5]. The stem's word 'generally' is essential.
+
+**Q24 — C retained with category qualification.** A (5%) and B (20%) are not the broad domestic commercial-bank target. C correctly states **40% of adjusted net bank credit or the applicable credit-equivalent off-balance-sheet exposure base, whichever is higher**, for the relevant domestic commercial-bank category under the cited framework. D (100% of total deposits) is neither the target nor the correct denominator. Targets vary for RRBs, SFBs and some other categories, and subsequent amendments require checking. **Evidence:** RBI Priority Sector Lending Master Direction [C124-6]. Do not generalise the 40% to all bank types.
+
+**Q25 — D retained.** With the hypothetical inputs, M2 = M1 + post-office savings deposits = 185 + 20 = **₹205 crore**; M3 = M1 + banking-system time deposits = 185 + 300 = **₹485 crore**. A reverses the relevant components; B adds both additions into M2 and misstates M3; C wrongly adds post-office savings to M3. D alone has both correct values. **Evidence:** RBI conventional definitions and independently recomputed arithmetic [C124-1]. M3 is not calculated by adding M2 and time deposits.
+
+### Cycle124 primary-source register (issuer pages retrieved on 31 October 2026)
+
+| ID | Issuer / evidence | Direct URL | Use and limit |
+|---|---|---|---|
+| C124-1 | Reserve Bank of India, Manual on Financial and Banking Statistics, measures of monetary aggregates | https://systemhealth.rbi.org.in/Scripts/PublicationsView.aspx_id%3D9455.html | Historical conventional M1/M2/M3 definitions, not current money-stock values |
+| C124-2 | Department of Financial Services, Banking | https://www.financialservices.gov.in/banking | 12 PSBs as displayed on check date; 2019–20 amalgamation chronology |
+| C124-3 | RBI, NBFC depositors guidance | https://systemhealth.rbi.org.in/Scripts/BS_NBFCDepositors.aspx%281%29.html | NBFC deposit authorisation restrictions; historical page, not a complete 2026 amendment audit |
+| C124-4 | DICGC, Guide to Deposit Insurance | https://www.dicgc.org.in/guide-to-deposit-insurance | ₹5 lakh cap, deposit categories, branch aggregation, same right/capacity, NBFC exclusion |
+| C124-5 | RBI, IRAC master circular | https://systemhealth.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx_id%3D12657%281%29.html | General >90-day term-loan test and crop-season exceptions; review current applicability |
+| C124-6 | RBI, Priority Sector Lending Master Direction | https://systemhealth.rbi.org.in/Scripts/BS_ViewMasDirections.aspx_id%3D11959%282%29.html | Category-specific 40% target and ANBC/CEOBE denominator; check amendments |
+
+**Disposition:** Ten existing keys retained after bounded primary-source checks, 30 distractors explained. No independently approved item, no full R5 or R8 PASS, no R9, no external academic approval.
