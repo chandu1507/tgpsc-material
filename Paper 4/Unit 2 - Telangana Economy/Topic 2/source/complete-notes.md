@@ -61,6 +61,30 @@ Define the demographic mechanism → give two dated Telangana indicators → exp
 
 # Detailed Textbook Notes
 
+## Core formulae and definitions
+- **Sex ratio:** females per 1,000 males; **sex ratio at birth:** female live births per 1,000 male live births; **child sex ratio:** usually ages 0–6 in Census.
+- **Crude birth rate / death rate:** annual births / deaths per 1,000 mid-year people.
+- **TFR:** sum of age-specific fertility rates expressed as expected births per woman under current age-specific patterns; not the crude birth rate.
+- **IMR:** deaths before first birthday per 1,000 live births; **NMR:** deaths within first 28 days per 1,000 live births; **MMR:** maternal deaths per 100,000 live births.
+- **Dependency ratio:** (0–14 population + 65+ population) / 15–64 population × 100; demographic convention, not an employment statistic.
+- **LFPR:** employed plus unemployed seeking/available for work as share of population; **WPR:** employed as share of population; **UR:** unemployed as share of labour force.
+- **Census 2011 Telangana:** 35,003,674 population; sex ratio 988; literacy 66.54%; male 75.04%, female 57.99%; urban 38.88%; decadal growth 13.58%.
+- **NFHS-5 Telangana (2019–21):** TFR 1.8; survey sex ratio 1,049; survey sex ratio at birth 894; IMR 26.4. Never compare directly with Census or annual SRS.
+- **UDISE+ 2024–25 Telangana:** 43,154 schools; 7,457,851 enrolments; 357,911 teachers; 5,001 single-teacher schools (reported administrative dataset).
+- **Legal anchors:** Article 21A, RTE Act 2009, RPwD Act 2016, PCPNDT Act 1994, NFSA 2013, Prohibition of Child Marriage Act 2006, National Population Policy 2000, National Health Policy 2017, NEP 2020.
+
+## 60-second exam distinctions
+1. A **dividend** is conditional on productive employment; a large youth cohort is not sufficient.
+2. **Falling TFR** can coexist with **population growth** because of population momentum and migration.
+3. **Literacy** is an accumulated stock; **enrolment** and **transition** are current school-system flows.
+4. **Census worker categories** differ from **PLFS usual-status and current-weekly-status** estimates.
+5. **Insurance** does not replace primary care, prevention or medicine access.
+6. **High state-average PTR** can coexist with severe district/school-level teacher imbalances.
+7. **Registration counts** (CRS) and **estimated vital rates** (SRS/NFHS) are not interchangeable.
+8. **Female participation** must be interpreted with hours, earnings, care work and job quality.
+
+## Exam answer template
+Define the demographic mechanism → give two dated Telangana indicators → explain institutions and laws → identify gender/district inequality → assess implementation trade-offs → conclude with measurable reforms. For an evidence question, label every numerator, denominator, year and data producer.
 
 ## 1. Human resources as development capability, not merely population size
 
@@ -72,7 +96,6 @@ The principal analytical chain is demography → health and learning → skills 
 
 Telangana's policy instruments include the Departments of Health, Medical and Family Welfare, School Education, Higher Education, Women Development and Child Welfare, Labour, and Skills; public universities; government hospitals; Anganwadi centres under ICDS/Saksham Anganwadi and POSHAN 2.0; and district administrations. The relevant legal framework includes Article 21 as interpreted by courts, Directive Principles including Articles 39(e), 41, 42, 45 and 47, the Right of Children to Free and Compulsory Education Act 2009 and labour protections. Effective human-resource strategy requires district-level disaggregation by gender, caste, tribe, disability, residence and age, not a single state average.
 
-
 ## 2. Demographic structure: population pyramids, cohorts, dependence and regional distribution
 
 Demographic structure describes how a population is distributed by age, sex, location and social characteristics at a particular date. An expansive population pyramid has a wide base and many children; a constrictive pyramid has a narrower base and relatively more older people. Population pyramids are historical records of fertility, mortality and migration, not forecasts by themselves. The cohorts born during high-fertility decades move through schools, labour markets and eventually old age. Administrators should therefore plan seats, teachers, apprenticeships, primary care and pensions from cohort trajectories rather than extrapolating total population alone.
@@ -82,7 +105,6 @@ Age dependency is usually approximated as [(population aged 0–14 + population 
 According to Telangana's Directorate of Economics and Statistics, the 2011 Census counted 35,003,674 people, with 17,611,633 males and 17,392,041 females, a density of 312 persons per square kilometre, and a decadal growth rate of 13.58% in 2001–11. Urban residents represented 38.88% and rural residents 61.12%. These are census-base figures, not a 2026 headcount; administrative estimates, surveys and later projections must not be silently substituted. The 2011 Census age distribution and the NFHS age profile are also different types of estimates. District reorganisations after 2014 complicate time-series comparisons: analysts must use harmonised geographical boundaries before claiming that a new district's population grew or declined.
 
 Hyderabad and its metropolitan periphery draw students, skilled workers and service-sector migrants, while tribal and dryland districts may experience seasonal outmigration and weaker access to institutions. Migration can alter the sex ratio, school demand and housing needs without changing underlying fertility. Urbanisation also increases the need for public transport, rental accommodation, safe workplaces and accessible primary care. A district demographic dashboard should separate natural increase (births minus deaths), net migration, age composition and household characteristics. Otherwise, a city may build schools for children who have already moved, while receiving areas underprovide classrooms and clinics.
-
 
 ## 3. Demographic transition: mechanisms, stages and the Telangana trajectory
 
@@ -94,7 +116,6 @@ Telangana's NFHS-5 (2019–21, state fieldwork 2019–20) estimated a total fert
 
 Lower fertility creates opportunities and risks. Smaller families may invest more per child and women may enter paid work; simultaneously the future cohort of new workers shrinks and the share of older residents rises. Telangana should not respond by assuming either that fertility decline is a crisis or that it guarantees prosperity. The more defensible response is to raise learning quality, reduce avoidable illness, support childcare, make work accessible to women, prepare age-friendly services and monitor district variation. Any demographic claim should specify year, geography, source and whether the measure comes from a census, sample survey or registration system.
 
-
 ## 4. Sex ratios: overall, child, sex at birth and gendered life chances
 
 The overall sex ratio is the number of females per 1,000 males in a population. The child sex ratio ordinarily uses ages 0–6 in the Census, whereas sex ratio at birth counts female live births per 1,000 male live births in a specified period. They answer different questions. The overall ratio reflects past births, sex-specific survival and migration; the birth ratio is more sensitive to contemporary prenatal discrimination and registration practices. A ratio measured among all household members in a sample survey cannot be treated as interchangeable with the Census ratio. Nor does a high overall ratio prove that girls face no disadvantage in nutrition, safety or schooling.
@@ -104,7 +125,6 @@ Telangana's 2011 Census sex ratio was 988 females per 1,000 males, up from 971 i
 A skewed sex ratio at birth can reflect son preference, inheritance practices, dowry expectations, unequal reproductive decision-making and unlawful sex selection. The Pre-Conception and Pre-Natal Diagnostic Techniques (Prohibition of Sex Selection) Act 1994, as amended, regulates prenatal diagnostic techniques and prohibits sex selection. It does not prohibit medically justified prenatal diagnosis; it requires registration, record keeping and oversight. Enforcement must focus on unlawful conduct without obstructing legitimate maternal care. Birth registration under the Registration of Births and Deaths Act 1969 and reliable civil registration are essential for measurement, although incomplete registration can distort district comparisons.
 
 Gender-sensitive demographic policy extends beyond birth. Girls' secondary education, safe transport, toilets, prevention of child marriage, protection from violence, reproductive autonomy and employment opportunity change lifetime outcomes. Telangana's rural-to-urban migration can alter observed local sex ratios even when births are balanced. District officials should triangulate Census, NFHS, CRS and SRS data, investigate implausible sudden changes, and avoid ranking districts on small samples. The best test of gender equality is a bundle of survival, education, safety, agency and employment indicators rather than one ratio alone.
-
 
 ## 5. Fertility: measurement, determinants, family planning and reproductive choice
 
@@ -116,7 +136,6 @@ NFHS-5 Telangana reported TFR around 1.8 and contraceptive use by approximately 
 
 The demographic implication is a shift from managing high fertility to managing reproductive choice and later-life needs. A district with many adolescents requires adolescent-friendly services and schooling even if TFR is low; a district with many older women requires non-communicable disease screening. Fertility reduction is not an adequate substitute for reducing maternal deaths or child malnutrition. Examinations often confuse TFR, CBR, replacement level and population momentum: the correct answer identifies the denominator, time frame and causal mechanism. Telangana can improve outcomes through quality public primary care, sex education consistent with law, male engagement, childcare and women's economic autonomy.
 
-
 ## 6. Mortality, life expectancy, public health surveillance and the epidemiological transition
 
 Mortality indicators quantify death risks but use different denominators. The crude death rate is deaths per 1,000 population; infant mortality rate (IMR) is deaths before age one per 1,000 live births; neonatal mortality rate is deaths in the first 28 days per 1,000 live births; under-five mortality is deaths before age five per 1,000 live births. Maternal mortality ratio is maternal deaths per 100,000 live births, not per 1,000 women. Life expectancy at birth is a synthetic measure based on current age-specific mortality rates; it is not a prediction of an individual newborn's lifespan. Age standardisation is essential when comparing crude death rates between young and ageing populations.
@@ -126,7 +145,6 @@ Mortality declines through clean water, sanitation, immunisation, safe delivery,
 NFHS-5 Telangana estimated IMR of 26.4 per 1,000 live births and neonatal mortality of 16.8, based on survey recall periods; these are not the same as annual SRS estimates. The Office of the Registrar General released the SRS Statistical Report 2023 on 3 September 2025 and an SRS 2023 bulletin on 1 June 2026. Those are the preferred official series for annual fertility/mortality trends, but specific Telangana rates are not reproduced here unless directly verified from the underlying table. This is an intentional provenance safeguard. Civil Registration System totals, meanwhile, are counts of registered events and may be affected by completeness and residence versus place-of-occurrence rules.
 
 Health planning should connect ASHAs, ANMs, sub-centres/Ayushman Arogya Mandirs, PHCs, community health centres, district hospitals, teaching hospitals and ambulance/referral systems. Maternal care requires early antenatal registration, anaemia screening, safe delivery and postnatal follow-up; newborn survival requires resuscitation, infection prevention and appropriate referral. NCD control needs longitudinal patient records, medication adherence and lifestyle support. Telangana's metropolitan hospitals can attract referrals from neighbouring districts, so hospital deaths by location cannot be equated with local mortality risk. The policy test is equitable survival and financial protection, measured with consistent indicators.
-
 
 ## 7. Demographic dividend: first and second dividends, employment and the closing window
 
@@ -138,10 +156,6 @@ Telangana has an advantage in Hyderabad's IT, life sciences, education, logistic
 
 A demographic dividend has a time limit. Low fertility eventually produces smaller new cohorts and higher old-age dependency. The response should not be coercive fertility policy but investment in productive longevity: better schooling, vocational retraining, women's paid employment, prevention of chronic disease, accessible transport and pensions. Examiners may ask whether a low TFR threatens growth; a balanced answer recognises short-run gains from lower dependency and long-run ageing risks. For Telangana, the most useful dashboard combines age-specific employment, educational attainment, learning quality, earnings, labour productivity and elderly dependency, disaggregated by district and gender.
 
-
-![Demographic dividend causal chain](visuals/dividend-mechanism.png)
-
-
 ## 8. Literacy, learning outcomes, digital capability and regional disparities
 
 Literacy is conventionally the ability to read and write with understanding in a language. Under Census 2011, the literacy rate is calculated for people aged seven and above, not the entire population. School attendance, years of schooling, functional literacy, foundational numeracy and learning outcomes are distinct measures. A child may be enrolled but unable to read a grade-level text; an adult may have passed a class but struggle with digital financial forms. Human-resource policy must therefore move from counting classrooms and enrolments to measuring foundational literacy, numeracy, comprehension and applied skills.
@@ -151,10 +165,6 @@ Telangana's Census 2011 literacy rate was 66.54%, with 75.04% among males and 57
 Foundational literacy requires early-childhood development, mother-tongue or familiar-language instruction where pedagogically appropriate, trained teachers, regular attendance and assessment that identifies gaps before they compound. The National Education Policy 2020 and the NIPUN Bharat mission emphasise foundational literacy and numeracy; the Right of Children to Free and Compulsory Education Act 2009 provides the legal framework for free and compulsory elementary education for children aged six to fourteen. Neither policy aspiration nor statutory entitlement alone guarantees learning. Monitoring should distinguish grade completion, reading proficiency and later employability.
 
 Telangana's educational geography is heterogeneous. Hyderabad has concentrated higher-education institutions and digital services, while some remote tribal hamlets face distance, transport and language barriers. Digital access can widen options through online materials and teacher support but also widen inequality where electricity, devices, connectivity or parental support are absent. Adult literacy initiatives must account for work schedules and women with unpaid care responsibilities. For exam answers, compare literacy as a stock of accumulated educational achievement with current school enrolment as a flow; cite source years and emphasise quality, gender equity and the ability to use learning in daily life.
-
-
-![Telangana Census 2011 literacy chart](visuals/census-literacy-2011.png)
-
 
 ## 9. Occupational structure, labour statistics, informal work and structural transformation
 
@@ -166,10 +176,6 @@ The Periodic Labour Force Survey (PLFS) measures labour-force participation (emp
 
 Telangana's labour strategy must link agricultural productivity and diversification, MSME growth, industrial clusters, service-sector skills, safe urban commuting and portable benefits for migrants. Skill credentials should be validated by employers, and apprenticeships should offer genuine work experience. Informal construction, gig work, domestic work and seasonal agricultural labour require attention to occupational safety and social security. A serious appraisal asks who gains from a sectoral shift, whether real earnings rise, whether women retain employment after childbirth, and whether workers acquire bargaining power. Employment quality is the missing link between demographic dividend and inclusive development.
 
-
-![Telangana Census 2011 occupational categories](visuals/census-occupation-2011.png)
-
-
 ## 10. Education sector: rights, governance, financing and learning-quality reforms
 
 Education is both a constitutional commitment and a productive investment. Article 21A establishes the right to free and compulsory education for children aged six to fourteen, implemented through the RTE Act 2009. The National Education Policy 2020 envisages a 5+3+3+4 pedagogical structure and stronger foundational learning, multidisciplinary higher education and vocational exposure. Samagra Shiksha integrates school education interventions, while PM POSHAN supports school meals and student nutrition. Higher education operates through state universities, national regulators, accreditation systems and professional councils. The key governance question is whether public finance and institutional capacity translate these frameworks into equitable learning.
@@ -179,7 +185,6 @@ UDISE+ 2024–25 reported 43,154 schools, 7,457,851 enrolments and 357,911 teach
 Quality improvement involves timely teacher recruitment and deployment, subject specialists, remedial teaching, accessible school buildings, safe toilets, transport and learning assessment. At the secondary stage, adolescents face household work demands, examination failure, distance and early marriage. Residential schools and hostels can expand access for disadvantaged groups, but safety and learning outcomes require independent monitoring. The digital divide cannot be closed by distributing devices alone: teacher support, accessible content and electricity matter. A policy that rewards only pass percentages may encourage grade inflation and conceal foundational deficits.
 
 Telangana should integrate school records with age-cohort population estimates, while protecting student privacy, to identify out-of-school children and transitions between grades. District education officers should examine school catchments, teacher vacancies, language needs, disability access and travel time. University and vocational policy should measure placement quality and employer feedback, not just degrees awarded. Public-versus-private debates are best assessed through affordability, quality, equity and accountability: private provision can expand capacity, but it can also impose costs and sorting; public systems provide universal obligations but need stronger governance. The policy aim is high-quality education for every learner, not a predetermined ownership mix.
-
 
 ## 11. Health sector: primary care, maternal and child health, nutrition and financial protection
 
@@ -191,7 +196,6 @@ Nutrition links health to education and future productivity. The National Food S
 
 Health outcomes require cross-sector accountability. Education influences maternal knowledge, clean water reduces disease, safe housing reduces injuries, and air-quality control lowers respiratory burden. Public-health officials should analyse infant and maternal deaths through confidential quality review, with attention to preventability rather than blame. A fair assessment of public and private healthcare recognises private capacity and innovation but also information asymmetry, unnecessary procedures and unequal access. Telangana needs resilient district public hospitals, functioning primary care, transparent procurement, trained health workers and trustworthy surveillance. The core measure is whether preventable illness and financial catastrophe fall across social groups.
 
-
 ## 12. Gender, social group, disability and district inequality in human development
 
 Averages conceal who is left behind. Women may be literate yet unable to travel safely to college or work; Scheduled Tribe children may face language barriers; persons with disabilities may be excluded by inaccessible buildings; migrant children may lose school continuity; older residents may struggle to reach clinics. Human-resource development therefore requires intersectional analysis rather than treating each group as a homogeneous category. Constitutional equality under Articles 14–16, Article 21A, Directive Principles and specific statutes creates obligations, but programme delivery depends on accessible institutions and social norms.
@@ -201,7 +205,6 @@ The Rights of Persons with Disabilities Act 2016 requires accessibility and non-
 Telangana's 2011 Census female literacy of 57.99% compared with 75.04% for men illustrates a historical gap; the 2011 Scheduled Tribe literacy rate was also much lower than the state average. Newer survey-based education indicators cannot be compared mechanically with these Census literacy figures. The rural–urban divide is compounded by school distance, teacher deployment and internet access. In the labour market, unpaid domestic work is disproportionately carried by women; official work definitions may capture some unpaid family labour but not all care work. The result is a misleading impression that a woman outside paid employment contributes nothing to the economy.
 
 District administrators can respond through safe transport, functional hostels, disability-friendly classrooms, local-language teaching, accessible digital services, mobile clinics and childcare. Outcome monitoring should publish disaggregated results while protecting individual privacy. A difficult trade-off arises when small remote schools are consolidated to improve subject teaching: travel distances may increase and girls may leave school. Decisions should therefore compare quality gains with transport and safety costs, not use administrative efficiency alone. Equity is not achieved merely by equal expenditure per person; populations facing higher barriers may require more resources to reach comparable outcomes.
-
 
 ## 13. Data architecture: Census, NFHS, SRS, CRS, PLFS and UDISE+ are not interchangeable
 
@@ -213,7 +216,6 @@ The publication cycle matters. Telangana's Census literacy and occupational shar
 
 Good practice is to keep a provenance ledger with source URL, publication date, reference period, indicator definition, geography and any limitations. For a district development dashboard, combine Census denominators with updated projections carefully, validate CRS completeness, report survey confidence intervals where available and suppress unreliable small-sample rankings. Do not infer causation from correlations: a fall in fertility after a programme launch may reflect prior trends, education or migration. Where primary PDF tables cannot be opened, the right response is to flag a verification gap rather than manufacture a precise statistic. This discipline is especially valuable in mains answers that compare development outcomes.
 
-
 ## 14. Policy synthesis: converting demographic opportunity into inclusive capabilities
 
 A coherent Telangana human-resource strategy should be life-cycle based. During pregnancy and early childhood, maternal nutrition, antenatal care, safe delivery, vaccination, growth monitoring and early stimulation prevent cumulative disadvantage. During school years, foundational learning, attendance, safe transport and secondary completion matter. For youth, apprenticeships, market-relevant training, career counselling and entrepreneurship finance should be linked to actual vacancies and wages. For working-age adults, preventive health, labour protections, childcare, skill upgrading and transport improve productivity. For older people, primary care for chronic disease, community support, disability access and pension security become increasingly important.
@@ -223,12 +225,6 @@ Institutional coordination is the hard part. Health records, school records and 
 A balanced policy appraisal recognises trade-offs. Universal services simplify access and reduce stigma but can stretch budgets; targeted schemes direct resources to disadvantaged groups but risk exclusion errors. Private institutions can add capacity but need quality regulation and affordability safeguards. Urban growth creates jobs but may increase congestion and rent, reducing net household welfare. Demographic ageing raises pension and health demands, but healthier older people can remain economically and socially active. The most important objective is not to maximise a single ratio; it is to increase healthy, educated, productive and freely chosen lives.
 
 For mains writing, begin with the demographic mechanism, introduce two or three correctly dated Telangana facts, identify the implementation gap, compare policy alternatives and end with measurable priorities. A defensible monitoring framework tracks foundational learning, secondary completion, youth job quality, female paid employment, preventable mortality, child nutrition and financial protection, all by district and social group. The demographic dividend becomes a development dividend only when human capabilities are expanded through sustained public action and an economy capable of using them. That is the central conclusion of this syllabus topic.
-
-
-
----
-
-# Visual Learning and Comparison Tables
 
 ## Chart and table 1 — Source comparability
 | Source | Main unit / method | Best uses | Common misuse |
@@ -265,502 +261,229 @@ For mains writing, begin with the demographic mechanism, introduce two or three 
 | Working age | Informality, unpaid care, NCDs | Labour institutions, childcare, PHCs | Paid employment, productivity, NCD control |
 | Older age | Chronic disease and dependency | Public primary care, pensions | Healthy ageing, financial protection |
 
-
-
-## Chart and table 4 — Frequent analytical confusions
-| Misleading assertion | Correct interpretation |
-|---|---|
-| “Telangana's fertility is below replacement, so its population is already shrinking.” | Momentum, migration and cohort size can sustain growth for years. |
-| “An NFHS survey sex ratio of 1,049 proves a Census ratio of 1,049.” | Different design, date and denominator; do not substitute. |
-| “A high state PTR guarantees no teacher shortages.” | Teacher distribution matters at school and subject level. |
-| “Services produce most GSDP, so services employ most people.” | Productivity differences make output and employment shares diverge. |
-| “Insurance coverage means access to comprehensive healthcare.” | Primary care, medicines, prevention and referral still matter. |
-| “All working-age people are economically supporting dependants.” | Unemployment, low hours and unpaid care make this assumption false. |
-
-
-
----
-
-# High-Value Exam Facts and Dated Updates
-
-
-
-1. **2011 Census, Telangana:** 35.00 million people; sex ratio 988; literacy 66.54%; 38.88% urban. These are historical benchmarks, not current headcounts [S02, S03].
-2. **NFHS-5 (2019–21):** Telangana TFR 1.8, survey sex ratio at birth 894 and survey IMR 26.4; different from SRS annual estimates [S04].
-3. **NFHS-6 (2023–24), official compendium released May 2026:** new survey round exists. Indexed reporting indicates TFR about 1.7, but the large original PDF could not be fully audited in this environment. **Do not memorise the newer figure as independently verified here** [S05].
-4. **SRS Statistical Report 2023**, published **3 September 2025**; separate **SRS 2023 bulletin** published **1 June 2026**. Check original Telangana rows before quoting an annual IMR [S06, S07].
-5. **UDISE+ 2024–25**, published **28 August 2025:** Telangana reported 43,154 schools, 7,457,851 enrolments and 357,911 teachers. The ministry lists a newer 2025–26 report dated 7 July 2026; its Telangana tables require further review [S08, S09].
-6. **Samagra Shiksha Telangana PAB, 15 March 2025:** officials flagged a low government-school enrolment share and difficulties in transition to higher secondary, illustrating that access is not equivalent to quality and completion [S10].
-7. **Telangana Economic Pulse, November 2024:** provides PLFS 2023–24 occupational and gender work indicators; definitions must accompany comparisons [S11].
-
-
-
----
-
-# Original MCQ Practice — Not Official PYQs
-
-
-### MCQ 1. Which denominator is used in the conventional sex ratio?
-
-
-A. Males per 100 females  
-
-B. Females per 1,000 males  
-
-C. Female live births per 100 births  
-
-D. Females aged 0–6 per 100 males  
-
-
-**Answer: B.** The overall sex ratio counts females per 1,000 males in the population; birth and child ratios refer to different populations.
-
-
-### MCQ 2. Telangana’s Census 2011 overall sex ratio was:
-
-
-A. 894  
-
-B. 971  
-
-C. 988  
-
-D. 1,049  
-
-
-**Answer: C.** The state DES records 988 for 2011; 894 is NFHS-5 sex ratio at birth and 1,049 its survey overall sex ratio.
-
-
-### MCQ 3. The principal denominator for IMR is:
-
-
-A. 1,000 total people  
-
-B. 1,000 live births  
-
-C. 100,000 women  
-
-D. 1,000 pregnancies  
-
-
-**Answer: B.** IMR counts deaths under one year per 1,000 live births.
-
-
-### MCQ 4. Maternal mortality ratio is usually expressed per:
-
-
-A. 100 births  
-
-B. 1,000 women  
-
-C. 100,000 live births  
-
-D. 1,000 people  
-
-
-**Answer: C.** MMR uses maternal deaths per 100,000 live births, not all women or all births.
-
-
-### MCQ 5. Total fertility rate is best described as:
-
-
-A. Live births per 1,000 population  
-
-B. Children ever born to all current mothers  
-
-C. Expected lifetime births under current age-specific fertility rates  
-
-D. Population growth rate  
-
-
-**Answer: C.** TFR is a synthetic period measure based on age-specific fertility rates.
-
-
-### MCQ 6. Which source is a decennial enumeration?
-
-
-A. NFHS  
-
-B. PLFS  
-
-C. Population Census  
-
-D. SRS  
-
-
-**Answer: C.** The Population Census enumerates the population; NFHS and PLFS are sample surveys.
-
-
-### MCQ 7. Which measure directly captures people employed as a share of the population?
-
-
-A. WPR  
-
-B. UR  
-
-C. TFR  
-
-D. IMR  
-
-
-**Answer: A.** Worker-population ratio uses employed persons divided by the relevant population.
-
-
-### MCQ 8. The demographic dividend is:
-
-
-A. Guaranteed growth when fertility falls  
-
-B. A potential gain from a favourable support ratio  
-
-C. A subsidy for youth  
-
-D. An increase in the total population  
-
-
-**Answer: B.** Employment, health and productivity determine whether the demographic opportunity becomes growth.
-
-
-### MCQ 9. Which condition is most likely to prevent a demographic dividend?
-
-
-A. Higher female employment  
-
-B. Better foundational literacy  
-
-C. Persistent youth unemployment  
-
-D. Lower preventable mortality  
-
-
-**Answer: C.** A large working-age cohort without productive jobs cannot generate the expected output gains.
-
-
-### MCQ 10. Telangana’s 2011 Census literacy rate was approximately:
-
-
-A. 49.5%  
-
-B. 57.99%  
-
-C. 66.54%  
-
-D. 81.09%  
-
-
-**Answer: C.** The state overall literacy rate was 66.54%; the other values refer to subgroups.
-
-
-### MCQ 11. The Census literacy denominator normally includes persons aged:
-
-
-A. 0 and above  
-
-B. 5 and above  
-
-C. 7 and above  
-
-D. 15 and above  
-
-
-**Answer: C.** The Indian Census defines literacy for the population aged seven and above.
-
-
-### MCQ 12. Which law operationalises Article 21A?
-
-
-A. RTE Act 2009  
-
-B. NFSA 2013  
-
-C. PCPNDT Act 1994  
-
-D. RPwD Act 2016  
-
-
-**Answer: A.** The RTE Act 2009 implements the right to free and compulsory education for ages 6–14.
-
-
-### MCQ 13. The PCPNDT Act principally addresses:
-
-
-A. Minimum marriage age  
-
-B. Unlawful sex selection and regulation of prenatal diagnosis  
-
-C. School teacher recruitment  
-
-D. Maternal leave benefits  
-
-
-**Answer: B.** It prohibits sex selection while regulating legitimate prenatal diagnostic facilities and procedures.
-
-
-### MCQ 14. A rise in overall sex ratio proves that sex ratio at birth improved:
-
-
-A. Always  
-
-B. Only in urban areas  
-
-C. Not necessarily  
-
-D. Only after 2011  
-
-
-**Answer: C.** Overall ratio is affected by migration and survival as well as births.
-
-
-### MCQ 15. Which pair is correctly matched?
-
-
-A. SRS—school enrolment  
-
-B. UDISE+—school administrative data  
-
-C. PLFS—birth registration  
-
-D. CRS—literacy enumeration  
-
-
-**Answer: B.** UDISE+ collects administrative data on schools, enrolments and teachers.
-
-
-### MCQ 16. A crude death rate can rise in an ageing population even if age-specific mortality falls because:
-
-
-A. The denominator changes to births  
-
-B. The population has more people at older, higher-risk ages  
-
-C. All medical care has failed  
-
-D. Fertility must rise  
-
-
-**Answer: B.** Age composition can raise crude death rates; age-standardised rates permit fairer comparisons.
-
-
-### MCQ 17. Which is NOT a direct component of the conventional demographic dependency ratio?
-
-
-A. Age 0–14  
-
-B. Age 65+  
-
-C. Age 15–64 denominator  
-
-D. Number of unemployed workers  
-
-
-**Answer: D.** The dependency ratio uses age groups, not measured unemployment.
-
-
-### MCQ 18. NFHS-5 Telangana TFR was approximately:
-
-
-A. 1.8  
-
-B. 2.9  
-
-C. 3.6  
-
-D. 4.1  
-
-
-**Answer: A.** NFHS-5 reported around 1.8 births per woman for Telangana; attach the survey period.
-
-
-### MCQ 19. Telangana’s 2011 urban population share was approximately:
-
-
-A. 19%  
-
-B. 29%  
-
-C. 39%  
-
-D. 59%  
-
-
-**Answer: C.** The 2011 Census value was 38.88%, according to Telangana DES.
-
-
-### MCQ 20. Why is comparing Census 2011 sex ratio and NFHS-5 sex ratio as a direct trend risky?
-
-
-A. Both measure GDP  
-
-B. Their sampling, dates and definitions differ  
-
-C. Census measures only children  
-
-D. NFHS measures only urban people  
-
-
-**Answer: B.** They differ by date and design; an apparent change is not a like-for-like population trend.
-
-
-### MCQ 21. The second demographic dividend is linked mainly to:
-
-
-A. Capital accumulation and savings  
-
-B. Higher school dropout  
-
-C. More child dependency  
-
-D. Increased birth registration alone  
-
-
-**Answer: A.** Longer life expectancy and smaller families can increase savings and human-capital investment.
-
-
-### MCQ 22. Which education indicator best tests actual learning rather than mere access?
-
-
-A. Number of school buildings  
-
-B. Enrolment count  
-
-C. Grade-level reading and numeracy proficiency  
-
-D. Number of uniforms distributed  
-
-
-**Answer: C.** Learning assessments address capability; access counts are necessary but insufficient.
-
-
-### MCQ 23. Which of these is an administrative record system rather than a household labour survey?
-
-
-A. PLFS  
-
-B. UDISE+  
-
-C. NFHS  
-
-D. SRS  
-
-
-**Answer: B.** UDISE+ is an administrative education information system; PLFS is a household labour survey.
-
-
-### MCQ 24. Which labour statistic uses unemployed persons divided by the labour force?
-
-
-A. UR  
-
-B. WPR  
-
-C. LFPR  
-
-D. TFR  
-
-
-**Answer: A.** The unemployment rate divides the unemployed by the labour force.
-
-
-### MCQ 25. A high share of services in GSDP necessarily implies a high share of workers in services:
-
-
-A. True  
-
-B. False  
-
-C. True only in cities  
-
-D. True only after NFHS  
-
-
-**Answer: B.** Output shares and employment shares can differ substantially because productivity varies by sector.
-
-
-### MCQ 26. Which programme primarily focuses on foundational literacy and numeracy?
-
-
-A. NIPUN Bharat  
-
-B. PM-JAY  
-
-C. SRS  
-
-D. PCPNDT  
-
-
-**Answer: A.** NIPUN Bharat is a foundational literacy and numeracy mission.
-
-
-### MCQ 27. Which is the correct interpretation of NFHS survey IMR?
-
-
-A. Annual count of registered deaths  
-
-B. Sample-based mortality estimate over a retrospective period  
-
-C. Census count of 2026 births  
-
-D. Hospital deaths per admission  
-
-
-**Answer: B.** NFHS estimates mortality from household birth histories, distinct from SRS and CRS.
-
-
-### MCQ 28. Why can a state-level pupil–teacher ratio hide shortages?
-
-
-A. It is always a population ratio  
-
-B. Teachers and pupils may be unevenly distributed across schools  
-
-C. It measures fertility  
-
-D. It excludes every rural school  
-
-
-**Answer: B.** Aggregate averages can coexist with single-teacher schools and overcrowded classrooms.
-
-
-### MCQ 29. Which policy approach best respects reproductive rights?
-
-
-A. Sterilisation quotas  
-
-B. Informed voluntary choice and quality counselling  
-
-C. Compulsory family size  
-
-D. Withholding primary care  
-
-
-**Answer: B.** Voluntary informed choice and safe, accessible services protect autonomy and health.
-
-
-### MCQ 30. The strongest evidence of a demographic dividend being realised is:
-
-
-A. A low TFR alone  
-
-B. A rising working-age share alone  
-
-C. Sustained growth in productive employment, earnings and human capital  
-
-D. A large city population  
-
-
-**Answer: C.** Demographic composition creates opportunity; real gains require jobs, earnings and capabilities.
-
-
-
----
-
-# Mains Answer Blueprints and Complete Model Answers — Original Practice
-
-
-## Mains Question 1. Explain the demographic transition in Telangana and assess whether declining fertility is a demographic advantage.
-
-
-**Blueprint:** Define the issue → give the causal mechanism → cite two properly dated Telangana facts → evaluate alternatives and implementation → conclude with measurable priorities.
-
+### 1. Which denominator is used in the conventional sex ratio?
+A. Males per 100 females
+B. Females per 1,000 males
+C. Female live births per 100 births
+D. Females aged 0–6 per 100 males
+**Answer: B** — The overall sex ratio counts females per 1,000 males in the population; birth and child ratios refer to different populations.
+
+### 2. Telangana’s Census 2011 overall sex ratio was:
+A. 894
+B. 971
+C. 988
+D. 1,049
+**Answer: C** — The state DES records 988 for 2011; 894 is NFHS-5 sex ratio at birth and 1,049 its survey overall sex ratio.
+
+### 3. The principal denominator for IMR is:
+A. 1,000 total people
+B. 1,000 live births
+C. 100,000 women
+D. 1,000 pregnancies
+**Answer: B** — IMR counts deaths under one year per 1,000 live births.
+
+### 4. Maternal mortality ratio is usually expressed per:
+A. 100 births
+B. 1,000 women
+C. 100,000 live births
+D. 1,000 people
+**Answer: C** — MMR uses maternal deaths per 100,000 live births, not all women or all births.
+
+### 5. Total fertility rate is best described as:
+A. Live births per 1,000 population
+B. Children ever born to all current mothers
+C. Expected lifetime births under current age-specific fertility rates
+D. Population growth rate
+**Answer: C** — TFR is a synthetic period measure based on age-specific fertility rates.
+
+### 6. Which source is a decennial enumeration?
+A. NFHS
+B. PLFS
+C. Population Census
+D. SRS
+**Answer: C** — The Population Census enumerates the population; NFHS and PLFS are sample surveys.
+
+### 7. Which measure directly captures people employed as a share of the population?
+A. WPR
+B. UR
+C. TFR
+D. IMR
+**Answer: A** — Worker-population ratio uses employed persons divided by the relevant population.
+
+### 8. The demographic dividend is:
+A. Guaranteed growth when fertility falls
+B. A potential gain from a favourable support ratio
+C. A subsidy for youth
+D. An increase in the total population
+**Answer: B** — Employment, health and productivity determine whether the demographic opportunity becomes growth.
+
+### 9. Which condition is most likely to prevent a demographic dividend?
+A. Higher female employment
+B. Better foundational literacy
+C. Persistent youth unemployment
+D. Lower preventable mortality
+**Answer: C** — A large working-age cohort without productive jobs cannot generate the expected output gains.
+
+### 10. Telangana’s 2011 Census literacy rate was approximately:
+A. 49.5%
+B. 57.99%
+C. 66.54%
+D. 81.09%
+**Answer: C** — Telangana DES reports 66.54% total literacy for Census 2011 (age 7+); 57.99% is female literacy. The origins of the 49.5% and 81.09% distractors are not established by the cited statewide table.
+
+### 11. The Census literacy denominator normally includes persons aged:
+A. 0 and above
+B. 5 and above
+C. 7 and above
+D. 15 and above
+**Answer: C** — The Indian Census defines literacy for the population aged seven and above.
+
+### 12. Which law operationalises Article 21A?
+A. RTE Act 2009
+B. NFSA 2013
+C. PCPNDT Act 1994
+D. RPwD Act 2016
+**Answer: A** — The RTE Act 2009 implements the right to free and compulsory education for ages 6–14.
+
+### 13. The PCPNDT Act principally addresses:
+A. Minimum marriage age
+B. Unlawful sex selection and regulation of prenatal diagnosis
+C. School teacher recruitment
+D. Maternal leave benefits
+**Answer: B** — It prohibits sex selection while regulating legitimate prenatal diagnostic facilities and procedures.
+
+### 14. A rise in overall sex ratio proves that sex ratio at birth improved:
+A. Always
+B. Only in urban areas
+C. Not necessarily
+D. Only after 2011
+**Answer: C** — Overall ratio is affected by migration and survival as well as births.
+
+### 15. Which pair is correctly matched?
+A. SRS—school enrolment
+B. UDISE+—school administrative data
+C. PLFS—birth registration
+D. CRS—literacy enumeration
+**Answer: B** — UDISE+ collects administrative data on schools, enrolments and teachers.
+
+### 16. A crude death rate can rise in an ageing population even if age-specific mortality falls because:
+A. The denominator changes to births
+B. The population has more people at older, higher-risk ages
+C. All medical care has failed
+D. Fertility must rise
+**Answer: B** — Age composition can raise crude death rates; age-standardised rates permit fairer comparisons.
+
+### 17. Which is NOT a direct component of the conventional demographic dependency ratio?
+A. Age 0–14
+B. Age 65+
+C. Age 15–64 denominator
+D. Number of unemployed workers
+**Answer: D** — The dependency ratio uses age groups, not measured unemployment.
+
+### 18. NFHS-5 Telangana TFR was approximately:
+A. 1.8
+B. 2.9
+C. 3.6
+D. 4.1
+**Answer: A** — NFHS-5 reported around 1.8 births per woman for Telangana; attach the survey period.
+
+### 19. Telangana’s 2011 urban population share was approximately:
+A. 19%
+B. 29%
+C. 39%
+D. 59%
+**Answer: C** — The 2011 Census value was 38.88%, according to Telangana DES.
+
+### 20. Why is comparing Census 2011 sex ratio and NFHS-5 sex ratio as a direct trend risky?
+A. Both measure GDP
+B. Their sampling, dates and definitions differ
+C. Census measures only children
+D. NFHS measures only urban people
+**Answer: B** — They differ by date and design; an apparent change is not a like-for-like population trend.
+
+### 21. The second demographic dividend is linked mainly to:
+A. Capital accumulation and savings
+B. Higher school dropout
+C. More child dependency
+D. Increased birth registration alone
+**Answer: A** — Longer life expectancy and smaller families can increase savings and human-capital investment.
+
+### 22. Which education indicator best tests actual learning rather than mere access?
+A. Number of school buildings
+B. Enrolment count
+C. Grade-level reading and numeracy proficiency
+D. Number of uniforms distributed
+**Answer: C** — Learning assessments address capability; access counts are necessary but insufficient.
+
+### 23. Which of these is an administrative record system rather than a household labour survey?
+A. PLFS
+B. UDISE+
+C. NFHS
+D. SRS
+**Answer: B** — UDISE+ is an administrative education information system; PLFS is a household labour survey.
+
+### 24. Which labour statistic uses unemployed persons divided by the labour force?
+A. UR
+B. WPR
+C. LFPR
+D. TFR
+**Answer: A** — The unemployment rate divides the unemployed by the labour force.
+
+### 25. A high share of services in GSDP necessarily implies a high share of workers in services:
+A. True
+B. False
+C. True only in cities
+D. True only after NFHS
+**Answer: B** — Output shares and employment shares can differ substantially because productivity varies by sector.
+
+### 26. Which programme primarily focuses on foundational literacy and numeracy?
+A. NIPUN Bharat
+B. PM-JAY
+C. SRS
+D. PCPNDT
+**Answer: A** — NIPUN Bharat is a foundational literacy and numeracy mission.
+
+### 27. Which is the correct interpretation of NFHS survey IMR?
+A. Annual count of registered deaths
+B. Sample-based mortality estimate over a retrospective period
+C. Census count of 2026 births
+D. Hospital deaths per admission
+**Answer: B** — NFHS estimates mortality from household birth histories, distinct from SRS and CRS.
+
+### 28. Why can a state-level pupil–teacher ratio hide shortages?
+A. It is always a population ratio
+B. Teachers and pupils may be unevenly distributed across schools
+C. It measures fertility
+D. It excludes every rural school
+**Answer: B** — Aggregate averages can coexist with single-teacher schools and overcrowded classrooms.
+
+### 29. Which policy approach best respects reproductive rights?
+A. Sterilisation quotas
+B. Informed voluntary choice and quality counselling
+C. Compulsory family size
+D. Withholding primary care
+**Answer: B** — Voluntary informed choice and safe, accessible services protect autonomy and health.
+
+### 30. The strongest evidence of a demographic dividend being realised is:
+A. A low TFR alone
+B. A rising working-age share alone
+C. Sustained growth in productive employment, earnings and human capital
+D. A large city population
+**Answer: C** — Demographic composition creates opportunity; real gains require jobs, earnings and capabilities.
+
+1. **Explain the demographic transition in Telangana and assess whether declining fertility is a demographic advantage.** — Define, mechanism, dated Telangana facts, evaluation, conclusion.
+
+2. **Critically examine the demographic dividend in Telangana and suggest measures for its realisation.** — Define, mechanism, dated Telangana facts, evaluation, conclusion.
+
+3. **Differentiate overall sex ratio, child sex ratio and sex ratio at birth, and discuss Telangana’s policy challenges.** — Define, mechanism, dated Telangana facts, evaluation, conclusion.
+
+4. **Assess Telangana’s literacy challenges and explain why schooling expansion alone is insufficient.** — Define, mechanism, dated Telangana facts, evaluation, conclusion.
+
+5. **Discuss structural transformation and occupational change in Telangana with reference to women and informal workers.** — Define, mechanism, dated Telangana facts, evaluation, conclusion.
+
+6. **Evaluate the role of education and health in transforming Telangana’s demographic opportunity into inclusive growth.** — Define, mechanism, dated Telangana facts, evaluation, conclusion.
+
+## 1. Explain the demographic transition in Telangana and assess whether declining fertility is a demographic advantage.
 
 ### Introduction and conceptual background
 Demographic transition is the movement from high fertility and mortality to lower rates as survival, education, urbanisation and reproductive choice change. It affects population growth, age composition and the timing of public expenditure. Telangana illustrates a relatively advanced fertility transition, but lower fertility is not automatically either an economic success or a demographic crisis.
@@ -777,12 +500,7 @@ Coercive fertility targets would undermine autonomy and overlook structural dete
 ### Conclusion
 Declining fertility creates a conditional opportunity. Human capabilities and decent jobs, not fertility alone, determine its development value.
 
-
-## Mains Question 2. Critically examine the demographic dividend in Telangana and suggest measures for its realisation.
-
-
-**Blueprint:** Define the issue → give the causal mechanism → cite two properly dated Telangana facts → evaluate alternatives and implementation → conclude with measurable priorities.
-
+## 2. Critically examine the demographic dividend in Telangana and suggest measures for its realisation.
 
 ### Introduction and background
 A demographic dividend is a potential increase in income per person when the working-age population grows relative to dependants. The first dividend arises through a higher effective producer-to-consumer ratio; the second can emerge from savings and human-capital accumulation. Neither occurs automatically.
@@ -799,12 +517,7 @@ Training counts are not outcomes. Programmes should report placement retention, 
 ### Conclusion
 The dividend becomes real only when a favourable age structure is converted into productive, equitable employment. Telangana must prioritise job quality and capability over demographic arithmetic.
 
-
-## Mains Question 3. Differentiate overall sex ratio, child sex ratio and sex ratio at birth, and discuss Telangana’s policy challenges.
-
-
-**Blueprint:** Define the issue → give the causal mechanism → cite two properly dated Telangana facts → evaluate alternatives and implementation → conclude with measurable priorities.
-
+## 3. Differentiate overall sex ratio, child sex ratio and sex ratio at birth, and discuss Telangana’s policy challenges.
 
 ### Introduction and definitions
 Sex ratios reveal different dimensions of gender demography. The overall sex ratio counts females per 1,000 males in the entire population. The Census child sex ratio usually concerns ages zero to six, while the sex ratio at birth measures female live births per 1,000 male live births during a specified period.
@@ -821,12 +534,7 @@ Enforcement must not deter lawful prenatal care or punish women seeking healthca
 ### Conclusion
 A single favourable overall ratio cannot establish gender equality. Telangana needs consistent measurement and a life-cycle approach covering survival, safety, education and agency.
 
-
-## Mains Question 4. Assess Telangana’s literacy challenges and explain why schooling expansion alone is insufficient.
-
-
-**Blueprint:** Define the issue → give the causal mechanism → cite two properly dated Telangana facts → evaluate alternatives and implementation → conclude with measurable priorities.
-
+## 4. Assess Telangana’s literacy challenges and explain why schooling expansion alone is insufficient.
 
 ### Introduction and background
 Literacy is the ability to read and write with understanding, while educational capability also includes numeracy, reasoning and practical application. Access to schooling is necessary but cannot be equated with learning quality. Human-resource development depends on what students actually learn and can use.
@@ -843,12 +551,7 @@ Article 21A and the RTE Act 2009 guarantee free and compulsory elementary educat
 ### Conclusion
 Telangana needs an equity-centred learning strategy: early remediation, safe transport, trained teachers, accessible schools and transparent assessment. The goal is usable capability, not merely a seat in a classroom.
 
-
-## Mains Question 5. Discuss structural transformation and occupational change in Telangana with reference to women and informal workers.
-
-
-**Blueprint:** Define the issue → give the causal mechanism → cite two properly dated Telangana facts → evaluate alternatives and implementation → conclude with measurable priorities.
-
+## 5. Discuss structural transformation and occupational change in Telangana with reference to women and informal workers.
 
 ### Introduction and context
 Structural transformation shifts employment and output from low-productivity activities towards higher-productivity industry and services. It is central to inclusive growth, but a rising service-sector output share does not guarantee that workers obtain secure jobs or higher earnings.
@@ -865,12 +568,7 @@ Industrial growth should be assessed through employment quality, real wages, occ
 ### Conclusion
 Occupational change becomes development only when productivity gains reach workers. Gender equity, labour protections and locally relevant skills must accompany the shift in sectoral output.
 
-
-## Mains Question 6. Evaluate the role of education and health in transforming Telangana’s demographic opportunity into inclusive growth.
-
-
-**Blueprint:** Define the issue → give the causal mechanism → cite two properly dated Telangana facts → evaluate alternatives and implementation → conclude with measurable priorities.
-
+## 6. Evaluate the role of education and health in transforming Telangana’s demographic opportunity into inclusive growth.
 
 ### Introduction and objectives
 Education and health are productive investments and intrinsic capabilities. They determine whether a favourable age structure produces employment, innovation and well-being. Telangana’s human-resource strategy must connect the life cycle from pregnancy and childhood to work and healthy ageing.
@@ -887,61 +585,53 @@ District inequality, disability access, tribal language barriers, unpaid care an
 ### Conclusion
 A demographic dividend is conditional on capable people and decent work. Strong education and public health systems are the foundation of inclusive, sustainable growth.
 
+- S01 TGPSC Group I Notification 02/2024 syllabus reproduction; original commission PDF not directly authenticated (2024-02-19; reproduction checked 2026-10-06) https://prepshark.in/tgpsc/group-1/syllabus — Syllabus wording corroborated; original PDF verification pending
+- S02 Telangana Directorate of Economics and Statistics — Telangana at a Glance (2011 Census tables; site checked 2026-10-24) https://www.ecostat.telangana.gov.in/telangana_glance.html — Population, sex ratio, literacy, occupational counts; Census-base figures
+- S03 Telangana at a Glance 2024, Directorate of Economics and Statistics (2024) https://www.ecostat.telangana.gov.in/PDF/PUBLICATIONS/Telangana_at_Glance_2024.pdf — Official demographic tables and historical subgroup comparisons
+- S04 MoHFW NFHS-5 Phase I Telangana Key Indicators (2019-20 state fieldwork) https://www.mohfw.gov.in/sites/default/files/NFHS-5_Phase-I.pdf — TFR, sex ratios, infant mortality and contraception; directly indexed official tables
+- S05 MoHFW NFHS-6 factsheets compendium (2023-24 survey; May 2026 release) https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/111ff4a13ca36b5cabb7f94aec5bb0ce.pdf — Newer official survey exists; PDF too large to open fully here, exact state values require audit
+- S06 ORGI Sample Registration System Statistical Report 2023 (2025-09-03) https://censusindia.gov.in/nada/index.php/catalog/46172 — Official annual fertility and mortality series; exact Telangana rows not directly checked
+- S07 ORGI SRS Bulletin 2023 (2026-06-01) https://censusindia.gov.in/nada/index.php/catalog/46178 — Birth, death, IMR bulletin; avoid invented state numbers
+- S08 Ministry of Education UDISE+ 2024–25 Existing Structure (2025-08-28) https://dsel.education.gov.in/sites/default/files/statistics/report_in_PDF/ext2425.pdf — State school, enrolment and teacher totals; indexed table verified
+- S09 Ministry of Education UDISE+ publications (2026-07-07 listing of 2025–26 editions) https://master-dsel-education.digifootprint.gov.in/documents/publications/udise-publications-statistics-EDN0EjMtQWa — More recent UDISE+ edition available; detailed Telangana table not directly audited
+- S10 Ministry of Education Telangana Samagra Shiksha PAB minutes (2025-03-15) https://dsel.education.gov.in/sites/default/files/pab/Telangana_PAB_2025_26.pdf — Government/private enrolment and transition challenges
+- S11 Telangana Economic Pulse, Directorate of Economics and Statistics (2024-11) https://www.des.telangana.gov.in/publications/TelanganaEconomicPulseNov2024.pdf — PLFS-based occupational and female work-participation comparisons
+- S12 MoSPI / PIB PLFS Annual Report 2023–24 key findings (2024-09) https://www.pib.gov.in/PressReleasePage.aspx?PRID=2057970 — National LFPR/WPR and definition background; state numbers separately sourced
+- S13 Constitution of India Article 21A and Directive Principles (as amended) https://legislative.gov.in/constitution-of-india/ — Constitutional rights and directive principles
+- S14 Right of Children to Free and Compulsory Education Act 2009 (2009) https://www.indiacode.nic.in/ — Statutory education rights; India Code search required for section-level details
+- S15 Rights of Persons with Disabilities Act 2016 (2016) https://www.indiacode.nic.in/ — Accessibility and reasonable accommodation
+- S16 PCPNDT Act 1994 and amendments (1994 onward) https://www.indiacode.nic.in/ — Prohibition of sex selection; regulatory safeguards
+- S17 National Health Policy 2017, Ministry of Health (2017) https://mohfw.gov.in/ — Preventive, primary and comprehensive healthcare orientation
+- S18 National Education Policy 2020, Ministry of Education (2020) https://www.education.gov.in/nep/about-nep — School reform, learning and skills
+- S19 Telangana Government Adult Education Annual Report (2018–19; Census 2011 data) https://telangana.gov.in/wp-content/uploads/2023/05/Adult-Education-Department-Telangana-Annual-Report-2018-19.pdf — Independent official confirmation of historical literacy disparities
 
+## Cycle128 — bounded author-side option audit: original MCQs 1–10 (31 October 2026)
 
----
+**Scope and evidence rule.** This checks exactly ten existing original four-option practice questions (10 proposed keys and 30 distractors). It does **not** authenticate TGPSC PYQs, certify the other 20 questions, verify six mains answers, or constitute independent academic approval. Definitions are correlated to official statistical publishers; interpretive items are identified as such. Source URLs below were opened or indexed on 31 October 2026.
 
-# Official Previous-Year Questions — Provenance Register
-No question in this chapter is labelled an official TGPSC PYQ. Original question papers and corresponding question numbers were not authenticated for this syllabus line. The 30 MCQs and six mains prompts above are original practice; they must not be presented as official exam questions. Add official questions only after matching the original commission paper, year, paper designation and question number.
+| Q | Proposed key | A — evaluation | B — evaluation | C — evaluation | D — evaluation | Evidence and limitation |
+|---|---|---|---|---|---|---|
+| 1 | B | Wrong direction and scale: males per 100 females. | Correct: females per 1,000 males for the conventional overall sex ratio. | Birth-share measure, not overall population ratio. | Child-only population, not the overall ratio; also mismatched denominator. | S02, S20; definitional check. |
+| 2 | C | 894 is the **NFHS-5 sex ratio at birth**, not Census 2011 overall. | 971 is Telangana's **Census 2001 overall** ratio. | Correct: **988** for Census 2011 Telangana overall. | 1,049 is **NFHS-5 sampled total-population** ratio, not Census 2011. | S02, S04, S21; directly checked state tables. |
+| 3 | B | Population count is not the IMR denominator. | Correct: IMR is expressed per **1,000 live births**. | 100,000 women is not the IMR denominator. | Pregnancies include outcomes other than live births and are not the IMR denominator. | S22; WHO definition. |
+| 4 | C | 100 births is not the MMR convention. | Women in the population are not the standard MMR denominator. | Correct: maternal deaths per **100,000 live births**. | 1,000 total people describes neither maternal risk nor MMR. | S23; WHO definition. |
+| 5 | C | Births per 1,000 population describes crude birth rate. | Children already born to current mothers is a retrospective count, not synthetic-period TFR. | Correct: hypothetical lifetime births under prevailing age-specific fertility rates. | Population growth includes deaths and migration, not just fertility. | S24; WHO method. |
+| 6 | C | NFHS is a household sample survey. | PLFS is a household labour-force sample survey. | Correct: the Population Census is a decennial population enumeration. | SRS estimates vital rates from a sample registration system. | S25, S04, S12; institutional methods. |
+| 7 | A | Correct: **WPR = employed persons / population × 100** for the stated universe and reference period. | UR divides unemployed persons by labour force. | TFR is a fertility indicator. | IMR measures infant mortality. | S26; MoSPI indicator definitions. |
+| 8 | B | Age-structure change cannot guarantee growth. | Correct: a favourable support ratio creates a **conditional potential** for growth. | A youth subsidy is not the demographic dividend. | Larger total population alone does not establish a better producer-to-consumer ratio. | S27; UNFPA explanation; conceptual correlation. |
+| 9 | C | Higher female employment helps convert potential into output. | Foundational literacy improves human-capital readiness. | Correct: persistent youth unemployment obstructs productive use of the working-age cohort. | Lower preventable mortality generally strengthens health capabilities. | S27; UNFPA; policy inference rather than an observed Telangana causal estimate. |
+| 10 | C | 49.5% is not the Telangana Census 2011 **statewide total** rate in the cited DES table; its provenance is not established here. | 57.99% is **female** literacy in the DES 2011 table. | Correct: statewide total literacy is **66.54%** for age 7+. | 81.09% is not the statewide total in that DES table; its provenance is not established here. | S02, S20; directly checked state table; previous explanation incorrectly implied all other values were identifiable subgroups. |
 
----
+**Independent arithmetic cross-check (DES Census 2011):** 17,392,041 females / 17,611,633 males × 1,000 = **987.531**, rounded to **988**. Total literates 20,696,778 / (35,003,674 population − 3,899,166 aged 0–6) × 100 = **66.5395%**, rounded to **66.54%**. These checks independently reproduce the published state-level values; they do not verify Census field enumeration.
 
-# Authoritative Sources and Internal Audit
+**Editorial finding:** Q10's previous explanation stated that all three incorrect alternatives represented subgroups. That assertion was unsupported for 49.5% and 81.09% and is corrected in the source MCQ. The overall key distribution remains **A6/B12/C11/D1**; no answer-position changes were made simply to make letters look balanced. All 20 remaining MCQs, all six mains claims, diagrams, syllabus reauthentication, and direct browser/accessibility review remain open.
 
-
-- **[S01] TGPSC Group I Notification 02/2024 syllabus reproduction; original commission PDF not directly authenticated.** Reference period / publication: 2024-02-19; reproduction checked 2026-10-06. Primary or provenance link: https://prepshark.in/tgpsc/group-1/syllabus. Audit: Syllabus wording corroborated; original PDF verification pending.
-
-- **[S02] Telangana Directorate of Economics and Statistics — Telangana at a Glance.** Reference period / publication: 2011 Census tables; site checked 2026-10-24. Primary or provenance link: https://www.ecostat.telangana.gov.in/telangana_glance.html. Audit: Population, sex ratio, literacy, occupational counts; Census-base figures.
-
-- **[S03] Telangana at a Glance 2024, Directorate of Economics and Statistics.** Reference period / publication: 2024. Primary or provenance link: https://www.ecostat.telangana.gov.in/PDF/PUBLICATIONS/Telangana_at_Glance_2024.pdf. Audit: Official demographic tables and historical subgroup comparisons.
-
-- **[S04] MoHFW NFHS-5 Phase I Telangana Key Indicators.** Reference period / publication: 2019-20 state fieldwork. Primary or provenance link: https://www.mohfw.gov.in/sites/default/files/NFHS-5_Phase-I.pdf. Audit: TFR, sex ratios, infant mortality and contraception; directly indexed official tables.
-
-- **[S05] MoHFW NFHS-6 factsheets compendium.** Reference period / publication: 2023-24 survey; May 2026 release. Primary or provenance link: https://www.mohfw-dohfw.gov.in/static/uploads/2026/05/111ff4a13ca36b5cabb7f94aec5bb0ce.pdf. Audit: Newer official survey exists; PDF too large to open fully here, exact state values require audit.
-
-- **[S06] ORGI Sample Registration System Statistical Report 2023.** Reference period / publication: 2025-09-03. Primary or provenance link: https://censusindia.gov.in/nada/index.php/catalog/46172. Audit: Official annual fertility and mortality series; exact Telangana rows not directly checked.
-
-- **[S07] ORGI SRS Bulletin 2023.** Reference period / publication: 2026-06-01. Primary or provenance link: https://censusindia.gov.in/nada/index.php/catalog/46178. Audit: Birth, death, IMR bulletin; avoid invented state numbers.
-
-- **[S08] Ministry of Education UDISE+ 2024–25 Existing Structure.** Reference period / publication: 2025-08-28. Primary or provenance link: https://dsel.education.gov.in/sites/default/files/statistics/report_in_PDF/ext2425.pdf. Audit: State school, enrolment and teacher totals; indexed table verified.
-
-- **[S09] Ministry of Education UDISE+ publications.** Reference period / publication: 2026-07-07 listing of 2025–26 editions. Primary or provenance link: https://master-dsel-education.digifootprint.gov.in/documents/publications/udise-publications-statistics-EDN0EjMtQWa. Audit: More recent UDISE+ edition available; detailed Telangana table not directly audited.
-
-- **[S10] Ministry of Education Telangana Samagra Shiksha PAB minutes.** Reference period / publication: 2025-03-15. Primary or provenance link: https://dsel.education.gov.in/sites/default/files/pab/Telangana_PAB_2025_26.pdf. Audit: Government/private enrolment and transition challenges.
-
-- **[S11] Telangana Economic Pulse, Directorate of Economics and Statistics.** Reference period / publication: 2024-11. Primary or provenance link: https://www.des.telangana.gov.in/publications/TelanganaEconomicPulseNov2024.pdf. Audit: PLFS-based occupational and female work-participation comparisons.
-
-- **[S12] MoSPI / PIB PLFS Annual Report 2023–24 key findings.** Reference period / publication: 2024-09. Primary or provenance link: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2057970. Audit: National LFPR/WPR and definition background; state numbers separately sourced.
-
-- **[S13] Constitution of India Article 21A and Directive Principles.** Reference period / publication: as amended. Primary or provenance link: https://legislative.gov.in/constitution-of-india/. Audit: Constitutional rights and directive principles.
-
-- **[S14] Right of Children to Free and Compulsory Education Act 2009.** Reference period / publication: 2009. Primary or provenance link: https://www.indiacode.nic.in/. Audit: Statutory education rights; India Code search required for section-level details.
-
-- **[S15] Rights of Persons with Disabilities Act 2016.** Reference period / publication: 2016. Primary or provenance link: https://www.indiacode.nic.in/. Audit: Accessibility and reasonable accommodation.
-
-- **[S16] PCPNDT Act 1994 and amendments.** Reference period / publication: 1994 onward. Primary or provenance link: https://www.indiacode.nic.in/. Audit: Prohibition of sex selection; regulatory safeguards.
-
-- **[S17] National Health Policy 2017, Ministry of Health.** Reference period / publication: 2017. Primary or provenance link: https://mohfw.gov.in/. Audit: Preventive, primary and comprehensive healthcare orientation.
-
-- **[S18] National Education Policy 2020, Ministry of Education.** Reference period / publication: 2020. Primary or provenance link: https://www.education.gov.in/nep/about-nep. Audit: School reform, learning and skills.
-
-- **[S19] Telangana Government Adult Education Annual Report.** Reference period / publication: 2018–19; Census 2011 data. Primary or provenance link: https://telangana.gov.in/wp-content/uploads/2023/05/Adult-Education-Department-Telangana-Annual-Report-2018-19.pdf. Audit: Independent official confirmation of historical literacy disparities.
-
-
-## Source and academic-quality exceptions
-- Exact syllabus wording is corroborated against a reproduction explicitly attributing Notification 02/2024; the original commission-hosted PDF could not be authenticated directly. No student-facing source page numbers are used.
-- NFHS-6 May 2026 compendium is a primary official document, but its full 49-MB PDF could not be opened in this environment. Newer Telangana values are identified as provisional-for-this-draft until table-level inspection.
-- Census 2011 values are never presented as 2026 population or literacy. NFHS, SRS, CRS, PLFS and UDISE+ are not blended into an artificial time series.
-- The chapter has undergone internal consistency, coverage and structural checks. Independent subject-expert academic review remains outstanding; status is **not approved**.
-- Charts are original illustrations derived from labelled official 2011 values or conceptual mechanisms. No copyrighted third-party charts are reproduced.
-
+### Cycle128 primary-source addendum
+- S20 Telangana DES, *Telangana State at a Glance*, 2011 Census demographics and literacy, checked 2026-10-31: https://www.ecostat.telangana.gov.in/telangana_glance.html — direct values and arithmetic.
+- S21 MoHFW, *NFHS-5 Telangana State Fact Sheet*, 2019–20, checked 2026-10-31: https://www.mohfw.gov.in/sites/default/files/NFHS-5_Phase-I.pdf — sample sex ratios 1,049 total and 894 at birth; not a Census time series.
+- S22 WHO, *Infant mortality rate*, checked 2026-10-31: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/infant-mortality-rate-%28probability-of-dying-between-birth-and-age-1-per-1000-live-births%29 — per-1,000-live-births definition.
+- S23 WHO, *Maternal mortality ratio*, checked 2026-10-31: https://www.who.int/data/gho/indicator-metadata-registry/imr-details/26 — maternal deaths per 100,000 live births.
+- S24 WHO, *Total fertility rate*, checked 2026-10-31: https://www.who.int/data/gho/indicator-metadata-registry/imr-details/123 — synthetic period measure.
+- S25 Office of Registrar General & Census Commissioner, *Census Division*, checked 2026-10-31: https://censusindia.gov.in/census.website/en/about/divisions/census — decennial population enumeration.
+- S26 MoSPI, *PLFS Monthly Bulletin*, definitions of LFPR/WPR/UR, checked 2026-10-31: https://mospi.gov.in/sites/default/files/press_release/Press_note_MB05_Monthly_bulletin%20-Final_1.pdf — denominators and reference periods.
+- S27 UNFPA, *Demographic dividend*, checked 2026-10-31: https://www.unfpa.org/demographic-dividend — conditional opportunity and human-capital/employment prerequisites.
