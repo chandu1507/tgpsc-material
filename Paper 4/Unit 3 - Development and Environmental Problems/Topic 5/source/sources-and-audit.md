@@ -31,3 +31,13 @@
 - **Institutional caveat:** EPTRI's project descriptions are administrative claims, not independent outcome evaluations. NAPCC mission counts differ in later official descriptions; specify original eight and verify later revisions.
 - **Question provenance:** All questions in this chapter are original; no unverified official PYQs have been invented.
 - **Academic status:** NOT APPROVED. Independent syllabus, legal, data, language and examination review remains outstanding.
+
+### Cycle 136: source-checked MCQ option audit (31 October 2026)
+- **S23 | UNFCCC | 1992.** Convention Article 3(1), https://unfccc.int/resource/docs/convkp/conveng.pdf — Q17, Q25; equity, differentiated responsibilities, future generations.
+- **S24 | Government of India / UNFCCC | 14 November 2022.** Long-Term Low-Carbon Development Strategy, https://unfccc.int/sites/default/files/resource/India_LTLEDS.pdf — Q22, long-term 2070 net-zero objective (not achievement).
+- **S25 | ILO | 2015 guidelines, published 2016.** Just transition, https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies — Q27, worker protections and social dialogue.
+- **S26 | IPCC | 2018.** SR1.5 Chapter 4 section 4.3.6, https://www.ipcc.ch/sr15/chapter/chapter-4/ — Q29, methane as short-lived climate forcer and continued need for CO2 cuts.
+- **S27 | IPCC | 2022.** AR6 WGII Annex I glossary, https://www.ipcc.ch/report/ar6/wg2/chapter/annex-i/ — Q30, scenarios are not forecasts.
+- **Reused S06/S09:** UN 2030 Agenda (Q23–Q24) and UNFCCC Paris Agreement (Q18–Q19).
+- **Full option-level author-side audit:** `source/mcq-option-audit-cycle136.md` and `project-control/academic-readiness/4-3-5-cycle136-ten-mcq-primary-option-audit-2026-10-31.md`. Q17/18/19/22/23/24/25/27/29/30: 10 proposed keys + 30 distractors, all with individual explanations and explicit limits. The other 20 four-option sets remain pending; Q20–21 only have earlier bounded *key* correspondences.
+- **Approval gate:** R1–R8 incomplete, R9 not started, independent approvals ZERO.
