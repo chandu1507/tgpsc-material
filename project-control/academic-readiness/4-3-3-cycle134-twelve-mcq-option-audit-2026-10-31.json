@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-31",
+  "cycle": 134,
+  "topic_id": "4-3-3",
+  "base_main_sha": "392ec85a1d7ecbc119a3461ec586526b163208c5",
+  "reviewed_existing_mcqs": [
+    {
+      "number": 3,
+      "key": "B",
+      "source_ids": [
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 4,
+      "key": "B",
+      "source_ids": [
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 5,
+      "key": "A",
+      "source_ids": [
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 6,
+      "key": "B",
+      "source_ids": [
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 7,
+      "key": "B",
+      "source_ids": [
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 8,
+      "key": "B",
+      "source_ids": [
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 10,
+      "key": "B",
+      "source_ids": [
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 11,
+      "key": "B",
+      "source_ids": [
+        "USGS-2010"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 12,
+      "key": "A",
+      "source_ids": [
+        "EPA-P",
+        "NCERT-12"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 23,
+      "key": "C",
+      "source_ids": [
+        "TGBB-2014"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 24,
+      "key": "D",
+      "source_ids": [
+        "CBD-A1"
+      ],
+      "options_reviewed": 4
+    },
+    {
+      "number": 25,
+      "key": "A",
+      "source_ids": [
+        "CBD-T3"
+      ],
+      "options_reviewed": 4
+    }
+  ],
+  "primary_sources": {
+    "NCERT-12": "https://ncert.gov.in/textbook/pdf/lebo112.pdf",
+    "USGS-2010": "https://pubs.usgs.gov/fs/2010/3078/",
+    "EPA-P": "https://www.epa.gov/national-aquatic-resource-surveys/indicators-phosphorus",
+    "TGBB-2014": "https://tgbiodiversity.org/",
+    "CBD-A1": "https://www.cbd.int/convention/articles?a=cbd-01",
+    "CBD-T3": "https://www.cbd.int/gbf/targets/3"
+  },
+  "review_type": "author-side bounded key correspondence and all four option rationales, not independent",
+  "unique_keys_reviewed": 12,
+  "distractors_reviewed": 36,
+  "remaining_keys": 18,
+  "remaining_distractors": 54,
+  "original_questions_preserved": 30,
+  "original_pdf_sha256": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
+  "pdf_render": "PENDING",
+  "artifact_download_qa": "PENDING",
+  "full_R1_R8_ready": 0,
+  "academic_approvals": 0
+}
