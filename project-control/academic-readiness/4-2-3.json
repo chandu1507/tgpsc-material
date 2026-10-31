@@ -1,7 +1,7 @@
 {
   "topic_id": "4-2-3",
   "title": "Land Reforms: First and Second Generations, Intermediary Abolition, Tenancy, Ceilings and Scheduled Areas",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle42 direct assessment: 16 original 400+ word concepts, 30 practice MCQs with initial A9/B15/C5/D1, six 200+ body-word mains, original 28-page PDF preserved. Eight MCQs revised and one original hypothetical 530-word outcomes laboratory added, giving 17 concepts, MCQ distribution A4/B13/C7/D6. Limited official Bhu Bharati and indexed TGPSC 2022 correspondence; direct 2024 syllabus, full current law, all keys/distractors and all mains claims not independently verified. Local 31-page integrated PDF generated and statically QA checked; GitHub CI and downloaded post-edit artifact QA pending. CI 32-page integrated PDF and actual post-edit artifact 12753002653 downloaded: outer/inner CRC PASS, 1628 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 422 file links/1097 DOM fragments zero broken, 64 SPA routes excluded, 18 manifest hashes PASS; no browser accessibility certification.",
-  "next_action": "Complete 30-key/120-distractor and six mains claim-level independent audit, verify diagrams and original 2024 syllabus, test public browser accessibility, then expert review. Do not approve before R1–R8 PASS.",
+  "evidence": "Cycle42 direct assessment: 16 original 400+ word concepts, 30 practice MCQs with initial A9/B15/C5/D1, six 200+ body-word mains, original 28-page PDF preserved. Eight MCQs revised and one original hypothetical 530-word outcomes laboratory added, giving 17 concepts, MCQ distribution A4/B13/C7/D6. Limited official Bhu Bharati and indexed TGPSC 2022 correspondence; direct 2024 syllabus, full current law, all keys/distractors and all mains claims not independently verified. Local 31-page integrated PDF generated and statically QA checked; GitHub CI and downloaded post-edit artifact QA pending. CI 32-page integrated PDF and actual post-edit artifact 12753002653 downloaded: outer/inner CRC PASS, 1628 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 422 file links/1097 DOM fragments zero broken, 64 SPA routes excluded, 18 manifest hashes PASS; no browser accessibility certification. Cycle129: 10 existing MCQs Q4/6/7/8/9/12/23/24/25/30 now have 10 bounded author-side primary-text key checks and 30 distractor explanations against official Inams 1955, Ceiling 1973, Assigned Lands 1977 and Bhu Bharati GO39 2025; 20 keys/60 distractors and all six mains claim reviews remain. R1–R8 not PASS; zero approvals.",
+  "next_action": "Review remaining 20 MCQ keys and 60 distractors (NOT 120 distractors: 30 four-option questions have 90 distractors total), all six mains claim-level checks, diagram accuracy, original 2024 syllabus and browser accessibility; independent expert only after R1–R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "c612d9c19a2a9059c3a6feac776a772269016a7b01a22c5bd64e0f6c4bf9e581",
@@ -173,5 +173,23 @@
     "integrated_pdf_pages": 32,
     "integrated_pdf_sha256": "3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882",
     "R8": "IN_PROGRESS_NOT_PASS"
+  },
+  "cycle129": {
+    "date": "2026-10-31",
+    "original_practice_mcqs": 30,
+    "author_side_keys_checked": 10,
+    "author_side_distractors_checked": 30,
+    "remaining_keys": 20,
+    "remaining_distractors": 60,
+    "source_basis": [
+      "India Code Inams Act 1955 ss4-10",
+      "India Code Ceiling Act 1973 ss3-5,13",
+      "India Code Assigned Lands Act 1977 listing",
+      "Telangana Bhu Bharati GO Ms39 2025 rules4-5"
+    ],
+    "caveat": "Full 1950 tenancy statute not directly fetched; s38-E cross-ref confirmed via 1973 Act s13. Not independent expert review.",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_academic_approvals": 0
   }
 }

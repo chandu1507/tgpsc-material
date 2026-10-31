@@ -1,0 +1,70 @@
+{
+  "cycle": 129,
+  "date": "2026-10-31",
+  "topic": "4-2-3",
+  "baseline_main": "1df0b08a504ab366b7318a9a622e967368921dca",
+  "topic_count": 75,
+  "original_pdfs_to_preserve": 75,
+  "original_topic_pdf_sha256": "c612d9c19a2a9059c3a6feac776a772269016a7b01a22c5bd64e0f6c4bf9e581",
+  "question_count": 30,
+  "audited_question_numbers": [
+    4,
+    6,
+    7,
+    8,
+    9,
+    12,
+    23,
+    24,
+    25,
+    30
+  ],
+  "audited_keys": 10,
+  "audited_distractors": 30,
+  "pending_keys": 20,
+  "pending_distractors": 60,
+  "option_count_total": 120,
+  "distractors_total": 90,
+  "source_register": [
+    {
+      "authority": "India Code",
+      "title": "Telangana Abolition of Inams Act 1955",
+      "sections": "4-10",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/8597/1/act_8_of_1955.pdf",
+      "access": "directly_read"
+    },
+    {
+      "authority": "India Code",
+      "title": "Telangana Land Reforms Ceiling Act 1973",
+      "sections": "3-5,13",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/8693/1/act_1_of_1973.pdf",
+      "access": "directly_read"
+    },
+    {
+      "authority": "India Code",
+      "title": "Telangana Assigned Lands Act 1977",
+      "sections": "title and sections list",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/8711/1/act_9_of_1977.pdf",
+      "access": "search_index_only_full_pdf_timeout"
+    },
+    {
+      "authority": "Telangana Revenue Department",
+      "title": "Bhu Bharati Rules 2025 GO Ms39",
+      "sections": "rules 4-5",
+      "url": "https://bhubharati.telangana.gov.in/assets/images/userManuals/G_O_Ms_no_39_Dated_14_04_2025.pdf",
+      "access": "directly_read"
+    }
+  ],
+  "limitations": [
+    "The full 1950 Tenancy Act was not directly fetched; s38-E was cross-referenced in the official 1973 Act s13.",
+    "Remaining 20 keys and 60 distractors are not audited at this level.",
+    "All six mains answers need claim-level checking.",
+    "Original 2024 TGPSC syllabus and full browser accessibility remain pending.",
+    "No named independent academic expert, official PYQ authentication, or R1-R8 PASS."
+  ],
+  "ci_pdf_generated": false,
+  "actual_github_artifact_downloaded_and_verified": false,
+  "R8": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0
+}

@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-2-2",
+    "last_reported_topic": "4-2-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle128 4-2-2: 10/30 original MCQs, 40 option rationales author-side primary-source checked; Q10 unsupported distractor explanation corrected. 28-page integrated PDF; actual downloaded artifact 13032612425 CRC/digest/75 originals/563 local links/1180 fragments PASS. 20 MCQs/80 options, six mains, R1–R7 and independent expert pending. ZERO approvals."
+    "note": "Cycle129 4-2-3: 10/30 keys and 30/90 distractors bounded author-side source-correlated; source/master synchronized, GitHub CI and downloaded post-edit artifact pending; exactly 75 originals, zero R1-R8 ready and zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -474,8 +474,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle42_integrated_ci_pdf_published_actual_artifact_verified_academic_audit_pending",
-      "notes": "Original 28-page PDF preserved. GitHub CI 32-page synchronized PDF SHA256 3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882; actual artifact 12753002653 downloaded, CRC/SHA/75 originals and links verified; R8 IN_PROGRESS, not PASS. 17 concepts, 30 practice MCQs (8 revised), six mains, zero academic approvals.",
+      "production_review": "cycle129_10_of_30_keys_and_30_of_90_distractors_bounded_primary_text_author_audit_ci_pending",
+      "notes": "Original 28-page PDF preserved. GitHub CI 32-page synchronized PDF SHA256 3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882; actual artifact 12753002653 downloaded, CRC/SHA/75 originals and links verified; R8 IN_PROGRESS, not PASS. 17 concepts, 30 practice MCQs (8 revised), six mains, zero academic approvals. Cycle129 31-Oct: 10 existing MCQ keys and 30 distractors author-side compared against Inams 1955, Ceiling 1973, Assigned Lands 1977 listing and GO Ms39 2025; 20 keys/60 distractors, six mains claims, diagrams, R1 direct syllabus and browser QA outstanding. CI PDF and actual post-edit artifact pending. NOT APPROVED.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-2-3.json",
       "latest_readiness_evidence": "project-control/academic-readiness/4-2-3-cycle42-actual-downloaded-artifact-qa-2026-10-27.json"
