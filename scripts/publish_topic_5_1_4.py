@@ -13,8 +13,9 @@ assert len({t['id'] for t in cp['topics']})==75
 assert len(ix['paths'])==len(set(ix['paths']))==75
 assert len(list(Path('project-control/academic-readiness').glob('[2-6]-[1-3]-[1-5].json')))==75
 counts={s:sum(t['readiness_status']==s for t in cp['topics']) for s in ['IN_PROGRESS','ASSESSED_REBUILD_REQUIRED','NOT_ASSESSED']}
-assert counts=={'IN_PROGRESS':7,'ASSESSED_REBUILD_REQUIRED':34,'NOT_ASSESSED':34},counts
-assert len(ix['assessed_rebuild_required'])==34 and ix['not_assessed_count']==34
+assert sum(counts.values())==75,counts
+assert len(ix['assessed_rebuild_required'])==counts['ASSESSED_REBUILD_REQUIRED'] and ix['not_assessed_count']==counts['NOT_ASSESSED']
+assert set(ix['assessed_rebuild_required'])=={t['id'] for t in cp['topics'] if t['readiness_status']=='ASSESSED_REBUILD_REQUIRED'}
 assert set(ix['assessed_rebuild_required'])=={t['id'] for t in cp['topics'] if t['readiness_status']=='ASSESSED_REBUILD_REQUIRED'}
 assert cp['academically_approved']==ix['independently_academically_approved_count']==0
 assert all((Path(t['path'])/'complete-notes.pdf').is_file() for t in cp['topics'])
@@ -26,6 +27,8 @@ mains=(src/'mains-model-answers.md').read_text().strip()
 sources=(src/'sources-and-audit.md').read_text().strip()
 assert mains in md and sources in md
 assert 'Cycle 52 bounded direct-source correspondence' in md
+assert 'Cycle 140: ten existing MCQs' in md
+assert (src/'cycle140-ten-mcq-option-audit.md').read_text().strip() in md
 concepts=re.findall(r'(?ms)^### Section (\d+)\. ([^\n]+)\n(.*?)(?=^### Section \d+\.|^## |\Z)',md)
 assert len(concepts)==16,len(concepts)
 word=lambda s:len(re.findall(r"\b[\w’-]+\b",s))
@@ -100,7 +103,7 @@ qa={'date':'2026-10-28','topic':'5-1-4','cycle':52,'original_pdf_sha256':origina
 'original_mcqs':30,'correct_answers':{k:answers.count(k) for k in 'ABCD'},'distractors':90,
 'mains_body_only_counts':body_counts,'html_file_links_checked':file_links,'broken_files':bad_files,
 'html_fragment_links_checked':fragment_links,'broken_fragments':bad_fragments,
-'spa_routes_excluded':spa_routes,'source_checks':'nine bounded primary-source correct-key correspondences plus one arithmetic; not a complete item audit',
+'spa_routes_excluded':spa_routes,'source_checks':'Cycle52 nine bounded key-only source correspondences plus one arithmetic; Cycle140 ten existing four-option author-side audits (10 keys and 30 distractors); 20 keys/60 distractors remain; not independent certification',
 'independent_academic_approvals':0,'R8':'IN_PROGRESS_NOT_PASS',
 'actual_downloaded_post_edit_artifact_qa':False,'browser_accessibility_certified':False}
 (root/'QA-REPORT.md').write_text('# Cycle52 CI render QA\n\n'+json.dumps(qa,indent=2)+'\n')
