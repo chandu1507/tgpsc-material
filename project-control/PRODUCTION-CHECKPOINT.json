@@ -564,11 +564,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "first_direct_assessment_primary_ndc_bounded_verification_rebuild_required",
-      "notes": "28 Oct Cycle48: original 25-page PDF preserved; 16 concepts all >=300, 30 MCQs A3/B24/C3/D0, six mains 215/206/215/207/206/214 body-only; UNFCCC April 2026 NDC directly checked for MCQ20/21 key-level correspondence only. Full MCQ/distractor, mains, diagrams, syllabus and browser checks pending; no independent approval.",
+      "production_review": "cycle136_ten_primary_option_reviews_30page_ci_pdf_actual_downloaded_archive_qa_pass_rebuild_pending",
+      "notes": "Cycle136: 10 existing original MCQ keys/30 distractors source-correlated with option rationales, 20 keys/60 distractors still pending. Original 25-page PDF SHA 7ade679b... unchanged. Integrated 30-page CI PDF SHA fe2a5182..., actual downloaded packaging artifact 13044997340 CRC/digest PASS, 2125 files, 75 originals unchanged, 75 readiness JSON, 89 HTML, 613 local links/1276 fragments zero broken. Wrong-topic PDF footer discovered in visual QA and repaired. Six mains claims, three diagrams, Commission syllabus, full browser and named expert remain pending. NOT APPROVED.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-3-5.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/4-3-5-cycle48-first-direct-structural-and-ndc-audit-2026-10-28.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/4-3-5-cycle136-actual-downloaded-post-footer-fix-artifact-qa-2026-10-31.json"
     },
     {
       "id": "5-1-1",
@@ -1127,7 +1127,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle135 Topic4-3-4: 10 keys/30 distractors author-side reviewed; CI 34-page PDF SHA 1249da2e..., actual downloaded artifact 13043093883 QA PASS; 20 keys/60 distractors, six mains, three diagrams, full browser and expert still pending.",
+  "last_readiness_update": "Cycle136 Topic4-3-5: ten existing MCQ keys/30 distractors author-side reviewed; 30-page CI PDF with corrected footer; actual downloaded artifact 13044997340 SHA/CRC/75 originals/613 links/1276 fragments PASS. 20 keys/60 distractors, six mains claims, three diagrams, full browser and expert pending; ZERO approved.",
   "last_readiness_reconciliation": "31 Oct Cycle135: exactly 75 per-topic records consistent with 75 original PDFs; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS, zero fully R1-R8 ready, zero independent approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
@@ -1155,7 +1155,7 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle135 Topic4-3-4: 10 keys/30 distractors author-side reviewed; CI 34-page PDF SHA 1249da2e..., actual downloaded artifact 13043093883 QA PASS; 20 keys/60 distractors, six mains, three diagrams, full browser and expert still pending.",
+  "latest_readiness_update": "Cycle136 Topic4-3-5: ten existing MCQ keys/30 distractors author-side reviewed; 30-page CI PDF with corrected footer; actual downloaded artifact 13044997340 SHA/CRC/75 originals/613 links/1276 fragments PASS. 20 keys/60 distractors, six mains claims, three diagrams, full browser and expert pending; ZERO approved.",
   "latest_academic_cycle": {
     "cycle": 98,
     "topic_id": "2-3-3",
@@ -1174,17 +1174,17 @@
     "artifact_qa": "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
   },
   "latest_academic_readiness_cycle": {
-    "cycle": 135,
+    "cycle": 136,
     "date": "2026-10-31",
-    "topic": "4-3-4",
-    "source_audit": "project-control/academic-readiness/4-3-4-cycle135-ten-mcq-option-audit-2026-10-31.md",
-    "downloaded_artifact_qa": "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
-    "github_ci_run_id": 41202713899,
-    "github_ci_pdf_sha256": "1249da2e479bab66623b479b7d842b3494f993efc4b77539534c6d5d432bae07",
-    "github_ci_pdf_pages": 34,
-    "packaging_run": 41202953628,
-    "artifact_id": 13043093883,
-    "artifact_sha256": "cef2076274fff07c02d1494b10d92f1b0e657bc7680deede9c4825077bb676e2",
+    "topic": "4-3-5",
+    "source_audit": "project-control/academic-readiness/4-3-5-cycle136-ten-mcq-primary-option-audit-2026-10-31.md",
+    "downloaded_artifact_qa": "project-control/academic-readiness/4-3-5-cycle136-actual-downloaded-post-footer-fix-artifact-qa-2026-10-31.json",
+    "github_ci_run_id": 41207793283,
+    "github_ci_pdf_sha256": "fe2a51827dbc67a25d80b131434cabe664cf7ede6a285993a9ef2f126d27e478",
+    "github_ci_pdf_pages": 30,
+    "packaging_run": 41207834560,
+    "artifact_id": 13044997340,
+    "artifact_sha256": "8613d4e2948b4ee96174398db6d60a53b47270c4da028e20e93b72cf63194248",
     "topic_counts": {
       "IN_PROGRESS": 7,
       "ASSESSED_REBUILD_REQUIRED": 68,
