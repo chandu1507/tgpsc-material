@@ -26,7 +26,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle39 official TGPSC original PDF fresh retrieval 403, so R1 IN_PROGRESS. Fifteen concepts 362\u2013634 words; Q21/Q25 revised; six mains body-only 235/239/233/230/233/227. Guarded CI produced 31-page integrated PDF SHA256 718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846; actual downloaded GitHub packaging run 40516112070 artifact 12739623188 independently verified: outer/inner CRC, SHA matching GitHub, 1614 files, 75 unchanged original PDFs, 75 readiness JSON, 78 HTML, 485 relative href/src links and 966 DOM fragments zero broken, 64 SPA route occurrences excluded, 17/17 manifest hashes. R8 IN_PROGRESS, no accessibility certification, zero approvals.",
+  "evidence": "Cycle39 official TGPSC original PDF fresh retrieval 403, so R1 IN_PROGRESS. Fifteen concepts 362–634 words; Q21/Q25 revised; six mains body-only 235/239/233/230/233/227. Guarded CI produced 31-page integrated PDF SHA256 718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846; actual downloaded GitHub packaging run 40516112070 artifact 12739623188 independently verified: outer/inner CRC, SHA matching GitHub, 1614 files, 75 unchanged original PDFs, 75 readiness JSON, 78 HTML, 485 relative href/src links and 966 DOM fragments zero broken, 64 SPA route occurrences excluded, 17/17 manifest hashes. R8 IN_PROGRESS, no accessibility certification, zero approvals. Cycle126: Q1-Q10 option-level author-side reviews (40 options; Q4/Q6 chronology provisional); 35-page CI PDF SHA256 4287e86a...; actual artifact 13029007702 downloaded, CRC/SHA/75 originals/links PASS. No independent academic approval.",
   "next_action": "Complete Q4/Q6 original annual-plan chronology; audit Q11-Q25 (15 keys/45 distractors); claim-check six mains; diagrams; CI PDF and actual artifact CRC/SHA/link QA; independent academic reviewer. R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -103,9 +103,11 @@
     "mains_claim_review": "NOT_COMPLETE",
     "original_pdf_sha256_preserved_expected": "01f2cfa032761978ef783941b01b7085511ffda76dd4d77a616ee5f94d189ad4",
     "integrated_editable_master_synchronized": true,
-    "integrated_pdf_ci": "PENDING",
-    "downloaded_artifact_qa": "PENDING",
+    "integrated_pdf_ci": "SUCCESS run 41166357101; 35 pages; SHA256 4287e86ae2b949303963ee11fb86d99c3be6ffb50c5df442d58ba2738b934a3d",
+    "downloaded_artifact_qa": "project-control/academic-readiness/4-1-5-cycle126-actual-downloaded-artifact-qa-2026-10-31.json",
     "independent_academic_approvals": 0,
-    "external_reviewer": null
+    "external_reviewer": null,
+    "actual_packaging_run": 41166382108,
+    "actual_artifact_id": 13029007702
   }
 }
