@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-2-5",
+    "last_reported_topic": "4-3-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle131 Topic 4-2-5 10 keys/30 distractors source-correlated author-side, cumulative 15/30; actual downloaded artifact 13035999248 SHA/CRC/75 original PDFs/links/manifest PASS; 31-page PDF; 15 keys/45 distractors, six mains claims, diagrams, browser and expert remain. ZERO approvals."
+    "note": "Cycle132 4-3-1: 10 original keys/30 distractors author-side bounded source checks; corrected 90-distractor count; 29-page synchronized CI PDF, actual downloaded artifact 13038582443 SHA/CRC/75 originals/606 links/1185 fragments PASS; 20 keys/60 distractors, six mains, four diagrams, browser and expert pending. ZERO approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -513,8 +513,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle45_integrated_ci_published_actual_downloaded_artifact_integrity_verified_academic_audit_pending",
-      "notes": "Cycle45 coherent 17-concept master, 30 original MCQs (Q14/Q23/Q29 revised), six 200+ body-word mains, four diagrams including original hypothetical cumulative-load schematic. CI 28-page integrated PDF SHA256 e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f. Packaging run 40573418884 artifact 12766127068 actually downloaded, ZIP digest 438fec3b5bd34d8b24ae0e939466b58464ccf7e45967b29d2ae3a62e7db2290f, outer/inner CRC PASS, 1647 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 429 local links and 1137 fragments zero broken, 64 SPA routes excluded, 21/21 manifest hashes. R8 IN_PROGRESS not PASS; no complete independent academic or browser accessibility review.",
+      "production_review": "cycle132_ten_option_audits_ci_pdf_and_actual_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "Cycle45 coherent 17-concept master, 30 original MCQs (Q14/Q23/Q29 revised), six 200+ body-word mains, four diagrams including original hypothetical cumulative-load schematic. CI 28-page integrated PDF SHA256 e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f. Packaging run 40573418884 artifact 12766127068 actually downloaded, ZIP digest 438fec3b5bd34d8b24ae0e939466b58464ccf7e45967b29d2ae3a62e7db2290f, outer/inner CRC PASS, 1647 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 429 local links and 1137 fragments zero broken, 64 SPA routes excluded, 21/21 manifest hashes. R8 IN_PROGRESS not PASS; no complete independent academic or browser accessibility review. Cycle132 10 existing keys/30 distractors source-correlated; 20 keys/60 distractors remain. Corrected inherited 120 distractors to 90. 29-page CI PDF SHA256 ff24534a163d37a40ab39271ac10620dd7a9605042249c6c0d2ab61ba81a50f7; actual downloaded artifact 13038582443 SHA/CRC/75 originals/link QA PASS. No R1–R8 completion or approval.",
       "published_commit": "006485feb2495805077841957532ab42ac00e7ac",
       "pdf_blob_sha": "a12453c4b8d9cd4789afdcc837a9a80eb321d41a",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
