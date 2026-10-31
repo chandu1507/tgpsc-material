@@ -649,34 +649,109 @@ D. Article 356
 
 **Access note (24 October 2026).** These sources establish the particular facts indicated. A source's publication date is not automatically the date on which every reported outcome occurred. Sources listed as a draft or target are explicitly treated as such. The original commission PDF was retrievable through indexed excerpts but returned HTTP 403 to a direct reopening attempt in this run; original text verification therefore has a limited-access flag pending another direct download. No unsupported 2026 state-wide implementation statistic is asserted.
 
-| ID | Primary source / date | What it substantiates | Verification and limitation |
-|---|---|---|---|
-| S01 | TGPSC Notification 02/2024, 19 Feb 2024, Annexure II | Exact Paper V Unit I Topic 2 syllabus wording | Indexed original PDF extract authenticated; direct host access returned 403 on 24 Oct 2026. |
-| S02 | DST/NSTMIS, Scientific Policy Resolution, 4 Mar 1958 | Foundational policy and research capacity | Historical original text. |
-| S03 | DST/NSTMIS, Technology Policy Statement, Jan 1983 | Self-reliance and social relevance | Historical original text. |
-| S04 | DST, STI 2020 draft background note, 2020 | Policy sequence and 2003 focus | Official retrospective; read alongside 2003 document when accessible. |
-| S05 | DST, Science, Technology and Innovation Policy, 2013 | Innovation ecosystem and inclusive aspirations | Approved policy text; aspirations are not achieved results. |
-| S06 | DST, Draft Fifth STI Policy consultation, Dec 2020 | Consultation and proposed governance | **Draft only**, not presumed enacted. |
-| S07 | DST, National Supercomputing Mission, programme page | DST/MeitY, C-DAC/IISc institutional roles | Evergreen mission page; no invented current installation counts. |
-| S08 | DST, National Mission on Interdisciplinary CPS, approved 2018 | 25 hubs; IIIT-H and TiHAN institutional examples | Hubs established, not proof of nationwide commercial adoption. |
-| S09 | DST, National Quantum Mission, approval 19 Apr 2023 | ₹6,003.65-crore outlay, 2023–31 and targets | **Approved outlay and technical targets**, not outcomes. |
-| S10 | IndiaAI AIKosh, mission approved Mar 2024 | Seven pillars and national data platform | Platform existence not independent validation of applications. |
-| S11 | Department of Telecommunications BharatNet official portal, accessed 24 Oct 2026 | Rural connectivity design and service model | Demand and coverage do not equal activated household service. |
-| S12 | Telangana government, Second ICT Policy 2021–2026 | State ICT policy period and objectives | Targets must not be labelled achieved without dated results. |
-| S13 | Department of Telecommunications, National Digital Communications Policy 2018 | National communication-policy framework | Policy objectives distinct from realized coverage. |
-| S14 | MeitY Annual Report 2025–26, released 2026 | DPDP Rules notification 14 Nov 2025 and phased timeline | Commencement dates vary; legal audit required for application. |
-| S15 | MeitY, Acts and Policies page, updated 2026 | DPDP Rules 2025 listing | Official document index, not substitute for rule-by-rule interpretation. |
-| S16 | DST, National Data Sharing and Accessibility Policy, 2012 | Non-sensitive public data and interoperability | Data sharing subject to lawful access and privacy safeguards. |
-| S17 | DST, Nano Mission programme call, 2019 | Nano research funding and application emphasis | Historical programme evidence, not current funding total. |
-| S18 | DST, ICONSAT Nano Mission coverage, 2020 | Nanoscience capacity and translation challenges | Event coverage; not evidence of specific product safety. |
-| S19 | DST, NM-ICPS technology translation report, 2024 | Translation, product development and hubs | Programme report; outcomes need independent checks. |
-| S20 | DST, National Quantum Mission thematic hubs announcement, 2024 | Research-hub architecture | Announced or established infrastructure, not achieved qubit target. |
-| S21 | DoT, Net Neutrality policy framework, 2018 | Non-discriminatory internet access policy | Policy framework; implementation varies by enforcement. |
-| S22 | DST, state engagement in draft STIP 2020, 2020 | Centre–state innovation policy coordination | Statement concerns consultation, not final adoption. |
+### Source register — 25 print-readable entries
 
-| S23 | NSTMIS/DST, original Science and Technology Policy 2003 | Original policy objectives, state linkages, historical 2%-GDP investment ambition | Historical **target**, not measured achievement; directly viewed 31 Oct 2026. |
-| S24 | DST, TiHAN autonomous navigation testbed at IIT Hyderabad, official announcement | Research/testbed, simulations and sensor evaluation | Not unrestricted public-road safety certification; directly viewed 31 Oct 2026. |
-| S25 | DST, Institute of Nano Science and Technology, Mohali, institutional profile | Nano Mission institution and research fields | Institutional capacity, not evidence of efficacy of particular products; directly viewed 31 Oct 2026. |
+**S01 — TGPSC Notification 02/2024, 19 Feb 2024, Annexure II**  
+**Evidence:** Exact Paper V Unit I Topic 2 syllabus wording  
+**Limit:** Indexed original PDF extract authenticated; direct host access returned 403 on 24 Oct 2026.
+
+**S02 — DST/NSTMIS, Scientific Policy Resolution, 4 Mar 1958**  
+**Evidence:** Foundational policy and research capacity  
+**Limit:** Historical original text.
+
+**S03 — DST/NSTMIS, Technology Policy Statement, Jan 1983**  
+**Evidence:** Self-reliance and social relevance  
+**Limit:** Historical original text.
+
+**S04 — DST, STI 2020 draft background note, 2020**  
+**Evidence:** Policy sequence and 2003 focus  
+**Limit:** Official retrospective; read alongside 2003 document when accessible.
+
+**S05 — DST, Science, Technology and Innovation Policy, 2013**  
+**Evidence:** Innovation ecosystem and inclusive aspirations  
+**Limit:** Approved policy text; aspirations are not achieved results.
+
+**S06 — DST, Draft Fifth STI Policy consultation, Dec 2020**  
+**Evidence:** Consultation and proposed governance  
+**Limit:** **Draft only**, not presumed enacted.
+
+**S07 — DST, National Supercomputing Mission, programme page**  
+**Evidence:** DST/MeitY, C-DAC/IISc institutional roles  
+**Limit:** Evergreen mission page; no invented current installation counts.
+
+**S08 — DST, National Mission on Interdisciplinary CPS, approved 2018**  
+**Evidence:** 25 hubs; IIIT-H and TiHAN institutional examples  
+**Limit:** Hubs established, not proof of nationwide commercial adoption.
+
+**S09 — DST, National Quantum Mission, approval 19 Apr 2023**  
+**Evidence:** ₹6,003.65-crore outlay, 2023–31 and targets  
+**Limit:** **Approved outlay and technical targets**, not outcomes.
+
+**S10 — IndiaAI AIKosh, mission approved Mar 2024**  
+**Evidence:** Seven pillars and national data platform  
+**Limit:** Platform existence not independent validation of applications.
+
+**S11 — Department of Telecommunications BharatNet official portal, accessed 24 Oct 2026**  
+**Evidence:** Rural connectivity design and service model  
+**Limit:** Demand and coverage do not equal activated household service.
+
+**S12 — Telangana government, Second ICT Policy 2021–2026**  
+**Evidence:** State ICT policy period and objectives  
+**Limit:** Targets must not be labelled achieved without dated results.
+
+**S13 — Department of Telecommunications, National Digital Communications Policy 2018**  
+**Evidence:** National communication-policy framework  
+**Limit:** Policy objectives distinct from realized coverage.
+
+**S14 — MeitY Annual Report 2025–26, released 2026**  
+**Evidence:** DPDP Rules notification 14 Nov 2025 and phased timeline  
+**Limit:** Commencement dates vary; legal audit required for application.
+
+**S15 — MeitY, Acts and Policies page, updated 2026**  
+**Evidence:** DPDP Rules 2025 listing  
+**Limit:** Official document index, not substitute for rule-by-rule interpretation.
+
+**S16 — DST, National Data Sharing and Accessibility Policy, 2012**  
+**Evidence:** Non-sensitive public data and interoperability  
+**Limit:** Data sharing subject to lawful access and privacy safeguards.
+
+**S17 — DST, Nano Mission programme call, 2019**  
+**Evidence:** Nano research funding and application emphasis  
+**Limit:** Historical programme evidence, not current funding total.
+
+**S18 — DST, ICONSAT Nano Mission coverage, 2020**  
+**Evidence:** Nanoscience capacity and translation challenges  
+**Limit:** Event coverage; not evidence of specific product safety.
+
+**S19 — DST, NM-ICPS technology translation report, 2024**  
+**Evidence:** Translation, product development and hubs  
+**Limit:** Programme report; outcomes need independent checks.
+
+**S20 — DST, National Quantum Mission thematic hubs announcement, 2024**  
+**Evidence:** Research-hub architecture  
+**Limit:** Announced or established infrastructure, not achieved qubit target.
+
+**S21 — DoT, Net Neutrality policy framework, 2018**  
+**Evidence:** Non-discriminatory internet access policy  
+**Limit:** Policy framework; implementation varies by enforcement.
+
+**S22 — DST, state engagement in draft STIP 2020, 2020**  
+**Evidence:** Centre–state innovation policy coordination  
+**Limit:** Statement concerns consultation, not final adoption.
+
+
+**S23 — NSTMIS/DST, original Science and Technology Policy 2003**  
+**Evidence:** Original policy objectives, state linkages, historical 2%-GDP investment ambition  
+**Limit:** Historical **target**, not measured achievement; directly viewed 31 Oct 2026.
+
+**S24 — DST, TiHAN autonomous navigation testbed at IIT Hyderabad, official announcement**  
+**Evidence:** Research/testbed, simulations and sensor evaluation  
+**Limit:** Not unrestricted public-road safety certification; directly viewed 31 Oct 2026.
+
+**S25 — DST, Institute of Nano Science and Technology, Mohali, institutional profile**  
+**Evidence:** Nano Mission institution and research fields  
+**Limit:** Institutional capacity, not evidence of efficacy of particular products; directly viewed 31 Oct 2026.
+
 
 **Cycle138 direct-link correction (31 October 2026):** The previously registered S05 direct DST PDF URL returned HTTP 404 during this cycle. DST's official 2013-policy listing and policy chronology were accessible, but the full original 2013 PDF was **not** reauthenticated. Do not represent the inaccessible PDF as freshly consulted. The original 2003 policy text was directly accessible at S23. The 2020 fifth-policy text remains a **consultation draft** at S06; no later adoption instrument was examined.
 
