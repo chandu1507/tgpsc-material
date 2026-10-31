@@ -1,7 +1,7 @@
 {
   "topic_id": "5-1-4",
   "title": "Applications of Space Technology: Education, Agriculture, Industry, Climate and Disaster Management",
-  "date": "2026-10-28",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json",
-  "next_action": "Download post-CI GitHub packaging artifact and verify 75 original PDFs, 75 readiness JSON, CRC, all local/fragment links and PDF SHA; then complete 30 keys/90 distractors, six mains claims, three diagrams, syllabus and browser audit.",
+  "evidence": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 4/source/cycle140-ten-mcq-option-audit.md",
+  "next_action": "Verify post-Cycle140 actual downloaded GitHub packaging artifact and original 75-PDF hashes, all readiness JSON, CRC/links/manifest/PDF; then audit 20 remaining MCQ keys and 60 distractors, six mains claims, three diagrams, syllabus and browser accessibility.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -69,5 +69,34 @@
       "actual_post_render_actions_artifact_downloaded": true
     }
   },
-  "latest_downloaded_publication_artifact_qa": "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
+  "latest_downloaded_publication_artifact_qa": "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+  "cycle140_author_side_option_audit": {
+    "date": "2026-10-31",
+    "reviewed_existing_mcqs": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      16,
+      19,
+      24,
+      28
+    ],
+    "keys_reviewed": 10,
+    "distractors_reviewed": 30,
+    "remaining_keys_without_four_option_audit": 20,
+    "remaining_distractors": 60,
+    "master_path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 4/source/complete-notes.md",
+    "evidence_path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 4/source/cycle140-ten-mcq-option-audit.md",
+    "rendered_ci_run_id": 41226670215,
+    "rendered_ci_conclusion": "success",
+    "post_render_artifact_downloaded": false,
+    "review_scope": "bounded author-side option rationales, not independent academic verification",
+    "syllabus_R1": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  }
 }
