@@ -3,5 +3,5 @@
 Original 24-page PDF preserved (SHA256 5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592).
 Cycle56 editable master, offline HTML and integrated PDF synchronized through deterministic CI.
 18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.
-Five bounded correct-key correspondences only; no full independent MCQ, mains, diagram, syllabus or browser audit.
+Ten existing four-option MCQ audits added Cycle144; 20 keys/60 distractors remain; two diagrams have identified sequencing defects. No independent academic approval.
 Zero academic approvals. No official PYQs authenticated.

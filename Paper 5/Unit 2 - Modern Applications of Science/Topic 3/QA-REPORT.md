@@ -6,8 +6,8 @@
   "cycle": 56,
   "original_pdf_sha256": "5a1a65fe107fc58d73a063913d645bbc1137fb88b89798b1c87b3bee5c798592",
   "original_preserved": true,
-  "integrated_pdf_sha256": "eed80035f4a564a9465a31c944e826410861c98f90f234eed1a1151f5e5432fb",
-  "integrated_pdf_pages": 27,
+  "integrated_pdf_sha256": "eb37db004c11d2171c98059e4588255337d07a30d69f387ed75fa412779d3bc7",
+  "integrated_pdf_pages": 29,
   "pdf_images": 3,
   "blank_pages": [],
   "text_boundary_violations": [],
@@ -35,9 +35,9 @@
   "html_fragment_links_checked": 0,
   "broken_fragments": [],
   "spa_routes_excluded": 0,
-  "source_checks": "five bounded correct-key proposition checks (Q13, Q15, Q16, Q21, Q25); remaining 25 keys and all distractors unverified",
+  "source_checks": "Cycle144 ten existing four-option author-side audits Q2/3/4/5/6/7/8/19/20/26; 20 keys/60 distractors pending; Cycle56 five limited key-only checks separate",
   "independent_academic_approvals": 0,
-  "R8": "BLOCKED_NOT_PASS",
+  "R8": "IN_PROGRESS_NOT_PASS",
   "actual_downloaded_post_edit_artifact_qa": false,
   "browser_accessibility_certified": false
 }
