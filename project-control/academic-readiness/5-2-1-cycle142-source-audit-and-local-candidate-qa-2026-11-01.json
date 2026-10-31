@@ -1,0 +1,43 @@
+{
+  "cycle": 142,
+  "date": "2026-11-01",
+  "topic": "5-2-1",
+  "source_main_sha_at_reconciliation": "25da1887365ba5041f9ee55f912e57118d485bab",
+  "source_artifact": "TGPSC_CYCLE141_FINAL_POST_EVIDENCE_ACTIONS_ARTIFACT.zip",
+  "source_artifact_sha256": "43c197850c2447c549d9ab015f10ebdc926d9a53057b790e720640b827fb8e2d",
+  "source_outer_inner_crc": "PASS",
+  "topic_count": 75,
+  "status_counts": {
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "IN_PROGRESS": 7
+  },
+  "checkpoint_count": 75,
+  "per_topic_status_mismatches": [],
+  "original_topic_pdf_sha256": "87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025",
+  "expected_original_sha256": "87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025",
+  "mcqs_preserved": 30,
+  "mcqs_bounded_audited_this_cycle": 10,
+  "option_explanations": 40,
+  "remaining_mcq_keys": 20,
+  "remaining_distractors": 60,
+  "local_candidate_pdf_pages": 25,
+  "local_candidate_pdf_sha256": "37f8a9143076eeadbf945da2fe3c917c4f2f60e05453257238ddf056f5e6ac76",
+  "local_pdf_blank_pages": 0,
+  "local_pdf_wrong_footer_pages": 0,
+  "editable_master_sha256": "9c26e48760dc921c727b7a505cebfc8531a7b9d4e92a7ce019c9b2fac160987c",
+  "audit_sha256": "da10e4084735ee0b3ac6745ab79587a5dafda979cda86d71dbd78b9cb377e77c",
+  "ci_rendered": false,
+  "github_post_edit_artifact_downloaded": false,
+  "browser_accessibility_certified": false,
+  "R1_to_R8_all_pass": false,
+  "independent_academic_approvals": 0,
+  "caveat": "Local ReportLab PDF is synchronized to this editable candidate, but is NOT a GitHub CI PDF. No post-edit GitHub artifact certification claimed.",
+  "github_source_audit_branch": "academic-cycle142-topic-5-2-1-source-audit",
+  "github_source_audit_commits": [
+    "d70bc74b6b445a6767996e9c9adee9388d683598",
+    "efebd683542d9816294950098c06b3a16c02a31d"
+  ],
+  "source_archive_artifact_id": 13053444482,
+  "source_archive_actions_run": 41231798628,
+  "source_archive_sha_verified_against_github_digest": true
+}
