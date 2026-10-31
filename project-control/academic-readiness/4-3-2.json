@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "Cycle45 direct first assessment: 16 core concepts, three below 300 words (296/294/299), 30 four-option original MCQs with key distribution A3/B26/C1/D0, six mains body-only 208/208/204/202/212/202 words, 3 inherited diagrams, original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved. Official FSI ISFR 2023 Telangana Table10.25.2 verifies 21,179.04 sq km forest cover; tree cover 3,517.66 sq km in Q4 NOT independently verified. CGWB 2024 district groundwater tables located but claim-level review incomplete. All MCQ keys/distractors, mains, syllabus, diagrams and browser QA pending. Cycle46: MCQ4 ISFR 2023 forest/tree cover figures directly verified against Ministry of Environment 6 February 2025 parliamentary response; prior Cycle45 NOT_DIRECTLY_VERIFIED limitation superseded for this one claim only. No full question audit. Cycle133 local candidate: six sections expanded to 309\u2013440 whitespace words; four existing MCQs received bounded 16-option author-side rationales; original PDF unchanged; synchronized local 26-page PDF and offline HTML generated. GitHub Actions artifact post-merge not yet verified; no academic approval.",
-  "next_action": "Verify Cycle133 CI renderer, download actual post-render GitHub Actions artifact, check SHA/CRC/75 originals/links; independently audit remaining 26 MCQs, all mains, diagrams and source claims.",
+  "evidence": "Cycle45 direct first assessment: 16 core concepts, three below 300 words (296/294/299), 30 four-option original MCQs with key distribution A3/B26/C1/D0, six mains body-only 208/208/204/202/212/202 words, 3 inherited diagrams, original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved. Official FSI ISFR 2023 Telangana Table10.25.2 verifies 21,179.04 sq km forest cover; tree cover 3,517.66 sq km in Q4 NOT independently verified. CGWB 2024 district groundwater tables located but claim-level review incomplete. All MCQ keys/distractors, mains, syllabus, diagrams and browser QA pending. Cycle46: MCQ4 ISFR 2023 forest/tree cover figures directly verified against Ministry of Environment 6 February 2025 parliamentary response; prior Cycle45 NOT_DIRECTLY_VERIFIED limitation superseded for this one claim only. No full question audit. Cycle133 local candidate: six sections expanded to 309–440 whitespace words; four existing MCQs received bounded 16-option author-side rationales; original PDF unchanged; synchronized local 26-page PDF and offline HTML generated. GitHub Actions artifact post-merge not yet verified; no academic approval.",
+  "next_action": "Independently audit remaining 26 original MCQs and 78 distractors, six mains, diagrams and direct official syllabus; full browser/accessibility QA. R1-R8 and R9 not complete.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd",
@@ -90,6 +90,15 @@
     "local_pdf_sha256": "acafe2820e02c64313967a7d4c5019b207cf2466c8efa9ee6c978cdbe1814a68",
     "remaining": "26 MCQs and 78 distractors need full audit; six mains claim checks, three diagrams, direct syllabus, browser/accessibility and named expert pending.",
     "r1_r8_ready": false,
-    "academic_approval": false
+    "academic_approval": false,
+    "actual_github_actions_artifact_id": 13040206054,
+    "actual_github_actions_run_id": 41194599812,
+    "actual_archive_sha256": "04cf66afe8ab2a5ef6f35a06ab6f707d1d2765aee83c1324aa1728a8f1a875e2",
+    "ci_pdf_pages": 28,
+    "ci_pdf_sha256": "aad608cc436d4fc0bbfe815e93e5c105feb900b4140800e5a60bb28fdb378fc8",
+    "original_pdfs_unchanged": 75,
+    "all_local_links_valid": true,
+    "full_browser_accessibility": false,
+    "full_independent_academic_review": false
   }
 }
