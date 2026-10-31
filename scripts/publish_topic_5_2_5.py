@@ -13,9 +13,12 @@ assert len({t["id"] for t in cp["topics"]})==75
 assert len(ix["paths"])==len(set(ix["paths"]))==75
 assert len(list(Path("project-control/academic-readiness").glob("[2-6]-[1-3]-[1-5].json")))==75
 counts={s:sum(t["readiness_status"]==s for t in cp["topics"]) for s in ("IN_PROGRESS","ASSESSED_REBUILD_REQUIRED","NOT_ASSESSED")}
-assert counts=={"IN_PROGRESS":7,"ASSESSED_REBUILD_REQUIRED":40,"NOT_ASSESSED":28},counts
+assert sum(counts.values())==75,counts
+assert set(ix["pilot_in_progress"])=={t["id"] for t in cp["topics"] if t["readiness_status"]=="IN_PROGRESS"}
+assert ix["not_assessed_count"]==counts["NOT_ASSESSED"]
+assert len(ix["assessed_rebuild_required"])==counts["ASSESSED_REBUILD_REQUIRED"]
 assert set(ix["assessed_rebuild_required"])=={t["id"] for t in cp["topics"] if t["readiness_status"]=="ASSESSED_REBUILD_REQUIRED"}
-assert ix["not_assessed_count"]==28
+assert counts=={"IN_PROGRESS":7,"ASSESSED_REBUILD_REQUIRED":68,"NOT_ASSESSED":0},counts
 assert cp["academically_approved"]==ix["independently_academically_approved_count"]==0
 assert all((Path(t["path"])/"complete-notes.pdf").is_file() for t in cp["topics"])
 original=hashlib.sha256((root/"complete-notes.pdf").read_bytes()).hexdigest()
@@ -26,6 +29,11 @@ for f in ("core.md","original-mcqs.md","mains-model-answers.md","sources-and-aud
     assert (src/f).read_text().strip() in md,f
 assert "Causality-assessment example (hypothetical" in md
 assert "Why the transition matters (source-checked comparison)" in md
+academic_audit=(src/"academic-option-audit-cycle146.md").read_text()
+assert academic_audit.split("\n\n",1)[1].strip() in md
+assert academic_audit.split("\n\n",1)[1].strip() in (src/"sources-and-audit.md").read_text()
+assert len(re.findall(r"(?m)^### Q(?:11|12|13|18|19|20|21|22|23|25|27|29) —",academic_audit))==12
+assert len(re.findall(r"(?m)^- \*\*[ABCD] —",academic_audit))==48
 word=lambda s:len(re.findall(r"\b[\w’-]+\b",s))
 core=(src/"core.md").read_text()
 concepts=re.findall(r"(?ms)^### (\d+)\. ([^\n]+)\n(.*?)(?=^### \d+\.|\Z)",core)
@@ -97,23 +105,26 @@ for tag in soup.find_all(["a","img","script","link"]):
 assert not bad_files and not bad_fragments,(bad_files,bad_fragments)
 
 pdf_sha=hashlib.sha256(pdf.read_bytes()).hexdigest()
-qa={"date":"2026-10-28","topic":"5-2-5","cycle":58,"original_pdf_sha256":original,"original_preserved":True,
+qa={"date":"2026-11-01","topic":"5-2-5","cycle":146,"original_pdf_sha256":original,"original_preserved":True,
     "integrated_pdf_sha256":pdf_sha,"integrated_pdf_pages":len(doc),"pdf_images":images,"blank_pages":blank,
     "text_boundary_violations":boundary,"concept_count":len(concepts),"min_concept_words":min(concept_words),
     "original_mcqs":30,"correct_answers":distribution,"distractors":90,"mains_body_only_counts":bodycounts,
     "mains_count_method":"Unicode regex word tokens excluding question headings, bold subheadings and italic word-count metadata",
     "html_file_links_checked":file_links,"broken_files":bad_files,"html_fragment_links_checked":fragment_links,
     "broken_fragments":bad_fragments,"spa_routes_excluded":spa_routes,
-    "bounded_correct_answer_proposition_checks":13,"remaining_correct_answer_propositions_unverified":17,
-    "all_90_distractors_unverified":True,"source_register_entries":35,
+    "historical_limited_key_correspondences":13,
+    "cycle146_four_option_reviewed_questions":[11,12,13,18,19,20,21,22,23,25,27,29],
+    "cycle146_four_option_reviewed_keys":12,"cycle146_four_option_reviewed_distractors":36,
+    "remaining_four_option_unreviewed_questions":18,"remaining_four_option_unreviewed_distractors":54,
+    "source_register_entries":44,
     "independent_academic_approvals":0,"R8":"IN_PROGRESS_NOT_PASS",
     "actual_downloaded_post_edit_artifact_qa":False,"browser_accessibility_certified":False}
-(root/"QA-REPORT.md").write_text("# Cycle58 CI render QA\n\n"+json.dumps(qa,indent=2)+"\n")
-(root/"README.md").write_text("# Paper V / Unit II / Topic 5 — Vaccines and Immunity\n\nOriginal 21-page PDF preserved (SHA256 "+original+").\nCycle58 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nThirteen bounded correct-answer proposition checks only; remaining 17 keys, all 90 distractors, mains, diagrams, syllabus and browser audits pending.\nZero academic approvals. No official PYQs authenticated.\n")
+(root/"QA-REPORT.md").write_text("# Cycle146 CI render QA\n\n"+json.dumps(qa,indent=2)+"\n")
+(root/"README.md").write_text("# Paper V / Unit II / Topic 5 — Vaccines and Immunity\n\nOriginal 21-page PDF preserved (SHA256 "+original+").\nCycle146 editable master, offline HTML and integrated PDF synchronized through guarded CI; original Cycle58 material retained.\n18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nTwelve Cycle146 author-side four-option MCQ reviews (12 keys/36 distractors); 18 questions/54 distractors, six mains, diagrams, syllabus and browser audits pending. Historical 13 limited key correspondences are not double-counted.\nZero academic approvals. No official PYQs authenticated.\n")
 manifest=json.loads((root/"manifest.json").read_text())
 manifest["academic_status"]="not_approved"
 manifest["mains_word_counts"]=bodycounts
-manifest["sources"]=35
+manifest["sources"]=44
 manifest["manuscript_words"]=word(md)
 manifest["official_syllabus_authenticated_this_cycle"]=False
 manifest["syllabus_source_limitation"]="Inherited direct 2024 syllabus assertion not reauthenticated in Cycle58; R1 IN_PROGRESS"
@@ -123,7 +134,9 @@ manifest["integrated_pdf_sha256"]=pdf_sha
 manifest.setdefault("metrics",{})["mains_answer_word_counts"]=bodycounts
 manifest["metrics"]["mains_count_method"]="body-only excluding question, bold subheading and metadata"
 manifest["metrics"]["concepts_below_300"]=0
-manifest["metrics"]["source_register"]=35
+manifest["metrics"]["source_register"]=44
+manifest["metrics"]["cycle146_four_option_reviewed_mcqs"]=12
+manifest["metrics"]["cycle146_four_option_reviewed_distractors"]=36
 manifest["metrics"]["correct_answer_distribution"]=distribution
 files={}
 for f in root.rglob("*"):
