@@ -36,7 +36,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             python scripts/publish_topic_4_2_5.py
-            git add -- 'Paper 4/Unit 2 - Telangana Economy/Topic 5/index.html' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/manifest.json' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/README.md' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/QA-REPORT.md' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/source/integrated-student-edition-2026-10-27.pdf'
+            git add -- 'Paper 4/Unit 2 - Telangana Economy/Topic 5/source/complete-notes.md' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/index.html' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/manifest.json' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/README.md' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/QA-REPORT.md' 'Paper 4/Unit 2 - Telangana Economy/Topic 5/source/integrated-student-edition-2026-10-27.pdf'
             if git diff --cached --quiet; then
               echo 'Integrated edition already synchronized'
               exit 0
