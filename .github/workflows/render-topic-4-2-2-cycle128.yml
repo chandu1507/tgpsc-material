@@ -1,10 +1,10 @@
-name: Render Topic 4-2-2 Integrated Student Edition
+name: Render Topic 4-2-2 Cycle128 Integrated Student Edition
 on:
   push:
     branches: [main]
     paths:
       - 'Paper 4/Unit 2 - Telangana Economy/Topic 2/source/**'
-      - '.github/workflows/render-topic-4-2-2-integrated.yml'
+      - '.github/workflows/render-topic-4-2-2-cycle128.yml'
   workflow_dispatch:
 permissions:
   contents: write
