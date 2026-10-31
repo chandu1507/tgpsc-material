@@ -1,5 +1,3 @@
-# TGPSC P-IV U-II Topic 4
+# Topic 4-2-4 — Agriculture and Allied Sectors (Cycle130 integrated student edition)
 
-Agriculture and Allied Sectors: GSVA, Landholdings, Irrigation, Drylands, Crops, Credit, Extension, Marketing and Producer Institutions
-
-Expanded draft; no independent academic approval. Includes complete PDF, HTML, Markdown, 30 original MCQs, six complete mains answers, 3 diagrams and source audit. Official PYQs not authenticated.
+Original 28-page complete-notes.pdf preserved SHA256 92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147. Editable source/complete-notes.md, offline index.html and new 33-page source/integrated-student-edition-2026-10-27.pdf synchronized in GitHub CI. 17 substantive concepts, 30 original practice MCQs (10 keys/30 distractors bounded source-audited in Cycle130), six 200+ body-word mains, three inherited diagrams. The cropping-intensity example is hypothetical, not Telangana official data. No verified official PYQs. R1–R8 incomplete, zero academic approvals.
