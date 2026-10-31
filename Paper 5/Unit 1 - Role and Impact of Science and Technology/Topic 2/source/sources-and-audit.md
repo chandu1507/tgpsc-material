@@ -27,6 +27,12 @@
 | S21 | DoT, Net Neutrality policy framework, 2018 | Non-discriminatory internet access policy | Policy framework; implementation varies by enforcement. |
 | S22 | DST, state engagement in draft STIP 2020, 2020 | Centre–state innovation policy coordination | Statement concerns consultation, not final adoption. |
 
+| S23 | NSTMIS/DST, original Science and Technology Policy 2003 | Original policy objectives, state linkages, historical 2%-GDP investment ambition | Historical **target**, not measured achievement; directly viewed 31 Oct 2026. |
+| S24 | DST, TiHAN autonomous navigation testbed at IIT Hyderabad, official announcement | Research/testbed, simulations and sensor evaluation | Not unrestricted public-road safety certification; directly viewed 31 Oct 2026. |
+| S25 | DST, Institute of Nano Science and Technology, Mohali, institutional profile | Nano Mission institution and research fields | Institutional capacity, not evidence of efficacy of particular products; directly viewed 31 Oct 2026. |
+
+**Cycle138 direct-link correction (31 October 2026):** The previously registered S05 direct DST PDF URL returned HTTP 404 during this cycle. DST's official 2013-policy listing and policy chronology were accessible, but the full original 2013 PDF was **not** reauthenticated. Do not represent the inaccessible PDF as freshly consulted. The original 2003 policy text was directly accessible at S23. The 2020 fifth-policy text remains a **consultation draft** at S06; no later adoption instrument was examined.
+
 **Primary URLs** (provided for verification; not page-number citations):
 
 - S01: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v
@@ -51,5 +57,8 @@
 - S20: https://dst.gov.in/union-minister-dr-jitendra-singh-announced-establishment-thematic-hubs-and-technical-groups-national
 - S21: https://dot.gov.in/net-neutrality
 - S22: https://dst.gov.in/dr-harsh-vardhan-invites-states-participate-formulating-stip-2020
+- S23: https://www.nstmis-dst.org/StPPolicy2003.aspx
+- S24: https://dst.gov.in/first-its-kind-testbed-autonomous-navigation-develop-unmanned-ground-and-aerial-vehicles-inaugurated
+- S25: https://dst.gov.in/autonomousstinstitutions/institute-nano-science-and-technology-mohali
 
 **Independent review queue.** Confirm every legal commencement provision in the DPDP framework; independently verify state ICT achievements; examine original commission syllabus PDF when direct access is restored; check source freshness for each mission; test factual precision of every MCQ and mains answer; expand older shallow chapters. Academic approval: **ZERO**.

@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-1-1",
+    "last_reported_topic": "5-1-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle137 Topic5-1-1: ten existing keys/30 distractors author-side source-correlated, 30-page CI PDF and downloaded artifact 13046394147 SHA/CRC/75 original PDFs/link QA PASS. Remaining 20 keys/60 distractors, six mains, diagrams and browser review. R1-R8 incomplete, approvals ZERO."
+    "note": "Cycle138 source edits: 5-1-2 seven concept expansions and ten author-side four-option audits; PDF CI and downloaded archive QA pending. 75 originals, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, ZERO ready/approved."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -590,11 +590,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "pending",
-      "notes": "10,396-word original manuscript; 23-page full PDF; 16 substantive sections, 30 original explained MCQs, six 200–250-word mains answers, three original diagrams, 22-source register. Original commission PDF indexed text authenticated; direct host HTTP 403 requires recheck. Academic review pending. Cycle50 28 Oct: first direct source audit 16 concepts, seven under300, 30 MCQs, six mains >=200 body-only; five bounded DST MCQ key correspondences. No new PDF or independent approval.",
+      "production_review": "cycle138_seven_concept_expansions_ten_mcq_option_reviews_ci_pending",
+      "notes": "Cycle138: 16 core concepts now >=300 whitespace words (minimum 301), seven substantive expansions, ten original MCQ keys/30 distractors author-side primary-source-correlated; remaining 20 keys/60 distractors, six mains claim audits, three diagrams and full browser review. One deduplicated editable master with 3 original diagrams prepared; CI PDF and actual downloaded artifact QA pending. Original 23-page PDF SHA256 6e5ee2729de1e67775c07747c8b1f916c55ca82ca61a9688f4b98255b2fd6bff preserved. R1-R8 NOT PASS; approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-2.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/5-1-2-cycle50-direct-structure-and-primary-source-correspondence-2026-10-28.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/5-1-2-cycle138-seven-concept-and-ten-mcq-source-audit-2026-10-31.json"
     },
     {
       "id": "5-1-3",

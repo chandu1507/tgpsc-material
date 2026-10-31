@@ -1,7 +1,7 @@
 {
   "topic_id": "5-1-2",
   "title": "National Policy of Science and Technology: Policy Evolution, Technology Missions, ICT, Robotics, Nanotechnology and Communication",
-  "date": "2026-10-28",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "Cycle50 direct core/MCQ/mains assessment: 16 concepts, seven below 300 words (2/3/4/5/13/15/16), 30 original 4-option practice MCQs {\"A\":12,\"B\":13,\"C\":3,\"D\":2}, six mains body-only 222/232/227/218/226/230, 5 bounded official DST key correspondences only (Q5/8/9/10/11). No full question/mains/diagram/browser audit, no revised PDF, no approval.",
-  "next_action": "Expand seven shallow concepts in ONE synchronized editable master; independently audit all 30 keys/90 distractors and six mains claims; verify official syllabus directly, diagrams, CI PDF and downloaded publication artifact.",
+  "evidence": "Cycle138 seven shallow sections expanded; all 16 core sections now >=300 whitespace words (minimum 301), not full-page certification. Ten existing original MCQs Q1-5/8-11/30 author-side source-correlated with 40 option rationales; 20 keys/60 distractors pending. Six mains claim audits, three diagrams, 2013 full PDF direct recheck, TGPSC 2024 direct syllabus, browser/accessibility and CI/downloaded artifact QA remain. Original 23-page PDF SHA256 6e5ee2729de1e67775c07747c8b1f916c55ca82ca61a9688f4b98255b2fd6bff preserved. NO approval.",
+  "next_action": "Verify remaining 20 keys/60 distractors and all six mains claims; review diagrams; run guarded CI to publish integrated master/PDF/HTML and download actual artifact for CRC/SHA/75-original/link QA; direct 2013 policy and TGPSC syllabus authentication; independent expert only after R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle50": {
@@ -64,6 +64,27 @@
       10,
       11
     ],
+    "independent_approval": false
+  },
+  "cycle138": {
+    "evidence": "project-control/academic-readiness/5-1-2-cycle138-seven-concept-and-ten-mcq-source-audit-2026-10-31.json",
+    "core_sections": 16,
+    "below300_after": 0,
+    "author_side_mcqs": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11,
+      30
+    ],
+    "remaining_keys": 20,
+    "remaining_distractors": 60,
+    "ci_status": "PENDING",
     "independent_approval": false
   }
 }
