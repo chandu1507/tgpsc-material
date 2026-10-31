@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle46 first direct structural and bounded primary-source assessment: 16 concepts, concepts 8 and 9 below 300 words, 30 original practice MCQs (A6/B22/C1/D1), six mains body-only 212/210/223/218/233/242 words, 3 diagrams, original 21-page PDF SHA preserved. Only MCQ23/24/25 key claims correspond directly to official Board/CBD sources; NOT full distractor verification. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals. Cycle134: 12 original MCQ keys and 36 distractors bounded author-side source-correlated, not independent; PDF/artifact pending.",
+  "evidence": "Cycle46 first direct structural and bounded primary-source assessment: 16 concepts, concepts 8 and 9 below 300 words, 30 original practice MCQs (A6/B22/C1/D1), six mains body-only 212/210/223/218/233/242 words, 3 diagrams, original 21-page PDF SHA preserved. Only MCQ23/24/25 key claims correspond directly to official Board/CBD sources; NOT full distractor verification. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals. Cycle134: 12 original MCQ keys and 36 distractors bounded author-side source-correlated, not independent; PDF/artifact pending. Cycle134 final: CI 28-page PDF; actual downloaded artifact 13041557929 SHA/CRC/75 originals/568 links/1185 fragments PASS; visual source register repaired. No academic approval.",
   "next_action": "Complete remaining 18 MCQ keys/54 distractors; claim-level six mains; three diagrams; direct R1 syllabus; full browser QA and named expert; verify post-edit CI PDF and downloaded artifact.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -102,7 +102,10 @@
       "CBD-A1",
       "CBD-T3"
     ],
-    "ci_pdf": "PENDING_GITHUB_ACTIONS",
-    "actual_post_edit_downloaded_artifact": "PENDING"
+    "ci_pdf": "28_PAGE_GITHUB_CI_RENDER_VERIFIED",
+    "actual_post_edit_downloaded_artifact": "13041557929_VERIFIED",
+    "final_pdf_sha256": "e96cf9103ec59b83f07edb0a45974008a1a0780b5518a6b70dbe540634f170c9",
+    "source_register_visual_check": "PAGES_26_28_PASS",
+    "final_evidence": "project-control/academic-readiness/4-3-3-cycle134-actual-downloaded-post-legibility-artifact-qa-2026-10-31.json"
   }
 }
