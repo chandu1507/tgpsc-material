@@ -1,0 +1,28 @@
+{
+  "cycle": 136,
+  "topic": "4-3-5",
+  "status": "CI_RENDERED_NOT_INDEPENDENTLY_APPROVED",
+  "topic_count": 75,
+  "original_pdf_sha256": "7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7",
+  "pdf_pages": 30,
+  "pdf_sha256": "de851d00b6a5188368528d6d4da03f00ef0c2c17adbf17f67fcfbac810d6c6bd",
+  "html_sha256": "2a32e542c007471572988217f005bf98398faf954e3535ab04c4096f5ff3a591",
+  "master_sha256": "95ff0db8269c0e0a9a885490a8e06ef1e4ce6bb5718d77c7bac9aab03cfaa1f1",
+  "audited_mcqs": [
+    17,
+    18,
+    19,
+    22,
+    23,
+    24,
+    25,
+    27,
+    29,
+    30
+  ],
+  "author_side_options": 40,
+  "html_toc_fragments": 91,
+  "broken_html_fragments": 0,
+  "approval_count": 0,
+  "requires_downloaded_artifact_qa": true
+}
