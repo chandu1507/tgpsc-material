@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 4/source/cycle140-ten-mcq-option-audit.md",
-  "next_action": "Verify post-Cycle140 actual downloaded GitHub packaging artifact and original 75-PDF hashes, all readiness JSON, CRC/links/manifest/PDF; then audit 20 remaining MCQ keys and 60 distractors, six mains claims, three diagrams, syllabus and browser accessibility.",
+  "next_action": "Finish remaining 20 MCQ keys/60 distractors, six mains claim-level reviews, three diagram reviews, direct syllabus and browser accessibility. After evidence commit, independently download/verify the post-control package before calling that snapshot certified.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -69,7 +69,7 @@
       "actual_post_render_actions_artifact_downloaded": true
     }
   },
-  "latest_downloaded_publication_artifact_qa": "project-control/academic-readiness/5-1-4-cycle52-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
+  "latest_downloaded_publication_artifact_qa": "project-control/academic-readiness/5-1-4-cycle140-actual-downloaded-post-render-artifact-qa-2026-10-31.json",
   "cycle140_author_side_option_audit": {
     "date": "2026-10-31",
     "reviewed_existing_mcqs": [
@@ -92,11 +92,14 @@
     "evidence_path": "Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 4/source/cycle140-ten-mcq-option-audit.md",
     "rendered_ci_run_id": 41226670215,
     "rendered_ci_conclusion": "success",
-    "post_render_artifact_downloaded": false,
+    "post_render_artifact_downloaded": true,
     "review_scope": "bounded author-side option rationales, not independent academic verification",
     "syllabus_R1": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "actual_downloaded_artifact_id": 13051739993,
+    "actual_downloaded_pdf_sha256": "924411edfbd6dfb3974336ccac504a802560490d9bb3f4e27ca234e7b01e7c6c",
+    "post_evidence_artifact_qa_pending": true
   }
 }

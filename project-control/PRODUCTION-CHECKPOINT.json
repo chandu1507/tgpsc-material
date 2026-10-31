@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-1-3",
+    "last_reported_topic": "5-1-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle139 Topic 5-1-3 integrated CI PDF and actual downloaded artifact verified; academic R1–R8 incomplete. 75 original topics, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, zero approvals."
+    "note": "Cycle140 Topic5-1-4 29-page CI PDF and actual downloaded artifact 13051739993 verified; 10 author-side MCQs reviewed, academic R1–R8 incomplete. 75 original topics, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -615,8 +615,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle52_ci_integrated_pdf_html_published_post_artifact_qa_pending",
-      "notes": "Cycle52 28 Oct: 16 concepts all >=300 words, 30 four-option original MCQs (A9/B18/C2/D1), 6 mains body-only 218/202/212/204/223/208 after correcting models 1 and 5, 3 original diagrams, 9 bounded primary-source key correspondences and 1 arithmetic check. 26-page local candidate PDF SHA256 21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41; original 23-page PDF preserved. No post-edit GitHub PDF/artifact QA or independent academic approval. CI commit da37eb8aaff487b015e35265db8c062c82de9657 rendered 26-page PDF and offline HTML; post-CI packaging download still pending.",
+      "production_review": "cycle140_10_author_side_four_option_mcq_reviews_ci_29_page_pdf_downloaded_artifact_sha_crc_links_verified_academic_rebuild_pending",
+      "notes": "Original 23-page PDF SHA256 767cc8cad529ab3599032a8f17ff91c84be2271f958e2ea4069a3deda78c9524 preserved. Cycle52: 16 concepts >=300 words; 30 original practice MCQs, six mains body-only 218/202/212/204/223/208, three original diagrams. Cycle140: 10 existing MCQs Q1/2/3/4/10/11/16/19/24/28 received 10 bounded author-side correct-key and 30 distractor reviews, 20 keys/60 distractors remain. 29-page synchronized CI PDF SHA256 924411edfbd6dfb3974336ccac504a802560490d9bb3f4e27ca234e7b01e7c6c. Actual packaging run 41226806414 artifact 13051739993 downloaded: 2159 files, 75 originals unchanged, 75 readiness JSON, 92 HTML, 595 local links/1581 fragments zero broken, CRC/digest/19 manifest hashes PASS. No direct syllabus reauthentication, independent mains/diagram/browser or expert approval. NOT APPROVED.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-4.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-1-4-cycle52-direct-source-depth-mains-and-local-candidate-qa-2026-10-28.json"
