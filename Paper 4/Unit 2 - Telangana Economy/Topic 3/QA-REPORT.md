@@ -1,18 +1,22 @@
 # Cycle42 GitHub CI render QA
 
 {
-  "cycle": 42,
+  "cycle": 129,
   "topic": "4-2-3",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "original_pdf_sha256": "c612d9c19a2a9059c3a6feac776a772269016a7b01a22c5bd64e0f6c4bf9e581",
   "original_pdf_preserved": true,
-  "integrated_pdf_pages": 32,
-  "integrated_pdf_sha256": "3d476fa2582ce0331acd2957763b2358b866fa6df979f3d738c30f712b70a882",
+  "integrated_pdf_pages": 35,
+  "integrated_pdf_sha256": "f743e161262e3435323fcd46d27c2f5a5ff545b7cddddc5e9ad5ba1f701948c5",
   "integrated_pdf_images": 3,
   "blank_pages": 0,
   "text_boundary_violations": [],
   "concepts": 17,
   "original_practice_mcqs": 30,
+  "mcq_keys_author_audited": 10,
+  "mcq_distractors_author_audited": 30,
+  "mcq_keys_pending": 20,
+  "mcq_distractors_pending": 60,
   "mains_body_counts": [
     212,
     203,
