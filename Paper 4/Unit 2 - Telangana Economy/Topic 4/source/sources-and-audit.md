@@ -46,3 +46,17 @@
 5. Historical 2022–23 cropping percentages are explicitly dated and cannot be presented as 2026 shares.
 6. All MCQs and mains questions are original practice. No official PYQ question has been verified against original paper plus question number.
 7. This is a **production-expanded draft, not an independent academic approval**. Subject-expert verification of all facts, citations and pedagogical completeness remains pending.
+
+## Cycle 130 primary-issuer evidence register (31 October 2026)
+
+| ID | Primary source actually inspected | Narrow proposition supported | Limits |
+|---|---|---|---|
+| C130-01 | MoSPI National Metadata Repository, https://nmds.mospi.gov.in/ | Separate national-accounts industry classifications for agriculture/forestry/fishing, mining, construction, finance, public administration | Not a Telangana-year GSVA number |
+| C130-02 | Directorate of Economics & Statistics, Land Use Statistics at a Glance 2023–24, https://desagri.gov.in/wp-content/uploads/2025/10/Revised-Final-LUS-publication-2023-24-to-be-uploaded-printed_compressed.pdf | Gross cropped versus net sown counting; repeated sowing; cropping-intensity calculation also independently recomputed | Definitions, not district estimates |
+| C130-03 | Agriculture Census 2021–22 Phase II Instructions, Annexure II, https://agcensus.gov.in/AgriCensus/media/UM_II_English.pdf | Operational holding is one technical unit irrespective of legal title | Not a tenancy-rights determination |
+| C130-04 | Telangana Government Mission Kakatiya programme page, https://www.telangana.gov.in/mission-kakatiya/ | Tank restoration scope and 2014 enumeration of 46,531 sources | Historical plan; not completed-work count |
+| C130-05 | ICAR institutions list https://icar.gov.in/en/institutions and CRIDA institute mandate https://icar-crida.res.in/institute.html | CRIDA is Hyderabad-based dryland/rainfed agricultural research institute | Does not validate other institutional claims |
+| C130-06 | National Agriculture Market portal, https://enam.gov.in/ and official revised guidelines https://enam.gov.in/web/assest/download/Revised-Operational-Guidelines-of-e-NAM.pdf | SFAC is lead e-NAM implementation agency | Not proof of outcomes for particular mandis |
+| C130-07 | India Code consolidated Companies Act 2013, https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf | Chapter XXIA covers Producer Companies | Does not certify individual FPO legal registration |
+
+**Source interpretation:** These are bounded direct textual correspondences and arithmetic, not independent expert verification. Do not treat indexed source discovery, inaccessible reports, or a policy announcement as an audited implementation outcome. Ten of 30 original MCQ keys and their 30 distractors received option-level author-side review in this cycle; 20 keys/60 distractors remain. All six mains claims and the three diagrams require independent checking.

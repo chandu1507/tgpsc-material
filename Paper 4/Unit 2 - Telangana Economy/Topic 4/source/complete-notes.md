@@ -31,7 +31,6 @@ Agriculture and allied activities in Telangana combine crop production, livestoc
 
 Start with the standalone quick revision; read all 17 detailed sections; inspect three diagrams and comparison table; attempt 30 original MCQs; then write six mains answers using the blueprints. No practice item is labelled an official PYQ.
 
-
 ---
 
 # Standalone Quick Revision — Telangana Agriculture and Allied Sectors
@@ -82,7 +81,6 @@ Define the measure and statistical year; explain causal mechanism; give a named 
 3. Why is micro-irrigation not necessarily equal to basin-wide water saving?
 4. How do tenant farmers fall between land-record and credit systems?
 5. How do PACS, FPOs and producer companies differ legally and economically?
-
 
 ---
 
@@ -292,7 +290,6 @@ Policy trade-offs cannot be avoided. A paddy procurement bonus may protect farme
 
 For Telangana, a credible strategy combines repair of tank systems and canals, aquifer management, dryland contingency plans, locally suitable crop diversification, livestock health services, secure tenant credit, women's producer participation, competitive marketing and transparent fiscal accounting. In the short run, strengthen loss assessment, seasonal credit and market payments. In the medium run, build storage, extension capacity and water-efficient cropping systems. In the long run, improve rural education, non-farm employment and climate resilience so that agricultural dependence becomes a choice rather than a trap. **Conclusion:** success is not the largest crop area or the highest budget headline, but a durable increase in risk-adjusted rural wellbeing within ecological limits.
 
-
 ---
 
 # Visual Learning and Comparison Tables
@@ -327,7 +324,6 @@ Credit, extension, collective aggregation and price discovery operate at differe
 | MSP/procurement | Some output-price stability | Monoculture and uneven access | Net realised price and fiscal/ecological cost |
 | PACS | Cooperative credit and local services | Governance and audit weakness | Member service and repayment quality |
 | FPO / producer company | Scale in procurement and marketing | Working capital and managerial capture | Member net price, audited surplus, participation |
-
 
 ---
 
@@ -695,7 +691,81 @@ D. Only the number of canals
 
 **Answer: B.** Output without household welfare, distribution and ecological measures is an incomplete development assessment.
 
+## Cycle 130 — Bounded primary-source option audit (31 October 2026)
 
+**Scope and method:** The following ten *existing* practice questions (Q1–Q5, Q8–Q9, Q13, Q21, Q23) were reviewed against named primary-issuer material or directly reproduced arithmetic. Each proposed key and each of the three distractors has an explicit rationale. This is an **author-side, bounded check**, not independent academic certification. No new question was inserted and no original question/answer was replaced. Q6–Q7, Q10–Q12, Q14–Q20, Q22, Q24–Q30 (20 questions, 80 options) still require full option-level audits. Source labels C130-01–C130-07 are resolved in the source register.
+
+### Audit Q1 — agriculture-and-allied GSVA; key B
+- **A (Mining), reject:** Mining and quarrying is separately classified by MoSPI, not an agriculture-and-allied component [C130-01].
+- **B (Livestock), accept:** Livestock production belongs to agriculture and allied activity, distinct from crops alone [C130-01].
+- **C (Construction), reject:** Construction is a separate production industry; agricultural buildings do not turn the entire construction industry into allied agriculture [C130-01].
+- **D (Transport), reject:** Transport is a separate service industry even when it carries farm produce [C130-01].
+**Boundary:** This is a national-accounts classification check, not a new Telangana GSVA estimate.
+
+### Audit Q2 — primary sector versus allied agriculture; key B
+- **A (Manufacturing), reject:** Manufacturing transforms materials and is classified separately from the primary industries [C130-01].
+- **B (Mining and quarrying), accept:** The primary-sector grouping includes mining alongside agriculture/forestry/fishing, whereas agriculture-and-allied GSVA excludes mining [C130-01].
+- **C (Banking), reject:** Financial services are not a primary-sector activity [C130-01].
+- **D (Public administration), reject:** Public administration and defence form a separate service-industry category [C130-01].
+**Boundary:** A primary-sector total must not be relabelled an agriculture-only total.
+
+### Audit Q3 — gross versus net cropped area; key B
+- **A (Land prices rise), reject:** Price appreciation does not create additional counted crop sowings [C130-02].
+- **B (Land cultivated more than once), accept:** Gross cropped area counts each sowing; net area sown counts a parcel once within the agricultural year [C130-02].
+- **C (Canals widened), reject:** Canal expansion may enable multiple cropping but does not *by itself* prove repeated sowing [C130-02].
+- **D (Agricultural labour declines), reject:** Labour supply is not the definitional difference between gross and net area [C130-02].
+**Boundary:** This is an area-accounting definition, not a causal claim about irrigation.
+
+### Audit Q4 — cropping-intensity arithmetic; key C
+- **A (66.7%), reject:** This approximately reverses the ratio, 12,000/18,000 × 100 [C130-02].
+- **B (100%), reject:** This would require equal gross cropped and net sown areas [C130-02].
+- **C (150%), accept:** 18,000/12,000 × 100 = 150% [C130-02].
+- **D (180%), reject:** It is inconsistent with the supplied numerator and denominator [C130-02].
+**Boundary:** The example is hypothetical; it is not a mandal-level Telangana statistic.
+
+### Audit Q5 — operational holding; key B
+- **A (Ownership holding only), reject:** The Agriculture Census definition explicitly disregards title and legal form [C130-03].
+- **B (Operational holding), accept:** Land operated as one technical unit, by one person alone or with others, is the relevant cultivation measure [C130-03].
+- **C (Urban property-tax assessment), reject:** Municipal tax valuation does not measure the area operated for agricultural production [C130-03].
+- **D (Forest-cover estimate), reject:** Forest cover is not the unit of agricultural management [C130-03].
+**Boundary:** Operational status alone does not authenticate an individual's tenancy or benefit eligibility.
+
+### Audit Q8 — Mission Kakatiya's purpose; key A
+- **A (Minor irrigation tank rehabilitation), accept:** Telangana's programme describes desilting, feeder-channel and bund/sluice repairs [C130-04].
+- **B (Ocean fishing quotas), reject:** The programme concerns inland minor irrigation sources, not marine fisheries [C130-04].
+- **C (Urban metro rail), reject:** Rail infrastructure is outside the stated tank-restoration objectives [C130-04].
+- **D (Coal mining), reject:** Mining is not a stated Mission Kakatiya intervention [C130-04].
+**Boundary:** A programme objective does not prove every planned tank was restored.
+
+### Audit Q9 — interpretation of 46,531; key B
+- **A (All works completed), reject:** The Telangana portal identifies 46,531 as an enumerated 2014 stock and restoration plan, not a completion count [C130-04].
+- **B (Enumerated/targeted sources), accept:** The government records a July 2014 enumeration of 46,531 minor-irrigation sources [C130-04].
+- **C (All borewells), reject:** The enumerated sources include tanks, kuntas, anicuts and check dams, not every groundwater borewell [C130-04].
+- **D (Total canals in India), reject:** The count is Telangana's enumerated minor-irrigation sources, not India's canals [C130-04].
+**Boundary:** The official page is a historical programme description; no present-day completion total is inferred.
+
+### Audit Q13 — ICAR–CRIDA; key B
+- **A (Marine shipbuilding), reject:** Shipbuilding is outside CRIDA's published research mandate [C130-05].
+- **B (Dryland agricultural research), accept:** ICAR identifies its Hyderabad institute as the Central Research Institute for Dryland Agriculture and its mandate covers rainfed agriculture [C130-05].
+- **C (Metro finance), reject:** Urban transport financing is outside the mandate [C130-05].
+- **D (Foreign-exchange reserves), reject:** Reserve management is outside agricultural research [C130-05].
+**Boundary:** Institutional mandate, not a claim that CRIDA runs every Telangana farm scheme.
+
+### Audit Q21 — e-NAM implementing agency; key A
+- **A (SFAC), accept:** The e-NAM portal explicitly identifies the Small Farmers' Agribusiness Consortium as lead implementing agency [C130-06].
+- **B (Election Commission), reject:** Election administration is not e-NAM implementation [C130-06].
+- **C (SEBI), reject:** Securities-market regulation is not e-NAM implementation [C130-06].
+- **D (ISRO), reject:** Space research is not the designated e-NAM implementation function [C130-06].
+**Boundary:** Lead agency is distinct from the ministry's oversight and a platform technology partner.
+
+### Audit Q23 — producer-company statute; key A
+- **A (Companies Act 2013, Chapter XXIA), accept:** India Code prints Chapter XXIA, Producer Companies, including Sections 378A–378C [C130-07].
+- **B (Representation of the People Act), reject:** Election law is not the producer-company corporate framework [C130-07].
+- **C (Motor Vehicles Act), reject:** Vehicle regulation is unrelated to producer-company incorporation [C130-07].
+- **D (Income Tax Rules alone), reject:** Tax obligations may apply, but they do not replace the Companies Act's producer-company provisions [C130-07].
+**Boundary:** A producer company is a legal form; not every FPO is incorporated as one.
+
+**Unresolved:** 20 other keys and 60 distractors, six mains claim-by-claim audits, 2026 state data, diagram accuracy, browser/accessibility testing, named independent academic review. R5 remains IN_PROGRESS, not PASS. R9 NOT_STARTED; approvals ZERO.
 
 ---
 
@@ -748,8 +818,6 @@ D. Only the number of canals
 - Use the named Telangana institution and dated evidence from the model.
 - Provide a contrasting viewpoint or unintended consequence.
 - Conclude with an outcome metric and feasible administrative measure.
-
-
 
 ---
 
@@ -863,15 +931,6 @@ These are original exam-style practice questions; no official PYQ provenance is 
 
 *Model-answer body length: 210 words (subheadings excluded).*
 
-
-
----
-
-# Official Previous-Year Questions — Provenance Status
-
-**Verified official MCQ PYQs: 0. Verified official mains PYQs: 0.** No original TGPSC source paper and question number for this exact topic were retrieved and authenticated in this run. Therefore no invented official question, year, question number or official answer key is provided. The 30 explained MCQs and six mains questions are clearly original practice.
-
-
 ---
 
 # Authoritative Sources, Dated Updates and Internal Audit
@@ -922,3 +981,17 @@ These are original exam-style practice questions; no official PYQ provenance is 
 5. Historical 2022–23 cropping percentages are explicitly dated and cannot be presented as 2026 shares.
 6. All MCQs and mains questions are original practice. No official PYQ question has been verified against original paper plus question number.
 7. This is a **production-expanded draft, not an independent academic approval**. Subject-expert verification of all facts, citations and pedagogical completeness remains pending.
+
+## Cycle 130 primary-issuer evidence register (31 October 2026)
+
+| ID | Primary source actually inspected | Narrow proposition supported | Limits |
+|---|---|---|---|
+| C130-01 | MoSPI National Metadata Repository, https://nmds.mospi.gov.in/ | Separate national-accounts industry classifications for agriculture/forestry/fishing, mining, construction, finance, public administration | Not a Telangana-year GSVA number |
+| C130-02 | Directorate of Economics & Statistics, Land Use Statistics at a Glance 2023–24, https://desagri.gov.in/wp-content/uploads/2025/10/Revised-Final-LUS-publication-2023-24-to-be-uploaded-printed_compressed.pdf | Gross cropped versus net sown counting; repeated sowing; cropping-intensity calculation also independently recomputed | Definitions, not district estimates |
+| C130-03 | Agriculture Census 2021–22 Phase II Instructions, Annexure II, https://agcensus.gov.in/AgriCensus/media/UM_II_English.pdf | Operational holding is one technical unit irrespective of legal title | Not a tenancy-rights determination |
+| C130-04 | Telangana Government Mission Kakatiya programme page, https://www.telangana.gov.in/mission-kakatiya/ | Tank restoration scope and 2014 enumeration of 46,531 sources | Historical plan; not completed-work count |
+| C130-05 | ICAR institutions list https://icar.gov.in/en/institutions and CRIDA institute mandate https://icar-crida.res.in/institute.html | CRIDA is Hyderabad-based dryland/rainfed agricultural research institute | Does not validate other institutional claims |
+| C130-06 | National Agriculture Market portal, https://enam.gov.in/ and official revised guidelines https://enam.gov.in/web/assest/download/Revised-Operational-Guidelines-of-e-NAM.pdf | SFAC is lead e-NAM implementation agency | Not proof of outcomes for particular mandis |
+| C130-07 | India Code consolidated Companies Act 2013, https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf | Chapter XXIA covers Producer Companies | Does not certify individual FPO legal registration |
+
+**Source interpretation:** These are bounded direct textual correspondences and arithmetic, not independent expert verification. Do not treat indexed source discovery, inaccessible reports, or a policy announcement as an audited implementation outcome. Ten of 30 original MCQ keys and their 30 distractors received option-level author-side review in this cycle; 20 keys/60 distractors remain. All six mains claims and the three diagrams require independent checking.

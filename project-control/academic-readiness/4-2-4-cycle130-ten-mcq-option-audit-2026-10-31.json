@@ -1,0 +1,53 @@
+{
+  "cycle": 130,
+  "date": "2026-10-31",
+  "topic_id": "4-2-4",
+  "baseline_main": "9fdc3ae262810f53eab00121be4a8ce5ca30747f",
+  "assessment": "bounded_author_side_primary_issuer_option_audit",
+  "reviewed_questions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    9,
+    13,
+    21,
+    23
+  ],
+  "reviewed_keys": 10,
+  "reviewed_distractors": 30,
+  "pending_keys": 20,
+  "pending_distractors": 60,
+  "original_mcqs_preserved": 30,
+  "mains_answers_preserved": 6,
+  "mains_claims_independently_verified": 0,
+  "concepts": 17,
+  "original_pdf_sha256": "92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147",
+  "source_register": "source/sources-and-audit.md#cycle-130-primary-issuer-evidence-register-31-october-2026",
+  "key_counts": {
+    "Q1": "B",
+    "Q2": "B",
+    "Q3": "B",
+    "Q4": "C",
+    "Q5": "B",
+    "Q8": "A",
+    "Q9": "B",
+    "Q13": "B",
+    "Q21": "A",
+    "Q23": "A"
+  },
+  "new_integrated_pdf_rendered": false,
+  "actual_post_edit_artifact_downloaded": false,
+  "fully_R1_R8_ready": 0,
+  "independent_approvals": 0,
+  "open_gaps": [
+    "20 MCQ keys and 60 distractors",
+    "six mains claim-level checks",
+    "original diagrams",
+    "current Telangana data",
+    "offline browser accessibility",
+    "independent subject expert"
+  ]
+}
