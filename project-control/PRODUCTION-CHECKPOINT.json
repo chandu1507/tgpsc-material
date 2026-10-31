@@ -9,7 +9,7 @@
     "last_reported_topic": "4-1-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle123 4-1-2: 25 keys and 75 distractors reviewed author-side, renderer live-status guard and packaging trigger fixed; CI publication verification pending. Zero academic approvals."
+    "note": "Cycle123 Topic 4-1-2 author audit 25 MCQs/100 options; 33-page CI PDF and downloaded artifact 13023702720 integrity PASS. No R1–R8 ready or independent approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -401,8 +401,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle123_author_25_mcq_100_option_audit_renderer_reconciliation_pending_ci",
-      "notes": "Original 27-page PDF SHA c7fdf7f2... preserved; 13 concepts, 25 original MCQs with all 100 options author-audited with evidence tiers, six mains and three diagrams. Independent verification and new CI PDF/downloaded artifact QA pending. R1 PASS, other gates IN_PROGRESS, approval ZERO.",
+      "production_review": "cycle123_25_key_75_distractor_author_audit_33page_ci_pdf_actual_artifact_qa_pass_independent_review_pending",
+      "notes": "Original 27-page PDF SHA c7fdf7f2... preserved. Cycle123: 25 original practice MCQs, 100 options author-audited, six mains and three diagrams preserved. GitHub CI 33-page integrated PDF SHA 92f1d0b2..., actual artifact 13023702720 downloaded, CRC/SHA/75 originals and 583 links/1057 fragments zero broken. No independent expert/browser certification, R5/R8 IN_PROGRESS, approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-2.json"
     },
