@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-3-4",
+    "last_reported_topic": "5-1-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle135 Topic4-3-4: ten keys/30 distractors bounded source-correlated, 34-page GitHub CI PDF, actual downloaded archive 13043093883 SHA/CRC/75 original PDFs/568 links/1189 fragments PASS; Topic3-3-4 offline fragment bug fixed. Remaining 20 keys/60 distractors and six mains claims; R1-R8 incomplete, approvals ZERO."
+    "note": "Cycle137 Topic5-1-1: ten existing keys/30 distractors author-side source-correlated, 30-page CI PDF and downloaded artifact 13046394147 SHA/CRC/75 original PDFs/link QA PASS. Remaining 20 keys/60 distractors, six mains, diagrams and browser review. R1-R8 incomplete, approvals ZERO."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -577,8 +577,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle49_first_direct_artifact_and_bounded_primary_source_assessment_rebuild_required",
-      "notes": "28 Oct Cycle49: original 27-page PDF preserved SHA d19428bc6a21a5cd5722e3aff26acbb895e97a97e6b1d71b138fbd5e9c1ed63f; 16 concepts all >=300 words; 30 original practice MCQs A9/B17/C4/D0; six mains body-only 211/228/230/203/214/220. Six bounded key checks Q7/14/15/16/18/22; full MCQ/distractor, mains, diagrams, direct target 2024 syllabus and browser QA pending; NOT academically approved.",
+      "production_review": "cycle137_integrated_ci_pdf_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle137: ten existing MCQ keys and 30 distractors bounded author-side source-correlated; 20 keys/60 distractors pending. 30-page integrated PDF SHA256 18d76b26f41b9eeb9fa21b51c3015bded88bccf7bee85204bd6ea787965f66da, original 27-page PDF preserved. Downloaded artifact 13046394147 verified 75 original PDFs unchanged, 75 readiness JSON, 620 local links/1358 fragments zero broken, outer/inner CRC and digest PASS. Six mains claims, three diagrams, full browser and independent academic review pending. ZERO approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-1.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-1-1-cycle49-direct-artifact-and-bounded-primary-source-audit-2026-10-28.json"
