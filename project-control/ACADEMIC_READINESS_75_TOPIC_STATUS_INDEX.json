@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle144 Topic 5-2-3 ten existing four-option author-side MCQ reviews; 29-page CI PDF and actual downloaded post-render artifact 13059017891 SHA/CRC/75 originals/75 readiness/591 local links/1581 fragments PASS. Diagram 01 HACCP sequencing and diagram 03 water-treatment branching defects OPEN. 20 MCQs/60 distractors and six mains still pending. 75 topics; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED / 14 normalized R1 PASS / ZERO fully R1-R8 ready / ZERO approvals. Evidence project-control/academic-readiness/5-2-3-cycle144-actual-downloaded-post-render-artifact-qa-2026-11-01.json.",
+  "warning": "Cycle145 5-2-4 ten MCQ four-option author-side audits; Q27 ambiguous; 27-page CI PDF and actual downloaded artifact 13060393127 SHA/CRC/75 original PDFs/75 readiness/634 links/1581 fragments PASS. 20 MCQs/60 distractors, six mains, three diagrams, browser QA and independent review remain. 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED / 14 R1 PASS / ZERO fully R1-R8 ready / ZERO approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle143 Topic5-2-2 actual downloaded post-render artifact QA passed; academic approval zero",
+  "last_readiness_update": "2026-11-01 Cycle145 Topic5-2-4 post-render downloaded artifact verified; academic approval zero",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-4-cycle145-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/5-2-2-cycle143-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/5-2-1-cycle142-actual-downloaded-source-stage-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/5-2-1-cycle142-source-audit-and-local-candidate-qa-2026-11-01.json",
