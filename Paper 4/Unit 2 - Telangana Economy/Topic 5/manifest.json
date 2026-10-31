@@ -10,8 +10,8 @@
   "visuals": 3,
   "files": {
     "index.html": {
-      "sha256": "0d56312a52cdbb085c3fa9a0bb8a18f6a401e3cf04b8471915e2525b4da9ae73",
-      "bytes": 129556
+      "sha256": "ea37fdc6b5a084da5b8531979fbcccbf12efe7e505994728c627587577f1f02b",
+      "bytes": 129555
     },
     "complete-notes.pdf": {
       "sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
@@ -46,16 +46,16 @@
       "bytes": 3613
     },
     "source/sources-and-audit.md": {
-      "sha256": "61597961e1c1ca7d6d80e21bfb5179dcb20ed2b116558a70a178b0a56db425b1",
-      "bytes": 10040
+      "sha256": "ec1c046e33ab18c8f5d00f53a789e32ef84529a54b1c66d768b91d972a130eb4",
+      "bytes": 10039
     },
     "source/original-mcqs.md": {
       "sha256": "0f8750f3aead1e13622b7ea45626f7729a4d590e5041995cdea1e076d7708b14",
       "bytes": 19807
     },
     "source/complete-notes.md": {
-      "sha256": "24794954da6b2fcc044c716523afc4f5b1d89f2c03cc3269ff39fa69a2bcd377",
-      "bytes": 106191
+      "sha256": "72d73bbea3e1f0e04dd251df03d33268efd2f3bb301a9c074dab0a87718c0f6b",
+      "bytes": 106190
     },
     "visuals/msme-policy-cycle.png": {
       "sha256": "d17deee3b375a3136d740bce6d5cd7b6a2a1b0b652d777af2f2ffff3baecb889",
@@ -70,8 +70,8 @@
       "bytes": 63336
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "2c79bf3ce634a82066471632ad82d347e8f30ff6ecbaa5e611fdad41fb568268",
-      "bytes": 325495
+      "sha256": "2445d22aa511ad9f811efcdbeba7e3198c418f152487a18e8207618a72a3dfdd",
+      "bytes": 325494
     }
   },
   "pdf_pages": 25,
@@ -86,5 +86,5 @@
     214
   ],
   "integrated_pdf_pages": 31,
-  "integrated_pdf_sha256": "2c79bf3ce634a82066471632ad82d347e8f30ff6ecbaa5e611fdad41fb568268"
+  "integrated_pdf_sha256": "2445d22aa511ad9f811efcdbeba7e3198c418f152487a18e8207618a72a3dfdd"
 }

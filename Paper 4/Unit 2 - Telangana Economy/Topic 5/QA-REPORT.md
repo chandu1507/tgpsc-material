@@ -7,7 +7,7 @@
   "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
   "original_pdf_preserved": true,
   "integrated_pdf_pages": 31,
-  "integrated_pdf_sha256": "2c79bf3ce634a82066471632ad82d347e8f30ff6ecbaa5e611fdad41fb568268",
+  "integrated_pdf_sha256": "2445d22aa511ad9f811efcdbeba7e3198c418f152487a18e8207618a72a3dfdd",
   "integrated_pdf_images": 3,
   "blank_pages": 0,
   "text_boundary_violations": [],
