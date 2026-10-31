@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-1-2",
+    "last_reported_topic": "5-1-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle138 Topic 5-1-2 31-page CI PDF and actual downloaded artifact 13048628409 SHA/CRC/75 originals/links QA PASS; academic gaps remain. Exactly 75 originals, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, ZERO ready/approved."
+    "note": "Cycle139 Topic 5-1-3 integrated CI PDF and actual downloaded artifact verified; academic R1–R8 incomplete. 75 original topics, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -603,8 +603,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle51_direct_artifact_and_bounded_isro_assessment_rebuild_required",
-      "notes": "10,454-word manuscript, 26-page PDF, 16 sections, 30 original explained MCQs, six 200–250-word mains answers, 3 diagrams and 22 official sources; structural QA passed, academic audit pending. Cycle51 28 Oct: direct source audit 16 concepts, 4 <300; 30 original MCQs A7/B18/C5/D0; 6 mains body counts 209/215/214/203/201/216; seven ISRO bounded key correspondences; full key/distractor/mains/diagram audits pending. Original 26-page PDF preserved; no corrected PDF published; zero approvals.",
+      "production_review": "cycle139_ci_33page_pdf_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle139: 4 concept expansions in synchronized integrated master; 16/16 concepts >=300 generous-count words (not full-page certification); ten original practice MCQs with 40 bounded author-side option rationales, 20 keys/60 distractors pending; six mains claims and three diagrams pending. ISRO 23 Oct confirms SPADEX pair re-entered 12 Oct 2026. Original 26-page PDF SHA256 bc41a053ecb189e99840f74351e65a4d414c4ba4f88f6258cb1e6de39df3b902 preserved. CI 33-page integrated PDF SHA256 6715f6b4afaa4a7d6a007521fd04514c7570832434bc55a536f14d08538d0a77. Actual GitHub artifact 13050771435 downloaded and digest/CRC/75-original/link QA PASS. Full browser accessibility, direct syllabus, independent expert pending; zero approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-3.json"
     },
