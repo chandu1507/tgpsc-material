@@ -45,9 +45,9 @@ jobs:
           ix=json.loads(Path('project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json').read_text())
           assert cp['total_topics']==ix['total_topics']==len(cp['topics'])==75
           assert len(list(Path('project-control/academic-readiness').glob('[2-6]-[1-3]-[1-5].json')))==75
-          assert sum(t['readiness_status']=='IN_PROGRESS' for t in cp['topics'])==7
-          assert sum(t['readiness_status']=='ASSESSED_REBUILD_REQUIRED' for t in cp['topics'])==23
-          assert sum(t['readiness_status']=='NOT_ASSESSED' for t in cp['topics'])==45
+          assert sum(t['readiness_status']=='IN_PROGRESS' for t in cp['topics'])==len(ix['pilot_in_progress'])
+          assert sum(t['readiness_status']=='ASSESSED_REBUILD_REQUIRED' for t in cp['topics'])==len(ix['assessed_rebuild_required'])
+          assert sum(t['readiness_status']=='NOT_ASSESSED' for t in cp['topics'])==ix['not_assessed_count']
           assert cp['academically_approved']==ix['independently_academically_approved_count']==0
           assert all((Path(t['path'])/'complete-notes.pdf').is_file() for t in cp['topics'])
           orig=hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()
@@ -118,29 +118,29 @@ jobs:
            if p.fragment and unquote(p.fragment) not in ids:broken_fragments.append(u)
           assert not broken_files and not broken_fragments,(broken_files,broken_fragments)
           sha=hashlib.sha256(pdf.read_bytes()).hexdigest()
-          readme=f'# Topic 4-2-3 — Land Reforms (Cycle42 integrated student edition)\n\nOriginal 28-page complete-notes.pdf preserved SHA256 {orig}. Editable source/complete-notes.md, offline index.html and new {len(doc)}-page source/integrated-student-edition-2026-10-27.pdf synchronized in GitHub CI. 17 substantive concepts, 30 original practice MCQs (eight revised), six 200+ body-word mains, three inherited diagrams. New outcomes example is explicitly hypothetical, not Telangana official data. No verified official PYQs. R1–R8 incomplete, zero academic approvals.\n'
+          readme=f'# Topic 4-2-3 — Land Reforms (Cycle129 integrated student edition)\n\nOriginal 28-page complete-notes.pdf preserved SHA256 {orig}. Editable source/complete-notes.md, offline index.html and new {len(doc)}-page source/integrated-student-edition-2026-10-27.pdf synchronized in GitHub CI. 17 substantive concepts, 30 original practice MCQs (10 keys/30 distractors bounded source-audited in Cycle129), six 200+ body-word mains, three inherited diagrams. New outcomes example is explicitly hypothetical, not Telangana official data. No verified official PYQs. R1–R8 incomplete, zero academic approvals.\n'
           (root/'README.md').write_text(readme)
-          qa={'cycle':42,'topic':'4-2-3','date':'2026-10-27','original_pdf_sha256':orig,'original_pdf_preserved':True,'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha,'integrated_pdf_images':sum(len(p.get_images()) for p in doc),'blank_pages':0,'text_boundary_violations':viol,'concepts':17,'original_practice_mcqs':30,'mains_body_counts':counts,'local_file_links_checked':local_links,'broken_file_links':broken_files,'broken_fragments':broken_fragments,'spa_routes_excluded':spa,'R8':'IN_PROGRESS_NOT_PASS','independent_academic_approvals':0,'browser_accessibility_certified':False,'actual_post_edit_packaging_artifact_verified':False}
+          qa={'cycle':129,'topic':'4-2-3','date':'2026-10-31','original_pdf_sha256':orig,'original_pdf_preserved':True,'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha,'integrated_pdf_images':sum(len(p.get_images()) for p in doc),'blank_pages':0,'text_boundary_violations':viol,'concepts':17,'original_practice_mcqs':30,'mains_body_counts':counts,'local_file_links_checked':local_links,'broken_file_links':broken_files,'broken_fragments':broken_fragments,'spa_routes_excluded':spa,'R8':'IN_PROGRESS_NOT_PASS','independent_academic_approvals':0,'browser_accessibility_certified':False,'actual_post_edit_packaging_artifact_verified':False}
           (root/'QA-REPORT.md').write_text('# Cycle42 GitHub CI render QA\n\n'+json.dumps(qa,indent=2)+'\n')
           manifest=json.loads((root/'manifest.json').read_text())
           manifest['detailed_sections']=17
           manifest['original_mcqs']=30
-          manifest['source_audit']='bounded_author_side_cycle42_not_independent'
+          manifest['source_audit']='bounded_author_side_cycle129_10_of_30_option_audits_not_independent'
           manifest['integrated_pdf_pages']=len(doc)
           manifest['integrated_pdf_sha256']=sha
-          manifest['date']='2026-10-27'
+          manifest['date']='2026-10-31'
           for n in list(manifest['file_sha256']):
            if n!='complete-notes.pdf' and (root/n).exists():
             manifest['file_sha256'][n]=hashlib.sha256((root/n).read_bytes()).hexdigest()
           manifest['file_sha256']['source/integrated-student-edition-2026-10-27.pdf']=sha
           (root/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
-          Path('project-control/academic-readiness/4-2-3-cycle42-ci-render-qa.json').write_text(json.dumps(qa,indent=2)+'\n')
+          Path('project-control/academic-readiness/4-2-3-cycle129-ci-render-qa.json').write_text(json.dumps(qa,indent=2)+'\n')
           print(json.dumps(qa,indent=2))
           
           PY
-            git add -- 'Paper 4/Unit 2 - Telangana Economy/Topic 3' project-control/academic-readiness/4-2-3-cycle42-ci-render-qa.json
+            git add -- 'Paper 4/Unit 2 - Telangana Economy/Topic 3' project-control/academic-readiness/4-2-3-cycle129-ci-render-qa.json
             if git diff --cached --quiet; then echo 'Already synchronized'; exit 0; fi
-            git commit -m 'Cycle42: render synchronized land-reform student edition'
+            git commit -m 'Cycle129: render source-audited land-reform student edition'
             if git push origin HEAD:main; then exit 0; fi
             echo "Nonforce push raced with main; retrying $attempt"
           done
