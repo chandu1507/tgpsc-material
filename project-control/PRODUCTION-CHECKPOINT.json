@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-3-1",
+    "last_reported_topic": "4-3-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle132 4-3-1: 10 original keys/30 distractors author-side bounded source checks; corrected 90-distractor count; 29-page synchronized CI PDF, actual downloaded artifact 13038582443 SHA/CRC/75 originals/606 links/1185 fragments PASS; 20 keys/60 distractors, six mains, four diagrams, browser and expert pending. ZERO approvals."
+    "note": "Cycle133 Topic4-3-2: six existing concepts expanded; 16/16 >=300 whitespace words, four original MCQs/16 options bounded author-side reviewed; actual downloaded CI artifact 13040206054 SHA/CRC/75 originals/568 local links/1185 fragments PASS, 28-page PDF. R1-R8 incomplete, no expert approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -527,8 +527,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "first_direct_structural_and_bounded_primary_source_assessment_rebuild_required",
-      "notes": "Cycle45 first direct assessment: original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved; 16 core concepts, three below300 words (296/294/299), 30 original four-option practice MCQs (keys A3/B26/C1/D0), six mains body-only 208/208/204/202/212/202 words, three inherited diagrams. Official FSI ISFR 2023 Telangana Table10.25.2 directly corroborates forest cover 21,179.04 km²; tree cover 3,517.66 km² and district groundwater numerical claims not directly authenticated. Complete MCQ/distractor, mains, syllabus, diagrams, browser QA pending; NOT academically approved.",
+      "production_review": "cycle133_ci_pdf_and_actual_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "Cycle45 first direct assessment: original 21-page PDF SHA256 14f637399f9d006c22218213e3672f20f491f1a06936c6eeb64b363290d800cd preserved; 16 core concepts, three below300 words (296/294/299), 30 original four-option practice MCQs (keys A3/B26/C1/D0), six mains body-only 208/208/204/202/212/202 words, three inherited diagrams. Official FSI ISFR 2023 Telangana Table10.25.2 directly corroborates forest cover 21,179.04 km²; tree cover 3,517.66 km² and district groundwater numerical claims not directly authenticated. Complete MCQ/distractor, mains, syllabus, diagrams, browser QA pending; NOT academically approved. Cycle133: six core concepts expanded, all 16 >=300 whitespace words; four MCQs Q4/9/16/26 with 16 bounded option rationales; 26 keys/78 distractors and six mains claims pending; actual CI 28-page PDF SHA aad608cc436d4fc0bbfe815e93e5c105feb900b4140800e5a60bb28fdb378fc8, artifact 13040206054 digest/CRC/75 original PDFs/75 readiness JSON/568 links/1185 fragments PASS; browser/diagram/expert pending. ZERO approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-3-2.json"
     },
