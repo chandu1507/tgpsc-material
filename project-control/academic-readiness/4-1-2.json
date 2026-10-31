@@ -1,7 +1,7 @@
 {
   "topic_id": "4-1-2",
   "title": "Poverty and Unemployment: Income/Non-income Poverty, Capability and HPI, Measurement and Trends",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle36 official Annexure-II R1 directly checked, 13 concepts >300 words, worked FGT/MPI/UR examples, Q23/Q25 revised; only five MCQ keys author-side checked, all mains/diagrams pending independent verification.",
-  "next_action": "Complete all keys/distractors, mains claim checks, diagram review, remote CI PDF and downloaded-artifact QA.",
+  "evidence": "Cycle123 author-side 25 MCQ key + 75 distractor option audit with evidence tiers in source register; Q4 historical originals and independent academic checks pending. R5 IN_PROGRESS, not PASS.",
+  "next_action": "Independently review 25 keys and 75 distractors, six mains and three diagrams; confirm source dates, actual CI PDF/artifact, browser accessibility.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle36": {
@@ -45,6 +45,14 @@
       23,
       25
     ],
+    "R9": "NOT_STARTED"
+  },
+  "cycle123": {
+    "reviewed_original_mcqs": 25,
+    "reviewed_key_options": 25,
+    "reviewed_distractors": 75,
+    "evidence_file": "project-control/academic-readiness/4-1-2-cycle123-25-mcq-option-audit-2026-10-31.json",
+    "independent_approval": false,
     "R9": "NOT_STARTED"
   }
 }
