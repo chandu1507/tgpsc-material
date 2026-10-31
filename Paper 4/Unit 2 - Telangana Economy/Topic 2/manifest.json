@@ -42,5 +42,83 @@
     "NFHS-6 full compendium not directly inspected",
     "latest UDISE+ 2025-26 detailed state tables not audited"
   ],
-  "date": "2026-10-24"
+  "date": "2026-10-31",
+  "syllabus_provenance": "Original TGPSC syllabus PDF not freshly authenticated; R1 IN_PROGRESS, not PASS",
+  "production_status": "cycle128_CI_integrated_pdf_and_offline_html; 10/30 MCQs author-side option audited; browser accessibility pending",
+  "academic_status": "not_approved",
+  "word_count_complete_markdown": 11549,
+  "files": {
+    "QA-REPORT.md": {
+      "sha256": "8c661db8e6a15d9619286b7cedf4be9ce6208c8dc619396501903071adda2623",
+      "bytes": 504
+    },
+    "README.md": {
+      "sha256": "cc9518e2d47b17911fb69356c7b6d5b78b14eef281953867221ed176bf10edf8",
+      "bytes": 219
+    },
+    "complete-notes.pdf": {
+      "sha256": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
+      "bytes": 265876
+    },
+    "index.html": {
+      "sha256": "3db724c630444192c9051ea398c9df588de5689c6d0947bca05afecd3367445c",
+      "bytes": 110676
+    },
+    "source/answer-blueprints.md": {
+      "sha256": "b01354c18de63b2c935b2cac9ed746ef5837c14274616ffd9fcb5d55da7681b0",
+      "bytes": 1135
+    },
+    "source/complete-notes.md": {
+      "sha256": "ef8b273c322527b495f7e951fd455f02060e87ddecce10950525f0a8295a127a",
+      "bytes": 84293
+    },
+    "source/detailed-notes.md": {
+      "sha256": "ff24be26dd27c650475b1d0b1657811696f550aded7a7840bb65fb1183ed2a77",
+      "bytes": 41203
+    },
+    "source/integrated-student-edition-2026-10-31.pdf": {
+      "sha256": "fc59635b1b4728002784c020222a28a473b1f5c0c3ca267ce33f9915457d824c",
+      "bytes": 291008
+    },
+    "source/mains-model-answers.md": {
+      "sha256": "368b0f414f983d63b17ae4641b23648cd1ea9586307257e6d57e745e8b4a1df7",
+      "bytes": 11542
+    },
+    "source/original-mcqs.md": {
+      "sha256": "a44f22959743f501aeb1e30b3e8528bc71a22777995e3931b5284f1270389c4b",
+      "bytes": 8079
+    },
+    "source/quick-revision.md": {
+      "sha256": "90cfde70a984764287f881fa4503683ec976fcead2637031a6afe3bb45112b44",
+      "bytes": 2741
+    },
+    "source/sources-and-audit.md": {
+      "sha256": "3f7a8295f327fb993d7b979998e6667bdeac36a9a6844ee58be914e9d666754d",
+      "bytes": 10459
+    },
+    "source/syllabus-and-summary.md": {
+      "sha256": "e5f3d8a00220151908d0832814a34e7a504722a43cd51c618f9e554f15dc379d",
+      "bytes": 6381
+    },
+    "source/verified-pyqs.md": {
+      "sha256": "1986506dbfdcda27e298684b6a5ff43eef76ecd3d9c156b960fb2c22c1e8ecd5",
+      "bytes": 155
+    },
+    "source/visual-learning.md": {
+      "sha256": "99692d685da275127f4f0f7b665147e98abd9ce4a533b62c618c3b321c89e9cb",
+      "bytes": 2751
+    },
+    "visuals/census-literacy-2011.png": {
+      "sha256": "3b4054977a0fc32042c2b0edc1f6bbb26e375690ddf21bb65186577df0107ed2",
+      "bytes": 41417
+    },
+    "visuals/census-occupation-2011.png": {
+      "sha256": "4c5dac8d19f822bfb0bfd5fcad9494cf5d31f99cfdae9a5d2587ef2177ed2d9d",
+      "bytes": 47938
+    },
+    "visuals/dividend-mechanism.png": {
+      "sha256": "10f5e72be7084e3f8d3154b3a2414f23ba179138a0ae83124df11b5abb54cec2",
+      "bytes": 49346
+    }
+  }
 }
