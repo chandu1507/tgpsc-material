@@ -10,6 +10,16 @@ D. A constitutional amendment
 
 **Answer: B.** The Planning Commission was created by government resolution on 15 March 1950. It was not a constitutional or statutory body; Article 280 concerns the Finance Commission.
 
+
+**Cycle 126 option-level author-side review (31 October 2026; bounded primary-institutional correspondence):**
+
+- **A:** Incorrect: Article 280 creates the Finance Commission, not the Planning Commission.
+- **B:** Correct: the 15 March 1950 Cabinet resolution is directly recorded by the Indian Economic Service's Arthapedia and the Planning Commission's 1954 retrospective memoir.
+- **C:** Incorrect: the Planning Commission was not established by an enacted 1950 statute; the proposed Act title is a distractor.
+- **D:** Incorrect: no constitutional amendment established the Planning Commission.
+
+**Source record:** https://ies.gov.in/arthapedia/concept/planning-commission ; https://digitallibrary.niti.gov.in/items/43b55bad-ba29-46f6-9171-674b84a21307. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+
 ### Q2. The First Five-Year Plan primarily emphasised:
 A. Software exports and telecommunications  
 B. Privatisation of public enterprises  
@@ -17,6 +27,16 @@ C. Agriculture, irrigation and rehabilitation
 D. Capital-account convertibility
 
 **Answer: C.** Food security, rural recovery and irrigation were central concerns during 1951–56, unlike later reform-era priorities.
+
+
+**Cycle 126 option-level author-side review (31 October 2026; bounded official-plan correspondence):**
+
+- **A:** Incorrect: software exports and telecommunications are later-era sectors, not the First Plan's central priority.
+- **B:** Incorrect: privatisation of public enterprises is not the defining 1951–56 priority.
+- **C:** Correct: the archival First Plan and a contemporary Second Plan retrospective identify agriculture, irrigation and food self-sufficiency as priorities; rehabilitation is contextual and not separately authenticated here.
+- **D:** Incorrect: capital-account convertibility is not a First Plan priority.
+
+**Source record:** https://digitallibrary.niti.gov.in/items/7fba1c71-55e3-4200-b32c-08c1738261b8 ; https://digitallibrary.niti.gov.in/items/a9c5158b-1cd9-46ca-8a1e-8633251be7c1. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
 
 ### Q3. Which economic thinker is particularly associated with the Second Plan's heavy-industry strategy?
 A. P. C. Mahalanobis  
@@ -26,6 +46,16 @@ D. John Stuart Mill
 
 **Answer: A.** The Mahalanobis model emphasised investment in capital goods to expand long-run productive capacity; this involved trade-offs with immediate consumer needs.
 
+
+**Cycle 126 option-level author-side review (31 October 2026; bounded official-archive correspondence):**
+
+- **A:** Correct: the official 1955 framework explicitly associates Prof. P. C. Mahalanobis with the Second Plan's heavy-industrialisation and capital-formation strategy.
+- **B:** Incorrect: Amartya Sen's capability/welfare work is not the named architect of the Second Plan model.
+- **C:** Incorrect: Milton Friedman's monetarist work is not the Second Plan's heavy-industry framework.
+- **D:** Incorrect: J. S. Mill is a nineteenth-century political economist, not the 1956–61 Plan's named strategist.
+
+**Source record:** https://digitallibrary.niti.gov.in/items/ec2344bb-b52a-4635-a6bb-daff57d1d2fd ; https://digitallibrary.niti.gov.in/items/d9540016-ad7e-4a6f-94e6-a85203f82061. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+
 ### Q4. The first 'plan holiday' comprised Annual Plans during:
 A. 1956–59  
 B. 1974–77  
@@ -33,6 +63,16 @@ C. 1985–88
 D. 1966–69
 
 **Answer: D.** Three Annual Plans followed the disrupted Third Plan, before the Fourth Plan began in 1969.
+
+
+**Cycle 126 option-level author-side review (31 October 2026; CHRONOLOGY PROVISIONAL — original Annual Plans not individually inspected):**
+
+- **A:** Incorrect chronology: 1956–59 falls within the Second Plan (1956–61), not the post-Third-Plan annual-plan interval.
+- **B:** Incorrect chronology: 1974–77 falls within the Fifth Plan period.
+- **C:** Incorrect chronology: 1985–88 falls within the Seventh Plan period.
+- **D:** Provisional correct key: the conventional first plan holiday is 1966–69; a directly opened year-by-year original Annual Plan set has not yet been cross-checked.
+
+**Source record:** https://www.niti.gov.in/planning-commission-archive ; https://www.india.gov.in/category/governance-planning/subcategory/planning/details/annual-plans-by-planning-commission. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
 
 ### Q5. The Fifth Plan is especially associated with which policy priority?
 A. Complete removal of state planning  
@@ -42,6 +82,16 @@ D. The Aspirational Districts Programme
 
 **Answer: B.** Poverty reduction and the Minimum Needs Programme featured in the Fifth Plan; it was terminated early in 1978.
 
+
+**Cycle 126 option-level author-side review (31 October 2026; bounded official-plan correspondence; MNP primary chapter pending):**
+
+- **A:** Incorrect: the Fifth Plan retained planning rather than abolishing state planning.
+- **B:** Correct: the original 1973 Approach and 1974 Draft Fifth Plan explicitly prioritise removal of poverty and self-reliance; the Minimum Needs Programme linkage still needs its original scheme chapter checked separately.
+- **C:** Incorrect: full capital-account convertibility was not a Fifth Plan goal.
+- **D:** Incorrect: the Aspirational Districts Programme began in January 2018, decades after the Fifth Plan.
+
+**Source record:** https://digitallibrary.niti.gov.in/items/d7ae6827-6f65-4611-8ead-b22790b56d09 ; https://digitallibrary.niti.gov.in/items/7704c183-de3f-4a44-a0df-80c0d4eb0da1 ; https://www.niti.gov.in/aspirational-story-transformation. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+
 ### Q6. Which sequence is chronologically correct?
 A. Seventh Plan → Eighth Plan → Annual Plans 1990–92  
 B. Eighth Plan → Seventh Plan → 1991 reforms  
@@ -49,6 +99,16 @@ C. Seventh Plan → Annual Plans 1990–92 → Eighth Plan
 D. Eleventh Plan → Tenth Plan → Twelfth Plan
 
 **Answer: C.** The Seventh Plan ended in 1990, two Annual Plans followed, and the Eighth Plan began in 1992 after the reforms.
+
+
+**Cycle 126 option-level author-side review (31 October 2026; CHRONOLOGY PROVISIONAL — annual-plan primary originals pending):**
+
+- **A:** Incorrect: Annual Plans 1990–92 intervene between the Seventh and Eighth Plans, not after the Eighth.
+- **B:** Incorrect: the Seventh Plan precedes the Eighth Plan.
+- **C:** Provisional correct key: Seventh (1985–90), Annual Plans (1990–92), Eighth (1992–97); exact Annual Plan 1990–91 and 1991–92 originals not opened in this cycle.
+- **D:** Incorrect: the Tenth Plan predates the Eleventh, which predates the Twelfth.
+
+**Source record:** https://www.niti.gov.in/planning-commission-archive ; https://www.india.gov.in/category/governance-planning/subcategory/planning/details/annual-plans-by-planning-commission. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
 
 ### Q7. Which was the final Five-Year Plan in India?
 A. Twelfth (2012–17)  
@@ -58,6 +118,16 @@ D. Tenth (2002–07)
 
 **Answer: A.** The Twelfth Plan was the last; subsequent strategies and budgets are not a formal Thirteenth Five-Year Plan.
 
+
+**Cycle 126 option-level author-side review (31 October 2026; bounded official-archive correspondence):**
+
+- **A:** Correct: the official archive lists the Twelfth Plan for 2012–17 and no Thirteenth Five-Year Plan.
+- **B:** Incorrect: the hypothetical Thirteenth 2017–22 Plan was not adopted as a formal national Five-Year Plan.
+- **C:** Incorrect: the Eleventh Plan (2007–12) was followed by the Twelfth.
+- **D:** Incorrect: the Tenth Plan (2002–07) was followed by the Eleventh and Twelfth.
+
+**Source record:** https://www.niti.gov.in/planning-commission-archive ; https://digitallibrary.niti.gov.in/items/286a1677-46ea-4dce-a740-0b33d256850d. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+
 ### Q8. The official theme of the Twelfth Plan was:
 A. Food, Work and Productivity  
 B. Growth with Stability  
@@ -65,6 +135,16 @@ C. Garibi Hatao
 D. Faster, More Inclusive and Sustainable Growth
 
 **Answer: D.** The title combines output expansion with distributional and ecological concerns; 'food, work and productivity' relates to the Seventh Plan.
+
+
+**Cycle 126 option-level author-side review (31 October 2026; primary title checked; historical distractor labels partly contextual):**
+
+- **A:** Incorrect: 'Food, Work and Productivity' is associated with the Seventh Plan, not the Twelfth; exact Seventh Plan title should be separately checked before using as a standalone question.
+- **B:** Incorrect: 'Growth with Stability' is not the Twelfth Plan's published title.
+- **C:** Incorrect: 'Garibi Hatao' is a poverty-reduction slogan associated with the earlier Fifth Plan period, not the Twelfth title.
+- **D:** Correct: the official Twelfth Plan Volume I bears the title 'Faster, More Inclusive and Sustainable Growth'.
+
+**Source record:** https://digitallibrary.niti.gov.in/items/286a1677-46ea-4dce-a740-0b33d256850d. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
 
 ### Q9. Which statement about NITI Aayog is correct?
 A. It is a constitutional body created by Article 280  
@@ -74,6 +154,16 @@ D. It allocates all tax devolution among states
 
 **Answer: B.** NITI Aayog was constituted on 1 January 2015 by executive resolution; the Finance Commission has a separate constitutional mandate.
 
+
+**Cycle 126 option-level author-side review (31 October 2026; bounded primary-institutional correspondence):**
+
+- **A:** Incorrect: Article 280 concerns the Finance Commission; NITI is not a constitutional body.
+- **B:** Correct: NITI Aayog's own objectives page explicitly records the Union Cabinet resolution dated 1 January 2015.
+- **C:** Incorrect: NITI did not replace the Reserve Bank of India; the institution it replaced was the Planning Commission.
+- **D:** Incorrect: tax-devolution recommendations are assigned to the Finance Commission under Article 280.
+
+**Source record:** https://www.niti.gov.in/about-us/objectives-and-features ; https://www.niti.gov.in/about-us/niti-governing-council-meetings. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+
 ### Q10. The NITI Aayog Governing Council principally strengthens:
 A. Judicial review  
 B. Currency issuance  
@@ -81,6 +171,16 @@ C. Cooperative federalism through state participation
 D. Election administration
 
 **Answer: C.** It provides a platform for Union–state engagement on development priorities rather than exercising monetary or judicial powers.
+
+
+**Cycle 126 option-level author-side review (31 October 2026; bounded primary-institutional correspondence):**
+
+- **A:** Incorrect: judicial review belongs to constitutional courts, not NITI's Governing Council.
+- **B:** Incorrect: currency issuance is a central-banking function, not a Governing Council function.
+- **C:** Correct: NITI's own Governing Council description states it provides state/Union engagement to advance cooperative federalism.
+- **D:** Incorrect: election administration is performed by election commissions, not the NITI Governing Council.
+
+**Source record:** https://www.niti.gov.in/about-us/niti-governing-council-meetings ; https://www.niti.gov.in/cooperative-federalism. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
 
 ### Q11. The Aspirational Districts Programme is commonly described by which three principles?
 A. Convergence, Collaboration, Competition  
