@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-31",
+  "topic": "4-1-4",
+  "base_main_sha": "57c35e39a9b0332d747d8d2b46e0a46fbe9dffd0",
+  "scope": "existing MCQ Q1-Q12; all four options each",
+  "reviewed_question_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "reviewed_keys": 12,
+  "reviewed_distractors": 36,
+  "conceptual_only": [
+    1,
+    2
+  ],
+  "source_correlated_or_arithmetic": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "source_urls": [
+    "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf",
+    "https://www.gstcouncil.gov.in/gst-council-0",
+    "https://cbic-gst.gov.in/sectoral-faq.html",
+    "https://fincomindia.nic.in/constitutional-provisions"
+  ],
+  "full_option_reviews_remaining": 13,
+  "all_six_mains_claim_audits_pending": true,
+  "independent_expert_review": false,
+  "official_pyqs_authenticated": 0,
+  "original_topic_pdf_must_remain_sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4",
+  "ci_pdf_verified": false,
+  "actual_downloaded_artifact_verified": false,
+  "academically_approved": false
+}

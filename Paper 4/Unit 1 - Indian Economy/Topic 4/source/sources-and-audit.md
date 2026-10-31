@@ -28,3 +28,15 @@
 **Official PYQ provenance gap:** No original TGPSC question paper and question number has been attached or authenticated for the questions in this topic. Therefore none is labelled official or verified PYQ.
 
 **Cycle38 bounded claim checks (27 October 2026):** Official Commission Notification 02/2024 p. 31 item 4 confirms syllabus. PRS Telangana Budget Analysis 2026–27 (published March 2026) explicitly reports gross expenditure ₹3,24,234 crore, debt repayment ₹23,025 crore, net expenditure ₹3,01,209 crore, non-borrowing receipts ₹2,42,750 crore, interest payments ₹21,304 crore and revenue receipts ₹2,41,264 crore; the arithmetic in Section 11 and practice Q23/Q25 was recalculated. The Union Budget at a Glance 2026–27 reports ₹53,47,315 crore total expenditure and ₹16,95,768 crore fiscal deficit. The 57th GST Council meeting date of 8 October 2026 is listed on the Council website. These bounded source checks do **not** certify the remaining 23 MCQs or any distractor set independently; no independent academic approval.
+
+### Cycle 125 source additions and verification boundaries (31 October 2026)
+
+| ID | Direct issuer source | Link | Supported scope |
+|---|---|---|---|
+| S17 | Union Budget 2026–27, Budget at a Glance, explanatory deficit definitions | https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf | Revenue deficit, fiscal deficit, primary deficit, effective capital expenditure; budget classification. BE figures are not audited outcomes. |
+| S18 | GST Council, constitutional description under Article 279A | https://www.gstcouncil.gov.in/gst-council-0 | Council constitution and recommendation role, distinct from Article 280. |
+| S19 | CBIC, GST sectoral FAQs and GST Acts | https://cbic-gst.gov.in/sectoral-faq.html | Ordinary intra-State CGST+SGST; credit is conditional on legal eligibility and applicable ledger restrictions. |
+| S20 | Finance Commission, constitutional provisions | https://fincomindia.nic.in/constitutional-provisions | Article 280 tax-devolution recommendation mandate, not GST rate setting. |
+
+**Cycle 125 bounded Q1–Q12 audit:** Each of 12 existing keys and 36 existing distractors now has an explicit explanation in the MCQ component and synchronized master. The reviewed question numbers are exactly 1–12. Q1–Q2 are conceptual correlations and not represented as primary-source verified; Q3–Q12 use the stated issuer-source and/or arithmetic boundaries. No 2026–27 Budget Estimate is treated as audited actual. The GST input-credit calculation Q5 is conditional on **eligible, legally usable** credit and does not override separate credit-ledger rules. Q13–Q25 remain to be comprehensively audited, including full distractor reviews of Q23/Q25; all six mains, diagrams, Telangana amendments and browser accessibility remain outstanding. **R1 remains PASS, R2–R8 not all PASS, R9 NOT_STARTED, independent academic approvals ZERO.**
+
