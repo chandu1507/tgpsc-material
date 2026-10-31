@@ -51,7 +51,7 @@ jobs:
           assert cp['academically_approved']==ix['independently_academically_approved_count']==0
           assert all((Path(t['path'])/'complete-notes.pdf').is_file() for t in cp['topics'])
           orig=hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()
-          assert orig=='92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c014',orig
+          assert orig=='92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147',orig
           parts=['syllabus-and-summary.md','quick-revision.md','detailed-notes.md','visual-learning.md','original-mcqs.md','answer-blueprints.md','mains-model-answers.md','sources-and-audit.md']
           md='\n\n---\n\n'.join((src/n).read_text().strip() for n in parts)+'\n'
           assert (src/'complete-notes.md').read_text()==md
