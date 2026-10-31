@@ -72,7 +72,7 @@ jobs:
            counts.append(len(re.findall(r"\b[\w]+(?:[-'][\w]+)*\b",body)))
           assert len(counts)==6 and min(counts)>=200,counts
           pdf=src/'integrated-student-edition-2026-10-27.pdf'
-          subprocess.run([sys.executable,'scripts/render_topic_4_2_3_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
+          subprocess.run([sys.executable,'scripts/render_topic_4_2_4_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
           doc=fitz.open(pdf)
           assert 20<=len(doc)<=60
           assert all(len(p.get_text().strip())>60 for p in doc)
@@ -121,7 +121,7 @@ jobs:
           readme=f'# Topic 4-2-4 — Agriculture and Allied Sectors (Cycle130 integrated student edition)\n\nOriginal 28-page complete-notes.pdf preserved SHA256 {orig}. Editable source/complete-notes.md, offline index.html and new {len(doc)}-page source/integrated-student-edition-2026-10-27.pdf synchronized in GitHub CI. 17 substantive concepts, 30 original practice MCQs (10 keys/30 distractors bounded source-audited in Cycle130), six 200+ body-word mains, three inherited diagrams. The cropping-intensity example is hypothetical, not Telangana official data. No verified official PYQs. R1–R8 incomplete, zero academic approvals.\n'
           (root/'README.md').write_text(readme)
           qa={'cycle':130,'topic':'4-2-4','date':'2026-10-31','original_pdf_sha256':orig,'original_pdf_preserved':True,'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha,'integrated_pdf_images':sum(len(p.get_images()) for p in doc),'blank_pages':0,'text_boundary_violations':viol,'concepts':17,'original_practice_mcqs':30,'mcq_keys_author_audited':10,'mcq_distractors_author_audited':30,'mcq_keys_pending':20,'mcq_distractors_pending':60,'mains_body_counts':counts,'local_file_links_checked':local_links,'broken_file_links':broken_files,'broken_fragments':broken_fragments,'spa_routes_excluded':spa,'R8':'IN_PROGRESS_NOT_PASS','independent_academic_approvals':0,'browser_accessibility_certified':False,'actual_post_edit_packaging_artifact_verified':False}
-          (root/'QA-REPORT.md').write_text('# Cycle42 GitHub CI render QA\n\n'+json.dumps(qa,indent=2)+'\n')
+          (root/'QA-REPORT.md').write_text('# Cycle130 GitHub CI render QA\n\n'+json.dumps(qa,indent=2)+'\n')
           manifest=json.loads((root/'manifest.json').read_text())
           manifest['detailed_sections']=17
           manifest['original_mcqs']=30
@@ -140,7 +140,7 @@ jobs:
           PY
             git add -- 'Paper 4/Unit 2 - Telangana Economy/Topic 4' project-control/academic-readiness/4-2-4-cycle130-ci-render-qa.json
             if git diff --cached --quiet; then echo 'Already synchronized'; exit 0; fi
-            git commit -m 'Cycle130: render source-audited land-reform student edition'
+            git commit -m 'Cycle130: render source-audited agriculture student edition'
             if git push origin HEAD:main; then exit 0; fi
             echo "Nonforce push raced with main; retrying $attempt"
           done
