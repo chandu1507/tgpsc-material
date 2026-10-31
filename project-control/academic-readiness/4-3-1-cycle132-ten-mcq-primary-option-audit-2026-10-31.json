@@ -1,0 +1,59 @@
+{
+  "topic_id": "4-3-1",
+  "cycle": 132,
+  "date": "2026-10-31",
+  "classification": "AUTHOR_SIDE_BOUNDED_PRIMARY_SOURCE_OPTION_AUDIT_NOT_INDEPENDENT",
+  "original_mcqs_preserved": 30,
+  "options_per_mcq": 4,
+  "total_options": 120,
+  "total_distractors": 90,
+  "reviewed_questions": [
+    1,
+    9,
+    10,
+    12,
+    14,
+    18,
+    21,
+    23,
+    25,
+    26
+  ],
+  "reviewed_keys": 10,
+  "reviewed_distractors": 30,
+  "pending_keys": 20,
+  "pending_distractors": 60,
+  "method": "Every option reviewed in the source register. Q14 independently recalculated; other checks limited to the exact propositions and primary issuer text. No original official TGPSC PYQ authentication or named independent expert review.",
+  "source_urls": [
+    "https://www.indiacode.nic.in/bitstream/123456789/1876/4/A1986-29.pdf",
+    "https://www.indiacode.nic.in/indiacode/handle/123456789/15429",
+    "https://www.indiacode.nic.in/indiacode/handle/123456789/11182",
+    "https://moef.gov.in/uploads/2021/10/Hindi.pdf",
+    "https://sangareddy.telangana.gov.in/pollution-control-board/",
+    "https://beeindia.gov.in/sites/default/files/CCTS%20Notification.pdf",
+    "https://swmp.cpcb.gov.in/en",
+    "https://unfccc.int/node/656817",
+    "https://unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf"
+  ],
+  "math_check": {
+    "flow_MLD_each": 2,
+    "concentration_mg_L": 50,
+    "kg_per_day_each": 100,
+    "factories": 3,
+    "total_kg_day": 300,
+    "fictional_not_regulatory_limit": true
+  },
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "BLOCKED",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "approved": false,
+  "publication": "PENDING_CI_AND_DOWNLOADED_ARTIFACT_QA"
+}
