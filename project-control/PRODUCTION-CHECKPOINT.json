@@ -9,7 +9,7 @@
     "last_reported_topic": "4-1-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle125 4-1-4 Q1-Q12 bounded author-side 12-key/36-distractor review and stale renderer/package workflow fixes; CI PDF and artifact QA pending. 75 originals, zero approvals."
+    "note": "Cycle125 4-1-4 Q1-Q12 author-side 12-key/36-distractor review; source metadata corrected; renderer 41162358899 SUCCESS; final artifact 13027182934 actually downloaded, SHA/CRC/75-original/link QA PASS. R2-R8 incomplete, approvals zero."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -426,8 +426,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle125_author_side_option_audit_ci_pending",
-      "notes": "Original 21-page PDF SHA256 9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4 preserved. Cycle38 R1 original Commission syllabus PASS, 12 substantial concepts, Telangana 2026-27 budget accounting reconciliation, 25 original MCQs with Q23/Q25 corrected, six mains, three existing diagrams. New CI PDF and independent academic review pending. Cycle125 Q1-Q12 reviewed author-side (12 keys/36 distractors); Q13-Q25 and mains, diagrams, browser QA outstanding; CI PDF pending.",
+      "production_review": "cycle125_ci_pdf_and_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Original 21-page PDF SHA256 9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4 preserved. Cycle38 R1 original Commission syllabus PASS, 12 substantial concepts, Telangana 2026-27 budget accounting reconciliation, 25 original MCQs with Q23/Q25 corrected, six mains, three existing diagrams. New CI PDF and independent academic review pending. Cycle125 Q1-Q12 reviewed author-side (12 keys/36 distractors); Q13-Q25 and mains, diagrams, browser QA outstanding; CI PDF pending. Cycle125 26-page PDF SHA256 8b3ccc809833814655ab1ac2322b043d9485831cb909d855330ccfd9b0f2c9d1; actual artifact 13027182934 SHA/CRC/75 originals/link QA PASS. R8 not PASS.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-4.json"
     },
