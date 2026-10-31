@@ -30,7 +30,7 @@ assert sha(original) == '6e5ee2729de1e67775c07747c8b1f916c55ca82ca61a9688f4b9825
 body = master.read_text(encoding='utf-8')
 aud = audit.read_text(encoding='utf-8')
 assert aud in body, 'Integrated master missing verbatim audit'
-assert len(re.findall(r'(?m)^### Q\d+\.', body)) == 30
+assert len(re.findall(r'(?m)^### MCQ \d+\.', body)) == 30
 assert len(re.findall(r'(?m)^\*\*Correct answer: [ABCD]\.\*\*', body)) == 30
 assert len(re.findall(r'(?m)^## [1-9][0-9]?\. ', body)) == 16
 assert len(re.findall(r'(?m)^## Q\d+ —', aud)) == 10
