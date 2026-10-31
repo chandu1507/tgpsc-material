@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-31",
+  "cycle": 123,
+  "topic_id": "4-1-2",
+  "scope": "25 original practice MCQs; 25 keys and 75 distractors author-side option review",
+  "original_question_count": 25,
+  "new_question_count": 0,
+  "reviewed_keys": 25,
+  "reviewed_distractors": 75,
+  "sources_directly_rechecked_this_cycle": [
+    {
+      "issuer": "UNDP",
+      "url": "https://hdr.undp.org/content/multidimensional-poverty-and-its-assessment-found-their-place-2030-agenda",
+      "use": "HPI to MPI 2010"
+    },
+    {
+      "issuer": "UNDP",
+      "url": "https://hdr.undp.org/system/files/documents/hdrp201011.pdf",
+      "use": "MPI H x A"
+    },
+    {
+      "issuer": "ILO",
+      "url": "https://www.ilo.org/resource/labour-underutilization",
+      "use": "unemployment vs underemployment"
+    },
+    {
+      "issuer": "MoSPI",
+      "url": "https://mospi.gov.in/sites/default/files/publication_reports/Annual_Report_PLFS_2020%2021_0.pdf",
+      "use": "usual and weekly reference periods"
+    },
+    {
+      "issuer": "PIB/MoSPI",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2246009&lang=1&reg=1",
+      "use": "2025 PLFS figures"
+    },
+    {
+      "issuer": "World Bank",
+      "url": "https://www.worldbank.org/en/news/factsheet/2025/06/05/june-2025-update-to-global-poverty-lines",
+      "use": "2021 PPP revision"
+    },
+    {
+      "issuer": "MoSPI",
+      "url": "https://www.mospi.gov.in/sites/default/files/press_release/HCES_Press_Note_2023-24_27122024_rev.pdf",
+      "use": "HCES MPCE values"
+    }
+  ],
+  "evidence_tiers": "Question-by-question tier in source/sources-and-audit.md; not all are independently primary-source-verified",
+  "remaining": [
+    "Q4 historical committee originals not directly consulted",
+    "All six mains claim-level verification",
+    "Three diagrams independent review",
+    "Full offline browser and accessibility",
+    "Named independent expert approval"
+  ],
+  "academic_gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independently_academically_approved": false,
+  "official_pyqs_verified": 0
+}

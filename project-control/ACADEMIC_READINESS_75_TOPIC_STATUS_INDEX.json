@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle122 Topic 4-1-1: 25 existing original MCQs/100 option rationales author-side source-correlated; 28-page synchronized CI PDF SHA e3ab85fe..., downloaded artifact 13021491886 SHA/CRC PASS, 2079 files, 75 unchanged original PDFs, 75 readiness JSON, 605 local links/1031 DOM fragments zero broken. Independent MCQ/mains expert review and browser accessibility pending; zero fully R1-R8 ready, zero approvals.",
+  "last_readiness_update": "Cycle123 Topic 4-1-2: 25 existing original MCQs/100 options reviewed author-side with evidence tiers; full independent MCQ/mains/diagram and CI artifact QA pending. No status promotion.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/4-1-2-cycle123-25-mcq-option-audit-2026-10-31.json",
     "project-control/academic-readiness/4-1-1-cycle122-actual-downloaded-artifact-qa-2026-10-31.json",
     "project-control/academic-readiness/4-1-1-cycle122-25-original-mcq-option-audit-2026-10-31.json",
     "project-control/academic-readiness/3-3-3-cycle119-actual-downloaded-artifact-qa-2026-10-31.json",
