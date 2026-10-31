@@ -30,10 +30,10 @@ assert sha(original) == 'd19428bc6a21a5cd5722e3aff26acbb895e97a97e6b1d71b138fbd5
 body = master.read_text(encoding='utf-8')
 aud = audit.read_text(encoding='utf-8')
 assert aud in body, 'Integrated master missing verbatim audit'
-assert len(re.findall(r'(?m)^### Q\\d+\\.', body)) == 30
-assert len(re.findall(r'(?m)^\\*\\*Answer: [ABCD]\\.\\*\\*', body)) == 30
-assert len(re.findall(r'(?m)^## [1-9][0-9]?\\. ', body)) == 16
-assert len(re.findall(r'(?m)^## Q\\d+ —', aud)) == 10
+assert len(re.findall(r'(?m)^### Q\d+\.', body)) == 30
+assert len(re.findall(r'(?m)^\*\*Answer: [ABCD]\.\*\*', body)) == 30
+assert len(re.findall(r'(?m)^## [1-9][0-9]?\. ', body)) == 16
+assert len(re.findall(r'(?m)^## Q\d+ —', aud)) == 10
 assert 'not an independent subject-expert review' in aud
 assert outpdf.is_file()
 pdf = fitz.open(outpdf)
@@ -65,7 +65,7 @@ for h in soup.select('h1,h2,h3'):
 for img in soup.find_all('img'):
     url = img.get('src','')
     assert url.startswith('diagrams/') and (root / url).is_file(), url
-toc = '\\n'.join(f'<li><a href="#{html.escape(slug)}">{html.escape(title)}</a></li>' for title,slug in headings)
+toc = '\n'.join(f'<li><a href="#{html.escape(slug)}">{html.escape(title)}</a></li>' for title,slug in headings)
 doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Topic 5-1-1 — Integrated student edition (Cycle137)</title><style>body{{font:16px/1.65 system-ui,sans-serif;max-width:1000px;margin:auto;padding:2rem;color:#172b40}}nav{{background:#eff6fb;padding:1rem;border-radius:10px}}a{{color:#115e91}}img{{max-width:100%;height:auto}}h2{{margin-top:2.5rem;border-bottom:1px solid #d8e2ec}}li{{margin-bottom:.35rem}}main{{overflow-wrap:anywhere}}@media print{{nav{{display:none}}body{{max-width:none}}}}</style></head><body><header><p><a href="index.html">Original topic page</a> · <a href="source/integrated-student-edition-cycle137.pdf">Integrated PDF</a> · <a href="source/integrated-editable-master-cycle137.md">Editable master</a> · <a href="source/mcq-option-audit-cycle137.md">Option audit</a></p></header><nav aria-label="Table of contents"><h2>Contents</h2><ol>{toc}</ol></nav><main>{str(soup)}</main></body></html>'''
 outhtml.write_text(doc, encoding='utf-8')
 check = BeautifulSoup(doc, 'html.parser')
@@ -77,7 +77,7 @@ for x in check.select('a[href],img[src]'):
     if href and not href.startswith(('https://','http://','mailto:','#')):
         assert (root / href.split('#')[0]).is_file(), href
 files = [original, master, audit, outpdf, outhtml]
-manifest.write_text(json.dumps({'topic':'5-1-1','cycle':137,'source':'source/integrated-editable-master-cycle137.md','pdf':'source/integrated-student-edition-cycle137.pdf','html':'integrated-student-edition-cycle137.html','original_pdf_unchanged':True,'files':{str(p.relative_to(root)):sha(p) for p in files}},indent=2)+'\\n')
+manifest.write_text(json.dumps({'topic':'5-1-1','cycle':137,'source':'source/integrated-editable-master-cycle137.md','pdf':'source/integrated-student-edition-cycle137.pdf','html':'integrated-student-edition-cycle137.html','original_pdf_unchanged':True,'files':{str(p.relative_to(root)):sha(p) for p in files}},indent=2)+'\n')
 qa_path.parent.mkdir(parents=True, exist_ok=True)
-qa_path.write_text(json.dumps({'cycle':137,'topic':'5-1-1','status':'CI_RENDERED_NOT_INDEPENDENTLY_APPROVED','topic_count':75,'original_pdf_sha256':sha(original),'pdf_pages':pages,'pdf_sha256':sha(outpdf),'html_sha256':sha(outhtml),'master_sha256':sha(master),'audited_mcqs':[6,7,11,13,14,16,18,22,23,27],'author_side_options':40,'html_toc_fragments':len(fragment_links),'broken_html_fragments':0,'approval_count':0,'requires_downloaded_artifact_qa':True},indent=2)+'\\n')
+qa_path.write_text(json.dumps({'cycle':137,'topic':'5-1-1','status':'CI_RENDERED_NOT_INDEPENDENTLY_APPROVED','topic_count':75,'original_pdf_sha256':sha(original),'pdf_pages':pages,'pdf_sha256':sha(outpdf),'html_sha256':sha(outhtml),'master_sha256':sha(master),'audited_mcqs':[6,7,11,13,14,16,18,22,23,27],'author_side_options':40,'html_toc_fragments':len(fragment_links),'broken_html_fragments':0,'approval_count':0,'requires_downloaded_artifact_qa':True},indent=2)+'\n')
 print(json.dumps({'pages':pages,'sha256':sha(outpdf),'html_fragments':len(fragment_links),'manifest':str(manifest)}))
