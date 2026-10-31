@@ -9,7 +9,7 @@
     "last_reported_topic": "5-1-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle138 source edits: 5-1-2 seven concept expansions and ten author-side four-option audits; PDF CI and downloaded archive QA pending. 75 originals, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, ZERO ready/approved."
+    "note": "Cycle138 Topic 5-1-2 31-page CI PDF and actual downloaded artifact 13048628409 SHA/CRC/75 originals/links QA PASS; academic gaps remain. Exactly 75 originals, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, ZERO ready/approved."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -590,11 +590,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle138_seven_concept_expansions_ten_mcq_option_reviews_ci_pending",
-      "notes": "Cycle138: 16 core concepts now >=300 whitespace words (minimum 301), seven substantive expansions, ten original MCQ keys/30 distractors author-side primary-source-correlated; remaining 20 keys/60 distractors, six mains claim audits, three diagrams and full browser review. One deduplicated editable master with 3 original diagrams prepared; CI PDF and actual downloaded artifact QA pending. Original 23-page PDF SHA256 6e5ee2729de1e67775c07747c8b1f916c55ca82ca61a9688f4b98255b2fd6bff preserved. R1-R8 NOT PASS; approval ZERO.",
+      "production_review": "cycle138_31page_ci_pdf_actual_downloaded_artifact_integrity_verified_academic_rebuild_pending",
+      "notes": "Cycle138 seven substantive expansions, 16/16 core sections >=300 whitespace words (not full-page certification), ten original MCQ keys/30 distractors author-side source-correlated; remaining 20 keys/60 distractors, six mains claim audits, three diagrams and browser. Guarded CI 31-page PDF SHA256 ae3a85b4cac0c6a46f4a3eba5f0d2767fce85778457e737d7d5e5ed07346e7a4; original 23-page PDF unchanged. Actual downloaded artifact 13048628409 outer/inner CRC, GitHub SHA digest, 75 original PDFs, 75 readiness JSON, 627 local links/1438 fragments zero broken, manifest 5/5. R8 IN_PROGRESS, R1-R8 not PASS, ZERO approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-2.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/5-1-2-cycle138-seven-concept-and-ten-mcq-source-audit-2026-10-31.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/5-1-2-cycle138-actual-downloaded-postrender-artifact-qa-2026-10-31.json"
     },
     {
       "id": "5-1-3",
