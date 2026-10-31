@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "project-control/academic-readiness/5-2-1-cycle142-source-audit-and-local-candidate-qa-2026-11-01.json",
+  "evidence": "project-control/academic-readiness/5-2-1-cycle142-actual-downloaded-source-stage-artifact-qa-2026-11-01.json",
   "next_action": "Complete 20 remaining MCQ keys/60 distractors, six mains claim audits, three diagrams and source-to-claim checks; correct weak distractors by content not letter rotation; authenticate syllabus; render and download CI PDF, validate links/CRC/75 originals, browser QA, then independent R1–R8 assessment.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -58,7 +58,8 @@
     "original_pdf_sha256": "87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025"
   },
   "evidence_history": [
-    "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json"
+    "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json",
+    "project-control/academic-readiness/5-2-1-cycle142-source-audit-and-local-candidate-qa-2026-11-01.json"
   ],
   "cycle142": {
     "reviewed_existing_mcqs": [
@@ -81,8 +82,11 @@
     "integrated_master": "Paper 5/Unit 2 - Modern Applications of Science/Topic 1/source/complete-notes.md",
     "local_candidate_pdf_pages": 25,
     "github_ci_pdf_generated": false,
-    "github_post_edit_artifact_downloaded": false,
+    "github_post_edit_artifact_downloaded": true,
     "full_browser_accessibility_certified": false,
-    "independent_approval": false
+    "independent_approval": false,
+    "github_source_stage_packaging_run": 41236322246,
+    "github_source_stage_artifact_id": 13056160506,
+    "github_source_stage_artifact_sha256": "9924630f1b1b630d0eeb03d73da21230365ed89b20b1da7c0c2fafb4dad25bb9"
   }
 }
