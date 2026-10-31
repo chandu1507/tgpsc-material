@@ -9,7 +9,7 @@
     "last_reported_topic": "5-2-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle142: source audit and local candidate only; GitHub CI PDF and post-edit artifact QA pending. Exactly 75 topics; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 approved."
+    "note": "Cycle142 5-2-1: 10 source-correlated four-option MCQ audits and synchronized local 25-page candidate. Actual downloaded GitHub source-stage archive verified (run 41236322246, artifact 13056160506). CI integrated PDF not rendered; R8 BLOCKED; 75 topics, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -641,8 +641,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle142_ten_source_correlated_option_reviews_local_candidate_ci_pending",
-      "notes": "Cycle142 (1 Nov): 10 existing original MCQs Q2/4/6/7/8/11/13/17/20/28 received author-side source-correlated checks of 10 proposed keys and 30 distractors. 20 keys/60 distractors remain at this audit level, plus all six mains claim checks, three diagram audits and browser accessibility. One coherent editable master appended in place, original 23-page PDF SHA256 87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025 unchanged. Local 25-page ReportLab candidate synchronized with master; NOT a CI-rendered PDF, NO post-edit GitHub Actions artifact verification. R1–R8 incomplete, R9 NOT_STARTED, approvals ZERO.",
+      "production_review": "cycle142_source_audit_actual_downloaded_github_archive_pass_ci_pdf_pending",
+      "notes": "Cycle142 (1 Nov): 10 existing original MCQs Q2/4/6/7/8/11/13/17/20/28 received author-side source-correlated checks of 10 proposed keys and 30 distractors. 20 keys/60 distractors remain at this audit level, plus all six mains claim checks, three diagram audits and browser accessibility. One coherent editable master appended in place, original 23-page PDF SHA256 87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025 unchanged. Local 25-page ReportLab candidate synchronized with master; NOT a CI-rendered PDF, NO post-edit GitHub Actions artifact verification. R1–R8 incomplete, R9 NOT_STARTED, approvals ZERO. GitHub source-stage packaging run 41236322246 artifact 13056160506 actually downloaded; SHA/digest 9924630f1b1b630d0eeb03d73da21230365ed89b20b1da7c0c2fafb4dad25bb9 MATCH; outer/inner CRC PASS, 2165 files, exactly 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local links/1581 DOM fragments zero broken; 43 SPA hash-route occurrences excluded. Source master/audit exact byte match. Original 5-2-1 PDF remains unchanged; integrated PDF exists only as local 25-page candidate. No CI PDF, browser certification or academic approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-1.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json"
