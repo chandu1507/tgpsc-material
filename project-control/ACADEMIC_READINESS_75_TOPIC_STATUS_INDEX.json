@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 originals: 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS. Cycle136 Topic4-3-5 ten bounded author-side keys/30 distractors, 30-page corrected CI PDF and actual downloaded artifact QA do NOT confer approval. ZERO R1-R8 ready and ZERO independent approvals.",
+  "warning": "Exactly 75 originals: 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS. Cycle138 Topic5-1-2 seven shallow concepts expanded and ten existing MCQ keys/30 distractors author-side reviewed; CI/downloaded artifact QA pending. ZERO R1-R8 ready and ZERO independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle137 Topic5-1-1: ten original MCQ keys/30 distractors author-side source-correlated; 20 keys/60 distractors, six mains and diagrams pending. CI 30-page PDF SHA 18d76b26..., artifact 13046394147 actually downloaded CRC/SHA PASS, 75 original PDFs unchanged, 75 readiness JSON, 90 HTML, 620 local links/1358 fragments zero broken. No academic approvals.",
+  "last_readiness_update": "2026-10-31 Cycle138 Topic 5-1-2 source repair and partial MCQ review (CI pending)",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/5-1-2-cycle138-seven-concept-and-ten-mcq-source-audit-2026-10-31.json",
     "project-control/academic-readiness/5-1-1-cycle137-actual-downloaded-artifact-qa-2026-10-31.json",
     "project-control/academic-readiness/4-3-5-cycle136-actual-downloaded-post-footer-fix-artifact-qa-2026-10-31.json",
     "project-control/academic-readiness/4-3-5-cycle136-ten-mcq-primary-option-audit-2026-10-31.md",
