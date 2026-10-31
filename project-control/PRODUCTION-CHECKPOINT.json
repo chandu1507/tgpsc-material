@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-1-1",
+    "last_reported_topic": "4-1-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle122 4-1-1 25 existing original practice MCQs/100 option author-side audit; 28-page synchronized PDF and actual downloaded post-render artifact QA verified; exactly 75 original topic PDFs unchanged; no independent academic approvals."
+    "note": "Cycle123 4-1-2: 25 keys and 75 distractors reviewed author-side, renderer live-status guard and packaging trigger fixed; CI publication verification pending. Zero academic approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -401,8 +401,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle36_primary_R1_pass_quantitative_lab_and_two_MCQ_corrections",
-      "notes": "Original 27-page PDF preserved; 13 substantive concepts, FGT/MPI/LFPR worked lab, 25 original practice MCQs (Q23/Q25 revised), six mains and three existing diagrams. R1 primary syllabus PASS; 28-page LOCAL synchronized PDF exists; remote Actions QA and independent academic checks pending.",
+      "production_review": "cycle123_author_25_mcq_100_option_audit_renderer_reconciliation_pending_ci",
+      "notes": "Original 27-page PDF SHA c7fdf7f2... preserved; 13 concepts, 25 original MCQs with all 100 options author-audited with evidence tiers, six mains and three diagrams. Independent verification and new CI PDF/downloaded artifact QA pending. R1 PASS, other gates IN_PROGRESS, approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-2.json"
     },
