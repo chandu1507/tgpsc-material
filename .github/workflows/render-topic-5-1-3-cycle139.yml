@@ -1,0 +1,57 @@
+name: Render Topic 5-1-3 Cycle139 Integrated Student Edition
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 3/source/core.md'
+      - 'Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 3/source/cycle139-four-concept-ten-mcq-primary-source-audit.md'
+      - 'scripts/publish_topic_5_1_2_cycle139.py'
+      - 'scripts/render_topic_5_1_2_cycle139.py'
+      - '.github/workflows/render-topic-5-1-3-cycle139.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-5-1-3-cycle139
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install PDF and HTML dependencies
+        run: python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'pillow>=10,<13' 'beautifulsoup4>=4,<5' 'mistune>=3,<4' 'pymupdf>=1.24,<2'
+      - name: Guarded nonforce render from fresh main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          topic='Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 3'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            if [ ! -e "$topic/source/diagrams" ]; then ln -s ../diagrams "$topic/source/diagrams"; fi
+            python scripts/render_topic_5_1_2_cycle139.py --input "$topic/source/integrated-editable-master-cycle139.md" --output "$topic/source/integrated-student-edition-cycle139.pdf" --qa /tmp/topic-5-1-3-cycle139-render-qa.json
+            python scripts/publish_topic_5_1_2_cycle139.py
+            git add -- "$topic/source/integrated-editable-master-cycle139.md" "$topic/source/integrated-student-edition-cycle139.pdf" "$topic/integrated-student-edition-cycle139.html" "$topic/integrated-cycle139-manifest.json" 'project-control/academic-readiness/5-1-3-cycle139-ci-render-qa-2026-10-31.json'
+            if git diff --cached --quiet; then
+              echo 'Already synchronized with main'
+              exit 0
+            fi
+            git commit -m 'CI: synchronize Topic 5-1-3 Cycle139 PDF HTML and manifest'
+            if git push origin HEAD:main; then
+              echo 'Nonforce publication succeeded'
+              exit 0
+            fi
+            echo 'Main advanced; retry with fresh main'
+            sleep 5
+          done
+          echo 'Unable to publish without force' >&2
+          exit 1
