@@ -1,7 +1,7 @@
 {
   "topic_id": "4-3-5",
   "title": "Global Environmental Issues: Climate Change, Global Warming, Impacts and Sustainable Development",
-  "date": "2026-10-28",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "Cycle48 first direct assessment: original 25-page PDF SHA 7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7, 16 concepts all >=300, 30 MCQs A3/B24/C3/D0, six mains body-only 215/206/215/207/206/214, three diagrams; UNFCCC April 2026 NDC primary PDF bounded MCQ20/21 key correspondences only; remaining 28 keys, 90 distractors (120 total answer options), all mains and diagrams pending.",
-  "next_action": "Claim-level review all six mains, independently audit 30 MCQ keys/90 distractors (120 total answer options), diagrams, direct syllabus; then synchronized integrated master/PDF and actual artifact QA.",
+  "evidence": "Cycle136: ten existing original MCQs Q17/18/19/22/23/24/25/27/29/30 received bounded primary-source author-side reviews of all 40 options; Cycle48 Q20/Q21 key-only NDC correspondences preserved. 20 MCQs/60 distractors still lack four-option audits. Original 25-page PDF SHA preserved; six mains claim reviews, three diagram checks, syllabus and browser QA pending. NOT approved.",
+  "next_action": "Audit remaining 20 four-option MCQs and six mains claim by claim; validate diagrams and official syllabus; CI-render synchronized editable master/PDF, independently inspect actual downloaded archive and browser. No R9 without named external expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7",
@@ -37,6 +37,26 @@
       20,
       21
     ],
+    "independent_approval": false
+  },
+  "cycle136": {
+    "audit_path": "project-control/academic-readiness/4-3-5-cycle136-ten-mcq-primary-option-audit-2026-10-31.md",
+    "author_side_option_audited_mcqs": [
+      17,
+      18,
+      19,
+      22,
+      23,
+      24,
+      25,
+      27,
+      29,
+      30
+    ],
+    "option_explanations": 40,
+    "remaining_four_option_mcqs": 20,
+    "remaining_distractors": 60,
+    "original_pdf_sha256": "7ade679bd73dc42d719d7e047c9528bfb67e26b1fb4a636089b931808cc1b6f7",
     "independent_approval": false
   }
 }
