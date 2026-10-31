@@ -13,34 +13,35 @@
     214,
     205
   ],
-  "sources": 35,
-  "manuscript_words": 11911,
+  "sources": 44,
+  "manuscript_words": 13754,
   "pdf_pages": 21,
   "files": {
-    "README.md": "ba6f614deba5cbfe15a66ce12588825b71175ce993254950cd968108bed9e5bd",
-    "QA-REPORT.md": "4f1a5ece26ac33c5d6b409f08ae4eb4388b2b3535f134e82544bffac3b355926",
+    "QA-REPORT.md": "a2f248f49b0179dea9e4b945f8a96e848b00cc53279d8e6ef04b81d9020dc03b",
+    "README.md": "ed8fe2c884d0cb555f5e0a5646a5da46765886b196990d2b727c0529acd7a584",
+    "index.html": "95955c3b8b019e690b6804fc2c4e8e82907f799c5d1a6f8f6f444ded05870a9b",
     "complete-notes.pdf": "c2d92e8f136f7272abba7369d44e88d01ec55034e666c1334e5a0d76b28d42b2",
-    "index.html": "bbb3a79b409315630f56b4fc8ce57c2da83ba6faee1fea48cacb0df441e382d2",
     "diagrams/03-district-delivery.png": "71d7f19dc9979bfb49872b1175c6a07cfcc1ec65d805863c73cf4beb8604ee51",
     "diagrams/01-immune-memory.png": "01b9e39b7e12fbbfcb0ac4426e663d24bc1f95a1bb13265b744acfd9f0d17687",
     "diagrams/02-three-platforms.png": "b57e7efbd2f9f05ccb968fe6e0e9b7a5dc1c5d4c713225504ff2cd1d067808eb",
-    "source/integrated-student-edition-cycle58.pdf": "11a55291d7d850484eb8dd6acbb9c942ea6d69bc1acf5bbc7a9455f74d3097b3",
+    "source/integrated-student-edition-cycle58.pdf": "45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc",
     "source/syllabus-and-summary.md": "07293524893f2cad95419feb8387352427ae89d99c059095d15ba639fbef3d37",
-    "source/complete-notes.md": "ecbe7a4360428972528de46a4b00929f7ea21bfc88a0c218339f974cc3700ed6",
-    "source/quick-revision.md": "5707bc2347ca066ce8a2878aa5bc57ed69ddcafba48109403ac33476c0c6fb02",
-    "source/verified-pyqs.md": "0ae5d61a76597535b600096478ede4a95d8f57ab9edc61e3a389c903832a2221",
-    "source/visual-learning.md": "303310f42ac2f2bd5080b371b41c0b0618051c10c15f8a6a90f173f05460f4c3",
     "source/answer-blueprints.md": "b49ec466166f2b358225bbf1287b2b8fe34415cfd46a914271a7409738eb21ef",
+    "source/quick-revision.md": "5707bc2347ca066ce8a2878aa5bc57ed69ddcafba48109403ac33476c0c6fb02",
+    "source/sources-and-audit.md": "4c8da9b80387a73e4151bbb29bb1f59a03e2ac3cbac9f8b37f9a3018692bb19a",
     "source/mains-model-answers.md": "0402349994600a360197a746caffcb6efcc2a1244b0140e0058aeeec6297435a",
+    "source/academic-option-audit-cycle146.md": "abdad73225ad5c33c09d885f63421f859debbc93b6a5f9de7dcbbb26ff01d795",
+    "source/visual-learning.md": "303310f42ac2f2bd5080b371b41c0b0618051c10c15f8a6a90f173f05460f4c3",
     "source/core.md": "02ee89653059781ec8554ef6b4965da9962b40d2d3aeb8594e6d7b6aaea0ff59",
-    "source/sources-and-audit.md": "e899d1382ee889dce2b563494fe839e77a74adb30d78cc86b63f134846464b43",
+    "source/verified-pyqs.md": "0ae5d61a76597535b600096478ede4a95d8f57ab9edc61e3a389c903832a2221",
+    "source/complete-notes.md": "c761bd3a8e795c3f91e232d9c33cc0ff99de055361d1624e60f0b7e6664f3fee",
     "source/original-mcqs.md": "36f8fad8c85392d4f07c1161733d0038607ac830f10bdaeb8d69cb099c70abbd"
   },
   "official_syllabus_authenticated_this_cycle": false,
   "syllabus_source_limitation": "Inherited direct 2024 syllabus assertion not reauthenticated in Cycle58; R1 IN_PROGRESS",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
-  "integrated_pdf_pages": 25,
-  "integrated_pdf_sha256": "11a55291d7d850484eb8dd6acbb9c942ea6d69bc1acf5bbc7a9455f74d3097b3",
+  "integrated_pdf_pages": 29,
+  "integrated_pdf_sha256": "45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc",
   "metrics": {
     "mains_answer_word_counts": [
       207,
@@ -52,12 +53,14 @@
     ],
     "mains_count_method": "body-only excluding question, bold subheading and metadata",
     "concepts_below_300": 0,
-    "source_register": 35,
+    "source_register": 44,
     "correct_answer_distribution": {
       "A": 5,
       "B": 20,
       "C": 5,
       "D": 0
-    }
+    },
+    "cycle146_four_option_reviewed_mcqs": 12,
+    "cycle146_four_option_reviewed_distractors": 36
   }
 }
