@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-1-5-cycle141-ten-mcq-four-option-source-audit-2026-11-01.json",
+  "evidence": "project-control/academic-readiness/5-1-5-cycle141-actual-downloaded-post-control-artifact-qa-2026-11-01.json",
   "next_action": "Verify remaining 20 keys/60 distractors; independently claim-audit six mains, three diagrams, source/register, direct syllabus and browser accessibility. Cycle141 author-side checks are not academic approval; verify CI and actual downloaded post-edit artifact before marking R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -81,10 +81,10 @@
     ]
   },
   "last_ci_render": {
-    "run_id": 40635045816,
+    "run_id": 41231396690,
     "commit": "c79dfe0b4120d20d412e035c669ac42626e69b78",
-    "pages": 27,
-    "integrated_pdf_sha256": "30294f089a94403c480fecd47bb91d2f98d5d734e2d2065544368ef5b15c9a68",
+    "pages": 29,
+    "integrated_pdf_sha256": "edc651691dd21c94f980e1bdf5e62dc9469162f0dd167170ea4443faa15fe16e",
     "original_pdf_preserved": true,
     "corrected_mcq_distribution": {
       "A": 11,
@@ -101,18 +101,19 @@
       219
     ],
     "manifest_html_synced": true,
-    "actual_post_edit_artifact_downloaded": false
+    "actual_post_edit_artifact_downloaded": true,
+    "cycle": 141
   },
   "last_downloaded_artifact_qa": {
-    "evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-    "run_id": 40635201034,
-    "artifact_id": 12792749773,
-    "sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
+    "evidence": "project-control/academic-readiness/5-1-5-cycle141-actual-downloaded-post-control-artifact-qa-2026-11-01.json",
+    "run_id": 41231528760,
+    "artifact_id": 13052989943,
+    "sha256": "501c017112273a38f3dd0d9faeb6aa83f3092b320701d35773dc8bd5c355736d",
     "crc": "PASS",
     "original_pdfs_preserved": 75,
     "links_broken": 0,
     "fragment_links_broken": 0,
-    "manifest_hashes_verified": 18,
+    "manifest_hashes_verified": 19,
     "academic_approval": 0
   }
 }

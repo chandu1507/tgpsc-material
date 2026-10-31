@@ -9,7 +9,7 @@
     "last_reported_topic": "5-1-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle141 Topic5-1-5: ten author-side four-option audits; 29-page CI PDF succeeded; post-render packaging/download QA pending. 75 original topics, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED, zero approvals."
+    "note": "Cycle141 Topic5-1-5: 10 author-side four-option audits; 29-page CI PDF; downloaded artifact 13052989943 CRC/SHA/75 originals/75 readiness/link QA PASS. 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, zero fully R1–R8 ready or approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -628,8 +628,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle141_ten_author_side_mcq_option_audits_ci_pdf_rendered_full_academic_audit_pending",
-      "notes": "Cycle141: 10 existing MCQs Q1/2/6/7/10/12/13/16/21/22 checked at author-side option level (10 keys/30 distractors) against nine DOE technical references; 20 keys/60 distractors remain. 16 existing concepts >=300 words but not full-page certification. Six mains claims and three diagrams not independently audited. CI 29-page PDF SHA256 edc651691dd21c94f980e1bdf5e62dc9469162f0dd167170ea4443faa15fe16e rendered via run 41231396690 SUCCESS; actual post-render publication artifact download QA still pending at control-commit time. Original PDF preserved by guarded SHA. R1–R8 incomplete; approvals ZERO.",
+      "production_review": "cycle141_ci_29_page_pdf_actual_post_control_artifact_crc_sha_link_75_topic_verified_academic_rebuild_pending",
+      "notes": "Cycle141: 10 existing MCQs Q1/2/6/7/10/12/13/16/21/22 checked at author-side option level (10 keys/30 distractors) against nine DOE technical references; 20 keys/60 distractors remain. 16 existing concepts >=300 words but not full-page certification. Six mains claims and three diagrams not independently audited. CI 29-page PDF SHA256 edc651691dd21c94f980e1bdf5e62dc9469162f0dd167170ea4443faa15fe16e rendered via run 41231396690 SUCCESS; actual downloaded post-control artifact 13052989943 verified: 2162 files, 75 originals unchanged vs Cycle140, 75 readiness JSON, 92 HTML, 591 local links/1581 fragments zero broken, CRC/digest/19 manifest hashes PASS; full browser and academic audit pending. Original PDF preserved by guarded SHA. R1–R8 incomplete; approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-1-5.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json"
