@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-2-cycle55-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-  "next_action": "Verify CI cycle143 PDF and actual downloaded packaging artifact; 20 remaining MCQ keys/60 distractors, six mains claims, three diagrams, official syllabus and browser accessibility remain; no R1-R8 full PASS or R9 approval.",
+  "evidence": "project-control/academic-readiness/5-2-2-cycle143-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
+  "next_action": "Cycle143 CI PDF and downloaded archive QA passed; 20 remaining MCQ keys/60 distractors, six mains claim checks, three diagram audits, syllabus reauthentication, full browser accessibility and independent expert review remain.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -96,7 +96,12 @@
       27
     ],
     "independent_approval": false,
-    "ci_pdf_pending": true,
-    "downloaded_post_edit_artifact_qa_pending": true
+    "ci_pdf_pending": false,
+    "downloaded_post_edit_artifact_qa_pending": false,
+    "ci_pdf_pages": 29,
+    "ci_pdf_sha256": "15898bdafd96ca8af0cd6c681bf4d54cd183cc18b1481a95f21c5f4f51f5ad7c",
+    "downloaded_post_render_artifact_id": 13057202704,
+    "downloaded_post_render_artifact_sha256": "b8890a1815a75c811bc5398067950637dad9fc2a8d1aee2ae0d4545372574d80",
+    "offline_link_qa_pass": true
   }
 }
