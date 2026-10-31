@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle42 direct assessment: 16 original 400+ word concepts, 30 practice MCQs with initial A9/B15/C5/D1, six 200+ body-word mains, original 28-page PDF preserved. Eight MCQs revised and one original hypothetical 530-word outcomes laboratory added, giving 17 concepts, MCQ distribution A4/B13/C7/D6. Limited official Bhu Bharati and indexed TGPSC 2022 correspondence; direct 2024 syllabus, full current law, all keys/distractors and all mains claims not independently verified. Local 31-page integrated PDF generated and statically QA checked; GitHub CI and downloaded post-edit artifact QA pending. CI 32-page integrated PDF and actual post-edit artifact 12753002653 downloaded: outer/inner CRC PASS, 1628 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 422 file links/1097 DOM fragments zero broken, 64 SPA routes excluded, 18 manifest hashes PASS; no browser accessibility certification. Cycle129: 10 existing MCQs Q4/6/7/8/9/12/23/24/25/30 now have 10 bounded author-side primary-text key checks and 30 distractor explanations against official Inams 1955, Ceiling 1973, Assigned Lands 1977 and Bhu Bharati GO39 2025; 20 keys/60 distractors and all six mains claim reviews remain. R1–R8 not PASS; zero approvals.",
+  "evidence": "Cycle42 direct assessment: 16 original 400+ word concepts, 30 practice MCQs with initial A9/B15/C5/D1, six 200+ body-word mains, original 28-page PDF preserved. Eight MCQs revised and one original hypothetical 530-word outcomes laboratory added, giving 17 concepts, MCQ distribution A4/B13/C7/D6. Limited official Bhu Bharati and indexed TGPSC 2022 correspondence; direct 2024 syllabus, full current law, all keys/distractors and all mains claims not independently verified. Local 31-page integrated PDF generated and statically QA checked; GitHub CI and downloaded post-edit artifact QA pending. CI 32-page integrated PDF and actual post-edit artifact 12753002653 downloaded: outer/inner CRC PASS, 1628 files, 75 originals unchanged, 75 readiness JSON, 78 HTML, 422 file links/1097 DOM fragments zero broken, 64 SPA routes excluded, 18 manifest hashes PASS; no browser accessibility certification. Cycle129: 10 existing MCQs Q4/6/7/8/9/12/23/24/25/30 now have 10 bounded author-side primary-text key checks and 30 distractor explanations against official Inams 1955, Ceiling 1973, Assigned Lands 1977 and Bhu Bharati GO39 2025; 20 keys/60 distractors and all six mains claim reviews remain. R1–R8 not PASS; zero approvals. Cycle129 35-page CI PDF and actual downloaded artifact 13033368655 verified SHA/CRC, 2094 files, 75 originals unchanged, 75 readiness JSON, 88 HTML, 563 links and 1182 fragments zero broken, 18/18 manifest hashes; R8 remains IN_PROGRESS.",
   "next_action": "Review remaining 20 MCQ keys and 60 distractors (NOT 120 distractors: 30 four-option questions have 90 distractors total), all six mains claim-level checks, diagram accuracy, original 2024 syllabus and browser accessibility; independent expert only after R1–R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -188,8 +188,12 @@
       "Telangana Bhu Bharati GO Ms39 2025 rules4-5"
     ],
     "caveat": "Full 1950 tenancy statute not directly fetched; s38-E cross-ref confirmed via 1973 Act s13. Not independent expert review.",
-    "R8": "IN_PROGRESS",
+    "R8": "IN_PROGRESS_NOT_PASS",
     "R9": "NOT_STARTED",
-    "independent_academic_approvals": 0
+    "independent_academic_approvals": 0,
+    "actual_artifact_id": 13033368655,
+    "actual_artifact_qa": "project-control/academic-readiness/4-2-3-cycle129-actual-downloaded-artifact-qa-2026-10-31.json",
+    "ci_pdf_pages": 35,
+    "ci_pdf_sha256": "f743e161262e3435323fcd46d27c2f5a5ff545b7cddddc5e9ad5ba1f701948c5"
   }
 }
