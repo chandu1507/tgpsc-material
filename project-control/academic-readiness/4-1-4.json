@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending. CI renderer 40507395889 SUCCESS: 23-page PDF SHA256 b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e, 3 images, 16/16 manifest; actual post-render archive QA pending. Actual packaging run 40507807300 artifact 12735981454 downloaded and independently verified: 1609 files, 75 unchanged originals, CRC/SHA, 484 file links and 831 fragments zero broken, 16 manifest hashes. R8 still IN_PROGRESS. Cycle125 Q1-Q12 keys/36 distractors explicit author-side rationales; Q13-Q25 complete option review pending; CI PDF and downloaded artifact pending; approvals zero.",
-  "next_action": "Complete full option-level Q13-Q25 and six mains claim audit; verify CI PDF, actual artifact SHA/CRC/75-original/link QA, browser accessibility and diagrams; obtain named expert after R1-R8 PASS.",
+  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending. CI renderer 40507395889 SUCCESS: 23-page PDF SHA256 b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e, 3 images, 16/16 manifest; actual post-render archive QA pending. Actual packaging run 40507807300 artifact 12735981454 downloaded and independently verified: 1609 files, 75 unchanged originals, CRC/SHA, 484 file links and 831 fragments zero broken, 16 manifest hashes. R8 still IN_PROGRESS. Cycle125 Q1-Q12 keys/36 distractors explicit author-side rationales; Q13-Q25 complete option review pending; CI PDF and downloaded artifact pending; approvals zero. Cycle125 actual final post-metadata downloaded artifact 13027182934 outer/inner CRC, digest, 75 original PDFs, 75 readiness JSON, 562 local links and 1073 fragments PASS; 26-page PDF; academic review incomplete.",
+  "next_action": "Complete option-level Q13-Q25 and six mains claim reviews, independent diagram and browser accessibility audits, named expert after genuine R1-R8 PASS. R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4",
@@ -73,7 +73,29 @@
     "remaining_full_option_audits": 13,
     "source_boundaries": "Q1-Q2 conceptual only; Q3-Q12 issuer sources and/or arithmetic",
     "independent_academic_approval": false,
-    "rendered_pdf_verified": false,
-    "downloaded_artifact_verified": false
+    "rendered_pdf_verified": true,
+    "downloaded_artifact_verified": true,
+    "artifact": {
+      "run_id": 41162383008,
+      "artifact_id": 13027182934,
+      "outer_sha256": "69ba740b17a09a0ef9dd7b623a853a7e6939af03765b5188a465d312f7d959c8",
+      "integrated_pdf_sha256": "8b3ccc809833814655ab1ac2322b043d9485831cb909d855330ccfd9b0f2c9d1",
+      "files": 2084,
+      "original_pdfs_unchanged": 75,
+      "readiness_json": 75,
+      "html": 88,
+      "local_links_checked": 562,
+      "broken_local_links": 0,
+      "dom_fragments_checked": 1073,
+      "broken_fragments": 0,
+      "spa_routes_excluded": 43,
+      "outer_inner_crc": "PASS",
+      "digest_match": true,
+      "manifest_hashes": "16/16",
+      "pdf_pages": 26,
+      "blank_pages": 0,
+      "out_of_bounds_text_pages": 0,
+      "embedded_images": 3
+    }
   }
 }
