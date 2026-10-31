@@ -396,6 +396,108 @@ A. Automatically enacted laws on the meeting date  B. Proposals requiring releva
 A. 8.8%  B. 11.3%  C. 17.0%  D. 21.3%  
 **Answer: A.** ₹21,304 ÷ ₹2,41,264 × 100 ≈ 8.83%. B would require an unjustified smaller receipts denominator; C mixes in a different year's interest burden; D mistakes the ₹21,304 crore numerator for a percentage. This measures planned interest pressure, not total debt service or audited 2026–27 spending. [S11]
 
+---
+
+## Cycle 125 — bounded author-side option review, Q1–Q12 (31 October 2026)
+
+**Scope and integrity:** Twelve of the existing 25 original practice MCQs are examined below without changing their stems, four options, answer letters or original question numbering. This is an **author-side** option audit, **not** a named independent academic review or authenticated official TGPSC PYQ verification. Q1–Q2 remain conceptual textbook correlations without directly consulting Musgrave's original work or a named microeconomics textbook. Q13–Q25 have not received this complete four-option review (earlier bounded arithmetic checks of Q23 and Q25 do not change that status). R5 stays IN_PROGRESS.
+
+### Q1 — key B; conceptual/textbook; Musgrave's original text not directly examined
+
+- **A (distractor):** Interest on debt is a financing cost, not allocation of a public good.
+- **B (correct):** Flood-control works address a public-good/externality problem; allocation is the best answer.
+- **C (distractor):** An income-tax exemption aimed solely at redistribution primarily concerns the distribution function.
+- **D (distractor):** Disinvestment is an asset transaction, not itself the clearest allocation example.
+- **Evidence boundary:** Musgrave framework; direct primary-book check outstanding. No independent subject-expert sign-off.
+
+### Q2 — key C; conceptual/microeconomic; textbook source not independently checked
+
+- **A (distractor):** Vertical equity compares taxpayers' ability to pay, not who finally bears this tax.
+- **B (distractor):** Buoyancy measures revenue responsiveness to income/base and policy, not legal-versus-economic incidence.
+- **C (correct):** The seller remits the tax legally, while consumers bear much of its economic burden; elasticities matter.
+- **D (distractor):** Fiscal deficit is a budget aggregate, unrelated to tax-shifting in this scenario.
+- **Evidence boundary:** Conceptual incidence distinction; primary textbook check outstanding. No independent subject-expert sign-off.
+
+### Q3 — key C; official budget classification
+
+- **A (distractor):** Tax revenue is a compulsory levy; bond proceeds create debt.
+- **B (distractor):** Non-tax revenue excludes new borrowing liabilities.
+- **C (correct):** Borrowing creates a repayment liability and is a debt capital receipt.
+- **D (distractor):** A revenue surplus is a balance, not a cash receipt from securities.
+- **Evidence boundary:** S02/S03: Union Budget receipts and non-debt/debt distinction. No independent subject-expert sign-off.
+
+### Q4 — key B; official budget expenditure classification
+
+- **A (distractor):** Construction and equity purchase are capital-side uses, not ordinary revenue expenditure.
+- **B (correct):** Salaries and interest payments are revenue expenditure under the budget classification.
+- **C (distractor):** Loan recovery and disinvestment are receipts, not revenue expenditure.
+- **D (distractor):** Principal repayment and new loans are capital/financing transactions, not the revenue-expenditure pair.
+- **Evidence boundary:** S02/S03: Union Budget revenue account; S17. No independent subject-expert sign-off.
+
+### Q5 — key D; arithmetic conditional on legally usable ITC
+
+- **A (distractor):** ₹45 incorrectly adds the output tax and the credit.
+- **B (distractor):** ₹27 ignores the ₹18 eligible input credit.
+- **C (distractor):** ₹18 is the input credit, not the net output liability.
+- **D (correct):** ₹27 output tax less ₹18 eligible usable credit is ₹9; real CGST/SGST/IGST ledgers and utilisation restrictions must be respected.
+- **Evidence boundary:** S19: CBIC GST ITC rules; arithmetic 27-18=9. No independent subject-expert sign-off.
+
+### Q6 — key B; primary constitutional provision
+
+- **A (distractor):** Article 280 establishes the Finance Commission, not the GST Council.
+- **B (correct):** Article 279A constitutes the GST Council.
+- **C (distractor):** Article 266 concerns consolidated/public accounts, not establishment of the Council.
+- **D (distractor):** Article 112 governs the Union annual financial statement.
+- **Evidence boundary:** S01/S18: Constitution Article 279A. No independent subject-expert sign-off.
+
+### Q7 — key C; constitutional allocation and GST exception
+
+- **A (distractor):** A state's share in Union income tax is devolution, not a tax independently levied by that state.
+- **B (distractor):** Corporation tax is a Union tax.
+- **C (correct):** State excise on alcoholic liquor for human consumption remains a state levy; distinguish it from Union taxes and GST.
+- **D (distractor):** Customs duty is levied by the Union.
+- **Evidence boundary:** S01: Seventh Schedule State List Entry 51; S19: CBIC GST exclusion. No independent subject-expert sign-off.
+
+### Q8 — key B; primary CBIC GST institutional explanation
+
+- **A (distractor):** IGST ordinarily concerns inter-State supplies, not the specified intra-State taxable supply.
+- **B (correct):** CGST and SGST ordinarily apply together to an intra-State taxable supply in a state.
+- **C (distractor):** Customs duty is not the ordinary companion of SGST on a domestic intra-State supply.
+- **D (distractor):** State VAT alone is not the ordinary regime for a supply within GST.
+- **Evidence boundary:** S19: CBIC Sectoral FAQ on CGST/SGST. No independent subject-expert sign-off.
+
+### Q9 — key A; primary Finance Commission constitutional mandate
+
+- **A (correct):** Article 280 requires Finance Commission recommendations on Union-state tax distribution.
+- **B (distractor):** GST rate recommendations fall within the GST Council's Article 279A role, not Finance Commission.
+- **C (distractor):** GST registration is tax administration, not a Finance Commission function.
+- **D (distractor):** Issuing State Development Loans is a borrowing operation, not a Finance Commission recommendation.
+- **Evidence boundary:** S20: Finance Commission constitutional provisions Article 280; S18. No independent subject-expert sign-off.
+
+### Q10 — key B; official budget definition and arithmetic
+
+- **A (distractor):** ₹1,750 incorrectly adds expenditure and receipts.
+- **B (correct):** ₹900 revenue expenditure minus ₹850 revenue receipts gives ₹50 revenue deficit.
+- **C (distractor):** ₹900 is the expenditure figure, not the deficit.
+- **D (distractor):** A zero deficit would require equal receipts and expenditure.
+- **Evidence boundary:** S17: Union Budget at a Glance definition; 900-850=50. No independent subject-expert sign-off.
+
+### Q11 — key C; official budget definition
+
+- **A (distractor):** Revenue expenditure minus revenue receipts is revenue deficit, not the complete fiscal deficit.
+- **B (distractor):** Outstanding debt is a stock accumulated over time, not the year's fiscal deficit flow.
+- **C (correct):** Total expenditure minus receipts excluding debt capital receipts is the fiscal deficit on the stated perimeter.
+- **D (distractor):** Tax revenue minus interest is not the fiscal-deficit identity.
+- **Evidence boundary:** S17: Union Budget at a Glance definition. No independent subject-expert sign-off.
+
+### Q12 — key C; official budget definition and arithmetic
+
+- **A (distractor):** ₹190 adds interest instead of deducting it.
+- **B (distractor):** ₹70 is the interest payment, not the primary deficit.
+- **C (correct):** ₹120 fiscal deficit minus ₹70 interest is ₹50 primary deficit.
+- **D (distractor):** ₹120 is the fiscal deficit before interest adjustment.
+- **Evidence boundary:** S17: Union Budget at a Glance definition; 120-70=50. No independent subject-expert sign-off.
+
 
 ---
 
@@ -526,3 +628,14 @@ Each blueprint is followed by a complete model answer with question-specific sub
 **Official PYQ provenance gap:** No original TGPSC question paper and question number has been attached or authenticated for the questions in this topic. Therefore none is labelled official or verified PYQ.
 
 **Cycle38 bounded claim checks (27 October 2026):** Official Commission Notification 02/2024 p. 31 item 4 confirms syllabus. PRS Telangana Budget Analysis 2026–27 (published March 2026) explicitly reports gross expenditure ₹3,24,234 crore, debt repayment ₹23,025 crore, net expenditure ₹3,01,209 crore, non-borrowing receipts ₹2,42,750 crore, interest payments ₹21,304 crore and revenue receipts ₹2,41,264 crore; the arithmetic in Section 11 and practice Q23/Q25 was recalculated. The Union Budget at a Glance 2026–27 reports ₹53,47,315 crore total expenditure and ₹16,95,768 crore fiscal deficit. The 57th GST Council meeting date of 8 October 2026 is listed on the Council website. These bounded source checks do **not** certify the remaining 23 MCQs or any distractor set independently; no independent academic approval.
+
+### Cycle 125 source additions and verification boundaries (31 October 2026)
+
+| ID | Direct issuer source | Link | Supported scope |
+|---|---|---|---|
+| S17 | Union Budget 2026–27, Budget at a Glance, explanatory deficit definitions | https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf | Revenue deficit, fiscal deficit, primary deficit, effective capital expenditure; budget classification. BE figures are not audited outcomes. |
+| S18 | GST Council, constitutional description under Article 279A | https://www.gstcouncil.gov.in/gst-council-0 | Council constitution and recommendation role, distinct from Article 280. |
+| S19 | CBIC, GST sectoral FAQs and GST Acts | https://cbic-gst.gov.in/sectoral-faq.html | Ordinary intra-State CGST+SGST; credit is conditional on legal eligibility and applicable ledger restrictions. |
+| S20 | Finance Commission, constitutional provisions | https://fincomindia.nic.in/constitutional-provisions | Article 280 tax-devolution recommendation mandate, not GST rate setting. |
+
+**Cycle 125 bounded Q1–Q12 audit:** Each of 12 existing keys and 36 existing distractors now has an explicit explanation in the MCQ component and synchronized master. The reviewed question numbers are exactly 1–12. Q1–Q2 are conceptual correlations and not represented as primary-source verified; Q3–Q12 use the stated issuer-source and/or arithmetic boundaries. No 2026–27 Budget Estimate is treated as audited actual. The GST input-credit calculation Q5 is conditional on **eligible, legally usable** credit and does not override separate credit-ledger rules. Q13–Q25 remain to be comprehensively audited, including full distractor reviews of Q23/Q25; all six mains, diagrams, Telangana amendments and browser accessibility remain outstanding. **R1 remains PASS, R2–R8 not all PASS, R9 NOT_STARTED, independent academic approvals ZERO.**

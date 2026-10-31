@@ -1,7 +1,7 @@
 {
   "topic_id": "4-1-4",
   "title": "Public Finance: Tax Structure, Government Expenditure, Public Debt, Monetary and Fiscal Policy, Union Budget Analysis",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending. CI renderer 40507395889 SUCCESS: 23-page PDF SHA256 b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e, 3 images, 16/16 manifest; actual post-render archive QA pending. Actual packaging run 40507807300 artifact 12735981454 downloaded and independently verified: 1609 files, 75 unchanged originals, CRC/SHA, 484 file links and 831 fragments zero broken, 16 manifest hashes. R8 still IN_PROGRESS.",
-  "next_action": "Actual post-render GitHub artifact download/CRC/SHA/75-topic link QA; independent 25 MCQ/100 distractor, six mains, three diagrams and browser accessibility audits.",
+  "evidence": "Cycle38 original Commission syllabus p31 R1 PASS; 12 substantive concepts, original Telangana budget reconciliation lab and Q23/Q25 revised; independent full audit and CI artifact pending. CI renderer 40507395889 SUCCESS: 23-page PDF SHA256 b969adaf8fd1a72e8fb09401bcfdabca42705745125a66f2c7a45aaf8573557e, 3 images, 16/16 manifest; actual post-render archive QA pending. Actual packaging run 40507807300 artifact 12735981454 downloaded and independently verified: 1609 files, 75 unchanged originals, CRC/SHA, 484 file links and 831 fragments zero broken, 16 manifest hashes. R8 still IN_PROGRESS. Cycle125 Q1-Q12 keys/36 distractors explicit author-side rationales; Q13-Q25 complete option review pending; CI PDF and downloaded artifact pending; approvals zero.",
+  "next_action": "Complete full option-level Q13-Q25 and six mains claim audit; verify CI PDF, actual artifact SHA/CRC/75-original/link QA, browser accessibility and diagrams; obtain named expert after R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "9a805b81307353c9918ad550273fb209d2c99af5e5b6add5250920c077783ae4",
@@ -51,5 +51,29 @@
     "actual_artifact_qa": "project-control/academic-readiness/4-1-4-cycle38-downloaded-artifact-qa-2026-10-27.json",
     "actual_packaging_run": 40507807300,
     "actual_artifact_id": 12735981454
+  },
+  "cycle125": {
+    "audit_type": "bounded_author_side_option_level",
+    "reviewed_mcq_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "keys_reviewed": 12,
+    "distractors_reviewed": 36,
+    "remaining_full_option_audits": 13,
+    "source_boundaries": "Q1-Q2 conceptual only; Q3-Q12 issuer sources and/or arithmetic",
+    "independent_academic_approval": false,
+    "rendered_pdf_verified": false,
+    "downloaded_artifact_verified": false
   }
 }
