@@ -38,6 +38,11 @@ assert len(pdf)>=15, len(pdf)
 assert not [i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]
 images=sum(len(p.get_images()) for p in pdf)
 assert images>=3,images
+first_page=pdf[0].get_text()
+last_page=pdf[-1].get_text()
+assert 'Global Environmental Issues and Sustainable Development' in first_page and 'Topic 5' in first_page, 'Incorrect PDF footer on first page'
+assert 'Global Environmental Issues and Sustainable Development' in last_page and 'Topic 5' in last_page, 'Incorrect PDF footer on last page'
+assert 'Environmental Pollution and Solid Waste Management' not in first_page, 'Inherited wrong-topic footer'
 pdf.close()
 markup=mistune.create_markdown(plugins=['table'])(body)
 soup=BeautifulSoup(markup,'html.parser')
