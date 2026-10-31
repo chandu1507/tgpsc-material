@@ -1,0 +1,147 @@
+name: Render Topic 4-2-4 Integrated Student Edition
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 4/Unit 2 - Telangana Economy/Topic 4/source/**'
+      - '.github/workflows/render-topic-4-2-4-integrated.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-4-2-4-integrated
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install renderer and QA dependencies
+        run: python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'pillow>=10,<13' 'beautifulsoup4>=4,<5' 'mistune>=3,<4' 'pymupdf>=1.24,<2'
+      - name: Guarded nonforce source-to-PDF/HTML publication
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python - <<'PY'
+          from pathlib import Path
+          import hashlib,json,re,subprocess,sys
+          import fitz,mistune
+          from bs4 import BeautifulSoup
+          from urllib.parse import urlsplit,unquote
+          root=Path('Paper 4/Unit 2 - Telangana Economy/Topic 4')
+          src=root/'source'
+          cp=json.loads(Path('project-control/PRODUCTION-CHECKPOINT.json').read_text())
+          ix=json.loads(Path('project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json').read_text())
+          assert cp['total_topics']==ix['total_topics']==len(cp['topics'])==75
+          assert len(list(Path('project-control/academic-readiness').glob('[2-6]-[1-3]-[1-5].json')))==75
+          assert sum(t['readiness_status']=='IN_PROGRESS' for t in cp['topics'])==len(ix['pilot_in_progress'])
+          assert sum(t['readiness_status']=='ASSESSED_REBUILD_REQUIRED' for t in cp['topics'])==len(ix['assessed_rebuild_required'])
+          assert sum(t['readiness_status']=='NOT_ASSESSED' for t in cp['topics'])==ix['not_assessed_count']
+          assert cp['academically_approved']==ix['independently_academically_approved_count']==0
+          assert all((Path(t['path'])/'complete-notes.pdf').is_file() for t in cp['topics'])
+          orig=hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest()
+          assert orig=='92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c014',orig
+          parts=['syllabus-and-summary.md','quick-revision.md','detailed-notes.md','visual-learning.md','original-mcqs.md','answer-blueprints.md','mains-model-answers.md','sources-and-audit.md']
+          md='\n\n---\n\n'.join((src/n).read_text().strip() for n in parts)+'\n'
+          assert (src/'complete-notes.md').read_text()==md
+          assert len(re.findall(r'(?m)^## \d+\.',(src/'detailed-notes.md').read_text()))==17
+          q=(src/'original-mcqs.md').read_text()
+          assert len(re.findall(r'(?m)^\*\*Q\d+\.',q))==30
+          assert len(re.findall(r'(?m)^\*\*Answer: [ABCD]\.\*\*',q))==30
+          for n in range(1,31):
+           block=re.search(rf'(?ms)^\*\*Q{n}\. (.*?)(?=^\*\*Q{n+1}\. |\Z)',q)
+           if block is None:
+            block=q[q.index(f'**Q{n}.'):].split(f'**Q{n+1}.')[0] if n<30 else q[q.index(f'**Q{n}.'):]
+           else:block=block.group(0)
+           assert all(re.search(rf'(?m)^{a}\. ',block) for a in 'ABCD'),n
+          m=(src/'mains-model-answers.md').read_text()
+          counts=[]
+          for body in re.split(r'(?m)^## M\d+\..*$',m)[1:]:
+           body='\n'.join(line for line in body.splitlines() if not line.startswith('**Answer blueprint:') and not line.startswith('### '))
+           counts.append(len(re.findall(r"\b[\w]+(?:[-'][\w]+)*\b",body)))
+          assert len(counts)==6 and min(counts)>=200,counts
+          pdf=src/'integrated-student-edition-2026-10-27.pdf'
+          subprocess.run([sys.executable,'scripts/render_topic_4_2_3_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
+          doc=fitz.open(pdf)
+          assert 20<=len(doc)<=60
+          assert all(len(p.get_text().strip())>60 for p in doc)
+          assert sum(len(p.get_images()) for p in doc)>=3
+          assert 'Agriculture and Allied Sectors' in '\n'.join(p.get_text() for p in doc)
+          viol=[]
+          for i,p in enumerate(doc):
+           for b in p.get_text('dict')['blocks']:
+            if b['type']==0:
+             x0,y0,x1,y1=b['bbox']
+             if x0<8 or y0<0 or x1>p.rect.width-8 or y1>p.rect.height-2:viol.append(i+1)
+          assert not viol,viol
+          soup=BeautifulSoup((root/'index.html').read_text(),'html.parser')
+          main=soup.find('main');aside=soup.find('aside');assert main and aside
+          rendered=BeautifulSoup(mistune.create_markdown(plugins=['table','strikethrough'])(md),'html.parser')
+          for im in rendered.find_all('img'):
+           u=im.get('src','')
+           if u.startswith('../visuals/'):im['src']='visuals/'+u.split('/')[-1]
+          seen={};toc=[]
+          for h in rendered.find_all(['h1','h2','h3']):
+           slug=re.sub('[^a-z0-9]+','-',h.get_text(' ',strip=True).lower()).strip('-') or 'section'
+           k=seen.get(slug,0);seen[slug]=k+1
+           if k:slug+=f'-{k}'
+           h['id']=slug
+           if h.name in ('h1','h2'):toc.append((h.name,slug,h.get_text(' ',strip=True)))
+          main.clear()
+          for item in list(rendered.contents):main.append(item)
+          aside.clear();heading=soup.new_tag('h2');heading.string='Chapter contents';aside.append(heading)
+          for tag,slug,label in toc:
+           a=soup.new_tag('a',href='#'+slug);a['class']='toc1' if tag=='h1' else 'toc2';a.string=label;aside.append(a)
+          (root/'index.html').write_text(str(soup))
+          ids={x.get('id') for x in soup.find_all(id=True)}
+          broken_files=[];broken_fragments=[];local_links=0;spa=0
+          for tag in soup.find_all(['a','img','script','link']):
+           u=tag.get('href') or tag.get('src')
+           if not u:continue
+           if '#/paper/' in u:spa+=1;continue
+           p=urlsplit(u)
+           if p.scheme or u.startswith('//'):continue
+           if p.path:
+            local_links+=1
+            if not (root/unquote(p.path)).resolve().exists():broken_files.append(u)
+           if p.fragment and unquote(p.fragment) not in ids:broken_fragments.append(u)
+          assert not broken_files and not broken_fragments,(broken_files,broken_fragments)
+          sha=hashlib.sha256(pdf.read_bytes()).hexdigest()
+          readme=f'# Topic 4-2-4 — Agriculture and Allied Sectors (Cycle130 integrated student edition)\n\nOriginal 28-page complete-notes.pdf preserved SHA256 {orig}. Editable source/complete-notes.md, offline index.html and new {len(doc)}-page source/integrated-student-edition-2026-10-27.pdf synchronized in GitHub CI. 17 substantive concepts, 30 original practice MCQs (10 keys/30 distractors bounded source-audited in Cycle130), six 200+ body-word mains, three inherited diagrams. The cropping-intensity example is hypothetical, not Telangana official data. No verified official PYQs. R1–R8 incomplete, zero academic approvals.\n'
+          (root/'README.md').write_text(readme)
+          qa={'cycle':130,'topic':'4-2-4','date':'2026-10-31','original_pdf_sha256':orig,'original_pdf_preserved':True,'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha,'integrated_pdf_images':sum(len(p.get_images()) for p in doc),'blank_pages':0,'text_boundary_violations':viol,'concepts':17,'original_practice_mcqs':30,'mcq_keys_author_audited':10,'mcq_distractors_author_audited':30,'mcq_keys_pending':20,'mcq_distractors_pending':60,'mains_body_counts':counts,'local_file_links_checked':local_links,'broken_file_links':broken_files,'broken_fragments':broken_fragments,'spa_routes_excluded':spa,'R8':'IN_PROGRESS_NOT_PASS','independent_academic_approvals':0,'browser_accessibility_certified':False,'actual_post_edit_packaging_artifact_verified':False}
+          (root/'QA-REPORT.md').write_text('# Cycle42 GitHub CI render QA\n\n'+json.dumps(qa,indent=2)+'\n')
+          manifest=json.loads((root/'manifest.json').read_text())
+          manifest['detailed_sections']=17
+          manifest['original_mcqs']=30
+          manifest['source_audit']='bounded_author_side_cycle130_10_of_30_option_audits_not_independent'
+          manifest['integrated_pdf_pages']=len(doc)
+          manifest['integrated_pdf_sha256']=sha
+          manifest['date']='2026-10-31'
+          for n in list(manifest['file_sha256']):
+           if n!='complete-notes.pdf' and (root/n).exists():
+            manifest['file_sha256'][n]=hashlib.sha256((root/n).read_bytes()).hexdigest()
+          manifest['file_sha256']['source/integrated-student-edition-2026-10-27.pdf']=sha
+          (root/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
+          Path('project-control/academic-readiness/4-2-4-cycle130-ci-render-qa.json').write_text(json.dumps(qa,indent=2)+'\n')
+          print(json.dumps(qa,indent=2))
+          
+          PY
+            git add -- 'Paper 4/Unit 2 - Telangana Economy/Topic 4' project-control/academic-readiness/4-2-4-cycle130-ci-render-qa.json
+            if git diff --cached --quiet; then echo 'Already synchronized'; exit 0; fi
+            git commit -m 'Cycle130: render source-audited land-reform student edition'
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Nonforce push raced with main; retrying $attempt"
+          done
+          exit 1
