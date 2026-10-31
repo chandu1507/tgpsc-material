@@ -5,7 +5,7 @@
   "date": "2026-10-27",
   "source_syllabus": "Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS",
   "counts": {
-    "words": 13418,
+    "words": 14868,
     "detailed_sections": 13,
     "original_mcqs": 25,
     "mains_models": 6,
@@ -18,7 +18,7 @@
       242
     ],
     "diagrams": 3,
-    "pdf_pages": 30
+    "pdf_pages": 33
   },
   "official_pyqs_verified": 0,
   "notes": "All 25 MCQs and six mains prompts are original practice; historical ratios are method-dependent. No official PYQ asserted.",
@@ -32,24 +32,24 @@
       "bytes": 278637
     },
     "index.html": {
-      "sha256": "25f6655936d6545bda9b3c107f42b16ecd9a98445a2c205dc1c2dd7cd21b2d53",
-      "bytes": 122881
+      "sha256": "9dc7e21e8be11c5d3b587a1acdc070bc3d3594b3a903c439ad32706d219ad574",
+      "bytes": 139027
     },
     "source/answer-blueprints.md": {
       "sha256": "ef9253128461b96ce1ccf47850d9f1502023eb92496c1c9f7479f79524e9d4a7",
       "bytes": 1718
     },
     "source/complete-notes.md": {
-      "sha256": "3c8f72c70b8d9298c38f041fda72e9469ea79266e7a121a983df7fd1c7a1d430",
-      "bytes": 96022
+      "sha256": "47d03753af0a63aa0a54062843c37cb12ca5301f8274bbf01a484a44e4035e52",
+      "bytes": 106680
     },
     "source/detailed-notes.md": {
       "sha256": "43b83fad9dbf28e720af677e064cde3a7692903bfc91c6d7455b3b2476451190",
       "bytes": 55378
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "3bc20012e60012aed9ef8e254b452c1767d481f02a11c2e1795efb05e8bb3b69",
-      "bytes": 309770
+      "sha256": "92f1d0b236215c7ef603794151da33b0cc7f22ce32eb8d3b56581d30f98826f7",
+      "bytes": 318973
     },
     "source/mains-model-answers.md": {
       "sha256": "9cf1f93127565a46ba0d63ca0011ae28309fd35853cb1d3136df39cae1cad7f7",
@@ -64,8 +64,8 @@
       "bytes": 4241
     },
     "source/sources-and-audit.md": {
-      "sha256": "0ba9fc55a9cf488a7feaad66a1606131149f56e424ce8582074be6f034c5aee9",
-      "bytes": 6388
+      "sha256": "a6e3177a91ca0ce0f468ba1a314865461dff9ad8acb1ced22002299cfe594b6b",
+      "bytes": 17046
     },
     "source/syllabus-and-summary.md": {
       "sha256": "ca77182224f2386346b2734ab147ae35ad5dab715331130e7638ffaf095850ec",
