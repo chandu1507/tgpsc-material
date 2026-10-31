@@ -11,7 +11,7 @@
   "original_mcqs": 25,
   "original_mains": 6,
   "verified_official_pyqs": 0,
-  "word_count": 10769,
+  "word_count": 12067,
   "files": {
     "README.md": {
       "sha256": "9c44f6930fbc31f1a14db351b426b0b267e0f10727ec15d0cef1528151a6bc1f",
@@ -22,40 +22,40 @@
       "bytes": 269102
     },
     "index.html": {
-      "sha256": "86abb6b9e006b3196c4fc085bfa78a77729276c285af7280d83abf7f5869b9ed",
-      "bytes": 98431
+      "sha256": "61bc8ace3144459ef1ed0a29305af8f57fbadef3a02bcdce121cc50f1da9d397",
+      "bytes": 112488
     },
     "source/answer-blueprints.md": {
       "sha256": "ffe26bcd63994c8e4406d04021316b0293d08d0e15470b213efb49d155086554",
       "bytes": 1671
     },
     "source/complete-notes.md": {
-      "sha256": "200c0ebf6063f00748ac1e15ad3ae6358cfdd3683493a6b6989e62e0e9027363",
-      "bytes": 79730
+      "sha256": "c6183e4850e1768554ed23a88c14d47e6a56707150ba20d5302064d27a583b11",
+      "bytes": 89234
     },
     "source/detailed-notes.md": {
       "sha256": "5f5d21ae5d847a8b4778d5348b30f64ebd24555c8b9fc5cda81e5b64b2445420",
       "bytes": 42870
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "cfae12629690ca8c95e212c80d687e56d95ed61bdeca83a1c83637382f0e7bfa",
-      "bytes": 295155
+      "sha256": "b62fb6fdaf2931a8d56fa9c79cd8790fc71e4151d6eb35075b11498babf3b2a7",
+      "bytes": 303831
     },
     "source/mains-model-answers.md": {
       "sha256": "5533214afaca24da4e44159621606030b64166b2874eb7894f9f6d39283e5ada",
       "bytes": 11542
     },
     "source/original-mcqs.md": {
-      "sha256": "5249a9fbb209ad43089246388a5ba3ad9357d7599b2c2786b591ae5ebc7653e5",
-      "bytes": 8807
+      "sha256": "016185bb7cc716cb1553a474c7f0fc701a818f82496f19957670fe2bece5786a",
+      "bytes": 16419
     },
     "source/quick-revision.md": {
       "sha256": "4377513dd97d02053cce232de38faa0d68c76b104fe839e758085f7100a3a283",
       "bytes": 4274
     },
     "source/sources-and-audit.md": {
-      "sha256": "c7cc85164ef22832aec3e73465e28b80771406b6553bcc67807f5b70f67e4252",
-      "bytes": 5382
+      "sha256": "31192d7ff6c0c616527d713131da904172d5d2ccc56424ee87363447b3f8c4bf",
+      "bytes": 7276
     },
     "source/syllabus-and-summary.md": {
       "sha256": "e10c3a4051b2a404b550a0dc70ffb9b4e53fd8ff433a2519a37ca621c74d45f6",
@@ -80,5 +80,5 @@
   },
   "sources": 15,
   "syllabus_verification": "Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS",
-  "pdf_pages": 23
+  "pdf_pages": 26
 }
