@@ -1,7 +1,7 @@
 {
   "topic_id": "4-2-5",
   "title": "Industry and Service Sectors",
-  "production_status": "cycle43_integrated_ci_pdf_author_side_audit_pending",
+  "production_status": "cycle131_integrated_ci_pdf_partial_mcq_audit_pending",
   "academic_approved": false,
   "manuscript_words": 11589,
   "mcqs_original": 30,
@@ -10,8 +10,8 @@
   "visuals": 3,
   "files": {
     "index.html": {
-      "sha256": "575280e5dc21b2be943c8ea23b19cba6c95372bdf7aa4b1e73b272e2ec71fbec",
-      "bytes": 117210
+      "sha256": "0d56312a52cdbb085c3fa9a0bb8a18f6a401e3cf04b8471915e2525b4da9ae73",
+      "bytes": 129556
     },
     "complete-notes.pdf": {
       "sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
@@ -46,16 +46,16 @@
       "bytes": 3613
     },
     "source/sources-and-audit.md": {
-      "sha256": "d2cca1a7ca17366904fe5eaf19accc327806c64108fba4a34a97c09672e727bf",
-      "bytes": 7759
+      "sha256": "61597961e1c1ca7d6d80e21bfb5179dcb20ed2b116558a70a178b0a56db425b1",
+      "bytes": 10040
     },
     "source/original-mcqs.md": {
-      "sha256": "e38f333ae828423c6aae42463e2645f5372675f00f18592d44012519277966e6",
-      "bytes": 12497
+      "sha256": "0f8750f3aead1e13622b7ea45626f7729a4d590e5041995cdea1e076d7708b14",
+      "bytes": 19807
     },
     "source/complete-notes.md": {
-      "sha256": "f2f1eb1136630722a41a502d06a15806e3fcd6117598791f8f85881e2c469c09",
-      "bytes": 96601
+      "sha256": "24794954da6b2fcc044c716523afc4f5b1d89f2c03cc3269ff39fa69a2bcd377",
+      "bytes": 106191
     },
     "visuals/msme-policy-cycle.png": {
       "sha256": "d17deee3b375a3136d740bce6d5cd7b6a2a1b0b652d777af2f2ffff3baecb889",
@@ -70,8 +70,8 @@
       "bytes": 63336
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "8f814b9b8bba63941806486a0848b595b8bc057091cf93398763d4d1e26e1798",
-      "bytes": 316996
+      "sha256": "2c79bf3ce634a82066471632ad82d347e8f30ff6ecbaa5e611fdad41fb568268",
+      "bytes": 325495
     }
   },
   "pdf_pages": 25,
@@ -85,6 +85,6 @@
     205,
     214
   ],
-  "integrated_pdf_pages": 29,
-  "integrated_pdf_sha256": "8f814b9b8bba63941806486a0848b595b8bc057091cf93398763d4d1e26e1798"
+  "integrated_pdf_pages": 31,
+  "integrated_pdf_sha256": "2c79bf3ce634a82066471632ad82d347e8f30ff6ecbaa5e611fdad41fb568268"
 }
