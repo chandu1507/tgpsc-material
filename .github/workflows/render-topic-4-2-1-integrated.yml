@@ -43,8 +43,14 @@ jobs:
           ix=json.loads(Path('project-control/ACADEMIC_READINESS_75_TOPIC_STATUS_INDEX.json').read_text())
           assert cp['total_topics']==ix['total_topics']==len(cp['topics'])==75
           assert len(list(Path('project-control/academic-readiness').glob('[2-6]-[1-3]-[1-5].json')))==75
-          assert sum(t['readiness_status']=='IN_PROGRESS' for t in cp['topics'])==7
-          assert sum(t['readiness_status']=='ASSESSED_REBUILD_REQUIRED' for t in cp['topics'])>=21
+          from collections import Counter
+          actual=Counter(t['readiness_status'] for t in cp['topics'])
+          assert len({t['id'] for t in cp['topics']})==75
+          assert actual['IN_PROGRESS']==len(ix['pilot_in_progress'])
+          assert actual['ASSESSED_REBUILD_REQUIRED']==len(ix['assessed_rebuild_required'])
+          assert actual['NOT_ASSESSED']==ix['not_assessed_count']
+          assert set(ix['pilot_in_progress']).isdisjoint(ix['assessed_rebuild_required'])
+          assert sum(actual.values())==75
           assert cp['academically_approved']==ix['independently_academically_approved_count']==0
           assert all((Path(t['path'])/'complete-notes.pdf').is_file() for t in cp['topics'])
           root=Path('Paper 4/Unit 2 - Telangana Economy/Topic 1')
