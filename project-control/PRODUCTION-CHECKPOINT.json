@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "total_topics": 75,
   "published_draft_pdf_topics": 75,
   "slots_without_published_pdf": 0,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-1-5",
+    "last_reported_topic": "5-2-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle141 Topic5-1-5: 10 author-side four-option audits; 29-page CI PDF; downloaded artifact 13052989943 CRC/SHA/75 originals/75 readiness/link QA PASS. 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, zero fully R1–R8 ready or approvals."
+    "note": "Cycle142: source audit and local candidate only; GitHub CI PDF and post-edit artifact QA pending. Exactly 75 topics; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 approved."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -641,8 +641,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle54_direct_artifact_depth_and_ppvfra_bounded_audit_rebuild_required",
-      "notes": "Cycle54 direct downloaded-artifact audit: original 23-page PDF SHA 87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025 preserved; 16 concepts all >=300 words (333–588); 30 original practice MCQs A8/B22/C0/D0, 90 distractors; six mains 217/215/231/234/226/231 body-only words; 4 bounded official-source correct-key correspondences and one arithmetic check only. Complete MCQ/distractor/mains/diagram/syllabus/browser audits pending. No new integrated PDF or academic approval.",
+      "production_review": "cycle142_ten_source_correlated_option_reviews_local_candidate_ci_pending",
+      "notes": "Cycle142 (1 Nov): 10 existing original MCQs Q2/4/6/7/8/11/13/17/20/28 received author-side source-correlated checks of 10 proposed keys and 30 distractors. 20 keys/60 distractors remain at this audit level, plus all six mains claim checks, three diagram audits and browser accessibility. One coherent editable master appended in place, original 23-page PDF SHA256 87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025 unchanged. Local 25-page ReportLab candidate synchronized with master; NOT a CI-rendered PDF, NO post-edit GitHub Actions artifact verification. R1–R8 incomplete, R9 NOT_STARTED, approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-1.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json"
