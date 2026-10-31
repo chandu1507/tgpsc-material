@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-31",
+  "topic_id": "4-3-4",
+  "cycle": 135,
+  "scope": "actual downloaded GitHub Actions publication archive after Topic4-3-4 option review and Topic3-3-4 offline fragment fix",
+  "github_packaging_run": 41202953628,
+  "github_artifact_id": 13043093883,
+  "artifact_name": "tgpsc-github-publication-snapshot",
+  "artifact_sha256": "cef2076274fff07c02d1494b10d92f1b0e657bc7680deede9c4825077bb676e2",
+  "artifact_digest_matches_downloaded_sha256": true,
+  "inner_zip_sha256": "ba5e50a2d2f9a97588563b4baf9b061975f75caeff3c078e56f8053965d50df7",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "files": 2115,
+  "original_pdf_topics": 75,
+  "original_pdf_changed_against_actual_cycle134_artifact": 0,
+  "readiness_json": 75,
+  "html_pages": 88,
+  "local_file_links_checked": 568,
+  "broken_local_links": 0,
+  "dom_fragment_links_checked": 1189,
+  "broken_dom_fragments": 0,
+  "spa_routes_excluded_from_dom_fragment_check": 39,
+  "topic_4_3_4_integrated_pdf": {
+    "pages": 34,
+    "sha256": "1249da2e479bab66623b479b7d842b3494f993efc4b77539534c6d5d432bae07",
+    "manifest_sha_match": true,
+    "blank_pages": 0,
+    "out_of_bounds_text_blocks": 0,
+    "embedded_images": 3,
+    "sampled_pages_visually_inspected": [
+      1,
+      33,
+      34
+    ]
+  },
+  "topic_4_3_4_original_pdf_sha256": "1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159",
+  "topic_4_3_4_original_mcqs_preserved": 30,
+  "topic_4_3_4_existing_keys_option_reviewed_this_cycle": 10,
+  "topic_4_3_4_distractors_reviewed_this_cycle": 30,
+  "topic_4_3_4_keys_pending": 20,
+  "topic_4_3_4_distractors_pending": 60,
+  "topic_3_3_4_offline_fragment_repair": {
+    "base_href_removed": true,
+    "source_html_relative_asset_links_fixed": 6,
+    "toc_fragment_links_preserved": 21,
+    "full_browser_accessibility_certified": false
+  },
+  "checkpoint_consistency": {
+    "unique_topic_ids": 75,
+    "index_paths": 75,
+    "per_topic_status_mismatches": 0,
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0,
+    "normalized_R1_PASS": 14,
+    "fully_R1_to_R8_ready": 0,
+    "independent_academic_approvals": 0
+  },
+  "limitations": [
+    "This QA report was committed after the downloaded artifact was inspected; its own presence in that inspected ZIP is not asserted.",
+    "No independent expert academic approval or full R1-R8 completion.",
+    "Option explanations are author-side bounded correspondence, not official TGPSC PYQs or a full 30-question audit.",
+    "Full real-browser usability and accessibility certification not performed.",
+    "This QA is publication integrity plus sampled PDF visual inspection, not claim-level verification of six mains or independent review of three diagrams."
+  ]
+}
