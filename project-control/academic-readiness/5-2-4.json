@@ -1,7 +1,7 @@
 {
   "topic_id": "5-2-4",
   "title": "Microbial Infections: Pathogens, Disease Patterns and Outbreak Prevention",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-4-cycle57-actual-downloaded-post-render-artifact-qa-2026-10-28.json",
-  "next_action": "Downloaded post-render GitHub artifact CRC/SHA/75 original PDF hashes/manifest/offline links verified; R8 still IN_PROGRESS pending direct browser accessibility, complete 30 MCQ key/90 distractor review, six mains claim audits, three diagrams and syllabus authentication. Zero independent approvals.",
+  "evidence": "Paper 5/Unit 2 - Modern Applications of Science/Topic 4/source/academic-option-audit-cycle145.md",
+  "next_action": "After Cycle145 audit, verify guarded GitHub CI PDF and downloaded publication artifact; correct Q27 ambiguous stem without altering original topic PDF; review 20 remaining keys/60 distractors, six mains, three diagrams, browser and syllabus. R1-R8 incomplete, R9 NOT_STARTED, zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -70,5 +70,30 @@
     "actual_github_artifact_sha256": "31ba5cd99ebc24d841fd6c33dd52a1e7d868ca259e2c09ce9f2a9076ca74ecc6",
     "github_integrated_pdf_pages": 24,
     "github_integrated_pdf_sha256": "4a2827b3f01b62f0935f629f3e6b7d54626d9e20c722785aeb7e4eae370b3ad3"
+  },
+  "cycle145_source_review": {
+    "date": "2026-11-01",
+    "type": "bounded_author_side_four_option",
+    "question_numbers": [
+      1,
+      3,
+      5,
+      9,
+      10,
+      13,
+      17,
+      23,
+      24,
+      29
+    ],
+    "reviewed_keys": 10,
+    "reviewed_distractors": 30,
+    "remaining_without_equivalent_review_keys": 20,
+    "remaining_without_equivalent_review_distractors": 60,
+    "additional_invalid_item": "Q27 ambiguous: all four options insufficient alone to establish outbreak source",
+    "audit_path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 4/source/academic-option-audit-cycle145.md",
+    "editable_master_synchronized": true,
+    "github_ci_pdf_render": "PENDING",
+    "independent_approval": false
   }
 }
