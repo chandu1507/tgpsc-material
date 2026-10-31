@@ -54,3 +54,18 @@
 - **Original calculations:** 20,000 × 12 = 240,000 MJ/day = 66.667 MWh thermal; assumed 20% conversion = 13.333 MWh electrical. Town example: 60,000 × 0.45 kg = 27 tonnes; 24.3/27 = 90%; 20.3/24.3 = 83.54%; 20.3/27 = 75.19%; 4.5/7 = 64.29%. All numbers are labelled hypothetical, not government observations.
 - **Still pending:** all 30 keys and 90 distractors (120 total answer options), claim-level checking of six mains, three diagrams, original commission syllabus authentication, direct browser/accessibility QA and independent expert approval.
 
+
+## Cycle135 bounded four-option review source register (31 October 2026)
+
+The complete 10-question/40-option author-side audit is recorded in `project-control/academic-readiness/4-3-4-cycle135-ten-mcq-option-audit-2026-10-31.md` and appended **once** to the integrated editable master. Existing original stems and keys were not changed. Review covers Q1/2/3/6/7/9/11/13/24/26 only. No independent reviewer, official PYQ authentication or full R4/R6 gate pass is claimed.
+
+- **C135-01, CPCB, accessed 31 Oct 2026:** https://swm.cpcb.gov.in/ — four streams, alternative BWG thresholds, institutional/residential scope. Direct issuer portal; not a field compliance audit.
+- **C135-02, MoEFCC, SWM Rules 2026, effective 1 Apr 2026:** https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf — rule 5 generator segregation and distinct C&D routing. No claim that all amendments were checked.
+- **C135-03, US EPA, technical oxygen primer:** https://www3.epa.gov/npdes/pubs/primer.pdf — biochemical oxygen demand versus dissolved oxygen. Technical teaching correspondence, not Indian regulation.
+- **C135-04, US EPA, materials recovery centre:** https://www3.epa.gov/recyclecity/recovery.htm — sorting, preparation and onward recycling. Illustrative technical explainer, not evidence of local recovery rates.
+- **C135-05, US EPA, anaerobic digestion:** https://www.epa.gov/anaerobic-digestion/basic-information-about-anaerobic-digestion — oxygen-free decomposition, biogas and digestate. Not a facility permit.
+- **C135-06, US EPA, landfill gas:** https://www.epa.gov/lmop/basic-information-about-landfill-gas — methane, gas management and distinction from leachate. Not Telangana site sampling.
+- **C135-07, MoEFCC, Annual Report 2025–26:** https://moef.gov.in/uploads/pdf-uploads/Nitin_Rev_4.pdf — G.S.R. 219(E), 2 Apr 2025 C&D rules, commencement 1 Apr 2026. Full signed C&D Gazette not independently downloaded in this review.
+- **C135-08, US EPA HERO index, Indian landfill groundwater study:** https://hero.epa.gov/reference/524114/ — secondary indexed abstract supporting potential leachate transport; not primary Telangana field evidence.
+
+**Boundaries:** Q1 and Q11 arithmetic is independently reproducible from *hypothetical* stem values. The remaining technical distractor eliminations are bounded conceptual inferences linked to the above issuers; these are **not** independent expert endorsements. Twenty keys/60 distractors, all six mains claim audits, three diagram reviews, full browser/accessibility QA and expert signoff remain pending.
