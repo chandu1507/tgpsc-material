@@ -129,7 +129,7 @@ def footer(canvas,doc):
     canvas.drawRightString(w-42,26,f'Page {doc.page}')
     canvas.restoreState()
 
-doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargin=45,bottomMargin=52,invariant=1,title="TGPSC Paper V Unit I Topic 1 - Integrated Student Edition",author="TGPSC Academic Readiness Production")
+doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargin=45,bottomMargin=52,invariant=1,title="TGPSC Paper V Unit I Topic 2 - Integrated Student Edition",author="TGPSC Academic Readiness Production")
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
