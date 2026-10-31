@@ -211,3 +211,107 @@ B. Classify the parcel, check notified status and historical tenure, hear affect
 C. Assume all digital records are conclusive  
 D. Ignore tribal and occupancy protections  
 **Answer: B.** **Explanation:** Multiple overlapping legal regimes require careful classification, evidence, notice, lawful remedies and appeal rather than an automatic portal-based decision.
+
+## Cycle129 — bounded primary-text option audit (31 October 2026)
+
+**Scope:** 10 existing original practice questions (Q4, Q6, Q7, Q8, Q9, Q12, Q23, Q24, Q25, Q30), 10 proposed keys and **30 distractors**. The other 20 questions (20 keys/60 distractors) are NOT reviewed here. This is an author-side primary-text comparison, not independent academic approval or authentication as TGPSC PYQs. The full 1950 tenancy statute was not directly fetched in this cycle: s.38-E is supported by the express cross-reference in the official 1973 Act s.13 and requires a further bare-Act review.
+
+### Audit Q4 — proposed answer D
+
+**Primary-text scope:** 1973 Act s.13 cross-refers to 1950 tenancy s.38-E; 1955 Inams Act ss.4–10 regulate occupancy..
+
+- **A:** The 1973 ceiling Act refers to protected-tenant ownership but is not the source of s.38-E; the 1977 assigned-land law is not the Inams occupancy statute.
+- **B:** FRA 2006 addresses forest rights and PESA 1996 Scheduled Area governance; neither creates this tenancy/Inams pairing.
+- **C:** Bhu Bharati 2025 administers land records, not s.38-E; jagir abolition is not the Inams occupancy law.
+- **D:** The 1950 tenancy law contains s.38-E; the 1955 Inams Act provides occupant registration subject to eligibility and Collector enquiry.
+
+### Audit Q6 — proposed answer A
+
+**Primary-text scope:** 1955 Inams Act title/Act VIII; 1973 ceiling Act 1; 1977 assigned-land Act 9..
+
+- **A:** Correct: the India Code text identifies the Telangana Abolition of Inams Act as Act VIII of 1955.
+- **B:** Incorrect: the ceiling statute is Act 1 of 1973, not 1950.
+- **C:** Incorrect: the assigned-land transfer statute is Act 9 of 1977, not 1949.
+- **D:** Incorrect: the central Forest Rights Act dates to 2006, not 1970.
+
+### Audit Q7 — proposed answer C
+
+**Primary-text scope:** 1955 Inams Act ss.4–10; 1973 ceiling Act ss.10–14; 1950 tenancy s.38-E cross-ref..
+
+- **A:** A tenancy ownership certificate under s.38-E is a separate statutory route; it does not itself register occupancy of former inam land.
+- **B:** A ceiling surrender order concerns excess holdings and vesting, not an Inams occupancy claim.
+- **C:** Correct: ss.4–8 identify eligible occupant categories and s.10 directs the Collector to examine claims; an ORC follows that legal process.
+- **D:** Restoration after a prohibited assigned-land transfer belongs to a distinct protective regime, not the Inams occupant-registration mechanism.
+
+### Audit Q8 — proposed answer C
+
+**Primary-text scope:** India Code Telangana Land Reforms (Ceiling on Agricultural Holdings) Act, Act 1 of 1973..
+
+- **A:** 1947 is not the enactment year of the named ceiling Act.
+- **B:** 1950 belongs to the tenancy statute, not this ceiling Act.
+- **C:** Correct: the named statute is Act 1 of 1973; the Telangana text notes adaptation after 2014.
+- **D:** 2006 belongs to the central Forest Rights Act, not this ceiling Act.
+
+### Audit Q9 — proposed answer D
+
+**Primary-text scope:** 1973 ceiling Act ss.3(d),(e),(f),4,5 and First Schedule..
+
+- **A:** Incorrect: statutory wet/dry classes affect standard holdings, not merely stamp duty.
+- **B:** Incorrect: s.4 aggregates holdings of a family unit; one recorded tenant name is not the sole ceiling determinant.
+- **C:** Incorrect: wetland is expressly classified, not automatically excluded from the ceiling.
+- **D:** Correct: s.4 provides family-unit ceilings and s.5 differentiates standard holdings by land class; applicable amendments/exemptions must be checked.
+
+### Audit Q12 — proposed answer C
+
+**Primary-text scope:** India Code Telangana Assigned Lands (Prohibition of Transfers) Act, Act 9 of 1977, ss.1–5..
+
+- **A:** 1955 identifies the Inams abolition statute, not the assigned-land transfer statute.
+- **B:** 1963 is not the enactment year of the named assigned-land transfer Act.
+- **C:** Correct: the named law is Act 9 of 1977; its subject is restricted transfers of certain lands assigned to landless poor persons.
+- **D:** 2025 identifies the Bhu Bharati record-of-rights legislation, not the 1977 Act.
+
+### Audit Q23 — proposed answer D
+
+**Primary-text scope:** Bhu Bharati Rules GO Ms 39 (14 Apr 2025), rule 5(4)(b)–(c); 1977 Assigned Lands Act..
+
+- **A:** Incorrect: an electronic mutation does not repeal statutory prohibitions; rule 5 expressly requires separate registration checks.
+- **B:** Incorrect: a displayed pattadar entry does not remove prohibited-property and assigned-land checks under rule 5(4).
+- **C:** Incorrect: the record-of-rights legislation does not replace the 1977 Assigned Lands Act or Scheduled Area transfer restrictions; the Rules cite both.
+- **D:** Correct: rule 5(4)(c) explicitly requires checking 1959 Scheduled Area and 1977 Assigned Lands prohibitions.
+
+### Audit Q24 — proposed answer B
+
+**Primary-text scope:** Bhu Bharati Rules 2025 rules 4 and 5, including notice, evidence, enquiry and prohibited-property checks..
+
+- **A:** Incorrect: rule 4 requires a reasoned process for contested entries; portal data cannot automatically defeat judicial decisions.
+- **B:** Correct: digital records assist administration, but rule 4 anticipates disputes and rule 5 separately requires legal transfer checks.
+- **C:** Incorrect: historical jagir status cannot be converted into automatic private title through mutation alone.
+- **D:** Incorrect: rule 5(4)(c) requires scrutiny of assigned-land restrictions despite electronic records.
+
+### Audit Q25 — proposed answer C
+
+**Primary-text scope:** Government of Telangana GO Ms 39 dated 14 Apr 2025, notification under Bhu Bharati Act s.21(1)..
+
+- **A:** The 1977 Assigned Lands Act is a separate primary statute, not the 2025 procedural rules notification.
+- **B:** The 1973 ceiling Act is a separate statute, not the Bhu Bharati Rules notification.
+- **C:** Correct: GO Ms 39 (Revenue, Land Administration-I) dated 14 April 2025 publishes the 2025 Rules under s.21(1).
+- **D:** The 1358 Fasli Jagir regulation predates the 2025 Rules and is not their notification.
+
+### Audit Q30 — proposed answer B
+
+**Primary-text scope:** Bhu Bharati Rules 2025 rule 4(3)–(7) notice/evidence/reasoned order and rule 5(4) prohibited transfers..
+
+- **A:** Incorrect: rule 5(4) requires checks before registration; accepting the first deed without classification is unsafe.
+- **B:** Correct: notification/tenure classification, hearing and statutory checks reflect rules 4 and 5; the specific adjudicator depends on the claim.
+- **C:** Incorrect: rule 4 provides rectification procedures and hearings, so electronic entries are not universally conclusive.
+- **D:** Incorrect: rule 5(4)(c) expressly requires attention to Scheduled Area and assigned-land protections.
+
+### Source register and limits
+
+- **P1:** [Telangana Abolition of Inams Act, 1955, Act VIII, ss.4–10](https://www.indiacode.nic.in/bitstream/123456789/8597/1/act_8_of_1955.pdf).
+- **P2:** [Telangana Land Reforms (Ceiling on Agricultural Holdings) Act, 1973, Act 1, ss.3–5,10–14](https://www.indiacode.nic.in/bitstream/123456789/8693/1/act_1_of_1973.pdf).
+- **P3:** [Telangana Assigned Lands (Prohibition of Transfers) Act, 1977, Act 9](https://www.indiacode.nic.in/bitstream/123456789/8711/1/act_9_of_1977.pdf).
+- **P4:** [Telangana Bhu Bharati (Record of Rights in Land) Rules, GO Ms 39, 14 April 2025, rules 4–5](https://bhubharati.telangana.gov.in/assets/images/userManuals/G_O_Ms_no_39_Dated_14_04_2025.pdf).
+
+**Method:** inspected official India Code 1955/1973 texts and Telangana GO Ms 39 (14 April 2025); cross-checked the 1977 Act's title/sections in India Code listings. This is not a complete amendments-and-case-law opinion. Q4's tenancy cross-reference and Q12's exceptions remain bounded; historic legal effect and any current litigation must be checked separately. No new numerical land-redistribution outcomes, archival consultation, official PYQs or independent reviewer approval are claimed.
+
