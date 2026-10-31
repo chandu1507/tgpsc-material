@@ -126,10 +126,13 @@
     "remaining_distractors": 57,
     "original_questions_unchanged": true,
     "original_pdf_preservation_required": true,
-    "integrated_pdf_ci": "PENDING",
-    "downloaded_artifact_qa": "PENDING",
+    "integrated_pdf_ci": "SUCCESS renderer run 41170331687; 33 pages; SHA256 384d1aafa1d795d15765c96bc0ab5510d192d3d81286683e07c1ef87c9ab915d",
+    "downloaded_artifact_qa": "project-control/academic-readiness/4-2-1-cycle127-actual-downloaded-artifact-qa-2026-10-31.json",
     "external_expert_review": false,
     "independent_approvals": 0,
-    "R9": "NOT_STARTED"
+    "R9": "NOT_STARTED",
+    "packaging_run_id": 41170353662,
+    "artifact_id": 13030608109,
+    "downloaded_artifact_sha256": "0b3ceb06d3cd6a980f1cfed81c64838012996eabd54c3626eb082a627b8f55e4"
   }
 }
