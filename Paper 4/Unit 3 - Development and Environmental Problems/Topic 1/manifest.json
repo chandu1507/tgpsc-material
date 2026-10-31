@@ -14,8 +14,8 @@
   "manuscript_words": 11207,
   "files": {
     "index.html": {
-      "sha256": "35521898ac65c2520a45357ceccc0f1d16b2f872f14614316ce580b71b3eb6da",
-      "bytes": 105376
+      "sha256": "922ea57c6c2a8961a4bfcb170809fa1ce61cdf66eb537b9c5caff46564d6ec49",
+      "bytes": 113017
     },
     "complete-notes.pdf": {
       "sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
@@ -42,8 +42,8 @@
       "bytes": 5154
     },
     "source/complete-notes.md": {
-      "sha256": "f308382f8d1e2930450db624b6b1e4a95bbcba02a02aecd8914aaede6835be0d",
-      "bytes": 94739
+      "sha256": "49dd02d061525c9b6420a01c3ba0fe1864afda2914cb11a168365feb2b3b5b76",
+      "bytes": 101732
     },
     "source/answer-blueprints.md": {
       "sha256": "5545471e493dc3b19741a20e63d8ae6e35cfb33d224e71ad69f6969cf2c33617",
@@ -78,16 +78,16 @@
       "bytes": 834
     },
     "source/sources-and-audit.md": {
-      "sha256": "b5daa8cbce687b32ce88558bc8dcdb2e60856b5eb7bf90f950b5222c9cb1bad6",
-      "bytes": 10532
+      "sha256": "126ebe32cc9378c9f9f81cbd74e04450a96b4b841d47b5bb4818a1651e56291d",
+      "bytes": 17525
     },
     "QA-REPORT.md": {
-      "sha256": "d5f9ac3e51b89500458ac0f1d132efec8fddbc35e5115e3d5eb0f68f4a9c6e8e",
+      "sha256": "f6c13e971b6335558bd743ae12e3988d7231746c97fad0e9e3586ffd4ec2ba90",
       "bytes": 930
     },
     "source/integrated-student-edition-cycle45.pdf": {
-      "sha256": "e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f",
-      "bytes": 478770
+      "sha256": "ff24534a163d37a40ab39271ac10620dd7a9605042249c6c0d2ab61ba81a50f7",
+      "bytes": 483998
     },
     "visuals/cumulative-load-laboratory.svg": {
       "sha256": "99cf46caa29f54f0111b6f4016308b00a2186fbe122f51db3bc55f9013687eac",
@@ -104,7 +104,7 @@
     "Commission Notification 02/2024 full line-by-line audit pending",
     "Individual legal amendments/court orders need ongoing update"
   ],
-  "integrated_pdf_pages": 28,
-  "integrated_pdf_sha256": "e8b4924b3fd7251be566ff316ed417dcf1ddd705ffe398b28c64cafd4190644f",
+  "integrated_pdf_pages": 29,
+  "integrated_pdf_sha256": "ff24534a163d37a40ab39271ac10620dd7a9605042249c6c0d2ab61ba81a50f7",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending"
 }
