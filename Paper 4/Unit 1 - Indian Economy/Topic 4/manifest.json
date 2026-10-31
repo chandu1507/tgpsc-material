@@ -5,13 +5,13 @@
   "topic": 4,
   "title": "Public Finance",
   "academic_status": "not_approved",
-  "production_status": "cycle38_CI_integrated_pdf_and_offline_html; browser accessibility pending",
-  "source_syllabus_status": "corroborated_secondary_original_notification_pdf_not_authenticated",
-  "date": "2026-10-27",
+  "production_status": "cycle125_CI_integrated_pdf_and_offline_html; browser accessibility pending",
+  "source_syllabus_status": "original_commission_notification_02_2024_p31_directly_verified",
+  "date": "2026-10-31",
   "original_mcqs": 25,
   "original_mains": 6,
   "verified_official_pyqs": 0,
-  "word_count": 12067,
+  "word_count": 12074,
   "files": {
     "README.md": {
       "sha256": "9c44f6930fbc31f1a14db351b426b0b267e0f10727ec15d0cef1528151a6bc1f",
@@ -22,24 +22,24 @@
       "bytes": 269102
     },
     "index.html": {
-      "sha256": "61bc8ace3144459ef1ed0a29305af8f57fbadef3a02bcdce121cc50f1da9d397",
-      "bytes": 112488
+      "sha256": "c32f2f3add3023617f929873931364425c158165e9ec7be7eb58755d11d5969f",
+      "bytes": 112538
     },
     "source/answer-blueprints.md": {
       "sha256": "ffe26bcd63994c8e4406d04021316b0293d08d0e15470b213efb49d155086554",
       "bytes": 1671
     },
     "source/complete-notes.md": {
-      "sha256": "c6183e4850e1768554ed23a88c14d47e6a56707150ba20d5302064d27a583b11",
-      "bytes": 89234
+      "sha256": "5b9f0f53579fce4d9b854a427bb47a1a2e74f1ef8821bc63e6154009816075d6",
+      "bytes": 89284
     },
     "source/detailed-notes.md": {
       "sha256": "5f5d21ae5d847a8b4778d5348b30f64ebd24555c8b9fc5cda81e5b64b2445420",
       "bytes": 42870
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "b62fb6fdaf2931a8d56fa9c79cd8790fc71e4151d6eb35075b11498babf3b2a7",
-      "bytes": 303831
+      "sha256": "8b3ccc809833814655ab1ac2322b043d9485831cb909d855330ccfd9b0f2c9d1",
+      "bytes": 303865
     },
     "source/mains-model-answers.md": {
       "sha256": "5533214afaca24da4e44159621606030b64166b2874eb7894f9f6d39283e5ada",
@@ -54,8 +54,8 @@
       "bytes": 4274
     },
     "source/sources-and-audit.md": {
-      "sha256": "31192d7ff6c0c616527d713131da904172d5d2ccc56424ee87363447b3f8c4bf",
-      "bytes": 7276
+      "sha256": "d73d2b1f392e109cb4efc06bc617e8ac3ec7116c3dd4acdb0f87477d3dc5bd61",
+      "bytes": 7326
     },
     "source/syllabus-and-summary.md": {
       "sha256": "e10c3a4051b2a404b550a0dc70ffb9b4e53fd8ff433a2519a37ca621c74d45f6",
