@@ -3,7 +3,7 @@ import hashlib, json, re, html
 from bs4 import BeautifulSoup
 import mistune, fitz
 
-root = Path('Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 2')
+root = Path('Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 3')
 src = root / 'source'
 master = src / 'integrated-editable-master-cycle139.md'
 audit = src / 'cycle139-four-concept-ten-mcq-primary-source-audit.md'
