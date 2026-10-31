@@ -654,10 +654,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle55_ci_render_and_actual_downloaded_artifact_integrity_pass_academic_audit_pending",
-      "notes": "Cycle55 corrected editable master, three source components, deterministic 27-page integrated PDF and offline HTML synchronized on GitHub; actual downloaded packaging artifact 12796015365 SHA256 747e03d2dbf07d5de172852c47c6589cb455dab05d29f159f41b0ccdaffd9c23: CRC PASS, 1698 files, 75 original PDF hashes unchanged, 75 readiness JSON, 78 HTML, 437 file links and 1137 fragments zero broken. Five bounded key checks only; 25 keys and 90 distractors, mains claims, diagrams, syllabus and browser QA pending. ZERO academic approvals.",
+      "production_review": "cycle143_ten_option_audits_ci_pdf_and_actual_downloaded_archive_qa_pass_academic_rebuild_required",
+      "notes": "Cycle143 1 Nov: 10 original MCQs Q1/2/3/6/9/10/12/19/22/24 received 10 author-side proposed-key and 30 distractor source-correlated reviews (CBD/NHGRI/NIH/FAO/USDA/EPA). 20 keys/60 distractors remain; earlier five key-only checks do not count as four-option reviews. CI run 41241353661 SUCCESS, synchronized 29-page PDF SHA256 15898bdafd96ca8af0cd6c681bf4d54cd183cc18b1481a95f21c5f4f51f5ad7c. Packaging run 41241393422 SUCCESS, artifact 13057202704 ACTUALLY DOWNLOADED, SHA/digest b8890a1815a75c811bc5398067950637dad9fc2a8d1aee2ae0d4545372574d80 MATCH, outer/inner CRC PASS, 2169 files, exactly 75 original PDFs unchanged vs Cycle142, 75 readiness JSON, 92 HTML, 591 local links/1581 fragments zero broken, 43 SPA hash routes excluded, 19/19 topic manifest hashes PASS. Four PDF pages sampled; full browser accessibility NOT certified. Six mains claim audits, three diagrams, direct syllabus reauthentication and named expert review remain; ZERO R1-R8 ready and ZERO approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
-      "readiness_gate_file": "project-control/academic-readiness/5-2-2.json"
+      "readiness_gate_file": "project-control/academic-readiness/5-2-2.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/5-2-2-cycle143-actual-downloaded-post-render-artifact-qa-2026-11-01.json"
     },
     {
       "id": "5-2-3",
