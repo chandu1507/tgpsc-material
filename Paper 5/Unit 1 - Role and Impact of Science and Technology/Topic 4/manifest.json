@@ -30,9 +30,9 @@
     "diagrams/01-space-to-action.png": "c561fff288bcc54caff83482fc112c58ed39ab6ee27db8fa3f54205cafd56afe",
     "diagrams/02-flood-risk-workflow.png": "b5e82231ad926918a333a8f35b023f0698ec4cb8d71bbd6e97eb0e19d8f0e0e1",
     "diagrams/03-tsunami-warning-chain.png": "2fc9d904f2e907603d35a08dfb661e659c89f7b1ea9136a5a569bd37b50567a6",
-    "index.html": "0d602de61c6e667076dbfb32730daa258bb1cc873d2ead0173181d6a59af8501",
+    "index.html": "7dd6f437db0fe4f859b843966097153710d8cfd6484925bdde7591dfa9535f74",
     "source/answer-blueprints.md": "9ccfcf3ebaec12c65276957f728b06dfc44b8c1c01d4c9cc38d6048ca2ede44e",
-    "source/complete-notes.md": "b5bb7b81e6219d4835f5b704c7cf3d0748e0926c9e2dcd79aa839a50b73ed062",
+    "source/complete-notes.md": "397a9e6717c77b4b69868bf643e81d0bddb8c6a1c320415f81ce46928991fa83",
     "source/core.md": "77d7aab3f987c44246e0d014fcd9192bf514891dcfae96a5e2784a839bf8a568",
     "source/mains-model-answers.md": "b06d362be4bc06841366c010bbb9fa4a2c33e56a96e86a26a868dd4963fe7370",
     "source/original-mcqs.md": "0bcacabacd7f5d92955903772a2aef35264281f17dc79622b96ea0f1e50e549c",
@@ -41,12 +41,13 @@
     "source/syllabus-and-summary.md": "38b717420a431bb6264d7aee5fad763377deb3d521bfd16ed7a5cc3d0ab77195",
     "source/verified-pyqs.md": "4950e2d783205fd5a0b487e253d32b21a8bca82ad976575ba58645c4d20d7c2e",
     "source/visual-learning.md": "ea2929013b15b455b6b876b4d1d73366e24711e17b7aede2d0bab4ed5482cda7",
-    "QA-REPORT.md": "1f452709374ce4541cf79b0acbc9bf3b07466ff95d06665a9a8c7af32f9a40e2",
-    "source/integrated-student-edition-cycle52.pdf": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41"
+    "QA-REPORT.md": "21d65dcdc5a0250e4f12389179bf2190392e45c411f2defa89c4023582dc5cdd",
+    "source/integrated-student-edition-cycle52.pdf": "924411edfbd6dfb3974336ccac504a802560490d9bb3f4e27ca234e7b01e7c6c",
+    "source/cycle140-ten-mcq-option-audit.md": "0f3253732d94bf1b42bbc10faeab7fd40d12f98c7650eb265068b2e6e0afd510"
   },
   "official_syllabus_reauthenticated_cycle52": false,
   "syllabus_source_limitation": "Commission PDF direct retrieval returned HTTP 403; R1 IN_PROGRESS",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
-  "integrated_pdf_pages": 26,
-  "integrated_pdf_sha256": "21312b5c5a8f235ac1252277273160a762621b19b42577b25ffa8de709f8cf41"
+  "integrated_pdf_pages": 29,
+  "integrated_pdf_sha256": "924411edfbd6dfb3974336ccac504a802560490d9bb3f4e27ca234e7b01e7c6c"
 }
