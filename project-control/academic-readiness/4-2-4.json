@@ -1,7 +1,7 @@
 {
   "topic_id": "4-2-4",
   "title": "Agriculture and Allied Sectors: Crops, Irrigation, Credit and Producer Institutions",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -24,10 +24,10 @@
     "R5": "IN_PROGRESS",
     "R6": "IN_PROGRESS",
     "R7": "BLOCKED",
-    "R8": "BLOCKED"
+    "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle42 first direct source and PDF assessment: 17 concepts (384–457 words), 30 practice MCQs A8/B21/C1/D0, six mains body-only 223/246/228/227/235/230 words, three diagrams, original 28-page PDF SHA256 92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147 preserved. Q4 arithmetic, indexed official Telangana SEO 2024 Q6 and PRS 2026-27 budget Q25 received bounded checks; not all 30 keys or 120 distractors. No original 2024 syllabus direct retrieval, integrated edition, browser or expert certification.",
-  "next_action": "Rework distractors (B21, D0), independently verify all 30 keys/120 alternatives and six mains claims, inspect original diagrams, authenticate original Commission 2024 syllabus, publish synchronized editable master and CI PDF, download post-edit artifact and test accessibility.",
+  "evidence": "Cycle42 first direct source and PDF assessment: 17 concepts (384–457 words), 30 practice MCQs A8/B21/C1/D0, six mains body-only 223/246/228/227/235/230 words, three diagrams, original 28-page PDF SHA256 92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147 preserved. Q4 arithmetic, indexed official Telangana SEO 2024 Q6 and PRS 2026-27 budget Q25 received bounded checks; not all 30 keys or 120 distractors. No original 2024 syllabus direct retrieval, integrated edition, browser or expert certification. Cycle130 10 existing original practice MCQs (Q1–Q5, Q8–Q9, Q13, Q21, Q23) checked with seven primary-issuer source records and 40 option rationales. CI 33-page PDF SHA256 2643d2e27b38d749cbba72fa457b8c85bf6130c40e9ef5a79fef8cd78188a1d6; downloaded GitHub artifact 13035288474 digest/CRC/75 original PDFs/75 readiness/567 links/1162 fragments/16 manifest hashes PASS. Not independent academic approval.",
+  "next_action": "Audit remaining 20 keys/60 distractors, six mains claims and three diagrams; complete direct state 2026 data/2024 syllabus authentication and full browser accessibility; independent expert review. R9 not started.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "92c37ac4439e3b3d65cfe246abf9c3aa2644dcd735a6d9148254a0b8a50c0147",
@@ -117,5 +117,20 @@
       "fully_ready": 0,
       "approved": 0
     }
+  },
+  "cycle130": {
+    "cycle": 130,
+    "date": "2026-10-31",
+    "keys_author_audited": 10,
+    "distractors_author_audited": 30,
+    "keys_pending": 20,
+    "distractors_pending": 60,
+    "integrated_pdf_pages": 33,
+    "integrated_pdf_sha256": "2643d2e27b38d749cbba72fa457b8c85bf6130c40e9ef5a79fef8cd78188a1d6",
+    "original_pdf_preserved": true,
+    "artifact_id": 13035288474,
+    "artifact_downloaded_and_qa_verified": true,
+    "independent_approvals": 0,
+    "fully_R1_R8_ready": false
   }
 }

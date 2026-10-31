@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-2-3",
+    "last_reported_topic": "4-2-4",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle129 4-2-3: 10 keys/30 distractors author-side source-audited; 35-page CI PDF SHA f743e161...; ACTUAL downloaded artifact 13033368655 SHA/CRC/75 originals/563 links/1182 fragments/18 manifest hashes PASS. 20 keys/60 distractors, six mains, diagrams, R1, browser and independent expert pending. Zero approvals."
+    "note": "Cycle130 Topic 4-2-4: 10 existing original MCQ keys and 30 distractors bounded author-side checked against seven primary-issuer source entries; synchronized 33-page CI PDF SHA 2643d2e27b38d749cbba72fa457b8c85bf6130c40e9ef5a79fef8cd78188a1d6; actual downloaded packaging artifact 13035288474 outer/inner CRC, digest, 75 original PDFs, 75 readiness JSON, offline links and 16/16 manifest hashes PASS. 20 keys/60 distractors, six mains claims, diagrams, browser and expert remain. ZERO approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -487,8 +487,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle42_first_bounded_assessment_rebuild_required",
-      "notes": "Original 28-page PDF preserved; 17 concepts all >300 words, 30 original MCQs with B21/D0 skew, six 200+ word mains, 3 diagrams. Q4/Q6/Q25 bounded checks only; no full academic review or integrated PDF.",
+      "production_review": "cycle130_10_original_mcq_option_audits_33_page_ci_pdf_downloaded_artifact_qa_verified_rebuild_pending",
+      "notes": "Original 28-page PDF preserved; 17 concepts all >300 words, 30 original MCQs with B21/D0 skew, six 200+ word mains, 3 diagrams. Q4/Q6/Q25 bounded checks only; no full academic review or integrated PDF. Cycle130: Q1–Q5,Q8–Q9,Q13,Q21,Q23 bounded primary-source key/distractor checks; 10/30 keys and 30/90 distractors checked, 20 keys/60 distractors pending. 33-page integrated PDF verified in actual downloaded artifact; six mains claims, diagrams, browser, independent reviewer pending. NOT APPROVED.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-2-4.json",
       "latest_readiness_evidence": "project-control/academic-readiness/4-2-4-cycle42-first-direct-source-and-objective-assessment-2026-10-27.json"

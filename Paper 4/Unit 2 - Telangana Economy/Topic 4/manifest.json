@@ -10,15 +10,15 @@
   "original_mcqs": 30,
   "original_mains_models": 6,
   "mains_model_word_counts": [
-    202,
-    224,
-    208,
-    207,
-    216,
-    210
+    223,
+    246,
+    228,
+    227,
+    235,
+    230
   ],
   "visuals": 3,
-  "source_entries": 23,
+  "source_entries": 30,
   "official_pyqs_verified": 0,
   "academic_status": "not_approved",
   "date": "2026-10-31",
@@ -48,5 +48,8 @@
   },
   "source_audit": "bounded_author_side_cycle130_10_of_30_option_audits_not_independent",
   "integrated_pdf_pages": 33,
-  "integrated_pdf_sha256": "2643d2e27b38d749cbba72fa457b8c85bf6130c40e9ef5a79fef8cd78188a1d6"
+  "integrated_pdf_sha256": "2643d2e27b38d749cbba72fa457b8c85bf6130c40e9ef5a79fef8cd78188a1d6",
+  "cycle130_author_audited_mcq_keys": 10,
+  "cycle130_author_audited_distractors": 30,
+  "cycle130_full_independent_academic_approval": false
 }

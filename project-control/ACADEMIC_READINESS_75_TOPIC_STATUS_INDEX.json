@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Exactly 75 original topics; 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; 14 normalized R1 PASS; ZERO fully R1–R8 ready and ZERO independent approvals. Cycle127 4-2-1 bounded MCQ author-side review and downloaded artifact QA do not confer academic approval.",
+  "warning": "Exactly 75 original topics; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS. Cycle130 publication integrity does not confer academic approval. ZERO R1-R8 ready, ZERO independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle129 4-2-3: 10 keys/30 distractors bounded author-side audited; 35-page CI PDF, actual downloaded artifact 13033368655 CRC/SHA/75 original PDFs/563 links/1182 fragments PASS. 7/68/0, 14 R1 PASS, zero fully ready and approved.",
+  "last_readiness_update": "Cycle130 Topic 4-2-4: 10 keys/30 distractors author-side primary-source checks, 33-page synchronized PDF, actual artifact 13035288474 CRC/SHA/75 original PDFs/567 local links/1162 fragments/16 manifest hashes PASS. 7/68/0; 14 R1 PASS; ZERO fully ready or approved.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
