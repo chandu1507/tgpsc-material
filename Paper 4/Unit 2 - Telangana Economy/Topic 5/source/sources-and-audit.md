@@ -40,7 +40,7 @@
 8. **Official PYQs:** Zero claimed. No source paper/question-number provenance established.
 9. **Academic approval:** Zero; subject expert, legal currency and independent statistical audit remain pending.
 
-10. **Cycle43 bounded checks:** Q4/Q5 against official Udyam current thresholds; Q12 against NITI 2025 GVA report; Q13 against NITI 2025 employment report; Q19 against the state life-sciences policy. All four alternatives for each of these five items were reviewed by the author against the indicated figures/periods; this is NOT an independent 30-key/120-distractor R5 audit.
+10. **Cycle43 bounded checks:** Q4/Q5 against official Udyam current thresholds; Q12 against NITI 2025 GVA report; Q13 against NITI 2025 employment report; Q19 against the state life-sciences policy. All four alternatives for each of these five items were reviewed by the author against the indicated figures/periods; this is NOT an independent 30-key/90-distractor R5 audit.
 11. **Structural proxy:** The approximately 3.11 relative services/non-services output-share-per-worker-share calculation uses rounded 2023–24 values from two separate NITI reports. It is an explanatory ratio, not a direct measured wage, causal effect, or comprehensive labour productivity series.
 12. **Unresolved:** Original Notification 02/2024 not directly authenticated in this cycle; no complete independent review of all 30 MCQs, all six mains claims, original diagrams or offline browser accessibility. No independent academic approval.
 
