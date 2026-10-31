@@ -1,13 +1,13 @@
-# Cycle55 CI render QA
+# Cycle143 CI render QA
 
 {
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "topic": "5-2-2",
-  "cycle": 55,
+  "cycle": 143,
   "original_pdf_sha256": "fb8424ad637d2513697ebe88b33a92d87489849e0d40cde9c972a5b50b128c38",
   "original_preserved": true,
-  "integrated_pdf_sha256": "2b5efea32f730816ae6d3db43cd1ece84e784368976e834db44e34839516237d",
-  "integrated_pdf_pages": 27,
+  "integrated_pdf_sha256": "15898bdafd96ca8af0cd6c681bf4d54cd183cc18b1481a95f21c5f4f51f5ad7c",
+  "integrated_pdf_pages": 29,
   "pdf_images": 3,
   "blank_pages": [],
   "text_boundary_violations": [],
@@ -35,7 +35,7 @@
   "html_fragment_links_checked": 0,
   "broken_fragments": [],
   "spa_routes_excluded": 0,
-  "source_checks": "five bounded official correct-key correspondences (Q7, Q11, Q17, Q26, Q27); remaining 25 keys and all distractors unverified",
+  "source_checks": "10 new author-side four-option source-correlated audits Q1/2/3/6/9/10/12/19/22/24; 20 keys and 60 distractors not yet audited at this level. Earlier five limited correct-key correspondences Q7/11/17/26/27 do not count as complete option reviews",
   "independent_academic_approvals": 0,
   "R8": "BLOCKED_NOT_PASS",
   "actual_downloaded_post_edit_artifact_qa": false,

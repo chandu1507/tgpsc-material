@@ -31,22 +31,24 @@
     }
   },
   "files": {
-    "README.md": "dee49609510d2d84cb1842cc26e16ea4ae2caa645a2c01144069ed251620e5dc",
-    "QA-REPORT.md": "d38c3f49cc97d203b7cdd514db5ed990219498907f5ffd64c5573cd302c78ce9",
+    "QA-REPORT.md": "5fdb3e53f1ec0f1a4196c22d0f69f4f7af8212f7175a41f8985f79100567b7d9",
+    "README.md": "770ac2360b615571a85c93be77bf8390aacbf1b212969c2ba2ee1f61d228d21b",
+    "index.html": "989b620c63faaeb0e5c4a0ba15b75b189b95c15608720ddf5eefe04a094650ad",
     "complete-notes.pdf": "fb8424ad637d2513697ebe88b33a92d87489849e0d40cde9c972a5b50b128c38",
-    "index.html": "42c340a2122b23de908789bd75182aa76d8169cef3348bb19ca8db4207bda7b2",
     "diagrams/02-geac-biosafety.png": "9a09d81340fa45019a90c7f24a96512ee2193418e643232c10ec4b9ab688b2e3",
     "diagrams/03-remediation-pathways.png": "8ff92096f48ef551daa195f91a6b4c1af849e995d2844159cada237ea9c3a49f",
     "diagrams/01-evidence-chain.png": "8cf0f206065f4cb6a10a99a045dcb1a1b211af5c8c5fc43a3678cc7c469d9695",
     "source/syllabus-and-summary.md": "4fc8390d1b84cbbf5fc21bfad3e7ad258a11c107fca8cff7578286de2cb39d1d",
-    "source/complete-notes.md": "1536d8a046d3c77a739f304502a0445059f605d343ddfa761eeae1528345093e",
-    "source/verified-pyqs.md": "1d0ae75bd2ddbef3b55404320344670a903581e0af0dcf41c72a38a380d8ac36",
     "source/integrated-student-edition-cycle55.pdf": "2b5efea32f730816ae6d3db43cd1ece84e784368976e834db44e34839516237d",
-    "source/visual-learning.md": "8c411962ca8ca1aed6b6294ce0421932afdd8d9ebb4318edd3e1e8e8b76d746f",
     "source/answer-blueprints.md": "911ab7cffd92f4b1cc7107369b767ae17069fc6355ea2519f194b7304f6270b5",
-    "source/mains-model-answers.md": "7d75aa241bef5e1104c92f792189cd1f54e9b605f17d606941966d0d7609b6d9",
-    "source/core.md": "607eb11d60432c7cf8b1430b91d101ce84480027f8f4828a9c316076b196849b",
     "source/sources-and-audit.md": "6661845bd7bb3c47699971923128a09265871a71472d6931615ef45cd66ef01f",
+    "source/mains-model-answers.md": "7d75aa241bef5e1104c92f792189cd1f54e9b605f17d606941966d0d7609b6d9",
+    "source/academic-option-audit-cycle143.md": "92b870b4d64e92c26724f98f7c74c016186a4138d9eb2b6024a5575b50989bde",
+    "source/integrated-student-edition-cycle143.pdf": "15898bdafd96ca8af0cd6c681bf4d54cd183cc18b1481a95f21c5f4f51f5ad7c",
+    "source/visual-learning.md": "8c411962ca8ca1aed6b6294ce0421932afdd8d9ebb4318edd3e1e8e8b76d746f",
+    "source/core.md": "607eb11d60432c7cf8b1430b91d101ce84480027f8f4828a9c316076b196849b",
+    "source/verified-pyqs.md": "1d0ae75bd2ddbef3b55404320344670a903581e0af0dcf41c72a38a380d8ac36",
+    "source/complete-notes.md": "d189345f7d713b7c26969f74ea26a42d05df20f211c3aea95c5d06badc3ab550",
     "source/original-mcqs.md": "775cfe584cdc093e8b476097ad2ec87ddfcc1f94802ce4690da46a2322d2b7bc"
   },
   "verification": {
@@ -57,6 +59,6 @@
   },
   "syllabus_source_limitation": "Inherited direct 2024 syllabus assertion not reauthenticated this cycle; R1 IN_PROGRESS",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
-  "integrated_pdf_pages": 27,
-  "integrated_pdf_sha256": "2b5efea32f730816ae6d3db43cd1ece84e784368976e834db44e34839516237d"
+  "integrated_pdf_pages": 29,
+  "integrated_pdf_sha256": "15898bdafd96ca8af0cd6c681bf4d54cd183cc18b1481a95f21c5f4f51f5ad7c"
 }
