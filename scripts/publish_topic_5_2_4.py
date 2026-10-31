@@ -13,9 +13,12 @@ assert len({t["id"] for t in cp["topics"]}) == 75
 assert len(ix["paths"]) == len(set(ix["paths"])) == 75
 assert len(list(Path("project-control/academic-readiness").glob("[2-6]-[1-3]-[1-5].json"))) == 75
 counts = {s: sum(t["readiness_status"] == s for t in cp["topics"]) for s in ("IN_PROGRESS","ASSESSED_REBUILD_REQUIRED","NOT_ASSESSED")}
-assert counts == {"IN_PROGRESS":7,"ASSESSED_REBUILD_REQUIRED":39,"NOT_ASSESSED":29}, counts
+assert sum(counts.values()) == 75, counts
+assert set(ix["pilot_in_progress"]) == {t["id"] for t in cp["topics"] if t["readiness_status"] == "IN_PROGRESS"}
+assert counts["IN_PROGRESS"] == len(ix["pilot_in_progress"]), counts
 assert set(ix["assessed_rebuild_required"]) == {t["id"] for t in cp["topics"] if t["readiness_status"] == "ASSESSED_REBUILD_REQUIRED"}
-assert len(ix["assessed_rebuild_required"]) == 39 and ix["not_assessed_count"] == 29
+assert len(ix["assessed_rebuild_required"]) == counts["ASSESSED_REBUILD_REQUIRED"], counts
+assert ix["not_assessed_count"] == counts["NOT_ASSESSED"], counts
 assert cp["academically_approved"] == ix["independently_academically_approved_count"] == 0
 assert all((Path(t["path"])/"complete-notes.pdf").is_file() for t in cp["topics"])
 original = hashlib.sha256((root/"complete-notes.pdf").read_bytes()).hexdigest()
@@ -92,17 +95,17 @@ for tag in soup.find_all(["a","img","script","link"]):
 assert not bad_files and not bad_fragments, (bad_files,bad_fragments)
 
 pdf_sha=hashlib.sha256(pdf.read_bytes()).hexdigest()
-qa={"date":"2026-10-28","topic":"5-2-4","cycle":57,"original_pdf_sha256":original,"original_preserved":True,
+qa={"date":"2026-11-01","topic":"5-2-4","cycle":145,"original_pdf_sha256":original,"original_preserved":True,
     "integrated_pdf_sha256":pdf_sha,"integrated_pdf_pages":len(doc),"pdf_images":images,"blank_pages":blank,
     "text_boundary_violations":boundary,"concept_count":len(concepts),"min_concept_words":min(concept_words),
     "original_mcqs":30,"correct_answers":distribution,"distractors":90,"mains_body_only_counts":body_counts,"mains_count_method":"regex word tokens after removing italic model-answer metadata and bold subheading labels; hyphenated tokens may differ from whitespace count",
     "html_file_links_checked":file_links,"broken_files":bad_files,"html_fragment_links_checked":fragment_links,
     "broken_fragments":bad_fragments,"spa_routes_excluded":spa_routes,
-    "source_checks":"seven bounded correct-key proposition checks (Q1, Q5, Q6, Q12, Q15, Q24, Q26); remaining 23 keys and all distractors unverified",
+    "source_checks":"Cycle145 ten source-correlated four-option author reviews (10 keys/30 distractors); 20 keys/60 distractors still without equivalent review; Q27 ambiguous; seven earlier limited key checks not counted as full option audits",
     "independent_academic_approvals":0,"R8":"BLOCKED_NOT_PASS",
     "actual_downloaded_post_edit_artifact_qa":False,"browser_accessibility_certified":False}
 (root/"QA-REPORT.md").write_text("# Cycle57 CI render QA\n\n"+json.dumps(qa,indent=2)+"\n")
-(root/"README.md").write_text("# Paper V / Unit II / Topic 3 — Food Biotechnology, Food Safety, Organic Farming, Mechanisation and Safe Drinking Water\n\nOriginal 22-page PDF preserved (SHA256 "+original+").\nCycle57 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nSeven bounded correct-key proposition correspondences only; no full independent MCQ, mains, diagram, syllabus or browser audit.\nZero academic approvals. No official PYQs authenticated.\n")
+(root/"README.md").write_text("# Paper V / Unit II / Topic 4 — Microbial Infections: Pathogens, Disease Patterns and Outbreak Prevention\n\nOriginal 22-page PDF preserved (SHA256 "+original+").\nCycle57 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nCycle145 ten author-side four-option MCQ reviews; Q27 ambiguous and 20 keys/60 distractors remain. No full independent MCQ, mains, diagram, syllabus or browser audit.\nZero academic approvals. No official PYQs authenticated.\n")
 manifest=json.loads((root/"manifest.json").read_text())
 manifest["academic_status"]="not_approved"
 manifest["official_syllabus_authenticated"]=False
@@ -113,7 +116,7 @@ manifest["integrated_pdf_sha256"]=pdf_sha
 manifest.setdefault("metrics",{})["mains_answer_word_counts"]=body_counts
 manifest["metrics"]["mains_count_method"]="body-only, excluding question and subheading labels"
 manifest["metrics"]["concepts_below_300"]=0
-manifest["metrics"]["source_register"]=23
+manifest["metrics"]["source_register"]=35
 manifest["metrics"]["correct_answer_distribution"]=distribution
 files={}
 for f in root.rglob("*"):
