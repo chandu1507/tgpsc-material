@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle129 4-2-3: 10/30 original MCQ keys and 30/90 distractors author-side primary-text compared; 20 keys/60 distractors, six mains, diagrams and browser QA pending. 7/68/0, 14 normalized R1 PASS, zero fully ready/approved.",
+  "last_readiness_update": "Cycle129 4-2-3: 10 keys/30 distractors bounded author-side audited; 35-page CI PDF, actual downloaded artifact 13033368655 CRC/SHA/75 original PDFs/563 links/1182 fragments PASS. 7/68/0, 14 R1 PASS, zero fully ready and approved.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/4-2-3-cycle129-actual-downloaded-artifact-qa-2026-10-31.json",
     "project-control/academic-readiness/4-2-3-cycle129-ten-mcq-primary-option-audit-2026-10-31.json",
     "project-control/academic-readiness/4-2-2-cycle128-actual-downloaded-artifact-qa-2026-10-31.json",
     "project-control/academic-readiness/4-2-1-cycle127-actual-downloaded-artifact-qa-2026-10-31.json",
