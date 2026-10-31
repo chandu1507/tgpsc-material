@@ -1,6 +1,6 @@
 # Authoritative Sources and Audit — Industry and Service Sectors
 
-**Audit cut-off:** 27 October 2026 (Cycle43 bounded update; inherited material has earlier source dates). This is an internally checked expanded draft, not an independent academic certification. All URLs are primary institutional sources unless specifically marked as secondary syllabus corroboration. The links are supplied for verification, not as a substitute for a subject-expert review. No source page-number citations are used in the student-facing notes.
+**Audit cut-off:** 31 October 2026 (Cycle131 ten-question option audit, building on Cycle43; inherited material has earlier source dates). This is an internally checked expanded draft, not an independent academic certification. All URLs are primary institutional sources unless specifically marked as secondary syllabus corroboration. The links are supplied for verification, not as a substitute for a subject-expert review. No source page-number citations are used in the student-facing notes.
 
 | ID | Source and date/period | URL | Used for / caution |
 |---|---|---|---|
@@ -42,4 +42,17 @@
 
 10. **Cycle43 bounded checks:** Q4/Q5 against official Udyam current thresholds; Q12 against NITI 2025 GVA report; Q13 against NITI 2025 employment report; Q19 against the state life-sciences policy. All four alternatives for each of these five items were reviewed by the author against the indicated figures/periods; this is NOT an independent 30-key/120-distractor R5 audit.
 11. **Structural proxy:** The approximately 3.11 relative services/non-services output-share-per-worker-share calculation uses rounded 2023–24 values from two separate NITI reports. It is an explanatory ratio, not a direct measured wage, causal effect, or comprehensive labour productivity series.
-12. **Unresolved:** Original Notification 02/2024 not directly authenticated in this cycle; no complete independent review of 30 MCQs, all six mains claims, original diagrams or offline browser accessibility. No independent academic approval.
+12. **Unresolved:** Original Notification 02/2024 not directly authenticated in this cycle; no complete independent review of all 30 MCQs, all six mains claims, original diagrams or offline browser accessibility. No independent academic approval.
+
+## Cycle131 source additions and audit boundaries — 31 October 2026
+
+| ID | Directly inspected institutional source | URL | Questions and limits |
+|---|---|---|---|
+| S24 | Indian Economic Service, *GVA at basic prices and GVA at factor costs* (methodological explainer) | https://ies.gov.in/index.php/arthapedia/concept/gross-value-added-gva-basic-prices-and-gva-factor-costs | Q1–Q3; direct GVA/GDP identity; sector and constant-price implications are author reasoning, not quoted claims. |
+| S25 | TG-iPASS official portal, *About the Act* (2014 Act overview, accessed 31 Oct 2026) | https://ipass.telangana.gov.in/about.aspx/1000 | Q6–Q7; portal says clearance timelines vary 1–30 days; detailed deemed-approval applicability still requires official Gazette/notification review. |
+| S26 | TG-iPASS official incentives procedure checklist (historical orders) | https://ipass.telangana.gov.in/UI/TSiPASS/IncentivesProcedureChecklist.aspx | Q8; T-IDEA historical operational period 1 Jan 2015–31 Mar 2019. **Do not present that period as a current 2026 entitlement.** |
+| S27 | Telangana Industrial Health Clinic Limited, official services | https://tihcl.telangana.gov.in/services.php | Q9–Q10; stressed micro/small manufacturing, diagnosis and potentially viable unit revival; outcomes not independently measured. |
+| S28 | Ministry of MSME, *Delayed Payments to Micro and Small Enterprises* guidance | https://ramp.msme.gov.in/ramp/pdf-documents/scheme-guidelines/msefc.pdf | Q22; applies to qualifying MSEs, not automatically every medium enterprise or all traders; the MCQ's economic proposition is wider than statutory eligibility. |
+
+**Audit result:** 10 additional existing keys and 30 distractors reviewed with four distinct option explanations each. Combined with the five earlier bounded Cycle43 checks, 15 of 30 questions have author-side option review; **15 keys and 45 distractors remain**. Q7's exact statutory deemed-approval category and current T-IDEA eligibility require further primary legal review. Six mains answers, three inherited diagrams, full browser accessibility and named independent academic review remain outstanding. All R1–R8 cannot be marked PASS; R9 NOT_STARTED; independent approvals ZERO.
+

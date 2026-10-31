@@ -1,0 +1,103 @@
+{
+  "cycle": 131,
+  "date": "2026-10-31",
+  "topic": "4-2-5",
+  "source_main_base": "900d4c0b10937ff0ad295f7aa2f7080ed31aa716",
+  "original_topic_count": 75,
+  "reviewed_existing_mcqs": [
+    {
+      "q": 1,
+      "key": "B",
+      "source": "S24",
+      "confidence": "national-accounts methodology / conceptual application",
+      "options_reviewed": 4
+    },
+    {
+      "q": 2,
+      "key": "C",
+      "source": "S24",
+      "confidence": "sector classification / logical implication",
+      "options_reviewed": 4
+    },
+    {
+      "q": 3,
+      "key": "A",
+      "source": "S24",
+      "confidence": "direct national-accounts accounting identity",
+      "options_reviewed": 4
+    },
+    {
+      "q": 6,
+      "key": "B",
+      "source": "S25",
+      "confidence": "direct Telangana single-window portal",
+      "options_reviewed": 4
+    },
+    {
+      "q": 7,
+      "key": "C",
+      "source": "S25",
+      "confidence": "official portal plus qualified statutory interpretation",
+      "options_reviewed": 4
+    },
+    {
+      "q": 8,
+      "key": "A",
+      "source": "S26",
+      "confidence": "direct Telangana government incentive listing",
+      "options_reviewed": 4
+    },
+    {
+      "q": 9,
+      "key": "B",
+      "source": "S27",
+      "confidence": "direct TIHCL service description",
+      "options_reviewed": 4
+    },
+    {
+      "q": 10,
+      "key": "A",
+      "source": "S27",
+      "confidence": "TIHCL viability criterion plus economic reasoning",
+      "options_reviewed": 4
+    },
+    {
+      "q": 18,
+      "key": "C",
+      "source": "S11",
+      "confidence": "direct official policy document",
+      "options_reviewed": 4
+    },
+    {
+      "q": 22,
+      "key": "B",
+      "source": "S28",
+      "confidence": "direct Union MSME delayed-payments guidance",
+      "options_reviewed": 4
+    }
+  ],
+  "additional_keys": 10,
+  "additional_distractors": 30,
+  "cumulative_bounded_keys": 15,
+  "cumulative_bounded_distractors": 45,
+  "remaining_keys": 15,
+  "remaining_distractors": 45,
+  "primary_sources": {
+    "S24": "https://ies.gov.in/index.php/arthapedia/concept/gross-value-added-gva-basic-prices-and-gva-factor-costs",
+    "S25": "https://ipass.telangana.gov.in/about.aspx/1000",
+    "S26": "https://ipass.telangana.gov.in/UI/TSiPASS/IncentivesProcedureChecklist.aspx",
+    "S27": "https://tihcl.telangana.gov.in/services.php",
+    "S28": "https://ramp.msme.gov.in/ramp/pdf-documents/scheme-guidelines/msefc.pdf",
+    "S11": "https://rich.telangana.gov.in/assets/pdfs/Resources/Telangana-State-2nd-ICT-Policy-2021.pdf"
+  },
+  "limitations": [
+    "author-side only; no named expert",
+    "Q7 exact deemed approval notification not fully reviewed",
+    "T-IDEA current eligibility not established",
+    "six mains claims, diagrams, full browser QA outstanding",
+    "not official PYQs"
+  ],
+  "R1_R8_all_pass": false,
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0
+}

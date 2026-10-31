@@ -1,7 +1,7 @@
 {
   "topic_id": "4-2-5",
   "title": "Industry and Service Sectors: Industrial Development, MSMEs, Services, Employment and ICT Policy",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle43 direct source assessment: 16 original concepts 314–455 words, 30 practice MCQs A9/B15/C6/D0, six 200+ body-word mains, original 25-page PDF preserved. Added one source-qualified worked laboratory and revised five MCQs; now 17 concepts, 30 MCQs A9/B12/C4/D5. Limited author-side checks using Udyam, two NITI reports and official state policy; NOT a full independent audit. Original 2024 syllabus, all 30 keys/120 distractors, six mains claims, diagrams and browser accessibility pending. Final actual post-fix downloaded GitHub artifact 12756469781: 1636 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 425 local links/1137 fragments zero broken, 16 manifest hashes PASS, CRC PASS, 29-page PDF with 3 diagrams; browser/accessibility NOT certified. R8 IN_PROGRESS, no academic approval.",
-  "next_action": "Complete independent 30-key/120-distractor review, six mains claims, three diagrams, original 2024 syllabus and direct browser/accessibility; R1-R8 not PASS, R9 zero.",
+  "evidence": "Cycle43 direct source assessment: 16 original concepts 314–455 words, 30 practice MCQs A9/B15/C6/D0, six 200+ body-word mains, original 25-page PDF preserved. Added one source-qualified worked laboratory and revised five MCQs; now 17 concepts, 30 MCQs A9/B12/C4/D5. Limited author-side checks using Udyam, two NITI reports and official state policy; NOT a full independent audit. Original 2024 syllabus, all 30 keys/90 distractors, six mains claims, diagrams and browser accessibility pending. Final actual post-fix downloaded GitHub artifact 12756469781: 1636 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 425 local links/1137 fragments zero broken, 16 manifest hashes PASS, CRC PASS, 29-page PDF with 3 diagrams; browser/accessibility NOT certified. R8 IN_PROGRESS, no academic approval. Cycle131: Q1-3, Q6-10, Q18, Q22 (10 keys/30 distractors) author-side option audit with 5 direct institutional source entries; 15/30 cumulative bounded, 15 keys/45 distractors pending; legal caveats, six mains, diagrams and browser pending. CI artifact QA NOT YET VERIFIED.",
+  "next_action": "Audit remaining 15 original MCQs and 45 distractors; check six mains claims, three diagrams, current legal orders, original Commission syllabus, browser accessibility; no R1-R8 completion or R9 approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
@@ -119,5 +119,29 @@
       "manifest_hashes_pass": 16,
       "outer_inner_crc": "PASS"
     }
+  },
+  "cycle131": {
+    "date": "2026-10-31",
+    "additional_mcq_questions": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10,
+      18,
+      22
+    ],
+    "additional_keys": 10,
+    "additional_distractors": 30,
+    "cumulative_author_side_keys": 15,
+    "cumulative_author_side_distractors": 45,
+    "unreviewed_keys": 15,
+    "unreviewed_distractors": 45,
+    "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
+    "independent_approvals": 0,
+    "remote_ci_artifact_verified": false
   }
 }
