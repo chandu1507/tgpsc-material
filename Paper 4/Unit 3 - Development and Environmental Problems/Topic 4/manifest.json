@@ -28,16 +28,16 @@
       "bytes": 365964
     },
     "index.html": {
-      "sha256": "3a4457341338fc644006a8cc3b32308956ade06fcd787ba3715aa24544e54a8f",
-      "bytes": 109902
+      "sha256": "b30d255e11e2bac84a99abb21ceabd0bd19f88c3097bb3c9feb6c4322a5fde3f",
+      "bytes": 124537
     },
     "source/answer-blueprints.md": {
       "sha256": "41366b92a40b1e7f8a44bf343ed073c499e77cacbb3c737e1284a23c5f82c3f7",
       "bytes": 1265
     },
     "source/complete-notes.md": {
-      "sha256": "c50642b7021de566cb61c398bacc2967ee31f153580a5e936241ca911ba8a2e0",
-      "bytes": 97417
+      "sha256": "97f37d23a0078a2035da7abd2199c888ba5c8205e9825b19a7aea37c1b5db7e1",
+      "bytes": 109399
     },
     "source/core.md": {
       "sha256": "206a1977b6c8faa6f213c41af4591df00dd13131bba3087aa884d91c55f20c93",
@@ -48,16 +48,16 @@
       "bytes": 11827
     },
     "source/original-mcqs.md": {
-      "sha256": "ca6bfcfed3ab404bac2052d37bde45211d5386504c9d84761bea5b770690b1b4",
-      "bytes": 13605
+      "sha256": "bdb86413016b47d749493356d4da052add8feba94c6bef7efd59f35d1224db9a",
+      "bytes": 23001
     },
     "source/quick-revision.md": {
       "sha256": "d9522efb06ec5d8ec680c780fd7a5f5a4daeb9ef0ec6252dfb3ea9d65ab81d4f",
       "bytes": 3351
     },
     "source/sources-and-audit.md": {
-      "sha256": "12299147a6a3ba46299a0af52e1e159bfd46f07ae1628efcfa77f110314aeb68",
-      "bytes": 8443
+      "sha256": "8c8181eb2de9dbbf1581434bdb746818744e4aea1dc7b0397fcc953124d5d436",
+      "bytes": 11025
     },
     "source/summary.md": {
       "sha256": "a258cfe90416df5e93fd81a41595fe471d933bb62de9e496d2ebc2ed45fca688",
@@ -100,19 +100,19 @@
       "bytes": 4482
     },
     "QA-REPORT.md": {
-      "sha256": "51733ef297d5601c33090ccec2a1183bf101da48a694ee549a7b7a6329d95a13",
+      "sha256": "5837aaab86d358bc01de803494cb11550ed42c56b786e27162aa1f1d2af3cf74",
       "bytes": 930
     },
     "source/integrated-student-edition-cycle48.pdf": {
-      "sha256": "1f70a28731601acd4a43427ca6aa2f33e2b3917790dde65df6fbd61764cf606c",
-      "bytes": 345840
+      "sha256": "1249da2e479bab66623b479b7d842b3494f993efc4b77539534c6d5d432bae07",
+      "bytes": 359787
     }
   },
   "detailed_sections": 18,
   "diagram_count": 3,
   "original_mcqs": 30,
-  "integrated_pdf_pages": 31,
-  "integrated_pdf_sha256": "1f70a28731601acd4a43427ca6aa2f33e2b3917790dde65df6fbd61764cf606c",
+  "integrated_pdf_pages": 34,
+  "integrated_pdf_sha256": "1249da2e479bab66623b479b7d842b3494f993efc4b77539534c6d5d432bae07",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
   "academic_approval": "not_approved"
 }
