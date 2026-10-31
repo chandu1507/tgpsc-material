@@ -156,6 +156,9 @@ Telangana has an advantage in Hyderabad's IT, life sciences, education, logistic
 
 A demographic dividend has a time limit. Low fertility eventually produces smaller new cohorts and higher old-age dependency. The response should not be coercive fertility policy but investment in productive longevity: better schooling, vocational retraining, women's paid employment, prevention of chronic disease, accessible transport and pensions. Examiners may ask whether a low TFR threatens growth; a balanced answer recognises short-run gains from lower dependency and long-run ageing risks. For Telangana, the most useful dashboard combines age-specific employment, educational attainment, learning quality, earnings, labour productivity and elderly dependency, disaggregated by district and gender.
 
+
+![Demographic dividend causal chain](visuals/dividend-mechanism.png)
+
 ## 8. Literacy, learning outcomes, digital capability and regional disparities
 
 Literacy is conventionally the ability to read and write with understanding in a language. Under Census 2011, the literacy rate is calculated for people aged seven and above, not the entire population. School attendance, years of schooling, functional literacy, foundational numeracy and learning outcomes are distinct measures. A child may be enrolled but unable to read a grade-level text; an adult may have passed a class but struggle with digital financial forms. Human-resource policy must therefore move from counting classrooms and enrolments to measuring foundational literacy, numeracy, comprehension and applied skills.
@@ -166,6 +169,9 @@ Foundational literacy requires early-childhood development, mother-tongue or fam
 
 Telangana's educational geography is heterogeneous. Hyderabad has concentrated higher-education institutions and digital services, while some remote tribal hamlets face distance, transport and language barriers. Digital access can widen options through online materials and teacher support but also widen inequality where electricity, devices, connectivity or parental support are absent. Adult literacy initiatives must account for work schedules and women with unpaid care responsibilities. For exam answers, compare literacy as a stock of accumulated educational achievement with current school enrolment as a flow; cite source years and emphasise quality, gender equity and the ability to use learning in daily life.
 
+
+![Telangana Census 2011 literacy chart](visuals/census-literacy-2011.png)
+
 ## 9. Occupational structure, labour statistics, informal work and structural transformation
 
 Occupational structure describes the distribution of workers across economic activities, commonly primary (agriculture and extraction), secondary (manufacturing and construction) and tertiary (services). Structural transformation occurs when workers shift from low-productivity activities into higher-productivity occupations and when productivity rises within each sector. It is not enough for the services sector to dominate state output: if agriculture employs a much larger workforce than its share of output, the result is a productivity and earnings gap. Workers can also move from agriculture into insecure low-productivity urban services, which may not deliver a meaningful income gain.
@@ -175,6 +181,9 @@ The Census distinguishes main workers (engaged in economic activity for at least
 The Periodic Labour Force Survey (PLFS) measures labour-force participation (employed plus unemployed seeking/available for work), worker-population ratio (employed as a share of population) and unemployment rate (unemployed as a share of labour force), with usual-status and current-weekly-status concepts. Comparing a Census worker count with a PLFS WPR without adjusting age, definitions and year is misleading. Telangana's Economic Pulse, drawing on PLFS 2023–24, reported female worker-population ratios substantially higher in rural than urban areas under its specified age/status definition; rural women's participation may include self-employment and unpaid family work, so the statistic alone does not establish decent wages.
 
 Telangana's labour strategy must link agricultural productivity and diversification, MSME growth, industrial clusters, service-sector skills, safe urban commuting and portable benefits for migrants. Skill credentials should be validated by employers, and apprenticeships should offer genuine work experience. Informal construction, gig work, domestic work and seasonal agricultural labour require attention to occupational safety and social security. A serious appraisal asks who gains from a sectoral shift, whether real earnings rise, whether women retain employment after childbirth, and whether workers acquire bargaining power. Employment quality is the missing link between demographic dividend and inclusive development.
+
+
+![Telangana Census 2011 occupational categories](visuals/census-occupation-2011.png)
 
 ## 10. Education sector: rights, governance, financing and learning-quality reforms
 
