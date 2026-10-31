@@ -47,3 +47,18 @@
 ## Cycle47 bounded source-correspondence and worked-example audit (28 October 2026)
 
 The original practice MCQ23 answer C corresponds to the Telangana Biodiversity Board's 2014 constitution record (https://tgbiodiversity.org/). MCQ24 answer D corresponds to the three objectives of Convention on Biological Diversity Article 1 (https://www.cbd.int/convention/articles/default.shtml?a=cbd-01&lg=0). MCQ25 answer A corresponds to Kunming–Montreal Target 3 (https://www.cbd.int/gbf/targets/3); it is a 2030 conservation target, not evidence of achievement. These are three bounded author-side key correspondences only: the remaining 27 keys and all 120 answer options require independent checking. The quantitative laboratories in concepts 8 and 9 are hypothetical, not observed Telangana field measurements. All six mains and three inherited diagrams require claim-level and accuracy review. No official PYQ authentication or independent academic approval is claimed.
+
+## Cycle134 source-checked option audit — 31 October 2026
+
+Directly consulted primary publishers for the following limited correspondences; the links identify the actual documents, not merely publisher home pages:
+
+| Source ID | Direct primary document | Specific verified use | Boundary |
+|---|---|---|---|
+| NCERT-12 | https://ncert.gov.in/textbook/pdf/lebo112.pdf | 2025–26 reprint, Chapter 12 §§12.2–12.5: GPP−R=NPP; decomposers; grazing/detrital chains; number, biomass and energy pyramids; Fig. 12.4(c) | Supports Q3–8 and Q10; phytoplankton turnover is an explanatory inference, not a measured rate in the figure. |
+| USGS-2010 | https://pubs.usgs.gov/fs/2010/3078/ | Denitrification in low-oxygen organic-rich sediments converts nitrate to nitrogen gas | Supports Q11; does not imply all nitrogen removal follows that single pathway. |
+| EPA-P | https://www.epa.gov/national-aquatic-resource-surveys/indicators-phosphorus | Excess phosphorus can promote freshwater algal blooms, low dissolved oxygen and eutrophication | Supports Q12 together with NCERT's sedimentary phosphorus cycle; does not assert universal P limitation in every water body. |
+| TGBB-2014 | https://tgbiodiversity.org/ | Telangana Board constituted in 2014; G.O.Ms.No.21 dated 25 October 2014 | Supports Q23; state rules dated 2015 are a different event. |
+| CBD-A1 | https://www.cbd.int/convention/articles?a=cbd-01 | CBD Article 1's three objectives | Supports Q24; no claim that fossil-fuel production is a CBD objective. |
+| CBD-T3 | https://www.cbd.int/gbf/targets/3 | Target 3's 2030 conservation ambition, effectiveness, equity and rights conditions | Supports Q25; a target is not a 2026 achievement. |
+
+**Review scope:** Twelve existing MCQs Q3/4/5/6/7/8/10/11/12/23/24/25; 12 key propositions and all 36 corresponding distractors explained in `original-mcqs.md`. All 30 original questions and 90 distractors remain intact. Eighteen keys/54 distractors are pending. Source-to-claim checking was performed by the authoring process; **no independent academic approval** or original TGPSC PYQ authentication is asserted.

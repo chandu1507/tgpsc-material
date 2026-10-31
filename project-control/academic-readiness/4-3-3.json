@@ -1,7 +1,7 @@
 {
   "topic_id": "4-3-3",
   "title": "Eco systems and Bio-diversity",
-  "date": "2026-10-28",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle46 first direct structural and bounded primary-source assessment: 16 concepts, concepts 8 and 9 below 300 words, 30 original practice MCQs (A6/B22/C1/D1), six mains body-only 212/210/223/218/233/242 words, 3 diagrams, original 21-page PDF SHA preserved. Only MCQ23/24/25 key claims correspond directly to official Board/CBD sources; NOT full distractor verification. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals.",
-  "next_action": "Complete 30 MCQ keys and 120 options, six mains claim-level review, three diagram checks, 2024 Commission syllabus direct R1 and public browser accessibility; actual Cycle47 artifact QA verified but NOT academic PASS.",
+  "evidence": "Cycle46 first direct structural and bounded primary-source assessment: 16 concepts, concepts 8 and 9 below 300 words, 30 original practice MCQs (A6/B22/C1/D1), six mains body-only 212/210/223/218/233/242 words, 3 diagrams, original 21-page PDF SHA preserved. Only MCQ23/24/25 key claims correspond directly to official Board/CBD sources; NOT full distractor verification. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals. Cycle134: 12 original MCQ keys and 36 distractors bounded author-side source-correlated, not independent; PDF/artifact pending.",
+  "next_action": "Complete remaining 18 MCQ keys/54 distractors; claim-level six mains; three diagrams; direct R1 syllabus; full browser QA and named expert; verify post-edit CI PDF and downloaded artifact.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "f42681fc542db0d036dad7339418604f3130ef167c0fe4f04a3539ddd7f720c9",
@@ -72,5 +72,37 @@
     "actual_downloaded_qa": "project-control/academic-readiness/4-3-3-cycle47-actual-downloaded-artifact-qa-2026-10-28.json",
     "R8": "IN_PROGRESS",
     "independent_approval": false
+  },
+  "cycle134": {
+    "reviewed_existing_mcqs": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      23,
+      24,
+      25
+    ],
+    "unique_keys_author_side_source_correlated": 12,
+    "distractors_explained": 36,
+    "keys_pending": 18,
+    "distractors_pending": 54,
+    "original_questions_preserved": 30,
+    "independent_academic_approvals": 0,
+    "source_ids": [
+      "NCERT-12",
+      "USGS-2010",
+      "EPA-P",
+      "TGBB-2014",
+      "CBD-A1",
+      "CBD-T3"
+    ],
+    "ci_pdf": "PENDING_GITHUB_ACTIONS",
+    "actual_post_edit_downloaded_artifact": "PENDING"
   }
 }
