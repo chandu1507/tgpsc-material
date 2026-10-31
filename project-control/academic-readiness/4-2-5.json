@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle43 direct source assessment: 16 original concepts 314–455 words, 30 practice MCQs A9/B15/C6/D0, six 200+ body-word mains, original 25-page PDF preserved. Added one source-qualified worked laboratory and revised five MCQs; now 17 concepts, 30 MCQs A9/B12/C4/D5. Limited author-side checks using Udyam, two NITI reports and official state policy; NOT a full independent audit. Original 2024 syllabus, all 30 keys/90 distractors, six mains claims, diagrams and browser accessibility pending. Final actual post-fix downloaded GitHub artifact 12756469781: 1636 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 425 local links/1137 fragments zero broken, 16 manifest hashes PASS, CRC PASS, 29-page PDF with 3 diagrams; browser/accessibility NOT certified. R8 IN_PROGRESS, no academic approval. Cycle131: Q1-3, Q6-10, Q18, Q22 (10 keys/30 distractors) author-side option audit with 5 direct institutional source entries; 15/30 cumulative bounded, 15 keys/45 distractors pending; legal caveats, six mains, diagrams and browser pending. CI artifact QA NOT YET VERIFIED.",
+  "evidence": "Cycle43 direct source assessment: 16 original concepts 314–455 words, 30 practice MCQs A9/B15/C6/D0, six 200+ body-word mains, original 25-page PDF preserved. Added one source-qualified worked laboratory and revised five MCQs; now 17 concepts, 30 MCQs A9/B12/C4/D5. Limited author-side checks using Udyam, two NITI reports and official state policy; NOT a full independent audit. Original 2024 syllabus, all 30 keys/90 distractors, six mains claims, diagrams and browser accessibility pending. Final actual post-fix downloaded GitHub artifact 12756469781: 1636 files, 75 original PDFs unchanged, 75 readiness JSON, 78 HTML, 425 local links/1137 fragments zero broken, 16 manifest hashes PASS, CRC PASS, 29-page PDF with 3 diagrams; browser/accessibility NOT certified. R8 IN_PROGRESS, no academic approval. Cycle131: Q1-3, Q6-10, Q18, Q22 (10 keys/30 distractors) author-side option audit with 5 direct institutional source entries; 15/30 cumulative bounded, 15 keys/45 distractors pending; legal caveats, six mains, diagrams and browser pending. CI artifact QA NOT YET VERIFIED. Cycle131 actual downloaded post-correction artifact 13035999248 SHA/CRC PASS; 2102 files, 75 original PDFs unchanged, 75 readiness JSON, 567 local links and 1185 fragments zero broken, 16 manifest hashes PASS, 31-page integrated PDF SHA 2445d22aa511ad9f811efcdbeba7e3198c418f152487a18e8207618a72a3dfdd. Independent academic approval ZERO.",
   "next_action": "Audit remaining 15 original MCQs and 45 distractors; check six mains claims, three diagrams, current legal orders, original Commission syllabus, browser accessibility; no R1-R8 completion or R9 approval.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -142,6 +142,19 @@
     "unreviewed_distractors": 45,
     "original_pdf_sha256": "cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6",
     "independent_approvals": 0,
-    "remote_ci_artifact_verified": false
+    "remote_ci_artifact_verified": true,
+    "actual_artifact": {
+      "run_id": 41186302136,
+      "artifact_id": 13035999248,
+      "sha256": "db53cad2632bfd307c32dc47b1d4a9ba8a29d80036b149922f2303d6c4234ed5",
+      "files": 2102,
+      "original_pdfs": 75,
+      "readiness_json": 75,
+      "broken_links": 0,
+      "broken_fragments": 0,
+      "manifest_hashes_pass": 16,
+      "integrated_pdf_pages": 31,
+      "integrated_pdf_sha256": "2445d22aa511ad9f811efcdbeba7e3198c418f152487a18e8207618a72a3dfdd"
+    }
   }
 }
