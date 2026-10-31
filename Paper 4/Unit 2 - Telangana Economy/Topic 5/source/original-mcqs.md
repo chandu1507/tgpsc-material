@@ -272,3 +272,97 @@ D. Software exports alone
 
 **Correct answer: B.** A multidimensional assessment connects growth to operational firms, decent work, regional distribution and sustainability.
 
+## Cycle131 — Ten-question option-level source audit (31 October 2026)
+
+**Scope and provenance.** These are *author-side*, bounded reviews of existing original practice MCQs Q1–Q3, Q6–Q10, Q18 and Q22 (10 keys and 30 distractors). They are **not official TGPSC PYQs**, not a complete audit of the 30-question bank, and not independent expert certification. Q4/Q5/Q12/Q13/Q19 retain their earlier Cycle43 bounded source checks. The remaining 15 questions have not received comparable option-by-option source checks. National-accounts and liquidity interpretations below combine issuer definitions with explicitly identified conceptual reasoning; a primary source is not claimed to prove every hypothetical distractor verbatim.
+
+### Reviewed existing Q1 — key B | national-accounts methodology / conceptual application [S24]
+
+- **A:** Nominal turnover includes changes in selling prices and intermediate-input value, so it does not isolate real factory value added.
+- **B:** Constant-price manufacturing GSVA measures manufacturing value added at a common price basis; it is the best of these four indicators, although coverage and revisions still matter.
+- **C:** Signed MoUs are intentions, not a measured volume of factory production.
+- **D:** Allotted industrial land is an enabling input and may remain idle.
+
+**Audit boundary:** The selected answer is B; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q2 — key C | sector classification / logical implication [S24]
+
+- **A:** Separate construction and manufacturing series do not rise identically by accounting identity.
+- **B:** No national-accounts identity makes manufacturing double when construction rises.
+- **C:** A construction increase gives no definite direction for manufacturing; both contribute separately to sectoral value added.
+- **D:** A rise in construction does not force manufacturing value added to become negative.
+
+**Audit boundary:** The selected answer is C; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q3 — key A | direct national-accounts accounting identity [S24]
+
+- **A:** GSDP at market prices equals summed basic-price GSVA plus taxes on products less subsidies on products; the corresponding national GDP identity is documented by the Indian Economic Service.
+- **B:** Employment times wages omits capital returns, operating surplus, taxes and many other components.
+- **C:** Basic-price GSVA does not include product taxes in the way market-price GSDP does.
+- **D:** Net product taxes may be positive or negative; GSVA is not always larger than GSDP.
+
+**Audit boundary:** The selected answer is A; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q6 — key B | direct Telangana single-window portal [S25]
+
+- **A:** Minimum support prices concern agricultural procurement, not the industrial-clearance system.
+- **B:** The official TS-iPASS description identifies a coordinated single-point clearance process with category-dependent time limits.
+- **C:** Foreign-exchange regulation is a national financial function, not the stated purpose of TS-iPASS.
+- **D:** Self-certification and time-bound processing do not repeal environmental or safety statutes.
+
+**Audit boundary:** The selected answer is B; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q7 — key C | official portal plus qualified statutory interpretation [S25]
+
+- **A:** Deemed clearance cannot be read as a universal exemption from environmental law.
+- **B:** The portal reports varying time limits by approval complexity, so identical treatment of every licence is unsupported.
+- **C:** Applicability must be determined by the notified approval category and governing legal conditions; do not infer universal automatic approval.
+- **D:** A procedural clearance cannot guarantee commercial demand, costs or profitability.
+
+**Audit boundary:** The selected answer is C; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q8 — key A | direct Telangana government incentive listing [S26]
+
+- **A:** The government incentive portal identifies T-IDEA as an industrial incentive scheme, with historical scheme and operational orders; this does not establish identical eligibility in 2026.
+- **B:** Crop insurance is not the T-IDEA scheme's primary purpose.
+- **C:** University examinations fall outside industrial incentives.
+- **D:** Police recruitment is not an industrial incentive.
+
+**Audit boundary:** The selected answer is A; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q9 — key B | direct TIHCL service description [S27]
+
+- **A:** The Election Commission administers elections rather than industrial rehabilitation.
+- **B:** TIHCL's own services page explicitly identifies rehabilitation and diagnostic assistance for stressed micro and small manufacturing enterprises.
+- **C:** The public service commission recruits to public posts, not rehabilitates firms.
+- **D:** The film certification board has no mandate to finance stressed manufacturing units.
+
+**Audit boundary:** The selected answer is B; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q10 — key A | TIHCL viability criterion plus economic reasoning [S27]
+
+- **A:** TIHCL describes diagnosis and financing for potentially viable stressed firms; distinguishing cash-flow distress from underlying non-viability is essential, though not sufficient for successful revival.
+- **B:** Factory colour and location alone do not distinguish liquidity from structural viability.
+- **C:** Director and worker counts alone cannot establish cash-flow or competitive viability.
+- **D:** Signage and ownership labels do not determine the feasibility of restructuring.
+
+**Audit boundary:** The selected answer is A; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q18 — key C | direct official policy document [S11]
+
+- **A:** 2014–2019 is not the period stated on the Second ICT Policy's title and focus sections.
+- **B:** 2017–2022 does not match the policy's stated 2021–2026 period.
+- **C:** The Telangana Second ICT Policy document explicitly frames its focus areas for 2021–2026; targets within it remain intentions until separately measured.
+- **D:** 2026–2036 is not the published Second ICT Policy period.
+
+**Audit boundary:** The selected answer is C; this is a bounded author-side check, not an independent approval.
+
+### Reviewed existing Q22 — key B | direct Union MSME delayed-payments guidance [S28]
+
+- **A:** Prompt payment generally improves, rather than harms, the supplier's cash conversion.
+- **B:** Delayed buyer receivables can create working-capital shortages despite orders; the Ministry of MSME documents statutory payment protections for qualifying micro and small suppliers.
+- **C:** Higher inventory turnover typically releases working capital, other things equal; it is not the delayed-payment problem described.
+- **D:** Predictable cash conversion reduces liquidity uncertainty instead of causing it.
+
+**Audit boundary:** The selected answer is B; this is a bounded author-side check, not an independent approval.
+
