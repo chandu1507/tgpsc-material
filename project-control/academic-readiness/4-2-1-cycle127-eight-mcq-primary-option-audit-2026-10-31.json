@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-31",
+  "cycle": 127,
+  "topic_id": "4-2-1",
+  "main_before_sha": "56955f5326caa2b876c2db051cb366184e946e16",
+  "question_ids": [
+    3,
+    4,
+    5,
+    6,
+    14,
+    23,
+    24,
+    25
+  ],
+  "questions_reviewed": 8,
+  "keys_reviewed": 8,
+  "distractors_reviewed": 24,
+  "options_reviewed": 32,
+  "original_questions_unchanged": true,
+  "official_pyqs_authenticated": 0,
+  "primary_sources": [
+    "https://kamareddy.telangana.gov.in/tourist-place/pocharam-project/",
+    "https://scclmines.com/scclnew/23122016.asp",
+    "https://scclmines.com/Scclnew/company_history.asp",
+    "https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6.pdf",
+    "https://www.niti.gov.in/sites/default/files/2023-07/National-Multidimentional-Poverty-Index-2023-Final-17th-July.pdf"
+  ],
+  "reviews": [
+    {
+      "q": 3,
+      "key": "B",
+      "source": "S08",
+      "url": "https://kamareddy.telangana.gov.in/tourist-place/pocharam-project/",
+      "options": {
+        "A": "1889 is the start year of Singareni coal mining, not Pocharam's foundation.",
+        "B": "Kamareddy district government states the Nizam laid Pocharam's foundation in 1917; construction completed in 1922.",
+        "C": "1956 concerns the reorganisation of Andhra Pradesh, not Pocharam's foundation.",
+        "D": "2014 is Telangana statehood, almost a century later."
+      }
+    },
+    {
+      "q": 4,
+      "key": "A",
+      "source": "S16",
+      "url": "https://scclmines.com/scclnew/23122016.asp",
+      "options": {
+        "A": "SCCL's own Singareni Day account explicitly says coal mining started in 1889.",
+        "B": "1920 marks incorporation of SCCL, not the commencement of mining.",
+        "C": "1945 marks Hyderabad State's majority-share acquisition, not the start of mining.",
+        "D": "1956 marks transfer of controlling interest following state reorganisation, not mining commencement."
+      }
+    },
+    {
+      "q": 5,
+      "key": "C",
+      "source": "S17",
+      "url": "https://scclmines.com/Scclnew/company_history.asp",
+      "options": {
+        "A": "1889 was mining commencement, not SCCL's legal incorporation.",
+        "B": "1917 was Pocharam's foundation year and is unrelated to SCCL incorporation.",
+        "C": "The company's own history states incorporation on 23 December 1920 under the Hyderabad Companies Act.",
+        "D": "1948 is not the incorporation date in the company history; the 1945 ownership change is distinct."
+      }
+    },
+    {
+      "q": 6,
+      "key": "C",
+      "source": "S17",
+      "url": "https://scclmines.com/Scclnew/company_history.asp",
+      "options": {
+        "A": "1920 was incorporation of SCCL, not majority acquisition by Hyderabad State.",
+        "B": "1930 is not the majority-acquisition year given in SCCL's official history.",
+        "C": "The company's history explicitly dates the Hyderabad State purchase of majority shares to 1945.",
+        "D": "1956 relates to controlling interest devolving on Andhra Pradesh, not Hyderabad State's purchase."
+      }
+    },
+    {
+      "q": 14,
+      "key": "B",
+      "source": "S18",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/2123/1/A2014-6.pdf",
+      "options": {
+        "A": "1 November 1956 belongs to the earlier Andhra Pradesh reorganisation period, not Telangana statehood.",
+        "B": "The Andhra Pradesh Reorganisation Act's official footnote identifies 2 June 2014 as the notified appointed day.",
+        "C": "15 August 1947 is India's independence, not the formation date of Telangana State.",
+        "D": "1 January 2015 is not the notified appointed day under the 2014 Act."
+      }
+    },
+    {
+      "q": 23,
+      "key": "A",
+      "source": "S07",
+      "url": "https://www.niti.gov.in/sites/default/files/2023-07/National-Multidimentional-Poverty-Index-2023-Final-17th-July.pdf",
+      "options": {
+        "A": "NITI's 2023 MPI Telangana snapshot lists NFHS-5 (2019–21) headcount at 5.88%.",
+        "B": "13.18% is the earlier NFHS-4 (2015–16) Telangana headcount, not NFHS-5.",
+        "C": "68.6% is a stated 2025–26 tertiary GSVA share, not an MPI headcount.",
+        "D": "15.1% is a stated 2025–26 primary GSVA share, not the historical MPI headcount."
+      }
+    },
+    {
+      "q": 24,
+      "key": "D",
+      "source": "S07",
+      "url": "https://www.niti.gov.in/sites/default/files/2023-07/National-Multidimentional-Poverty-Index-2023-Final-17th-July.pdf",
+      "options": {
+        "A": "7.30 is the percentage-point difference, not a 7.30% relative decline; 55.39 is not the percentage-point change.",
+        "B": "The percentages and percentage-point units are reversed; 13.18−5.88=7.30 percentage points.",
+        "C": "13.18% and 5.88% are the survey endpoints, not the changes between them.",
+        "D": "13.18−5.88=7.30 percentage points; (7.30/13.18)×100≈55.39% relative decline. This is a historical NFHS comparison."
+      }
+    },
+    {
+      "q": 25,
+      "key": "B",
+      "source": "S07",
+      "url": "https://www.niti.gov.in/sites/default/files/2023-07/National-Multidimentional-Poverty-Index-2023-Final-17th-July.pdf",
+      "options": {
+        "A": "GSDP divided by population gives a per-capita output concept, not multidimensional poverty.",
+        "B": "The Alkire–Foster MPI is H×A, with headcount H and average deprivation intensity A expressed as fractions.",
+        "C": "Income-tax revenue divided by GDP is a fiscal ratio, not an MPI.",
+        "D": "Exports minus imports is net exports, not a measure of household deprivation."
+      }
+    }
+  ],
+  "mpi_arithmetic": {
+    "earlier_headcount_percent": 13.18,
+    "later_headcount_percent": 5.88,
+    "percentage_point_difference": 7.3,
+    "relative_percent_decline": 55.38694992412747
+  },
+  "remaining_mcq_keys": 19,
+  "remaining_distractors": 57,
+  "mains_claim_level_audit_complete": false,
+  "diagrams_independently_verified": false,
+  "official_tgpsc_syllabus_authenticated": false,
+  "full_seo_2026_authenticated": false,
+  "ci_pdf_verified": false,
+  "downloaded_actions_artifact_verified": false,
+  "fully_r1_r8_ready": false,
+  "independent_academic_approvals": 0,
+  "R9": "NOT_STARTED"
+}
