@@ -1,7 +1,7 @@
 {
   "topic_id": "4-3-1",
   "title": "Environment vs Development: Environmentalism, Protection Policy and Policy Instruments",
-  "date": "2026-10-28",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle45 source integrated into GitHub through PR28; deterministic CI generated 28-page PDF with 17 concepts, 30 original MCQs, six 200+ body-word mains, 4 embedded diagrams. Actual downloaded GitHub artifact 12766127068 from run40573418884 SHA438fec3b5bd34d8b24ae0e939466b58464ccf7e45967b29d2ae3a62e7db2290f passed outer/inner CRC, 75/75 original PDF hashes, 75 readiness JSON, 78 HTML, 429 local links/1137 fragments zero broken, 64 SPA routes excluded, 21/21 manifest hashes. Publication QA is NOT full academic or browser-accessibility certification.",
-  "next_action": "Independent full 30-key/120-distractor audit, six mains claim-level review, diagram accuracy and direct 2024 syllabus; browser accessibility and R1–R8 completion. No R9 until named expert.",
+  "evidence": "Cycle45 source integrated into GitHub through PR28; deterministic CI generated 28-page PDF with 17 concepts, 30 original MCQs, six 200+ body-word mains, 4 embedded diagrams. Actual downloaded GitHub artifact 12766127068 from run40573418884 SHA438fec3b5bd34d8b24ae0e939466b58464ccf7e45967b29d2ae3a62e7db2290f passed outer/inner CRC, 75/75 original PDF hashes, 75 readiness JSON, 78 HTML, 429 local links/1137 fragments zero broken, 64 SPA routes excluded, 21/21 manifest hashes. Publication QA is NOT full academic or browser-accessibility certification. Cycle132: 10 existing MCQs (Q1,9,10,12,14,18,21,23,25,26), all 40 options author-side source-checked or Q14 arithmetic recalculated; corrected 30-question distractor count from 120 to 90; remaining 20 keys/60 distractors, six mains claims, diagrams, browser and independent expert pending. CI publication and downloaded artifact QA NOT YET VERIFIED.",
+  "next_action": "Cycle132 source change needs successful guarded CI renderer and actual downloaded packaging artifact QA. Then verify remaining 20 keys/60 distractors, all six mains claims, four diagrams, direct Commission syllabus, full browser accessibility and named expert. R9 only after R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
@@ -67,6 +67,29 @@
     ],
     "images": 4,
     "R8": "IN_PROGRESS",
+    "independent_approval": false
+  },
+  "cycle132": {
+    "status": "SOURCE_AUDIT_MERGED_TO_BRANCH_CI_PENDING",
+    "date": "2026-10-31",
+    "audited_question_numbers": [
+      1,
+      9,
+      10,
+      12,
+      14,
+      18,
+      21,
+      23,
+      25,
+      26
+    ],
+    "author_side_keys_checked": 10,
+    "author_side_distractors_explained": 30,
+    "remaining_keys": 20,
+    "remaining_distractors": 60,
+    "source_register": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 1/source/sources-and-audit.md",
+    "original_pdf_sha256": "d603a819b43cba8f322a3e5afe81c98e48f4bae439c79ab05fd8c08295be6260",
     "independent_approval": false
   }
 }
