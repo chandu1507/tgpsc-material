@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-1-5",
+    "last_reported_topic": "4-2-1",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle126 Topic 4-1-5 Q1-Q10 40-option author-side review (8 bounded source correlations, Q4/Q6 provisional); 35-page CI PDF SHA 4287e86a...; actual artifact 13029007702 downloaded SHA/CRC/75 original PDFs/605 local links/1074 DOM fragments PASS; 15 keys/45 distractors, six mains claims, R2-R8 and independent approvals pending."
+    "note": "Cycle127 Topic 4-2-1 8 original MCQ keys/24 distractors bounded author-side checked; 33-page synchronized CI PDF; actual artifact 13030608109 downloaded CRC/digest/75 originals/605 links/1083 fragments PASS. 19 keys/57 distractors, six mains, R1/R4/R6/R8 and independent expert pending. No approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -450,8 +450,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle40_bounded_academic_assessment_local_integrated_candidate_not_remote_published",
-      "notes": "27 Oct Cycle40: assessed existing 16 concepts (all >=300 words), 27 original practice MCQs (B18/D0 initial key skew), six mains with pre-edit body-only counts 193/199/212/208/229/183. A synchronized LOCAL ONLY 17-concept candidate includes NITI MPI worked case, Q16/Q21/Q24/Q27 revisions, mains 1/2/6 additions; 30-page PDF, editable Markdown and offline HTML local, NOT committed or GitHub Actions verified. Original 23-page PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Direct original syllabus PDF returned 403; R1 IN_PROGRESS; no independent approval.",
+      "production_review": "cycle127_eight_mcq_primary_option_audit_ci_pdf_and_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "27 Oct Cycle40: assessed existing 16 concepts (all >=300 words), 27 original practice MCQs (B18/D0 initial key skew), six mains with pre-edit body-only counts 193/199/212/208/229/183. A synchronized LOCAL ONLY 17-concept candidate includes NITI MPI worked case, Q16/Q21/Q24/Q27 revisions, mains 1/2/6 additions; 30-page PDF, editable Markdown and offline HTML local, NOT committed or GitHub Actions verified. Original 23-page PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Direct original syllabus PDF returned 403; R1 IN_PROGRESS; no independent approval. Cycle127: eight original-practice MCQs (32 options) author-side source-audited against SCCL/Kamareddy/India Code/NITI; 33-page synchronized CI PDF SHA384d1aaf..., packaging artifact 13030608109 downloaded CRC/SHA/75 originals/605 links/1083 fragments PASS. 19 keys/57 distractors, six mains, official syllabus/SEO, browser and expert pending; 0 approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-2-1.json"
     },
