@@ -13,9 +13,9 @@ assert len({t["id"] for t in cp["topics"]}) == 75
 assert len(ix["paths"]) == len(set(ix["paths"])) == 75
 assert len(list(Path("project-control/academic-readiness").glob("[2-6]-[1-3]-[1-5].json"))) == 75
 counts = {s: sum(t["readiness_status"] == s for t in cp["topics"]) for s in ("IN_PROGRESS","ASSESSED_REBUILD_REQUIRED","NOT_ASSESSED")}
-assert counts == {"IN_PROGRESS":7,"ASSESSED_REBUILD_REQUIRED":36,"NOT_ASSESSED":32}, counts
+assert counts == {"IN_PROGRESS":7,"ASSESSED_REBUILD_REQUIRED":68,"NOT_ASSESSED":0}, counts
 assert set(ix["assessed_rebuild_required"]) == {t["id"] for t in cp["topics"] if t["readiness_status"] == "ASSESSED_REBUILD_REQUIRED"}
-assert len(ix["assessed_rebuild_required"]) == 36 and ix["not_assessed_count"] == 32
+assert len(ix["assessed_rebuild_required"]) == 68 and ix["not_assessed_count"] == 0
 assert cp["academically_approved"] == ix["independently_academically_approved_count"] == 0
 assert all((Path(t["path"])/"complete-notes.pdf").is_file() for t in cp["topics"])
 original = hashlib.sha256((root/"complete-notes.pdf").read_bytes()).hexdigest()
@@ -26,6 +26,8 @@ for f in ("original-mcqs.md","mains-model-answers.md","sources-and-audit.md"):
     assert (src/f).read_text().strip() in md, f
 assert "2026–31 scheme eligibility update" in md
 assert "| S25 |" in md
+assert "Cycle 141 — bounded four-option audit" in md
+assert (src/"cycle141-ten-mcq-option-audit.md").read_text().strip() in md
 word = lambda s: len(re.findall(r"\b[\w’-]+\b", s))
 concepts = re.findall(r"(?ms)^### Section (\d+)\. ([^\n]+)\n(.*?)(?=^### Section \d+\.|^## |\Z)",md)
 assert len(concepts) == 16, len(concepts)
@@ -98,11 +100,11 @@ qa={"date":"2026-10-28","topic":"5-1-5","cycle":54,"original_pdf_sha256":origina
     "original_mcqs":30,"correct_answers":distribution,"distractors":90,"mains_body_only_counts":body_counts,"mains_count_method":"regex word tokens after removing bold subheading labels; hyphenated tokens may differ from Cycle53 whitespace method",
     "html_file_links_checked":file_links,"broken_files":bad_files,"html_fragment_links_checked":fragment_links,
     "broken_fragments":bad_fragments,"spa_routes_excluded":spa_routes,
-    "source_checks":"five bounded official correct-key correspondences and one arithmetic check from Cycle53; three MCQs revised but remaining keys/distractors unverified",
+    "source_checks":"Cycle141 ten author-side four-option audits (10 keys/30 distractors); 20 keys/60 distractors remain; earlier limited checks not double-counted",
     "independent_academic_approvals":0,"R8":"IN_PROGRESS_NOT_PASS",
     "actual_downloaded_post_edit_artifact_qa":False,"browser_accessibility_certified":False}
 (root/"QA-REPORT.md").write_text("# Cycle54 CI render QA\n\n"+json.dumps(qa,indent=2)+"\n")
-(root/"README.md").write_text("# Paper V / Unit I / Topic 5 — Energy Resources and Security\n\nOriginal 27-page PDF preserved (SHA256 "+original+").\nCycle54 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n16 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nFive bounded correct-key correspondences only; no full independent MCQ, mains, diagram, syllabus or browser audit.\nZero academic approvals. No official PYQs authenticated.\n")
+(root/"README.md").write_text("# Paper V / Unit I / Topic 5 — Energy Resources and Security\n\nOriginal 27-page PDF preserved (SHA256 "+original+").\nCycle54 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n16 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nTen author-side four-option MCQ audits (10 keys/30 distractors); 20 keys/60 distractors, mains, diagrams, syllabus and browser audit remain.\nZero academic approvals. No official PYQs authenticated.\n")
 manifest=json.loads((root/"manifest.json").read_text())
 manifest["academic_status"]="not_approved"
 manifest["official_syllabus_authenticated"]=False
@@ -113,7 +115,7 @@ manifest["integrated_pdf_sha256"]=pdf_sha
 manifest["metrics"]["mains_answer_word_counts"]=body_counts
 manifest["metrics"]["mains_count_method"]="body-only, excluding question and subheading labels"
 manifest["metrics"]["concepts_below_300"]=0
-manifest["metrics"]["source_register"]=25
+manifest["metrics"]["source_register"]=34
 manifest["metrics"]["correct_answer_distribution"]=distribution
 files={}
 for f in root.rglob("*"):
