@@ -3,8 +3,8 @@ on:
   push:
     branches: [main]
     paths:
-      - 'Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 1/source/integrated-editable-master-cycle138.md'
-      - 'Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 1/source/cycle138-ten-mcq-four-option-primary-source-audit.md'
+      - 'Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 2/source/integrated-editable-master-cycle138.md'
+      - 'Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 2/source/cycle138-ten-mcq-four-option-primary-source-audit.md'
       - 'scripts/publish_topic_5_1_2_cycle138.py'
       - 'scripts/render_topic_5_1_2_cycle138.py'
       - '.github/workflows/render-topic-5-1-2-cycle138.yml'
@@ -33,7 +33,7 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          topic='Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 1'
+          topic='Paper 5/Unit 1 - Role and Impact of Science and Technology/Topic 2'
           for attempt in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
