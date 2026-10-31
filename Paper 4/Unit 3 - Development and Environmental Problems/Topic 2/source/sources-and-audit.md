@@ -28,6 +28,11 @@ All entries are primary public authorities or original statutes/official portals
 | S22 | Telangana Forest Department — https://forests.telangana.gov.in/ | Current | State forest institutions, reserve management and local information |
 | S23 | Singareni Collieries Company Limited — https://scclmines.com/ | Current | Mining company context; operational claims require independent compliance verification |
 
+| S24 | Ministry of Jal Shakti, National Water Policy 2012 — https://www.jalshakti-dowr.gov.in/static/uploads/2024/02/2023020993.pdf | 2012 policy, directly located 31 Oct 2026 | Priority for drinking/sanitation, livelihoods and ecosystem needs; policy guidance, not a Telangana allocation order |
+| S25 | ICAR-CRIDA, Mancherial farmer training — https://icar.gov.in/en/skill-development-programme-farmers-organised-under-sc-sub-plan-icar-crida-hyderabad | 23–27 Feb 2026 | Rainwater-management and contingency-cropping training topics; no measured farm-level impact established |
+| S26 | ICAR-IIMR, Medak jowar procurement centre — https://icar.gov.in/index.php/en/tekmal-fpo-telangana-promoted-icar-iimr-hyderabad-receives-jowar-procurement-centre-boost-market | 10 June 2026 | Documented procurement-centre announcement, not independent proof of farmer income effects |
+| S27 | MoEFCC PARIVESH clearance portal — https://cpc.parivesh.nic.in/ | Portal directly located 31 Oct 2026 | Distinct environmental, forest and wildlife clearance workflows; operative schedule/project applicability still requires direct legal check |
+
 ## Dated updates integrated into the chapter
 
 **December 2024 — ISFR 2023 released.** FSI's report-year 2023 and release year 2024 must be distinguished. Telangana's 21,179.04 sq km forest cover and 3,517.66 sq km tree cover are different measurements; do not claim an observed increase in natural forest biodiversity solely from those figures. [S01–S02]

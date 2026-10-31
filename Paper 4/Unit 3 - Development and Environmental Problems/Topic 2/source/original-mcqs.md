@@ -30,6 +30,8 @@ C. Both figures are 2026 measurements
 D. Tree cover proves all plantations are natural forest
 **Answer: B.** The two distinct figures are from the ISFR 2023 series, released later.
 
+**Cycle133 option review (author-side, bounded).** **A:** false equivalence: forest cover and tree cover are separately reported categories. **B:** supported by the 6 February 2025 MoEFCC parliamentary response and ISFR 2023 figures; 21,179.04 + 3,517.66 = 24,696.70 sq km, but the sum is *not* recorded forest area. **C:** incorrect observation year; ISFR refers to 2023. **D:** neither canopy cover nor tree-cover area proves plantation origin or native biodiversity. [S01–S02]
+
 ### MCQ 5. Commercial forest value-chain equity is best improved by:
 A. Only increasing logging quotas
 B. Transparent collection rights, grading, storage and fair prices
@@ -64,6 +66,8 @@ B. District Level Committee
 C. Central Water Commission
 D. Forest Survey of India
 **Answer: B.** The Gram Sabha/FRC initiates, SDLC examines, and DLC decides claims.
+
+**Cycle133 option review (author-side, bounded).** **A:** RBI regulates finance, not FRA titles. **B:** the FRA implementation pathway uses Gram Sabha initiation, Sub-Divisional Level Committee scrutiny and District Level Committee final determination; the exact Rules and appeal procedure must be checked for a case. **C:** CWC's water-resource functions do not determine FRA claims. **D:** FSI maps forest cover, not individual/community title decisions. [S04–S05]
 
 ### MCQ 10. Community forest resource rights primarily concern:
 A. Only household plots
@@ -113,6 +117,8 @@ B. Annual extraction divided by annual extractable resources, expressed as a per
 C. Annual rainfall divided by forest cover
 D. Borewell depth divided by river length
 **Answer: B.** It is a flow-based assessment ratio, not a stock-depletion percentage.
+
+**Cycle133 option review (author-side, bounded).** **A:** confuses annual flow ratio with all groundwater stored in aquifers. **B:** the CGWB dynamic-resource method defines stage of groundwater extraction as annual groundwater extraction / annual extractable groundwater resources × 100. **C:** rainfall/forest cover is not the assessment formula. **D:** borewell depth/river length has no hydrological basis as an extraction-stage metric. The ratio alone cannot diagnose groundwater quality or spatial inequity. [S08–S09]
 
 ### MCQ 17. Which statement about hard-rock aquifers is most accurate?
 A. All deep borewells have equal yield
@@ -183,6 +189,8 @@ B. A separate prior environmental appraisal requirement for scheduled projects
 C. A private insurance contract
 D. A guarantee of zero future pollution
 **Answer: B.** Project-specific EIA requirements coexist with mining and pollution regulation.
+
+**Cycle133 option review (author-side, bounded).** **A:** mineral concessions and environmental clearances are separate instruments. **B:** the EIA Notification, 2006 (with operative amendments) requires prior environmental appraisal/clearance for activities within its schedule, subject to category-specific provisions. **C:** clearance is a regulatory decision, not an insurance contract. **D:** clearance imposes conditions but does not guarantee zero pollution or future compliance. Current project-specific category and exemptions were *not* independently adjudicated. [S11–S12, S27]
 
 ### MCQ 27. Precaution is most relevant when:
 A. Harm is known and fully reversible

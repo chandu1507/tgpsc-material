@@ -129,6 +129,8 @@ In a hypothetical quarry proposal near a Scheduled Area hamlet, four questions a
 
 Rights-based governance can be institutionally demanding. Village assemblies need maps, legal assistance, accessible records, women’s participation and mechanisms for resolving inter-village boundaries. Overlapping departmental jurisdictions can delay decisions, but speed without due process produces later litigation and distrust. A strong mains answer treats procedural justice as part of ecological sustainability, not an obstacle to it.
 
+**Institutional distinction and examination test.** Before citing a Gram Sabha decision, establish whether the settlement is in a constitutionally notified Scheduled Area and identify the particular power being exercised. PESA's Scheduled Area local-governance framework and FRA's recognition of forest rights are not synonyms. A minor-mineral concession, a land transfer, a community forest resource management decision and a public consultation under environmental law can involve different authorities and legal thresholds. The responsible answer maps the land parcel, claimant category, village institution, statute and stage of decision; it does not treat one meeting or one clearance as a universal substitute for every other legal requirement. [S07, S04–S05]
+
 ## 7. Surface water: hydrological cycle, basins and competing claims
 
 Surface water includes rivers, streams, lakes, reservoirs, tanks and wetlands. Rainfall becomes runoff, soil moisture, infiltration, evapotranspiration and storage; the proportions vary with geology, slope, land cover and storm intensity. A basin is the area draining to a common outlet, and basin boundaries often cross administrative borders. Telangana lies in the Godavari and Krishna systems, with tributaries such as Manjira, Pranhita and Musi. A reservoir's apparent capacity does not equal annual reliable yield: inflow variability, evaporation, siltation, environmental-flow needs and operational rules matter.
@@ -159,6 +161,8 @@ In Telangana, the Musi illustrates the difference between water quantity and qua
 
 A practical district-level response is to publish a water budget: expected rainfall and inflows, current storage, withdrawals by sector, groundwater condition, drinking-water reliability, wastewater return flows and ecological needs. Include drought triggers, conflict-resolution mechanisms and independent audits. This makes trade-offs visible and prevents inflated claims that a single engineering intervention has 'solved' scarcity.
 
+**Policy benchmark and conflict-resolution sequence.** The Government of India's National Water Policy (2012) explicitly prioritises safe drinking water and sanitation, food security and livelihoods dependent on agriculture, while also assigning high priority to minimum ecosystem needs and recommending basin/sub-basin management. This is a *policy framework*, not a self-executing tribunal award or a quantified Telangana allocation. A district administrator should first separate reliable potable supply from total withdrawals, then identify seasonal ecological flow constraints, distinguish consumptive use from return flows, and publish competing demands before choosing a supply expansion. Where wastewater reuse is proposed, specify treatment quality, end-use suitability, monitoring and who bears the cost. An upstream irrigation saving cannot be counted twice as downstream water unless return-flow and consumption effects are modelled. In a drought, transparent triggers and a grievance forum are more defensible than ad hoc claims that every use has absolute priority. [S24]
+
 ## 10. Land resources: soil, competing uses and the four Fs
 
 Land is simultaneously a production input, ecological substrate, location for settlement and bearer of cultural and property rights. The familiar 'four Fs'—food, feed, fuel and fibre—compete for soil, water, nutrients and market incentives. Food crops support human consumption; feed crops and grazing support livestock; fuel includes biomass and bioenergy crops; fibre includes cotton and other industrial crops. Land is also demanded by housing, roads, industry, mining, renewable-energy projects and conservation. These uses cannot be compared only by price per acre because water use, employment, ecosystem services and displacement differ.
@@ -178,6 +182,8 @@ A field-level water-saving technology can produce rebound effects. If drip irrig
 Telangana's tank-command areas, borewell-dependent fields and rainfed uplands face distinct policy needs. Tank desilting and feeder-channel maintenance may improve surface storage and nearby groundwater, but water distribution must reach tail-end farmers. Rainfed areas need drought-tolerant seed, soil moisture conservation, crop insurance and market access. Borewell zones need recharge protection and pumping management. A district strategy should identify the dominant constraint before funding infrastructure.
 
 The distributive dimension is crucial. Large landowners may have several borewells and access to credit; tenants and marginal farmers may rely on purchased water or rain. A water-saving subsidy that requires large upfront investment can worsen inequality. Cooperatives, farmer-producer organisations, targeted credit and shared equipment may broaden access, provided governance is transparent. Environmental sustainability is more durable when livelihood alternatives are credible.
+
+**Recent Telangana-linked research and implementation test.** ICAR-CRIDA's 23–27 February 2026 training for farmers from Mancherial district covered in-situ and ex-situ moisture conservation, farm ponds, micro-irrigation, cropping-system intensification and contingency planning. This is evidence of the institute's *training content*, not evidence that all participating farms achieved measured yield or groundwater gains. ICAR-IIMR's 10 June 2026 account of a jowar procurement centre in Medak illustrates why diversification requires an actual buyer and price-realisation channel in addition to agronomic suitability. In a mains answer, propose a before/after evaluation using rainfall-normalised yields, irrigation withdrawals, net farm income, crop diversity and the proportion of marginal farmers accessing procurement. Distinguish field-level savings from basin-level consumptive use; otherwise a superficially efficient scheme can encourage expansion of total irrigated area. [S25–S26]
 
 ## 12. Mining and mineral economics: from geology to public revenue
 
@@ -199,6 +205,8 @@ Environmental justice asks who experiences the harm and who receives benefits. A
 
 Regulators face information asymmetry because project proponents possess more technical data than affected communities. Independent sampling, public dashboards, satellite monitoring and enforceable penalties can reduce this gap. Equally, arbitrary delays and opaque discretion can incentivise informal activity; predictable procedures and credible enforcement are complements, not opposites. A strong mains answer compares feasible alternatives and specifies a measurable compliance plan.
 
+**Decision-stage audit for a hypothetical Telangana quarry.** First check whether the proposed activity falls within the currently operative schedule of the EIA Notification, 2006, as amended; do not import a historic area threshold into a 2026 answer without checking later amendments and judicial directions. Next document baseline conditions, alternative sites, cumulative effects of nearby mines, water withdrawal and downstream quality. Identify whether public consultation is required for this *category and project*, rather than claiming every mining proposal has an identical hearing procedure. The MoEFCC PARIVESH portal tracks environmental, forest, wildlife and coastal-regulation clearances as separate workflows; it does not certify compliance merely by displaying a permission. Post-clearance monitoring should disclose measured dust, effluent, groundwater, rehabilitation progress and complaints, with independently auditable time series. The exam distinction is between **permission to proceed**, **conditions of permission**, and **demonstrated compliance after operation**. [S11–S12, S27]
+
 ## 14. Sustainability: weak and strong approaches, precaution and thresholds
 
 Sustainable natural-resource management meets present needs without undermining future ecological capacity or unjustly shifting costs. Weak sustainability allows some substitution between natural and produced capital; strong sustainability protects critical natural capital such as irreplaceable habitats, aquifer systems and unique ecological functions. Both recognise trade-offs, but disagree over which losses can be compensated. The precautionary principle addresses serious uncertain harm; the prevention principle addresses known harm; polluter-pays assigns environmental costs to those responsible. These principles do not create a universal permission to pollute after paying a fee.
@@ -219,6 +227,8 @@ Decentralisation can improve knowledge and accountability when Gram Sabhas have 
 
 For a Telangana district, an integrated resource register should map forests, CFR titles, Scheduled Areas, aquifers, tanks, wetlands, quarry leases, industrial discharges and vulnerable settlements. Before granting a new concession, officials should compare the map with field verification and publish the expected trade-offs. After approval, monitoring data should be understandable to citizens. Transparency is a substantive environmental instrument because it changes the ability of communities to detect harm and demand correction.
 
+**Governance scorecard rather than a scheme list.** Compare institutions by what they can lawfully decide, what information they publish and which affected people can challenge a decision. A forest-rights body adjudicates a different question from a groundwater assessment authority; a pollution-control board's consent is not a mineral concession. For a district resource plan, track six measurable outcomes: household water reliability, dry-season ecological flows, groundwater extraction stage, forest-habitat condition, land-restoration progress and resolved grievances. Publish the baseline and observation period for each indicator, and distinguish agency outputs such as 'meetings held' or 'saplings planted' from ecological outcomes. If monitoring shows deterioration, specify who must act, the corrective deadline and how a community can access the evidence. This is an administrative design proposal, not a claim that a uniform dashboard already exists across Telangana. [S08, S11, S17]
+
 ## 16. Integrated Telangana case studies and answer-writing synthesis
 
 **Kawal–Amrabad forest landscapes:** distinguish tiger habitat, forest cover, local livelihood access and statutory rights. An infrastructure proposal should examine corridor connectivity, alternatives, community claims, cumulative effects and conservation benefits. Simply planting trees elsewhere is not a sufficient substitute for an ecological corridor. The appropriate response may be alignment changes, avoidance of critical habitat, lawful safeguards and long-term monitoring.
@@ -230,6 +240,8 @@ For a Telangana district, an integrated resource register should map forests, CF
 **Dryland agriculture and tank networks:** the choice between paddy, pulses, millets, cotton, fodder and biomass is shaped by water, procurement, labour and risk. Tank restoration should be evaluated through functioning feeder channels, storage, tail-end delivery and aquifer response. The most resilient intervention may combine soil moisture conservation, diversification support, groundwater budgeting and producer-market access rather than a large new structure.
 
 **Synthesis for mains:** define the resource and ecological function; specify who uses and governs it; explain the extraction or land-use pressure; apply relevant laws and rights; compare alternatives; propose a realistic institutional package; name measurable indicators and a review period; conclude with ecological security and equitable livelihoods. This sequence turns broad environmental rhetoric into a defensible administrative answer.
+
+**Integrated examination case: water–forest–mining corridor.** Suppose a coal-linked industrial corridor seeks land and water near a forested village. Begin with the site boundary, watershed and legal land status; list customary users, drinking-water sources, upstream and downstream settlements, and the relevant mining, environmental and forest-rights authorities. Compare a no-project alternative, a smaller footprint and a relocation option before discussing mitigation. For each option, report employment and revenue *alongside* expected groundwater demand, discharge load, habitat fragmentation, displacement and closure liability. Do not use a forest-cover statistic as a proxy for legal title or habitat quality, or an EIA clearance as proof of future compliance. A balanced conclusion recommends only the alternative that satisfies applicable law and has enforceable monitoring, publicly disclosed conditions, credible rehabilitation finance and grievance access. [S01–S02, S04–S05, S11–S12]
 
 
 ---
@@ -284,6 +296,8 @@ C. Both figures are 2026 measurements
 D. Tree cover proves all plantations are natural forest
 **Answer: B.** The two distinct figures are from the ISFR 2023 series, released later.
 
+**Cycle133 option review (author-side, bounded).** **A:** false equivalence: forest cover and tree cover are separately reported categories. **B:** supported by the 6 February 2025 MoEFCC parliamentary response and ISFR 2023 figures; 21,179.04 + 3,517.66 = 24,696.70 sq km, but the sum is *not* recorded forest area. **C:** incorrect observation year; ISFR refers to 2023. **D:** neither canopy cover nor tree-cover area proves plantation origin or native biodiversity. [S01–S02]
+
 ### MCQ 5. Commercial forest value-chain equity is best improved by:
 A. Only increasing logging quotas
 B. Transparent collection rights, grading, storage and fair prices
@@ -318,6 +332,8 @@ B. District Level Committee
 C. Central Water Commission
 D. Forest Survey of India
 **Answer: B.** The Gram Sabha/FRC initiates, SDLC examines, and DLC decides claims.
+
+**Cycle133 option review (author-side, bounded).** **A:** RBI regulates finance, not FRA titles. **B:** the FRA implementation pathway uses Gram Sabha initiation, Sub-Divisional Level Committee scrutiny and District Level Committee final determination; the exact Rules and appeal procedure must be checked for a case. **C:** CWC's water-resource functions do not determine FRA claims. **D:** FSI maps forest cover, not individual/community title decisions. [S04–S05]
 
 ### MCQ 10. Community forest resource rights primarily concern:
 A. Only household plots
@@ -367,6 +383,8 @@ B. Annual extraction divided by annual extractable resources, expressed as a per
 C. Annual rainfall divided by forest cover
 D. Borewell depth divided by river length
 **Answer: B.** It is a flow-based assessment ratio, not a stock-depletion percentage.
+
+**Cycle133 option review (author-side, bounded).** **A:** confuses annual flow ratio with all groundwater stored in aquifers. **B:** the CGWB dynamic-resource method defines stage of groundwater extraction as annual groundwater extraction / annual extractable groundwater resources × 100. **C:** rainfall/forest cover is not the assessment formula. **D:** borewell depth/river length has no hydrological basis as an extraction-stage metric. The ratio alone cannot diagnose groundwater quality or spatial inequity. [S08–S09]
 
 ### MCQ 17. Which statement about hard-rock aquifers is most accurate?
 A. All deep borewells have equal yield
@@ -437,6 +455,8 @@ B. A separate prior environmental appraisal requirement for scheduled projects
 C. A private insurance contract
 D. A guarantee of zero future pollution
 **Answer: B.** Project-specific EIA requirements coexist with mining and pollution regulation.
+
+**Cycle133 option review (author-side, bounded).** **A:** mineral concessions and environmental clearances are separate instruments. **B:** the EIA Notification, 2006 (with operative amendments) requires prior environmental appraisal/clearance for activities within its schedule, subject to category-specific provisions. **C:** clearance is a regulatory decision, not an insurance contract. **D:** clearance imposes conditions but does not guarantee zero pollution or future compliance. Current project-specific category and exemptions were *not* independently adjudicated. [S11–S12, S27]
 
 ### MCQ 27. Precaution is most relevant when:
 A. Harm is known and fully reversible
@@ -626,6 +646,11 @@ All entries are primary public authorities or original statutes/official portals
 | S21 | Ministry of Jal Shakti — https://jalshakti-dowr.gov.in/ | Current | Water resources and interstate governance; specific allocation requires tribunal/order |
 | S22 | Telangana Forest Department — https://forests.telangana.gov.in/ | Current | State forest institutions, reserve management and local information |
 | S23 | Singareni Collieries Company Limited — https://scclmines.com/ | Current | Mining company context; operational claims require independent compliance verification |
+
+| S24 | Ministry of Jal Shakti, National Water Policy 2012 — https://www.jalshakti-dowr.gov.in/static/uploads/2024/02/2023020993.pdf | 2012 policy, directly located 31 Oct 2026 | Priority for drinking/sanitation, livelihoods and ecosystem needs; policy guidance, not a Telangana allocation order |
+| S25 | ICAR-CRIDA, Mancherial farmer training — https://icar.gov.in/en/skill-development-programme-farmers-organised-under-sc-sub-plan-icar-crida-hyderabad | 23–27 Feb 2026 | Rainwater-management and contingency-cropping training topics; no measured farm-level impact established |
+| S26 | ICAR-IIMR, Medak jowar procurement centre — https://icar.gov.in/index.php/en/tekmal-fpo-telangana-promoted-icar-iimr-hyderabad-receives-jowar-procurement-centre-boost-market | 10 June 2026 | Documented procurement-centre announcement, not independent proof of farmer income effects |
+| S27 | MoEFCC PARIVESH clearance portal — https://cpc.parivesh.nic.in/ | Portal directly located 31 Oct 2026 | Distinct environmental, forest and wildlife clearance workflows; operative schedule/project applicability still requires direct legal check |
 
 ## Dated updates integrated into the chapter
 
