@@ -1,7 +1,7 @@
 {
   "topic_id": "4-2-2",
   "title": "Human Resources: Demography, Literacy, Occupations, Education and Health",
-  "date": "2026-10-27",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "Cycle41 first direct source and original PDF assessment: 14 detailed concepts (373–417 words), 30 original four-option practice MCQs (A6/B12/C11/D1), six mains model answers with measured section-body counts 224/218/220/226/221/212, three inherited diagrams; preserved original 28-page PDF SHA256 e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2. Direct Telangana Directorate of Economics and Statistics official table confirms Census 2011 population 35,003,674, sex ratio 988, literacy 66.54%, male 75.04%, female 57.99%. Official MoHFW NFHS-5 Phase I Telangana table supports distinct survey overall sex ratio 1,049 and sex ratio at birth 894. Limited correspondence for practice Q2/Q10 and definitions; NOT full key/distractor audit, NOT full mains factual review. Original TGPSC PDF not freshly authenticated, no synchronized integrated edition, browser QA or independent approval.",
-  "next_action": "Validate direct official syllabus and all 30 MCQ keys/120 distractors; improve discriminating alternatives and the D1 key skew without changing correct facts; audit six mains claims and three diagrams; integrate editable master/offline HTML/deterministic PDF; download and verify actual post-edit artifact, browser usability and expert approval.",
+  "evidence": "Cycle41 first direct source and original PDF assessment: 14 detailed concepts (373–417 words), 30 original four-option practice MCQs (A6/B12/C11/D1), six mains model answers with measured section-body counts 224/218/220/226/221/212, three inherited diagrams; preserved original 28-page PDF SHA256 e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2. Direct Telangana Directorate of Economics and Statistics official table confirms Census 2011 population 35,003,674, sex ratio 988, literacy 66.54%, male 75.04%, female 57.99%. Official MoHFW NFHS-5 Phase I Telangana table supports distinct survey overall sex ratio 1,049 and sex ratio at birth 894. Limited correspondence for practice Q2/Q10 and definitions; NOT full key/distractor audit, NOT full mains factual review. Original TGPSC PDF not freshly authenticated, no synchronized integrated edition, browser QA or independent approval. Cycle128: Q1–Q10 option-level source audit (10 keys, 30 distractors), corrected Q10 unsupported subgroup explanation, three inherited diagrams restored in editable master; deterministic CI PDF/downloaded artifact QA pending; NOT APPROVED.",
+  "next_action": "Render synchronized integrated PDF and offline HTML; download and verify actual artifact CRC/SHA/75 originals/links; independently verify remaining 20 MCQs and 80 options, six mains, diagrams, direct syllabus, browser and accessibility.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
@@ -58,6 +58,33 @@
     "original_pdf_sha256": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
     "source_checks": "bounded primary DES Census 2011 and MoHFW NFHS-5 Phase I; not exhaustive",
     "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "cycle128": {
+    "scope": "MCQ Q1–Q10: 10 correct options + 30 distractors, bounded author-side primary-source checks; not independent approval",
+    "direct_source_urls": [
+      "https://www.ecostat.telangana.gov.in/telangana_glance.html",
+      "https://www.mohfw.gov.in/sites/default/files/NFHS-5_Phase-I.pdf",
+      "https://www.who.int/data/gho/indicator-metadata-registry/imr-details/26",
+      "https://www.who.int/data/gho/indicator-metadata-registry/imr-details/123",
+      "https://censusindia.gov.in/census.website/en/about/divisions/census",
+      "https://mospi.gov.in/sites/default/files/press_release/Press_note_MB05_Monthly_bulletin%20-Final_1.pdf",
+      "https://www.unfpa.org/demographic-dividend"
+    ],
+    "arithmetic_checks": {
+      "census_2011_sex_ratio_raw": 987.5314231224328,
+      "census_2011_literacy_percent_raw": 66.5394803865729
+    },
+    "corrected_q10_unsupported_distractor_explanation": true,
+    "original_practice_mcqs_preserved": 30,
+    "reviewed_questions": 10,
+    "reviewed_options": 40,
+    "remaining_questions": 20,
+    "remaining_options": 80,
+    "original_pdf_sha256_preserved": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
+    "master_synchronized": true,
+    "three_original_diagrams_retained": true,
+    "ci_pdf_qa": "PENDING",
     "independent_approvals": 0
   }
 }

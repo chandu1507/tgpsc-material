@@ -17,3 +17,34 @@
 - S17 National Health Policy 2017, Ministry of Health (2017) https://mohfw.gov.in/ — Preventive, primary and comprehensive healthcare orientation
 - S18 National Education Policy 2020, Ministry of Education (2020) https://www.education.gov.in/nep/about-nep — School reform, learning and skills
 - S19 Telangana Government Adult Education Annual Report (2018–19; Census 2011 data) https://telangana.gov.in/wp-content/uploads/2023/05/Adult-Education-Department-Telangana-Annual-Report-2018-19.pdf — Independent official confirmation of historical literacy disparities
+
+## Cycle128 — bounded author-side option audit: original MCQs 1–10 (31 October 2026)
+
+**Scope and evidence rule.** This checks exactly ten existing original four-option practice questions (10 proposed keys and 30 distractors). It does **not** authenticate TGPSC PYQs, certify the other 20 questions, verify six mains answers, or constitute independent academic approval. Definitions are correlated to official statistical publishers; interpretive items are identified as such. Source URLs below were opened or indexed on 31 October 2026.
+
+| Q | Proposed key | A — evaluation | B — evaluation | C — evaluation | D — evaluation | Evidence and limitation |
+|---|---|---|---|---|---|---|
+| 1 | B | Wrong direction and scale: males per 100 females. | Correct: females per 1,000 males for the conventional overall sex ratio. | Birth-share measure, not overall population ratio. | Child-only population, not the overall ratio; also mismatched denominator. | S02, S20; definitional check. |
+| 2 | C | 894 is the **NFHS-5 sex ratio at birth**, not Census 2011 overall. | 971 is Telangana's **Census 2001 overall** ratio. | Correct: **988** for Census 2011 Telangana overall. | 1,049 is **NFHS-5 sampled total-population** ratio, not Census 2011. | S02, S04, S21; directly checked state tables. |
+| 3 | B | Population count is not the IMR denominator. | Correct: IMR is expressed per **1,000 live births**. | 100,000 women is not the IMR denominator. | Pregnancies include outcomes other than live births and are not the IMR denominator. | S22; WHO definition. |
+| 4 | C | 100 births is not the MMR convention. | Women in the population are not the standard MMR denominator. | Correct: maternal deaths per **100,000 live births**. | 1,000 total people describes neither maternal risk nor MMR. | S23; WHO definition. |
+| 5 | C | Births per 1,000 population describes crude birth rate. | Children already born to current mothers is a retrospective count, not synthetic-period TFR. | Correct: hypothetical lifetime births under prevailing age-specific fertility rates. | Population growth includes deaths and migration, not just fertility. | S24; WHO method. |
+| 6 | C | NFHS is a household sample survey. | PLFS is a household labour-force sample survey. | Correct: the Population Census is a decennial population enumeration. | SRS estimates vital rates from a sample registration system. | S25, S04, S12; institutional methods. |
+| 7 | A | Correct: **WPR = employed persons / population × 100** for the stated universe and reference period. | UR divides unemployed persons by labour force. | TFR is a fertility indicator. | IMR measures infant mortality. | S26; MoSPI indicator definitions. |
+| 8 | B | Age-structure change cannot guarantee growth. | Correct: a favourable support ratio creates a **conditional potential** for growth. | A youth subsidy is not the demographic dividend. | Larger total population alone does not establish a better producer-to-consumer ratio. | S27; UNFPA explanation; conceptual correlation. |
+| 9 | C | Higher female employment helps convert potential into output. | Foundational literacy improves human-capital readiness. | Correct: persistent youth unemployment obstructs productive use of the working-age cohort. | Lower preventable mortality generally strengthens health capabilities. | S27; UNFPA; policy inference rather than an observed Telangana causal estimate. |
+| 10 | C | 49.5% is not the Telangana Census 2011 **statewide total** rate in the cited DES table; its provenance is not established here. | 57.99% is **female** literacy in the DES 2011 table. | Correct: statewide total literacy is **66.54%** for age 7+. | 81.09% is not the statewide total in that DES table; its provenance is not established here. | S02, S20; directly checked state table; previous explanation incorrectly implied all other values were identifiable subgroups. |
+
+**Independent arithmetic cross-check (DES Census 2011):** 17,392,041 females / 17,611,633 males × 1,000 = **987.531**, rounded to **988**. Total literates 20,696,778 / (35,003,674 population − 3,899,166 aged 0–6) × 100 = **66.5395%**, rounded to **66.54%**. These checks independently reproduce the published state-level values; they do not verify Census field enumeration.
+
+**Editorial finding:** Q10's previous explanation stated that all three incorrect alternatives represented subgroups. That assertion was unsupported for 49.5% and 81.09% and is corrected in the source MCQ. The overall key distribution remains **A6/B12/C11/D1**; no answer-position changes were made simply to make letters look balanced. All 20 remaining MCQs, all six mains claims, diagrams, syllabus reauthentication, and direct browser/accessibility review remain open.
+
+### Cycle128 primary-source addendum
+- S20 Telangana DES, *Telangana State at a Glance*, 2011 Census demographics and literacy, checked 2026-10-31: https://www.ecostat.telangana.gov.in/telangana_glance.html — direct values and arithmetic.
+- S21 MoHFW, *NFHS-5 Telangana State Fact Sheet*, 2019–20, checked 2026-10-31: https://www.mohfw.gov.in/sites/default/files/NFHS-5_Phase-I.pdf — sample sex ratios 1,049 total and 894 at birth; not a Census time series.
+- S22 WHO, *Infant mortality rate*, checked 2026-10-31: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/infant-mortality-rate-%28probability-of-dying-between-birth-and-age-1-per-1000-live-births%29 — per-1,000-live-births definition.
+- S23 WHO, *Maternal mortality ratio*, checked 2026-10-31: https://www.who.int/data/gho/indicator-metadata-registry/imr-details/26 — maternal deaths per 100,000 live births.
+- S24 WHO, *Total fertility rate*, checked 2026-10-31: https://www.who.int/data/gho/indicator-metadata-registry/imr-details/123 — synthetic period measure.
+- S25 Office of Registrar General & Census Commissioner, *Census Division*, checked 2026-10-31: https://censusindia.gov.in/census.website/en/about/divisions/census — decennial population enumeration.
+- S26 MoSPI, *PLFS Monthly Bulletin*, definitions of LFPR/WPR/UR, checked 2026-10-31: https://mospi.gov.in/sites/default/files/press_release/Press_note_MB05_Monthly_bulletin%20-Final_1.pdf — denominators and reference periods.
+- S27 UNFPA, *Demographic dividend*, checked 2026-10-31: https://www.unfpa.org/demographic-dividend — conditional opportunity and human-capital/employment prerequisites.
