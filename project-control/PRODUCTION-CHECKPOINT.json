@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-1-2",
+    "last_reported_topic": "4-1-3",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle123 Topic 4-1-2 author audit 25 MCQs/100 options; 33-page CI PDF and downloaded artifact 13023702720 integrity PASS. No R1–R8 ready or independent approvals."
+    "note": "Cycle124 Topic 4-1-3 bounded ten-key/30-distractor source audit, synchronized 30-page PDF and final post-evidence artifact 13025328177 integrity verified. Diagram 2 requires correction. No R1-R8 ready or independent approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -413,8 +413,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle37_ci_integrated_pdf_published_artifact_download_pending",
-      "notes": "Original 27-page PDF SHA256 2ebe4a846d93ba9946c821929ffa445a38a49013c722045d83eaa24b2b1bafb0 preserved. 15 concepts >=300 words, 25 original practice MCQs, six mains. Cycle37 primary Commission syllabus R1 PASS, RBI M2/M3 and DICGC worked labs, Q11/Q25 revised, mains M1/M4/M6 expanded body-only 218/206/201/212/203/207. Full independent audit and remote CI PDF pending. GitHub CI renderer 40500141700 produced synchronized 28-page PDF SHA256 145ca134c1a91345f91119384a9eb9f5b539ccf97b9f4faf887286e49c1e1476; R8 IN_PROGRESS.",
+      "production_review": "cycle124_ten_original_mcq_source_audit_ci_pdf_and_downloaded_artifact_verified_diagram_R7_blocked",
+      "notes": "Cycle124: 10 existing MCQ keys and 30 distractors author-side primary-issuer checked, 15 MCQs still pending; six mains claim-level review pending. 30-page synchronized CI PDF SHA256 7ad149fa1e22dc3913d2dc4f9da1e5e791828734546cbc4b25972176091fa9ff. Actual final post-evidence artifact 13025328177 downloaded, SHA256 fbc4dc105076b3802c6ec1a2d415d8ce94ce6b17a876a146ceb04f3953eeadf6, CRC PASS, 2083 files, 75 original PDFs unchanged, 75 readiness JSON, 88 HTML, 605 local links/1059 fragments zero broken. Diagram 2 regulator arrows misleading; R7 blocked. R1-R8 not ready, no independent approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-3.json",
       "latest_readiness_evidence": "project-control/academic-readiness/4-1-3-cycle37-primary-source-and-structural-audit-2026-10-27.json"
