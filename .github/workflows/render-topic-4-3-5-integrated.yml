@@ -6,6 +6,7 @@ on:
       - 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 5/source/complete-notes.md'
       - 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 5/source/mcq-option-audit-cycle136.md'
       - 'scripts/publish_topic_4_3_5_cycle136.py'
+      - 'scripts/render_topic_4_3_5_integrated.py'
       - '.github/workflows/render-topic-4-3-5-integrated.yml'
   workflow_dispatch:
 permissions:
@@ -37,7 +38,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             if [ ! -e "$topic/source/diagrams" ]; then ln -s ../diagrams "$topic/source/diagrams"; fi
-            python scripts/render_topic_4_3_4_integrated.py --input "$topic/source/complete-notes.md" --output "$topic/source/integrated-student-edition-cycle136.pdf" --qa /tmp/topic-4-3-5-render-qa.json
+            python scripts/render_topic_4_3_5_integrated.py --input "$topic/source/complete-notes.md" --output "$topic/source/integrated-student-edition-cycle136.pdf" --qa /tmp/topic-4-3-5-render-qa.json
             python scripts/publish_topic_4_3_5_cycle136.py
             git add -- "$topic/source/integrated-student-edition-cycle136.pdf" "$topic/integrated-student-edition-cycle136.html" "$topic/integrated-cycle136-manifest.json" 'project-control/academic-readiness/4-3-5-cycle136-ci-render-qa-2026-10-31.json'
             if git diff --cached --quiet; then
