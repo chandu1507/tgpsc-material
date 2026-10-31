@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-1-4",
+    "last_reported_topic": "4-1-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle125 4-1-4 Q1-Q12 author-side 12-key/36-distractor review; source metadata corrected; renderer 41162358899 SUCCESS; final artifact 13027182934 actually downloaded, SHA/CRC/75-original/link QA PASS. R2-R8 incomplete, approvals zero."
+    "note": "Cycle126 Topic 4-1-5 Q1-Q10 40-option author-side review (8 bounded source correlations, Q4/Q6 provisional); 35-page CI PDF SHA 4287e86a...; actual artifact 13029007702 downloaded SHA/CRC/75 original PDFs/605 local links/1074 DOM fragments PASS; 15 keys/45 distractors, six mains claims, R2-R8 and independent approvals pending."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -438,8 +438,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle39_source_audit_ci_integrated_pdf_and_downloaded_artifact_verified",
-      "notes": "11,732-word complete Markdown; 34-page PDF; 14 substantive sections; 25 explained original MCQs; six 200–250-word mains answers; three diagrams; 17-source register. Direct official syllabus PDF authentication and independent academic audit pending. Cycle39: 15 concepts, 25 original MCQs (Q21/Q25 corrected), six body-only mains 235/239/233/230/233/227, hypothetical planning-outcome laboratory; 31-page GitHub CI PDF, downloaded artifact CRC/SHA/75 original PDFs/links verified; original PDF preserved, independent approval zero.",
+      "production_review": "cycle126_10_mcq_40_option_author_audit_ci_pdf_actual_downloaded_artifact_verified_rebuild_pending",
+      "notes": "11,732-word complete Markdown; 34-page PDF; 14 substantive sections; 25 explained original MCQs; six 200–250-word mains answers; three diagrams; 17-source register. Direct official syllabus PDF authentication and independent academic audit pending. Cycle39: 15 concepts, 25 original MCQs (Q21/Q25 corrected), six body-only mains 235/239/233/230/233/227, hypothetical planning-outcome laboratory; 31-page GitHub CI PDF, downloaded artifact CRC/SHA/75 original PDFs/links verified; original PDF preserved, independent approval zero. Cycle126 31 Oct: Q1-Q10 40 explicit option rationales (8 bounded source-correlated; Q4/Q6 provisional); 35-page CI PDF SHA256 4287e86a...; downloaded artifact 13029007702 SHA/CRC/75 originals/link QA PASS. R1-R8 non-PASS; 0 independent approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-1-5.json"
     },
