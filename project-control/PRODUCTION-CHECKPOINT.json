@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-2-4",
+    "last_reported_topic": "4-2-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle130 Topic 4-2-4: 10 existing original MCQ keys and 30 distractors bounded author-side checked against seven primary-issuer source entries; synchronized 33-page CI PDF SHA 2643d2e27b38d749cbba72fa457b8c85bf6130c40e9ef5a79fef8cd78188a1d6; actual downloaded packaging artifact 13035288474 outer/inner CRC, digest, 75 original PDFs, 75 readiness JSON, offline links and 16/16 manifest hashes PASS. 20 keys/60 distractors, six mains claims, diagrams, browser and expert remain. ZERO approvals."
+    "note": "Cycle131 Topic 4-2-5 10 keys/30 distractors source-correlated author-side, cumulative 15/30; actual downloaded artifact 13035999248 SHA/CRC/75 original PDFs/links/manifest PASS; 31-page PDF; 15 keys/45 distractors, six mains claims, diagrams, browser and expert remain. ZERO approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -500,11 +500,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle43_integrated_ci_pdf_and_actual_post_fix_artifact_verified_academic_audit_pending",
-      "notes": "Original 25-page PDF SHA256 cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6 preserved. Cycle43 17 explanatory concepts (all >=300 words), 30 original practice MCQs (Q4/5/12/13/19 revised with bounded official-source checks), six body-only mains 209/211/201/213/205/214, three original diagrams. GitHub CI 29-page integrated PDF SHA256 8f814b9b8bba63941806486a0848b595b8bc057091cf93398763d4d1e26e1798; post-fix downloaded artifact 12756469781 CRC/SHA/75 originals/links/manifest verified. R8 IN_PROGRESS, not PASS. R1-R7 incomplete; independent approvals ZERO.",
+      "production_review": "cycle131_ten_existing_mcqs_option_audited_ci_pdf_and_actual_downloaded_artifact_verified_rebuild_pending",
+      "notes": "Original 25-page PDF SHA256 cf32e25f46c9081db658e3fdd1b8fa52497dedcedad039d238d054a3416433a6 preserved. 17 concepts >=300 words, 30 original practice MCQs. Cycle131 10 existing MCQs and 30 distractors author-side option-audited against direct IES, TG-iPASS, TIHCL, Ministry MSME and ICT issuer sources; cumulative 15 keys/45 distractors bounded, 15 keys/45 distractors outstanding. Six mains body counts 209/211/201/213/205/214 but claim-level verification pending; three original diagrams. Synchronized 31-page PDF SHA256 2445d22aa511ad9f811efcdbeba7e3198c418f152487a18e8207618a72a3dfdd. Actual downloaded GitHub artifact 13035999248 SHA/CRC/75 original PDFs unchanged/75 readiness JSON/567 local links/1185 fragments/16 manifest hashes PASS. Browser/accessibility and named expert not certified. R1-R8 not all PASS; R9 NOT_STARTED; approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-2-5.json",
-      "latest_readiness_evidence": "project-control/academic-readiness/4-2-5-cycle43-actual-downloaded-artifact-qa-2026-10-27.json"
+      "latest_readiness_evidence": "project-control/academic-readiness/4-2-5-cycle131-actual-downloaded-post-correction-artifact-qa-2026-10-31.json"
     },
     {
       "id": "4-3-1",
