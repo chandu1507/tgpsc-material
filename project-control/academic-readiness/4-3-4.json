@@ -1,7 +1,7 @@
 {
   "topic_id": "4-3-4",
   "title": "Environmental Pollution and Solid Waste Management: Generation, Impacts, Recycling and Reuse",
-  "date": "2026-10-28",
+  "date": "2026-10-31",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle47 first direct assessment: 18 concepts (10 and 17 under300), 30 original practice MCQs A2/B26/C2/D0, six mains body-only 220/219/207/214/216/209, three diagrams; MCQ2/3 limited CPCB 2026 rule key correspondences; all distractors and other 28 keys pending. Original 23-page PDF preserved. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals.",
-  "next_action": "Full independent review of 30 MCQ keys and 90 distractors, six mains claims, three diagrams, official syllabus, and direct browser accessibility. Integrity QA does not establish academic approval.",
+  "evidence": "Cycle47 first direct assessment: 18 concepts (10 and 17 under300), 30 original practice MCQs A2/B26/C2/D0, six mains body-only 220/219/207/214/216/209, three diagrams; MCQ2/3 limited CPCB 2026 rule key correspondences; all distractors and other 28 keys pending. Original 23-page PDF preserved. R1–R6 IN_PROGRESS, R7/R8 BLOCKED, zero approvals. Cycle135: ten existing keys and 30 distractors author-side source-correlated in editable master; CI PDF and downloaded archive QA PENDING; twenty keys/60 distractors and all mains remain. No approval.",
+  "next_action": "Render Cycle135 updated master via guarded GitHub CI; download actual post-render package and check SHA/CRC/75 originals/links; finish remaining 20 keys and 60 distractors, six mains claims, three diagrams, browser QA and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "1fbdffc3df5734ca855fd42240bd93a2dd5254f6b8c5bad485733c13daa0e159",
@@ -83,5 +83,29 @@
     "corrected_actual_downloaded_artifact_qa": "project-control/academic-readiness/4-3-4-cycle48-corrected-downloaded-artifact-qa-2026-10-28.json",
     "corrected_artifact_id": 12777079371,
     "corrected_artifact_sha256": "a71be796659a4ac845f5b863737735a56bc59b81e2a2505d4d66c1e75a6eb9f7"
+  },
+  "cycle135": {
+    "reviewed_existing_mcqs": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      9,
+      11,
+      13,
+      24,
+      26
+    ],
+    "keys_source_correlated_author_side": 10,
+    "distractors_explained": 30,
+    "keys_pending": 20,
+    "distractors_pending": 60,
+    "original_questions_preserved": 30,
+    "source_register": "Paper 4/Unit 3 - Development and Environmental Problems/Topic 4/source/sources-and-audit.md",
+    "audit": "project-control/academic-readiness/4-3-4-cycle135-ten-mcq-option-audit-2026-10-31.md",
+    "integrated_master_updated": true,
+    "integrated_pdf_status": "PENDING_CI_RENDER_AND_DOWNLOADED_ARTIFACT_QA",
+    "independent_approvals": 0
   }
 }
