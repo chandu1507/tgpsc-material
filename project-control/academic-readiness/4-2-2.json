@@ -26,7 +26,7 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle41 first direct source and original PDF assessment: 14 detailed concepts (373\u2013417 words), 30 original four-option practice MCQs (A6/B12/C11/D1), six mains model answers with measured section-body counts 224/218/220/226/221/212, three inherited diagrams; preserved original 28-page PDF SHA256 e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2. Direct Telangana Directorate of Economics and Statistics official table confirms Census 2011 population 35,003,674, sex ratio 988, literacy 66.54%, male 75.04%, female 57.99%. Official MoHFW NFHS-5 Phase I Telangana table supports distinct survey overall sex ratio 1,049 and sex ratio at birth 894. Limited correspondence for practice Q2/Q10 and definitions; NOT full key/distractor audit, NOT full mains factual review. Original TGPSC PDF not freshly authenticated, no synchronized integrated edition, browser QA or independent approval. Cycle128: Q1\u2013Q10 option-level source audit (10 keys, 30 distractors), corrected Q10 unsupported subgroup explanation, three inherited diagrams restored in editable master; deterministic CI PDF/downloaded artifact QA pending; NOT APPROVED.",
+  "evidence": "Cycle41 first direct source and original PDF assessment: 14 detailed concepts (373–417 words), 30 original four-option practice MCQs (A6/B12/C11/D1), six mains model answers with measured section-body counts 224/218/220/226/221/212, three inherited diagrams; preserved original 28-page PDF SHA256 e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2. Direct Telangana Directorate of Economics and Statistics official table confirms Census 2011 population 35,003,674, sex ratio 988, literacy 66.54%, male 75.04%, female 57.99%. Official MoHFW NFHS-5 Phase I Telangana table supports distinct survey overall sex ratio 1,049 and sex ratio at birth 894. Limited correspondence for practice Q2/Q10 and definitions; NOT full key/distractor audit, NOT full mains factual review. Original TGPSC PDF not freshly authenticated, no synchronized integrated edition, browser QA or independent approval. Cycle128: Q1–Q10 option-level source audit (10 keys, 30 distractors), corrected Q10 unsupported subgroup explanation, three inherited diagrams restored in editable master; deterministic CI PDF/downloaded artifact QA pending; NOT APPROVED.",
   "next_action": "Render synchronized integrated PDF and offline HTML; download and verify actual artifact CRC/SHA/75 originals/links; independently verify remaining 20 MCQs and 80 options, six mains, diagrams, direct syllabus, browser and accessibility.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -61,7 +61,7 @@
     "independent_approvals": 0
   },
   "cycle128": {
-    "scope": "MCQ Q1\u2013Q10: 10 correct options + 30 distractors, bounded author-side primary-source checks; not independent approval",
+    "scope": "MCQ Q1–Q10: 10 correct options + 30 distractors, bounded author-side primary-source checks; not independent approval",
     "direct_source_urls": [
       "https://www.ecostat.telangana.gov.in/telangana_glance.html",
       "https://www.mohfw.gov.in/sites/default/files/NFHS-5_Phase-I.pdf",
@@ -84,10 +84,16 @@
     "original_pdf_sha256_preserved": "e8ed01a16787c6c2938d64b1a986a936a99825c2a89f59a2f68e1871060b24b2",
     "master_synchronized": true,
     "three_original_diagrams_retained": true,
-    "ci_pdf_qa": "PENDING",
+    "ci_pdf_qa": "ACTUAL_GITHUB_ARTIFACT_DOWNLOADED_INTEGRITY_PASS_NOT_ACADEMICALLY_APPROVED",
     "independent_approvals": 0,
     "remote_integrated_edition_rendered": true,
     "ci_integrated_pdf_sha256": "fc59635b1b4728002784c020222a28a473b1f5c0c3ca267ce33f9915457d824c",
-    "ci_integrated_pdf_pages": 28
+    "ci_integrated_pdf_pages": 28,
+    "artifact_id": 13032612425,
+    "artifact_sha256": "33127b9db48bc2d373b8be2facc7ab1461b10e952a00800fa818c04eb092d9eb",
+    "local_links_checked": 563,
+    "broken_links": 0,
+    "fragment_links_checked": 1180,
+    "broken_fragments": 0
   }
 }

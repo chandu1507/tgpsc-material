@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "4-2-1",
+    "last_reported_topic": "4-2-2",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle127 Topic 4-2-1 8 original MCQ keys/24 distractors bounded author-side checked; 33-page synchronized CI PDF; actual artifact 13030608109 downloaded CRC/digest/75 originals/605 links/1083 fragments PASS. 19 keys/57 distractors, six mains, R1/R4/R6/R8 and independent expert pending. No approvals."
+    "note": "Cycle128 4-2-2: 10/30 original MCQs, 40 option rationales author-side primary-source checked; Q10 unsupported distractor explanation corrected. 28-page integrated PDF; actual downloaded artifact 13032612425 CRC/digest/75 originals/563 local links/1180 fragments PASS. 20 MCQs/80 options, six mains, R1–R7 and independent expert pending. ZERO approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -462,8 +462,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle41_first_objective_assessment_rebuild_required",
-      "notes": "Expanded 28-page human resources draft, 14 detailed sections, 30 original explained MCQs, six original mains models, three diagrams; full academic audit pending. Cycle41: direct 14-concept/30-MCQ/six-mains original-PDF assessment; limited official Census/NFHS checks; no integrated edition or independent approval.",
+      "production_review": "cycle128_source_correlated_first_ten_mcqs_ci_pdf_downloaded_artifact_integrity_verified_rebuild_pending",
+      "notes": "Expanded 28-page human resources draft, 14 detailed sections, 30 original explained MCQs, six original mains models, three diagrams; full academic audit pending. Cycle41: direct 14-concept/30-MCQ/six-mains original-PDF assessment; limited official Census/NFHS checks; no integrated edition or independent approval. Cycle128: 10 original MCQs/40 options bounded author-side reviewed, Census sex ratio/literacy recomputed, Q10 explanation corrected; three original diagrams preserved; synchronized 28-page CI PDF SHA fc59635b1b4728002784c020222a28a473b1f5c0c3ca267ce33f9915457d824c; downloaded artifact 13032612425 CRC/digest/75 originals/563 links/1180 fragments zero broken. R8 IN_PROGRESS, 20 questions and six mains still pending; NOT approved.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/4-2-2.json"
     },
