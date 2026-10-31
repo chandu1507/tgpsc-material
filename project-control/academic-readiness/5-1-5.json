@@ -1,7 +1,7 @@
 {
   "topic_id": "5-1-5",
   "title": "Energy Resources: Indian Demand, Conventional and Renewable Sources, Energy Security and Biofuels",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,12 +26,12 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-1-5-cycle54-ci-render-qa-2026-10-28.json",
-  "next_action": "Complete independent all-30 MCQ key and 90 distractor review, claim-level six mains review, diagram accuracy, official syllabus and browser accessibility; R8 remains IN_PROGRESS despite verified publication; R9 only after full R1-R8 PASS and named expert.",
+  "evidence": "project-control/academic-readiness/5-1-5-cycle141-ten-mcq-four-option-source-audit-2026-11-01.json",
+  "next_action": "Verify remaining 20 keys/60 distractors; independently claim-audit six mains, three diagrams, source/register, direct syllabus and browser accessibility. Cycle141 author-side checks are not academic approval; verify CI and actual downloaded post-edit artifact before marking R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
-    "cycle": 53,
+    "cycle": 141,
     "concepts": 16,
     "concepts_under_300": 0,
     "mcqs": 30,
@@ -53,8 +53,32 @@
     "bounded_primary_source_key_checks": 5,
     "arithmetic_checks": 1,
     "remaining_keys_unverified": 24,
-    "all_distractors_unverified": true,
-    "academic_approvals": 0
+    "all_distractors_unverified": false,
+    "academic_approvals": 0,
+    "bounded_author_side_four_option_reviews": 10,
+    "reviewed_question_numbers": [
+      1,
+      2,
+      6,
+      7,
+      10,
+      12,
+      13,
+      16,
+      21,
+      22
+    ],
+    "reviewed_keys": 10,
+    "reviewed_distractors": 30,
+    "remaining_keys_without_four_option_review": 20,
+    "remaining_distractors_without_four_option_review": 60,
+    "prior_limited_key_correspondences_not_double_counted": [
+      3,
+      14,
+      18,
+      27,
+      29
+    ]
   },
   "last_ci_render": {
     "run_id": 40635045816,

@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-01",
+  "cycle": 141,
+  "topic_id": "5-1-5",
+  "title": "Energy Resources: Indian Demand, Conventional and Renewable Sources, Energy Security and Biofuels",
+  "academic_status": "ASSESSED_REBUILD_REQUIRED",
+  "approved": false,
+  "method": "Author-side option-level source correlation against nine US DOE primary technical references; original options and answer letters unchanged. No official PYQ or named expert consultation.",
+  "reviewed_questions": [
+    1,
+    2,
+    6,
+    7,
+    10,
+    12,
+    13,
+    16,
+    21,
+    22
+  ],
+  "reviewed_keys": 10,
+  "reviewed_distractors": 30,
+  "remaining_keys_without_full_option_review": 20,
+  "remaining_distractors_without_full_option_review": 60,
+  "prior_limited_key_checks_not_double_counted": [
+    3,
+    14,
+    18,
+    27,
+    29
+  ],
+  "reproducible_arithmetic": {
+    "Q2": "219000/(50*8760)=0.5",
+    "Q1": "2 MW*3 hours=6 MWh",
+    "Q13": "16/27=0.592592..."
+  },
+  "sources": [
+    "https://www.energy.gov/ne/articles/what-generation-capacity",
+    "https://www.energy.gov/cmei/water/glossary-hydropower-terms",
+    "https://www.energy.gov/cmei/water/how-hydropower-works",
+    "https://www.energy.gov/cmei/water/pumped-storage-hydropower",
+    "https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics",
+    "https://www.energy.gov/cmei/systems/windexchange/small-wind-guidebook",
+    "https://www.energy.gov/sites/default/files/2022-10/22-RNG.pdf",
+    "https://www.energy.gov/cmei/fuels/fuel-cell-basics",
+    "https://www.energy.gov/cmei/fuels/hydrogen-fuel-basics"
+  ],
+  "academic_limitations": [
+    "Several distractors are trivially wrong and need better reauthoring before high-quality R5.",
+    "No independent answer-key review.",
+    "Six mains claims not audited.",
+    "Three diagrams not independently validated.",
+    "Official syllabus reauthentication and complete browser accessibility pending.",
+    "R1–R8 incomplete, R9 NOT_STARTED, academic approvals ZERO."
+  ],
+  "publication_state": "Source-stage branch only; no CI-rendered PDF or downloaded artifact verified at creation of this record."
+}
