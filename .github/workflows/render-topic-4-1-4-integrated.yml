@@ -104,15 +104,16 @@ jobs:
                 if x0<10 or y0<0 or x1>p.rect.width-10 or y1>p.rect.height-3:violations.append(i+1)
           assert not violations,violations
           manifest=json.loads((root/'manifest.json').read_text())
-          manifest['date']='2026-10-27'
+          manifest['date']='2026-10-31'
+          manifest['source_syllabus_status']='original_commission_notification_02_2024_p31_directly_verified'
           manifest['syllabus_verification']='Original Commission Notification 02/2024 Annexure-II printed p31 directly verified: R1 PASS'
           manifest['academic_status']='not_approved'
-          manifest['production_status']='cycle38_CI_integrated_pdf_and_offline_html; browser accessibility pending'
+          manifest['production_status']='cycle125_CI_integrated_pdf_and_offline_html; browser accessibility pending'
           manifest['word_count']=len(md.split())
           manifest['pdf_pages']=len(doc)
           manifest['files']={str(f.relative_to(root)):{'sha256':hashlib.sha256(f.read_bytes()).hexdigest(),'bytes':f.stat().st_size} for f in sorted(root.rglob('*')) if f.is_file() and f.name!='manifest.json'}
           (root/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
-          qa={'date':'2026-10-27','topic':'4-1-4','pages':len(doc),'pdf_sha256':hashlib.sha256(pdf.read_bytes()).hexdigest(),'embedded_images':images,'blank_pages':0,'text_boundary_violations':0,'original_pdf_sha256':hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest(),'manifest_hashes':len(manifest['files']),'academically_approved':False,'browser_accessibility_certified':False}
+          qa={'date':'2026-10-31','cycle':125,'topic':'4-1-4','pages':len(doc),'pdf_sha256':hashlib.sha256(pdf.read_bytes()).hexdigest(),'embedded_images':images,'blank_pages':0,'text_boundary_violations':0,'original_pdf_sha256':hashlib.sha256((root/'complete-notes.pdf').read_bytes()).hexdigest(),'manifest_hashes':len(manifest['files']),'academically_approved':False,'browser_accessibility_certified':False}
           Path('project-control/academic-readiness/4-1-4-cycle38-ci-render-qa.json').write_text(json.dumps(qa,indent=2)+'\n')
           print(qa)
           PY
