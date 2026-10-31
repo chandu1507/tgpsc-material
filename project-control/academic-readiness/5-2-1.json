@@ -1,7 +1,7 @@
 {
   "topic_id": "5-2-1",
   "title": "Crop Science in India: Crop Plants, Forest Species, Medicinal and Aromatic Plants",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "BLOCKED"
   },
-  "evidence": "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json",
-  "next_action": "Independently verify 30 MCQ keys and 90 distractors; improve weak options without artificial answer rotations; claim-level audit six mains and three diagrams; authenticate 2024 syllabus; synchronized editable master and CI PDF; downloaded post-edit artifact and browser QA; named expert only after R1–R8 PASS.",
+  "evidence": "project-control/academic-readiness/5-2-1-cycle142-source-audit-and-local-candidate-qa-2026-11-01.json",
+  "next_action": "Complete 20 remaining MCQ keys/60 distractors, six mains claim audits, three diagrams and source-to-claim checks; correct weak distractors by content not letter rotation; authenticate syllabus; render and download CI PDF, validate links/CRC/75 originals, browser QA, then independent R1–R8 assessment.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -56,5 +56,33 @@
     "all_distractors_unverified": true,
     "original_pdf_pages": 23,
     "original_pdf_sha256": "87b7953c9f52fb451fb846e4e0cf0cf84ede708c9d7fa17b5175f8b51d120025"
+  },
+  "evidence_history": [
+    "project-control/academic-readiness/5-2-1-cycle54-direct-artifact-depth-and-ppvfra-audit-2026-10-28.json"
+  ],
+  "cycle142": {
+    "reviewed_existing_mcqs": [
+      2,
+      4,
+      6,
+      7,
+      8,
+      11,
+      13,
+      17,
+      20,
+      28
+    ],
+    "author_side_correct_keys_checked": 10,
+    "author_side_distractors_explained": 30,
+    "remaining_keys_without_cycle142_option_audit": 20,
+    "remaining_distractors_without_cycle142_option_audit": 60,
+    "source_audit": "Paper 5/Unit 2 - Modern Applications of Science/Topic 1/source/academic-option-audit-cycle142.md",
+    "integrated_master": "Paper 5/Unit 2 - Modern Applications of Science/Topic 1/source/complete-notes.md",
+    "local_candidate_pdf_pages": 25,
+    "github_ci_pdf_generated": false,
+    "github_post_edit_artifact_downloaded": false,
+    "full_browser_accessibility_certified": false,
+    "independent_approval": false
   }
 }
