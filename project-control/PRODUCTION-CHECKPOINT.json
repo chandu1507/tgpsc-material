@@ -679,8 +679,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle57_ci_integrated_pdf_actual_downloaded_artifact_verified_independent_academic_audit_pending",
-      "notes": "Original full manuscript, 30 explained MCQs and six structured mains models; independent academic audit pending. Cycle57: three shallow concepts expanded, MCQ1 wrong distractor explanation corrected, mains M1 body-only expanded, 23-source register, local 24-page PDF; no full MCQ or independent academic approval. Cycle57 post-render artifact 12799943156 downloaded and CRC/SHA/75-original/HTML-link/manifest verified; R8 IN_PROGRESS, no approval.",
+      "production_review": "cycle145_ci_27page_pdf_actual_downloaded_artifact_verified_10mcq_author_side_q27_ambiguous_academic_rebuild_pending",
+      "notes": "Cycle145 10 original MCQs (Q1/3/5/9/10/13/17/23/24/29) reviewed at author-side four-option level; 20 MCQs/60 distractors remain; Q27 ambiguous as written. CI 27-page integrated PDF SHA256 441da6ecea37a66184ca59fd5d97014faf8476074ec4cb3c8d2727b92d911fc0; actual downloaded artifact 13060393127 SHA/CRC/75 originals/75 readiness/634 local links/1581 fragments PASS. Six mains claim audits, three diagrams, full browser accessibility and independent expert review remain. NOT APPROVED.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-4.json"
     },

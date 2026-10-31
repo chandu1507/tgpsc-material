@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Paper 5/Unit 2 - Modern Applications of Science/Topic 4/source/academic-option-audit-cycle145.md",
-  "next_action": "After Cycle145 audit, verify guarded GitHub CI PDF and downloaded publication artifact; correct Q27 ambiguous stem without altering original topic PDF; review 20 remaining keys/60 distractors, six mains, three diagrams, browser and syllabus. R1-R8 incomplete, R9 NOT_STARTED, zero approvals.",
+  "evidence": "project-control/academic-readiness/5-2-4-cycle145-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
+  "next_action": "Q27 stem ambiguous and requires controlled correction; 20 MCQs/60 distractors, six mains and three diagrams need independent review; full browser accessibility and syllabus reauthentication outstanding. R1-R8 incomplete, R9 NOT_STARTED, zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -93,7 +93,11 @@
     "additional_invalid_item": "Q27 ambiguous: all four options insufficient alone to establish outbreak source",
     "audit_path": "Paper 5/Unit 2 - Modern Applications of Science/Topic 4/source/academic-option-audit-cycle145.md",
     "editable_master_synchronized": true,
-    "github_ci_pdf_render": "PENDING",
-    "independent_approval": false
+    "github_ci_pdf_render": "SUCCESS_27_PAGES",
+    "independent_approval": false,
+    "actual_postrender_artifact_id": 13060393127,
+    "actual_postrender_artifact_sha256": "2b1e22e46dc102ae7f150b8346f564942680b1f859ebe94cda13e67d7a7ef710",
+    "github_pdf_sha256": "441da6ecea37a66184ca59fd5d97014faf8476074ec4cb3c8d2727b92d911fc0",
+    "structural_artifact_QA": "PASS_NOT_ACADEMIC_CERTIFICATION"
   }
 }
