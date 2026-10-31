@@ -1,0 +1,56 @@
+name: Render Topic 4-3-5 Integrated Student Edition
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 5/source/complete-notes.md'
+      - 'Paper 4/Unit 3 - Development and Environmental Problems/Topic 5/source/mcq-option-audit-cycle136.md'
+      - 'scripts/publish_topic_4_3_5_cycle136.py'
+      - '.github/workflows/render-topic-4-3-5-integrated.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tgpsc-topic-4-3-5-integrated
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install renderer and QA dependencies
+        run: python -m pip install 'reportlab>=4,<5' 'markdown-it-py>=3,<5' 'pillow>=10,<13' 'beautifulsoup4>=4,<5' 'mistune>=3,<4' 'pymupdf>=1.24,<2'
+      - name: Guarded nonforce synchronized render from fresh main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          topic='Paper 4/Unit 3 - Development and Environmental Problems/Topic 5'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            if [ ! -e "$topic/source/diagrams" ]; then ln -s ../diagrams "$topic/source/diagrams"; fi
+            python scripts/render_topic_4_3_4_integrated.py --input "$topic/source/complete-notes.md" --output "$topic/source/integrated-student-edition-cycle136.pdf" --qa /tmp/topic-4-3-5-render-qa.json
+            python scripts/publish_topic_4_3_5_cycle136.py
+            git add -- "$topic/source/integrated-student-edition-cycle136.pdf" "$topic/integrated-student-edition-cycle136.html" "$topic/integrated-cycle136-manifest.json" 'project-control/academic-readiness/4-3-5-cycle136-ci-render-qa-2026-10-31.json'
+            if git diff --cached --quiet; then
+              echo 'Already synchronized with current main'
+              exit 0
+            fi
+            git commit -m 'CI: synchronize Topic 4-3-5 Cycle136 PDF HTML and manifest'
+            if git push origin HEAD:main; then
+              echo 'Nonforce publication succeeded'
+              exit 0
+            fi
+            echo 'Main advanced; retrying with fresh main'
+            sleep 5
+          done
+          echo 'Unable to publish without force; source remains intact' >&2
+          exit 1
