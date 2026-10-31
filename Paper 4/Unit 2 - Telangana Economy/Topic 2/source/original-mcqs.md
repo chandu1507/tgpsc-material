@@ -66,7 +66,7 @@ A. 49.5%
 B. 57.99%
 C. 66.54%
 D. 81.09%
-**Answer: C** — The state overall literacy rate was 66.54%; the other values refer to subgroups.
+**Answer: C** — Telangana DES reports 66.54% total literacy for Census 2011 (age 7+); 57.99% is female literacy. The origins of the 49.5% and 81.09% distractors are not established by the cited statewide table.
 
 ### 11. The Census literacy denominator normally includes persons aged:
 A. 0 and above
