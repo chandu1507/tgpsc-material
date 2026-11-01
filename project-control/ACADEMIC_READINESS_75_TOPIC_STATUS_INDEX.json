@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle148 5-2-3 corrected two diagrams; actual downloaded Actions artifact 13066025921 SHA/CRC PASS, 2183 files, 75 unchanged originals and 75 readiness JSON, 92 HTML, 591 links and 1581 fragments zero broken; 30-page CI PDF SHA 8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65. Academic gates still incomplete; 7/68/0, 14 R1, ZERO fully ready or independently approved.",
+  "warning": "Cycle149 5-3-1 actual downloaded artifact 13068106969 SHA/CRC PASS, 2192 files, 75 unchanged originals, 75 readiness JSON, 92 HTML, 592 local links and 1581 DOM fragments zero broken; 24-page PDF SHA 51ea365a50ef019d8848da683b124967ab3b06434d06aeaddf650d57d525df36. Gates incomplete; 7/68/0, 14 R1, zero independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle147 Topic5-2-4 actual downloaded post-render artifact QA; academic approval zero",
+  "last_readiness_update": "2026-11-01 Cycle149 Topic5-3-1 actual downloaded post-CI artifact; academic approval zero",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/5-3-1-cycle149-actual-downloaded-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/5-2-4-cycle147-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/5-2-4-cycle147-q27-controlled-correction-2026-11-01.json",
     "project-control/academic-readiness/5-2-4-cycle145-actual-downloaded-postrender-artifact-qa-2026-11-01.json",

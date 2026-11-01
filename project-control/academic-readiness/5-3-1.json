@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json",
-  "next_action": "Cycle149 ten option-level source-correlated author reviews incorporated in coherent master. Twenty keys/60 distractors and six mains claim audits pending. Commission PDF 502; direct R1 blocked. Integrate deterministic CI PDF and verify actual downloaded artifact. Independent approval zero.",
+  "evidence": "project-control/academic-readiness/5-3-1-cycle149-actual-downloaded-artifact-qa-2026-11-01.json",
+  "next_action": "Cycle149 actual GitHub artifact downloaded and verified; 24-page CI PDF synchronized. Remaining 20 source-correlated MCQs/60 distractors, six mains claim audits, three diagrams independent review, direct Commission PDF R1 authentication (HTTP 502), browser accessibility. R1-R8 incomplete, R9 not started, approvals zero.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle59_assessment": {
@@ -76,6 +76,23 @@
     },
     "commission_pdf_direct_retrieval": "HTTP_502",
     "integrated_pdf": "LOCAL_CANDIDATE_ONLY_NOT_GITHUB_CI",
+    "independent_approvals": 0
+  },
+  "cycle149_downloaded_artifact": {
+    "packaging_run": 41267476185,
+    "artifact_id": 13068106969,
+    "sha256": "b92ee54cf1ecb643703da45f48875b5153cc4da16d772da9e166d441f709a76d",
+    "originals_unchanged": 75,
+    "readiness_records": 75,
+    "html_pages": 92,
+    "local_links": 592,
+    "broken_links": 0,
+    "dom_fragments": 1581,
+    "broken_fragments": 0,
+    "integrated_pdf_pages": 24,
+    "integrated_pdf_sha256": "51ea365a50ef019d8848da683b124967ab3b06434d06aeaddf650d57d525df36",
+    "author_side_keys": 10,
+    "author_side_distractors": 30,
     "independent_approvals": 0
   }
 }
