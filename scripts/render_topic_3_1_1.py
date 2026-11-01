@@ -84,7 +84,11 @@ while i<len(tokens):
  if t.type=='heading_open':
     tag=t.tag; inl=tokens[i+1]; val=inline_html(inl)
     key={'h1':'title','h2':'h2','h3':'h3'}.get(tag,'h3')
-    # Keep the revised long Q8 stem and all four options from being split at a page foot.\n    # CondPageBreak is conditional; it does not insert a gratuitous blank page.\n    if tag=='h2' and inl.content.startswith('8. A district celebrates several community festivals'):\n      story.append(CondPageBreak(320))\n    if tag=='h2' and ('Part D' in inl.content or 'Part E' in inl.content or 'Part F' in inl.content):story.append(PageBreak())
+    # Keep the revised long Q8 stem and all four options from being split at a page foot.
+    # CondPageBreak is conditional; it does not insert a gratuitous blank page.
+    if tag=='h2' and inl.content.startswith('8. A district celebrates several community festivals'):
+      story.append(CondPageBreak(320))
+    if tag=='h2' and ('Part D' in inl.content or 'Part E' in inl.content or 'Part F' in inl.content):story.append(PageBreak())
     story.append(Paragraph(val,styles[key]));i+=3;continue
  if t.type=='table_open':current_table=[];i+=1;continue
  if t.type=='tr_open':row=[];i+=1;continue
