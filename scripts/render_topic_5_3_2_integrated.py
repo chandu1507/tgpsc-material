@@ -73,7 +73,14 @@ def diagram(num):
     return d
 
 story=[]
-tokens=MarkdownIt('commonmark').enable('table').parse(src.read_text())
+# Preserve original editable Markdown; normalize mathematical glyphs only for PDF font coverage.
+# The prior Cycle60 PDF extracted 112 NUL glyphs (notably minus, union, intersection).
+math_ascii = {'−':'-', '∩':' intersect ', '∪':' union ', '⊆':' subset of ',
+              '∅':'empty set', '→':' implies ', '≈':' approx ', 'Ω':'Omega',
+              '×':' x ', '²':'^2', '³':'^3', '°':' degrees '}
+normalized=src.read_text()
+for old,new in math_ascii.items(): normalized=normalized.replace(old,new)
+tokens=MarkdownIt('commonmark').enable('table').parse(normalized)
 i=0; current_table=None; row=None; cell=None; list_depth=0
 while i<len(tokens):
  t=tokens[i]
