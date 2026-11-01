@@ -413,7 +413,7 @@ The following questions are **original descriptive practice prompts**, not authe
 
 **Background and distinction.** An arithmetic progression adds a fixed amount at each step, whereas a geometric progression multiplies each term by a fixed factor. The difference is substantive: the first represents constant absolute change, the second constant proportional change. Their formulas are a_n=a+(n−1)d and a_n=ar^(n−1), respectively.
 
-**Mathematical method.** For n arithmetic terms, S_n=n[2a+(n−1)d]/2. For geometric terms with r≠1, S_n=a(r^n−1)/(r−1). These formulas must not be interchanged. Consider a fictional district training centre that starts with 20 seats and adds five seats every month. In month six it has 45 seats; total seats over six months are 195. Under a different, hypothetical 10% monthly growth policy, the sixth month has 20×1.1^5≈32.21 seats, and the total requires the GP formula.
+**Mathematical method.** For n arithmetic terms, S_n=n[2a+(n−1)d]/2. For geometric terms with r≠1, S_n=a(r^n−1)/(r−1). These formulas must not be interchanged. Consider a fictional district training centre that starts with 20 seats and adds five seats every month. In month six it has 45 seats; total seats over six months are 195. Under a different, hypothetical 10% monthly growth policy, the sixth month has 20×1.1^5≈32.21 seats, and the total requires the GP formula. This is a projected capacity, not a physically allocatable fraction of a seat.
 
 **Administrative application.** A fixed budget increment, staff allocation or phased classroom expansion may be represented by an AP for a specified planning horizon. Compound interest, repeated depreciation and percentage growth naturally suggest a GP. Real government systems, however, face capacity limits, rounding to whole persons and changing policy priorities. Mathematical fit alone cannot validate an extrapolated budget.
 
@@ -463,7 +463,7 @@ The following questions are **original descriptive practice prompts**, not authe
 
 **Terminology.** Cost price is the relevant acquisition or production cost, selling price is the realised transaction price, and marked price is the pre-discount display price. Profit equals selling price minus cost price. Profit percentage is calculated on cost price, whereas profit margin uses selling price as its denominator. A discount is calculated on marked price, not automatically on either cost or realised profit.
 
-**Worked example.** Suppose an illustrative item costs ₹800, is marked at ₹1,200 and sold after a 20% discount. The selling price is ₹960. Profit is ₹160, so profit percentage on cost is 20%; profit margin on sales is 160/960×100≈16.67%. The advertised discount is ₹240, or 20% of marked price. All three percentages describe different comparisons and must not be substituted for one another.
+**Worked example.** Suppose an illustrative item costs ₹800, is marked at ₹1,200 and sold after a 20% discount. The selling price is ₹960. Profit is ₹160, so profit percentage on cost is 20%; profit margin on sales is 160/960×100≈16.67%. The advertised discount is ₹240, or 20% of marked price. The pricing-stage markup is ₹400/₹800=50%, unlike the realised profit percentage of 20%. These percentages have different stages or denominators and must not be substituted.
 
 **Successive changes.** Two discounts of 10% and 20% produce retention factor 0.9×0.8=0.72, equivalent to 28% discount. Adding percentages to get 30% would be incorrect. Likewise, a 20% loss requires a 25% gain on the reduced base to return to the original amount.
 
@@ -575,3 +575,14 @@ The Ministry of Statistics and Programme Implementation's **Advance Release Cale
 - **[S06]** MoSPI official data-dissemination FAQs (accessed 25 October 2026). https://mospi.gov.in/faq
 
 **Editorial note:** This is an independently written exam-preparation draft, not a publication or endorsement by TGPSC, NCERT, DES or MoSPI. Any factual data quoted from external statistical reports must be checked against the source version before examination use.
+
+
+## Cycle 151 bounded six-mains audit (1 November 2026)
+
+All six original mains answers received author-side mathematical claim, denominator and unit checks against directly inspected OpenStax sections [S07]–[S11]. Two in-place corrections clarify that a projected 32.21 seats is not a physical seat count (Q1), and distinguish the initial 50% markup on cost from the realised 20% profit percentage after discount (Q5). The full evidence is in `source/cycle151-six-mains-claim-audit.md` and `project-control/academic-readiness/5-3-3-cycle151-six-mains-claim-audit-2026-11-01.json`. This is **not** an independent R6 PASS, complete R8 or R9.
+
+- **[S07]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/college-algebra-2e/pages/9-key-equations
+- **[S08]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/college-algebra-2e/pages/9-3-geometric-sequences
+- **[S09]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data
+- **[S10]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/contemporary-mathematics/pages/5-4-ratios-and-proportions
+- **[S11]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/contemporary-mathematics/pages/6-2-discounts-markups-and-sales-tax
