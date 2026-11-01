@@ -23,11 +23,11 @@
     "R4": "IN_PROGRESS",
     "R5": "BLOCKED",
     "R6": "IN_PROGRESS",
-    "R7": "BLOCKED",
+    "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-3-cycle144-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
-  "next_action": "Replace and independently review diagram 01 HACCP order and diagram 03 contaminant-specific branching; audit 20 MCQs/60 distractors, six mains and syllabus; verify actual post-render downloaded artifact; retain R1-R8 incomplete and R9 NOT_STARTED.",
+  "evidence": "project-control/academic-readiness/5-2-3-cycle148-corrected-diagrams-ci-preflight-2026-11-01.json",
+  "next_action": "Cycle148 corrected two source-grounded diagrams (SVG) and CI rendered 30-page PDF; independent R7 assessment, 20 MCQs/60 distractors, six mains, direct syllabus, browser and downloaded final artifact QA still pending. No R1-R8 completion or R9.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -97,5 +97,15 @@
     "integrated_github_pdf_sha256": "eb37db004c11d2171c98059e4588255337d07a30d69f387ed75fa412779d3bc7",
     "integrated_github_pdf_pages": 29,
     "actual_post_render_artifact_qa": "PASS_STRUCTURAL_NOT_ACADEMIC"
+  },
+  "cycle148_diagram_correction": {
+    "haccp": "AUTHOR_SIDE_CORRECTED_SVG_NOT_INDEPENDENTLY_APPROVED",
+    "water": "AUTHOR_SIDE_CORRECTED_BRANCHING_SVG_NOT_INDEPENDENTLY_APPROVED",
+    "original_pngs_preserved": true,
+    "ci_pdf_pages": 30,
+    "ci_pdf_sha256": "8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65",
+    "local_links": 591,
+    "local_broken": 0,
+    "artifact_final_verified": false
   }
 }
