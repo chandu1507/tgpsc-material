@@ -1,0 +1,65 @@
+{
+  "cycle": 167,
+  "date": "2026-11-02",
+  "topic_id": "2-3-2",
+  "source_base_main": "986eb0abd5d2f4d20aac267b27900cefe2133415",
+  "academic_change": "In-place expansion of three existing numbered Part C sections; four official-source register entries; no new topics, original PDFs, or MCQs.",
+  "expanded_sections": [
+    {
+      "id": 3,
+      "words_before": 273,
+      "words_after": 587
+    },
+    {
+      "id": 2,
+      "words_before": 298,
+      "words_after": 624
+    },
+    {
+      "id": 1,
+      "words_before": 294,
+      "words_after": 593
+    }
+  ],
+  "source_ids": [
+    "S43",
+    "S44",
+    "S45",
+    "S46"
+  ],
+  "method": "Whitespace-separated tokens in each numbered Part C section body excluding heading",
+  "part_c_count": 40,
+  "sections_under300_before": 10,
+  "sections_under300_after": 7,
+  "remaining_shallow_ids": [
+    4,
+    5,
+    8,
+    12,
+    22,
+    25,
+    30
+  ],
+  "limitations": [
+    "Advance estimates are provisional; no district causal attribution",
+    "ICAR SRI outcomes technology-specific, not universal",
+    "Rice-water ledgers and wheat heat-loss arithmetic explicitly hypothetical",
+    "ICAR residue-drill demonstration not national adoption evidence",
+    "No independent expert review"
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_approvals": 0,
+  "academic_certified": false,
+  "pdf_render": "PENDING_CI",
+  "downloaded_artifact_qa": "PENDING"
+}
