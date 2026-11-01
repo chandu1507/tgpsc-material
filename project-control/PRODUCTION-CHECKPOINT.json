@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-2-3 (two corrected diagrams)",
+    "last_reported_topic": "5-3-1 Cycle149 source audit and downloaded CI PDF",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle148 5-2-3 two diagrams corrected; 30-page CI PDF; downloaded artifact 13066025921 SHA/CRC/75 originals/591 links/1581 fragments PASS. 7/68/0, 14 R1, zero approvals."
+    "note": "Cycle149 Topic 5-3-1 24-page CI PDF and actual downloaded artifact 13068106969 SHA/CRC/75 originals/592 links/1581 fragments PASS; 7/68/0, 14 R1, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -703,10 +703,11 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle59_direct_30_key_90_distractor_internal_audit_rebuild_required",
-      "notes": "Original 25-page PDF and 12,393-word editable master preserved; Cycle59 direct review: 18 concepts all >=300 words, 30 original keys/90 distractors internally checked, 29 arithmetic assertions pass, 6 mains 229/223/230/228/237/222 body-only words, 3 diagrams visually checked. Original syllabus PDF direct fetch failed; claim-level R4/R6, browser R8 and independent academic approval remain open.",
+      "production_review": "cycle149_ci_pdf_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Original 25-page PDF and 12,393-word editable master preserved; Cycle59 direct review: 18 concepts all >=300 words, 30 original keys/90 distractors internally checked, 29 arithmetic assertions pass, 6 mains 229/223/230/228/237/222 body-only words, 3 diagrams visually checked. Original syllabus PDF direct fetch failed; claim-level R4/R6, browser R8 and independent academic approval remain open. Cycle149: 10 source-correlated original MCQs (10 keys/30 distractors) author-reviewed, 20/60 pending; 24-page CI integrated PDF SHA 51ea365a50ef019d8848da683b124967ab3b06434d06aeaddf650d57d525df36; packaging artifact 13068106969 actually downloaded SHA/CRC/75 originals/75 readiness/592 local links/1581 fragments PASS. R1 direct PDF 502; R1-R8 not fully passed, zero approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
-      "readiness_gate_file": "project-control/academic-readiness/5-3-1.json"
+      "readiness_gate_file": "project-control/academic-readiness/5-3-1.json",
+      "latest_readiness_evidence": "project-control/academic-readiness/5-3-1-cycle149-actual-downloaded-artifact-qa-2026-11-01.json"
     },
     {
       "id": "5-3-2",
