@@ -37,7 +37,8 @@
     "project-control/academic-readiness/3-1-1-render-qa.json",
     "project-control/academic-readiness/3-1-1-cycle89-four-mcq-precision-source-audit-2026-10-29.json",
     "project-control/academic-readiness/3-1-1-cycle89-actual-downloaded-github-artifact-qa-2026-10-29.json",
-    "project-control/academic-readiness/3-1-1-cycle156-language-geography-and-six-mains-claim-audit-2026-11-01.json"
+    "project-control/academic-readiness/3-1-1-cycle156-language-geography-and-six-mains-claim-audit-2026-11-01.json",
+    "project-control/academic-readiness/3-1-1-cycle156-actual-downloaded-postrender-artifact-qa-2026-11-01.json"
   ],
   "next_action": "Complete independent claim-level checks of all 25 original practice MCQs and 100 distractors, all six mains and diagrams; improve full-page-per-concept layout and browser accessibility. R8 remains IN_PROGRESS despite passing actual archive integrity QA.",
   "external_reviewer": null,
@@ -318,11 +319,15 @@
     "mcq23_key_preserved": "C",
     "local_pdf_pages": 34,
     "local_pdf_zero_nul": true,
-    "actual_github_post_edit_artifact": "PENDING",
+    "actual_github_post_edit_artifact": "DOWNLOADED_QA_PASS",
     "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
     "gate_R6": "IN_PROGRESS",
     "gate_R8": "IN_PROGRESS",
     "gate_R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "renderer_run": 41295062434,
+    "packaging_run": 41295111041,
+    "artifact_id": 13079067383,
+    "pdf_sha256": "f48410c5038fef857ac78e763ce03e10ad16ab6c5f9e233b9ad83871a7d5de64"
   }
 }
