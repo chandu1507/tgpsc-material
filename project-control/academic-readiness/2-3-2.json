@@ -46,9 +46,10 @@
     "project-control/academic-readiness/2-3-2-cycle164-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle165-cotton-sugar-cement-auto-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle165-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
-    "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json"
+    "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json",
+    "project-control/academic-readiness/2-3-2-cycle166-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle166 source changes: 3 sections expanded (17/24/31), direct Part C under300 13→10/40; CI PDF and actual post-edit artifact QA PENDING. 25 MCQs, six mains and diagrams still require independent review; approvals ZERO.",
+  "next_action": "Cycle166 40-page CI PDF and downloaded artifact 13096940270 verified CRC/digest/75 unchanged originals/75 readiness/634 links/1581 fragments. QA evidence commit postdates artifact; next package requires fresh download. 10/40 sections under300; academic approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -390,8 +391,8 @@
     "original_pdfs_preserved_required": true,
     "mcq_count_unchanged": 25,
     "mains_count_unchanged": 6,
-    "ci_pdf": "PENDING",
-    "actual_postedit_downloaded_artifact_qa": "PENDING",
+    "ci_pdf": "SUCCESS_40_PAGES_SHA_7e1c5044d8c368bb0ad2ea09c142de06ceffab377f2b36ca82ce6b239a4a1ef3",
+    "actual_postedit_downloaded_artifact_qa": "VERIFIED_ARTIFACT_13096940270_CRC_SHA_75_PDFS_75_READINESS_634_LINKS_1581_FRAGMENTS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
@@ -400,6 +401,7 @@
     "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
     "independent_approvals": 0,
-    "evidence": "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json"
+    "evidence": "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json",
+    "post_qa_packaging": "PENDING"
   }
 }
