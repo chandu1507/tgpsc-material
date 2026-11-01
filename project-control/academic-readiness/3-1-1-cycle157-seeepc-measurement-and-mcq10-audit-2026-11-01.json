@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-01",
+  "cycle": 157,
+  "topic_id": "3-1-1",
+  "status": "AUTHOR_SIDE_SOURCE_CORRELATION_NOT_APPROVED",
+  "source_commit": "398a374299d2949eaa937915c2fdda7e71761c0d",
+  "editorial_changes": {
+    "part_c_section": 17,
+    "section17_word_count_including_source_note": 702,
+    "mcq_rewritten_in_place": 10,
+    "mcq_count_preserved": 25,
+    "correct_key_preserved": "B",
+    "original_pdf_sha256_expected": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a"
+  },
+  "sources": [
+    {
+      "title": "Telangana CGG SEEEPC Survey project",
+      "url": "https://www.cgg.gov.in/it_project/socio-economic-education-employment-political-and-caste-seeepc-survey/",
+      "directly_read": true,
+      "supports": [
+        "November 2024 launch",
+        "Planning Department nodal agency",
+        "two-phase household data collection",
+        "CGG-reported approximately 1.12 crore households and 3.8 crore people"
+      ],
+      "limits": [
+        "No independent response-rate audit",
+        "No household-level validation",
+        "Not causal evidence of policy success"
+      ]
+    },
+    {
+      "title": "Government of Telangana State Profile",
+      "url": "https://www.telangana.gov.in/About/State-Profile/",
+      "directly_read": true,
+      "supports": [
+        "Telangana statehood on 2 June 2014",
+        "2011 Census-derived Telangana population stated in retrospective state profile"
+      ],
+      "limits": [
+        "2011 undivided Andhra Pradesh State total is not equivalent to post-2014 Telangana"
+      ]
+    },
+    {
+      "title": "ORGI Census 2011 data and catalogues",
+      "url": "https://censusindia.gov.in/census.website/en/data",
+      "directly_read": true,
+      "supports": [
+        "Distinct national Census 2011 data infrastructure and reference period"
+      ],
+      "limits": [
+        "Does not independently validate SEEEPC coverage or variables"
+      ]
+    }
+  ],
+  "mcq10_options": [
+    {
+      "option": "A",
+      "judgment": "INCORRECT",
+      "reason": "Two distinct instruments and reference years; not renamed Census"
+    },
+    {
+      "option": "B",
+      "judgment": "SUPPORTED",
+      "reason": "Accurately distinguishes instruments and requires variable/geography/denominator checks"
+    },
+    {
+      "option": "C",
+      "judgment": "INCORRECT",
+      "reason": "2011 Andhra Pradesh state total cannot be silently relabelled as 2024 Telangana"
+    },
+    {
+      "option": "D",
+      "judgment": "INCORRECT",
+      "reason": "Collection count alone establishes neither response rate nor causal policy effect"
+    }
+  ],
+  "hypothetical_example": "120 of 300 responding households = 40% of respondents only; numbers are explicitly invented for teaching",
+  "remaining": [
+    "All 25 MCQs require independent item-level expert assessment",
+    "Six mains require independent claim certification",
+    "Two original SVG diagrams require independent academic and accessibility review",
+    "Full browser and screen-reader QA pending",
+    "R1-R8 not collectively PASS"
+  ],
+  "gate_changes": {
+    "R3": "NO_UPGRADE",
+    "R4": "NO_UPGRADE",
+    "R5": "NO_UPGRADE",
+    "R8": "NO_UPGRADE",
+    "R9": "NOT_STARTED"
+  },
+  "independent_approvals": 0
+}
