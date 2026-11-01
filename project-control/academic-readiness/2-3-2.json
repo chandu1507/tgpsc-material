@@ -36,9 +36,10 @@
     "project-control/academic-readiness/2-3-2-cycle93-official-urban-hdi-and-four-mcq-audit-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle94-nicdc-plfs-census-depth-reconciliation-2026-10-30.json",
-    "project-control/academic-readiness/2-3-2-cycle94-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/2-3-2-cycle94-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/2-3-2-cycle161-freight-wto-multimodal-source-audit-2026-11-01.json"
   ],
-  "next_action": "Cycle94 five concepts expanded, direct under300 recount 27→22; 32-page CI PDF and actual downloaded artifact 12929445210 SHA/CRC/75 originals/597 local links/1050 DOM fragments verified. Full MCQ/mains academic review, concept-page layout, browser accessibility and expert approval remain pending.",
+  "next_action": "Cycle161 three substantive freight/WTO/multimodal source-bounded expansions and original MCQ17 four-option author-side check; deterministic CI PDF, actual downloaded artifact QA, remaining depth/MCQ/mains/diagram/browser/expert checks pending. No academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -184,5 +185,37 @@
     "pdf_sha256": "fffed09dc239e068a04205a54acad4219bce96e54eab1cfc673dfc15c4ac2ad0",
     "artifact_id": 12929445210,
     "qa_evidence": "project-control/academic-readiness/2-3-2-cycle94-actual-downloaded-post-render-artifact-qa-2026-10-30.json"
+  },
+  "cycle161_2026_11_01": {
+    "status": "THREE_CONCEPTS_AND_MCQ17_AUTHOR_SOURCE_REPAIRED_NOT_APPROVED",
+    "master_sha_git_blob": "1be50553dfcfe3701e4c6c0959cb3caeeda0a8ef",
+    "expanded_sections": [
+      21,
+      23,
+      35
+    ],
+    "section_whitespace_words_after": {
+      "21": 446,
+      "23": 469,
+      "35": 438
+    },
+    "new_primary_source_register_ids": [
+      "S23",
+      "S24",
+      "S25",
+      "S26"
+    ],
+    "original_mcq_rewritten_in_place": 17,
+    "mcq_key_retained": "C",
+    "independent_mcq_validation": false,
+    "original_topic_pdf_preserved_required": true,
+    "ci_pdf": "PENDING",
+    "actual_artifact_download": "PENDING",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
   }
 }

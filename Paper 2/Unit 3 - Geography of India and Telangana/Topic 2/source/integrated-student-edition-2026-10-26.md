@@ -213,6 +213,11 @@ Railways are especially suited to high-volume passenger and freight movement ove
 
 **Multimodal reasoning.** For a factory 70 km from the nearest rail terminal, the relevant choice may be road-to-rail-to-port versus all-road delivery, including transfer costs. Government logistics policy emphasises integration across modes and last-mile connections rather than treating each mode in isolation [S12,S13]. For mains, distinguish route length, freight capacity, operating performance and economic accessibility. Environmental gains depend on traffic shifted, energy source and the efficiency of the full logistics chain. **Source anchors:** [S2,S5,S12,S13].
 
+
+**Dated freight-corridor case (March 2025, not a current operational claim).** The Ministry of Railways reported on 19 March 2025 that 2,741 of the planned 2,843 route-kilometres of the Eastern and Western Dedicated Freight Corridors had been commissioned (96.4%). It identified the Eastern corridor as Ludhiana-Sonnagar (1,337 km) and the Western corridor as JNPT-Dadri (1,506 km). This dated infrastructure stock cannot be converted into a claim that every port connection was complete or that freight costs fell by a measured percentage [S23]. In a geography answer, explain how the eastern route relates to mineral, power and industrial hinterlands, while the western route links inland production and consumption centres with western seaports. The key causal mechanism is additional dedicated freight capacity, not merely a higher train speed.
+
+**Worked route-choice test (illustrative, not observed tariffs).** Suppose an all-road consignment costs 240 accounting units door to door. A rail-based option costs 100 for line haul, 60 for two terminal transfers and 50 for first- and last-mile trucking: 210 units. Its nominal saving is 30, but a delay or damage cost above 30 reverses the ranking. State the shipment size, terminal access and service reliability before concluding that rail is cheaper. This avoids confusing route-kilometres commissioned with delivered logistics outcomes [S23,S25].
+
 ### 22. Ports and changing trade geography
 
 Ports connect inland production networks to global shipping routes. Natural harbour conditions matter, but dredging, container terminals, rail-road connectivity, digital logistics and industrial hinterlands increasingly determine performance. India’s major ports handled about 915.17 million tonnes in FY2025–26, while major and non-major ports together handled roughly 1,668 million tonnes. Port-led development must also manage coastal ecosystems, fisheries and urban pressures.
@@ -230,6 +235,11 @@ India’s trade pattern reflects domestic demand, comparative advantage, exchang
 **Integrated analytical extension — Ports, WTO and the changing geography of trade.** India's international trade geography is shaped by ports, hinterland rail and road networks, logistics costs, customs systems and global demand. Coastal ports handle seaborne cargo, but inland production centres can participate through container depots and multimodal transport. Telangana is landlocked; its exporters rely on transport links to ports and airports, making logistics efficiency a determinant of competitiveness. The World Trade Organization provides rules for international trade, but WTO membership does not eliminate domestic infrastructure constraints or ensure identical outcomes for all sectors.
 
 When discussing trade, separate the value of exports from domestic value added, and distinguish export-led growth from broad-based employment. A pharmaceutical exporter may use imported inputs; a cotton-growing region may export raw fibre while higher-value textiles are manufactured elsewhere. This makes industrial policy, standards compliance and supply-chain integration important. In a mains answer, connect globalisation to specific Indian corridors, ports, industries and labour-market outcomes instead of treating 'trade increases development' as a universal law.
+
+
+**Treaty-level distinction: four WTO functions, not a world customs authority.** Article III of the Marrakesh Agreement gives the WTO a role in administering covered agreements, providing a forum for member negotiations, administering the Dispute Settlement Understanding, and administering the Trade Policy Review Mechanism. These are different institutional functions. Annex 3 says trade-policy reviews increase transparency and understanding; the review mechanism is not itself a procedure to enforce specific obligations or impose new commitments. Dispute settlement has its own rules. Therefore neither a periodic policy review nor membership alone fixes a country's tariff rates or guarantees that a particular exporter will gain market share [S7,S24].
+
+**Numerical evidence with a dated denominator.** The Department of Commerce annual report records FY 2023-24 merchandise exports of US$437.10 billion and services exports of US$341.11 billion; their sum is US$778.21 billion of overall exports. This is a historical annual flow, not a 2026 observation, and not a measure of domestic value added or jobs created. An exporter may import components, and a service exporter may have little physical port dependence. Compare goods and services separately before attributing trade performance to a port, corridor or WTO rule. For Telangana, an inland exporter should analyse the whole route to a gateway and the regulatory requirements of its product rather than assume that the nearest coastline is the best route [S26].
 
 ### 24. Strategic location in the Indian Ocean
 
@@ -350,6 +360,11 @@ Economic connectivity depends on how roads, railways, ports, airports, warehouse
 **Freight chains cross modes.** A shipment may travel by truck from a farm or factory to a rail terminal, then by train to a port, then by vessel to a foreign market. The choice depends on volume, urgency, cargo characteristics, handling damage, terminal costs, schedules and reliability. A high-capacity rail corridor can lower line-haul costs but still lose its advantage if terminal delays or first-mile trucking are expensive. Road transport remains essential for dispersed origins even when rail carries the long-distance leg [S12,S13].
 
 **How to compare alternatives.** Use total door-to-door cost and time, not only the nominal price per kilometre of one mode. Include inventory costs, spoilage risk and emissions where evidence permits. For a Telangana manufacturer, the closest port geographically may not be the cheapest gateway if rail connections or vessel schedules are weak. Government multimodal policy focuses on integration and last-mile connectivity, but a policy announcement is not proof that every route has improved. **Source anchors:** [S5,S12,S13].
+
+
+**Planning versus realised logistics outcomes.** The government describes PM GatiShakti, launched in 2021, as a geospatial planning platform coordinating 16 ministries. A 2025 government factsheet reported that 115 national highway and road projects, covering roughly 13,500 km, had been evaluated under the initiative as of 13 March 2025. Evaluation is not the same as construction, commissioning, usage or independently measured freight-time savings. For a corridor, distinguish proposal, appraisal, award, physical completion, traffic and outcome data before claiming success [S25].
+
+**Worked door-to-door time budget (hypothetical).** Consider one export movement: first-mile trucking takes 1 day, terminal handling 1 day, rail transit 3 days and port processing 2 days, for a total of 7 days. If a terminal bottleneck adds 3 days, the same rail transit speed produces a 10-day journey. The bottleneck is not solved by adding another expressway kilometres away. An evaluation should compare median and 90th-percentile door-to-door times, transfer damage, freight cost per tonne, and reliable access for smaller shippers. This also explains why a logistics park can create benefits only when connected to functioning road, rail and port services. Figures here teach the method; they are not reported performance statistics [S25].
 
 ### 36. Ports, hinterlands and coastal industrialisation
 
@@ -556,14 +571,14 @@ D. The number of fishing boats registered near its harbour
 
 **Answer: B.** Hinterlands are shaped by competitive inland accessibility, not simply coastal position. **Source anchors:** [S2,S5,S12]. Key source-correlated; case-level comparison pending.
 
-### Q17. Under Article III of the Marrakesh Agreement, which is an expressly assigned WTO function?
+### Q17. Which statement correctly distinguishes the WTO's treaty functions and trade-policy review mechanism?
 
-A. Unilaterally setting each member's applied tariff schedule  
-B. Issuing all customs clearance documents for member states  
-C. Providing a forum for trade negotiations and administering covered agreements  
-D. Resolving private freight contracts between shipping companies  
+A. The WTO provides negotiation forums but leaves dispute settlement and trade-policy review entirely to national courts.  
+B. Its periodic trade-policy reviews automatically impose new binding commitments on members.  
+C. It provides negotiation forums and administers dispute settlement and trade-policy review under distinct mechanisms.  
+D. It administers dispute settlement but has no treaty function concerning negotiations among members.  
 
-**Answer: C.** Article III directly covers administering agreements, negotiations, dispute settlement and trade-policy review; the other functions are not assigned as stated. **Source anchors:** [S7]. Correct key checked against the original treaty text 26 Oct 2026; independent item discrimination pending.
+**Answer: C.** Marrakesh Agreement Article III(2)-(4) expressly assigns negotiations, DSU administration and TPRM administration; Annex 3 says the policy review mechanism is not itself enforcement or a source of new commitments. A and D omit express treaty functions; B incorrectly converts transparency review into an enforcement decision. These are original practice options, not an authenticated TGPSC PYQ. **Source anchors:** [S7,S24]. Author-side four-option check, not independent expert validation.
 
 ### Q18. Which geographic feature best explains India's strategic position in Indian Ocean commerce?
 
@@ -732,5 +747,11 @@ D. Restricting labour mobility while concentrating skills in one metropolis
 | S20 | [MoSPI PLFS Annual Report July 2023–June 2024, press note 23 Sep 2024](https://mospi.gov.in/sites/default/files/press_release/Press_note_AR_PLFS_2023_24_22092024.pdf) | Official PDF directly viewed 30 Oct 2026, p2: usual-status 15+ female LFPR 41.7%, female WPR 40.3%, all-person unemployment 3.2%. Definitions and survey year required. |
 | S21 | [ORGI Census 2011 Table D-03 catalogue](https://censusindia.gov.in/nada/index.php/catalog/10840) | Official metadata directly viewed 30 Oct 2026: last residence, duration and reason categories; data workbook not downloaded or independently analysed. |
 | S22 | [ORGI Women and Migration in India](https://censusindia.gov.in/census.website/hi/node/97) | Official Census interpretation directly viewed 30 Oct 2026: gender and migration in 2011, not fresh enumeration. |
+
+| S23 | [Ministry of Railways / PIB, 19 March 2025: Dedicated Freight Corridors](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2112843&lang=1&reg=1) | Primary dated statement: 2,741/2,843 route-km commissioned (96.4%), EDFC 1,337 km and WDFC 1,506 km. It does not establish present-day completion or realised cost savings. |
+| S24 | [WTO Marrakesh Agreement Annex 3: Trade Policy Review Mechanism](https://www.wto.org/english/tratop_e/tpr_e/annex3_e.htm) | Primary treaty annex: reviews support transparency and are not themselves enforcement, dispute settlement or new commitments. Read alongside Article III [S7]. |
+| S25 | [Government PM GatiShakti factsheet, April 2025](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202541530501.pdf) | Official planning description: 16 ministries; 115 road projects evaluated as of 13 March 2025. Appraised projects are not automatically completed projects or measured outcomes. |
+| S26 | [Department of Commerce Annual Report 2023-24](https://www.commerce.gov.in/ministryofcommerce/sites/default/files/2025-04/Annual-Report-English-Lower-Resolution-1.pdf) | Primary historical FY 2023-24: merchandise exports US$437.10bn, services exports US$341.11bn, total US$778.21bn. Not 2026 figures, domestic value added or employment. |
+
 
 **Limitations:** R1 syllabus mapping checked; R2 consolidation requires human deduplication; R3 many concepts remain shallow; R4 source checks incomplete; R5 25 questions drafted but not externally audited; R6 six answers drafted, source review pending; R7 diagrams require accuracy review; R8 PDF/public browser not yet verified. **R9 NOT STARTED. Zero academic approvals.**
