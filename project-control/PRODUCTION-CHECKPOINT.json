@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-2 Cycle165: sections14/15/16 expanded, 16→13 under300; local 39-page PDF candidate; CI and downloaded artifact PENDING; zero approvals.",
+    "last_reported_topic": "2-3-2 Cycle165: sections14/15/16 expanded; 16→13 shallow; 39-page CI PDF and first downloaded artifact 13093444497 verified. QA/control postdates inspected artifact; next packaging pending. Zero approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -166,10 +166,13 @@
         13
       ],
       "local_candidate_pdf_pages": 39,
-      "ci_pdf": "PENDING",
-      "actual_artifact_qa": "PENDING",
+      "ci_pdf": "SUCCESS_39_PAGES",
+      "actual_artifact_qa": "VERIFIED_13093444497",
       "original_pdf_count": 75,
-      "independent_approvals": 0
+      "independent_approvals": 0,
+      "artifact_sha256": "dffe5fdcc11e2010e882ee99411da6ff7461b8562f9e98ad9812a3db6cc8f59f",
+      "pdf_sha256": "bcad6c79a9322c61574c30ec16bf3d1deefd623f8b4c6dd1915b83492d6e0e9f",
+      "post_qa_packaging": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
