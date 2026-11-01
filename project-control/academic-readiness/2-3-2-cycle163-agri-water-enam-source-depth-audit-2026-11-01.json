@@ -1,0 +1,94 @@
+{
+  "cycle": 163,
+  "date": "2026-11-01",
+  "topic_id": "2-3-2",
+  "status": "IN_PROGRESS",
+  "academic_approval": false,
+  "base_main_sha": "8efecbba27f8126fe807749d21867b02be1d01ac",
+  "academic_action": "Three nonduplicative source-bounded concept expansions and an in-place explanation refinement of original practice Q9; no new MCQ or topic.",
+  "sections": [
+    {
+      "number": 7,
+      "title": "Green Revolution: achievements and uneven geography",
+      "words_before": 236,
+      "words_after": 558,
+      "source_ids": [
+        "S30"
+      ],
+      "limitations": "2026 ICAR outreach corroborates current nutrient-management advice, not historical causal effects."
+    },
+    {
+      "number": 10,
+      "title": "Major irrigation projects and multipurpose logic",
+      "words_before": 265,
+      "words_after": 550,
+      "source_ids": [
+        "S32"
+      ],
+      "limitations": "FAO methodological guidance; all arithmetic hypothetical."
+    },
+    {
+      "number": 32,
+      "title": "Agricultural markets, storage and value chains",
+      "words_before": 244,
+      "words_after": 574,
+      "source_ids": [
+        "S31"
+      ],
+      "limitations": "e-NAM official design and rules; no measured farmer-income impact claimed."
+    }
+  ],
+  "mcq_audit": {
+    "question": 9,
+    "correct_key": "D",
+    "key_changed": false,
+    "options_reviewed": 4,
+    "reason": "Option D alone demonstrates how expanded irrigated area can increase basin depletion despite lower per-hectare application. A-C lack evidence of increased consumptive use.",
+    "sources": [
+      "S32"
+    ],
+    "scope": "Author-side source-correlated reasoning; not independent question validation or authenticated TGPSC PYQ."
+  },
+  "sources": [
+    {
+      "id": "S30",
+      "url": "https://www.icar.gov.in/en/icar-crida-hyderabad-promotes-balanced-fertilization-and-sustainable-farming-under-khet-bachao",
+      "published": "2026-06-30",
+      "consulted": "2026-11-01",
+      "claim": "soil testing and balanced nutrient management advice"
+    },
+    {
+      "id": "S31",
+      "url": "https://www.enam.gov.in/web/resources/FAQs-of-eNam",
+      "consulted": "2026-11-01",
+      "claim": "mandi integration, state regulatory reforms, auction design"
+    },
+    {
+      "id": "S32",
+      "url": "https://openknowledge.fao.org/3/cb3844en/cb3844en.pdf",
+      "consulted": "2026-11-01",
+      "claim": "field-scale efficiency does not necessarily equal basin water savings"
+    }
+  ],
+  "preservation": {
+    "original_topic_count": 75,
+    "original_topic_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "original_mcqs": 25,
+    "original_mains": 6
+  },
+  "remaining": {
+    "estimated_sections_under_300_after": 14,
+    "independent_mcq_keys_and_distractors": "INCOMPLETE",
+    "mains_claim_audit": "INCOMPLETE",
+    "diagram_accuracy": "INCOMPLETE",
+    "full_browser_accessibility": "INCOMPLETE",
+    "R1_R8_ready": false,
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "publication": {
+    "github_actions_pdf": "PENDING",
+    "downloaded_artifact_crc_sha_link_qa": "PENDING",
+    "library_upload": "PENDING"
+  }
+}
