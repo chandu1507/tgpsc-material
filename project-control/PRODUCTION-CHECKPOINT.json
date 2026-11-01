@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-1 Cycle158: C-16/C-17 source-scope MCQ6 corrected in place; local 36-page candidate; GitHub Actions publication and actual downloaded artifact NOT yet verified",
+    "last_reported_topic": "3-1-1 Cycle158: Q6 C16/C17 corrected, 36-page GitHub PDF, actual downloaded artifact 13082980004 digest/CRC/75-topic QA PASS; independent approvals ZERO",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -18,7 +18,11 @@
       "question_revised": 6,
       "local_pdf_pages": 36,
       "academic_approvals": 0,
-      "github_postedit_artifact_qa": "PENDING"
+      "github_postedit_artifact_qa": "PASS",
+      "github_artifact_id": 13082980004,
+      "actual_pdf_pages": 36,
+      "actual_pdf_sha256": "5267405d7d2b39260c165167e18ae18f994b8aa14058e353375127a4c37061dc",
+      "readiness_count": 75
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
