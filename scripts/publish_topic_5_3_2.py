@@ -111,7 +111,7 @@ qa={'date':'2026-10-28','topic_id':'5-3-2','cycle':60,'original_pdf_sha256':orig
     'All keys and distractors internally recomputed; no named independent expert approval. '
     'Original 2024 commission syllabus not reauthenticated this cycle. R1–R8 not fully passed.\n')
 manifest=json.loads((root/'manifest.json').read_text())
-manifest.update({'academic_status':'not_approved','manuscript_words':word(md),'original_mcqs':30,
+manifest.update({'academic_status':'not_approved','manuscript_words':word(md),'pdf_pages':len(doc),'original_mcqs':30,
     'mains_word_counts':bodycounts,'integrated_pdf_status':'CI_rendered_pending_academic_audit',
     'integrated_pdf_pages':len(doc),'integrated_pdf_sha256':sha(pdf),
     'official_syllabus_authenticated_this_cycle':False,'independent_academic_approvals':0})
