@@ -91,21 +91,21 @@ for tag in page.find_all(['a','img','script','link']):
         fragments_checked+=1
         if unquote(parsed.fragment) not in ids:bad_fragments.append(u)
 assert not bad_files and not bad_fragments,(bad_files,bad_fragments)
-qa={'date':'2026-10-28','topic_id':'5-3-5','cycle':63,'original_pdf_sha256':original,'original_preserved':True,
+qa={'date':'2026-11-01','topic_id':'5-3-5','cycle':153,'original_pdf_sha256':original,'original_preserved':True,
     'integrated_pdf_sha256':sha(pdf),'integrated_pdf_pages':len(doc),'pdf_images':images,'blank_pages':blank,
     'out_of_page_text_blocks':boundary,'concept_count':len(concepts),'concept_word_counts':concept_counts,
     'explanatory_sections_below_300':sum(n<300 for n in concept_counts[1:]),'mcq_count':30,'distractor_count':90,
     'answer_distribution':{o:keys.count(o) for o in 'ABCD'},'mains_body_only_counts':bodycounts,
     'local_file_links_checked':files_checked,'broken_file_links':bad_files,'dom_fragment_links_checked':fragments_checked,
-    'broken_fragment_links':bad_fragments,'spa_routes_excluded':spa_routes,'full_mains_claim_review_complete':False,
+    'broken_fragment_links':bad_fragments,'spa_routes_excluded':spa_routes,'cycle153_mcq_stems_reviewed':10,'cycle153_mcq_options_reviewed':40,'provisional_domain_mcq_ids':[2,10], 'full_mains_claim_review_complete':False,
     'full_page_per_concept_met':False,'direct_browser_accessibility_certified':False,'independent_academic_approvals':0,
-    'R8':'BLOCKED_PENDING_ACTUAL_ARTIFACT_AND_ACADEMIC_QA','actual_downloaded_artifact_verified':False}
-(root/'QA-REPORT.md').write_text('# Cycle63 deterministic render QA\n\n'+json.dumps(qa,indent=2)+'\n')
+    'R8':'IN_PROGRESS_PENDING_ACTUAL_ARTIFACT_AND_ACADEMIC_QA','actual_downloaded_artifact_verified':False}
+(root/'QA-REPORT.md').write_text('# Cycle153 deterministic render QA (not academic certification)\n\n'+json.dumps(qa,indent=2)+'\n')
 (root/'README.md').write_text('# Paper V / Unit III / Topic 5 — Decision Making and Problem Solving\n\n'
     'Preserved original 25-page PDF SHA256 '+original+'.\n\n'
     '[Offline HTML](index.html) · [Integrated PDF](source/integrated-student-edition-cycle63.pdf) · '
     '[Editable master](source/complete-notes.md) · [Original PDF](complete-notes.pdf).\n\n'
-    'Four targeted conceptual expansions and three revised practice MCQs. No official PYQs or independent academic approval claimed.\n')
+    'Cycle153: four source-correlated conceptual expansions; 10 existing MCQs option-reviewed without changing their keys (two medical-domain reviews provisional). No official PYQs or independent academic approval claimed.\n')
 manifest=json.loads((root/'manifest.json').read_text())
 manifest.update({'academically_approved':False,'academic_status':'not_approved','source_word_count':word(md),
     'mcq_count':30,'mains_count':6,'mains_word_counts':bodycounts,'original_pdf_pages':25,'integrated_pdf_status':'CI_rendered_pending_academic_audit',
@@ -115,5 +115,5 @@ manifest['metrics']={'concept_count':18,'explanatory_sections_below_300':qa['exp
     'answer_distribution':qa['answer_distribution'],'mains_body_only_counts':bodycounts,'independent_review_complete':False}
 manifest['files_sha256']={f.relative_to(root).as_posix():sha(f) for f in root.rglob('*') if f.is_file() and f.name!='manifest.json'}
 (root/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
-Path('project-control/academic-readiness/5-3-5-cycle63-ci-render-qa-2026-10-28.json').write_text(json.dumps(qa,indent=2)+'\n')
+Path('project-control/academic-readiness/5-3-5-cycle153-ci-render-qa-2026-11-01.json').write_text(json.dumps(qa,indent=2)+'\n')
 print(json.dumps({k:v for k,v in qa.items() if k!='concept_word_counts'},indent=2))
