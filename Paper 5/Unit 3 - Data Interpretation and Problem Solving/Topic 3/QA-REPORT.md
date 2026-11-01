@@ -6,7 +6,7 @@
   "cycle": 61,
   "original_pdf_sha256": "3a4de15932eabf615bd62c4e5f99d15ef6b65a8517014cc81c753a81c9aacf29",
   "original_preserved": true,
-  "integrated_pdf_sha256": "26553b15546af4bab3b398265520b3df336cb625f6da5e8f3b8ca9e65beee5ca",
+  "integrated_pdf_sha256": "5066e281825625380377c6d438885c5e21ec5518af833a80108f93e115942242",
   "integrated_pdf_pages": 21,
   "pdf_images": 3,
   "blank_pages": [],
@@ -42,11 +42,11 @@
     "D": 3
   },
   "mains_body_only_counts": [
-    226,
+    239,
     222,
     238,
     225,
-    224,
+    236,
     217
   ],
   "local_file_links_checked": 7,
