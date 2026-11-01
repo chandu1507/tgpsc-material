@@ -55,7 +55,7 @@ pdf=src/'integrated-student-edition-cycle60.pdf'
 subprocess.run([sys.executable,'scripts/render_topic_5_3_2_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
 doc=fitz.open(pdf)
 blank=[i+1 for i,p in enumerate(doc) if len(p.get_text().strip())<60]
-unsupported_glyphs=sum(p.get_text().count('\\x00') for p in doc)
+unsupported_glyphs=sum(p.get_text().count('\x00') for p in doc)
 assert unsupported_glyphs==0, f'PDF has {unsupported_glyphs} unsupported NUL glyphs'
 images=sum(len(p.get_images()) for p in doc)
 boundary=[]
