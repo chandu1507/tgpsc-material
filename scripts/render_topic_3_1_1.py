@@ -140,7 +140,7 @@ doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargi
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
-null_count=sum(page.get_text().count('\\x00') for page in pdf)
+null_count=sum(page.get_text().count('\x00') for page in pdf)
 if null_count: raise AssertionError(f'Unsupported glyphs extracted as NUL: {null_count}')
 qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 if args.qa:
