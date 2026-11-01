@@ -35,11 +35,16 @@ styles={
  'cellhead':ParagraphStyle('cellhead',fontName='NotoBold',fontSize=7.2,leading=10.5,textColor=colors.white),
  'note':ParagraphStyle('note',fontName='Noto',fontSize=7.3,leading=10.5,textColor=colors.HexColor('#43546C')),
 }
+def pdf_safe_text(v):
+    # Keep the editable Markdown Unicode intact; replace unsupported glyphs only for PDF text.
+    return (v.replace('→', ' -> ').replace('←', ' <- ').replace('⇒', ' => ')
+             .replace('≤', ' <= ').replace('≥', ' >= ').replace('−', '-'))
+
 def inline_html(tok):
     parts=[]
     for t in tok.children or []:
-        if t.type=='text':parts.append(html.escape(t.content))
-        elif t.type=='code_inline':parts.append('<font name="NotoBold">'+html.escape(t.content)+'</font>')
+        if t.type=='text':parts.append(html.escape(pdf_safe_text(t.content)))
+        elif t.type=='code_inline':parts.append('<font name="NotoBold">'+html.escape(pdf_safe_text(t.content))+'</font>')
         elif t.type=='strong_open':parts.append('<b>')
         elif t.type=='strong_close':parts.append('</b>')
         elif t.type=='em_open':parts.append('<i>')
@@ -50,8 +55,8 @@ def inline_html(tok):
             else:parts.append('')
         elif t.type=='link_close':parts.append('</link>')
         elif t.type in ('softbreak','hardbreak'):parts.append('<br/>')
-        elif t.type=='html_inline':parts.append(html.escape(t.content))
-        elif t.type=='image':parts.append(html.escape(t.content))
+        elif t.type=='html_inline':parts.append(html.escape(pdf_safe_text(t.content)))
+        elif t.type=='image':parts.append(html.escape(pdf_safe_text(t.content)))
     return ''.join(parts)
 
 def diagram(num):
@@ -106,7 +111,7 @@ while i<len(tokens):
       if m:story.append(diagram(int(m.group(1))))
     story.append(Paragraph(('•  '+val) if list_depth else val,styles['li' if list_depth else 'p']))
     i+=3;continue
- if t.type=='fence':story.append(Paragraph(html.escape(t.content).replace('\n','<br/>'),styles['note']));i+=1;continue
+ if t.type=='fence':story.append(Paragraph(html.escape(pdf_safe_text(t.content)).replace('\n','<br/>'),styles['note']));i+=1;continue
  i+=1
 
 def footer(canvas,doc):
@@ -122,6 +127,12 @@ doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
 qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
+# Detect PDF extraction corruption before a successful workflow can publish the result.
+corrupt_pages=[i+1 for i,p in enumerate(pdf) if ('\\x00' in p.get_text() or '\\ufffd' in p.get_text())]
+if corrupt_pages:
+    raise RuntimeError(f'Unsupported or replacement glyphs on PDF pages: {corrupt_pages}')
+if qa['pages_with_no_text']:
+    raise RuntimeError(f'Blank PDF pages: {qa["pages_with_no_text"]}')
 if args.qa:
     args.qa.parent.mkdir(parents=True,exist_ok=True)
     args.qa.write_text(json.dumps(qa,indent=2))
