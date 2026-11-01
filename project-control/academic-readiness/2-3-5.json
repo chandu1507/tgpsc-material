@@ -33,9 +33,10 @@
     "project-control/academic-readiness/2-3-5-official-syllabus-r1-mapping-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json"
+    "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json",
+    "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle92: all 16 explanatory sections now >=300 words; qualitative R3 remains IN_PROGRESS, not PASS. Independent MCQ 25-key/100-option, six mains claim, diagram, browser and accessibility audits outstanding; CI PDF and downloaded-artifact QA pending.",
+  "next_action": "Cycle170 Q1/Q2/Q14/Q20/Q22 author-side four-option checks completed and ambiguity/wastewater overstatement corrected; 17/25 distinct bounded source-correlated keys, 8 remaining, full independent 100-option and six mains audits pending. CI PDF and actual downloaded post-edit artifact QA pending. R1 PASS, R2–R8 not fully PASS, zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -67,9 +68,9 @@
     "full_resolution_every_page_accessibility_certified": false
   },
   "mcq_primary_key_review": {
-    "source_correlated_correct_keys": 12,
+    "source_correlated_correct_keys": 17,
     "total_questions": 25,
-    "remaining_keys": 13,
+    "remaining_keys": 8,
     "all_distractors_independently_validated": false
   },
   "cycle91_2026_10_29": {
@@ -179,5 +180,35 @@
     "pdf_pages": 23,
     "pdf_sha256": "9d6950f093849721ab9876e39922bc79653a0e61bf195a346f0d4a199542d170",
     "post_render_evidence": "project-control/academic-readiness/2-3-5-cycle92-actual-downloaded-post-render-artifact-qa-2026-10-29.json"
+  },
+  "cycle170_2026_11_02": {
+    "status": "FIVE_ORIGINAL_MCQS_FOUR_OPTION_AUTHOR_SOURCE_CHECK_NOT_APPROVED",
+    "questions_revised_in_place": [
+      1,
+      2,
+      14,
+      20,
+      22
+    ],
+    "reviewed_option_count": 20,
+    "original_correct_keys_preserved": true,
+    "ambiguity_fixed": "Q1 prior wording allowed both natural increase and settlement reclassification",
+    "substantive_correction": "Q22 safe wastewater treatment does not universally require reuse",
+    "source_ids": [
+      "U18",
+      "U19",
+      "U20",
+      "U21"
+    ],
+    "source_evidence": "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json",
+    "normalized_R1": "PASS",
+    "R5": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0,
+    "local_pdf_candidate_pages": 22,
+    "local_pdf_candidate_qa": "PASS_NO_NUL_REPLACEMENT_GLYPHS",
+    "github_ci_render": "PENDING",
+    "actual_post_edit_downloaded_artifact": "PENDING"
   }
 }
