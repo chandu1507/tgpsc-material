@@ -95,7 +95,10 @@
       "OpenStax Contemporary Mathematics"
     ],
     "evidence": "project-control/academic-readiness/5-3-3-cycle151-six-mains-claim-audit-2026-11-01.json",
-    "CI_pdf_post_edit_verified": false,
-    "actual_downloaded_post_edit_artifact_verified": false
+    "CI_pdf_post_edit_verified": true,
+    "actual_downloaded_post_edit_artifact_verified": true,
+    "actual_artifact_id": 13071395410,
+    "actual_pdf_sha256": "bece7d9ce95dc7816670ad795448b1c464199d6b3c4051d624be79b26ac277c9",
+    "actual_downloaded_qa": "project-control/academic-readiness/5-3-3-cycle151-actual-downloaded-postrender-artifact-qa-2026-11-01.json"
   }
 }
