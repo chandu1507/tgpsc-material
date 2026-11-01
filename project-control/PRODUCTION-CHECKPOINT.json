@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-2 Cycle166: §§17/24/31 expanded, 13→10 shallow, 40-page PDF and actual post-control artifact 13096940270 verified; QA commit postdates package, next package pending. Zero approvals.",
+    "last_reported_topic": "2-3-2 Cycle167: §§1/2/3 expanded; 10→7 shallow; 42-page CI PDF; downloaded artifact 13098217872 CRC/digest/75-topic/link QA PASS; post-control package pending; zero approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -199,6 +199,34 @@
       "limits": "No independent MCQ/mains/diagram certification, full browser QA or R1-R8 approval",
       "post_render_artifact_sha256": "3b56d9ce36a2123cf52cb36b2715662d5507d9f1d422ed38530068c4da2f8ed5",
       "post_qa_packaging": "PENDING"
+    },
+    "cycle167": {
+      "date": "2026-11-02",
+      "topic": "2-3-2",
+      "expanded_sections": [
+        1,
+        2,
+        3
+      ],
+      "shallow_before_after": [
+        10,
+        7
+      ],
+      "pdf_pages": 42,
+      "pdf_sha256": "de401b9ff397be4643d02fa3d8f98dfee8d550b2d300ed80610c5f68f664b229",
+      "artifact_id": 13098217872,
+      "artifact_sha256": "7be18dab2de9df843656e43ee03dd247bdbea0bee2d76b771e4ceccd704fe67b",
+      "original_pdf_count": 75,
+      "readiness_count": 75,
+      "normalized_R1_PASS": 14,
+      "readiness_status_counts": {
+        "IN_PROGRESS": 7,
+        "ASSESSED_REBUILD_REQUIRED": 68,
+        "NOT_ASSESSED": 0
+      },
+      "fully_ready": 0,
+      "independent_approvals": 0,
+      "post_control_packaging": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",

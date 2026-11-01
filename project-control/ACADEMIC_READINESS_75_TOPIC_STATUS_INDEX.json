@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle166 actual post-control GitHub artifact 13096940270 independently downloaded and checked: SHA/digest 3b56d9ce36a2123cf52cb36b2715662d5507d9f1d422ed38530068c4da2f8ed5, CRC PASS, 2229 files, 75 original PDFs unchanged, 75 readiness, 634 local links and 1581 DOM fragments zero broken, 40-page integrated PDF. This QA evidence/control commit postdates inspected artifact; verify next package. 7/68/0 statuses, 14 normalized R1 PASS, zero full R1-R8 and approvals.",
+  "warning": "Cycle167 Topic 2-3-2 §§1/2/3 expanded with DA&FW and ICAR source bounds; direct count 10→7 below300/40. CI 42-page PDF and artifact 13098217872 actually downloaded/CRC SHA/75 originals/75 readiness/634 local refs/1581 fragments PASS. QA/control commit postdates artifact; next package must be independently downloaded. Statuses 7/68/0; 14 normalized R1 PASS; zero full R1–R8 and expert approvals. Cycle166 actual post-control GitHub artifact 13096940270 independently downloaded and checked: SHA/digest 3b56d9ce36a2123cf52cb36b2715662d5507d9f1d422ed38530068c4da2f8ed5, CRC PASS, 2229 files, 75 original PDFs unchanged, 75 readiness, 634 local links and 1581 DOM fragments zero broken, 40-page integrated PDF. This QA evidence/control commit postdates inspected artifact; verify next package. 7/68/0 statuses, 14 normalized R1 PASS, zero full R1-R8 and approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",

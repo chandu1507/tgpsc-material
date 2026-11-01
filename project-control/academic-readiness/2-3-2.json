@@ -47,9 +47,11 @@
     "project-control/academic-readiness/2-3-2-cycle165-cotton-sugar-cement-auto-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle165-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json",
-    "project-control/academic-readiness/2-3-2-cycle166-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/2-3-2-cycle166-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/2-3-2-cycle167-agriculture-rice-wheat-official-source-depth-audit-2026-11-02.json",
+    "project-control/academic-readiness/2-3-2-cycle167-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle166 40-page CI PDF and downloaded artifact 13096940270 verified CRC/digest/75 unchanged originals/75 readiness/634 links/1581 fragments. QA evidence commit postdates artifact; next package requires fresh download. 10/40 sections under300; academic approvals ZERO.",
+  "next_action": "Cycle167 §§1/2/3 expanded; direct count 10→7 below 300/40; 42-page CI PDF and artifact 13098217872 actually downloaded with CRC/digest/75 original PDF/75 readiness/634 local links/1581 fragments PASS. Post-control package requires fresh download. All 25 MCQ options, six mains, diagrams and browser accessibility still need independent review. Zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -403,5 +405,35 @@
     "independent_approvals": 0,
     "evidence": "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json",
     "post_qa_packaging": "PENDING"
+  },
+  "cycle167_2026_11_02": {
+    "expanded_sections": [
+      1,
+      2,
+      3
+    ],
+    "sections_under300_before_after": [
+      10,
+      7
+    ],
+    "source_ids": [
+      "S43",
+      "S44",
+      "S45",
+      "S46"
+    ],
+    "renderer_run_id": 41343909815,
+    "package_run_id": 41343956785,
+    "artifact_id": 13098217872,
+    "pdf_pages": 42,
+    "pdf_sha256": "de401b9ff397be4643d02fa3d8f98dfee8d550b2d300ed80610c5f68f664b229",
+    "original_topic_pdf_count": 75,
+    "readiness_record_count": 75,
+    "local_link_qa": "PASS",
+    "academic_approvals": 0,
+    "source_audit": "AUTHOR_SIDE_ONLY",
+    "R1": "PASS",
+    "R2_to_R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
   }
 }
