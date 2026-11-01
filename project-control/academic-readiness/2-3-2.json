@@ -38,9 +38,10 @@
     "project-control/academic-readiness/2-3-2-cycle94-nicdc-plfs-census-depth-reconciliation-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle94-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle161-freight-wto-multimodal-source-audit-2026-11-01.json",
-    "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json"
+    "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json",
+    "project-control/academic-readiness/2-3-2-cycle162-mofpi-sagarmala-and-mcq14-audit-2026-11-01.json"
   ],
-  "next_action": "Cycle161: 3 source-backed expansions and MCQ17 author audit; corrected 33-page CI PDF actually downloaded with CRC/SHA/75-topic/link QA PASS. 19/40 sections still under300; complete MCQ/mains/diagram/browser/expert checks pending. NOT APPROVED.",
+  "next_action": "Cycle162 primary-source additions merged into editable master; 17/40 sections still under300. Render CI PDF, download actual Actions artifact, verify 75 originals, 75 readiness JSON, ZIP CRC, hashes and offline links. Remaining independent MCQ/mains/diagram/accessibility review. NOT APPROVED.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -223,5 +224,30 @@
     "glyph_nul_count": 0,
     "remaining_whitespace_sections_below300": 19,
     "qa_evidence": "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json"
+  },
+  "cycle162_2026_11_01": {
+    "academic_repair": "Source-checked expansions of concepts 18 and 36; author-side 4-option MCQ14 revision, key D retained",
+    "concept18_words_before_after": [
+      247,
+      499
+    ],
+    "concept36_words_before_after": [
+      235,
+      523
+    ],
+    "mechanical_under300_before_after": [
+      19,
+      17
+    ],
+    "source_register_new": [
+      "S27",
+      "S28",
+      "S29"
+    ],
+    "render": "PENDING",
+    "actual_downloaded_artifact_QA": "PENDING",
+    "R1_R8_fully_ready": false,
+    "R9": "NOT_STARTED",
+    "independent_approval": false
   }
 }
