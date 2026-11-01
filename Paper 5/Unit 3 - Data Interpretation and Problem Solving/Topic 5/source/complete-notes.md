@@ -56,6 +56,14 @@ Procedural fairness requires notice when feasible, intelligible reasons, consist
 
 A stakeholder matrix can rank influence and vulnerability, but numerical scores should never substitute for rights. A minority's fundamental protection is not outweighed merely because the majority scores higher on a popularity poll.
 
+### Applied extension: consultation is an evidence-gathering process, not a vote
+
+**Worked administrative case.** A municipal ward proposes moving a bus stop to improve ambulance access. The initial consultation is attended by 80 shopkeepers, but not the visually impaired commuters, women travelling after dark or daily-wage workers who cannot attend daytime meetings. An 80-person majority is therefore not evidence of universal support. The officer should record which groups were invited, who participated, what alternatives were explained and what barriers prevented participation. A short accessible walk-through of both proposed sites may reveal that the apparently faster option lacks a safe crossing.
+
+**Decision test.** First check statutory powers, applicable notice or hearing duties and non-negotiable safety requirements. Then compare the alternatives against travel time, pedestrian risk, livelihoods, accessibility and implementation cost. Publish the reasons for accepting or rejecting objections, subject to lawful confidentiality. Provide a workable route for reconsideration; a consultation is not meaningful if submissions are collected but never examined.
+
+**Evidence boundary.** The Government of Rajasthan's project safeguard framework describes early, continuing, gender-inclusive consultation adapted to disadvantaged groups [S14]. It is evidence of a project-specific consultation standard, not a universal statute governing every Telangana decision. DARPG's 23 August 2024 CPGRAMS guidance [S12] supports accountable grievance routing but does not replace a municipality's own legal procedure. A high-scoring mains answer distinguishes **participation**, **legal authority** and **final responsibility** instead of assuming that the loudest group may decide for everyone.
+
 ## 5. Legal authority, hierarchy and jurisdiction
 
 A workable answer asks who is legally authorised to do what. A district officer cannot assume that a policy preference overrides a statute, a court order, a procurement rule or an individual right. Begin with the Constitution, applicable central and Telangana statutes, subordinate rules, delegated financial powers, binding directions and the agency's mandate. Identify whether the case requires a municipal commissioner, district collector, police authority, public-health official, school-management authority, line department or an interdepartmental task force. Avoid presenting a general recommendation as a binding legal conclusion without checking current law.
@@ -78,6 +86,14 @@ Analyse the decision through at least three lenses. **Consequences:** Which opti
 Consider a proposal to publish names of households receiving emergency food assistance. Public disclosure may deter duplicates, but it may expose health conditions or domestic vulnerabilities. A better design may publish anonymised totals and eligibility rules, maintain auditable protected records, and offer an independent grievance mechanism. Transparency should be designed, not reduced to “publish everything”.
 
 Conflicts of interest require disclosure and recusal where appropriate. If a procurement committee member has a financial relationship with a bidder, the response must protect the integrity of the process, not simply promise to be unbiased. Ethical reasoning is visible when a candidate explains both the moral principle and the operational safeguard.
+
+### Applied extension: resolving a conflict of values without erasing one of them
+
+**Worked administrative case.** A flood-relief officer must publish a beneficiary list to deter duplicate payments, but some entries reveal sensitive household circumstances. Total secrecy weakens public scrutiny; unrestricted disclosure can expose vulnerable residents. The first task is to identify what information is actually needed to audit eligibility, what law permits or requires disclosure and which personal details can be withheld or aggregated. A public count of approved cases, objective criteria, reasons for rejection and an appeal mechanism may improve accountability without publishing every sensitive attribute.
+
+**Proportionality test.** State the legitimate objective, identify the likely harm from each option and ask whether a less intrusive, lawful measure can achieve the same result. A time-limited emergency measure should have an identified review date and accountable decision-maker. The value of speed cannot excuse bypassing a required safety check; equally, a routine approval process should not become an excuse for ignoring an imminent danger where lawful emergency powers exist.
+
+**Source and jurisdiction limit.** India's Digital Personal Data Protection Act has provision-specific commencement, as recorded in the 13 November 2025 Gazette notification [S13]; do not write that every operational obligation was already in force in November 2026. The 2024 Union Goods Procurement Manual [S11] supplies a useful integrity framework but does not automatically govern all Telangana purchases. In a mains answer, name the **competing duties**, the **binding constraint**, the **least harmful feasible option**, and the **review or remedy**.
 
 ## 7. Urgency, triage and reversible decisions
 
@@ -106,6 +122,14 @@ Evaluate options with a decision matrix that has **hard constraints** (lawfulnes
 
 Finally, state why alternatives were rejected. A conclusion that simply names Option B, without a comparison, reads as an unsupported preference rather than a decision.
 
+### Applied extension: compare genuinely different mechanisms
+
+**Worked administrative case.** A district has a recurring 30-day delay in repairing rural drinking-water pumps. Option A adds a temporary mobile repair team, Option B stocks standard spare parts at existing service centres, and Option C creates a preventive-maintenance schedule linked to failure reports. These address response capacity, supply bottlenecks and future failures respectively. A combined short-term A plus longer-term B/C package may be sensible, but it must specify which department owns each step and how the package is funded.
+
+**Decision matrix without false precision.** First exclude any option lacking legal authority, minimum safety or an accessible alternative for affected residents. For the survivors, compare time to first service restoration, recurring cost, workforce requirements, geographical reach and probability of recurrence. Use ranges rather than inventing precise scores: for example, 'mobile team can reach the site in one to three days if a vehicle is available' is a scenario assumption, not a verified district statistic. Test whether an option remains preferred if costs rise or the available workforce falls.
+
+**Evidence and evaluation.** NITI Aayog's Development Monitoring and Evaluation Office distinguishes measurable outputs from public-service outcomes [S15]. Thus, 'number of pumps inspected' is an output; 'share of affected households receiving reliable safe water' is closer to an outcome. Record the baseline, intended change, data owner and date for review before rollout. A recommendation becomes defensible when it explains **why rejected alternatives fail**, what uncertainty could reverse the choice and what evidence would trigger revision.
+
 ## 9. Causal reasoning, feedback loops and unintended effects
 
 Administrative systems react to interventions. Installing CCTV near an illegal-dumping hotspot may shift dumping to an unmonitored lane; punitive absenteeism targets may encourage falsified attendance; publishing school rankings without context may incentivise exclusion of weak students. A cause-and-effect analysis asks not only “what will this measure change?” but “how will people adapt?”. Identify incentives, bottlenecks, displacement effects and feedback loops.
@@ -115,6 +139,14 @@ Use a short causal chain: intervention → immediate behaviour → intermediate 
 A useful counterfactual is “what would have happened without the intervention?” In real administration, randomised trials are not always ethical or feasible; phased implementation, matched comparison areas and before/after analysis with seasonal adjustment may help. Do not present correlation as proof. If a new drain was built and flooding declined during a low-rainfall year, the project may not be the cause.
 
 Unintended effects should be assigned owners and mitigations before implementation. If digital-only applications exclude people without smartphones, retain assisted access; if a cash benefit risks intermediary capture, provide accessible verification and grievance channels.
+
+### Applied extension: construct and challenge the causal story
+
+**Worked administrative case.** A new grievance portal reports that pending cases fell from 1,000 to 300. That observation does not by itself show that citizens received better services. The portal may have resolved cases, rejected them automatically, moved them into another queue or discouraged people without digital access from filing. The causal chain must therefore be stated: accessible registration leads to complete records, appropriate routing, substantive remedy and independently observable service improvement. Every arrow is a hypothesis requiring evidence.
+
+**Counterfactual and feedback.** Compare outcomes with the pre-launch baseline, similar offices or unaffected services where a defensible comparison exists. Check whether new complaints are displaced to walk-in counters and whether unresolved cases reappear as repeat submissions. Disaggregate by geography, disability access, language and type of grievance to detect a programme that improves the average while harming a subgroup. Avoid claiming causation merely because two trends move together.
+
+**What to measure.** The official CPGRAMS portal provides tracking and appeal facilities [S12], while the Development Monitoring and Evaluation Office describes outcome-focused indicators [S15]. An appropriate audit might track verified remedy, time to remedy, reopening rate, failed registrations and citizen feedback together. The exact denominators matter: 'resolved / submitted' can look impressive if excluded or failed submissions disappear. In the mains answer, show the **causal mechanism**, **alternative explanations**, **falsification test** and **feedback loop** that changes the decision when the evidence disagrees.
 
 ## 10. Risk assessment and scenario planning
 
@@ -156,6 +188,14 @@ Coordination also includes external actors: community health workers, school com
 
 After action, run a no-blame operational review for process learning while preserving separate channels for investigating negligence or misconduct. The objective is to improve systems without hiding individual accountability.
 
+### Applied extension: a coordination plan must work at 2 a.m.
+
+**Worked administrative case.** A suspected industrial discharge reaches a stream used by two villages. A useful action plan identifies the authority responsible for protecting the water supply, the technical agency responsible for sampling, the health team monitoring symptoms, the local body communicating safe alternatives and the officer empowered to convene and escalate. It must also say who records sample times, who holds the chain-of-custody log and who tells residents when a restriction can be lifted. The district officer should not personally claim a laboratory certification that only the competent technical body can issue.
+
+**Operational handoff.** Use a single incident log with time, owner, evidence, decision and next checkpoint. If the water agency reports 'tanker dispatched', the receiving village should confirm delivery and usability; otherwise a reported output can conceal service failure. Designate a substitute for each critical role and define a trigger for escalation if an agency misses a deadline. Separate emergency protective coordination from later enforcement or adjudication so urgent help does not prejudge culpability.
+
+**Institutional reference.** The Incident Response System material published by the Uttarakhand State Disaster Management Authority distinguishes operations, planning, logistics/finance and command functions [S16]. This is a model for analysing incident roles, not proof that every Telangana district automatically uses identical appointments. The Ministry of Home Affairs describes central disaster-management responsibilities [S17], but local legal powers still require verification. An exam answer earns substance by naming the **lead**, **technical verifier**, **field executor**, **communications owner**, **handoff evidence** and **escalation threshold**, rather than merely proposing a committee.
+
 ## 13. Communication, misinformation and grievance redress
 
 A technically sound decision can fail when citizens do not understand it. Communication should specify the problem, action, service alternative, eligibility or safety rule, helpline, grievance channel and next update. For a contaminated water source, a message that merely says “do not panic” is inadequate; residents need to know which source to avoid, where verified safe water is available and how vulnerable households will receive supplies. Translation and accessible formats are not optional afterthoughts in multilingual communities.
@@ -196,6 +236,20 @@ Avoid three common weak patterns. First, a virtue-only answer (“show empathy, 
 
 Before submitting, ask: What happens in the first 24 hours? Who has authority? Who might be harmed by the solution? What alternative was rejected? How will success be checked? If the answer cannot address these, it is still a proposal, not a decision.
 
+### Applied extension: a worked 220-word answer architecture
+
+**Practice prompt.** A rural school has repeated absenteeism during a heatwave, and a local official proposes compulsory attendance enforcement. Draft a defensible response without inventing local temperature data.
+
+**Background and objective.** State the observed attendance problem and the overriding objective: safe access to education. Separate the reported absenteeism from its unverified causes. Do not assume that non-attendance proves parental neglect.
+
+**Stakeholders and constraints.** Identify pupils, parents, teachers, school management, health staff and transport providers. Flag child safety, applicable school instructions and the competent authority's powers as constraints that must be checked before changing schedules.
+
+**Root-cause assessment.** Request attendance patterns by village and time, heat warnings, classroom ventilation, drinking-water access and transport conditions. Compare the experience of younger children and pupils with disabilities. Mark any unavailable measurement as pending rather than inventing a figure.
+
+**Options and recommendation.** Compare a lawful temporary timetable adjustment, safe water and shade, accessible transport support, communication to families and an escalation route for symptomatic children. Choose an immediate low-regret protective package within existing authority while seeking formal approval for any larger change.
+
+**Implementation, monitoring and conclusion.** Assign an officer, a start date, a review date and indicators such as safe attendance, reported illness and unresolved transport barriers. Revise the approach if evidence shows harm. NITI Aayog's output-outcome framework [S15] supports the distinction between actions delivered and outcomes achieved. This is an **answer-building illustration**, not a claim about an actual school, and must be condensed to the word limit when used in an examination.
+
 ## 16. Common cognitive traps in administrative decisions
 
 **Anchoring** occurs when the first estimate dominates later reasoning; a contractor's initial cost quote can shape a budget even after better evidence emerges. **Availability bias** occurs when a dramatic recent incident receives more attention than a chronic, less visible problem. **Sunk-cost fallacy** occurs when officials continue an ineffective scheme because substantial money has already been spent. **Status-quo bias** treats existing procedures as inherently safer. **Groupthink** discourages dissent in a committee, particularly when a senior officer has announced a preference.
@@ -205,6 +259,14 @@ Before submitting, ask: What happens in the first 24 hours? Who has authority? W
 Mitigations are procedural. Request one independent alternative, assign a devil's advocate to identify failure modes, document assumptions before results arrive, check subgroup impacts, invite frontline staff to challenge estimates and revisit decisions when evidence changes. Use pre-mortems: imagine the plan failed in six months and list plausible reasons. These steps are inexpensive compared with the social cost of institutional overconfidence.
 
 A balanced candidate does not portray bias as a flaw of only corrupt officers. Well-intentioned teams under time pressure also make predictable errors. Good systems make error detection routine.
+
+### Applied extension: bias controls are strongest before the outcome is known
+
+**Worked administrative case.** A flood-control project was completed before an unusually dry monsoon, and an officer declares it successful because flooding fell. This is outcome bias: the project may be sound, but the observed season provides weak evidence of its protective effect. An evaluation should inspect design assumptions, maintenance records, hydraulic performance under plausible rainfall and comparisons with earlier conditions. Conversely, a justified evacuation is not a failure merely because the forecasted event misses the district.
+
+**A practical bias-control protocol.** Before a decision, write down the baseline estimate, evidence sources, dissenting alternatives and the conditions that would cause reversal. During discussion, ask a junior technical member to present the strongest contrary case before the senior officer announces a preference. After implementation, separate 'was the decision reasonable on information available then?' from 'what did subsequent evidence reveal?' This avoids rewriting history to make the outcome seem inevitable.
+
+**Metric gaming test.** Suppose an office is rewarded for clearing 95% of grievances within a week. Compare the official disposal percentage with repeat complaints, appeals, inaccessible filings and verified remedies. A rise in disposal with no rise in actual service quality is a warning, not an achievement. DARPG's 2024 grievance guidelines [S12] emphasise quality, feedback and appeals; NITI Aayog's monitoring framework [S15] supports testing outcomes rather than only activity counts. These references justify the **evaluation discipline**, not any unobserved claim that a particular office manipulated its data.
 
 ## 17. Decision quality in Telangana-specific settings
 
@@ -216,6 +278,16 @@ Use named institutions accurately: Telangana municipal bodies and district admin
 
 For each Telangana case, add three questions: Which statutory tier acts first? Which group has the least voice? Which local condition could invalidate a generic national solution? These questions turn regional knowledge into better reasoning rather than decorative place names.
 
+### Applied extension: apply a common method to different Telangana contexts
+
+**Urban access case.** A Hyderabad-area junction has heavy congestion and blocked ambulance movement. The officer should map peak-hour flow, accessible footpaths, vendor livelihoods, bus-stop locations and emergency access. Possible interventions include timed loading, a redesigned pedestrian crossing or a legally authorised relocation with meaningful notice. A traffic-speed improvement is not sufficient if people using wheelchairs lose access to the pavement.
+
+**Rural service case.** A remote habitation reports irregular drinking-water supply. Test source reliability, pump downtime, distance to alternate supply and whether the problem disproportionately affects households unable to travel. A tanker dispatch count is not a substitute for verifying delivery of safe water. The relevant water and local-government bodies must be identified from the actual jurisdiction rather than assumed.
+
+**Risk and warning case.** In a flood-prone locality, use authorised early warnings and check whether people can act on them: transport, accessible shelters, languages, caregivers and communication outages all matter. NDMA's SACHET portal [S10] is a source for authorised warning communication, not a substitute for a district-specific evacuation order.
+
+**Jurisdiction warning.** The Telangana Municipalities Act, 2019 [S7] is a useful source for municipal functions; it should not be projected onto every rural, tribal or metropolitan authority without checking the governing law. In a mains response, state **location-specific facts to verify**, **competent authority**, **equity risk**, **feasible action**, and **observable outcome**. The examples are hypothetical and contain no verified district statistics.
+
 ## 18. Integrated synthesis and examination checklist
 
 The most reliable decision process is **frame → verify → protect → compare → decide → implement → review**. Frame the actual service or safety gap; verify facts without delaying necessary protection; identify law, rights and jurisdiction; compare feasible options; choose a phased course with responsible officials; and monitor outcomes with a correction rule. This sequence is not mechanical: in emergencies, protection begins while verification continues. In routine disputes, due process may precede coercive action.
@@ -226,7 +298,15 @@ An excellent case response explains the relationship between the immediate and s
 
 **Summary.** Decision making is accountable judgement under constraints. Its quality rests on clear objectives, evidence discipline, lawful authority, proportionality, distributive fairness, practical sequencing and willingness to correct course. Memorise the questions to ask, not the answer to every imagined scenario.
 
+### Applied extension: a final self-audit before writing the conclusion
 
+Use a five-question stress test rather than ending with generic words such as 'awareness', 'coordination' or 'strict action'. **First, what is known?** Separate direct observations, official records, stakeholder allegations and assumptions. **Second, what must be protected now?** Identify irreversible safety risks and legal rights. **Third, who can lawfully act?** Name the authority, technical verifier and implementation owner. **Fourth, what is the alternative?** Compare at least two mechanisms and explain why the selected one is proportionate. **Fifth, how will failure be detected?** Set a baseline, outcome measure, review date and trigger for correction.
+
+**Worked counterexample.** 'Deploy a mobile app and monitor regularly' is not an adequate response to exclusion from a welfare scheme. It omits people unable to authenticate, the lawful fallback, the accountable officer and the measure of successful receipt. A stronger response tests failed registrations, provides an authorised assisted route, audits wrongful exclusions and measures verified benefit delivery rather than app downloads.
+
+**Source discipline.** Official grievance systems provide feedback and appeal mechanisms [S12], and the Development Monitoring and Evaluation Office distinguishes outputs from outcomes [S15]. Neither source validates an invented case fact. Mark figures as hypothetical, label every question as original practice unless a genuine Commission paper is authenticated, and identify uncertainties that still require investigation.
+
+**Exam discipline.** Conclude with a decision, not an aspiration: immediate protective step, medium-term structural repair, responsible office, evidence checkpoint and citizen remedy. This structure makes a 200–250-word mains answer assessable while preserving the longer chapter's analytical depth.
 
 # Twelve original applied case studies
 
@@ -797,7 +877,7 @@ A structured administrative situation should be solved by defining the public ob
 
 # Primary-source register and verification audit
 
-**Audit updated:** 1 November 2026 (earlier entries retained). Sources below are primary government or government-hosted material unless specifically described as an archival government report. Source dates refer to enactment, issue or displayed update dates, not the date this chapter was written. The legal examples are illustrative; applicability, delegated authority, amendments and commencement must be verified in the real case. No fabricated current statistics are presented.
+**Audit updated:** 1 November 2026, Cycle154 (earlier entries retained). Sources below are primary government or government-hosted material unless specifically described as an archival government report. Source dates refer to enactment, issue or displayed update dates, not the date this chapter was written. The legal examples are illustrative; applicability, delegated authority, amendments and commencement must be verified in the real case. No fabricated current statistics are presented.
 
 1. **TGPSC Notification 02/2024, dated 19 February 2024** (2024-02-19). Official Paper V Unit III item 5 syllabus wording, independently opened 2026-10-25. URL: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v
 2. **Second Administrative Reforms Commission, Fourth Report: Ethics in Governance** (2007-01). Public-service integrity, accountability and institutional reform; historical framework, not current binding law. URL: https://ndl.iitkgp.ac.in/pa_document/mopp_p/mopp_p_darpg/report_04
@@ -814,6 +894,11 @@ A structured administrative situation should be solved by defining the public ob
 11. **[S11] Department of Expenditure, Manual for Procurement of Goods, Second Edition (22 July 2024)**. Directly consulted pp. 58–63 and 177–178 for conflicts, declarations and evaluation independence. Union procurement guidance, not automatically Telangana state law. URL: https://doe.gov.in/files/circulars_document/Manual_Goods_2024.pdf
 12. **[S12] DARPG, Comprehensive Guidelines for Handling Public Grievances (23 August 2024)**. Directly consulted §§5–8 and annexed SOP for 21-day ordinary redressal advice, transfer, appeal, feedback and speaking reasons; 30-day appeal guidance. Applies to the described CPGRAMS framework, not a blanket Telangana service deadline. URL: https://darpg.gov.in/sites/default/files/Comprehensive_guidelines_for_handling_the_Public_Grievances.pdf
 13. **[S13] Ministry of Electronics and Information Technology, Gazette notification G.S.R. 843(E) (13 November 2025)**. Directly consulted phased commencement under DPDP Act §1(2): selected provisions immediate, §6(9) and §27(1)(d) after one year, many operational provisions after eighteen months. Not evidence that all provisions were effective on 1 November 2026. URL: https://upload.indiacode.nic.in/showfile?actid=AC_CEN_45_0_00003_2023-22_1763464807080&filename=c56ceae6c383460ca69577428d36828b.pdf&type=hindinotification
+
+14. **[S14] Rajasthan Urban Infrastructure Development Project, Environmental Assessment and Review Framework (16 March 2023 version)**. Government-hosted project safeguard text describing early, accessible and gender-inclusive consultation, including vulnerable groups; a project-specific safeguard, not universal Telangana law. URL: https://www.lsg.urban.rajasthan.gov.in/content/dam/raj/udh/organizations/ruidp/SafeguardPolicies/IEE-Phase-IV/EARF%20updated%20-%20RSTDSP-AF_Post%20interdep%20%2816%20March%202023%29.pdf
+15. **[S15] NITI Aayog Development Monitoring and Evaluation Office, Output-Outcome Monitoring Framework** (official current webpage checked 1 November 2026). Distinguishes measurable programme outputs from outcomes and supports baseline/indicator discipline; not an audit of the chapter's hypothetical cases. URL: https://dmeo.gov.in/content/output-outcome-monitoring-framework-oomf
+16. **[S16] Uttarakhand State Disaster Management Authority, Incident Response System training** (official webpage checked 1 November 2026). Describes command, operations, planning, logistics and finance responsibilities. Illustrative incident-organisation reference; not evidence of Telangana appointments. URL: https://usdma.uk.gov.in/irs-training/
+17. **[S17] Ministry of Home Affairs, Disaster Management Division** (official webpage checked 1 November 2026). Describes the division's central remit and published organisational information. Not a substitute for district-specific delegated authority. URL: https://www.mha.gov.in/disaster-management-division
 
 ## Provenance controls
 

@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-01",
+  "cycle": 154,
+  "topic_id": "5-3-5",
+  "scope": "Author-side substantive expansion of nine previously shallow explanatory sections in existing coherent master; no independent academic approval.",
+  "main_base_sha": "9bbb3358980d448f12b109cd9865c6fbd6377d5f",
+  "branch": "academic-cycle154-topic-5-3-5-depth",
+  "edited_sections": [
+    4,
+    6,
+    8,
+    9,
+    12,
+    15,
+    16,
+    17,
+    18
+  ],
+  "section_word_counts": [
+    {
+      "id": 1,
+      "words": 237
+    },
+    {
+      "id": 2,
+      "words": 385
+    },
+    {
+      "id": 3,
+      "words": 538
+    },
+    {
+      "id": 4,
+      "words": 490
+    },
+    {
+      "id": 5,
+      "words": 370
+    },
+    {
+      "id": 6,
+      "words": 486
+    },
+    {
+      "id": 7,
+      "words": 496
+    },
+    {
+      "id": 8,
+      "words": 488
+    },
+    {
+      "id": 9,
+      "words": 463
+    },
+    {
+      "id": 10,
+      "words": 324
+    },
+    {
+      "id": 11,
+      "words": 512
+    },
+    {
+      "id": 12,
+      "words": 473
+    },
+    {
+      "id": 13,
+      "words": 507
+    },
+    {
+      "id": 14,
+      "words": 327
+    },
+    {
+      "id": 15,
+      "words": 489
+    },
+    {
+      "id": 16,
+      "words": 492
+    },
+    {
+      "id": 17,
+      "words": 468
+    },
+    {
+      "id": 18,
+      "words": 481
+    }
+  ],
+  "explanatory_sections_2_to_18_below_300": [],
+  "syllabus_map_section_1_below_300": true,
+  "original_practice_mcqs": 30,
+  "mcq_ids_complete": true,
+  "mains_answers": 6,
+  "mains_ids_complete": true,
+  "new_primary_source_register_entries": [
+    "S14 Rajasthan government-hosted 2023 project consultation safeguard (project-specific)",
+    "S15 NITI Aayog DMEO output-outcome framework",
+    "S16 Uttarakhand SDMA Incident Response System training",
+    "S17 MHA Disaster Management Division"
+  ],
+  "source_access": "Web text viewed 2026-11-01; sources are institutional examples and do not establish Telangana-specific law or facts.",
+  "original_topic_pdf_modified": false,
+  "official_pyqs_claimed": 0,
+  "claim_level_six_mains_review_complete": false,
+  "all_30_mcqs_option_reviewed": false,
+  "diagram_independent_review_complete": false,
+  "browser_accessibility_certified": false,
+  "academic_gates_passed_this_cycle": [],
+  "academic_approvals": 0,
+  "pdf_status": "PENDING_CI_AFTER_MERGE",
+  "archive_status": "PENDING_ACTUAL_DOWNLOAD_AND_CRC_QA"
+}
