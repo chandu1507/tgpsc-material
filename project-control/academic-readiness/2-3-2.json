@@ -52,9 +52,10 @@
     "project-control/academic-readiness/2-3-2-cycle167-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/2-3-2-cycle169-four-final-concepts-source-depth-audit-2026-11-02.json"
+    "project-control/academic-readiness/2-3-2-cycle169-four-final-concepts-source-depth-audit-2026-11-02.json",
+    "project-control/academic-readiness/2-3-2-cycle169-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle169 §§12/22/25/30 expanded with bounded NICDC/MoPSW/ORGI sources; 4→0 Part C concepts below300 body-only. Local candidate 45-page PDF passed first-pass checks; GitHub CI and actual downloaded artifact QA pending. R2–R8 remain incomplete, R9 not started, zero independent approvals.",
+  "next_action": "Cycle169 all 40 Part C concepts now >=300 body-only words, but R3 quality and R4–R8 are not certified. Actual GitHub 45-page PDF and downloaded artifact 13102781413 independently checked CRC/SHA/75 original PDFs/75 readiness JSON/592 local links/1581 fragments. QA/control commit postdates artifact; repackage and verify again. Next prioritise 25 MCQ keys and 100 options, six mains claim audits, diagrams and browser accessibility. Zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -62,17 +63,17 @@
   "integrated_student_edition": {
     "markdown": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
     "pdf": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.pdf",
-    "status": "CI_RENDERED_28_PAGES_ACTUAL_GITHUB_ARTIFACT_DOWNLOADED_AND_CRC_LINKS_VERIFIED",
+    "status": "CI_RENDERED_45_PAGES_ACTUAL_GITHUB_ARTIFACT_DOWNLOADED_AND_CRC_LINKS_VERIFIED",
     "original_pdf_preserved_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
     "original_practice_mcqs": 25,
     "structured_mains_answers": 6,
     "original_svg_diagrams": 2,
     "source_critical_warning": "R3 depth and R4/R5/R6 claim audits incomplete; this is a working student edition",
-    "pdf_pages": 28,
-    "pdf_sha256": "21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe",
+    "pdf_pages": 45,
+    "pdf_sha256": "e7f9b59b7e069cd2bd9ed2a1eaef2a52d3c0da273bd82e18fd78c3627e9c2df2",
     "markdown_sections": 40,
     "sections_under_150_words": 0,
-    "sections_under_300_words": 35,
+    "sections_under_300_words": 0,
     "mains_answer_word_counts": [
       206,
       207,
@@ -81,10 +82,10 @@
       215,
       203
     ],
-    "verified_renderer_run": 40345471659,
-    "verified_packaging_run": 40346310854,
-    "verified_artifact_id": 12661726703,
-    "local_links_checked": 463,
+    "verified_renderer_run": 41354317596,
+    "verified_packaging_run": 41354359016,
+    "verified_artifact_id": 13102781413,
+    "local_links_checked": 592,
     "broken_local_links": 0,
     "original_topic_count": 75,
     "zip_crc": "PASS",
@@ -129,8 +130,8 @@
       "da35b76c3e9f2c7bb5eacb59757fb389ff1d44b1"
     ],
     "mcq22_ambiguous_option_corrected": true,
-    "markdown_sha256": "7482d97aa65ca171d13c63622a81cceebd5d8195e5f1386fa0a5805ec459e1b2",
-    "markdown_git_blob_sha": "bb9bc3da9887f2784851658f756779f75642dcab",
+    "markdown_sha256": "7526040ed44fbdb6f11028fa5f787aef95dc8e1ebcbc72e9d594fdc8957722f5",
+    "markdown_git_blob_sha": "fe290014c7a23f1f36736d419158ad966717ad52",
     "local_pdf_visual_review": "28/28 pages rendered at ~101 dpi; five contact sheets inspected for gross layout; page28 source register and page24 Q22 full-res inspected; full accessibility NOT certified.",
     "pdf_ci_renderer_run": 40345471659,
     "full_resolution_accessibility_certified": false,
@@ -502,8 +503,9 @@
       "S54"
     ],
     "candidate_pdf_pages": 45,
-    "github_ci": "PENDING",
-    "actual_artifact_qa": "PENDING",
-    "independent_approvals": 0
+    "github_ci": "SUCCESS_45_PAGES",
+    "actual_artifact_qa": "VERIFIED_13102781413",
+    "independent_approvals": 0,
+    "actual_artifact_evidence": "project-control/academic-readiness/2-3-2-cycle169-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   }
 }
