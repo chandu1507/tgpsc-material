@@ -49,9 +49,10 @@
     "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle166-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle167-agriculture-rice-wheat-official-source-depth-audit-2026-11-02.json",
-    "project-control/academic-readiness/2-3-2-cycle167-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/2-3-2-cycle167-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle167 §§1/2/3 expanded; direct count 10→7 below 300/40; 42-page CI PDF and artifact 13098217872 actually downloaded with CRC/digest/75 original PDF/75 readiness/634 local links/1581 fragments PASS. Post-control package requires fresh download. All 25 MCQ options, six mains, diagrams and browser accessibility still need independent review. Zero approvals.",
+  "next_action": "Cycle168 §§4/5/8 source-bounded expansions; 7→4 sections below300 by body-only count (12,22,25,30). Render integrated PDF in CI, download actual post-merge package and check CRC/SHA/75 originals/links; full 25 MCQ, six mains, diagrams and browser audits remain unfinished. Zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -435,5 +436,46 @@
     "R1": "PASS",
     "R2_to_R8": "IN_PROGRESS",
     "R9": "NOT_STARTED"
+  },
+  "cycle168_2026_11_02": {
+    "status": "THREE_EXISTING_CONCEPTS_SOURCE_EXPANDED_NOT_APPROVED",
+    "expanded_sections": [
+      4,
+      5,
+      8
+    ],
+    "body_only_words_after": {
+      "4": 515,
+      "5": 526,
+      "8": 531
+    },
+    "sections_under300_before_after": [
+      7,
+      4
+    ],
+    "remaining_sections_under300": [
+      12,
+      22,
+      25,
+      30
+    ],
+    "source_ids": [
+      "S47",
+      "S48",
+      "S49",
+      "S50",
+      "S51"
+    ],
+    "academic_evidence": "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json",
+    "integrated_pdf": "CI_RENDER_PENDING",
+    "actual_postmerge_artifact": "PENDING",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
   }
 }
