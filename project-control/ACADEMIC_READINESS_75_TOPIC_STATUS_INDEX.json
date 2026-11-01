@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle146 5-2-5: 12 primary-source author-side four-option MCQs, corrected 50 PDF NUL glyphs, 29-page glyph-fixed CI PDF and actual downloaded artifact 13062758322 SHA/CRC/75 original PDFs/75 readiness JSON/591 links/1581 fragments PASS. 18 MCQs/54 distractors, six mains, three diagrams, browser QA remain. 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED/14 R1 PASS/zero fully R1-R8 ready/zero approvals.",
+  "warning": "Cycle147 5-2-4 Q27 corrected in place, 11 author-side keys/33 distractors reviewed, 19/57 pending; post-edit CI artifact pending. 75 topics 7/68/0, 14 R1, zero fully R1-R8 ready and zero approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle146 Topic5-2-5 glyph-fixed PDF and downloaded artifact verified; academic approval zero",
+  "last_readiness_update": "2026-11-01 Cycle147 Topic 5-2-4 Q27 correction; approvals zero",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/5-2-4-cycle147-q27-controlled-correction-2026-11-01.json",
     "project-control/academic-readiness/5-2-4-cycle145-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/5-2-2-cycle143-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/5-2-1-cycle142-actual-downloaded-source-stage-artifact-qa-2026-11-01.json",
