@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-01",
+  "cycle": 151,
+  "topic_id": "5-3-3",
+  "original_practice_mains": 6,
+  "author_side_mains_mathematical_audits": 6,
+  "disposition": "PASS_WITH_CONTEXT_CAVEATS_NOT_INDEPENDENT",
+  "body_only_word_counts": [
+    239,
+    222,
+    238,
+    225,
+    236,
+    217
+  ],
+  "corrections": [
+    "M1: fractional projected seat capacity is not allocatable",
+    "M5: 50% initial markup versus 20% realized profit"
+  ],
+  "arithmetic_checks": {
+    "M1_AP_sixth": 45,
+    "M1_AP_sum_six": 195,
+    "M1_GP_sixth": 32.2102,
+    "M2_HCF": 12,
+    "M2_LCM": 72,
+    "M3_weighted_mean": 72,
+    "M3_unweighted_mean": 67.5,
+    "M4_shares": [
+      20000,
+      30000,
+      50000
+    ],
+    "M5_selling_price": 960,
+    "M5_profit_percent": 20,
+    "M5_margin_percent": "16.666666...",
+    "M5_markup_percent": 50,
+    "M5_successive_discount_percent": 28,
+    "M5_loss_recovery_percent": 25
+  },
+  "sources": {
+    "S07": "https://openstax.org/books/college-algebra-2e/pages/9-key-equations",
+    "S08": "https://openstax.org/books/college-algebra-2e/pages/9-3-geometric-sequences",
+    "S09": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+    "S10": "https://openstax.org/books/contemporary-mathematics/pages/5-4-ratios-and-proportions",
+    "S11": "https://openstax.org/books/contemporary-mathematics/pages/6-2-discounts-markups-and-sales-tax"
+  },
+  "original_topic_pdf_sha256": "3a4de15932eabf615bd62c4e5f99d15ef6b65a8517014cc81c753a81c9aacf29",
+  "all_75_original_pdfs_must_remain_unchanged": true,
+  "R6": "IN_PROGRESS_NOT_PASS",
+  "R8": "IN_PROGRESS_NOT_PASS",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "CI_post_edit_pdf_verified": false,
+  "post_edit_downloaded_artifact_verified": false
+}

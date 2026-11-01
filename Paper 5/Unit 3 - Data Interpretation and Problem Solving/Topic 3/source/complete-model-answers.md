@@ -10,7 +10,7 @@ The following questions are **original descriptive practice prompts**, not authe
 
 **Background and distinction.** An arithmetic progression adds a fixed amount at each step, whereas a geometric progression multiplies each term by a fixed factor. The difference is substantive: the first represents constant absolute change, the second constant proportional change. Their formulas are a_n=a+(n−1)d and a_n=ar^(n−1), respectively.
 
-**Mathematical method.** For n arithmetic terms, S_n=n[2a+(n−1)d]/2. For geometric terms with r≠1, S_n=a(r^n−1)/(r−1). These formulas must not be interchanged. Consider a fictional district training centre that starts with 20 seats and adds five seats every month. In month six it has 45 seats; total seats over six months are 195. Under a different, hypothetical 10% monthly growth policy, the sixth month has 20×1.1^5≈32.21 seats, and the total requires the GP formula.
+**Mathematical method.** For n arithmetic terms, S_n=n[2a+(n−1)d]/2. For geometric terms with r≠1, S_n=a(r^n−1)/(r−1). These formulas must not be interchanged. Consider a fictional district training centre that starts with 20 seats and adds five seats every month. In month six it has 45 seats; total seats over six months are 195. Under a different, hypothetical 10% monthly growth policy, the sixth month has 20×1.1^5≈32.21 seats, and the total requires the GP formula. This is a projected capacity, not a physically allocatable fraction of a seat.
 
 **Administrative application.** A fixed budget increment, staff allocation or phased classroom expansion may be represented by an AP for a specified planning horizon. Compound interest, repeated depreciation and percentage growth naturally suggest a GP. Real government systems, however, face capacity limits, rounding to whole persons and changing policy priorities. Mathematical fit alone cannot validate an extrapolated budget.
 
@@ -60,7 +60,7 @@ The following questions are **original descriptive practice prompts**, not authe
 
 **Terminology.** Cost price is the relevant acquisition or production cost, selling price is the realised transaction price, and marked price is the pre-discount display price. Profit equals selling price minus cost price. Profit percentage is calculated on cost price, whereas profit margin uses selling price as its denominator. A discount is calculated on marked price, not automatically on either cost or realised profit.
 
-**Worked example.** Suppose an illustrative item costs ₹800, is marked at ₹1,200 and sold after a 20% discount. The selling price is ₹960. Profit is ₹160, so profit percentage on cost is 20%; profit margin on sales is 160/960×100≈16.67%. The advertised discount is ₹240, or 20% of marked price. All three percentages describe different comparisons and must not be substituted for one another.
+**Worked example.** Suppose an illustrative item costs ₹800, is marked at ₹1,200 and sold after a 20% discount. The selling price is ₹960. Profit is ₹160, so profit percentage on cost is 20%; profit margin on sales is 160/960×100≈16.67%. The advertised discount is ₹240, or 20% of marked price. The pricing-stage markup is ₹400/₹800=50%, unlike the realised profit percentage of 20%. These percentages have different stages or denominators and must not be substituted.
 
 **Successive changes.** Two discounts of 10% and 20% produce retention factor 0.9×0.8=0.72, equivalent to 28% discount. Adding percentages to get 30% would be incorrect. Likewise, a 20% loss requires a 25% gain on the reduced base to return to the original amount.
 
