@@ -11,6 +11,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.graphics.shapes import Drawing, Rect, String, Line
 from PIL import Image as PILImage
+from svglib.svglib import svg2rlg
 
 parser=argparse.ArgumentParser(description='Render a full integrated student edition from Markdown')
 parser.add_argument('--input',required=True,type=Path)
@@ -111,8 +112,17 @@ while i<len(tokens):
         f=(src.parent/u).resolve()
         if not f.is_file(): f=(src.parent.parent/u).resolve()
         if not f.is_file(): raise FileNotFoundError(f)
-        w,h=PILImage.open(f).size; scale=min(470/w,220/h)
-        story.append(Image(str(f),width=w*scale,height=h*scale));story.append(Spacer(1,7))
+        if f.suffix.lower()=='.svg':
+            drawing=svg2rlg(str(f))
+            if drawing is None: raise ValueError(f'SVG conversion failed: {f}')
+            scale=min(470/drawing.width,220/drawing.height)
+            drawing.scale(scale,scale)
+            drawing.width*=scale; drawing.height*=scale
+            story.append(drawing)
+        else:
+            w,h=PILImage.open(f).size; scale=min(470/w,220/h)
+            story.append(Image(str(f),width=w*scale,height=h*scale))
+        story.append(Spacer(1,7))
       i+=3;continue
     story.append(Paragraph(('•  '+val) if list_depth else val,styles['li' if list_depth else 'p']))
     i+=3;continue
