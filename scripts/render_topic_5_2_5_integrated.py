@@ -56,7 +56,9 @@ def inline_html(tok):
     return ''.join(parts)
 
 story=[]
-tokens=MarkdownIt('commonmark').enable('table').parse(src.read_text())
+# PDF font fallback: normalize arrows and mathematical minus to ASCII so no NUL glyphs appear.
+normalized=src.read_text().replace('→', ' -> ').replace('−', ' - ')
+tokens=MarkdownIt('commonmark').enable('table').parse(normalized)
 i=0; current_table=None; row=None; cell=None; list_depth=0
 while i<len(tokens):
  t=tokens[i]
