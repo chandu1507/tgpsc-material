@@ -34,9 +34,10 @@
     "project-control/academic-readiness/2-3-5-turn21-six-mcq-primary-key-review-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json",
-    "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json"
+    "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json",
+    "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle170 Q1/Q2/Q14/Q20/Q22 author-side four-option checks completed and ambiguity/wastewater overstatement corrected; 17/25 distinct bounded source-correlated keys, 8 remaining, full independent 100-option and six mains audits pending. CI PDF and actual downloaded post-edit artifact QA pending. R1 PASS, R2–R8 not fully PASS, zero approvals.",
+  "next_action": "Cycle170 five original MCQ edits and 20 bounded option checks published in 23-page GitHub PDF; actual artifact 13104682429 independently downloaded SHA/CRC/75 originals/75 readiness/links PASS. This QA/control commit postdates inspected artifact: post-control repackage and download next. 17/25 source-correlated keys, 8 pending; independent distractors, six mains, diagrams, browser QA and named expert approval outstanding.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -61,9 +62,9 @@
     "qualitative_depth_pass": false,
     "source_level_mains_audit": false,
     "pdf_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
-    "pdf_sha256": "21d9c4075c82a5c645331431ea4504f35bcdf4fc9b64ad3f2a23203dfb77b088",
-    "pdf_pages": 19,
-    "actual_downloaded_artifact_id": 12915777592,
+    "pdf_sha256": "7ad8d95c678fdcb6811dc67c361a5d009e0fbf64f89db25d297482dc2465b688",
+    "pdf_pages": 23,
+    "actual_downloaded_artifact_id": 13104682429,
     "portal_links_checked": true,
     "full_resolution_every_page_accessibility_certified": false
   },
@@ -208,7 +209,11 @@
     "independent_approvals": 0,
     "local_pdf_candidate_pages": 22,
     "local_pdf_candidate_qa": "PASS_NO_NUL_REPLACEMENT_GLYPHS",
-    "github_ci_render": "PENDING",
-    "actual_post_edit_downloaded_artifact": "PENDING"
+    "github_ci_render": "SUCCESS_23_PAGES",
+    "actual_post_edit_downloaded_artifact": "VERIFIED_13104682429",
+    "actual_pdf_sha256": "7ad8d95c678fdcb6811dc67c361a5d009e0fbf64f89db25d297482dc2465b688",
+    "actual_artifact_sha256": "b88ce45c23eadf997db8c44c4d3ccb3177893d91f95531dd56dbdb3700778b8c",
+    "qa_evidence": "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+    "post_control_packaging": "PENDING"
   }
 }

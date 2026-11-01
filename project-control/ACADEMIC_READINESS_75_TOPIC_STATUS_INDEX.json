@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle170 Topic 2-3-5: five original MCQs Q1/Q2/Q14/Q20/Q22 revised with 20 bounded author-side option checks; ambiguous Q1 and misleading wastewater reuse assumption Q22 corrected. 17/25 keys source-correlated (8 pending), NO independent academic approval. CI PDF and downloaded post-edit artifact QA pending. Cycle169 75 original PDFs/75 readiness verified; 7/68/0 statuses, normalized R1 PASS 14, fully ready 0.",
+  "warning": "Cycle170 Topic 2-3-5: 23-page actual GitHub PDF SHA256 7ad8d95c678fdcb6811dc67c361a5d009e0fbf64f89db25d297482dc2465b688, artifact 13104682429 downloaded CRC/digest/75 originals/75 readiness/634 local references/1567 DOM fragments PASS. Five original MCQs author-side four-option audited; 17/25 source-correlated keys, 8 pending. QA/control commit postdates inspected artifact: post-control repackage pending. 7/68/0 statuses, normalized R1 PASS 14, fully ready 0, approvals 0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-02 Cycle170 five Topic2-3-5 MCQ four-option checks and renderer glyph guard; no R1-R8 promotion, R9 NOT_STARTED.",
+  "last_readiness_update": "2026-11-02 Cycle170 Topic2-3-5 23-page GitHub PDF and actual downloaded artifact verified; R1–R8 not fully PASS; R9 NOT_STARTED.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle169-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle169-four-final-concepts-source-depth-audit-2026-11-02.json",
