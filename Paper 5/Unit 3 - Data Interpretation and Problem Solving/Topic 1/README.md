@@ -1,16 +1,4 @@
-# Data Analysis: Statistical Interpretation, Bar, Line and Pie Charts
+# Paper V / Unit III / Topic 2 — Data Analysis, Bar/Line/Pie Charts
 
-TGPSC Group I · Paper V · Unit III · Topic 1. Independent English draft, **not academically approved**.
-
-- [Complete printable PDF](complete-notes.pdf)
-- [Offline chapter](index.html)
-- [Editable full manuscript](source/complete-notes.md)
-- [Standalone quick revision](source/quick-revision.md)
-- [30 explained original MCQs](source/original-mcqs.md)
-- [Six complete mains models](source/mains-model-answers.md)
-- [Answer blueprints](source/answer-blueprints.md)
-- [Original visual diagrams](source/visual-learning.md)
-- [Dated official-source register](source/sources-and-audit.md)
-- [Official PYQ provenance](source/verified-pyqs.md)
-
-All graph datasets are synthetic examples. No unauthenticated official previous-year question is claimed. Independent academic review pending.
+Original 25-page PDF preserved (SHA256 59baba90b51e46c3baba60a0d2a3f6c9117f4cf94118aa5972318a5c08d4efcc).
+Cycle149 editable master, offline HTML and integrated PDF synchronized through CI. 18 concepts (all at least 300 words), 30 original explained practice MCQs, six 200–250 body-word mains, three original diagrams. Ten existing original MCQs reviewed against primary methodology sources. All keys and distractors internally recomputed; no named independent expert approval. Original 2024 commission syllabus not reauthenticated this cycle. R1–R8 not fully passed.
