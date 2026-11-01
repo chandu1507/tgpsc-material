@@ -25,9 +25,11 @@ original = hashlib.sha256((root/"complete-notes.pdf").read_bytes()).hexdigest()
 assert original == "9d436dd18564d1cd49d494752127160b6781db794a3caf08e98f4bdb3e5b02f6", original
 
 md = (src/"complete-notes.md").read_text()
-for f in ("original-mcqs.md","mains-model-answers.md","sources-and-audit.md"):
+for f in ("original-mcqs.md","mains-model-answers.md","sources-and-audit.md","academic-q27-correction-cycle147.md"):
     assert (src/f).read_text().strip() in md, f
 assert "District investigation example (hypothetical)" in md
+assert "Q27. A suspected waterborne outbreak" in md
+assert "**Q27. Which result alone is insufficient to establish an outbreak source?**" not in (src/"original-mcqs.md").read_text()
 word = lambda s: len(re.findall(r"\b[\w’-]+\b", s))
 core = (src/"core.md").read_text()
 concepts = re.findall(r"(?ms)^## (\d+)\. ([^\n]+)\n(.*?)(?=^## \d+\.|\Z)",core)
@@ -63,6 +65,7 @@ for i,p in enumerate(doc):
         x0,y0,x1,y1 = b[:4]
         if x0 < -1 or y0 < -1 or x1 > p.rect.width+1 or y1 > p.rect.height+1: boundary.append(i+1)
 assert 20 <= len(doc) <= 45 and not blank and images >= 3 and not boundary, (len(doc),blank,images,boundary)
+assert all("\x00" not in page.get_text() for page in doc), "PDF contains unsupported NUL glyphs"
 
 body = mistune.create_markdown(plugins=["table","strikethrough"])(md)
 rendered = BeautifulSoup(body,"html.parser")
@@ -101,11 +104,11 @@ qa={"date":"2026-11-01","topic":"5-2-4","cycle":145,"original_pdf_sha256":origin
     "original_mcqs":30,"correct_answers":distribution,"distractors":90,"mains_body_only_counts":body_counts,"mains_count_method":"regex word tokens after removing italic model-answer metadata and bold subheading labels; hyphenated tokens may differ from whitespace count",
     "html_file_links_checked":file_links,"broken_files":bad_files,"html_fragment_links_checked":fragment_links,
     "broken_fragments":bad_fragments,"spa_routes_excluded":spa_routes,
-    "source_checks":"Cycle145 ten source-correlated four-option author reviews (10 keys/30 distractors); 20 keys/60 distractors still without equivalent review; Q27 ambiguous; seven earlier limited key checks not counted as full option audits",
+    "source_checks":"Cycle145 10 source-correlated four-option author reviews and Cycle147 corrected Q27 with one additional key/three distractors checked against CDC S24/S25; 19 keys/57 distractors remain; independent verification pending",
     "independent_academic_approvals":0,"R8":"BLOCKED_NOT_PASS",
     "actual_downloaded_post_edit_artifact_qa":False,"browser_accessibility_certified":False}
 (root/"QA-REPORT.md").write_text("# Cycle57 CI render QA\n\n"+json.dumps(qa,indent=2)+"\n")
-(root/"README.md").write_text("# Paper V / Unit II / Topic 4 — Microbial Infections: Pathogens, Disease Patterns and Outbreak Prevention\n\nOriginal 22-page PDF preserved (SHA256 "+original+").\nCycle57 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nCycle145 ten author-side four-option MCQ reviews; Q27 ambiguous and 20 keys/60 distractors remain. No full independent MCQ, mains, diagram, syllabus or browser audit.\nZero academic approvals. No official PYQs authenticated.\n")
+(root/"README.md").write_text("# Paper V / Unit II / Topic 4 — Microbial Infections: Pathogens, Disease Patterns and Outbreak Prevention\n\nOriginal 22-page PDF preserved (SHA256 "+original+").\nCycle57 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nCycle145 ten author-side four-option MCQ reviews; Cycle147 Q27 corrected in place against CDC S24/S25; 19 keys/57 distractors remain. No full independent MCQ, mains, diagram, syllabus or browser audit.\nZero academic approvals. No official PYQs authenticated.\n")
 manifest=json.loads((root/"manifest.json").read_text())
 manifest["academic_status"]="not_approved"
 manifest["official_syllabus_authenticated"]=False

@@ -209,13 +209,13 @@ D. All fungi are bacteria
 
 **Answer: C.** Site, host and tissue invasion determine whether a fungal isolate is clinically significant.
 
-**Q27. Which result alone is insufficient to establish an outbreak source?**
-A. A coherent exposure history
-B. Time-place analysis
-C. Appropriate patient testing
-D. One negative water sample taken after disinfection
+**Q27. A suspected waterborne outbreak is investigated after the water supply has been disinfected. A single water sample collected afterwards tests negative for the suspected pathogen. Which interpretation is justified?**
+A. The negative result rules out contamination at the earlier exposure time because the laboratory test was valid
+B. The result proves that disinfection prevented the illnesses already reported
+C. The result makes patient testing and exposure histories unnecessary
+D. The result cannot exclude earlier contamination; interpret it alongside exposure timing, clinical findings and environmental history
 
-**Answer: D.** Post-intervention sampling may miss earlier contamination; causal inference needs triangulation.
+**Answer: D.** A post-disinfection negative sample describes that sampled water at that later time, not necessarily the water at the time of exposure. Source attribution requires epidemiologic, clinical and environmental evidence; negative environmental testing alone cannot exclude the suspected source.
 
 **Q28. Which public-health action protects rights and improves HIV programme trust?**
 A. Confidential testing and linkage to care

@@ -480,13 +480,13 @@ D. All fungi are bacteria
 
 **Answer: C.** Site, host and tissue invasion determine whether a fungal isolate is clinically significant.
 
-**Q27. Which result alone is insufficient to establish an outbreak source?**
-A. A coherent exposure history
-B. Time-place analysis
-C. Appropriate patient testing
-D. One negative water sample taken after disinfection
+**Q27. A suspected waterborne outbreak is investigated after the water supply has been disinfected. A single water sample collected afterwards tests negative for the suspected pathogen. Which interpretation is justified?**
+A. The negative result rules out contamination at the earlier exposure time because the laboratory test was valid
+B. The result proves that disinfection prevented the illnesses already reported
+C. The result makes patient testing and exposure histories unnecessary
+D. The result cannot exclude earlier contamination; interpret it alongside exposure timing, clinical findings and environmental history
 
-**Answer: D.** Post-intervention sampling may miss earlier contamination; causal inference needs triangulation.
+**Answer: D.** A post-disinfection negative sample describes that sampled water at that later time, not necessarily the water at the time of exposure. Source attribution requires epidemiologic, clinical and environmental evidence; negative environmental testing alone cannot exclude the suspected source.
 
 **Q28. Which public-health action protects rights and improves HIV programme trust?**
 A. Confidential testing and linkage to care
@@ -687,6 +687,11 @@ No question is labelled a TGPSC official previous-year question in this draft. T
 - **[S23] US CDC, Risk Factors for Candidiasis** — 19 October 2026; accessed 28 October 2026. https://www.cdc.gov/candidiasis/risk-factors/
   Audit scope: supports invasive-candidiasis risk factors, not individual diagnosis.
 
+- **[S24] US CDC, Field Epidemiology Manual, Acute Enteric Disease Outbreaks** — page consulted 1 November 2026. https://www.cdc.gov/field-epi-manual/php/chapters/acute-enteric-disease.html
+  Audit scope: negative testing of a suspected food or water exposure does not by itself exclude it as the outbreak source; supports interpretation of Q27, not any particular Telangana outbreak.
+- **[S25] US CDC, Reporting and Classification of Waterborne Disease Outbreaks** — archived CDC surveillance guidance; consulted 1 November 2026. https://archive.cdc.gov/www_cdc_gov/healthywater/surveillance/reporting-classification.html
+  Audit scope: strength-of-evidence assessment integrates epidemiologic, clinical laboratory and environmental evidence; not a claim that every investigation needs all three components.
+
 ### Academic and source audit
 
 1. Original commission PDF opened and its Paper V Unit II item 4 directly matched on 24 October 2026. Syllabus text is quoted for navigation, not used as a claim of commission endorsement.
@@ -796,3 +801,23 @@ Current stem asks, “Which result alone is insufficient to establish an outbrea
 
 ## Gate implications and honest limitations
 Ten **specified** MCQs have bounded author-side reviews of 10 keyed options and 30 distractors. This leaves **20 other questions, 20 keys and 60 distractors** without equivalent reviews; **Q27 is an additional identified invalid item** among those 20. The audit establishes neither official PYQ provenance nor independent answer-key certification. Six mains need claim-level verification; three diagrams need independent scientific review; full browser accessibility and R1–R8 are not complete. **R9 NOT_STARTED; zero independent academic approvals.**
+
+
+## Cycle 147 — controlled correction and source-correlated four-option audit of Q27 (1 November 2026)
+
+**Scope.** Existing original-practice Q27 was corrected IN PLACE, preserving 30 questions, four options per question, answer D, six mains and three diagrams. Original 22-page PDF remains untouched. This is author-side source correspondence, not an authenticated official TGPSC PYQ or independent examiner approval.
+
+**Defect.** The old question asked which result *alone* is insufficient to establish an outbreak source. All four options were potentially insufficient individually, so the key was not unique. The Cycle145 proposed replacement stem asking which observation *does not rule out* water contamination would still have left A–C non-exclusive; it was not adopted.
+
+**Revised item.** A suspected waterborne outbreak is investigated after disinfection; one later water sample is negative. The question asks which interpretation is justified.
+
+| Option | Author-side review | Why |
+| --- | --- | --- |
+| A | Incorrect | A valid later test cannot retrospectively represent the earlier exposure-time water. |
+| B | Incorrect | Later disinfection cannot prove prevention of illnesses already reported. |
+| C | Incorrect | Environmental sampling cannot replace exposure histories and clinical testing. |
+| D | **Best answer** | Negative testing after treatment does not exclude earlier contamination; integrate exposure timing, clinical and environmental evidence. |
+
+**Direct source correspondence.** CDC *Field Epidemiology Manual*, *Acute Enteric Disease Outbreaks* [S24] explains why negative testing of a suspected exposure may not exclude its involvement. CDC waterborne-outbreak strength-of-evidence guidance [S25] integrates epidemiologic, clinical and environmental information. These sources were checked 1 November 2026 and do not authenticate any specific Telangana outbreak.
+
+**Unfinished work.** Cycle145 reviewed 10 keys and 30 distractors; this adds one key and three distractors. **11/30 keys and 33/90 distractors author-side reviewed; 19 keys and 57 distractors still pending.** All six mains claim-level audits, three diagrams, direct syllabus reauthentication, browser accessibility and independent expert review remain incomplete. R5 BLOCKED, R1–R8 not fully PASS, R9 NOT_STARTED, approvals ZERO.

@@ -73,7 +73,9 @@ def diagram(num):
     return d
 
 story=[]
-tokens=MarkdownIt('commonmark').enable('table').parse(src.read_text())
+# Normalize unsupported arrows and mathematical minus signs only for PDF font fallback.
+normalized=src.read_text().replace('→', ' -> ').replace('−', ' - ')
+tokens=MarkdownIt('commonmark').enable('table').parse(normalized)
 i=0; current_table=None; row=None; cell=None; list_depth=0
 while i<len(tokens):
  t=tokens[i]

@@ -1,0 +1,40 @@
+{
+  "schema": "tgpsc.academic-readiness.cycle147.v1",
+  "date": "2026-11-01",
+  "topic_id": "5-2-4",
+  "scope": "Q27 corrected in place, author-side four-option review; no official PYQ provenance or independent approval",
+  "base_main": "7efee0b49db576f3bc5d20e3500064eda9802950",
+  "original_pdf_sha256_expected": "9d436dd18564d1cd49d494752127160b6781db794a3caf08e98f4bdb3e5b02f6",
+  "prior_defect": "Old Q27 had four potentially insufficient observations, no uniquely defensible answer",
+  "corrected_key": "D",
+  "reviewed_options": {
+    "A": "Invalid retrospective inference from later testing",
+    "B": "Invalid claim that later treatment prevented past illness",
+    "C": "Incorrect dismissal of patient and exposure investigation",
+    "D": "Correct: later negative sample cannot exclude earlier contamination"
+  },
+  "sources": [
+    {
+      "id": "S24",
+      "url": "https://www.cdc.gov/field-epi-manual/php/chapters/acute-enteric-disease.html",
+      "claim": "negative testing may not rule out a source"
+    },
+    {
+      "id": "S25",
+      "url": "https://archive.cdc.gov/www_cdc_gov/healthywater/surveillance/reporting-classification.html",
+      "claim": "outbreak evidence integrates epidemiologic, clinical and environmental information"
+    }
+  ],
+  "mcqs_preserved": 30,
+  "reviewed_keys_author_side": 11,
+  "reviewed_distractors_author_side": 33,
+  "remaining_keys": 19,
+  "remaining_distractors": 57,
+  "mains_claim_audit_complete": false,
+  "diagrams_independently_approved": false,
+  "R5": "BLOCKED",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "post_edit_ci_pdf_verified": false,
+  "post_edit_actions_artifact_downloaded": false
+}

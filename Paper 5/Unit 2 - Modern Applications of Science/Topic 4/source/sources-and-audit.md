@@ -48,6 +48,11 @@
 - **[S23] US CDC, Risk Factors for Candidiasis** — 19 October 2026; accessed 28 October 2026. https://www.cdc.gov/candidiasis/risk-factors/
   Audit scope: supports invasive-candidiasis risk factors, not individual diagnosis.
 
+- **[S24] US CDC, Field Epidemiology Manual, Acute Enteric Disease Outbreaks** — page consulted 1 November 2026. https://www.cdc.gov/field-epi-manual/php/chapters/acute-enteric-disease.html
+  Audit scope: negative testing of a suspected food or water exposure does not by itself exclude it as the outbreak source; supports interpretation of Q27, not any particular Telangana outbreak.
+- **[S25] US CDC, Reporting and Classification of Waterborne Disease Outbreaks** — archived CDC surveillance guidance; consulted 1 November 2026. https://archive.cdc.gov/www_cdc_gov/healthywater/surveillance/reporting-classification.html
+  Audit scope: strength-of-evidence assessment integrates epidemiologic, clinical laboratory and environmental evidence; not a claim that every investigation needs all three components.
+
 ### Academic and source audit
 
 1. Original commission PDF opened and its Paper V Unit II item 4 directly matched on 24 October 2026. Syllabus text is quoted for navigation, not used as a claim of commission endorsement.
