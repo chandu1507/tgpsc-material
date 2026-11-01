@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-3-1 Cycle149 source audit and downloaded CI PDF",
+    "last_reported_topic": "5-3-2 Cycle150 source-correlated audit and downloaded CI PDF",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle149 Topic 5-3-1 24-page CI PDF and actual downloaded artifact 13068106969 SHA/CRC/75 originals/592 links/1581 fragments PASS; 7/68/0, 14 R1, zero approvals."
+    "note": "Cycle150 Topic5-3-2: ten keys/30 distractors author-side source-correlated; 26-page CI PDF zero NUL glyphs; downloaded artifact 13069521224 SHA/CRC/75 originals/592 links/1581 fragments PASS. R1-R8 incomplete, zero independent approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -1129,14 +1129,14 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle136 Topic4-3-5: ten existing MCQ keys/30 distractors author-side reviewed; 30-page CI PDF with corrected footer; actual downloaded artifact 13044997340 SHA/CRC/75 originals/613 links/1276 fragments PASS. 20 keys/60 distractors, six mains claims, three diagrams, full browser and expert pending; ZERO approved.",
-  "last_readiness_reconciliation": "31 Oct Cycle135: exactly 75 per-topic records consistent with 75 original PDFs; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS, zero fully R1-R8 ready, zero independent approvals.",
+  "last_readiness_update": "Cycle150 Topic5-3-2: ten keys/30 distractors author-side source-correlated; 26-page CI PDF zero NUL glyphs; downloaded artifact 13069521224 SHA/CRC/75 originals/592 links/1581 fragments PASS. R1-R8 incomplete, zero independent approvals.",
+  "last_readiness_reconciliation": "2026-11-01 Cycle150: exactly 75 original PDFs and 75 per-topic records; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; 14 normalized R1 PASS; zero fully R1-R8 ready; zero independent approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
     "ASSESSED_REBUILD_REQUIRED": 68,
     "NOT_ASSESSED": 0
   },
-  "latest_academic_readiness_evidence": "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
+  "latest_academic_readiness_evidence": "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
   "latest_topic_5_1_4_ci_render": {
     "commit": "da37eb8aaff487b015e35265db8c062c82de9657",
     "topic_id": "5-1-4",
@@ -1157,36 +1157,33 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle136 Topic4-3-5: ten existing MCQ keys/30 distractors author-side reviewed; 30-page CI PDF with corrected footer; actual downloaded artifact 13044997340 SHA/CRC/75 originals/613 links/1276 fragments PASS. 20 keys/60 distractors, six mains claims, three diagrams, full browser and expert pending; ZERO approved.",
+  "latest_readiness_update": "Cycle150 Topic5-3-2: ten keys/30 distractors author-side source-correlated; 26-page CI PDF zero NUL glyphs; downloaded artifact 13069521224 SHA/CRC/75 originals/592 links/1581 fragments PASS. R1-R8 incomplete, zero independent approvals.",
   "latest_academic_cycle": {
-    "cycle": 98,
-    "topic_id": "2-3-3",
-    "evidence": "project-control/academic-readiness/2-3-3-cycle98-eight-concept-depth-and-source-audit-2026-10-30.json",
+    "cycle": 150,
+    "topic_id": "5-3-2",
+    "evidence": "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
     "editorial_state": "MERGED",
-    "renderer_run_id": 40976547981,
+    "renderer_run_id": 41271293045,
     "renderer_conclusion": "SUCCESS",
     "integrated_pdf_pages": 26,
-    "integrated_pdf_sha256": "5d6b506819835903bcbd1fa8db196a4435362040edb9e185bc1ac6c3571fe853",
+    "integrated_pdf_sha256": "52beab582b2c804a5371311c1ceaa9391935cd1b226907394519163e9fbd345e",
     "artifact_downloaded_and_verified": true,
-    "whitespace_sections_below300": 0,
-    "qualitative_R3": "IN_PROGRESS",
-    "independent_approvals": 0,
-    "concept_start_pages_distinct": 14,
-    "artifact_id": 12942374019,
-    "artifact_qa": "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
+    "artifact_id": 13069521224,
+    "artifact_qa": "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
+    "independent_approvals": 0
   },
   "latest_academic_readiness_cycle": {
-    "cycle": 146,
+    "cycle": 150,
     "date": "2026-11-01",
-    "topic": "5-2-5",
-    "source_audit": "Paper 5/Unit 2 - Modern Applications of Science/Topic 5/source/academic-option-audit-cycle146.md",
-    "downloaded_artifact_qa": "project-control/academic-readiness/5-2-5-cycle146-glyph-fixed-downloaded-artifact-qa-2026-11-01.json",
-    "github_ci_run_id": 41255181181,
-    "github_ci_pdf_sha256": "c60bb4beec74e554aaf9224f7f1e204549f7108c85afa3ce37d9271429fb8fec",
-    "github_ci_pdf_pages": 29,
-    "packaging_run": 41255238594,
-    "artifact_id": 13062758322,
-    "artifact_sha256": "3285b86521a7fc27d2c7867992f32922caa191c7996f78453b05c081cb4dd8e0",
+    "topic": "5-3-2",
+    "source_audit": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 2/source/academic-option-audit-cycle150.md",
+    "downloaded_artifact_qa": "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
+    "github_ci_run_id": 41271293045,
+    "github_ci_pdf_sha256": "52beab582b2c804a5371311c1ceaa9391935cd1b226907394519163e9fbd345e",
+    "github_ci_pdf_pages": 26,
+    "packaging_run": 41271329890,
+    "artifact_id": 13069521224,
+    "artifact_sha256": "9ab2aa50a79328fdfb9105dfc88eed5c7177ee0dd7e5afe5c6a753962e11e2fe",
     "topic_counts": {
       "IN_PROGRESS": 7,
       "ASSESSED_REBUILD_REQUIRED": 68,
@@ -1197,6 +1194,7 @@
     "pdf_unsupported_glyphs": 0
   },
   "recent_evidence": [
+    "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
     "project-control/academic-readiness/2-3-1-cycle100-final-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-1-cycle100-capacity-and-aquifer-mcq-audit-2026-10-30.json"

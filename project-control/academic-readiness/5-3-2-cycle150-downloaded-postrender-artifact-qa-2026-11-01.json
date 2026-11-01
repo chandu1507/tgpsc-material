@@ -1,0 +1,92 @@
+{
+  "topic_id": "5-3-2",
+  "cycle": 150,
+  "date": "2026-11-01",
+  "assessment_type": "author-side bounded source-correlated four-option audit and independent downloaded artifact integrity QA; NOT external academic approval",
+  "source_audit": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 2/source/academic-option-audit-cycle150.md",
+  "reviewed_original_practice_mcqs": [
+    17,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "source_correlated_keys": 10,
+  "source_correlated_distractors": 30,
+  "remaining_source_correlated_keys": 20,
+  "remaining_distractors": 60,
+  "previous_cycle60_internal_math_checks": {
+    "keys": 30,
+    "distractors": 90,
+    "note": "Prior internal arithmetic checks not equivalent to independently source-correlated option review"
+  },
+  "quality_flags": [
+    "Q22 wording states non-entailment but could be clearer",
+    "Q27 should explicitly specify frequency-area histogram convention",
+    "Q29 distractors A/C/D weak",
+    "Q30 answer B disproportionately long and can cue answer"
+  ],
+  "pdf_typography_repair": {
+    "prior_cycle60_pdf_nul_glyphs": 112,
+    "first_cycle150_pdf_nul_glyphs": 1,
+    "final_pdf_nul_glyphs": 0,
+    "final_ci_pdf_pages": 26,
+    "final_ci_pdf_sha256": "52beab582b2c804a5371311c1ceaa9391935cd1b226907394519163e9fbd345e",
+    "final_manifest_pdf_pages": 26
+  },
+  "github": {
+    "source_pr": 275,
+    "packaging_trigger_pr": 276,
+    "glyph_guard_pr": 277,
+    "manifest_pr": 278,
+    "final_renderer_run": 41271293045,
+    "final_post_renderer_packaging_run": 41271329890,
+    "actual_downloaded_artifact_id": 13069521224,
+    "artifact_sha256": "9ab2aa50a79328fdfb9105dfc88eed5c7177ee0dd7e5afe5c6a753962e11e2fe"
+  },
+  "downloaded_artifact_qa": {
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "files": 2194,
+    "original_topic_pdfs": 75,
+    "originals_unchanged_against_cycle149": 75,
+    "readiness_json": 75,
+    "html_pages": 92,
+    "local_file_links": 592,
+    "broken_local_file_links": 0,
+    "dom_fragments": 1581,
+    "broken_dom_fragments": 0,
+    "spa_routes_excluded": 42,
+    "readiness_status_mismatches": 0,
+    "manifest_hashes_checked": 19,
+    "manifest_hash_mismatches": 0,
+    "original_topic_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+    "original_topic_5_3_2_pdf_sha256": "3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5",
+    "all_30_original_mcqs_preserved": true,
+    "six_mains_preserved": true,
+    "three_diagrams_preserved": true
+  },
+  "readiness": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0,
+    "normalized_R1_PASS": 14,
+    "fully_R1_to_R8_ready": 0,
+    "R9": "NOT_STARTED",
+    "independent_academic_approvals": 0
+  },
+  "outstanding": [
+    "Direct Commission syllabus PDF authentication",
+    "20 source-correlated MCQ keys and 60 distractors",
+    "Six mains claim-level evidence checks",
+    "Three diagrams independent accuracy assessment",
+    "Full browser and accessibility QA",
+    "Named independent academic expert review"
+  ],
+  "caveat": "This evidence file was committed AFTER the inspected GitHub Actions artifact. The artifact cannot be claimed to contain its own evidence JSON until a subsequent downloaded publication is independently verified."
+}

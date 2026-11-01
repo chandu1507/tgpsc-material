@@ -1,7 +1,7 @@
 {
   "topic_id": "5-3-2",
   "title": "Tabular and Diagrammatic Data, Probability, Logical Reasoning and Mental Ability",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-3-2-cycle60-direct-math-and-options-audit-2026-10-28.json",
-  "next_action": "Download actual post-CI GitHub packaging artifact and verify 75 original PDFs, all manifest hashes, links and ZIP CRC; then complete primary syllabus, mains claims, diagrams and browser QA. R9 only after R1–R8 and named independent reviewer.",
+  "evidence": "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
+  "next_action": "20 source-correlated MCQ keys/60 distractors, six mains claim audits, three diagrams, direct Commission syllabus, browser/accessibility, named independent review remain. Cycle150 downloaded post-render 26-page CI PDF and 75-topic archive verified; R1-R8 incomplete; R9 NOT_STARTED; approvals zero.",
   "external_reviewer": null,
   "student_accepted": false,
   "R9": "NOT_STARTED",
@@ -54,5 +54,40 @@
     "ci_pdf_sha256": "8bcc78a6ca4b28b642483565ef9ef1e747312718a08f773324a87dd03491c9f2",
     "ci_pdf_pages": 22,
     "local_ci_sha_match": true
+  },
+  "cycle150_source_review": {
+    "date": "2026-11-01",
+    "questions": [
+      17,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "source_correlated_keys": 10,
+    "source_correlated_distractors": 30,
+    "remaining_keys": 20,
+    "remaining_distractors": 60,
+    "independent_expert_review": false
+  },
+  "cycle150_downloaded_artifact": {
+    "packaging_run": 41271329890,
+    "artifact_id": 13069521224,
+    "sha256": "9ab2aa50a79328fdfb9105dfc88eed5c7177ee0dd7e5afe5c6a753962e11e2fe",
+    "files": 2194,
+    "original_pdfs_unchanged": 75,
+    "readiness_records": 75,
+    "html_pages": 92,
+    "broken_local_links": 0,
+    "broken_dom_fragments": 0,
+    "integrated_pdf_pages": 26,
+    "integrated_pdf_sha256": "52beab582b2c804a5371311c1ceaa9391935cd1b226907394519163e9fbd345e",
+    "pdf_nul_glyphs": 0,
+    "independent_approvals": 0
   }
 }
