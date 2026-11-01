@@ -38,9 +38,10 @@
     "project-control/academic-readiness/3-1-1-cycle89-four-mcq-precision-source-audit-2026-10-29.json",
     "project-control/academic-readiness/3-1-1-cycle89-actual-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/3-1-1-cycle156-language-geography-and-six-mains-claim-audit-2026-11-01.json",
-    "project-control/academic-readiness/3-1-1-cycle156-actual-downloaded-postrender-artifact-qa-2026-11-01.json"
+    "project-control/academic-readiness/3-1-1-cycle156-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
+    "project-control/academic-readiness/3-1-1-cycle157-seeepc-measurement-and-mcq10-audit-2026-11-01.json"
   ],
-  "next_action": "Complete independent claim-level checks of all 25 original practice MCQs and 100 distractors, all six mains and diagrams; improve full-page-per-concept layout and browser accessibility. R8 remains IN_PROGRESS despite passing actual archive integrity QA.",
+  "next_action": "Independently review 25 MCQ keys and all 100 options; complete six mains and diagram audits, browser accessibility, and evidence-linked R1-R8. Cycle157 expanded SEEEPC measurement analysis and corrected MCQ10; GitHub CI PDF and downloaded artifact QA pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -329,5 +330,22 @@
     "packaging_run": 41295111041,
     "artifact_id": 13079067383,
     "pdf_sha256": "f48410c5038fef857ac78e763ce03e10ad16ab6c5f9e233b9ad83871a7d5de64"
+  },
+  "cycle157_2026_11_01": {
+    "status": "BOUNDED_MEASUREMENT_AND_MCQ_REWRITE_NOT_APPROVED",
+    "section17_words": 702,
+    "mcq10_key": "B",
+    "mcq10_four_options_author_checked": true,
+    "independent_25_key_100_option_audit_complete": false,
+    "source_references": 3,
+    "source_coverage_limit": "CGG reported counts not independently audited; no household microdata or external reviewer",
+    "original_pdf_preserved_required": true,
+    "gate_R3": "IN_PROGRESS",
+    "gate_R4": "IN_PROGRESS",
+    "gate_R5": "IN_PROGRESS",
+    "gate_R8": "IN_PROGRESS",
+    "gate_R9": "NOT_STARTED",
+    "independent_approvals": 0,
+    "ci_pdf_and_downloaded_artifact_qa": "PENDING"
   }
 }
