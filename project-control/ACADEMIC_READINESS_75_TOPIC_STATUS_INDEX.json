@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle148 Topic 5-2-3 two defective diagram flows replaced with corrected editable SVGs; CI 30-page PDF SHA 8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65; local 75-original/591-link/1581-fragment QA PASS. Final downloaded post-control artifact QA pending; 20 MCQs/60 distractors, six mains, independent diagram, syllabus and browser checks remain. 7/68/0; ZERO fully ready or approved.",
+  "warning": "Cycle148 5-2-3 corrected two diagrams; actual downloaded Actions artifact 13066025921 SHA/CRC PASS, 2183 files, 75 unchanged originals and 75 readiness JSON, 92 HTML, 591 links and 1581 fragments zero broken; 30-page CI PDF SHA 8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65. Academic gates still incomplete; 7/68/0, 14 R1, ZERO fully ready or independently approved.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
