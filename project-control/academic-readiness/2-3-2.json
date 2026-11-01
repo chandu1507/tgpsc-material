@@ -42,9 +42,10 @@
     "project-control/academic-readiness/2-3-2-cycle162-mofpi-sagarmala-and-mcq14-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle162-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json",
-    "project-control/academic-readiness/2-3-2-cycle164-three-concepts-planning-steel-periurban-source-audit-2026-11-01.json"
+    "project-control/academic-readiness/2-3-2-cycle164-three-concepts-planning-steel-periurban-source-audit-2026-11-01.json",
+    "project-control/academic-readiness/2-3-2-cycle164-actual-downloaded-postrender-artifact-qa-2026-11-01.json"
   ],
-  "next_action": "Cycle164 expanded sections 6/13/38 using bounded official catalogue/policy/report evidence; 16/40 remain below300 by direct whitespace body count. CI PDF, downloaded artifact QA and library delivery PENDING; complete MCQ/mains/diagram/accessibility audits remain. NOT APPROVED.",
+  "next_action": "Cycle164: 38-page CI PDF verified, first downloaded postrender artifact 13092451515 CRC/digest/75 PDFs/75 readiness/634 links/1581 fragments PASS; source/control QA commit postdates inspected artifact, requires next package check. 16/40 sections below300. NOT APPROVED; independent MCQ/mains/diagram/accessibility audits pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -325,8 +326,10 @@
       "S35"
     ],
     "independent_academic_approvals": 0,
-    "ci_pdf": "PENDING",
-    "actual_downloaded_artifact_qa": "PENDING",
-    "R9": "NOT_STARTED"
+    "ci_pdf": "GITHUB_RENDER_SUCCESS_38_PAGES",
+    "actual_downloaded_artifact_qa": "VERIFIED_FIRST_POSTRENDER_ARTIFACT_13092451515",
+    "R9": "NOT_STARTED",
+    "pdf_sha256": "0d57d51e88d31f51499d651e78ff0598fd1cafa1244d792604d9c9e3982d5f18",
+    "artifact_sha256": "4471f55e3488e33db267bc09d3dffd9033ff2464702a4194b5307d079b5a4d9f"
   }
 }
