@@ -1,0 +1,72 @@
+{
+  "cycle": 161,
+  "date": "2026-11-01",
+  "topic_id": "2-3-2",
+  "scope": "Author-side primary-source-correlated repair of three existing geography concepts and one original practice MCQ; not independent expert certification",
+  "base_main": "69b0ed79afac0719ee41fed72530e4d2cc653776",
+  "edited_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+  "new_master_git_blob": "1be50553dfcfe3701e4c6c0959cb3caeeda0a8ef",
+  "sections": [
+    {
+      "number": 21,
+      "topic": "Railways and freight corridors",
+      "before_whitespace_words": 240,
+      "after_whitespace_words": 446,
+      "check": "Ministry of Railways 19 March 2025 reports 2741/2843 route-km commissioned; dated not current; route choice uses explicitly hypothetical cost units",
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2112843&lang=1&reg=1"
+    },
+    {
+      "number": 23,
+      "topic": "WTO treaty roles and historical goods/services trade",
+      "before_whitespace_words": 247,
+      "after_whitespace_words": 469,
+      "check": "WTO Article III and Annex 3 separate negotiation, dispute settlement, trade policy review; FY2023-24 437.10 + 341.11 = 778.21 USD billion is historical export flow, not value added",
+      "sources": [
+        "https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm",
+        "https://www.wto.org/english/tratop_e/tpr_e/annex3_e.htm",
+        "https://www.commerce.gov.in/ministryofcommerce/sites/default/files/2025-04/Annual-Report-English-Lower-Resolution-1.pdf"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Multimodal planning and outcome evaluation",
+      "before_whitespace_words": 246,
+      "after_whitespace_words": 438,
+      "check": "2025 PM GatiShakti government factsheet describes 16 ministries and 115 road projects evaluated as of 13 March 2025; appraisal is not completion or causal impact; worked time budget hypothetical",
+      "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202541530501.pdf"
+    }
+  ],
+  "mcq": {
+    "id": 17,
+    "original_practice": true,
+    "official_pyq": false,
+    "correct_option": "C",
+    "key_changed": false,
+    "options": {
+      "A": "Incorrect: Article III assigns dispute settlement and TPRM administration to WTO",
+      "B": "Incorrect: Annex 3 review is not enforcement or source of new commitments",
+      "C": "Correct: Article III(2)-(4) assigns negotiations, DSU and TPRM",
+      "D": "Incorrect: Article III(2) explicitly includes negotiations"
+    },
+    "source_corroboration": "Author-side directly viewed WTO treaty and Annex 3; no independent distractor or expert review"
+  },
+  "preservation": {
+    "topic_ids_expected": 75,
+    "original_pdfs_must_remain_unchanged": true,
+    "topic_2_3_2_original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886"
+  },
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_academic_approvals": 0,
+  "ci_pdf_status": "PENDING_RENDER",
+  "actual_downloaded_artifact_qa": "PENDING"
+}
