@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-01",
+  "cycle": 164,
+  "topic_id": "2-3-2",
+  "topic_title": "India: Agriculture, Industry, Population and Urbanisation",
+  "source_branch": "academic-cycle164-topic-2-3-2-three-concepts",
+  "source_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+  "changes": {
+    "expanded_existing_sections": [
+      6,
+      13,
+      38
+    ],
+    "section_whitespace_word_counts_after": {
+      "6": 506,
+      "13": 523,
+      "38": 518
+    },
+    "numbered_sections_total": 40,
+    "sections_under_300_before": 19,
+    "sections_under_300_after": 16,
+    "original_mcqs_added": 0,
+    "official_pyqs_claimed": 0,
+    "original_pdfs_modified": false
+  },
+  "sources": [
+    {
+      "id": "S33",
+      "title": "Planning Commission Agro-Climatic Regional Planning Project 1995",
+      "url": "https://digitallibrary.niti.gov.in/items/05085f17-672c-45d0-91b4-fdc09b7395b5",
+      "directly_inspected": "official catalogue and abstract",
+      "verified_claims": [
+        "initiated in 1988",
+        "15 planning regions and 73 sub-regions"
+      ],
+      "not_verified": [
+        "underlying report full PDF",
+        "specific boundary maps"
+      ]
+    },
+    {
+      "id": "S34",
+      "title": "Ministry of Steel National Steel Policy 2017",
+      "url": "https://steel.gov.in/national-steel-policy-nsp-2017",
+      "directly_inspected": "official policy webpage",
+      "verified_claims": [
+        "policy covers raw material security, logistics, R&D, energy efficiency",
+        "2030-31 projected crude steel capacity 300 million tonnes"
+      ],
+      "not_verified": [
+        "actual 2026 capacity or output",
+        "individual plant emissions"
+      ]
+    },
+    {
+      "id": "S35",
+      "title": "NITI Aayog urban planning capacity 2021 and IES Census urban definitions",
+      "url": "https://www.niti.gov.in/node/345",
+      "additional_url": "https://ies.gov.in/arthapedia/concept/urban",
+      "directly_inspected": "official report text and government-hosted Census definitions",
+      "verified_claims": [
+        "2011 statutory and census town distinction",
+        "census town threshold population >=5000, male main workers non-agricultural >=75%, density >=400/km2",
+        "2011 7933 urban settlements reported by 2021 NITI study"
+      ],
+      "not_verified": [
+        "new 2026 enumeration",
+        "Hyderabad local agency boundary shapefiles"
+      ]
+    }
+  ],
+  "quality_cautions": [
+    "Examples, numerical values and policy evaluation procedures in expanded prose are original hypothetical instruction, not observed field data.",
+    "No independent academic or legal/geospatial expert approved this cycle.",
+    "The 300-word threshold is a mechanical screen only, not a measure of academic sufficiency.",
+    "R1 remains PASS; R2-R8 remain IN_PROGRESS; R9 NOT_STARTED; independent approvals zero."
+  ],
+  "publication": {
+    "ci_pdf": "PENDING",
+    "actual_github_artifact_download": "PENDING",
+    "zip_crc_sha_links": "PENDING",
+    "library_upload": "PENDING"
+  }
+}
