@@ -1,0 +1,66 @@
+{
+  "cycle": 168,
+  "date": "2026-11-02",
+  "topic_id": "2-3-2",
+  "render_workflow_run_id": 41349110486,
+  "render_conclusion": "success",
+  "postrender_package_run_id": 41349152899,
+  "package_conclusion": "success",
+  "downloaded_github_artifact_id": 13100283709,
+  "actually_downloaded": true,
+  "artifact_sha256": "ab627d81df91aa977c7a82e2a88712b7af5acfb23823c354c0d8c1a276ffabf5",
+  "github_declared_digest_sha256": "ab627d81df91aa977c7a82e2a88712b7af5acfb23823c354c0d8c1a276ffabf5",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "inner_file_count": 2233,
+  "original_topic_pdf_count": 75,
+  "original_topic_pdf_sha256_unchanged_vs_cycle167": 75,
+  "readiness_json_count": 75,
+  "html_pages": 92,
+  "local_file_references_checked": 592,
+  "broken_local_file_references": 0,
+  "dom_fragments_checked": 1581,
+  "broken_dom_fragments": 0,
+  "spa_hash_routes_excluded": 42,
+  "local_link_method": "HTMLParser href and src; URL-decoded relative path resolution against archive member paths, SPA hash routes excluded from DOM-fragment checks",
+  "integrated_pdf": {
+    "pages": 43,
+    "sha256": "afe1747ac579cc3733e87050d8a09229ef98178669d14a25a7e696cf67735d32",
+    "blank_pages": 0,
+    "nul_or_replacement_glyphs": 0,
+    "out_of_bounds_text_blocks": 0,
+    "actual_pdf_contains_new_concept_expansions": true,
+    "pages_visually_inspected": [
+      5,
+      6,
+      8
+    ]
+  },
+  "editable_master": {
+    "sha256": "a32179b1359f43012bd100efd4a819637b39f689dc744f4fd798ed25302371b2",
+    "concepts": 40,
+    "body_only_below300": [
+      12,
+      22,
+      25,
+      30
+    ],
+    "body_only_words_4_5_8": [
+      515,
+      526,
+      531
+    ],
+    "original_practice_mcqs": 25,
+    "mains_answers": 6,
+    "source_register_S47_to_S51": true
+  },
+  "original_topic_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "cycle168_source_audit_in_archive": true,
+  "academic_readiness": {
+    "status": "IN_PROGRESS",
+    "R1_R8_fully_ready": false,
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "limitations": "Artifact integrity and selected PDF page visual QA are not full public browser usability, screen-reader accessibility, all-MCQ/distractor claim verification, six-mains claim review, diagram expert assessment or independent academic approval. This evidence file is committed after the inspected artifact; post-evidence package must be separately downloaded."
+}

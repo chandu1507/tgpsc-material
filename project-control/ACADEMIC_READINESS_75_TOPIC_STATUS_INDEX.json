@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle168 author-side source and depth evidence project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json; no CI PDF or downloaded post-merge artifact yet. Previous Cycle167 actual archive QA is not proof of Cycle168 publication. 75 original PDFs must remain unchanged; 7/68/0 statuses, 14 normalized R1 PASS, 0 fully ready, 0 approvals.",
+  "warning": "Cycle168 actual post-render artifact 13100283709 downloaded and CRC/SHA/75 original PDF/link/PDF QA PASS. Evidence project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json is committed after inspected archive; independently verify next post-control package. Academic gates unchanged: 7/68/0, 14 R1 PASS, zero fully ready and zero independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-02 Cycle168: Topic 2-3-2 §§4/5/8 expanded with ICAR, Coffee Board, Tea Board and DAHD source bounds; direct body-only 7→4 under300/40. PDF and post-merge artifact QA PENDING. 7/68/0 statuses, 14 normalized R1 PASS, zero full R1–R8 and approvals.",
+  "last_readiness_update": "2026-11-02 Cycle168: Topic 2-3-2 §§4/5/8 expanded; 7→4 body-only shallow; 43-page CI PDF and downloaded artifact 13100283709 verified CRC/SHA/75 originals/592 local links/1581 fragments. QA commit postdates archive. Status 7/68/0, 14 normalized R1 PASS, zero R1–R8 ready and approvals.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
