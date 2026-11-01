@@ -1,0 +1,47 @@
+{
+  "run_id": 41333799144,
+  "artifact_id": 13093444497,
+  "artifact_sha256": "dffe5fdcc11e2010e882ee99411da6ff7461b8562f9e98ad9812a3db6cc8f59f",
+  "outer_and_inner_zip_crc": "PASS",
+  "files": 2227,
+  "original_topic_pdfs": 75,
+  "original_pdf_hashes_unchanged": 75,
+  "original_topic_3_1_1_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "readiness_json": 75,
+  "status_counts": {
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "IN_PROGRESS": 7
+  },
+  "normalized_R1_PASS": 14,
+  "academic_approvals": 0,
+  "fully_R1_to_R8_ready": 0,
+  "html_pages": 92,
+  "links": {
+    "local_references": 634,
+    "dom_fragments": 1581
+  },
+  "broken_links": 0,
+  "pdf_pages": 39,
+  "pdf_sha256": "bcad6c79a9322c61574c30ec16bf3d1deefd623f8b4c6dd1915b83492d6e0e9f",
+  "pdf_blank_pages": 0,
+  "pdf_nul_replacement_glyphs": 0,
+  "pdf_out_of_bounds_text_blocks": 0,
+  "master_sha256": "7b322552536844cec928b324b9b8361e88191230a9b61fccc2484a0245d255a0",
+  "source_evidence_included": true,
+  "ci_binary_distinct_from_local_candidate": false,
+  "limitations": [
+    "No independent academic expert approvals",
+    "No browser usability or full accessibility certification",
+    "PDF layout sampled separately, not complete visual QA",
+    "Packaging commit predates this independent QA evidence report"
+  ],
+  "visual_pdf_pages_sampled": [
+    9,
+    10,
+    11,
+    12,
+    39
+  ],
+  "local_and_github_pdf_sha256_identical": true,
+  "pdf_visual_sampling_result": "PASS for legibility/continuity on sampled pages; full accessibility NOT certified"
+}
