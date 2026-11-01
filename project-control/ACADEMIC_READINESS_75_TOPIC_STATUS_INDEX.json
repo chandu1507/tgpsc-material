@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle165 academic edit merged only after source control; local 39-page PDF candidate not CI binary. CI PDF and actual downloaded packaging QA PENDING. Retain 7/68/0 statuses, 14 R1 PASS, zero R1-R8 ready and approvals.",
+  "warning": "Cycle165 actual GitHub packaging run 41333799144 artifact 13093444497 downloaded and independently verified: SHA/digest dffe5fdcc11e2010e882ee99411da6ff7461b8562f9e98ad9812a3db6cc8f59f MATCH, outer/inner CRC PASS, 2227 files, 75 unchanged originals, 75 readiness, 92 HTML, 634 local references and 1581 DOM fragments zero broken. 39-page PDF SHA bcad6c79a9322c61574c30ec16bf3d1deefd623f8b4c6dd1915b83492d6e0e9f. This QA/control commit postdates inspected artifact; verify next package separately. 7/68/0, 14 R1 PASS, zero full R1-R8 and approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-cycle165-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle165-cotton-sugar-cement-auto-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle164-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle164-three-concepts-planning-steel-periurban-source-audit-2026-11-01.json",
