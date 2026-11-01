@@ -64,7 +64,8 @@ for i,p in enumerate(doc):
     for block in p.get_text('blocks'):
         x0,y0,x1,y1=block[:4]
         if x0<-1 or y0<-1 or x1>p.rect.width+1 or y1>p.rect.height+1:boundary.append(i+1)
-assert 18<=len(doc)<=50 and not blank and images>=3 and not boundary,(len(doc),blank,images,boundary)
+nul_glyphs=sum(page.get_text().count('\\x00') for page in doc)
+assert 18<=len(doc)<=50 and not blank and images>=3 and not boundary and nul_glyphs==0,(len(doc),blank,images,boundary,nul_glyphs)
 html=mistune.create_markdown(plugins=['table','strikethrough'])(md)
 soup=BeautifulSoup(html,'html.parser')
 for img in soup.find_all('img'):
