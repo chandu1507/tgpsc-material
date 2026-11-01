@@ -1,7 +1,7 @@
 {
   "topic_id": "5-3-3",
   "title": "Quantitative Aptitude — Number Sequences, Series, Averages, Number Systems, Ratio and Proportion, Profit and Loss",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -22,12 +22,12 @@
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
-    "R6": "BLOCKED",
+    "R6": "IN_PROGRESS",
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle61 16 concept expansions, corrected MCQ19 v/v assumption; internal 30/30 key and 90/90 distractor recomputation; internal three-diagram mathematical and visual check. 21-page synchronized PDF and downloaded artifact 12814147615 CRC/hashes/links PASS. Independent syllabus, mains claims, accessibility and expert approval incomplete. Final downloaded artifact QA: project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json",
-  "next_action": "Complete claim-level mains and full syllabus authentication; perform direct browser and screen-reader QA; re-download latest artifact after audit commits; do not mark R8 or R9 PASS.",
+  "next_action": "Verify the Cycle151 CI PDF and actual downloaded post-edit publication artifact; independently review all six mains claims, syllabus and accessibility; no R6/R8/R9 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle61": {
@@ -73,5 +73,29 @@
       "crc": "PASS",
       "evidence": "project-control/academic-readiness/5-3-3-cycle61-actual-downloaded-post-audit-artifact-qa-2026-10-28.json"
     }
+  },
+  "cycle151": {
+    "scope": "six original mains mathematical claim audit",
+    "author_side_mains_checked": 6,
+    "body_only_counts": [
+      239,
+      222,
+      238,
+      225,
+      236,
+      217
+    ],
+    "in_place_corrections": [
+      "Q1 projected fractional seats not physically allocatable",
+      "Q5 initial 50% markup distinguished from 20% realized profit"
+    ],
+    "source_correlation": [
+      "OpenStax College Algebra 2e",
+      "OpenStax Introductory Statistics 2e",
+      "OpenStax Contemporary Mathematics"
+    ],
+    "evidence": "project-control/academic-readiness/5-3-3-cycle151-six-mains-claim-audit-2026-11-01.json",
+    "CI_pdf_post_edit_verified": false,
+    "actual_downloaded_post_edit_artifact_verified": false
   }
 }
