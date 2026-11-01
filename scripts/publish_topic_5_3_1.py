@@ -94,7 +94,7 @@ qa={'date':'2026-11-01','topic_id':'5-3-1','cycle':149,'original_pdf_sha256':ori
     'mcq_count':30,'distractor_count':90,'answer_distribution':{o:keys.count(o) for o in 'ABCD'},
     'mains_body_only_counts':bodycounts,'local_file_links_checked':files_checked,'broken_file_links':bad_files,
     'dom_fragment_links_checked':fragments_checked,'broken_fragment_links':bad_fragments,'spa_routes_excluded':spa_routes,
-    'all_30_keys_and_90_distractors_internal_audit':'see project-control/academic-readiness/5-3-1-cycle149-direct-math-and-options-audit-2026-10-28.json',
+    'all_30_keys_and_90_distractors_internal_audit':'see project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json',
     'full_mains_claim_review_complete':False,'direct_browser_accessibility_certified':False,
     'independent_academic_approvals':0,'R8':'IN_PROGRESS_NOT_PASS','actual_downloaded_artifact_verified':False}
 (root/'QA-REPORT.md').write_text('# Cycle149 deterministic render QA\n\n'+json.dumps(qa,indent=2)+'\n')
@@ -114,5 +114,5 @@ manifest['metrics']={'concept_count':18,'concepts_below_300':0,'answer_distribut
     'mains_body_only_counts':bodycounts,'cycle149_ten_question_author_side_review':True,'independent_review_complete':False}
 manifest['files']={f.relative_to(root).as_posix():sha(f) for f in root.rglob('*') if f.is_file() and f.name!='manifest.json'}
 (root/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
-Path('project-control/academic-readiness/5-3-1-cycle149-ci-render-qa-2026-10-28.json').write_text(json.dumps(qa,indent=2)+'\n')
+Path('project-control/academic-readiness/5-3-1-cycle149-ci-render-qa-2026-11-01.json').write_text(json.dumps(qa,indent=2)+'\n')
 print(json.dumps(qa,indent=2))
