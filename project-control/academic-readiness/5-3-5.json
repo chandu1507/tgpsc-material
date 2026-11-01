@@ -27,10 +27,10 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet. Cycle63 CI rendered 26-page integrated PDF SHA256 3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747; final GitHub Actions artifact 12823195126 actually downloaded, outer/inner CRC PASS, 75 original PDFs unchanged, 447 local links and 1135 DOM fragments zero broken. Thirteen explanatory concepts remain below300; academic/browser checks outstanding. Cycle153 author-side expansion of §§3/7/11/13, 10 four-option reviews (2 provisional), 2024 procurement/grievance and 2025 DPDP commencement source updates. CI publication and independent academic review still pending.",
-  "next_action": "After CI publication verify actual downloaded artifact CRC/SHA/75-original/link QA; audit 20 remaining MCQs plus provisional Q2/Q10, six mains claims, three diagrams, direct browser accessibility, and named expert review. R1 PASS only; R3/R8 IN_PROGRESS, no R9.",
+  "next_action": "Complete independent item-level review of all 30 original practice MCQs (Q2/Q10 clinical items still provisional), claim-level check of six mains, independent scientific/administrative review of three diagrams, Telangana-specific authority checks, direct browser/screen-reader accessibility and named expert approval. R5 BLOCKED, R8 IN_PROGRESS, R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
-  "latest_evidence": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5/source/academic-option-audit-cycle153.md",
+  "latest_evidence": "project-control/academic-readiness/5-3-5-cycle155-post-legibility-downloaded-artifact-qa-2026-11-01.json",
   "cycle154_2026_11_01": {
     "status": "CI_PDF_PUBLISHED_ACTUAL_ARTIFACT_DOWNLOADED_QA_PASS_NOT_ACADEMICALLY_APPROVED",
     "edited_sections": [
@@ -69,5 +69,47 @@
       "ASSESSED_REBUILD_REQUIRED": 68,
       "NOT_ASSESSED": 0
     }
+  },
+  "cycle155_2026_11_01": {
+    "status": "BOUNDED_AUTHOR_SIDE_OPTION_AUDIT_AND_ACTUAL_ARTIFACT_QA_NOT_APPROVED",
+    "reviewed_existing_mcq_ids": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "reviewed_proposed_keys": 20,
+    "reviewed_distractors": 60,
+    "cumulative_bounded_mcq_reviewed": 30,
+    "provisional_medical_domain_mcq_ids": [
+      2,
+      10
+    ],
+    "q22_causal_language_corrected": true,
+    "source_audit": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5/source/academic-option-audit-cycle155.md",
+    "qa_evidence": "project-control/academic-readiness/5-3-5-cycle155-post-legibility-downloaded-artifact-qa-2026-11-01.json",
+    "actual_downloaded_artifact_id": 13077770405,
+    "integrated_pdf_pages": 36,
+    "integrated_pdf_sha256": "8c74bd3778e957ee972e2314dee60a935665946f90d63e8c4f6cb51c1f9603ee",
+    "R5": "BLOCKED",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_academic_approvals": 0
   }
 }

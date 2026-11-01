@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-3-5 Cycle154: nine substantive concept expansions, 17/17 explanatory sections >=300 words (mechanical only), 32-page CI PDF, actual artifact 13074894207 downloaded/verified",
+    "last_reported_topic": "5-3-5 Cycle155: 20 existing MCQs Q11-Q30 reviewed option-by-option, Q22 causal overclaim corrected, 36-page CI PDF and actual GitHub artifact 13077770405 downloaded/verified",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle154 downloaded GitHub artifact 13074894207 digest/CRC PASS, 2206 files, 75 unchanged original PDFs, 75 readiness JSON, 92 HTML, 592 local links/1581 fragments zero broken, 32-page Topic 5-3-5 PDF, 19/19 manifest hashes. 7/68/0, 14 R1 PASS, zero fully R1-R8 ready and zero approvals. Evidence commit postdates inspected artifact."
+    "note": "Cycle155 artifact 13077770405 SHA/CRC PASS: 2208 files, 75 unchanged original PDFs, 75 readiness records, 92 HTML, 592 local links and 1581 fragments zero broken; 14 normalized R1 PASS; 7/68/0; zero R1-R8 complete or expert approvals. Control evidence commit postdates artifact."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -752,8 +752,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle154_nine_concept_expansions_32_page_ci_pdf_actual_downloaded_artifact_verified_academic_rebuild_pending",
-      "notes": "Cycle153: four existing explanatory concepts §§3/7/11/13 expanded to 501–545 words using DARPG 2024, Union Procurement Manual 2024, NDMA SACHET and DPDP phased commencement. 10 original MCQs option-reviewed (8 source-correlated, Q2/Q10 medical-domain checks provisional), 20 MCQs/80 options remain. Original PDF SHA f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833 unchanged. CI 27-page PDF SHA a3b76927dfc6bb22883c32b8deb3cf48c024daa7491383928a968c3c0088a4fc, zero NUL; downloaded artifact 13073997880 SHA/CRC/75 originals/592 links/1581 fragments PASS. Nine explanatory sections under300, six mains and three diagrams independent review pending. R8 IN_PROGRESS; ZERO approvals. Cycle154: sections 4,6,8,9,12,15,16,17,18 expanded; 17/17 explanatory sections >=300 words; 30 original MCQs and six mains retained, 20 MCQs, six mains claims, diagrams and accessibility still pending. Actual downloaded artifact 13074894207 CRC/SHA/75-original/link QA PASS. No approval.",
+      "production_review": "cycle155_20_mcq_option_audit_q22_causal_precision_ci_pdf_actual_downloaded_archive_qa_academic_rebuild_pending",
+      "notes": "Cycle153: four existing explanatory concepts §§3/7/11/13 expanded to 501–545 words using DARPG 2024, Union Procurement Manual 2024, NDMA SACHET and DPDP phased commencement. 10 original MCQs option-reviewed (8 source-correlated, Q2/Q10 medical-domain checks provisional), 20 MCQs/80 options remain. Original PDF SHA f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833 unchanged. CI 27-page PDF SHA a3b76927dfc6bb22883c32b8deb3cf48c024daa7491383928a968c3c0088a4fc, zero NUL; downloaded artifact 13073997880 SHA/CRC/75 originals/592 links/1581 fragments PASS. Nine explanatory sections under300, six mains and three diagrams independent review pending. R8 IN_PROGRESS; ZERO approvals. Cycle154: sections 4,6,8,9,12,15,16,17,18 expanded; 17/17 explanatory sections >=300 words; 30 original MCQs and six mains retained, 20 MCQs, six mains claims, diagrams and accessibility still pending. Actual downloaded artifact 13074894207 CRC/SHA/75-original/link QA PASS. No approval. Cycle155: Q11-Q30 20 keys/60 distractors author-side evidence-tier reviewed; Q22 causal inference corrected; 36-page PDF SHA 8c74bd3778e957ee972e2314dee60a935665946f90d63e8c4f6cb51c1f9603ee, downloaded artifact 13077770405 CRC/digest/75-original/link QA PASS. R5 BLOCKED, R8 IN_PROGRESS, R9 NOT_STARTED; no independent approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-3-5.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-3-5-cycle63-actual-downloaded-final-artifact-qa-2026-10-28.json"
