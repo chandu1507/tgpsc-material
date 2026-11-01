@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle171 Topic 2-3-5: 25/25 original practice MCQ keys now have bounded author-side source correspondence after eight new four-option audits (32 options), not independent academic certification. Actual 25-page CI PDF SHA256 62433abb9288c708adff62f657f43db946cfb3c78cc22d2bbcdba03f12466b82; precontrol artifact 13105614661 downloaded SHA/CRC/75 originals/75 readiness/592 local refs/1581 fragments PASS. Control/R1 wording changes postdate inspected archive: final post-control package pending. 7/68/0 statuses, normalized R1 PASS 14, R1-R8 ready 0, approvals 0.",
+  "warning": "Cycle171 Topic 2-3-5: 25/25 MCQ keys bounded author-side source-correlated (8 new Qs, 32 option checks), independent 100-option academic audit still pending. Actual 25-page GitHub PDF SHA256 1a1d39ecd14ef9e8fc244749c8e1d000e622f74bdae0fefa927f154671418e02; post-control artifact 13106134868 actually downloaded SHA/CRC/75 original PDFs/75 readiness/592 local refs/1581 fragments PASS. Final QA evidence commit postdates archive; repackage and download required. 7/68/0 statuses, normalized R1 PASS 14, R1-R8 ready 0, approvals 0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",

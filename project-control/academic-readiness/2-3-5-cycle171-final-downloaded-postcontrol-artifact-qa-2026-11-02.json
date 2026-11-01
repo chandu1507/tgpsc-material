@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-02",
+  "cycle": 171,
+  "topic_id": "2-3-5",
+  "operation": "INDEPENDENT_ACTUAL_DOWNLOADED_POSTCONTROL_GITHUB_ARTIFACT_QA",
+  "academic_pr": 329,
+  "control_pr": 330,
+  "renderer_run_id": 41364421255,
+  "renderer_result": "SUCCESS",
+  "package_run_id": 41364421237,
+  "package_result": "SUCCESS",
+  "artifact_id": 13106134868,
+  "github_declared_sha256": "1b765ae8924290a4ee02177518fb77596ddb33dda4ee913e1932df3d9d608e19",
+  "actual_downloaded_sha256": "1b765ae8924290a4ee02177518fb77596ddb33dda4ee913e1932df3d9d608e19",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "file_count": 2240,
+  "original_topic_pdf_count": 75,
+  "original_topic_pdf_sha256_all_unchanged_from_cycle170": true,
+  "readiness_json_count": 75,
+  "html_pages": 92,
+  "local_file_references_checked": 592,
+  "local_file_references_broken": 0,
+  "dom_fragment_references_checked": 1581,
+  "dom_fragment_references_broken": 0,
+  "spa_hash_routes_excluded": 42,
+  "actual_integrated_pdf_pages": 25,
+  "actual_integrated_pdf_sha256": "1a1d39ecd14ef9e8fc244749c8e1d000e622f74bdae0fefa927f154671418e02",
+  "actual_integrated_master_sha256": "9d0a866332854752425aabbfd53f2f9212c8e1c2ba3632ed40a11c4283f6987e",
+  "pdf_blank_pages": 0,
+  "pdf_nul_or_replacement_glyphs": 0,
+  "pdf_out_of_bounds_text_blocks": 0,
+  "visually_sampled_pdf_pages": [
+    12,
+    17
+  ],
+  "mcq_count": 25,
+  "all_four_option": true,
+  "answer_key_distribution": {
+    "A": 7,
+    "B": 6,
+    "C": 6,
+    "D": 6
+  },
+  "bounded_author_side_source_correlated_keys": 25,
+  "independent_100_option_academic_review": false,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1": {
+    "PASS": 14,
+    "IN_PROGRESS": 56,
+    "BLOCKED": 3,
+    "NOT_STARTED": 2
+  },
+  "fully_R1_R8_ready": 0,
+  "independent_academic_approvals": 0,
+  "R9": "NOT_STARTED",
+  "topic_3_1_1_original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "limitations": [
+    "This final QA evidence commit postdates the inspected artifact; next package must be downloaded and independently rechecked.",
+    "Static link and PDF geometry checks are not full browser usability or screen-reader accessibility certification.",
+    "Bounded author-side key correspondence is not independent 100-option verification.",
+    "Six mains claims, original diagrams and named independent expert review remain unfinished."
+  ]
+}
