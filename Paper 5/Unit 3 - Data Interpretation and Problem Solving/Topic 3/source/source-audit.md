@@ -20,3 +20,14 @@ The Ministry of Statistics and Programme Implementation's **Advance Release Cale
 - **[S06]** MoSPI official data-dissemination FAQs (accessed 25 October 2026). https://mospi.gov.in/faq
 
 **Editorial note:** This is an independently written exam-preparation draft, not a publication or endorsement by TGPSC, NCERT, DES or MoSPI. Any factual data quoted from external statistical reports must be checked against the source version before examination use.
+
+
+## Cycle 151 bounded six-mains audit (1 November 2026)
+
+All six original mains answers received author-side mathematical claim, denominator and unit checks against directly inspected OpenStax sections [S07]–[S11]. Two in-place corrections clarify that a projected 32.21 seats is not a physical seat count (Q1), and distinguish the initial 50% markup on cost from the realised 20% profit percentage after discount (Q5). The full evidence is in `source/cycle151-six-mains-claim-audit.md` and `project-control/academic-readiness/5-3-3-cycle151-six-mains-claim-audit-2026-11-01.json`. This is **not** an independent R6 PASS, complete R8 or R9.
+
+- **[S07]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/college-algebra-2e/pages/9-key-equations
+- **[S08]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/college-algebra-2e/pages/9-3-geometric-sequences
+- **[S09]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data
+- **[S10]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/contemporary-mathematics/pages/5-4-ratios-and-proportions
+- **[S11]** OpenStax textbook, directly inspected 1 November 2026: https://openstax.org/books/contemporary-mathematics/pages/6-2-discounts-markups-and-sales-tax
