@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle164 first post-render artifact 13092451515 actually downloaded: SHA/digest 4471f55e3488e33db267bc09d3dffd9033ff2464702a4194b5307d079b5a4d9f MATCH, outer/inner CRC PASS, 2225 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local references/1581 fragments zero broken, 42 SPA routes excluded. 38-page PDF SHA 0d57d51e88d31f51499d651e78ff0598fd1cafa1244d792604d9c9e3982d5f18. QA/control commit postdates inspected artifact; verify next package separately. 7/68/0 statuses, 14 R1 PASS, zero full R1-R8 and approvals.",
+  "warning": "Cycle165 academic edit merged only after source control; local 39-page PDF candidate not CI binary. CI PDF and actual downloaded packaging QA PENDING. Retain 7/68/0 statuses, 14 R1 PASS, zero R1-R8 ready and approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle164: Topic2-3-2 concepts6/13/38 expanded with directly consulted official source metadata/policy/report; 19→16 under300 by section-body whitespace; PDF/artifact QA PENDING, zero approvals",
+  "last_readiness_update": "2026-11-01 Cycle165: Topic2-3-2 §§14/15/16 expanded with bounded government and secondary industry sources; direct 16→13 sections below300. CI PDF/artifact QA pending. No approval.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-cycle165-cotton-sugar-cement-auto-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle164-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle164-three-concepts-planning-steel-periurban-source-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json",

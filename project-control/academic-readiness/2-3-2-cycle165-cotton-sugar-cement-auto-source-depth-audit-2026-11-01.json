@@ -1,0 +1,72 @@
+{
+  "cycle": 165,
+  "date": "2026-11-01",
+  "topic_id": "2-3-2",
+  "scope": "Author-side evidence-bounded expansion, not independent certification",
+  "base_main_sha": "b24bf1c1c0686ad08481ab7814636f8c425c9e1c",
+  "editable_master_git_blob_sha": "52ffc61204c55deacbf58e2d0a3688aac53f5d14",
+  "editable_master_sha256": "7b322552536844cec928b324b9b8361e88191230a9b61fccc2484a0245d255a0",
+  "concept_word_method": "Numbered section body split on whitespace, excluding following section heading",
+  "concepts_expanded": [
+    {
+      "id": 14,
+      "title": "Cotton textiles",
+      "words_after": 600,
+      "source": "S36"
+    },
+    {
+      "id": 15,
+      "title": "Sugar and cement",
+      "words_after": 667,
+      "sources": [
+        "S37",
+        "S38"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Automobile and engineering clusters",
+      "words_after": 636,
+      "source": "S39"
+    }
+  ],
+  "shallow_concepts_under_300_before": 16,
+  "shallow_concepts_under_300_after": 13,
+  "numbered_concepts": 40,
+  "sources": [
+    {
+      "id": "S36",
+      "url": "https://texmin.nic.in/sites/default/files/MOT%202024-25%20English%20Report%2012.03.2025.pdf",
+      "scope": "Official 2024–25 ministry report; scheme design, no plant impact proof"
+    },
+    {
+      "id": "S37",
+      "url": "https://dfpd.gov.in/directorate-of-sugar/en",
+      "scope": "Official 2025–26 FRP policy only, not current-season extrapolation"
+    },
+    {
+      "id": "S38",
+      "url": "https://www.ibef.org/industry/cement-india",
+      "scope": "Secondary cement industry compilation, not primary factory evidence"
+    },
+    {
+      "id": "S39",
+      "url": "https://www.heavyindustries.gov.in/en/pli-auto",
+      "scope": "Official PLI Auto scheme parameters, not realised outcomes"
+    }
+  ],
+  "local_render_candidate": {
+    "pages": 39,
+    "sha256": "bcad6c79a9322c61574c30ec16bf3d1deefd623f8b4c6dd1915b83492d6e0e9f",
+    "blank_pages": 0,
+    "visually_inspected_page": 10,
+    "not_github_ci_binary": true
+  },
+  "limits": [
+    "All illustrative calculations are hypothetical",
+    "No independent MCQ/mains/diagram expert review",
+    "No official PYQ authentication",
+    "CI-generated PDF and actual downloaded GitHub artifact pending after merge",
+    "R9 NOT_STARTED; independent approvals ZERO"
+  ]
+}
