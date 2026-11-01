@@ -1,13 +1,13 @@
-# Cycle63 deterministic render QA
+# Cycle153 deterministic render QA (not academic certification)
 
 {
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "topic_id": "5-3-5",
-  "cycle": 63,
+  "cycle": 153,
   "original_pdf_sha256": "f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833",
   "original_preserved": true,
-  "integrated_pdf_sha256": "3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747",
-  "integrated_pdf_pages": 26,
+  "integrated_pdf_sha256": "a3b76927dfc6bb22883c32b8deb3cf48c024daa7491383928a968c3c0088a4fc",
+  "integrated_pdf_pages": 27,
   "pdf_images": 3,
   "blank_pages": [],
   "out_of_page_text_blocks": [],
@@ -15,24 +15,24 @@
   "concept_word_counts": [
     238,
     386,
-    255,
+    545,
     255,
     373,
     240,
-    228,
+    501,
     239,
     225,
     324,
-    228,
+    515,
     212,
-    220,
+    512,
     327,
     237,
     250,
     231,
     221
   ],
-  "explanatory_sections_below_300": 13,
+  "explanatory_sections_below_300": 9,
   "mcq_count": 30,
   "distractor_count": 90,
   "answer_distribution": {
@@ -54,10 +54,16 @@
   "dom_fragment_links_checked": 0,
   "broken_fragment_links": [],
   "spa_routes_excluded": 0,
+  "cycle153_mcq_stems_reviewed": 10,
+  "cycle153_mcq_options_reviewed": 40,
+  "provisional_domain_mcq_ids": [
+    2,
+    10
+  ],
   "full_mains_claim_review_complete": false,
   "full_page_per_concept_met": false,
   "direct_browser_accessibility_certified": false,
   "independent_academic_approvals": 0,
-  "R8": "BLOCKED_PENDING_ACTUAL_ARTIFACT_AND_ACADEMIC_QA",
+  "R8": "IN_PROGRESS_PENDING_ACTUAL_ARTIFACT_AND_ACADEMIC_QA",
   "actual_downloaded_artifact_verified": false
 }

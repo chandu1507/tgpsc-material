@@ -4,4 +4,4 @@ Preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e6
 
 [Offline HTML](index.html) · [Integrated PDF](source/integrated-student-edition-cycle63.pdf) · [Editable master](source/complete-notes.md) · [Original PDF](complete-notes.pdf).
 
-Four targeted conceptual expansions and three revised practice MCQs. No official PYQs or independent academic approval claimed.
+Cycle153: four source-correlated conceptual expansions; 10 existing MCQs option-reviewed without changing their keys (two medical-domain reviews provisional). No official PYQs or independent academic approval claimed.
