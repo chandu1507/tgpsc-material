@@ -77,14 +77,18 @@
     "original_mains": 6
   },
   "remaining": {
-    "estimated_sections_under_300_after": 14,
+    "estimated_sections_under_300_after": 19,
     "independent_mcq_keys_and_distractors": "INCOMPLETE",
     "mains_claim_audit": "INCOMPLETE",
     "diagram_accuracy": "INCOMPLETE",
     "full_browser_accessibility": "INCOMPLETE",
     "R1_R8_ready": false,
     "R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "measured_sections_under_300_before": 22,
+    "measured_sections_under_300_after": 19,
+    "measurement_method": "Count whitespace-delimited tokens in each of the 40 numbered concept bodies, excluding section headings, MCQs and mains. Directly recomputed from the actual Cycle162 and Cycle163 Markdown in downloaded artifacts.",
+    "historical_discrepancy": "Cycle162 metadata reported 17 under300, but direct reproducible count on archived Cycle162 master is 22; prior 17 and extrapolated Cycle163 14 are NOT validated under this method. No readiness gate is upgraded."
   },
   "publication": {
     "github_actions_pdf": "PENDING",
