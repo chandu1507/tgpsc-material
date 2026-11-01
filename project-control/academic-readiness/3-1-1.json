@@ -43,7 +43,8 @@
     "project-control/academic-readiness/3-1-1-cycle157-actual-downloaded-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle158-c16-c17-q6-source-audit-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle158-actual-downloaded-artifact-qa-2026-11-01.json",
-    "project-control/academic-readiness/3-1-1-cycle159-ncert-application-mcqs-and-bank-synchronization-2026-11-01.json"
+    "project-control/academic-readiness/3-1-1-cycle159-ncert-application-mcqs-and-bank-synchronization-2026-11-01.json",
+    "project-control/academic-readiness/3-1-1-cycle159-actual-downloaded-postrender-artifact-qa-2026-11-01.json"
   ],
   "next_action": "Complete independent 25-MCQ/100-option verification, six mains claims, diagram review, browser/accessibility and named expert sign-off. Cycle159 source-based Q2-Q4 and 25-bank synchronization are author-side only; R1-R8 not all PASS; R9 NOT_STARTED.",
   "external_reviewer": null,
@@ -392,6 +393,10 @@
     "pre_edit_complete_notes_mcq_count": 15,
     "post_edit_mcq_count": 25,
     "independent_approvals": 0,
-    "render_and_actual_artifact_qa": "PENDING"
+    "render_and_actual_artifact_qa": "PASS_PRE_CONTROL_COMMIT",
+    "github_workflow_run_id": 41308867062,
+    "github_artifact_id": 13084995066,
+    "actual_pdf_pages": 36,
+    "actual_pdf_sha256": "96e8dfec55e9809ca98263edf19a5b8be2d5a47d5ec1b5487dfb212149641c4c"
   }
 }
