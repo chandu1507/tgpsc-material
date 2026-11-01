@@ -1,0 +1,86 @@
+{
+  "cycle": "162",
+  "date": "2026-11-01",
+  "topic_id": "2-3-2",
+  "base_main_sha": "bef14bb8983d56b90e7f0aff5c47f708949354cb",
+  "branch": "academic-cycle162-topic-2-3-2-source-repair",
+  "work_type": "substantive source-based author-side academic repair, NOT independent certification",
+  "changes": [
+    {
+      "concept": 18,
+      "title": "Food processing and agro-industry",
+      "before_words": 247,
+      "after_words": 499,
+      "source_ids": [
+        "S27",
+        "S28"
+      ],
+      "new_content": "cold-chain chain-of-custody, May 2025 scheme components, hypothetical 100-tonne comparison, ODOP-versus-viability distinction"
+    },
+    {
+      "concept": 36,
+      "title": "Ports, hinterlands and coastal industrialisation",
+      "before_words": 235,
+      "after_words": 523,
+      "source_ids": [
+        "S29"
+      ],
+      "new_content": "hinterland bottleneck logic, hypothetical port cost/time comparison, separate coastal-community outcomes"
+    },
+    {
+      "mcq": 14,
+      "action": "rewritten in place",
+      "answer": "D",
+      "four_option_checks": {
+        "A": "88 tonnes, not maximum",
+        "B": "94 tonnes, plausible refrigerated option but below D",
+        "C": "91 tonnes, lower rent irrelevant to stated volume objective",
+        "D": "97 tonnes, maximum under stated assumptions"
+      },
+      "original_practice_not_official_pyq": true
+    }
+  ],
+  "count_method": "per-section Markdown whitespace split including heading; mechanical depth proxy, not academic completeness",
+  "under300_before": 19,
+  "under300_after": 17,
+  "sources": [
+    {
+      "id": "S27",
+      "url": "https://mofpi.gov.in/en/Schemes/about-cold-chain",
+      "secondary": "https://www.mofpi.gov.in/sites/default/files/operational_revised_cold_chain_scheme_duidelines_dated_22.05.2025.pdf",
+      "claim_scope": "programme infrastructure components and 22 May 2025 rules, not outcomes"
+    },
+    {
+      "id": "S28",
+      "url": "https://mofpi.gov.in/en/pmfme/one-district-one-product",
+      "claim_scope": "ODOP common procurement/services/marketing, not project viability"
+    },
+    {
+      "id": "S29",
+      "url": "https://www.shipmin.gov.in/division/sagarmala",
+      "secondary": "https://sagarmala.gov.in/project/port-connectivity",
+      "claim_scope": "policy pillars and hinterland connectivity, not measured realised benefits"
+    }
+  ],
+  "preservation": "No new topic, no changes to original complete-notes.pdf or other original PDFs; original 25 practice MCQ count and 6 mains retained",
+  "gate_status": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_approval": false,
+  "publication_status": "PENDING CI renderer and actual downloaded artifact verification",
+  "limitations": [
+    "Only two concepts expanded; 17 of 40 still mechanically under 300 words",
+    "Q14 option audit is author-side, not independent",
+    "All 25 keys, six mains and diagrams require further verification",
+    "Full browser accessibility not certified",
+    "No claim of 75-topic package integrity until downloaded artifact checked"
+  ]
+}
