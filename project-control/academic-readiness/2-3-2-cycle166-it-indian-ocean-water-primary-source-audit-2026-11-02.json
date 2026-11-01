@@ -1,0 +1,98 @@
+{
+  "cycle": 166,
+  "date": "2026-11-02",
+  "topic_id": "2-3-2",
+  "source_base_main": "3560af54e25174065313981eca9d184626c16280",
+  "academic_change": "Three existing concept sections expanded in one integrated editable master; no new topic, original PDF or practice MCQ created.",
+  "expanded_sections": [
+    {
+      "id": 17,
+      "title": "IT and knowledge industries",
+      "words_before": 237,
+      "words_after": 493,
+      "source_ids": [
+        "S40"
+      ],
+      "claim_boundary": "STPI-Hyderabad jurisdiction includes locations in Andhra Pradesh and Telangana; FY2024-25 registered-unit exports are not Telangana state-wide exports; no causal impact verified."
+    },
+    {
+      "id": 24,
+      "title": "Indian Ocean strategic location",
+      "words_before": 228,
+      "words_after": 521,
+      "source_ids": [
+        "S41",
+        "S29"
+      ],
+      "claim_boundary": "SAGAR policy first articulated in Mauritius in 2015; policy statements are not impact evaluations; freight-cost example is hypothetical."
+    },
+    {
+      "id": 31,
+      "title": "Crop-water nexus",
+      "words_before": 245,
+      "words_after": 580,
+      "source_ids": [
+        "S42",
+        "S32"
+      ],
+      "claim_boundary": "CGWB extraction-stage formula assessed at unit/year; hypothetical 115% and return-flow examples not empirical Telangana estimates."
+    }
+  ],
+  "mechanical_count_method": "Whitespace-separated tokens in complete body of each numbered Part C section, excluding its ### heading, counted until next ### numbered heading or Part D.",
+  "part_c_concept_count": 40,
+  "sections_under_300_before": 13,
+  "sections_under_300_after": 10,
+  "remaining_shallow_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    12,
+    22,
+    25,
+    30
+  ],
+  "primary_sources": [
+    {
+      "id": "S40",
+      "url": "https://stpi.in/en/about-stpi-hyderabad",
+      "access": "directly viewed official web text 2026-11-02",
+      "limits": "jurisdiction/registered-unit coverage"
+    },
+    {
+      "id": "S41",
+      "url": "https://www.mea.gov.in/Images/CPV/LU-157-EN-02-02-2024.pdf",
+      "access": "official MEA PDF text extracted by search 2026-11-02",
+      "limits": "not full page-by-page PDF visual audit"
+    },
+    {
+      "id": "S42",
+      "url": "https://cgwb.gov.in/index.php/en/ground-water-resource-assessment-0",
+      "access": "directly viewed official methodology 2026-11-02",
+      "limits": "block data not downloaded"
+    }
+  ],
+  "validation_scope": "Author-side claim/source correlation and deterministic section count only; no independent academic review.",
+  "pending": [
+    "25 MCQs: all 100 options independent claim-level verification",
+    "Six mains answers full claim-level audit",
+    "Diagram factual and accessibility review",
+    "Full browser/screen-reader QA",
+    "CI PDF and actual post-edit Actions artifact QA"
+  ],
+  "gates": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_approvals": 0,
+  "academic_certified": false
+}
