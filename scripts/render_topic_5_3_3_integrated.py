@@ -73,7 +73,13 @@ def diagram(num):
     return d
 
 story=[]
-tokens=MarkdownIt('commonmark').enable('table').parse(src.read_text())
+# Preserve Unicode in the editable master, but use PDF-safe math glyphs for ReportLab.
+# Without normalization, unsupported minus/arrow/radical symbols extract as NUL.
+source_text=src.read_text()
+PDF_SAFE_SYMBOLS={'−':'-','→':' -> ','√':'sqrt','≠':'!=','≤':'<=','≥':'>=','≈':'~','≡':'===','±':'+/-','⅓':'1/3','⁴':'^4'}
+for symbol,replacement in PDF_SAFE_SYMBOLS.items():
+    source_text=source_text.replace(symbol,replacement)
+tokens=MarkdownIt('commonmark').enable('table').parse(source_text)
 i=0; current_table=None; row=None; cell=None; list_depth=0
 while i<len(tokens):
  t=tokens[i]
