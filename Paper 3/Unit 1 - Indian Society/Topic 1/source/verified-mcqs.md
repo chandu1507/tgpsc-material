@@ -67,14 +67,14 @@
 
 **Correct: B.** The continuum models gradations and interaction, not automatic municipal reclassification. A invents a legal consequence; C overextends the model; D assumes ties vanish on migration. **Evidence:** IGNOU *Rural–Urban Continuum*, Unit 4 (2017), and *Rural–Urban Linkages*, Unit 4 (2023), indexed university texts. **Limit:** Full PDFs timed out; source correspondence uses indexed excerpts and catalogues. **Type:** original practice, not official PYQ.
 
-## 8. What is 'multiculturalism' in the stronger institutional sense?
+## 8. A district celebrates several community festivals, but public-service forms are available in only one language and consultation excludes smaller linguistic groups. Which reform most closely reflects cultural pluralism in administration?
 
-- **A.** The mere presence of several foods
-- **B.** Recognising diverse groups while ensuring fair public participation and rights
-- **C.** Requiring all groups to adopt one language
-- **D.** Ending all community identities
+- **A.** Expand the festival programme while leaving service access and consultation unchanged.
+- **B.** Provide appropriately translated or assisted service access and include affected linguistic groups in consultation, subject to equal rights and practical feasibility.
+- **C.** Translate the forms but let only the numerically largest group decide whether smaller groups may participate in service design.
+- **D.** Create a formally uniform online portal and treat its availability as proof that language barriers have been eliminated.
 
-**Correct: B.** Multiculturalism concerns recognition and equitable participation, not simply visibility or forced uniformity.
+**Correct: B.** UNESCO's 2001 *Universal Declaration on Cultural Diversity*, Article 2, treats inclusion and participation as the policy expression of cultural diversity; Article 4 safeguards human rights. B addresses both usable access and participation without asserting an unlimited translation mandate. A offers symbolic visibility without access; C improves language access while withholding voice; D confuses a formally available portal with demonstrated accessibility. This is a hypothetical policy judgment, not a claim about any actual Telangana district or an enforceable translation requirement created by UNESCO. **Direct source:** UNESCO declaration, Articles 2 and 4, https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity . **Type:** original practice, not an official TGPSC PYQ; author-side source check, not independent academic approval.
 
 ## 9. Which author–research association is correctly matched?
 
