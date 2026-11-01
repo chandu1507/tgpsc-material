@@ -7,7 +7,7 @@
   "diagram_count": 3,
   "academically_approved": false,
   "files_sha256": {
-    "QA-REPORT.md": "db55d89bfb0216ddae9d80649a4251c972f516fec079f86fe47504480dbbd681",
+    "QA-REPORT.md": "3a7ba9ad9363fbcf669b81e748fa72d0da34791f483a839adfe28b0657103bc9",
     "README.md": "7a9a22ea040914c47a5d8b219a0da598424600b358eceb4f4df3d7d886f5c13e",
     "index.html": "ba3b324175a9bc713fe634c9c9e132bafcf01cae6f356525204bb5cacd0ab2bf",
     "complete-notes.pdf": "3a4de15932eabf615bd62c4e5f99d15ef6b65a8517014cc81c753a81c9aacf29",
@@ -16,7 +16,7 @@
     "diagrams/profit_discount.png": "4970a483c961061a2d96a8490aa2c995c132ad2242bd606e7ebe1ca14918e118",
     "source/original-practice.md": "58d1bb25ab95e583ce1da720768c42011672d33706d8ebc1e23c481da84e298d",
     "source/source-audit.md": "99a932cea587aa00b64a4eeef6078cb21527176895e9fd9dee360f602b616b56",
-    "source/integrated-student-edition-cycle61.pdf": "5066e281825625380377c6d438885c5e21ec5518af833a80108f93e115942242",
+    "source/integrated-student-edition-cycle61.pdf": "bece7d9ce95dc7816670ad795448b1c464199d6b3c4051d624be79b26ac277c9",
     "source/quick-revision.md": "c171e1910de2d55dfdd20aa826eb20743292c619e906d03ef1c54992e7a1309a",
     "source/cycle151-six-mains-claim-audit.md": "30f0a95cd44781d3f50d310acfa52d7b60c0a429fb6ccc0f3deff31c6907cf17",
     "source/complete-model-answers.md": "89efb45fe993453ac6e4c058b85443fe8c66a62024317e3876b2911eb5ba1c21",
@@ -25,7 +25,7 @@
   "academic_status": "not_approved",
   "integrated_pdf_status": "CI_rendered_pending_academic_audit",
   "integrated_pdf_pages": 21,
-  "integrated_pdf_sha256": "5066e281825625380377c6d438885c5e21ec5518af833a80108f93e115942242",
+  "integrated_pdf_sha256": "bece7d9ce95dc7816670ad795448b1c464199d6b3c4051d624be79b26ac277c9",
   "official_syllabus_authenticated_this_cycle": false,
   "independent_academic_approvals": 0,
   "metrics": {
