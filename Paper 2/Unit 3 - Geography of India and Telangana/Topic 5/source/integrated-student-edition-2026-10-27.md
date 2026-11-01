@@ -211,23 +211,23 @@ Use the sequence **historic core → institutional and industrial expansion → 
 
 ## Part B — 25 original four-option explained practice MCQs (NOT official PYQs)
 
-### Q1. Which can increase recorded urban population without equivalent net migration?
+### Q1. Which process can shift *existing residents* from the rural to the urban census category without those residents physically relocating?
 
-A. Settlement reclassification
-B. Only new births
-C. A station closure
-D. A fall in municipal area
+A. Reclassifying their existing settlement as a census town  
+B. Births among people already recorded as urban  
+C. Migration from a village to a city  
+D. Construction of additional buildings without changing the settlement's census classification  
 
-**Answer: A.** Reclassification can count existing residents as urban without migration. **Source category:** U1. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** Reclassification changes the census category of people who already live in the settlement; it does not require their movement. B increases urban population through natural increase but does not shift existing rural residents into the urban category; C entails relocation; D alone does not establish an official classification change. India's Census 2011 distinction between statutory and census towns, and NITI Aayog's account of reclassification's contribution to measured urban growth, support this interpretation. **Source anchors:** [U18,U19]. Author-side four-option source check; no independent examiner validation.
 
-### Q2. What makes 2008 and 2025 HMDA area figures non-comparable without adjustment?
+### Q2. Why must the 2008 and 2025 HMDA planning-area figures not be treated as a like-for-like measure of physical urban growth?
 
-A. No city existed in 2008
-B. The jurisdictional boundary changed
-C. Census has no urban definition
-D. The Musi changed course
+A. Both describe exactly the same boundary, differing only because of rounding  
+B. The notified metropolitan planning jurisdiction changed, altering the settlements and land included  
+C. Both describe only GHMC municipal limits rather than HMDA's wider planning region  
+D. The 2025 area covers only physically built-up land and excludes revenue villages  
 
-**Answer: B.** The metropolitan planning boundary expanded in 2025. **Source category:** U4. Independent item-level key and distractor verification is PENDING.
+**Answer: B.** HMDA reports approximately 7,257 sq km for its 2008 jurisdiction and approximately 10,472.723 sq km after the 12 March 2025 notification (G.O.Ms.No.68). The larger notified planning region is not evidence that the same quantity of new urban land was built, or that population grew by the area ratio. A denies the boundary change; C confuses the metropolitan authority with the municipal corporation; D contradicts HMDA's inclusion of revenue villages. **Source anchors:** [U4,U12]. Author-side four-option source check; the underlying signed government order was not separately examined.
 
 ### Q3. Who founded Hyderabad in 1591?
 
@@ -328,14 +328,14 @@ D. Counting flyovers
 
 **Answer: A.** Flood risk depends on connected storage, runoff and channel capacity. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
-### Q14. Impervious land cover can cause:
+### Q14. In otherwise comparable urban catchments, increasing impervious land cover most directly tends to:
 
-A. Guaranteed higher infiltration
-B. Faster runoff and reduced infiltration
-C. No runoff effect
-D. Elimination of floods
+A. Increase infiltration through newly sealed soil surfaces  
+B. Increase and accelerate storm runoff while reducing direct infiltration  
+C. Leave storm runoff unchanged whenever storm drains are present  
+D. Eliminate flood risk by transferring rainfall to the drainage network  
 
-**Answer: B.** Sealing changes hydrological response; effects depend on catchment conditions. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: B.** The US EPA's urban-hydrology explanation identifies lower infiltration and increased, often faster, surface runoff with impervious cover. A reverses the physical mechanism; C confuses runoff conveyance with runoff generation; D wrongly equates faster drainage with elimination of catchment or downstream flood risk. Local response depends on rainfall, soils, slope, storage and network design; this is not a measured Hyderabad effect size. **Source anchors:** [U20]. Author-side four-option source check; no independent examiner validation.
 
 ### Q15. Which best tests affordable housing?
 
@@ -382,14 +382,14 @@ D. Municipal annexation
 
 **Answer: C.** Circular migrants retain links and may move repeatedly for work. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
-### Q20. Why can municipal and built-up growth differ?
+### Q20. Why can the growth of a city's physically built-up footprint differ from growth of its municipal jurisdiction?
 
-A. They are always identical
-B. Census excludes towns
-C. Built-up areas never cross boundaries
-D. Boundaries and land development change independently
+A. Municipal boundaries automatically expand whenever a new building is completed  
+B. Every census town automatically becomes a municipal corporation  
+C. Satellite-observed built-up area is by definition identical to a notified municipal boundary  
+D. Land development and changes to statutory boundaries can occur at different times and cover different areas  
 
-**Answer: D.** Administrative and physical geographies are distinct. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Physical urban expansion is a land-cover process; municipal and metropolitan boundaries are legal-administrative delineations. A invents automatic annexation; B confuses census classification with municipal legal status; C conflates a remote-sensing measure with a notified jurisdiction. Census definitions distinguish statutory and census towns, while HMDA's 2025 jurisdiction expansion illustrates a separate planning-boundary change. **Source anchors:** [U18,U4,U19]. Author-side four-option source check; no satellite image or statutory boundary GIS was independently compared.
 
 ### Q21. Which is evidence for a functional global-city claim?
 
@@ -400,14 +400,14 @@ D. A mall name
 
 **Answer: A.** Global economic links are more informative than branding. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
 
-### Q22. Wastewater service should be judged by:
+### Q22. Which measure best evaluates whether an urban wastewater service is delivering safe outcomes rather than only constructing infrastructure?
 
-A. Inauguration count
-B. Actual collection, treatment and reuse
-C. Pipe colour
-D. Design capacity alone
+A. Number of treatment plants inaugurated, irrespective of operating performance  
+B. Measured wastewater flows collected and safely treated, with safe discharge or beneficial reuse where appropriate  
+C. Length of sewers installed, regardless of whether households are connected  
+D. Rated treatment capacity, irrespective of actual inflows and effluent quality  
 
-**Answer: B.** Operating performance is different from installed capacity. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: B.** UN SDG indicator 6.3.1 measures the proportion of wastewater flows safely treated, rather than merely the number or nominal capacity of facilities. A and C are construction-output indicators; D ignores actual treatment performance. Beneficial reuse may be appropriate but is **not** a universal prerequisite for safe treatment: compliant discharge can also be a valid outcome. **Source anchors:** [U21]. Author-side four-option source check; this does not establish Hyderabad's actual treatment performance or an independent academic approval.
 
 ### Q23. Balanced heritage management should:
 
@@ -567,3 +567,7 @@ D. 112,077 sq km (Telangana State area)
 | U15 | UNESCO World Heritage Centre, Tentative List 5573, https://whc.unesco.org/en/tentativelists/5573/ | India's 2010 Qutb Shahi Monuments Tentative List submission; NOT an inscription |
 | U16 | Government of Telangana Heatwave Implementation Plan, https://mgov.telangana.gov.in/HeatWaveActionPlan.html | Preparedness and warnings, not independently measured policy effectiveness |
 | U17 | Hyderabad District Tourism, https://hyderabad.telangana.gov.in/tourism/ | Official attractions and urban-history description; not current visitor statistics |
+| U18 | Government of India, Indian Economic Service, Arthapedia, Urban (Census 2011 definitions), https://ies.gov.in/arthapedia/concept/urban | Statutory versus census towns; reclassification and jurisdiction updates; not a 2026 urbanisation estimate |
+| U19 | NITI Aayog, Reforms in Urban Planning Capacity in India (2021), https://www.niti.gov.in/node/345 | Census-town contribution to 2001–11 measured urban growth; descriptive national evidence, not Telangana-specific attribution |
+| U20 | US Environmental Protection Agency, Urbanization—Hydrology, https://www.epa.gov/caddis/urbanization-hydrology | Generic impervious-cover mechanism: infiltration and runoff; not local Hyderabad hydrological measurements |
+| U21 | UN Statistics Division, SDG 6.3.1 metadata, updated 23 April 2025, https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf | Wastewater flows safely treated; reuse is not mandatory in all safe-treatment cases; not local plant performance |

@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-2 Cycle169: four final shallow concepts expanded, 0/40 under300; 45-page actual GitHub PDF and artifact 13102781413 downloaded CRC/SHA/75 originals/links PASS; QA commit postdates inspected archive; zero approvals.",
+    "last_reported_topic": "2-3-5 Cycle170: five original MCQs Q1/Q2/Q14/Q20/Q22 source-bounded four-option corrections, ambiguity Q1 and wastewater Q22 fixed; local 22-page candidate glyph-clean; CI render and actual post-edit artifact QA PENDING; no approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -282,6 +282,35 @@
       "pdf_sha256": "e7f9b59b7e069cd2bd9ed2a1eaef2a52d3c0da273bd82e18fd78c3627e9c2df2",
       "qa_evidence": "project-control/academic-readiness/2-3-2-cycle169-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
       "post_control_packaging": "PENDING"
+    },
+    "cycle170": {
+      "date": "2026-11-02",
+      "topic": "2-3-5",
+      "questions_revised": [
+        1,
+        2,
+        14,
+        20,
+        22
+      ],
+      "option_checks": 20,
+      "source_correlated_keys_total": 17,
+      "remaining_keys": 8,
+      "independent_expert_approvals": 0,
+      "original_pdf_count": 75,
+      "readiness_records": 75,
+      "normalized_R1_PASS": 14,
+      "readiness_status_counts": {
+        "IN_PROGRESS": 7,
+        "ASSESSED_REBUILD_REQUIRED": 68,
+        "NOT_ASSESSED": 0
+      },
+      "fully_R1_R8_ready": 0,
+      "local_candidate_pdf_pages": 22,
+      "local_candidate_glyphs": 0,
+      "ci_pdf": "PENDING",
+      "postedit_artifact_qa": "PENDING",
+      "evidence": "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",

@@ -39,8 +39,8 @@ def inline_html(tok):
     parts=[]
     link_stack=[]
     for t in tok.children or []:
-        if t.type=='text':parts.append(html.escape(t.content))
-        elif t.type=='code_inline':parts.append('<font name="NotoBold">'+html.escape(t.content)+'</font>')
+        if t.type=='text':parts.append(html.escape(t.content.replace('→',' to ').replace('⇒',' implies ').replace('←',' from ')))
+        elif t.type=='code_inline':parts.append('<font name="NotoBold">'+html.escape(t.content.replace('→',' to ').replace('⇒',' implies ').replace('←',' from '))+'</font>')
         elif t.type=='strong_open':parts.append('<b>')
         elif t.type=='strong_close':parts.append('</b>')
         elif t.type=='em_open':parts.append('<i>')
@@ -124,7 +124,9 @@ doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargi
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
-qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
+bad_glyph_pages=[i+1 for i,page in enumerate(pdf) if ('\x00' in page.get_text() or '\ufffd' in page.get_text())]
+assert not bad_glyph_pages, f'PDF contains unsupported glyphs on pages: {bad_glyph_pages}'
+qa={'bad_glyph_pages':bad_glyph_pages,'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 if args.qa:
     args.qa.parent.mkdir(parents=True,exist_ok=True)
     args.qa.write_text(json.dumps(qa,indent=2))
