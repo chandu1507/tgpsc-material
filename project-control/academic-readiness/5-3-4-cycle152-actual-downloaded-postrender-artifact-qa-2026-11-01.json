@@ -1,0 +1,60 @@
+{
+  "cycle": 152,
+  "date": "2026-11-01",
+  "topic_id": "5-3-4",
+  "academic_scope": "Ten existing original practice MCQs Q21-Q30 (10 keys and 30 distractors) bounded author-side reviewed against OpenStax. Twenty keys and 60 distractors, six mains and three diagrams remain.",
+  "academic_status": "ASSESSED_REBUILD_REQUIRED",
+  "R5": "IN_PROGRESS_NOT_PASS",
+  "R8": "IN_PROGRESS_NOT_PASS",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "renderer": {
+    "run_id": 41279189096,
+    "conclusion": "success",
+    "pdf_pages": 25,
+    "pdf_sha256": "03f2ea8436ded31e12d43c0a7ac27f0f1195996e95e6ae7cda68de1c3a21b33e",
+    "pdf_nul_glyphs": 0,
+    "pdf_blank_pages": 0,
+    "pdf_out_of_bounds_pages": 0,
+    "original_pdf_sha256": "564061e2c2e121aa0184c7bb465da5889bef10c7b45773aecc8ba70194bf2fc8",
+    "technical_correction": "57 NUL glyphs found in earlier 25-page PDF; renderer now normalizes unsupported symbols for PDF only and asserts zero NUL."
+  },
+  "downloaded_publication": {
+    "run_id": 41279225288,
+    "artifact_id": 13072327093,
+    "outer_zip_sha256": "1b38d2cde9088f3c708ae8a7afeef722cd1ff5596d295161d597f3afe7904e69",
+    "github_artifact_digest_match": true,
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "files": 2199,
+    "original_pdfs": 75,
+    "original_pdfs_identical_to_pre_render_archive": 75,
+    "readiness_json": 75,
+    "html_pages": 92,
+    "local_links_checked": 592,
+    "local_links_broken": 0,
+    "dom_fragments_checked": 1581,
+    "dom_fragments_broken": 0,
+    "spa_routes_excluded": 42,
+    "manifest_hashes_checked": 14,
+    "manifest_hash_mismatches": 0,
+    "master_audit_synchronized": true,
+    "pdf_audit_synchronized": true,
+    "original_3_1_1_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a"
+  },
+  "readiness_reconciliation": {
+    "total_topics": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 68,
+    "not_assessed": 0,
+    "normalized_R1_pass": 14,
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0
+  },
+  "limitations": [
+    "Six mains and three diagrams not independently claim-verified",
+    "Direct syllabus reauthentication not performed in Cycle152",
+    "Selected PDF pages 1/17/18/19/20/25 visually sampled; full-resolution browser and screen-reader accessibility not certified",
+    "This evidence file postdates the inspected artifact; a later archive needs separate downloaded QA"
+  ]
+}
