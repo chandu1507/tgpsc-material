@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Paper 5/Unit 2 - Modern Applications of Science/Topic 5/source/academic-option-audit-cycle146.md",
-  "next_action": "Cycle146 12 original MCQs received author-side 12-key/36-distractor primary-source option reviews; 18 keys/54 distractors, six mains claim audits, three diagrams, direct syllabus reauthentication and browser QA remain. CI PDF and post-edit downloaded artifact QA pending; original preserved; R5 BLOCKED, R8 IN_PROGRESS, independent approvals ZERO.",
+  "evidence": "project-control/academic-readiness/5-2-5-cycle146-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
+  "next_action": "Cycle146 CI 29-page integrated PDF and actual downloaded post-render artifact 13062608390 SHA/CRC/75-topic/link QA PASS; 12 original MCQs/36 distractors author-side reviewed. Remaining 18 MCQs/54 distractors, six mains claim-level audits, three diagrams, syllabus reauthentication and browser QA. R5 BLOCKED, R8 IN_PROGRESS, R9 NOT_STARTED, approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -85,7 +85,9 @@
       "distractors_reviewed": 36,
       "remaining_questions": 18,
       "remaining_distractors": 54,
-      "independent_approval": false
+      "independent_approval": false,
+      "actual_downloaded_postrender_artifact_id": 13062608390,
+      "ci_pdf_sha256": "45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc"
     }
   }
 }
