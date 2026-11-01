@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5 Cycle170: five original MCQs Q1/Q2/Q14/Q20/Q22 source-bounded four-option corrections, ambiguity Q1 and wastewater Q22 fixed; local 22-page candidate glyph-clean; CI render and actual post-edit artifact QA PENDING; no approvals.",
+    "last_reported_topic": "2-3-5 Cycle170: five original MCQs author-side four-option checked; 23-page actual GitHub PDF, artifact 13104682429 actually downloaded SHA/CRC/75 originals/75 readiness/links PASS; QA commit postdates inspected archive; 0 approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -308,9 +308,15 @@
       "fully_R1_R8_ready": 0,
       "local_candidate_pdf_pages": 22,
       "local_candidate_glyphs": 0,
-      "ci_pdf": "PENDING",
-      "postedit_artifact_qa": "PENDING",
-      "evidence": "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json"
+      "ci_pdf": "SUCCESS_23_PAGES",
+      "postedit_artifact_qa": "PASS",
+      "evidence": "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json",
+      "actual_pdf_sha256": "7ad8d95c678fdcb6811dc67c361a5d009e0fbf64f89db25d297482dc2465b688",
+      "actual_pdf_pages": 23,
+      "downloaded_artifact_id": 13104682429,
+      "downloaded_artifact_sha256": "b88ce45c23eadf997db8c44c4d3ccb3177893d91f95531dd56dbdb3700778b8c",
+      "post_control_packaging": "PENDING",
+      "qa_evidence": "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
