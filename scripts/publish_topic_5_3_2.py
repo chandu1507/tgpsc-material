@@ -21,6 +21,7 @@ sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 original=sha(root/'complete-notes.pdf')
 assert original=='3de54ec5e1cca90b6d5ddce1ed290ab8f6ec90042b56e3aaff382bd139eb71d5'
 md=(src/'complete-notes.md').read_text()
+assert (src/'academic-option-audit-cycle150.md').read_text().strip() in md, 'Cycle150 audit absent from integrated editable master'
 for name in ('core.md','original-mcqs.md','mains-model-answers.md'):
     assert (src/name).read_text().strip() in md,name
 assert 'Hospital B treats 10 low-risk patients with 10 recoveries (100%)' in md
@@ -54,6 +55,8 @@ pdf=src/'integrated-student-edition-cycle60.pdf'
 subprocess.run([sys.executable,'scripts/render_topic_5_3_2_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
 doc=fitz.open(pdf)
 blank=[i+1 for i,p in enumerate(doc) if len(p.get_text().strip())<60]
+unsupported_glyphs=sum(p.get_text().count('\\x00') for p in doc)
+assert unsupported_glyphs==0, f'PDF has {unsupported_glyphs} unsupported NUL glyphs'
 images=sum(len(p.get_images()) for p in doc)
 boundary=[]
 for i,p in enumerate(doc):
