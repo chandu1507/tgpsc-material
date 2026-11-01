@@ -35,9 +35,10 @@
     "project-control/academic-readiness/2-3-5-turn21-ci-render-pre-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json",
-    "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/2-3-5-cycle171-eight-remaining-original-mcq-four-option-source-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle170 five original MCQ edits and 20 bounded option checks published in 23-page GitHub PDF; actual artifact 13104682429 independently downloaded SHA/CRC/75 originals/75 readiness/links PASS. This QA/control commit postdates inspected artifact: post-control repackage and download next. 17/25 source-correlated keys, 8 pending; independent distractors, six mains, diagrams, browser QA and named expert approval outstanding.",
+  "next_action": "Cycle171: 8 remaining original practice MCQs Q4/Q12/Q13/Q15/Q19/Q21/Q23/Q24 revised in place with 32 bounded author-side option checks and sources U22-U29. All 25 keys now have bounded author-side source correspondence, NOT independent 100-option certification. CI render and actual artifact QA pending. Six mains, diagrams, browser QA and expert R9 outstanding.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -69,9 +70,9 @@
     "full_resolution_every_page_accessibility_certified": false
   },
   "mcq_primary_key_review": {
-    "source_correlated_correct_keys": 17,
+    "source_correlated_correct_keys": 25,
     "total_questions": 25,
-    "remaining_keys": 8,
+    "remaining_keys": 0,
     "all_distractors_independently_validated": false
   },
   "cycle91_2026_10_29": {
@@ -215,5 +216,40 @@
     "actual_artifact_sha256": "b88ce45c23eadf997db8c44c4d3ccb3177893d91f95531dd56dbdb3700778b8c",
     "qa_evidence": "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "post_control_packaging": "PENDING"
+  },
+  "cycle171_2026_11_02": {
+    "status": "EIGHT_ORIGINAL_MCQS_AUTHOR_SIDE_SOURCE_CHECK_NOT_APPROVED",
+    "questions_revised_in_place": [
+      4,
+      12,
+      13,
+      15,
+      19,
+      21,
+      23,
+      24
+    ],
+    "reviewed_options": 32,
+    "source_ids": [
+      "U22",
+      "U23",
+      "U24",
+      "U25",
+      "U26",
+      "U27",
+      "U28",
+      "U29"
+    ],
+    "total_source_correlated_keys": 25,
+    "independent_distractor_audit": false,
+    "independent_mains_claim_audit": false,
+    "original_pdf_preserved": true,
+    "original_topics_expected": 75,
+    "source_evidence": "project-control/academic-readiness/2-3-5-cycle171-eight-remaining-original-mcq-four-option-source-audit-2026-11-02.json",
+    "github_ci_render": "PENDING",
+    "actual_downloaded_postedit_artifact": "PENDING",
+    "R5": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
   }
 }

@@ -238,14 +238,14 @@ D. Osman Ali Khan
 
 **Answer: C.** GHMC official city history identifies Muhammad Quli Qutb Shah. **Source category:** U3. Independent item-level key and distractor verification is PENDING.
 
-### Q4. Urban primacy refers principally to:
+### Q4. In a regional urban system, which observation best identifies urban primacy?
 
-A. All towns having equal functions
-B. Every village being a municipality
-C. Every urban resident being a migrant
-D. One city dominating a regional urban hierarchy
+A. Every city grows at the same annual rate
+B. All towns provide an identical range of higher-order services
+C. The largest city must have exactly twice the population of the second-largest in every definition
+D. The leading city disproportionately dominates the system by population and/or higher-order functions
 
-**Answer: D.** A primate city dominates in population and/or higher-order functions. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Urban primacy describes a leading city's disproportionate demographic or functional dominance. A confuses primacy with uniform growth; B is the opposite of dominance; C turns one classical population rule of thumb into a universal definition, ignoring functional primacy and alternative measures. UN-Habitat discusses both the traditional population comparison and broader economic/political dominance. **Source anchor:** [U22]. This is a concept-level author-side source check, not a measured primacy ratio for Telangana or an independent item approval.
 
 ### Q5. Telangana Census 2011 urban share is approximately:
 
@@ -310,23 +310,23 @@ D. The 2025 HMDA boundary order proves the entire RRR was open that year
 
 **Answer: C.** HMDA publishes ORR operational information separately from the upcoming RRR. Extending the planning region does not certify road completion. **Source category:** U4,U13. Direct first-party pages; final alignment and construction completion not independently established.
 
-### Q12. Which best measures equitable Metro access?
+### Q12. Two households are equally distant from a Metro station in a straight line. Which comparison best tests whether they have equitable *usable* access?
 
-A. Train colour
-B. Station advertising
-C. Route length alone
-D. Door-to-door time, fares and safe last-mile access
+A. The total route kilometres of the Metro network
+B. Straight-line distance alone, without checking the walking network
+C. Number of station advertisements and retail kiosks
+D. Door-to-door travel time and cost, accessible walking routes, transfers and feeder availability
 
-**Answer: D.** Effective accessibility includes walking, feeder transport and affordability. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Equitable access depends on whether people can actually reach and afford the service. A is a system-supply statistic, not a household access measure; B ignores barriers, crossings and network distance; C is unrelated to usable access. ITDP's TOD Standard explicitly evaluates barrier-free walking distance along accessible public routes, rather than straight-line proximity. Travel time, cost and feeders are additional practical evaluation dimensions; no Hyderabad household survey is claimed. **Source anchor:** [U23]. Author-side four-option concept check, not independent certification.
 
-### Q13. Which action best addresses urban flooding at catchment scale?
+### Q13. Which package most directly addresses flood risk across an urban drainage *catchment*, rather than at one isolated street?
 
-A. Protecting connected tanks and drainage
-B. Paving all feeder channels
-C. Replacing lakes with parking
-D. Counting flyovers
+A. Protect connected tanks and floodplains, maintain drainage pathways, limit upstream runoff and evaluate retention measures
+B. Enlarge one downstream street drain while disregarding upstream land conversion and blocked channels
+C. Replace infiltration and storage areas with sealed parking surfaces, assuming pipe capacity will always compensate
+D. Rely exclusively on flood warnings without reducing exposure, runoff or drainage obstruction
 
-**Answer: A.** Flood risk depends on connected storage, runoff and channel capacity. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** Catchment risk depends on rainfall-runoff generation, connected storage, conveyance and exposed people/assets. B neglects upstream inputs and system bottlenecks; C reduces infiltration and natural storage; D can aid preparedness but cannot replace physical risk reduction. US EPA describes green infrastructure, retention and floodplain protection as complementary measures, not guaranteed elimination of flooding. This is generic mechanism evidence, not a Hyderabad catchment model. **Source anchor:** [U24]. Author-side four-option check only.
 
 ### Q14. In otherwise comparable urban catchments, increasing impervious land cover most directly tends to:
 
@@ -337,14 +337,14 @@ D. Eliminate flood risk by transferring rainfall to the drainage network
 
 **Answer: B.** The US EPA's urban-hydrology explanation identifies lower infiltration and increased, often faster, surface runoff with impervious cover. A reverses the physical mechanism; C confuses runoff conveyance with runoff generation; D wrongly equates faster drainage with elimination of catchment or downstream flood risk. Local response depends on rainfall, soils, slope, storage and network design; this is not a measured Hyderabad effect size. **Source anchors:** [U20]. Author-side four-option source check; no independent examiner validation.
 
-### Q15. Which best tests affordable housing?
+### Q15. Two rental homes have the same advertised rent, but one has costly commutes and unreliable basic services. Which test best compares *effective housing affordability*?
 
-A. Number of billboards
-B. Office floors alone
-C. Rent plus commute and service access
-D. Road length
+A. Compare advertised monthly rent alone and ignore location
+B. Compare the number of flats approved in each neighbourhood
+C. Compare rent together with transport cost, access to jobs and essential services
+D. Compare the developers' marketing labels without measuring household expenses
 
-**Answer: C.** Household affordability includes transport and reliable services. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** The effective burden of housing includes access and location-related costs, not just sticker rent. A omits those costs; B measures construction approvals rather than household affordability; D is branding, not evidence. OECD's India housing analysis highlights vacant peripheral dwellings with weak transport/services and poor access to jobs. A World Bank TOD framework likewise links housing, transit and employment, while warning about displacement risks. Neither source supplies a Hyderabad-specific affordability estimate. **Source anchor:** [U25]. Author-side four-option concept check.
 
 ### Q16. Which pair appears in the official Telangana investment portal's Hyderabad technology office belt?
 
@@ -373,14 +373,14 @@ D. Osmania University
 
 **Answer: B.** GHMC describes Charminar as the centre of the new city. Golconda was an earlier fortress city, Hussain Sagar a separate tank, and Osmania University a later institution. **Source category:** U3,U9. Direct official retrospective, not an original period map.
 
-### Q19. Circular migration means:
+### Q19. A worker stays in Hyderabad for seasonal employment, returns to a home village, and repeats this movement in later seasons. What is the most precise description?
 
-A. No return after relocation
-B. Orbital highway traffic
-C. Repeated movement between origin and destination
-D. Municipal annexation
+A. Permanent one-way migration with no return
+B. Daily commuting from the home village without a temporary stay at the work destination
+C. Circular or recurrent seasonal migration between origin and destination
+D. Administrative annexation of the worker's village into the city
 
-**Answer: C.** Circular migrants retain links and may move repeatedly for work. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** Repeated temporary moves and returns, while retaining origin links, characterise circular seasonal migration. A excludes return; B is daily commuting rather than the described temporary residence; D changes a boundary rather than describing a worker's movement. An ILO-hosted study of Indian rural-to-urban seasonal migration describes its circular character and maintained village links. This illustrative scenario does not establish a numerical share of Hyderabad migrants. **Source anchor:** [U26]. Author-side four-option check, not an independent census classification ruling.
 
 ### Q20. Why can the growth of a city's physically built-up footprint differ from growth of its municipal jurisdiction?
 
@@ -391,14 +391,14 @@ D. Land development and changes to statutory boundaries can occur at different t
 
 **Answer: D.** Physical urban expansion is a land-cover process; municipal and metropolitan boundaries are legal-administrative delineations. A invents automatic annexation; B confuses census classification with municipal legal status; C conflates a remote-sensing measure with a notified jurisdiction. Census definitions distinguish statutory and census towns, while HMDA's 2025 jurisdiction expansion illustrates a separate planning-boundary change. **Source anchors:** [U18,U4,U19]. Author-side four-option source check; no satellite image or statutory boundary GIS was independently compared.
 
-### Q21. Which is evidence for a functional global-city claim?
+### Q21. Which evidence is most appropriate for evaluating a city's *functional integration* into global business networks?
 
-A. Specialised services and economic networks
-B. A skyline photograph alone
-C. An unfunded road proposal
-D. A mall name
+A. Documented inter-city advanced-service firm networks and cross-border economic functions
+B. The existence of an international airport alone, without evidence of business-network links
+C. Photographs of tall office towers without information on their firms or functions
+D. A municipal branding slogan that calls the city a global hub
 
-**Answer: A.** Global economic links are more informative than branding. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: A.** Global-city functionality is better tested by measurable network roles than by physical appearance or branding. B may enable connectivity but cannot by itself demonstrate advanced-service links; C is an architectural proxy; D is a promotional claim. GaWC's 2024 classification uses office networks of 175 advanced producer-service firms across 785 cities. That is one bounded methodology, not an all-purpose city-quality index; this question does not assert Hyderabad's GaWC tier. **Source anchor:** [U27]. Author-side four-option check only.
 
 ### Q22. Which measure best evaluates whether an urban wastewater service is delivering safe outcomes rather than only constructing infrastructure?
 
@@ -409,23 +409,23 @@ D. Rated treatment capacity, irrespective of actual inflows and effluent quality
 
 **Answer: B.** UN SDG indicator 6.3.1 measures the proportion of wastewater flows safely treated, rather than merely the number or nominal capacity of facilities. A and C are construction-output indicators; D ignores actual treatment performance. Beneficial reuse may be appropriate but is **not** a universal prerequisite for safe treatment: compliant discharge can also be a valid outcome. **Source anchors:** [U21]. Author-side four-option source check; this does not establish Hyderabad's actual treatment performance or an independent academic approval.
 
-### Q23. Balanced heritage management should:
+### Q23. Which policy best reflects a *living historic urban landscape* approach to Hyderabad's heritage districts?
 
-A. Remove all residents
-B. Ban all buses
-C. Protect monuments and livelihoods with safe access
-D. Replace markets with parking
+A. Preserve only building facades while disregarding resident livelihoods and access
+B. Freeze all economic and social uses, even where compatible adaptive reuse is possible
+C. Integrate physical conservation with resident participation, livelihoods, safe access and contemporary urban services
+D. Maximise visitor numbers regardless of conservation impacts and displacement risks
 
-**Answer: C.** Living heritage requires conservation and social access. **Source category:** U7. Independent item-level key and distractor verification is PENDING.
+**Answer: C.** UNESCO's 2011 Historic Urban Landscape Recommendation integrates tangible and intangible heritage with social, economic and environmental values. A disregards social context; B wrongly treats historic districts as static museums; D treats tourism volume as an overriding objective. The Recommendation is a voluntary international policy framework, not proof of enforcement in Hyderabad or World Heritage inscription. **Source anchor:** [U28]. Author-side four-option check only.
 
-### Q24. A sound regional-city strategy builds:
+### Q24. Which strategy most plausibly reduces excessive dependence on one primate metropolis while strengthening Telangana's intermediary cities?
 
-A. One more capital-only corridor
-B. Housing without work
-C. Car-only transport
-D. Complementary jobs, education and connectivity
+A. Concentrate every new specialised service and major employer in the capital
+B. Build peripheral housing without reliable jobs, schools or transport
+C. Replicate the capital's skyline in each town irrespective of local economic functions
+D. Develop complementary local employment, education, healthcare, transport links and regional market functions
 
-**Answer: D.** Productive institutions are necessary for balanced growth. **Source category:** Concept. Independent item-level key and distractor verification is PENDING.
+**Answer: D.** Intermediary cities can connect rural and metropolitan economies through jobs, services and market links. A reinforces concentration; B creates housing without functioning opportunities; C mistakes architecture for economic capability. UN-Habitat describes intermediary cities as service and employment hubs, but this general framework does not demonstrate that any specific Telangana investment has succeeded. **Source anchor:** [U29]. Author-side four-option concept check; policy outcomes require dated local evidence.
 
 ### Q25. HMDA states the expanded 2025 planning area is approximately:
 
@@ -545,7 +545,7 @@ D. 112,077 sq km (Telangana State area)
 
 ## Part E — Dated official-source register and claim limits
 
-**Evidence limitations:** All 16 sections now exceed 300 whitespace words, but this mechanical threshold is NOT qualitative R3 approval. This is a working integrated edition. All 25 original MCQ distractor sets still require independent item-level validation; 13 keys lack even bounded source correspondence; four new mains answers and two inherited mains answers require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
+**Evidence limitations:** All 16 sections now exceed 300 whitespace words, but this mechanical threshold is NOT qualitative R3 approval. This is a working integrated edition. All 25 original MCQ keys have bounded author-side source correspondence after Cycle171; independent expert checking of all 25 keys and all 100 options remains outstanding; four new mains answers and two inherited mains answers require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
 
 
 | Code | Source | Scope of verification |
@@ -571,3 +571,11 @@ D. 112,077 sq km (Telangana State area)
 | U19 | NITI Aayog, Reforms in Urban Planning Capacity in India (2021), https://www.niti.gov.in/node/345 | Census-town contribution to 2001–11 measured urban growth; descriptive national evidence, not Telangana-specific attribution |
 | U20 | US Environmental Protection Agency, Urbanization—Hydrology, https://www.epa.gov/caddis/urbanization-hydrology | Generic impervious-cover mechanism: infiltration and runoff; not local Hyderabad hydrological measurements |
 | U21 | UN Statistics Division, SDG 6.3.1 metadata, updated 23 April 2025, https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf | Wastewater flows safely treated; reuse is not mandatory in all safe-treatment cases; not local plant performance |
+| U22 | UN-Habitat, St John's Urban Profile (2012), https://unhabitat.org/antigua-and-barbuda-st-johns-city-urban-profile-west-indies | Traditional population and functional primacy definitions; no measured Telangana primacy ratio |
+| U23 | ITDP, TOD Standard (2017), https://itdp.org/wp-content/uploads/2017/06/TOD_Standard_EN.pdf | Accessible actual walking routes and station proximity; not Hyderabad door-to-door survey |
+| U24 | US EPA, Mitigate Flooding, https://www.epa.gov/green-infrastructure/mitigate-flooding | Retention, green infrastructure, floodplain protection and runoff mechanisms; not local hydrological modelling |
+| U25 | OECD, Economic Surveys India 2019, Housing for All, https://www.oecd.org/en/publications/oecd-economic-surveys-india-2019_554c1c22-en/full-report/component-6.html | Peripheral housing, transport/services and job access in India; not Hyderabad-specific rent data |
+| U26 | ILO research repository, Rani and Shylendra (2001), https://researchrepository.ilo.org/esploro/outputs/journalArticle/Seasonal-migration-and-rural-urban-interface-in/995268283502676 | Indian seasonal rural-urban circular migration with maintained origin ties; no Hyderabad flow statistics |
+| U27 | GaWC, World Cities 2024, https://gawc.lboro.ac.uk/gawc-worlds/the-world-according-to-gawc/world-cities-2024/ | Advanced producer-services office network methodology; not a general livability measure or a claimed Hyderabad rank |
+| U28 | UNESCO, 2011 Historic Urban Landscape Recommendation, https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions | Integrated tangible/intangible heritage, social/economic context; voluntary recommendation not Hyderabad enforcement |
+| U29 | UN-Habitat, Strengthening Intermediary Cities (2021), https://unhabitat.org/news/07-jul-2021/why-local-why-now-strengthening-intermediary-cities-to-achieve-the-sdgs | Intermediary cities' service/employment/rural-urban link roles; no demonstrated Telangana project outcomes |
