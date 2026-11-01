@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-2 Cycle162: MoFPI/Sagarmala expansions, Q14 source-arithmetic audit, 34-page CI PDF, downloaded artifact 13088333141 SHA/CRC/75-topic QA; zero approvals",
+    "last_reported_topic": "2-3-2 Cycle163: three source-bounded expansions, Q9 four-option author review, 35-page CI PDF, artifact 13090481841 downloaded CRC/SHA/75-topic QA; zero approvals",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -96,6 +96,31 @@
       },
       "normalized_R1_PASS": 14,
       "original_pdf_count": 75,
+      "independent_approvals": 0,
+      "post_control_packaging": "PENDING"
+    },
+    "cycle163": {
+      "date": "2026-11-01",
+      "topic": "2-3-2",
+      "sections_expanded": [
+        7,
+        10,
+        32
+      ],
+      "remaining_under300": 14,
+      "mcq_reviewed": 9,
+      "original_pdf_count": 75,
+      "readiness_count": 75,
+      "ci_pdf_pages": 35,
+      "ci_pdf_sha256": "a209ee0a295b840e634a076aae3ff7e1525e2b6d99080f36af3c478635e8b56a",
+      "actual_downloaded_artifact_id": 13090481841,
+      "artifact_sha256": "8efc807038e465257ea55064545c4ee07e2cca71ab4f7dbec2164b9a33907f48",
+      "readiness_status_counts": {
+        "IN_PROGRESS": 7,
+        "ASSESSED_REBUILD_REQUIRED": 68,
+        "NOT_ASSESSED": 0
+      },
+      "normalized_R1_PASS": 14,
       "independent_approvals": 0,
       "post_control_packaging": "PENDING"
     }
@@ -242,8 +267,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle94_five_primary_source_concept_expansions_ci_pending",
-      "notes": "26 Oct Turn15: one integrated Markdown now 14,408 approximate words, 32/40 concepts expanded in place, 0 under 200 words, 35 under 300 (R3 IN_PROGRESS). All 25 four-option explained MCQs editorially rewritten, Q22 ambiguity corrected; Q5/Q17/Q21 direct correct-key source-correspondence only, no independent item audit. Six structured mains and 2 vector diagrams remain; source register 13 entries. GitHub CI 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe matched independent local render. Packaging run 40346310854 artifact 12661726703 ACTUALLY DOWNLOADED; 1479 files, exactly 75 original PDFs/75 readiness JSON, 78 HTML, 463 links zero broken, outer/inner CRC PASS; legacy PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 unchanged. R2/R3/R4/R5/R6/R7/R8 NOT PASS; public browser and full accessibility pending; zero academic approval. Cycle93 30 Oct: 4 sections 27/28/29/39 expanded; whitespace-token under300 count 36->32 (not directly comparable to earlier Unicode 35); four MCQs 19/21/22/23 bounded author-side checked, Q22/Q23 rewritten; five new official source-register entries S14-S18; synchronized CI PDF and post-edit artifact QA PENDING. Zero independent approvals. Cycle94: 5 concepts expanded with NICDC/PLFS/Census, direct whitespace under300 27→22, prior reported 32 inconsistent; CI/downloaded QA pending; NOT approved.",
+      "production_review": "cycle163_three_source_bounded_expansions_35page_ci_pdf_actual_artifact_verified_academic_gates_pending",
+      "notes": "26 Oct Turn15: one integrated Markdown now 14,408 approximate words, 32/40 concepts expanded in place, 0 under 200 words, 35 under 300 (R3 IN_PROGRESS). All 25 four-option explained MCQs editorially rewritten, Q22 ambiguity corrected; Q5/Q17/Q21 direct correct-key source-correspondence only, no independent item audit. Six structured mains and 2 vector diagrams remain; source register 13 entries. GitHub CI 28-page PDF SHA256 21ee420ab6f96344447dd3e894d47a1730ab27a22dc1920d05f93b681c195afe matched independent local render. Packaging run 40346310854 artifact 12661726703 ACTUALLY DOWNLOADED; 1479 files, exactly 75 original PDFs/75 readiness JSON, 78 HTML, 463 links zero broken, outer/inner CRC PASS; legacy PDF SHA256 ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886 unchanged. R2/R3/R4/R5/R6/R7/R8 NOT PASS; public browser and full accessibility pending; zero academic approval. Cycle93 30 Oct: 4 sections 27/28/29/39 expanded; whitespace-token under300 count 36->32 (not directly comparable to earlier Unicode 35); four MCQs 19/21/22/23 bounded author-side checked, Q22/Q23 rewritten; five new official source-register entries S14-S18; synchronized CI PDF and post-edit artifact QA PENDING. Zero independent approvals. Cycle94: 5 concepts expanded with NICDC/PLFS/Census, direct whitespace under300 27→22, prior reported 32 inconsistent; CI/downloaded QA pending; NOT approved. Cycle163: concepts 7/10/32 expanded to 558/550/574 words; 14/40 still shallow, Q9 four-option author review, 35-page CI PDF SHA a209ee0a..., artifact 13090481841 downloaded CRC/SHA/75-topic QA PASS; independent reviews and R2-R8 pending, NOT approved.",
       "readiness_status": "IN_PROGRESS",
       "readiness_gate_file": "project-control/academic-readiness/2-3-2.json",
       "latest_readiness_evidence": "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json"

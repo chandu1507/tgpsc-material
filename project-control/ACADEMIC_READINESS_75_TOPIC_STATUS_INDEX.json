@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle162 actual post-render artifact 13088333141 independently downloaded and verified: SHA/digest 37825d96aac22c6456899d1c85a04ce32e82d861ca3537966303753cb47dc0fd, outer/inner CRC PASS, 2222 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 592 local links and 1581 fragments zero broken, 42 SPA routes excluded, 14 R1 PASS, 7/68/0 statuses, zero fully R1-R8 ready and zero independent approvals. QA/control commit postdates inspected artifact; verify subsequent package separately.",
+  "warning": "Cycle163 actual post-render artifact 13090481841 independently downloaded: SHA/digest 8efc807038e465257ea55064545c4ee07e2cca71ab4f7dbec2164b9a33907f48 MATCH, outer/inner CRC PASS, 2224 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local links/1581 fragments zero broken, 42 SPA routes excluded; 14 R1 PASS, 7/68/0 statuses, ZERO fully R1-R8 ready, ZERO independent approvals. QA/control commit postdates inspected artifact; verify subsequent package separately.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle162: Topic 2-3-2 concepts 18/36 source-backed expansions and MCQ14; 34-page PDF, actual artifact 13088333141 verified, 17/40 sections under300, no gate upgraded, zero independent approvals",
+  "last_readiness_update": "2026-11-01 Cycle163: Topic 2-3-2 sections 7/10/32 source-bounded expansions, Q9 option review, 35-page CI PDF and downloaded artifact 13090481841 verified; 14/40 sections under300, no gate upgraded, zero approvals",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle159-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle159-ncert-application-mcqs-and-bank-synchronization-2026-11-01.json",
