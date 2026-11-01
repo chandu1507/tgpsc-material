@@ -18,7 +18,7 @@
   "pdf_pages": 20,
   "academically_approved": false,
   "files_sha256": {
-    "QA-REPORT.md": "745a6f8d83feb8fcb2a45f4f336c23e3eb998ff3de97c565280887e8862384ea",
+    "QA-REPORT.md": "221a51b1dbc4215423d70af7a70b2bc80853acbdb125660e86873390a7cc2101",
     "README.md": "12adc65f557c79a5f8dcf68a450160a8f9dd472f4e801a0a82a8b165112a6caf",
     "index.html": "9ca2e9b10e083f535ca02805bf7c73b08fdf499d0344d9063d867d3c3162303a",
     "complete-notes.pdf": "564061e2c2e121aa0184c7bb465da5889bef10c7b45773aecc8ba70194bf2fc8",
@@ -31,12 +31,12 @@
     "source/quick-revision.md": "7b3e4b2d63991b6ca83d95248fff13866c9741880ee5385b495729fe641c696e",
     "source/complete-model-answers.md": "93fe1cc9164f8e76b1d36ab0e77fd6fa934239e5d4598e67fc2470132d0b4b86",
     "source/complete-notes.md": "d2f102bb14867b206bf6c65fc1677b8b6267d344a87668363b703f41695a732b",
-    "source/integrated-student-edition-cycle62.pdf": "27345b7a97fec7381270d472a23d4dd010757f3136bd5345fd40305f146d8062"
+    "source/integrated-student-edition-cycle62.pdf": "03f2ea8436ded31e12d43c0a7ac27f0f1195996e95e6ae7cda68de1c3a21b33e"
   },
   "academic_status": "not_approved",
   "integrated_pdf_status": "CI_rendered_pending_academic_audit",
   "integrated_pdf_pages": 25,
-  "integrated_pdf_sha256": "27345b7a97fec7381270d472a23d4dd010757f3136bd5345fd40305f146d8062",
+  "integrated_pdf_sha256": "03f2ea8436ded31e12d43c0a7ac27f0f1195996e95e6ae7cda68de1c3a21b33e",
   "official_syllabus_authenticated_this_cycle": false,
   "independent_academic_approvals": 0,
   "metrics": {
