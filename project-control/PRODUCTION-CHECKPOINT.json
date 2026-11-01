@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-1 Cycle159: MCQ2–4 source-correlated; 25-question bank synchronized across 3 files; post-render actual GitHub artifact 13084995066 independently checked; 0 expert approvals",
+    "last_reported_topic": "2-3-2 Cycle161: freight/WTO/multimodal primary-source expansions, original MCQ17 author-side audit, corrected 33-page CI PDF, actual downloaded artifact 13086809114 verified; zero expert approvals",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -45,6 +45,31 @@
         "ASSESSED_REBUILD_REQUIRED": 68,
         "NOT_ASSESSED": 0
       },
+      "independent_approvals": 0,
+      "post_control_packaging": "PENDING"
+    },
+    "cycle161": {
+      "date": "2026-11-01",
+      "topic": "2-3-2",
+      "source_expanded_sections": [
+        21,
+        23,
+        35
+      ],
+      "remaining_40_sections_under300": 19,
+      "original_mcq_in_place": 17,
+      "mcq_key": "C",
+      "pdf_pages": 33,
+      "pdf_sha256": "68a427cd2c5f63a56b823ad76753603e25489494f202c4216efa12d2563b0db0",
+      "packaging_run_id": 41316179358,
+      "actual_artifact_id": 13086809114,
+      "actual_artifact_sha256": "22247fa686b9ed14708f0009182c744febb278319322ef5038b6edb43d0fa316",
+      "readiness_status_counts": {
+        "IN_PROGRESS": 7,
+        "ASSESSED_REBUILD_REQUIRED": 68,
+        "NOT_ASSESSED": 0
+      },
+      "original_pdf_count": 75,
       "independent_approvals": 0,
       "post_control_packaging": "PENDING"
     }
