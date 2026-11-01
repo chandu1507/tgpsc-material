@@ -407,14 +407,14 @@ The following diagrams are original editorial learning aids. They are not offici
 
 **Correct: B.** Endogamy is within a specified unit; exogamy is outside a specified unit. A reverses the levels; C erases the exogamy distinction; D ignores different group boundaries. This pattern is context-specific, not a universal rule for all communities. **Evidence:** IGNOU *Kinship, Family and Marriage in India*, Unit 6 §6.5.1 (indexed university PDF); NCERT *Themes in Indian History* Ch.3 marriage rules (SATHEE indexed). **Limit:** Full IGNOU PDF timed out. **Type:** original practice, not official PYQ.
 
-## 6. Which source is most appropriate for the reference-year distribution of reported mother tongues?
+## 6. An officer needs (i) the 2011 district-level mother-tongue distribution by sex and rural/urban residence and (ii) the 2011 India/State-level count of speakers reporting additional languages. Which source-and-scope pairing is defensible?
 
-- **A.** Census of India 2011 C-16 tables
-- **B.** A current entertainment ranking
-- **C.** A city transport map
-- **D.** A later unsourced poll
+- **A.** Use Census C-16 for district mother-tongue breakdowns; use C-17 for India/State bilingualism and trilingualism, with rural and urban combined in the latter.
+- **B.** Use C-17 for district bilingualism by rural/urban residence; use C-16 only for national mother-tongue totals.
+- **C.** Use C-16 for both district mother-tongue counts and district counts of additional languages spoken.
+- **D.** Use C-17 for present-day 2026 language proficiency and compare it directly with C-16 district counts.
 
-**Correct: A.** C-16 is an official classification by mother tongue; it does not establish present-day proficiency or new 2026 counts.
+**Correct: A.** The ORGI C-16 metadata explicitly provides mother-tongue counts by sex and total/rural/urban residence at India, State, District, Tahsil and town levels. The C-17 catalogue instead describes bilingualism and trilingualism by additional languages **only at India/State level with rural and urban combined**. B invents district/rural-urban C-17 granularity and wrongly narrows C-16; C mistakes mother tongue for additional-language reporting; D treats 2011 self-reported language data as a 2026 proficiency test and mixes geographical units. **Direct metadata checked:** ORGI C-16 PC11_C16-00, https://censusindia.gov.in/nada/index.php/catalog/10191 ; ORGI C-17 PC11_C17-00, https://censusindia.gov.in/nada/index.php/catalog/10262 . **Limit:** Metadata and variable definitions were directly checked; underlying spreadsheet cell values and independent item review were not. **Type:** original practice, not official TGPSC PYQ.
 
 ## 7. Workers commute from a village to a nearby city while maintaining village kinship, land and market ties. Which interpretation fits the rural–urban continuum?
 
@@ -800,3 +800,8 @@ The ten additional questions were written as **original educational practice**, 
 - Original practice MCQ10 rewritten **in place** to test comparability; key **B** retained; A/C/D explicitly checked as incorrect against the stated source scope. No 26th MCQ created.
 - Directly consulted government sources: [Telangana CGG SEEEPC project](https://www.cgg.gov.in/it_project/socio-economic-education-employment-political-and-caste-seeepc-survey/), [Telangana State Profile](https://www.telangana.gov.in/About/State-Profile/), [ORGI Census data and catalogues](https://censusindia.gov.in/census.website/en/data).
 - **Limit:** Author-side source correlation only; no access to individual SEEEPC records or independent expert. R3/R4/R5/R8 remain incomplete and R9 not started. The original 75 PDFs and topic count must remain unchanged.
+
+
+## Cycle158 original MCQ 6 four-option evidence check — 1 November 2026
+
+This is a **replacement in place**, not a 26th MCQ. C-16 and C-17 official catalogue metadata were directly viewed. The Q6 key remains A, but the question now requires choosing both a measured variable and a defensible geographical unit. A is supported by C-16 and C-17 descriptions; B invents district-level C-17 results; C confuses mother-tongue counts with additional-language reporting; D misdates a 2011 table and invents a proficiency measure. The original C-16 and C-17 spreadsheets were not downloaded or statistically audited. The remaining MCQs and all six mains retain their existing limitations. **R4/R5/R8 are not PASS, and no independent academic approval is implied.**

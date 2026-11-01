@@ -6,10 +6,20 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-1 Cycle157: SEEEPC comparability expansion, MCQ10 rewrite, 34-page CI PDF, actual downloaded artifact 13080173911 CRC/digest/75-topic QA PASS",
+    "last_reported_topic": "3-1-1 Cycle158: C-16/C-17 source-scope MCQ6 corrected in place; local 36-page candidate; GitHub Actions publication and actual downloaded artifact NOT yet verified",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact."
+    "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
+    "cycle158": {
+      "date": "2026-11-01",
+      "topic": "3-1-1",
+      "original_mcq_count": 25,
+      "original_pdf_count": 75,
+      "question_revised": 6,
+      "local_pdf_pages": 36,
+      "academic_approvals": 0,
+      "github_postedit_artifact_qa": "PENDING"
+    }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [

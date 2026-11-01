@@ -1,0 +1,47 @@
+{
+  "cycle": 158,
+  "date": "2026-11-01",
+  "topic_id": "3-1-1",
+  "status": "AUTHOR_SIDE_PARTIAL_AUDIT_NOT_APPROVED",
+  "question": 6,
+  "key": "A",
+  "options_checked": 4,
+  "replaced_in_place": true,
+  "total_mcqs_unchanged": 25,
+  "sources": [
+    {
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10191",
+      "publisher": "ORGI",
+      "reference_id": "PC11_C16-00",
+      "direct_metadata_viewed": true,
+      "scope": "mother tongue by sex, rural/urban at India/State/District/Tahsil/town levels"
+    },
+    {
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10262",
+      "publisher": "ORGI",
+      "reference_id": "PC11_C17-00",
+      "direct_metadata_viewed": true,
+      "scope": "additional languages/bilingualism/trilingualism, India/State combined areas"
+    }
+  ],
+  "option_findings": {
+    "A": "Supported by both official metadata descriptions",
+    "B": "C-17 does not provide district/rural-urban breakdown as described; C-16 broader than national only",
+    "C": "C-16 does not measure additional languages",
+    "D": "2011 reference year, not 2026, and neither is a current proficiency test"
+  },
+  "not_verified": [
+    "Underlying XLSX cell values",
+    "Independent examiner review",
+    "Other 24 questions in this cycle",
+    "Full accessibility",
+    "GitHub Actions downloaded artifact"
+  ],
+  "gates": {
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_approvals": 0
+}
