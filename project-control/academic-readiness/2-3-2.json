@@ -43,9 +43,10 @@
     "project-control/academic-readiness/2-3-2-cycle162-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle164-three-concepts-planning-steel-periurban-source-audit-2026-11-01.json",
-    "project-control/academic-readiness/2-3-2-cycle164-actual-downloaded-postrender-artifact-qa-2026-11-01.json"
+    "project-control/academic-readiness/2-3-2-cycle164-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
+    "project-control/academic-readiness/2-3-2-cycle165-cotton-sugar-cement-auto-source-depth-audit-2026-11-01.json"
   ],
-  "next_action": "Cycle164: 38-page CI PDF verified, first downloaded postrender artifact 13092451515 CRC/digest/75 PDFs/75 readiness/634 links/1581 fragments PASS; source/control QA commit postdates inspected artifact, requires next package check. 16/40 sections below300. NOT APPROVED; independent MCQ/mains/diagram/accessibility audits pending.",
+  "next_action": "Cycle165: three industrial geography concepts expanded, 16→13 under300 by direct section-body count; local 39-page PDF candidate rendered. CI PDF, actual GitHub packaging download, MCQ/mains/diagram and accessibility audits pending. NOT APPROVED.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -331,5 +332,33 @@
     "R9": "NOT_STARTED",
     "pdf_sha256": "0d57d51e88d31f51499d651e78ff0598fd1cafa1244d792604d9c9e3982d5f18",
     "artifact_sha256": "4471f55e3488e33db267bc09d3dffd9033ff2464702a4194b5307d079b5a4d9f"
+  },
+  "cycle165_2026_11_01": {
+    "status": "THREE_INDUSTRIAL_CONCEPTS_EXPANDED_NOT_APPROVED",
+    "expanded_sections": [
+      14,
+      15,
+      16
+    ],
+    "section_body_words_after": {
+      "14": 600,
+      "15": 667,
+      "16": 636
+    },
+    "shallow_under300_before_after": [
+      16,
+      13
+    ],
+    "source_register": [
+      "S36",
+      "S37",
+      "S38",
+      "S39"
+    ],
+    "editable_master_sha256": "7b322552536844cec928b324b9b8361e88191230a9b61fccc2484a0245d255a0",
+    "local_pdf_candidate_pages": 39,
+    "ci_pdf": "PENDING",
+    "downloaded_artifact_qa": "PENDING",
+    "independent_approvals": 0
   }
 }
