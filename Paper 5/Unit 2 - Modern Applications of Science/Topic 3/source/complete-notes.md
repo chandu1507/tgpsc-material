@@ -245,17 +245,17 @@ For Telangana, a coherent agenda joins food-safety laboratories and digital trac
 
 ## Visual learning: original explanatory diagrams
 
-![Food safety preventive-control sequence](diagrams/01-food-safety-haccp.png)
+![Food safety preventive-control sequence](diagrams/01-haccp-corrected-cycle148.svg)
 
-*Figure 1.* Preventive food safety moves from hazard mapping to verified corrective action; finished-product testing alone cannot substitute for process control.
+*Figure 1 (corrected Cycle 148).* Seven HACCP principles are distinguished: when monitoring detects a deviation, corrective action must control the cause and disposition of affected product; verification evaluates effectiveness, while records cover every stage. Author-drafted schematic, checked against FAO/Codex principles [D01]; independent R7 review pending.
 
 ![Organic assurance and farm mechanisation decision paths](diagrams/02-organic-mechanisation.png)
 
 *Figure 2.* Certification, traceability and machinery services address different bottlenecks and require independent performance checks.
 
-![Contaminant-specific drinking-water treatment choices](diagrams/03-water-treatment.png)
+![Contaminant-specific drinking-water treatment choices](diagrams/03-water-treatment-branches-cycle148.svg)
 
-*Figure 3.* Choose water treatment from tested contaminants; ordinary disinfection cannot remove dissolved fluoride.
+*Figure 3 (corrected Cycle 148).* Test water first, select only the treatment branches required by measured microbial and chemical hazards, and re-test after treatment. Disinfection does not remove dissolved fluoride; fluoride and other chemicals need appropriate validated removal or safe-source strategies [D02]. Author-drafted schematic; independent R7 review pending.
 
 ## Mains answer blueprints (original practice)
 
@@ -814,3 +814,17 @@ All source references below identify the institution, date or reporting period, 
 
 **20 MCQs and 60 distractors still lack equivalent four-option reviews.** Cycle56's five limited correct-key checks are not double-counted. Six mains require claim-level review; all three diagrams require independent accuracy assessment, with two identified defects. Current Commission syllabus reauthentication, complete browser/print accessibility, downloaded final Actions artifact verification and named expert review remain outstanding. **R1–R8 incomplete; R9 NOT_STARTED; approvals ZERO.**
 
+
+## Cycle 148 — corrected explanatory diagrams and bounded source check (1 November 2026)
+
+The two inherited PNGs `01-food-safety-haccp.png` and `03-water-treatment.png` remain **preserved as historical drafts** but are no longer the diagrams presented to students. Their arrows had taught a misleading HACCP sequence and a universal serial water-treatment train, respectively. Corrected editable SVG schematics are now displayed in the master, offline HTML and PDF. Figure 2 remains the inherited PNG and still requires independent review.
+
+**HACCP correction:** The seven principles are hazard analysis, CCP identification, validated critical limits, monitoring, corrective actions, verification, and records. Monitoring a deviation triggers action on both its cause and affected product; verification evaluates the HACCP system, including corrective-action effectiveness. Documentation spans the system rather than occurring only after verification. Validation is distinguished from routine verification. [D01]
+
+**Water correction:** Water safety starts with source-specific microbiological and chemical testing. A microbial hazard may call for filtration and disinfection; excessive fluoride requires an effective fluoride-reduction or safe-source strategy, such as appropriately operated adsorption, Nalgonda treatment, reverse osmosis or blending where justified. Nitrate and arsenic require separate source control or validated contaminant-specific treatments. Where multiple hazards coexist, a combined train may be needed, followed by treated-water testing and safe management of waste streams. The branches are alternatives or combinations based on measurements, **not mandatory consecutive stages**. [D02]
+
+**[D01]** FAO GHP/HACCP Toolbox, 2023, 12-step HACCP sequence (steps 9–12), and FAO/WHO Codex General Principles of Food Hygiene CXC 1-1969: https://www.fao.org/good-hygiene-practices-haccp-toolbox/en and https://www.fao.org/4/Y1579E/y1579e03.htm (accessed 1 Nov 2026).
+
+**[D02]** WHO, Guidelines for Drinking-water Quality, fourth edition incorporating third addendum, published 17 June 2026, risk-based source-to-consumer management: https://www.who.int/publications/i/item/9789240121225 ; WHO Chapter 8 chemical treatment: https://www.who.int/docs/default-source/food-safety/arsenic/9789241549950-eng.pdf (accessed 1 Nov 2026).
+
+**Verification boundary:** Source-to-diagram mapping was checked by the author. No named independent academic expert has reviewed these figures; R7 remains IN_PROGRESS, not PASS. All 75 original PDFs and three original topic PNGs must remain unchanged.

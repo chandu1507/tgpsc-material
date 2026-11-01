@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="385" viewBox="0 0 900 385" role="img" aria-label="Original explanatory diagram, author-side source checked but not independently certified"><rect width="900" height="385" fill="white"/><text x="450" y="37" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" fill="#132A44">HACCP: monitor, correct deviations, verify</text>
+<rect x="20" y="70" width="200" height="65" rx="12" fill="#EAF2F7" stroke="#176AA3" stroke-width="2"/>
+<text x="120" y="95.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">1  Analyse</text>
+<text x="120" y="119.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">hazards</text>
+<rect x="240" y="70" width="200" height="65" rx="12" fill="#EAF2F7" stroke="#176AA3" stroke-width="2"/>
+<text x="340" y="95.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">2  Identify</text>
+<text x="340" y="119.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">CCPs</text>
+<rect x="460" y="70" width="200" height="65" rx="12" fill="#EAF2F7" stroke="#176AA3" stroke-width="2"/>
+<text x="560" y="95.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">3  Validate</text>
+<text x="560" y="119.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">critical limits</text>
+<rect x="680" y="70" width="200" height="65" rx="12" fill="#EAF2F7" stroke="#176AA3" stroke-width="2"/>
+<text x="780" y="95.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">4  Monitor</text>
+<text x="780" y="119.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">CCPs</text>
+<line x1="220" y1="103" x2="240" y2="103" stroke="#176AA3" stroke-width="3"/>
+<polygon points="230,97 240,103 230,109" fill="#176AA3"/>
+<line x1="440" y1="103" x2="460" y2="103" stroke="#176AA3" stroke-width="3"/>
+<polygon points="450,97 460,103 450,109" fill="#176AA3"/>
+<line x1="660" y1="103" x2="680" y2="103" stroke="#176AA3" stroke-width="3"/>
+<polygon points="670,97 680,103 670,109" fill="#176AA3"/>
+<line x1="780" y1="135" x2="780" y2="192" stroke="#176AA3" stroke-width="3"/>
+<polygon points="774,182 780,192 786,182" fill="#176AA3"/>
+<text x="770" y="166" text-anchor="end" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#A04820">Deviation</text>
+<rect x="680" y="210" width="200" height="75" rx="12" fill="#FFF2DF" stroke="#176AA3" stroke-width="2"/>
+<text x="780" y="240.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">5  Correct cause</text>
+<text x="780" y="264.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">and affected product</text>
+<rect x="460" y="210" width="200" height="75" rx="12" fill="#EAF2F7" stroke="#176AA3" stroke-width="2"/>
+<text x="560" y="240.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">6  Verify controls</text>
+<text x="560" y="264.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">and effectiveness</text>
+<rect x="240" y="210" width="200" height="75" rx="12" fill="#EAF2F7" stroke="#176AA3" stroke-width="2"/>
+<text x="340" y="240.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">7  Record and</text>
+<text x="340" y="264.5" text-anchor="middle" font-size="19" fill="#132A44" font-family="DejaVu Sans, sans-serif">review evidence</text>
+<line x1="680" y1="246" x2="660" y2="246" stroke="#176AA3" stroke-width="3"/>
+<polygon points="670,240 660,246 670,252" fill="#176AA3"/>
+<line x1="460" y1="246" x2="440" y2="246" stroke="#176AA3" stroke-width="3"/>
+<polygon points="450,240 440,246 450,252" fill="#176AA3"/>
+<text x="450" y="325" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#132A44">Records span all stages; verification is not a substitute for corrective action.</text>
+<text x="450" y="357" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#43546C">Plan validation is required before use and after significant changes.</text></svg>
