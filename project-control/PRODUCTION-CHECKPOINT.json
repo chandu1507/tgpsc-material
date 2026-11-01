@@ -9,7 +9,7 @@
     "last_reported_topic": "5-2-4 (Q27 correction)",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle147: Q27 corrected, CDC source register, PDF glyph guard; post-edit CI artifact not yet independently downloaded. 75 originals, 7/68/0, 14 R1, zero approvals."
+    "note": "Cycle147 5-2-4 Q27 corrected; CI 28-page PDF, actual downloaded artifact 13064032394 independently QA PASS. 75 originals, 7/68/0, 14 R1, zero approvals. Evidence commit postdates inspected artifact."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -679,8 +679,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle147_q27_corrected_ci_publication_pending",
-      "notes": "Cycle145 10 original MCQs (Q1/3/5/9/10/13/17/23/24/29) reviewed at author-side four-option level; 20 MCQs/60 distractors remain; Q27 ambiguous as written. CI 27-page integrated PDF SHA256 441da6ecea37a66184ca59fd5d97014faf8476074ec4cb3c8d2727b92d911fc0; actual downloaded artifact 13060393127 SHA/CRC/75 originals/75 readiness/634 local links/1581 fragments PASS. Six mains claim audits, three diagrams, full browser accessibility and independent expert review remain. NOT APPROVED. Cycle147: Q27 corrected in place against CDC S24/S25; 11 keys/33 distractors author-side reviewed, 19 keys/57 distractors pending; original PDF preserved, CI artifact pending; zero approvals.",
+      "production_review": "cycle147_q27_corrected_ci_pdf_and_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle145 10 original MCQs (Q1/3/5/9/10/13/17/23/24/29) reviewed at author-side four-option level; 20 MCQs/60 distractors remain; Q27 ambiguous as written. CI 27-page integrated PDF SHA256 441da6ecea37a66184ca59fd5d97014faf8476074ec4cb3c8d2727b92d911fc0; actual downloaded artifact 13060393127 SHA/CRC/75 originals/75 readiness/634 local links/1581 fragments PASS. Six mains claim audits, three diagrams, full browser accessibility and independent expert review remain. NOT APPROVED. Cycle147: Q27 corrected in place against CDC S24/S25; 11 keys/33 distractors author-side reviewed, 19 keys/57 distractors pending; original PDF preserved, CI artifact pending; zero approvals. Cycle147 actual post-render artifact 13064032394 downloaded and SHA/CRC/75 originals/591 local links/1581 fragments PASS; 28-page CI PDF SHA 07dab6a9..., zero NUL; not academic approval.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-4.json"
     },
