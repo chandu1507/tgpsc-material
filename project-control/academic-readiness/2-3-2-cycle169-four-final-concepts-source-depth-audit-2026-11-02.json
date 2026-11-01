@@ -1,0 +1,64 @@
+{
+  "cycle": 169,
+  "date": "2026-11-02",
+  "topic_id": "2-3-2",
+  "base_main": "dd99488949119a92da1c2beabaadc527bfdba738",
+  "master_blob_sha": "fe290014c7a23f1f36736d419158ad966717ad52",
+  "status": "IN_PROGRESS_NOT_APPROVED",
+  "expanded_sections": [
+    12,
+    22,
+    25,
+    30
+  ],
+  "before_under300": [
+    12,
+    22,
+    25,
+    30
+  ],
+  "after_under300": [],
+  "body_only_words_after": {
+    "12": 565,
+    "22": 586,
+    "25": 587,
+    "30": 555
+  },
+  "method": "40 unique Part C sections; whitespace token count of section body, excluding headings",
+  "sources": [
+    {
+      "id": "S52",
+      "url": "https://nicdc.in/projects/12-new-projects/zaheerabad-telangana",
+      "scope": "Planned Zaheerabad industrial node Phase 1, not realised employment or investment"
+    },
+    {
+      "id": "S53",
+      "url": "https://www.shipmin.gov.in/division/transport-research",
+      "scope": "Major and non-major port data series separately listed; individual data tables not independently downloaded"
+    },
+    {
+      "id": "S54",
+      "url": "https://censusindia.gov.in/census.website/en/data/population-finder",
+      "scope": "2011 PCA geographical levels and indicators; not current enumeration"
+    }
+  ],
+  "illustrative_calculations": "All factory location, port-route and district-density calculations explicitly hypothetical",
+  "preservation": {
+    "original_topic_pdf_count": 75,
+    "topic_id_count": 75,
+    "original_mcqs": 25,
+    "original_mains": 6
+  },
+  "qa": {
+    "local_candidate_pdf_pages": 45,
+    "local_candidate_pdf_sha256": "e7f9b59b7e069cd2bd9ed2a1eaef2a52d3c0da273bd82e18fd78c3627e9c2df2",
+    "local_pdf_blank_glyph_bounds": "PASS",
+    "github_ci_pdf": "PENDING",
+    "downloaded_github_artifact": "PENDING",
+    "full_browser_accessibility": "NOT_CERTIFIED",
+    "independent_mcq_mains_diagram_review": "NOT_COMPLETE",
+    "fully_R1_R8_ready": false,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED"
+  }
+}

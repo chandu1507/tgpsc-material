@@ -51,9 +51,10 @@
     "project-control/academic-readiness/2-3-2-cycle167-agriculture-rice-wheat-official-source-depth-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle167-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json",
-    "project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/2-3-2-cycle169-four-final-concepts-source-depth-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle168 three source-bounded concept expansions and 43-page GitHub PDF verified in downloaded artifact 13100283709; 7→4 sections below300 body-only. The QA evidence/control commit postdates inspected artifact, so repackage and download again. All 25 MCQ options, six mains, diagrams and browser accessibility still need independent review. Zero approvals.",
+  "next_action": "Cycle169 §§12/22/25/30 expanded with bounded NICDC/MoPSW/ORGI sources; 4→0 Part C concepts below300 body-only. Local candidate 45-page PDF passed first-pass checks; GitHub CI and actual downloaded artifact QA pending. R2–R8 remain incomplete, R9 not started, zero independent approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -481,5 +482,28 @@
     "pdf_sha256": "afe1747ac579cc3733e87050d8a09229ef98178669d14a25a7e696cf67735d32",
     "artifact_sha256": "ab627d81df91aa977c7a82e2a88712b7af5acfb23823c354c0d8c1a276ffabf5",
     "qa_evidence": "project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+  },
+  "cycle169_2026_11_02": {
+    "status": "FOUR_CONCEPTS_EXPANDED_NOT_APPROVED",
+    "evidence": "project-control/academic-readiness/2-3-2-cycle169-four-final-concepts-source-depth-audit-2026-11-02.json",
+    "sections": [
+      12,
+      22,
+      25,
+      30
+    ],
+    "under300_before_after": [
+      4,
+      0
+    ],
+    "source_register": [
+      "S52",
+      "S53",
+      "S54"
+    ],
+    "candidate_pdf_pages": 45,
+    "github_ci": "PENDING",
+    "actual_artifact_qa": "PENDING",
+    "independent_approvals": 0
   }
 }
