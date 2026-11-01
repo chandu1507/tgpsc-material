@@ -9,7 +9,7 @@
     "last_reported_topic": "5-2-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle146 5-2-5: 12 primary-source option reviews, CI PDF and downloaded post-render artifact QA verified. 75 originals, 7/68/0, 14 normalized R1 PASS, 0 fully R1-R8, 0 approvals."
+    "note": "Cycle146 5-2-5: 12 primary-source four-option MCQ reviews, 29-page glyph-corrected CI PDF and actual downloaded artifact 13062758322 QA verified. 75 original PDFs unchanged, 7/68/0, 14 R1, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -692,7 +692,7 @@
       "pdf_published": true,
       "academic_status": "not_approved",
       "production_review": "cycle146_twelve_source_correlated_four_option_mcqs_ci_pdf_and_actual_downloaded_artifact_verified_academic_rebuild_pending",
-      "notes": "Cycle146: 12 existing original practice MCQs author-side source-correlated (12 keys/36 distractors); 18 questions/54 distractors, six mains claim-level audits, 3 diagrams, browser and independent review pending. CI integrated 29-page PDF SHA256 45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc; actual downloaded GitHub artifact 13062608390 SHA/CRC PASS, 2175 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 591 local links/1581 fragments zero broken. R8 IN_PROGRESS, R9 NOT_STARTED, approval ZERO.",
+      "notes": "Cycle146: 12 existing original practice MCQs author-side source-correlated (12 keys/36 distractors); 18 questions/54 distractors, six mains claim-level audits, 3 diagrams, browser and independent review pending. CI integrated 29-page PDF SHA256 c60bb4beec74e554aaf9224f7f1e204549f7108c85afa3ce37d9271429fb8fec; actual downloaded GitHub artifact 13062758322 SHA/CRC PASS, 2175 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 591 local links/1581 fragments zero broken. R8 IN_PROGRESS, R9 NOT_STARTED, approval ZERO. PDF Unicode arrow/minus NUL glyph defect found and corrected in CI, zero remaining NULs.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-5.json"
     },
@@ -1179,20 +1179,21 @@
     "date": "2026-11-01",
     "topic": "5-2-5",
     "source_audit": "Paper 5/Unit 2 - Modern Applications of Science/Topic 5/source/academic-option-audit-cycle146.md",
-    "downloaded_artifact_qa": "project-control/academic-readiness/5-2-5-cycle146-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
-    "github_ci_run_id": 41254648886,
-    "github_ci_pdf_sha256": "45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc",
+    "downloaded_artifact_qa": "project-control/academic-readiness/5-2-5-cycle146-glyph-fixed-downloaded-artifact-qa-2026-11-01.json",
+    "github_ci_run_id": 41255181181,
+    "github_ci_pdf_sha256": "c60bb4beec74e554aaf9224f7f1e204549f7108c85afa3ce37d9271429fb8fec",
     "github_ci_pdf_pages": 29,
-    "packaging_run": 41254739003,
-    "artifact_id": 13062608390,
-    "artifact_sha256": "21d1e8bf1a38e680840523bddae92b4458bd2c1da7c66e8e9e68701cfe9f6c99",
+    "packaging_run": 41255238594,
+    "artifact_id": 13062758322,
+    "artifact_sha256": "3285b86521a7fc27d2c7867992f32922caa191c7996f78453b05c081cb4dd8e0",
     "topic_counts": {
       "IN_PROGRESS": 7,
       "ASSESSED_REBUILD_REQUIRED": 68,
       "NOT_ASSESSED": 0
     },
     "fully_ready": 0,
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "pdf_unsupported_glyphs": 0
   },
   "recent_evidence": [
     "project-control/academic-readiness/4-3-4-cycle135-actual-downloaded-post-offline-fix-artifact-qa-2026-10-31.json",
