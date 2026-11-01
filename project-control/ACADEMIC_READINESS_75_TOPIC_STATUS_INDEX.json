@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle155: 20 original Q11-Q30 option reviews (20 keys/60 distractors), Q22 causal claim corrected; 36-page Topic5-3-5 CI PDF SHA 8c74bd3778e957ee972e2314dee60a935665946f90d63e8c4f6cb51c1f9603ee; actual downloaded artifact 13077770405 SHA/CRC PASS, 2208 files, 75 original PDFs unchanged, 75 readiness records, 92 HTML, 592 local links/1581 fragments zero broken; 7/68/0, 14 R1 PASS, zero R1-R8 ready and zero approvals. Evidence commit postdates inspected archive.",
+  "warning": "Cycle156 Topic3-1-1: official C16/C17/Telangana boundary correction and six original mains claim-group matrix; 34-page CI PDF SHA f48410c5038fef857ac78e763ce03e10ad16ab6c5f9e233b9ad83871a7d5de64; actual downloaded post-render artifact 13079067383 SHA/CRC PASS, 2211 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 592 local links/1581 fragments zero broken; 7/68/0, 14 normalized R1 PASS, zero R1-R8 complete and zero independent approvals. Evidence/control commit postdates inspected archive.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
