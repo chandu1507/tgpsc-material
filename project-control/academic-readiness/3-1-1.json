@@ -39,7 +39,8 @@
     "project-control/academic-readiness/3-1-1-cycle89-actual-downloaded-github-artifact-qa-2026-10-29.json",
     "project-control/academic-readiness/3-1-1-cycle156-language-geography-and-six-mains-claim-audit-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle156-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
-    "project-control/academic-readiness/3-1-1-cycle157-seeepc-measurement-and-mcq10-audit-2026-11-01.json"
+    "project-control/academic-readiness/3-1-1-cycle157-seeepc-measurement-and-mcq10-audit-2026-11-01.json",
+    "project-control/academic-readiness/3-1-1-cycle157-actual-downloaded-artifact-qa-2026-11-01.json"
   ],
   "next_action": "Independently review 25 MCQ keys and all 100 options; complete six mains and diagram audits, browser accessibility, and evidence-linked R1-R8. Cycle157 expanded SEEEPC measurement analysis and corrected MCQ10; GitHub CI PDF and downloaded artifact QA pending.",
   "external_reviewer": null,
@@ -346,6 +347,12 @@
     "gate_R8": "IN_PROGRESS",
     "gate_R9": "NOT_STARTED",
     "independent_approvals": 0,
-    "ci_pdf_and_downloaded_artifact_qa": "PENDING"
+    "ci_pdf_and_downloaded_artifact_qa": "PASS_ACTUAL_DOWNLOADED",
+    "renderer_run": 41299478126,
+    "packaging_run": 41299526674,
+    "artifact_id": 13080173911,
+    "integrated_pdf_pages": 34,
+    "integrated_pdf_sha256": "fda25851739ddf2d48f1abfce278f815db8f2d2e63219b7af9823a8251d4c108",
+    "unchanged_original_pdfs": 75
   }
 }
