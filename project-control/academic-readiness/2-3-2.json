@@ -40,9 +40,10 @@
     "project-control/academic-readiness/2-3-2-cycle161-freight-wto-multimodal-source-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle162-mofpi-sagarmala-and-mcq14-audit-2026-11-01.json",
-    "project-control/academic-readiness/2-3-2-cycle162-actual-downloaded-post-render-artifact-qa-2026-11-01.json"
+    "project-control/academic-readiness/2-3-2-cycle162-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
+    "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json"
   ],
-  "next_action": "Cycle162 34-page CI PDF and downloaded artifact 13088333141 verified (2222 files, 75 originals unchanged, 75 readiness JSON, CRC/digest, 592 local links, 1581 fragments, 42 SPA routes excluded). QA/control commit postdates inspected artifact. 17/40 concepts below300; independent MCQ/mains/diagram/accessibility checks pending. NOT APPROVED.",
+  "next_action": "Cycle163 35-page CI PDF and actual artifact 13090481841 independently verified: 2224 files, 75 original PDFs unchanged, 75 readiness JSON, CRC/digest, 634 local links, 1581 fragments, 42 SPA routes excluded. 14/40 concepts remain under300; complete independent MCQ/mains/diagram/accessibility audits pending. This control commit postdates inspected artifact; verify later package separately. NOT APPROVED.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -251,6 +252,49 @@
     "R9": "NOT_STARTED",
     "independent_approval": false,
     "pdf_sha256": "29e1c8a3e5e10f16d43938176fbdd7f1b52c79b326beee8bfbcb9209b288989d",
+    "post_control_packaging": "PENDING"
+  },
+  "cycle163_2026_11_01": {
+    "status": "THREE_SOURCE_BOUNDED_CONCEPT_EXPANSIONS_NOT_APPROVED",
+    "expanded_sections": [
+      7,
+      10,
+      32
+    ],
+    "whitespace_words_before_after": {
+      "7": [
+        236,
+        558
+      ],
+      "10": [
+        265,
+        550
+      ],
+      "32": [
+        244,
+        574
+      ]
+    },
+    "remaining_40_sections_under300": 14,
+    "original_mcq9_key": "D",
+    "original_mcq9_options_reviewed_author_side": 4,
+    "source_ids": [
+      "S30",
+      "S31",
+      "S32"
+    ],
+    "ci_pdf_pages": 35,
+    "ci_pdf_sha256": "a209ee0a295b840e634a076aae3ff7e1525e2b6d99080f36af3c478635e8b56a",
+    "downloaded_artifact_id": 13090481841,
+    "downloaded_artifact_sha256": "8efc807038e465257ea55064545c4ee07e2cca71ab4f7dbec2164b9a33907f48",
+    "outer_inner_crc": "PASS",
+    "original_pdfs_unchanged": 75,
+    "readiness_json": 75,
+    "local_links_checked": 634,
+    "dom_fragments_checked": 1581,
+    "spa_routes_excluded": 42,
+    "academic_approvals": 0,
+    "R9": "NOT_STARTED",
     "post_control_packaging": "PENDING"
   }
 }
