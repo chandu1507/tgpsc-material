@@ -36,11 +36,16 @@ styles={
  'cellhead':ParagraphStyle('cellhead',fontName='NotoBold',fontSize=7.2,leading=10.5,textColor=colors.white),
  'note':ParagraphStyle('note',fontName='Noto',fontSize=7.3,leading=10.5,textColor=colors.HexColor('#43546C')),
 }
+def pdf_safe(value):
+    """Normalize unsupported glyphs in PDF only; preserve Unicode editable master."""
+    table={"→":" -> ","←":" <- ","↔":" <-> ","−":"-","–":"-","≥":">=","≤":"<=","≠":"!=","×":"x","÷":"/","≈":"~","∴":"therefore","•":"-"}
+    return ''.join(table.get(ch,ch) for ch in value)
+
 def inline_html(tok):
     parts=[]
     for t in tok.children or []:
-        if t.type=='text':parts.append(html.escape(t.content))
-        elif t.type=='code_inline':parts.append('<font name="NotoBold">'+html.escape(t.content)+'</font>')
+        if t.type=='text':parts.append(html.escape(pdf_safe(t.content)))
+        elif t.type=='code_inline':parts.append('<font name="NotoBold">'+html.escape(pdf_safe(t.content))+'</font>')
         elif t.type=='strong_open':parts.append('<b>')
         elif t.type=='strong_close':parts.append('</b>')
         elif t.type=='em_open':parts.append('<i>')
@@ -112,6 +117,7 @@ doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargi
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
+assert all('\x00' not in page.get_text() for page in pdf), 'Unsupported PDF glyphs detected'
 qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 if args.qa:
     args.qa.parent.mkdir(parents=True,exist_ok=True)

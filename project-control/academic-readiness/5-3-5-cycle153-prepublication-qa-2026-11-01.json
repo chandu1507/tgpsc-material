@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-01",
+  "cycle": 153,
+  "topic_id": "5-3-5",
+  "status": "AUTHOR_SIDE_REBUILD_IN_PROGRESS",
+  "concept_word_counts": {
+    "1": 238,
+    "2": 386,
+    "3": 545,
+    "4": 255,
+    "5": 373,
+    "6": 240,
+    "7": 501,
+    "8": 239,
+    "9": 225,
+    "10": 324,
+    "11": 515,
+    "12": 212,
+    "13": 512,
+    "14": 327,
+    "15": 237,
+    "16": 250,
+    "17": 231,
+    "18": 221
+  },
+  "explanatory_under_300": 8,
+  "mcq_stems_four_option_reviewed_this_cycle": 10,
+  "mcq_options_reviewed_this_cycle": 40,
+  "source_correlated_questions": 8,
+  "provisional_domain_questions": [
+    2,
+    10
+  ],
+  "original_mcq_count": 30,
+  "original_mains_count": 6,
+  "independent_approvals": 0,
+  "original_topic_pdf_preserved": true,
+  "github_ci_render_verified": false,
+  "actual_post_edit_artifact_verified": false
+}
