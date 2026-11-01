@@ -26,8 +26,8 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-3-cycle148-corrected-diagrams-ci-preflight-2026-11-01.json",
-  "next_action": "Cycle148 corrected two source-grounded diagrams (SVG) and CI rendered 30-page PDF; independent R7 assessment, 20 MCQs/60 distractors, six mains, direct syllabus, browser and downloaded final artifact QA still pending. No R1-R8 completion or R9.",
+  "evidence": "project-control/academic-readiness/5-2-3-cycle148-final-downloaded-artifact-qa-2026-11-01.json",
+  "next_action": "Cycle148 corrected two diagrams; actual GitHub artifact 13066025921 SHA/CRC/75-original/link QA PASS. Pending 20 MCQ keys/60 distractors, six mains, independent diagrams including Figure 2, syllabus, browser and expert review; R7/R8 IN_PROGRESS, R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -106,6 +106,8 @@
     "ci_pdf_sha256": "8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65",
     "local_links": 591,
     "local_broken": 0,
-    "artifact_final_verified": false
+    "artifact_final_verified": true,
+    "artifact_id": 13066025921,
+    "artifact_sha256": "7958228b79f8f773df68c6f5d1129afe0768175793f74802b1d51c11f6a93b10"
   }
 }
