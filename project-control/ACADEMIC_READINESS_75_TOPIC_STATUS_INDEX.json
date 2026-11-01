@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle163 actual post-render artifact 13090481841 independently downloaded: SHA/digest 8efc807038e465257ea55064545c4ee07e2cca71ab4f7dbec2164b9a33907f48 MATCH, outer/inner CRC PASS, 2224 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local links/1581 fragments zero broken, 42 SPA routes excluded; 14 R1 PASS, 7/68/0 statuses, ZERO fully R1-R8 ready, ZERO independent approvals. QA/control commit postdates inspected artifact; verify subsequent package separately. Direct Cycle162 vs Cycle163 section-body whitespace recount gives 22→19 under300; previous Cycle162 17 and Cycle163 14 are inconsistent and must not be reused.",
+  "warning": "Cycle164 three concepts expanded, but CI PDF, actual GitHub artifact CRC/SHA/link QA and /Mounika/ delivery are PENDING. Cycle163 direct count 19/40; Cycle164 direct count 16/40. Do not reuse contradicted Cycle162 17 or Cycle163 extrapolated 14. 7/68/0 statuses, 14 R1 PASS, zero fully R1-R8 and zero approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle163: Topic 2-3-2 sections 7/10/32 source-bounded expansions, Q9 option review, 35-page CI PDF and downloaded artifact 13090481841 verified; 19/40 sections under300 (direct body count; previous 17/14 contradicted), no gate upgraded, zero approvals",
+  "last_readiness_update": "2026-11-01 Cycle164: Topic2-3-2 concepts6/13/38 expanded with directly consulted official source metadata/policy/report; 19→16 under300 by section-body whitespace; PDF/artifact QA PENDING, zero approvals",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-cycle164-three-concepts-planning-steel-periurban-source-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle159-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
