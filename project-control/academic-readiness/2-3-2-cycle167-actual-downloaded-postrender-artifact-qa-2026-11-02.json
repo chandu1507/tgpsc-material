@@ -1,0 +1,62 @@
+{
+  "cycle": 167,
+  "date": "2026-11-02",
+  "topic_id": "2-3-2",
+  "github_package_run_id": 41343956785,
+  "github_package_run_conclusion": "success",
+  "github_artifact_id": 13098217872,
+  "github_artifact_sha256": "7be18dab2de9df843656e43ee03dd247bdbea0bee2d76b771e4ceccd704fe67b",
+  "artifact_actually_downloaded": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "files": 2231,
+  "original_topic_pdfs": 75,
+  "original_pdf_hash_mismatches_vs_cycle166": 0,
+  "readiness_json": 75,
+  "html_pages": 92,
+  "local_references_checked": 634,
+  "broken_local_references": 0,
+  "dom_fragments_checked": 1581,
+  "broken_dom_fragments": 0,
+  "spa_routes_excluded": 42,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1_PASS": 14,
+  "fully_R1_to_R8_ready": 0,
+  "independent_approvals": 0,
+  "integrated_pdf_pages": 42,
+  "integrated_pdf_sha256": "de401b9ff397be4643d02fa3d8f98dfee8d550b2d300ed80610c5f68f664b229",
+  "blank_pages": 0,
+  "nul_or_replacement_glyph_pages": 0,
+  "out_of_bounds_text_blocks": 0,
+  "verified_pdf_phrases": [
+    "How to measure a regional agricultural advantage",
+    "Water accounting, not a slogan",
+    "Rice–wheat rotation is a system"
+  ],
+  "visually_sampled_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    42
+  ],
+  "source_master_sha256": "c0ad11cd6be8539ac83a6f75f38f76de66756bc7ebfa9747c2b018224b07015e",
+  "source_evidence_present_in_downloaded_artifact": true,
+  "mechanical_sections_under300": 7,
+  "remaining_shallow_ids": [
+    4,
+    5,
+    8,
+    12,
+    22,
+    25,
+    30
+  ],
+  "academic_certified": false,
+  "accessibility_certified": false,
+  "limitation": "This QA/control commit postdates inspected artifact. The next package requires a fresh actual download, CRC/digest/link/75-topic check. Browser and screen-reader testing not certified."
+}
