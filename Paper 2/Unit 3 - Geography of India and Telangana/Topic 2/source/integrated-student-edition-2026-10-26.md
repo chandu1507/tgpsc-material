@@ -183,6 +183,11 @@ This integrated case connects agriculture, industrial localisation, transport an
 
 **Evidence warning:** This supplement is original explanatory material. Numerical claims require a dated official statistical source before examination use; it does not certify the existing chapter as academically approved.
 
+**Cold-chain design follows the product, not a scheme label.** The Ministry of Food Processing Industries' Integrated Cold Chain and Value Addition Infrastructure programme covers farm-level handling, pre-cooling, grading, storage, processing, distribution hubs and refrigerated vehicles [S27]. A cold store without rapid field collection or reliable refrigerated last-mile transport may merely move the location of spoilage. For mangoes, tomatoes or milk, map the hours between harvest and first cooling, time to processing, storage conditions, road interruptions and market rejection. Do not assume the same handling requirements for every commodity. Revised guidelines dated 22 May 2025 specify a mandatory processing-centre component and distinguish farm-level infrastructure, distribution hubs and refrigerated transport. These are programme design requirements, not evidence that each funded project reduced wastage.
+
+**Worked siting test (hypothetical, not government statistics).** Suppose 100 tonnes of identical fruit arrive at four candidate catchments. If measured end-to-end losses are 12%, 6%, 9% and 3%, saleable volumes are 88, 94, 91 and 97 tonnes. The fourth site protects the most volume even if it is not the closest. This does *not* establish highest profit: freight charges, energy, wages, capital costs, sale price and disposal costs must be included before selecting an investment. The PMFME One District One Product approach supports shared procurement, common services and marketing [S28], but a district's ODOP designation alone does not prove sufficient supply or commercial viability. For Telangana, test a proposed cluster against seasonal arrivals, farmer participation, reliable electricity and local water stress, rather than treating an announced subsidy as a measured benefit.
+
+
 ### 19. Industrial corridors and regional development
 
 Industrial corridors combine transport backbones with planned industrial nodes, logistics, utilities and urban development. Their objective is not simply to place factories along a road; they seek networked agglomeration and lower logistics cost. Economic gains depend on land governance, connectivity to ports and markets, skills, environmental infrastructure and integration with surrounding towns. In 2026, the National Industrial Corridor framework included projects such as Delhi–Mumbai and Hyderabad-linked corridors, demonstrating the use of corridor planning as regional-development policy.
@@ -374,6 +379,13 @@ A port’s economic reach depends on its hinterland connections. Rail lines, hig
 
 **Interpreting statistics.** The FY2025–26 major-port cargo figure in the government factsheet refers to tonnage handled by the major-port group, not all Indian ports and not the value of exports [S5]. To assess competitiveness, examine vessel turnaround, cargo mix, hinterland access and reliability. A Telangana exporter needs an efficient inland link to the gateway, not merely a shorter straight-line distance. A good mains answer connects port functions to industrial geography, environmental safeguards and distribution of economic gains. **Source anchors:** [S2,S5,S12].
 
+**Connectivity is a chain of constraints.** The Ministry of Ports, Shipping and Waterways describes Sagarmala's connectivity pillar as linking ports to domestic production and consumption centres through rail, road, pipelines and multimodal logistics parks [S29]. A new berth increases ship-side capacity but actual throughput can still be constrained by railway rakes, customs dwell time, warehouse space or highway queues. Raising only one link's capacity need not increase total route capacity. For an inland Telangana exporter, compare complete door-to-vessel logistics, not straight-line distance. A gateway with a longer road approach can still be cheaper when rail frequency, trans-shipment, clearance reliability and shipping schedules are favourable.
+
+**Worked network comparison (illustrative).** An inland exporter compares Port A at 650 km and Port B at 780 km. Suppose the quoted door-to-vessel cost is Rs 68,000 via A and Rs 61,000 via B per container. B is Rs 7,000 cheaper despite an extra 130 km. However, if B's delay risk threatens a time-sensitive contract, expected penalties and schedule reliability must enter the comparison. This is a hypothetical decision model, not an observed Indian tariff. The policy question is whether public investment reduces *end-to-end* cost and variability, not merely whether new infrastructure was built.
+
+**Coastal industrialisation has distributional costs.** Sagarmala separates port-led industrialisation from port connectivity and coastal community development [S29]. An export cluster may gain from imported inputs but still require careful appraisal of land acquisition, effluent treatment, fishing access and cyclone exposure. Track operating jobs, local procurement and ecological outcomes after commissioning; an announced project or planned investment does not prove those benefits. Distinguish major-port cargo tonnage, all-port tonnage, container throughput and trade value: each measures a different phenomenon. A mains answer should integrate hinterland economics, industrial location and coastal livelihood safeguards.
+
+
 ### 37. Migration as a spatial adjustment mechanism
 
 Migration redistributes labour between regions with unequal jobs, wages, land pressure and demographic structures. Rural-to-urban flows support construction, manufacturing and services, while seasonal migration can supplement farm household income. Migrants also face insecure housing, weak portability of services and occupational risk. Source regions may benefit from remittances but lose particular skill groups. Population geography should therefore treat migration not as an abnormal problem but as an adjustment mechanism whose welfare effects depend on portability, affordable housing, transport and labour rights.
@@ -544,14 +556,14 @@ D. Cotton can be grown only under continuously saturated soil conditions
 
 **Answer: C.** The association is strong in parts of the Deccan but not exclusive; management and climate also matter. **Source anchors:** [S3]. Key source-correlated; field-level claims not independently audited.
 
-### Q14. When comparing two otherwise similar sites for a *fresh-fruit processing* plant, which combination is most decisive?
+### Q14. A fruit processor receives 100 tonnes of identical fruit at each candidate site. Verified end-to-end collection and handling losses are 12% at A, 6% at B, 9% at C and 3% at D. Assuming identical starting volume, which site gives the greatest *saleable fruit volume*, without implying it necessarily maximises profit?
 
-A. Proximity to the largest city even when fruit collection delays are severe  
-B. Lowest electricity tariff despite unreliable farm supply and road access  
-C. Cheapest land even when cold-chain and transport access are inadequate  
-D. Reliable seasonal fruit catchment, rapid collection, cold chain and market access  
+A. Site A: 88 tonnes remaining, with the shortest road distance  
+B. Site B: 94 tonnes remaining, with an existing refrigerated-truck service  
+C. Site C: 91 tonnes remaining, with lower land rent  
+D. Site D: 97 tonnes remaining, with reliable collection, pre-cooling and refrigerated dispatch  
 
-**Answer: D.** Raw-material perishability and logistics are central to fruit processing; other listed factors are not comparably direct. **Source anchors:** [S2,S3]. Key source-correlated; distractor discrimination pending.
+**Answer: D.** Saleable volume is 100 x (1 - loss rate): A 88, B 94, C 91, D 97 tonnes. A is wrong despite shorter distance; B has a plausible logistics advantage but lower saleable volume; C has cheaper land but greater losses. This is a hypothetical teaching example, not government project data. Profitability additionally requires freight, energy, capital, labour and price comparisons. **Source anchors:** [S27,S28]. All four options checked against arithmetic and the MoFPI supply-chain framework; independent field testing and official PYQ authentication remain absent.
 
 ### Q15. Which is an example of an *external agglomeration economy* for firms in an industrial cluster?
 
@@ -753,5 +765,9 @@ D. Restricting labour mobility while concentrating skills in one metropolis
 | S25 | [Government PM GatiShakti factsheet, April 2025](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202541530501.pdf) | Official planning description: 16 ministries; 115 road projects evaluated as of 13 March 2025. Appraised projects are not automatically completed projects or measured outcomes. |
 | S26 | [Department of Commerce Annual Report 2023-24](https://www.commerce.gov.in/ministryofcommerce/sites/default/files/2025-04/Annual-Report-English-Lower-Resolution-1.pdf) | Primary historical FY 2023-24: merchandise exports US$437.10bn, services exports US$341.11bn, total US$778.21bn. Not 2026 figures, domestic value added or employment. |
 
+
+| S27 | [MoFPI Integrated Cold Chain scheme](https://mofpi.gov.in/en/Schemes/about-cold-chain) and [revised guidelines, 22 May 2025](https://www.mofpi.gov.in/sites/default/files/operational_revised_cold_chain_scheme_duidelines_dated_22.05.2025.pdf) | Directly consulted 1 Nov 2026: farm-level infrastructure, processing, distribution hubs and refrigerated transport. Programme design, not measured losses. |
+| S28 | [MoFPI PMFME One District One Product](https://mofpi.gov.in/en/pmfme/one-district-one-product) | Directly consulted 1 Nov 2026: shared procurement, services and marketing; ODOP designation is not a viability audit. |
+| S29 | [MoPSW Sagarmala overview](https://www.shipmin.gov.in/division/sagarmala) and [Port Connectivity](https://sagarmala.gov.in/project/port-connectivity) | Directly consulted 1 Nov 2026: distinct connectivity, industrialisation and community pillars; announced projects are not measured outcomes. |
 
 **Limitations:** R1 syllabus mapping checked; R2 consolidation requires human deduplication; R3 many concepts remain shallow; R4 source checks incomplete; R5 25 questions drafted but not externally audited; R6 six answers drafted, source review pending; R7 diagrams require accuracy review; R8 PDF/public browser not yet verified. **R9 NOT STARTED. Zero academic approvals.**
