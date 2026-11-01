@@ -1,7 +1,7 @@
 {
   "topic_id": "5-3-5",
   "title": "Decision Making and Problem Solving: Structured Administrative Situations",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,9 +26,9 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet. Cycle63 CI rendered 26-page integrated PDF SHA256 3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747; final GitHub Actions artifact 12823195126 actually downloaded, outer/inner CRC PASS, 75 original PDFs unchanged, 447 local links and 1135 DOM fragments zero broken. Thirteen explanatory concepts remain below300; academic/browser checks outstanding.",
-  "next_action": "Substantively expand remaining 13 shallow explanatory concepts and meet one full page per concept; independent 30-key/90-distractor and six mains claim audits; diagram and browser accessibility checks. R8 IN_PROGRESS, R9 NOT_STARTED.",
+  "evidence": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet. Cycle63 CI rendered 26-page integrated PDF SHA256 3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747; final GitHub Actions artifact 12823195126 actually downloaded, outer/inner CRC PASS, 75 original PDFs unchanged, 447 local links and 1135 DOM fragments zero broken. Thirteen explanatory concepts remain below300; academic/browser checks outstanding. Cycle153 author-side expansion of §§3/7/11/13, 10 four-option reviews (2 provisional), 2024 procurement/grievance and 2025 DPDP commencement source updates. CI publication and independent academic review still pending.",
+  "next_action": "Nine or more explanatory sections still need full-page depth; 20 unreviewed MCQs, Q2/Q10 domain evidence, six mains, three diagrams, browser and named expert review. Preserve R1 PASS only; no R9.",
   "external_reviewer": null,
   "student_accepted": false,
-  "latest_evidence": "project-control/academic-readiness/5-3-5-cycle63-actual-downloaded-final-artifact-qa-2026-10-28.json"
+  "latest_evidence": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5/source/academic-option-audit-cycle153.md"
 }
