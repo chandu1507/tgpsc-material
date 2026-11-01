@@ -918,28 +918,191 @@ A structured administrative situation should be solved by defining the public ob
 
 **Substantive correction:** Q22 previously read like a guaranteed causal chain. Its B option and explanation now distinguish a *testable program theory* from demonstrated outcomes. The answer letter stays B.
 
-| Question | Key | A | B | C | D | Evidence tier / limit |
-|---|:---:|---|---|---|---|---|
-| Q11 | D | A: Same label conceals distinct timing and legal powers. | B: Recruitment cannot be presumed immediate or authorised. | C: Redeployment may reduce coverage elsewhere. | D: Correct: compare legality, timing, displaced work and durable capacity. | Conceptual; local service/staffing rules not authenticated. |
-| Q12 | B | A: Post-failure blame is not prospective risk analysis. | B: Correct: imagine a future failure to expose causes now. | C: Defending the preferred plan defeats the exercise. | D: Concealment prevents mitigation. | Conceptual method; Gary Klein (2007) bibliography, original HBR text not directly opened. |
-| Q13 | B | A: Stratification can improve coverage when properly designed. | B: Correct: smartphone-only respondents may systematically exclude others. | C: Dates alone do not create a biased selection. | D: Ward comparisons are not intrinsically selection bias. | Conceptual sampling principle; no population estimate claimed. |
-| Q14 | C | A: A party-funded test alone is not conclusive. | B: Discarding all data forfeits potentially useful evidence. | C: Correct: independent competent testing, provenance and appropriate controls. | D: Publicly attributing guilt before investigation is unjustified. | Conceptual evidentiary safeguard; no specific environmental testing protocol consulted. |
-| Q15 | B | A: An emergency does not automatically suspend procurement law. | B: Correct: authorised route, contemporaneous record and later review. | C: Familial preference conflicts with impartial evaluation. | D: A blanket prohibition on urgent purchases is unsafe. | [A1] Union procurement guidance; Telangana applicability not established. |
-| Q16 | B | A: Complaints are relevant evidence, not irrelevant noise. | B: Correct: lower counts may reflect better service OR barriers to reporting. | C: Trend alone cannot prove service improvement. | D: Trend alone cannot establish corruption. | [A2] DARPG grievance feedback/access; interpretation is inferential. |
-| Q17 | B | A: Popularity cannot displace legal protections. | B: Correct: lawful process and rights are feasibility constraints. | C: Publicity is not a legal authorisation. | D: Slogans are not enforceable criteria. | General rights/legality principle; no vendor-relocation statute authenticated. |
-| Q18 | B | A: Defined stop conditions strengthen evaluation. | B: Correct: set observable pause/correct/stop triggers before implementation. | C: A stopping rule does not guarantee success. | D: Consultation duties remain. | Conceptual monitoring design; not a mandatory statutory formula. |
-| Q19 | C | A: Car ownership excludes many shelter users. | B: Representatives alone cannot reveal all access needs. | C: Correct: examine disability, age, transport and other barriers. | D: Social-media access is not a vulnerability proxy. | [A3] NDMA multi-channel warning design; [A7] inclusive-access principles, not a shelter allocation order. |
-| Q20 | B | A: Headcount alone ignores an unserved remote school. | B: Correct: test minimum access, remoteness, workload, travel and authority. | C: Automatic assignment ignores lawful staffing norms. | D: Equal time ignores travel and timetable feasibility. | [A7] Samagra Shiksha equity framework; Telangana teacher-deployment rules not checked. |
-| Q21 | B | A: Punishment before inquiry undermines due process. | B: Correct: temporary safety measures differ from adjudicated liability. | C: Destroying records impedes verification. | D: Suppression obstructs accountability. | Conceptual administrative fairness; case-specific disciplinary rules not checked. |
-| Q22 | B | A: Repeating an application is not a logic model. | B: Correct as a *hypothesis*: deployment, tested workflow and measured results are distinct stages. | C: Expenditure alone is not an outcome. | D: Publicity does not cause automatic compliance. | [A5] CDC 2024 logic-model guidance; causal chain must be tested, not assumed. |
-| Q23 | B | A: Silencing objections increases groupthink. | B: Correct: independent alternatives and structured challenge reduce premature consensus. | C: First suggestion is not necessarily best. | D: Unverified rumours are not evidence. | Conceptual group-decision safeguard; no controlled trial of this exact tactic checked. |
-| Q24 | C | A: Vague institution has no accountable owner. | B: Unnamed coordination lacks deadline and escalation. | C: Correct: identified log owner plus decision authority. | D: Diffuse responsibility prevents clear accountability. | [A2] DARPG nodal-officer responsibilities, used analogically outside CPGRAMS. |
-| Q25 | B | A: Pilot design still requires measurement. | B: Correct: bounded, reversible tests limit exposure to uncertainty. | C: Pilots cannot waive rights or law. | D: Reversibility does not guarantee zero cost. | Conceptual experimentation principle; safety-sensitive pilots may still be inappropriate. |
-| Q26 | C | A: Reassurance alone gives no protective instruction. | B: Blame before evidence risks false attribution. | C: Correct: area, action, safe alternatives, contact and update time. | D: Indefinite silence leaves residents unable to act. | [A6] WHO actionable risk communication; local advisory specifics need health authority. |
-| Q27 | C | A: Rainfall is a plausible confounder. | B: The observation may be true but is not a causal claim. | C: Correct: dry-year before/after change cannot prove full repair effect. | D: Comparison is needed for attribution. | [A5] CDC contextual factors in evaluation; not a quantified causal-effect estimate. |
-| Q28 | B | A: Technical failure is not proof of legal ineligibility. | B: Correct: lawful alternative identification and assisted access, with records. | C: Concealing failures hides exclusion. | D: Smartphone ownership is not universal entitlement condition. | [A4] UIDAI Aadhaar Act §§4(6), 7, 8(2) (as applicable); scheme-specific rules must still be checked. |
-| Q29 | B | A: Scores do not erase rights. | B: Correct: rights, statutes and minimum safeguards constrain choices. | C: Media timing is not a rights limitation. | D: Cost alone cannot authorise unlawful action. | General constitutional/administrative principle; no particular litigation claimed. |
-| Q30 | A | A: Correct: count attempted applications and verify eligible receipt. | B: Disposal may include rejection, not benefit delivery. | C: Removing assistance can conceal access barriers. | D: Authentication failure is not legal ineligibility. | [A2] grievance outcomes, [A4] Aadhaar exception-handling; 95% is hypothetical. |
+### Readable option-by-option review (Q11–Q30)
+
+The following notes review existing original practice questions. The selected answer is not a claim of independent academic certification.
+
+#### Q11 — Proposed answer D
+
+- **A:** Same label conceals distinct timing and legal powers.
+- **B:** Recruitment cannot be presumed immediate or authorised.
+- **C:** Redeployment may reduce coverage elsewhere.
+- **D (proposed correct answer):** Correct: compare legality, timing, displaced work and durable capacity.
+
+**Evidence tier / unresolved limitation:** Conceptual; local service/staffing rules not authenticated.
+
+#### Q12 — Proposed answer B
+
+- **A:** Post-failure blame is not prospective risk analysis.
+- **B (proposed correct answer):** Correct: imagine a future failure to expose causes now.
+- **C:** Defending the preferred plan defeats the exercise.
+- **D:** Concealment prevents mitigation.
+
+**Evidence tier / unresolved limitation:** Conceptual method; Gary Klein (2007) bibliography, original HBR text not directly opened.
+
+#### Q13 — Proposed answer B
+
+- **A:** Stratification can improve coverage when properly designed.
+- **B (proposed correct answer):** Correct: smartphone-only respondents may systematically exclude others.
+- **C:** Dates alone do not create a biased selection.
+- **D:** Ward comparisons are not intrinsically selection bias.
+
+**Evidence tier / unresolved limitation:** Conceptual sampling principle; no population estimate claimed.
+
+#### Q14 — Proposed answer C
+
+- **A:** A party-funded test alone is not conclusive.
+- **B:** Discarding all data forfeits potentially useful evidence.
+- **C (proposed correct answer):** Correct: independent competent testing, provenance and appropriate controls.
+- **D:** Publicly attributing guilt before investigation is unjustified.
+
+**Evidence tier / unresolved limitation:** Conceptual evidentiary safeguard; no specific environmental testing protocol consulted.
+
+#### Q15 — Proposed answer B
+
+- **A:** An emergency does not automatically suspend procurement law.
+- **B (proposed correct answer):** Correct: authorised route, contemporaneous record and later review.
+- **C:** Familial preference conflicts with impartial evaluation.
+- **D:** A blanket prohibition on urgent purchases is unsafe.
+
+**Evidence tier / unresolved limitation:** [A1] Union procurement guidance; Telangana applicability not established.
+
+#### Q16 — Proposed answer B
+
+- **A:** Complaints are relevant evidence, not irrelevant noise.
+- **B (proposed correct answer):** Correct: lower counts may reflect better service OR barriers to reporting.
+- **C:** Trend alone cannot prove service improvement.
+- **D:** Trend alone cannot establish corruption.
+
+**Evidence tier / unresolved limitation:** [A2] DARPG grievance feedback/access; interpretation is inferential.
+
+#### Q17 — Proposed answer B
+
+- **A:** Popularity cannot displace legal protections.
+- **B (proposed correct answer):** Correct: lawful process and rights are feasibility constraints.
+- **C:** Publicity is not a legal authorisation.
+- **D:** Slogans are not enforceable criteria.
+
+**Evidence tier / unresolved limitation:** General rights/legality principle; no vendor-relocation statute authenticated.
+
+#### Q18 — Proposed answer B
+
+- **A:** Defined stop conditions strengthen evaluation.
+- **B (proposed correct answer):** Correct: set observable pause/correct/stop triggers before implementation.
+- **C:** A stopping rule does not guarantee success.
+- **D:** Consultation duties remain.
+
+**Evidence tier / unresolved limitation:** Conceptual monitoring design; not a mandatory statutory formula.
+
+#### Q19 — Proposed answer C
+
+- **A:** Car ownership excludes many shelter users.
+- **B:** Representatives alone cannot reveal all access needs.
+- **C (proposed correct answer):** Correct: examine disability, age, transport and other barriers.
+- **D:** Social-media access is not a vulnerability proxy.
+
+**Evidence tier / unresolved limitation:** [A3] NDMA multi-channel warning design; [A7] inclusive-access principles, not a shelter allocation order.
+
+#### Q20 — Proposed answer B
+
+- **A:** Headcount alone ignores an unserved remote school.
+- **B (proposed correct answer):** Correct: test minimum access, remoteness, workload, travel and authority.
+- **C:** Automatic assignment ignores lawful staffing norms.
+- **D:** Equal time ignores travel and timetable feasibility.
+
+**Evidence tier / unresolved limitation:** [A7] Samagra Shiksha equity framework; Telangana teacher-deployment rules not checked.
+
+#### Q21 — Proposed answer B
+
+- **A:** Punishment before inquiry undermines due process.
+- **B (proposed correct answer):** Correct: temporary safety measures differ from adjudicated liability.
+- **C:** Destroying records impedes verification.
+- **D:** Suppression obstructs accountability.
+
+**Evidence tier / unresolved limitation:** Conceptual administrative fairness; case-specific disciplinary rules not checked.
+
+#### Q22 — Proposed answer B
+
+- **A:** Repeating an application is not a logic model.
+- **B (proposed correct answer):** Correct as a *hypothesis*: deployment, tested workflow and measured results are distinct stages.
+- **C:** Expenditure alone is not an outcome.
+- **D:** Publicity does not cause automatic compliance.
+
+**Evidence tier / unresolved limitation:** [A5] CDC 2024 logic-model guidance; causal chain must be tested, not assumed.
+
+#### Q23 — Proposed answer B
+
+- **A:** Silencing objections increases groupthink.
+- **B (proposed correct answer):** Correct: independent alternatives and structured challenge reduce premature consensus.
+- **C:** First suggestion is not necessarily best.
+- **D:** Unverified rumours are not evidence.
+
+**Evidence tier / unresolved limitation:** Conceptual group-decision safeguard; no controlled trial of this exact tactic checked.
+
+#### Q24 — Proposed answer C
+
+- **A:** Vague institution has no accountable owner.
+- **B:** Unnamed coordination lacks deadline and escalation.
+- **C (proposed correct answer):** Correct: identified log owner plus decision authority.
+- **D:** Diffuse responsibility prevents clear accountability.
+
+**Evidence tier / unresolved limitation:** [A2] DARPG nodal-officer responsibilities, used analogically outside CPGRAMS.
+
+#### Q25 — Proposed answer B
+
+- **A:** Pilot design still requires measurement.
+- **B (proposed correct answer):** Correct: bounded, reversible tests limit exposure to uncertainty.
+- **C:** Pilots cannot waive rights or law.
+- **D:** Reversibility does not guarantee zero cost.
+
+**Evidence tier / unresolved limitation:** Conceptual experimentation principle; safety-sensitive pilots may still be inappropriate.
+
+#### Q26 — Proposed answer C
+
+- **A:** Reassurance alone gives no protective instruction.
+- **B:** Blame before evidence risks false attribution.
+- **C (proposed correct answer):** Correct: area, action, safe alternatives, contact and update time.
+- **D:** Indefinite silence leaves residents unable to act.
+
+**Evidence tier / unresolved limitation:** [A6] WHO actionable risk communication; local advisory specifics need health authority.
+
+#### Q27 — Proposed answer C
+
+- **A:** Rainfall is a plausible confounder.
+- **B:** The observation may be true but is not a causal claim.
+- **C (proposed correct answer):** Correct: dry-year before/after change cannot prove full repair effect.
+- **D:** Comparison is needed for attribution.
+
+**Evidence tier / unresolved limitation:** [A5] CDC contextual factors in evaluation; not a quantified causal-effect estimate.
+
+#### Q28 — Proposed answer B
+
+- **A:** Technical failure is not proof of legal ineligibility.
+- **B (proposed correct answer):** Correct: lawful alternative identification and assisted access, with records.
+- **C:** Concealing failures hides exclusion.
+- **D:** Smartphone ownership is not universal entitlement condition.
+
+**Evidence tier / unresolved limitation:** [A4] UIDAI Aadhaar Act §§4(6), 7, 8(2) (as applicable); scheme-specific rules must still be checked.
+
+#### Q29 — Proposed answer B
+
+- **A:** Scores do not erase rights.
+- **B (proposed correct answer):** Correct: rights, statutes and minimum safeguards constrain choices.
+- **C:** Media timing is not a rights limitation.
+- **D:** Cost alone cannot authorise unlawful action.
+
+**Evidence tier / unresolved limitation:** General constitutional/administrative principle; no particular litigation claimed.
+
+#### Q30 — Proposed answer A
+
+- **A (proposed correct answer):** Correct: count attempted applications and verify eligible receipt.
+- **B:** Disposal may include rejection, not benefit delivery.
+- **C:** Removing assistance can conceal access barriers.
+- **D:** Authentication failure is not legal ineligibility.
+
+**Evidence tier / unresolved limitation:** [A2] grievance outcomes, [A4] Aadhaar exception-handling; 95% is hypothetical.
+
+
 
 ## Sources and provenance
 
