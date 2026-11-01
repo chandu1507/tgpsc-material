@@ -397,14 +397,14 @@ The Office of the Registrar General and Census Commissioner publishes the **2011
 
 **Correct: B.** A community may prescribe marriage within a caste while forbidding unions within a particular lineage or gotra.
 
-## 6. Which source is most appropriate for the reference-year distribution of reported mother tongues?
+## 6. An officer needs (i) the 2011 district-level mother-tongue distribution by sex and rural/urban residence and (ii) the 2011 India/State-level count of speakers reporting additional languages. Which source-and-scope pairing is defensible?
 
-- **A.** Census of India 2011 C-16 tables
-- **B.** A current entertainment ranking
-- **C.** A city transport map
-- **D.** A later unsourced poll
+- **A.** Use Census C-16 for district mother-tongue breakdowns; use C-17 for India/State bilingualism and trilingualism, with rural and urban combined in the latter.
+- **B.** Use C-17 for district bilingualism by rural/urban residence; use C-16 only for national mother-tongue totals.
+- **C.** Use C-16 for both district mother-tongue counts and district counts of additional languages spoken.
+- **D.** Use C-17 for present-day 2026 language proficiency and compare it directly with C-16 district counts.
 
-**Correct: A.** C-16 is an official classification by mother tongue; it does not establish present-day proficiency or new 2026 counts.
+**Correct: A.** The ORGI C-16 metadata explicitly provides mother-tongue counts by sex and total/rural/urban residence at India, State, District, Tahsil and town levels. The C-17 catalogue instead describes bilingualism and trilingualism by additional languages **only at India/State level with rural and urban combined**. B invents district/rural-urban C-17 granularity and wrongly narrows C-16; C mistakes mother tongue for additional-language reporting; D treats 2011 self-reported language data as a 2026 proficiency test and mixes geographical units. **Direct metadata checked:** ORGI C-16 PC11_C16-00, https://censusindia.gov.in/nada/index.php/catalog/10191 ; ORGI C-17 PC11_C17-00, https://censusindia.gov.in/nada/index.php/catalog/10262 . **Limit:** Metadata and variable definitions were directly checked; underlying spreadsheet cell values and independent item review were not. **Type:** original practice, not official TGPSC PYQ.
 
 ## 7. Which statement best expresses the rural–urban continuum?
 
