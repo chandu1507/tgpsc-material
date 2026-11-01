@@ -43,7 +43,7 @@
     "project-control/academic-readiness/2-3-2-cycle162-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json"
   ],
-  "next_action": "Cycle163 35-page CI PDF and actual artifact 13090481841 independently verified: 2224 files, 75 original PDFs unchanged, 75 readiness JSON, CRC/digest, 634 local links, 1581 fragments, 42 SPA routes excluded. 14/40 concepts remain under300; complete independent MCQ/mains/diagram/accessibility audits pending. This control commit postdates inspected artifact; verify later package separately. NOT APPROVED.",
+  "next_action": "Cycle163 35-page CI PDF and actual artifact 13090481841 independently verified: 2224 files, 75 original PDFs unchanged, 75 readiness JSON, CRC/digest, 634 local links, 1581 fragments, 42 SPA routes excluded. 19/40 concepts remain under300; complete independent MCQ/mains/diagram/accessibility audits pending. This control commit postdates inspected artifact; verify later package separately. NOT APPROVED. Direct count method reconciled 22→19; earlier 17/14 figures not comparable.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -275,7 +275,7 @@
         574
       ]
     },
-    "remaining_40_sections_under300": 14,
+    "remaining_40_sections_under300": 19,
     "original_mcq9_key": "D",
     "original_mcq9_options_reviewed_author_side": 4,
     "source_ids": [
@@ -295,6 +295,11 @@
     "spa_routes_excluded": 42,
     "academic_approvals": 0,
     "R9": "NOT_STARTED",
-    "post_control_packaging": "PENDING"
+    "post_control_packaging": "PENDING",
+    "direct_count_before_after": [
+      22,
+      19
+    ],
+    "historical_count_discrepancy": "Prior Cycle162 claim 17 was contradicted by direct whitespace body count 22; Cycle163 directly 19. No claim of 14."
   }
 }
