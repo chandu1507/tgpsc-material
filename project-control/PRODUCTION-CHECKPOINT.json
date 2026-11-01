@@ -9,7 +9,7 @@
     "last_reported_topic": "5-2-3 (two corrected diagrams)",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle148 two corrected vector diagrams in 5-2-3; 30-page CI PDF; local integrity checks PASS, final downloaded artifact pending. 75 originals, 7/68/0, zero approvals."
+    "note": "Cycle148 5-2-3 two diagrams corrected; 30-page CI PDF; downloaded artifact 13066025921 SHA/CRC/75 originals/591 links/1581 fragments PASS. 7/68/0, 14 R1, zero approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -667,8 +667,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle148_two_diagrams_corrected_ci_30page_pdf_final_artifact_qa_pending",
-      "notes": "Original 24-page PDF preserved. Cycle56 18 concepts >=300 words, six mains 200-250 body words, 30 original practice MCQs; five bounded keys only. GitHub-CI 27-page integrated PDF SHA256 f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656. Actual downloaded artifact 12798062580 verified, 75 originals unchanged, links/CRC/manifest pass. 25 keys, all 90 distractors, mains, diagrams, syllabus and browser review outstanding; ZERO approval. Cycle144 1 Nov: 10 existing MCQs Q2/3/4/5/6/7/8/19/20/26 audited at author-side option level (10 keys/30 distractors); 20 keys/60 distractors, six mains and independent diagram checks pending. Diagram 01 HACCP corrective-action sequence and diagram 03 serial treatment implication require correction. CI PDF 29 pages SHA eb37db004c11d2171c98059e4588255337d07a30d69f387ed75fa412779d3bc7; actual downloaded post-render artifact 13059017891 SHA/CRC/75 originals/75 readiness/591 local links/1581 fragments PASS; diagram and academic approvals remain ZERO. Cycle148: two defective diagram flows corrected with new editable SVGs; 30-page CI PDF SHA 8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65; 75 originals unchanged, local 591 links/1581 fragments zero broken; final artifact not yet downloaded; R7/R8 IN_PROGRESS, independent approvals ZERO.",
+      "production_review": "cycle148_corrected_diagrams_ci_pdf_and_actual_downloaded_artifact_verified_academic_audit_pending",
+      "notes": "Original 24-page PDF preserved. Cycle56 18 concepts >=300 words, six mains 200-250 body words, 30 original practice MCQs; five bounded keys only. GitHub-CI 27-page integrated PDF SHA256 f10d53f847aee8a50f92c794255da5c73856c2ad946a5726027185eb16668656. Actual downloaded artifact 12798062580 verified, 75 originals unchanged, links/CRC/manifest pass. 25 keys, all 90 distractors, mains, diagrams, syllabus and browser review outstanding; ZERO approval. Cycle144 1 Nov: 10 existing MCQs Q2/3/4/5/6/7/8/19/20/26 audited at author-side option level (10 keys/30 distractors); 20 keys/60 distractors, six mains and independent diagram checks pending. Diagram 01 HACCP corrective-action sequence and diagram 03 serial treatment implication require correction. CI PDF 29 pages SHA eb37db004c11d2171c98059e4588255337d07a30d69f387ed75fa412779d3bc7; actual downloaded post-render artifact 13059017891 SHA/CRC/75 originals/75 readiness/591 local links/1581 fragments PASS; diagram and academic approvals remain ZERO. Cycle148: two defective diagram flows corrected with new editable SVGs; 30-page CI PDF SHA 8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65; 75 originals unchanged, local 591 links/1581 fragments zero broken; final artifact 13066025921 downloaded and SHA/CRC/link QA PASS; R7/R8 IN_PROGRESS, independent approvals ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-3.json"
     },
