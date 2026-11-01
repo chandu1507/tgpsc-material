@@ -50,9 +50,10 @@
     "project-control/academic-readiness/2-3-2-cycle166-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle167-agriculture-rice-wheat-official-source-depth-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-2-cycle167-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json"
+    "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json",
+    "project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle168 §§4/5/8 source-bounded expansions; 7→4 sections below300 by body-only count (12,22,25,30). Render integrated PDF in CI, download actual post-merge package and check CRC/SHA/75 originals/links; full 25 MCQ, six mains, diagrams and browser audits remain unfinished. Zero approvals.",
+  "next_action": "Cycle168 three source-bounded concept expansions and 43-page GitHub PDF verified in downloaded artifact 13100283709; 7→4 sections below300 body-only. The QA evidence/control commit postdates inspected artifact, so repackage and download again. All 25 MCQ options, six mains, diagrams and browser accessibility still need independent review. Zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -467,8 +468,8 @@
       "S51"
     ],
     "academic_evidence": "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json",
-    "integrated_pdf": "CI_RENDER_PENDING",
-    "actual_postmerge_artifact": "PENDING",
+    "integrated_pdf": "CI_RENDER_SUCCESS_43_PAGES_ACTUAL_DOWNLOADED",
+    "actual_postmerge_artifact": "VERIFIED_13100283709_CRC_SHA_75_ORIGINALS_592_LOCAL_LINKS_1581_FRAGMENTS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
@@ -476,6 +477,9 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "pdf_sha256": "afe1747ac579cc3733e87050d8a09229ef98178669d14a25a7e696cf67735d32",
+    "artifact_sha256": "ab627d81df91aa977c7a82e2a88712b7af5acfb23823c354c0d8c1a276ffabf5",
+    "qa_evidence": "project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   }
 }
