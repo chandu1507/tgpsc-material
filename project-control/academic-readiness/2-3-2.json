@@ -37,9 +37,10 @@
     "project-control/academic-readiness/2-3-2-cycle93-actual-downloaded-github-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle94-nicdc-plfs-census-depth-reconciliation-2026-10-30.json",
     "project-control/academic-readiness/2-3-2-cycle94-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/2-3-2-cycle161-freight-wto-multimodal-source-audit-2026-11-01.json"
+    "project-control/academic-readiness/2-3-2-cycle161-freight-wto-multimodal-source-audit-2026-11-01.json",
+    "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json"
   ],
-  "next_action": "Cycle161 three substantive freight/WTO/multimodal source-bounded expansions and original MCQ17 four-option author-side check; deterministic CI PDF, actual downloaded artifact QA, remaining depth/MCQ/mains/diagram/browser/expert checks pending. No academic approval.",
+  "next_action": "Cycle161: 3 source-backed expansions and MCQ17 author audit; corrected 33-page CI PDF actually downloaded with CRC/SHA/75-topic/link QA PASS. 19/40 sections still under300; complete MCQ/mains/diagram/browser/expert checks pending. NOT APPROVED.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -209,13 +210,18 @@
     "mcq_key_retained": "C",
     "independent_mcq_validation": false,
     "original_topic_pdf_preserved_required": true,
-    "ci_pdf": "PENDING",
-    "actual_artifact_download": "PENDING",
+    "ci_pdf": "GITHUB_RENDER_SUCCESS_ACTUAL_DOWNLOADED",
+    "actual_artifact_download": "VERIFIED_ARTIFACT_13086809114",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
     "R5": "IN_PROGRESS",
     "R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "pdf_pages": 33,
+    "pdf_sha256": "68a427cd2c5f63a56b823ad76753603e25489494f202c4216efa12d2563b0db0",
+    "glyph_nul_count": 0,
+    "remaining_whitespace_sections_below300": 19,
+    "qa_evidence": "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json"
   }
 }
