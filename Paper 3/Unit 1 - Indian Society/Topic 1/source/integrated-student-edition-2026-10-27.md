@@ -371,32 +371,32 @@ The following diagrams are original editorial learning aids. They are not offici
 
 **Correct: B.** Census 2011 uses normal co-residence and a common kitchen, with specified exceptions; kinship can span residences. A ignores separate kitchens; C excludes one-person households; D confuses surname with enumeration. **Evidence:** ORGI *District Census Handbook, Wayanad, Census 2011* household definitions (official indexed PDF); NCERT *Indian Society* Ch.3 §3.3 (SATHEE indexed text). **Limit:** Full Census PDF could not be opened in this cycle. **Type:** original practice, not official PYQ.
 
-## 2. Which thinker is strongly associated with the 'dominant caste' concept?
+## 2. In a village, an intermediate caste has substantial landholdings, large numbers and influence over local elections, but is not the highest-ranked caste in ritual terms. Which inference best applies M. N. Srinivas's concept of a dominant caste?
 
-- **A.** M. N. Srinivas
-- **B.** Irawati Karve
-- **C.** Louis Wirth
-- **D.** Verrier Elwin
+- **A.** Numerical strength, agrarian resources and political influence can produce local dominance without the highest ritual rank.
+- **B.** Ritual rank alone determines dominance, even when a group lacks land, numbers and political influence.
+- **C.** A caste can be dominant only when it is the smallest group in a village and owns no agricultural land.
+- **D.** Dominant caste is a constitutional reservation category automatically conferred on every landowning family.
 
-**Correct: A.** Srinivas stressed local numerical, economic and political resources; ritual status alone cannot explain dominance.
+**Correct: A.** NCERT *Indian Society*, Chapter 3 §3.1, attributes the concept to M. N. Srinivas and explains how land rights, large numbers and electoral power shaped the influence of intermediate castes. A follows that account; B mistakes ritual hierarchy for the sole determinant of local power; C reverses the stated demographic and agrarian factors; D invents a constitutional classification. The scenario is illustrative, not evidence about a named village. **Evidence:** NCERT chapter text directly read via a third-party reproduction (Philoid, https://philoid.com/ncert/chapter/lesy103 , §3.1); prior SATHEE concept correspondence. **Limit:** Official NCERT PDF retrieval returned HTTP 502 in this review; Srinivas's original monograph was not consulted. **Type:** original practice, not official TGPSC PYQ.
 
-## 3. Which proposition correctly distinguishes Sanskritisation from eliminating caste?
+## 3. Members of a caste adopt ritual, domestic and social practices associated with a higher-status caste, while marriage boundaries and unequal access to resources persist. What can be inferred from M. N. Srinivas's idea of Sanskritisation?
 
-- **A.** Both terms mean the same thing
-- **B.** Sanskritisation concerns some groups' status claims within hierarchy
-- **C.** Sanskritisation is only industrial migration
-- **D.** Sanskritisation legally abolishes endogamy
+- **A.** Adoption of these practices necessarily abolishes caste endogamy and economic inequality for every member.
+- **B.** It may express a collective claim to higher social status, but does not itself prove abolition of caste hierarchy or guaranteed acceptance.
+- **C.** It refers exclusively to migration from villages to industrial cities, regardless of cultural practice.
+- **D.** It automatically grants the group a legally recognised higher caste rank and political office.
 
-**Correct: B.** It describes changes in social/cultural practices and status aspiration, not automatic abolition of caste hierarchy.
+**Correct: B.** NCERT *Indian Society*, Chapter 3 §3.1, describes Sanskritisation as an attempt by members of usually middle or lower castes to raise status by adopting practices of higher-status castes. B is appropriately qualified: aspiration and changed practice are not proof of achieved equality. A asserts automatic abolition; C substitutes migration for cultural-status change; D invents a legal and electoral consequence. **Evidence:** NCERT chapter text directly read via Philoid (https://philoid.com/ncert/chapter/lesy103 , §3.1); prior SATHEE concept correspondence. **Limit:** Neither actual social acceptance in a named community nor the complete original Srinivas research was independently checked. **Type:** original practice, not official TGPSC PYQ.
 
-## 4. A daughter inherits through a matrilineal descent system. Which inference is unwarranted?
+## 4. In a hypothetical community, descent and some inheritance follow the maternal line, but senior male relatives exercise much of the public decision-making power. Which conclusion is NOT justified?
 
-- **A.** Descent may be reckoned via women
-- **B.** Some inheritance obligations may follow the maternal line
-- **C.** All authority necessarily belongs to women
-- **D.** Family arrangements vary by community
+- **A.** Descent can be traced through women even when political authority is distributed differently.
+- **B.** Inheritance rules and control over property or public decisions need to be investigated separately.
+- **C.** Matrilineal descent by itself proves that women necessarily control all property decisions and public authority.
+- **D.** Residence after marriage cannot be inferred solely from whether descent is matrilineal.
 
-**Correct: C.** Matriliny describes descent rules; authority and power require separate study.
+**Correct: C.** NCERT *Indian Society*, Chapter 3 §3.3, distinguishes matriliny and inheritance from matriarchy or political dominance. A and B respect that distinction; D correctly treats residence rules (matrilocal/patrilocal) as a separate dimension; C incorrectly infers comprehensive authority from descent. The hypothetical case is a teaching illustration, not an ethnographic claim about all matrilineal communities. **Evidence:** NCERT chapter text directly read via Philoid (https://philoid.com/ncert/chapter/lesy103 , §3.3); prior SATHEE concept correspondence. **Limit:** No independent community-level ethnographic fieldwork or named expert review. **Type:** original practice, not official TGPSC PYQ.
 
 ## 5. A community ordinarily expects marriage within the jati but prohibits marriage within one's gotra. Which analysis is most precise?
 
