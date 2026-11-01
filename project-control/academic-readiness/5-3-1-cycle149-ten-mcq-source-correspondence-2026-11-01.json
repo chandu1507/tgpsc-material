@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-01",
+  "topic_id": "5-3-1",
+  "cycle": 149,
+  "base_main_sha": "94b71c18242760d42445d36d493c3ffcd4c4fe08",
+  "source_register": "S17-S23",
+  "source_correlated_mcqs": [
+    2,
+    3,
+    7,
+    10,
+    11,
+    13,
+    17,
+    26,
+    28,
+    29
+  ],
+  "keys_reviewed": 10,
+  "distractors_reviewed": 30,
+  "answer_distribution": {
+    "A": 3,
+    "B": 13,
+    "C": 14,
+    "D": 0
+  },
+  "remaining_keys": 20,
+  "remaining_distractors": 60,
+  "commission_pdf": "DIRECT_502",
+  "academic_status": "ASSESSED_REBUILD_REQUIRED",
+  "r1_r8_complete": false,
+  "r9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "local_candidate_pdf_only": true,
+  "actual_github_artifact_verified": false,
+  "limitations": [
+    "No direct syllabus PDF reauthentication",
+    "Six mains claim checks pending",
+    "Three diagrams independent review pending",
+    "No deterministic CI publication of new PDF yet",
+    "Browser accessibility pending"
+  ]
+}

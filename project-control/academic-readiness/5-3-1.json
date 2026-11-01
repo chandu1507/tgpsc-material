@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "project-control/academic-readiness/5-3-1-cycle59-direct-30-key-90-distractor-maths-and-visual-audit-2026-10-28.json",
-  "next_action": "Complete direct commission PDF R1 authentication; claim-level source verification of all concepts and six mains; accessibility/browser QA. MCQ arithmetic and 90 distractors internally checked; independent expert sign-off still missing.",
+  "next_action": "Cycle149 ten option-level source-correlated author reviews incorporated in coherent master. Twenty keys/60 distractors and six mains claim audits pending. Commission PDF 502; direct R1 blocked. Integrate deterministic CI PDF and verify actual downloaded artifact. Independent approval zero.",
   "external_reviewer": null,
   "student_accepted": false,
   "cycle59_assessment": {
@@ -48,6 +48,34 @@
     "original_pdf_pages": 25,
     "original_pdf_sha256": "59baba90b51e46c3baba60a0d2a3f6c9117f4cf94118aa5972318a5c08d4efcc",
     "new_integrated_pdf": false,
+    "independent_approvals": 0
+  },
+  "cycle149_source_review": {
+    "date": "2026-11-01",
+    "questions": [
+      2,
+      3,
+      7,
+      10,
+      11,
+      13,
+      17,
+      26,
+      28,
+      29
+    ],
+    "author_side_four_option_reviewed_keys": 10,
+    "reviewed_distractors": 30,
+    "remaining_source_correlated_keys": 20,
+    "remaining_distractors": 60,
+    "answer_distribution": {
+      "A": 3,
+      "B": 13,
+      "C": 14,
+      "D": 0
+    },
+    "commission_pdf_direct_retrieval": "HTTP_502",
+    "integrated_pdf": "LOCAL_CANDIDATE_ONLY_NOT_GITHUB_CI",
     "independent_approvals": 0
   }
 }
