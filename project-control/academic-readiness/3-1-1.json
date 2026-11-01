@@ -41,9 +41,10 @@
     "project-control/academic-readiness/3-1-1-cycle156-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle157-seeepc-measurement-and-mcq10-audit-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle157-actual-downloaded-artifact-qa-2026-11-01.json",
-    "project-control/academic-readiness/3-1-1-cycle158-c16-c17-q6-source-audit-2026-11-01.json"
+    "project-control/academic-readiness/3-1-1-cycle158-c16-c17-q6-source-audit-2026-11-01.json",
+    "project-control/academic-readiness/3-1-1-cycle158-actual-downloaded-artifact-qa-2026-11-01.json"
   ],
-  "next_action": "Run deterministic CI renderer on merged Cycle158 master, independently download/check packaging artifact; continue 25-question independent option audit, six mains, diagrams, browser accessibility. Do not upgrade R1-R8 or R9.",
+  "next_action": "Complete independent 25-MCQ/100-option audit, six mains claim verification, diagram review, accessibility, and named expert sign-off; R1-R8 remain incomplete, R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -366,8 +367,11 @@
     "underlying_spreadsheets_checked": false,
     "local_pdf_candidate_pages": 36,
     "local_pdf_candidate_sha256": "2dba7a6b0c2447d2c2be960e39474eacd9363df7d08a9e53029bc4db56887255",
-    "github_ci_pdf_verified": false,
-    "github_artifact_downloaded": false,
-    "academic_approval": false
+    "github_ci_pdf_verified": true,
+    "github_artifact_downloaded": true,
+    "academic_approval": false,
+    "github_artifact_id": 13082980004,
+    "github_ci_pdf_pages": 36,
+    "github_ci_pdf_sha256": "5267405d7d2b39260c165167e18ae18f994b8aa14058e353375127a4c37061dc"
   }
 }
