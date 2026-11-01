@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-3-3 Cycle151 six-mains claim audit, PDF glyph correction and actual downloaded artifact QA",
+    "last_reported_topic": "5-3-5 Cycle153 four source-correlated concept expansions, 10 four-option MCQ reviews, corrected CI 27-page PDF, actual downloaded artifact verified",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle151: six original mains mathematical claims source-correlated; Q1 fractional seat and Q5 markup corrected; CI 21-page PDF zero NUL; downloaded artifact 13071395410 SHA/CRC/75 originals/592 links/1581 fragments PASS; R6 BLOCKED, R8 IN_PROGRESS, zero approvals."
+    "note": "Cycle153 artifact 13073997880 SHA/CRC PASS, 2203 files, 75 unchanged original PDFs, 75 readiness records, 592 local links/1581 fragments zero broken, 27-page Topic5-3-5 PDF zero NUL, 19/19 manifest hashes PASS. Nine explanatory sections remain <300, 20 MCQs and six mains pending, zero approvals. Evidence commit postdates inspected archive."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -752,8 +752,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle63_integrated_26_page_ci_pdf_and_actual_artifact_verified_academic_audit_pending",
-      "notes": "Cycle63 direct assessment: preserved original 25-page PDF SHA256 f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833; 18/18 numbered sections initially under300 words (17 explanatory); 30 original practice MCQs A1/B18/C10/D1; six mains body-only 202/221/210/226/224/220; three PNG diagrams. Official Paper V Unit III item5 syllabus directly verified on 28 Oct (R1 PASS only). Four substantive concept expansions and MCQs 11/20/30 revised in editable source. No new PDF or post-edit artifact yet. Cycle63 CI rendered 26-page integrated PDF SHA256 3eee86cb93b8c125154d882acbf8566fa42e1cd8b31535367edf94788d1e2747; final GitHub Actions artifact 12823195126 actually downloaded, outer/inner CRC PASS, 75 original PDFs unchanged, 447 local links and 1135 DOM fragments zero broken. Thirteen explanatory concepts remain below300; academic/browser checks outstanding.",
+      "production_review": "cycle153_source_expansion_ci_pdf_and_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle153: four existing explanatory concepts §§3/7/11/13 expanded to 501–545 words using DARPG 2024, Union Procurement Manual 2024, NDMA SACHET and DPDP phased commencement. 10 original MCQs option-reviewed (8 source-correlated, Q2/Q10 medical-domain checks provisional), 20 MCQs/80 options remain. Original PDF SHA f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833 unchanged. CI 27-page PDF SHA a3b76927dfc6bb22883c32b8deb3cf48c024daa7491383928a968c3c0088a4fc, zero NUL; downloaded artifact 13073997880 SHA/CRC/75 originals/592 links/1581 fragments PASS. Nine explanatory sections under300, six mains and three diagrams independent review pending. R8 IN_PROGRESS; ZERO approvals.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-3-5.json",
       "latest_readiness_evidence": "project-control/academic-readiness/5-3-5-cycle63-actual-downloaded-final-artifact-qa-2026-10-28.json"
