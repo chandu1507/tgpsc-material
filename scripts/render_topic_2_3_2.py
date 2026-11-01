@@ -128,7 +128,7 @@ import fitz
 pdf=fitz.open(str(out))
 qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 # Detect PDF extraction corruption before a successful workflow can publish the result.
-corrupt_pages=[i+1 for i,p in enumerate(pdf) if ('\\x00' in p.get_text() or '\\ufffd' in p.get_text())]
+corrupt_pages=[i+1 for i,p in enumerate(pdf) if ('\x00' in p.get_text() or '\ufffd' in p.get_text())]
 if corrupt_pages:
     raise RuntimeError(f'Unsupported or replacement glyphs on PDF pages: {corrupt_pages}')
 if qa['pages_with_no_text']:
