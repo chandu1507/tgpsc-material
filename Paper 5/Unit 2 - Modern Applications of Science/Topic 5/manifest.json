@@ -17,14 +17,14 @@
   "manuscript_words": 13754,
   "pdf_pages": 21,
   "files": {
-    "QA-REPORT.md": "a2f248f49b0179dea9e4b945f8a96e848b00cc53279d8e6ef04b81d9020dc03b",
+    "QA-REPORT.md": "07c51da241c8e82dc83eb8ea82a13040d796b8776db18a556cf146ed6e442af2",
     "README.md": "ed8fe2c884d0cb555f5e0a5646a5da46765886b196990d2b727c0529acd7a584",
     "index.html": "95955c3b8b019e690b6804fc2c4e8e82907f799c5d1a6f8f6f444ded05870a9b",
     "complete-notes.pdf": "c2d92e8f136f7272abba7369d44e88d01ec55034e666c1334e5a0d76b28d42b2",
     "diagrams/03-district-delivery.png": "71d7f19dc9979bfb49872b1175c6a07cfcc1ec65d805863c73cf4beb8604ee51",
     "diagrams/01-immune-memory.png": "01b9e39b7e12fbbfcb0ac4426e663d24bc1f95a1bb13265b744acfd9f0d17687",
     "diagrams/02-three-platforms.png": "b57e7efbd2f9f05ccb968fe6e0e9b7a5dc1c5d4c713225504ff2cd1d067808eb",
-    "source/integrated-student-edition-cycle58.pdf": "45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc",
+    "source/integrated-student-edition-cycle58.pdf": "c60bb4beec74e554aaf9224f7f1e204549f7108c85afa3ce37d9271429fb8fec",
     "source/syllabus-and-summary.md": "07293524893f2cad95419feb8387352427ae89d99c059095d15ba639fbef3d37",
     "source/answer-blueprints.md": "b49ec466166f2b358225bbf1287b2b8fe34415cfd46a914271a7409738eb21ef",
     "source/quick-revision.md": "5707bc2347ca066ce8a2878aa5bc57ed69ddcafba48109403ac33476c0c6fb02",
@@ -41,7 +41,7 @@
   "syllabus_source_limitation": "Inherited direct 2024 syllabus assertion not reauthenticated in Cycle58; R1 IN_PROGRESS",
   "integrated_pdf_status": "CI_rendered_independent_academic_audit_pending",
   "integrated_pdf_pages": 29,
-  "integrated_pdf_sha256": "45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc",
+  "integrated_pdf_sha256": "c60bb4beec74e554aaf9224f7f1e204549f7108c85afa3ce37d9271429fb8fec",
   "metrics": {
     "mains_answer_word_counts": [
       207,
