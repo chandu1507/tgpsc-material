@@ -44,9 +44,10 @@
     "project-control/academic-readiness/2-3-2-cycle163-agri-water-enam-source-depth-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle164-three-concepts-planning-steel-periurban-source-audit-2026-11-01.json",
     "project-control/academic-readiness/2-3-2-cycle164-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
-    "project-control/academic-readiness/2-3-2-cycle165-cotton-sugar-cement-auto-source-depth-audit-2026-11-01.json"
+    "project-control/academic-readiness/2-3-2-cycle165-cotton-sugar-cement-auto-source-depth-audit-2026-11-01.json",
+    "project-control/academic-readiness/2-3-2-cycle165-actual-downloaded-postrender-artifact-qa-2026-11-01.json"
   ],
-  "next_action": "Cycle165: three industrial geography concepts expanded, 16→13 under300 by direct section-body count; local 39-page PDF candidate rendered. CI PDF, actual GitHub packaging download, MCQ/mains/diagram and accessibility audits pending. NOT APPROVED.",
+  "next_action": "Cycle165 39-page CI PDF and actual artifact 13093444497 independently downloaded: CRC/digest/75 unchanged originals/75 readiness/634 links/1581 fragments PASS. QA evidence/control commit postdates inspected package; next packaging must be separately downloaded. 13/40 sections under300, no academic approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
@@ -357,8 +358,11 @@
     ],
     "editable_master_sha256": "7b322552536844cec928b324b9b8361e88191230a9b61fccc2484a0245d255a0",
     "local_pdf_candidate_pages": 39,
-    "ci_pdf": "PENDING",
-    "downloaded_artifact_qa": "PENDING",
-    "independent_approvals": 0
+    "ci_pdf": "SUCCESS_39_PAGES_ACTUAL_DOWNLOADED",
+    "downloaded_artifact_qa": "VERIFIED_13093444497",
+    "independent_approvals": 0,
+    "pdf_sha256": "bcad6c79a9322c61574c30ec16bf3d1deefd623f8b4c6dd1915b83492d6e0e9f",
+    "artifact_sha256": "dffe5fdcc11e2010e882ee99411da6ff7461b8562f9e98ad9812a3db6cc8f59f",
+    "post_qa_packaging": "PENDING"
   }
 }
