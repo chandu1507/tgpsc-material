@@ -1,0 +1,57 @@
+{
+  "cycle": 166,
+  "date": "2026-11-02",
+  "topic_id": "2-3-2",
+  "run_id": 41338812130,
+  "artifact_id": 13096940270,
+  "artifact_head_sha": "c3ca2135294491553f780bbe718bbce456cd2e47",
+  "actual_downloaded_and_independently_inspected": true,
+  "github_artifact_sha256": "3b56d9ce36a2123cf52cb36b2715662d5507d9f1d422ed38530068c4da2f8ed5",
+  "downloaded_sha256": "3b56d9ce36a2123cf52cb36b2715662d5507d9f1d422ed38530068c4da2f8ed5",
+  "digest_match": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "packaged_files": 2229,
+  "original_topic_pdfs": 75,
+  "original_pdfs_unchanged_against_cycle165": 75,
+  "readiness_json": 75,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1_PASS": 14,
+  "fully_R1_R8_ready": 0,
+  "independent_academic_approvals": 0,
+  "html_pages": 92,
+  "local_links_checked": 634,
+  "broken_local_links": 0,
+  "dom_fragments_checked": 1581,
+  "broken_fragments": 0,
+  "spa_routes_excluded": 42,
+  "topic_integrated_pdf_pages": 40,
+  "topic_integrated_pdf_sha256": "7e1c5044d8c368bb0ad2ea09c142de06ceffab377f2b36ca82ce6b239a4a1ef3",
+  "pdf_blank_pages": 0,
+  "pdf_nul_or_replacement_chars": 0,
+  "pdf_out_of_bounds_text_blocks": 0,
+  "topic_part_c_concepts": 40,
+  "part_c_concepts_below_300": 10,
+  "expanded_sections": {
+    "17": 493,
+    "24": 521,
+    "31": 580
+  },
+  "original_topic_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "pdf_pages_visually_sampled": [
+    12,
+    17,
+    22,
+    40
+  ],
+  "limitations": [
+    "Source claims checked author-side only; not independent academic approval",
+    "No complete browser navigation or screen-reader accessibility certification",
+    "QA evidence commit postdates inspected archive; next packaging must be independently checked"
+  ],
+  "academic_certification": false
+}

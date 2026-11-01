@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-2 Cycle166: §§17,24,31 expanded; 13→10 Part C sections under300; 40-page CI PDF rendered, actual post-render artifact QA pending. Zero approvals.",
+    "last_reported_topic": "2-3-2 Cycle166: §§17/24/31 expanded, 13→10 shallow, 40-page PDF and actual post-control artifact 13096940270 verified; QA commit postdates package, next package pending. Zero approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -193,10 +193,12 @@
       ],
       "pdf_ci": "SUCCESS_40_PAGES",
       "pdf_sha256": "7e1c5044d8c368bb0ad2ea09c142de06ceffab377f2b36ca82ce6b239a4a1ef3",
-      "post_render_downloaded_artifact_qa": "PENDING",
+      "post_render_downloaded_artifact_qa": "VERIFIED_13096940270",
       "independent_approvals": 0,
       "source_evidence": "project-control/academic-readiness/2-3-2-cycle166-it-indian-ocean-water-primary-source-audit-2026-11-02.json",
-      "limits": "No independent MCQ/mains/diagram certification, full browser QA or R1-R8 approval"
+      "limits": "No independent MCQ/mains/diagram certification, full browser QA or R1-R8 approval",
+      "post_render_artifact_sha256": "3b56d9ce36a2123cf52cb36b2715662d5507d9f1d422ed38530068c4da2f8ed5",
+      "post_qa_packaging": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
