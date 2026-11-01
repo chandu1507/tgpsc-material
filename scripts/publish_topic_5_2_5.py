@@ -73,6 +73,8 @@ for i,p in enumerate(doc):
         x0,y0,x1,y1=b[:4]
         if x0 < -1 or y0 < -1 or x1 > p.rect.width+1 or y1 > p.rect.height+1:boundary.append(i+1)
 assert 20<=len(doc)<=45 and not blank and images>=3 and not boundary,(len(doc),blank,images,boundary)
+assert all('\x00' not in p.get_text() for p in doc), 'Unsupported glyph rendered as NUL in PDF'
+assert ' -> ' in '\n'.join(p.get_text() for p in doc), 'Sequence arrows not normalized to readable ASCII'
 
 body=mistune.create_markdown(plugins=["table","strikethrough"])(md)
 rendered=BeautifulSoup(body,"html.parser")
