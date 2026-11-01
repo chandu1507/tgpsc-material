@@ -1,7 +1,7 @@
 {
   "topic_id": "5-3-4",
   "title": "Time and Work, Speed–Time–Distance, Simple Interest, Analytical and Critical Reasoning",
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle62 direct source audit: original PDF SHA preserved; MCQ09 and MCQ20 ambiguities corrected; internal 30-key/90-distractor checks (not independent review); MoSPI [S07] wrong-year link corrected; graph-data and speed-time worked examples; six mains body-only 225/214/203/200/213/216. Syllabus, mains claim, diagram, full-page-per-concept, browser and actual downloaded CI artifact checks pending. Corrected deterministic renderer run 40692594311 SUCCESS, 23-page integrated PDF SHA256 132906bc21741921161fbdfe3cc70c66ce44dad316baf229abaeb3f0d9d3ba80; actual post-correction packaging artifact not yet verified. Earlier artifact 12817882019 contains stale PDF SHA da083714c89dd9e3a1e4d80e83697a435bc4167d92a8db99af7575b315beb0bb and must not be treated as final.",
-  "next_action": "Package current corrected 23-page PDF, download and verify ZIP CRC/75 original hashes/HTML links/manifest. Complete remaining academic/browser checks; R8 IN_PROGRESS, not PASS.",
+  "evidence": "Cycle62 direct source audit: original PDF SHA preserved; MCQ09 and MCQ20 ambiguities corrected; internal 30-key/90-distractor checks (not independent review); MoSPI [S07] wrong-year link corrected; graph-data and speed-time worked examples; six mains body-only 225/214/203/200/213/216. Syllabus, mains claim, diagram, full-page-per-concept, browser and actual downloaded CI artifact checks pending. Corrected deterministic renderer run 40692594311 SUCCESS, 23-page integrated PDF SHA256 132906bc21741921161fbdfe3cc70c66ce44dad316baf229abaeb3f0d9d3ba80; actual post-correction packaging artifact not yet verified. Earlier artifact 12817882019 contains stale PDF SHA da083714c89dd9e3a1e4d80e83697a435bc4167d92a8db99af7575b315beb0bb and must not be treated as final. Cycle152: 10 existing original MCQs Q21-Q30 checked option by option (10 keys/30 distractors) against directly consulted OpenStax mathematics, logic and statistics; keys retained, weak distractors Q26 C/D Q27 C/D Q30 D flagged; 20 keys/60 distractors and six mains/three diagrams remain. Audit source/academic-option-audit-cycle152.md integrated in source/complete-notes.md. CI synchronized PDF, actual downloaded artifact, browser QA and named expert review PENDING; R5/R8 not PASS, zero approvals.",
+  "next_action": "Run guarded Topic5-3-4 CI PDF and package workflow, actually download and verify ZIP CRC/75 original PDF hashes/75 readiness JSON/links and PDF, then audit remaining Q1-Q20, six mains and diagrams; independent approval only after R1-R8.",
   "external_reviewer": null,
   "student_accepted": false
 }
