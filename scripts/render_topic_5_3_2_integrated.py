@@ -77,7 +77,7 @@ story=[]
 # The prior Cycle60 PDF extracted 112 NUL glyphs (notably minus, union, intersection).
 math_ascii = {'−':'-', '∩':' intersect ', '∪':' union ', '⊆':' subset of ',
               '∅':'empty set', '→':' implies ', '≈':' approx ', 'Ω':'Omega',
-              '×':' x ', '²':'^2', '³':'^3', '°':' degrees '}
+              '×':' x ', '²':'^2', '³':'^3', '°':' degrees ', '≠':' != '}
 normalized=src.read_text()
 for old,new in math_ascii.items(): normalized=normalized.replace(old,new)
 tokens=MarkdownIt('commonmark').enable('table').parse(normalized)
