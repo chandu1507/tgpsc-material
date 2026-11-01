@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle158 actual downloaded artifact 13082980004: 2215 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 592 local links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero ready/approved. Q6 C16/C17 author-side audit only. This control/evidence commit postdates inspected archive.",
+  "warning": "Cycle161 artifact 13086809114 downloaded and verified: 2220 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local links and 1581 fragments zero broken, 14 R1 PASS, 7/68/0, zero ready/approved. This control/evidence commit postdates inspected artifact; verify next package separately.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle159: Topic3-1-1 25-MCQ bank synchronized; 3 author-side option audits; actual downloaded artifact verified; no R1-R8/R9 promotion",
+  "last_readiness_update": "2026-11-01 Cycle161: Topic2-3-2 3 source-verified expansions and MCQ17; 33-page PDF, actual artifact 13086809114 CRC/SHA/75-topic QA verified; 7/68/0 statuses, 14 R1, zero ready/approved",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-2-cycle161-actual-downloaded-glyph-fixed-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle159-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
     "project-control/academic-readiness/3-1-1-cycle159-ncert-application-mcqs-and-bank-synchronization-2026-11-01.json",
     "project-control/academic-readiness/5-3-5-cycle155-post-legibility-downloaded-artifact-qa-2026-11-01.json",
