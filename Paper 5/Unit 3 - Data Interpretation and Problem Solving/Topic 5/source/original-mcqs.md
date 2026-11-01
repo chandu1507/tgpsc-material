@@ -192,11 +192,11 @@ D. Suppress all grievances
 ### MCQ 22. What is a useful causal chain for a new complaint portal?
 
 A. App → app → app
-B. Software deployed → resolution workflow improves → service reliability and trust improve
+B. Software deployed → tested resolution-workflow changes → measured service outcomes
 C. Budget spent → success proven
 D. Publicity → automatic compliance
 
-**Answer: B.** Distinguishing input, intermediate mechanisms and final outcomes prevents metric substitution.
+**Answer: B.** This is a testable program theory, not proof that deployment caused improvement. Measure workflow changes, service outcomes and contextual factors before claiming impact.
 
 ### MCQ 23. A senior officer states a preference before deliberation. Which safeguard reduces groupthink?
 
