@@ -47,7 +47,9 @@ models = re.findall(r"(?ms)^### Mains model (\d+)\. ([^\n]+)\n(.*?)(?=^### Mains
 assert len(models) == 6, len(models)
 body_counts = [word(re.sub(r"\*\*[^*]+\.\*\*","",re.sub(r"\*Model answer[^\n]*\*","",b))) for _,_,b in models]
 assert len(body_counts) == 6 and all(200 <= n <= 250 for n in body_counts), body_counts
-assert len(list((root/"diagrams").glob("*.png"))) == 3
+assert len(list((root/"diagrams").glob("*.png"))) == 3  # preserved originals
+assert all((root/"diagrams"/n).is_file() for n in ("01-haccp-corrected-cycle148.svg","03-water-treatment-branches-cycle148.svg"))
+assert "diagrams/01-haccp-corrected-cycle148.svg" in md and "diagrams/03-water-treatment-branches-cycle148.svg" in md
 
 pdf = src/"integrated-student-edition-cycle56.pdf"
 subprocess.run([sys.executable,"scripts/render_topic_5_2_3_integrated.py","--input",str(src/"complete-notes.md"),"--output",str(pdf)],check=True)
@@ -59,7 +61,9 @@ for i,p in enumerate(doc):
     for b in p.get_text("blocks"):
         x0,y0,x1,y1 = b[:4]
         if x0 < -1 or y0 < -1 or x1 > p.rect.width+1 or y1 > p.rect.height+1: boundary.append(i+1)
-assert 20 <= len(doc) <= 45 and not blank and images >= 3 and not boundary, (len(doc),blank,images,boundary)
+all_pdf_text="\\n".join(p.get_text() for p in doc)
+assert "Correct cause" in all_pdf_text and "FLUORIDE above limit" in all_pdf_text, "corrected SVG figures missing from PDF"
+assert 20 <= len(doc) <= 45 and not blank and images >= 1 and not boundary, (len(doc),blank,images,boundary)
 
 body = mistune.create_markdown(plugins=["table","strikethrough"])(md)
 rendered = BeautifulSoup(body,"html.parser")
@@ -93,13 +97,13 @@ assert not bad_files and not bad_fragments, (bad_files,bad_fragments)
 
 pdf_sha=hashlib.sha256(pdf.read_bytes()).hexdigest()
 qa={"date":"2026-10-28","topic":"5-2-3","cycle":56,"original_pdf_sha256":original,"original_preserved":True,
-    "integrated_pdf_sha256":pdf_sha,"integrated_pdf_pages":len(doc),"pdf_images":images,"blank_pages":blank,
+    "integrated_pdf_sha256":pdf_sha,"integrated_pdf_pages":len(doc),"pdf_raster_images":images,"corrected_vector_figures":2,"blank_pages":blank,
     "text_boundary_violations":boundary,"concept_count":len(concepts),"min_concept_words":min(concept_words),
     "original_mcqs":30,"correct_answers":distribution,"distractors":90,"mains_body_only_counts":body_counts,"mains_count_method":"regex word tokens after removing italic model-answer metadata and bold subheading labels; hyphenated tokens may differ from whitespace count",
     "html_file_links_checked":file_links,"broken_files":bad_files,"html_fragment_links_checked":fragment_links,
     "broken_fragments":bad_fragments,"spa_routes_excluded":spa_routes,
-    "source_checks":"Cycle144 ten existing four-option author-side audits Q2/3/4/5/6/7/8/19/20/26; 20 keys/60 distractors pending; Cycle56 five limited key-only checks separate",
-    "independent_academic_approvals":0,"R8":"IN_PROGRESS_NOT_PASS",
+    "source_checks":"Cycle144 ten existing four-option author-side audits Q2/3/4/5/6/7/8/19/20/26; 20 keys/60 distractors pending; Cycle148 two diagram corrections bounded against FAO/Codex and WHO; Cycle56 five limited key-only checks separate",
+    "independent_academic_approvals":0,"R7":"IN_PROGRESS_NOT_PASS","R8":"IN_PROGRESS_NOT_PASS",
     "actual_downloaded_post_edit_artifact_qa":False,"browser_accessibility_certified":False}
 (root/"QA-REPORT.md").write_text("# Cycle56 CI render QA\n\n"+json.dumps(qa,indent=2)+"\n")
 (root/"README.md").write_text("# Paper V / Unit II / Topic 3 — Food Biotechnology, Food Safety, Organic Farming, Mechanisation and Safe Drinking Water\n\nOriginal 24-page PDF preserved (SHA256 "+original+").\nCycle56 editable master, offline HTML and integrated PDF synchronized through deterministic CI.\n18 concepts >=300 words, 30 original practice MCQs, six structured 200–250 body-word mains, three inherited diagrams.\nTen existing four-option MCQ audits added Cycle144; 20 keys/60 distractors remain; two diagrams have identified sequencing defects. No independent academic approval.\nZero academic approvals. No official PYQs authenticated.\n")
