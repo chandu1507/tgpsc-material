@@ -20,9 +20,11 @@ args=parser.parse_args()
 src=args.input
 out=args.output
 out.parent.mkdir(parents=True,exist_ok=True)
-font='/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf'; bold='/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf'; italic='/usr/share/fonts/truetype/noto/NotoSans-Italic.ttf'
+# DejaVu Sans includes arrows and mathematical comparison glyphs used in the
+# student master; the installed Noto Sans variant may silently render them as NUL.
+font='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'; bold='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'; italic='/usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf'
 if not Path(font).exists():
-    font='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'; bold='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'; italic='/usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf' 
+    font='/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf'; bold='/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf'; italic='/usr/share/fonts/truetype/noto/NotoSans-Italic.ttf'
 for n,p in [('Noto',font),('NotoBold',bold),('NotoItalic',italic)]:pdfmetrics.registerFont(TTFont(n,p))
 pdfmetrics.registerFontFamily('Noto',normal='Noto',bold='NotoBold',italic='NotoItalic',boldItalic='NotoBold')
 navy=colors.HexColor('#132A44'); accent=colors.HexColor('#176AA3'); pale=colors.HexColor('#EAF2F7')
@@ -138,6 +140,8 @@ doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargi
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
+null_count=sum(page.get_text().count('\x00') for page in pdf)
+if null_count: raise AssertionError(f'Unsupported glyphs extracted as NUL: {null_count}')
 qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 if args.qa:
     args.qa.parent.mkdir(parents=True,exist_ok=True)

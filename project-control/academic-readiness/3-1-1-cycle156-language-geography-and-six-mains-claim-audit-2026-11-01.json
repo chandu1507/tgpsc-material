@@ -1,0 +1,95 @@
+{
+  "cycle": 156,
+  "date": "2026-11-01",
+  "topic_id": "3-1-1",
+  "scope": "bounded author-side source-correlation and synchronized editorial correction",
+  "status": "PARTIAL_REBUILD_NOT_APPROVED",
+  "fresh_main_reconciled_at_start": "00c931a0201443ae4f69b97f0dcfaa5ab819d717",
+  "topic_count": 75,
+  "readiness_status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1_PASS": 14,
+  "fully_R1_to_R8_ready": 0,
+  "independent_academic_approvals": 0,
+  "R9": "NOT_STARTED",
+  "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "edits": [
+    "Part C section 12: source-comparability worked case distinguishing Census C-16 mother tongue, C-17 bilingualism/trilingualism and geographic levels",
+    "Part E MCQ23 explanation: C-16/C-17 and pre-2014 Andhra Pradesh vs Telangana caution; answer C retained",
+    "Part F mains Q6: same correction in both editable integrated master and standalone complete-model-answers.md",
+    "Six original practice mains: claim-group evidence matrix with directly checked official metadata and explicit unresolved items",
+    "Renderer: prefer DejaVu Sans for mathematical arrows/comparison signs; assert actual U+0000 extracted glyph count is zero"
+  ],
+  "sources_directly_read": [
+    {
+      "publisher": "ORGI",
+      "reference": "PC11_C16-00",
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10191",
+      "scope": "mother tongue by sex rural/urban; district etc"
+    },
+    {
+      "publisher": "ORGI",
+      "reference": "PC11_C17-00",
+      "url": "https://censusindia.gov.in/nada/index.php/catalog/10262",
+      "scope": "bilingualism/trilingualism at India/State combined"
+    },
+    {
+      "publisher": "Government of Telangana",
+      "reference": "State Profile",
+      "url": "https://www.telangana.gov.in/About/State-Profile/",
+      "scope": "State formed 2 June 2014"
+    },
+    {
+      "publisher": "CGG",
+      "reference": "SEEEPC project",
+      "url": "https://www.cgg.gov.in/it_project/socio-economic-education-employment-political-and-caste-seeepc-survey/",
+      "scope": "November 2024 survey start, not Census"
+    },
+    {
+      "publisher": "Ministry of Tribal Affairs",
+      "reference": "FRA overview",
+      "url": "https://tribal.nic.in/FRA.aspx",
+      "scope": "individual/community forest rights"
+    }
+  ],
+  "local_preflight": {
+    "integrated_pdf_pages": 34,
+    "integrated_pdf_sha256": "eb876c0f399f11ba2698f45698f487807f28744d2811ee94c1f69267d9fa8887",
+    "nul_glyphs": 0,
+    "blank_pages": 0,
+    "original_mcqs": 25,
+    "original_mains": 6,
+    "mains_body_unicode_counts": [
+      203,
+      213,
+      227,
+      213,
+      234,
+      223
+    ],
+    "original_topic_pdf_preserved": true,
+    "actual_github_post_merge_pdf": "PENDING",
+    "actual_post_edit_actions_artifact": "PENDING"
+  },
+  "limitations": [
+    "No named independent expert",
+    "No authenticated official PYQs",
+    "No direct complete Karve/Beteille/Ambedkar monographs",
+    "Full direct PESA enactment and local Telangana datasets not reauthenticated",
+    "Browser and screen-reader accessibility not certified"
+  ],
+  "gate_status": {
+    "R1": "PASS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  }
+}

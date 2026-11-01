@@ -128,7 +128,7 @@ Caste and tribe are historically important categories, but **neither identifies 
 
 **Recognition:** Constitutional cultural and educational rights support accommodation, while institutional design must protect individual dignity and prevent discrimination within and between communities.
 
-**Evidence discipline:** The Census of India 2011 mother-tongue and multilingualism tables document specific classifications in a fixed year; they do not demonstrate current language proficiency or equal public-service access.
+**Evidence discipline:** Census 2011 C-16 records mother tongue, while C-17 records bilingualism and trilingualism at India/State level. Because Telangana formed in 2014, an undivided Andhra Pradesh 2011 state total cannot be relabelled as a Telangana total. Neither table measures present-day language proficiency or equal service access.
 
 **Practical safeguard:** Monitor translation access in schools, hospitals and civic offices, and test whether marginalised home-language users can actually submit applications and receive services without exclusion.
 

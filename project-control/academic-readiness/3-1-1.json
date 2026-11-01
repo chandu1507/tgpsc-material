@@ -36,7 +36,8 @@
     "project-control/academic-readiness/3-1-1-turn24-final-package-and-svg-qa-2026-10-27.json",
     "project-control/academic-readiness/3-1-1-render-qa.json",
     "project-control/academic-readiness/3-1-1-cycle89-four-mcq-precision-source-audit-2026-10-29.json",
-    "project-control/academic-readiness/3-1-1-cycle89-actual-downloaded-github-artifact-qa-2026-10-29.json"
+    "project-control/academic-readiness/3-1-1-cycle89-actual-downloaded-github-artifact-qa-2026-10-29.json",
+    "project-control/academic-readiness/3-1-1-cycle156-language-geography-and-six-mains-claim-audit-2026-11-01.json"
   ],
   "next_action": "Complete independent claim-level checks of all 25 original practice MCQs and 100 distractors, all six mains and diagrams; improve full-page-per-concept layout and browser accessibility. R8 remains IN_PROGRESS despite passing actual archive integrity QA.",
   "external_reviewer": null,
@@ -308,5 +309,20 @@
     "pdf_sha256": "4c036ded46083f68a4e6cbcb3605577b4fa515cf55fb3f4af639c62cd3fa6f89",
     "original_75_pdf_hashes_unchanged": true,
     "artifact_sha256": "8ba26ab2c21f21c3922475bc7605fc2aaa03df56d7bfb5505855219588a32864"
+  },
+  "cycle156_2026_11_01": {
+    "status": "BOUNDED_SOURCE_AND_SIX_MAINS_CLAIM_AUDIT_NOT_APPROVED",
+    "correction": "C-16 mother tongue vs C-17 bilingualism/trilingualism, pre-2014 Andhra Pradesh vs Telangana geography",
+    "six_mains_claim_groups_reviewed": true,
+    "independent_six_mains_claim_certification": false,
+    "mcq23_key_preserved": "C",
+    "local_pdf_pages": 34,
+    "local_pdf_zero_nul": true,
+    "actual_github_post_edit_artifact": "PENDING",
+    "original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+    "gate_R6": "IN_PROGRESS",
+    "gate_R8": "IN_PROGRESS",
+    "gate_R9": "NOT_STARTED",
+    "independent_approvals": 0
   }
 }
