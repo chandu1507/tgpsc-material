@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-01",
+  "cycle": 160,
+  "topic_id": "3-1-1",
+  "audit_type": "author_side_direct_source_correspondence",
+  "academic_approval": false,
+  "independent_expert_approval": false,
+  "official_tgpsc_pyq": false,
+  "base_main": "1922c42f78399c5ba3ba6388c79eeb96a1df4e2e",
+  "source": {
+    "publisher": "UNESCO",
+    "title": "Universal Declaration on Cultural Diversity",
+    "adopted": "2001-11-02",
+    "url": "https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity",
+    "read": "direct official institutional web text",
+    "articles": [
+      {
+        "article": 2,
+        "correspondence": "Cultural pluralism gives policy expression to cultural diversity; inclusion and participation of citizens"
+      },
+      {
+        "article": 4,
+        "correspondence": "No invocation of cultural diversity to infringe human rights"
+      }
+    ],
+    "legal_limit": "Declaration is not an Indian statute and does not itself require every form to be translated"
+  },
+  "question": {
+    "number": 8,
+    "type": "original_practice",
+    "old_key": "B",
+    "new_key": "B",
+    "changed_in_place": true,
+    "options": [
+      {
+        "option": "A",
+        "judgment": "distractor",
+        "reason": "Symbolic festivals without service access or consultation do not implement inclusion and participation."
+      },
+      {
+        "option": "B",
+        "judgment": "correct",
+        "reason": "Addresses usable service access and participation with individual-rights and feasibility caveats."
+      },
+      {
+        "option": "C",
+        "judgment": "distractor",
+        "reason": "Translation alone does not remedy exclusion from consultation or policy voice."
+      },
+      {
+        "option": "D",
+        "judgment": "distractor",
+        "reason": "Portal existence cannot establish usable language access or equitable service outcomes."
+      }
+    ]
+  },
+  "concept_14": "Added international declaration versus Indian enforceability distinction and four-part policy diagnostic (visibility, access, voice, safeguards).",
+  "files_synchronized": [
+    "Paper 3/Unit 1 - Indian Society/Topic 1/source/verified-mcqs.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 1/source/complete-notes.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 1/source/integrated-student-edition-2026-10-27.md"
+  ],
+  "publication_status": "PENDING_CI_RENDER_AND_ACTUAL_ARTIFACT_QA",
+  "gates": {
+    "R1": "UNCHANGED",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "limits": [
+    "No original UNESCO fieldwork or Telangana district implementation data",
+    "No independent expert review",
+    "Other 24 original MCQs not independently verified in this cycle",
+    "Existing original PDF and 75 topic identities must remain unchanged"
+  ]
+}
