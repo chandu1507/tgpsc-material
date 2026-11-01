@@ -26,8 +26,8 @@
     "R7": "BLOCKED",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "project-control/academic-readiness/5-2-4-cycle147-q27-controlled-correction-2026-11-01.json",
-  "next_action": "Q27 corrected in place against CDC S24/S25; 19 MCQ keys/57 distractors, six mains and three diagrams remain; direct syllabus, browser QA and independent review outstanding. R1-R8 incomplete, R9 NOT_STARTED, zero approvals.",
+  "evidence": "project-control/academic-readiness/5-2-4-cycle147-actual-downloaded-postrender-artifact-qa-2026-11-01.json",
+  "next_action": "Q27 corrected in place and CI PDF/artifact structurally verified; 19 MCQ keys/57 distractors, six mains, three diagrams, direct syllabus reauthentication, complete browser QA and independent academic review remain. R8 IN_PROGRESS, R9 NOT_STARTED, zero approvals.",
   "external_reviewer": null,
   "student_accepted": false,
   "direct_assessment": {
@@ -113,6 +113,10 @@
     "remaining_keys": 19,
     "remaining_distractors": 57,
     "R5": "BLOCKED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "github_pdf_sha256": "07dab6a96981b2037be28037cec9780d03d3a883ceecdb573a087f18abe5a000",
+    "github_pdf_pages": 28,
+    "actual_downloaded_artifact_id": 13064032394,
+    "structural_QA": "PASS_NOT_ACADEMIC"
   }
 }
