@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle145 5-2-4 ten MCQ four-option author-side audits; Q27 ambiguous; 27-page CI PDF and actual downloaded artifact 13060393127 SHA/CRC/75 original PDFs/75 readiness/634 links/1581 fragments PASS. 20 MCQs/60 distractors, six mains, three diagrams, browser QA and independent review remain. 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED / 14 R1 PASS / ZERO fully R1-R8 ready / ZERO approvals.",
+  "warning": "Cycle146 Topic5-2-5: 12 author-side four-option MCQ reviews; 18 questions/54 distractors, six mains and three diagrams pending. 29-page CI PDF and actual downloaded artifact 13062608390 SHA/CRC/75 original PDFs/75 readiness JSON/591 links/1581 fragments PASS. 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED / 14 normalized R1 PASS / ZERO fully R1-R8 ready / ZERO approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-01 Cycle145 Topic5-2-4 post-render downloaded artifact verified; academic approval zero",
+  "last_readiness_update": "2026-11-01 Cycle146 Topic5-2-5 post-render downloaded artifact verified; academic approval zero",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",

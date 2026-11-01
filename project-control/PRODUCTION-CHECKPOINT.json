@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "5-2-1",
+    "last_reported_topic": "5-2-5",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle142 5-2-1: 10 source-correlated four-option MCQ audits and synchronized local 25-page candidate. Actual downloaded GitHub source-stage archive verified (run 41236322246, artifact 13056160506). CI integrated PDF not rendered; R8 BLOCKED; 75 topics, zero approvals."
+    "note": "Cycle146 5-2-5: 12 primary-source option reviews, CI PDF and downloaded post-render artifact QA verified. 75 originals, 7/68/0, 14 normalized R1 PASS, 0 fully R1-R8, 0 approvals."
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
   "topics": [
@@ -691,8 +691,8 @@
       "chapter_published": true,
       "pdf_published": true,
       "academic_status": "not_approved",
-      "production_review": "cycle58_ci_integrated_publication_actual_artifact_verified_independent_academic_audit_pending",
-      "notes": "Full draft PDF, offline HTML, Markdown, diagrams, 30 original explained MCQs, 6 complete mains answers. Independent academic review pending. Cycle58: two concept expansions and mains M5 correction in editable master; 13 bounded key checks, no complete academic approval. Local PDF only until CI publication. Post-render GitHub artifact 12803981224 actually downloaded: CRC/SHA, 75 original PDFs and links verified; integrated CI 25-page PDF SHA256 11a55291d7d850484eb8dd6acbb9c942ea6d69bc1acf5bbc7a9455f74d3097b3. R8 IN_PROGRESS; zero approvals.",
+      "production_review": "cycle146_twelve_source_correlated_four_option_mcqs_ci_pdf_and_actual_downloaded_artifact_verified_academic_rebuild_pending",
+      "notes": "Cycle146: 12 existing original practice MCQs author-side source-correlated (12 keys/36 distractors); 18 questions/54 distractors, six mains claim-level audits, 3 diagrams, browser and independent review pending. CI integrated 29-page PDF SHA256 45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc; actual downloaded GitHub artifact 13062608390 SHA/CRC PASS, 2175 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 591 local links/1581 fragments zero broken. R8 IN_PROGRESS, R9 NOT_STARTED, approval ZERO.",
       "readiness_status": "ASSESSED_REBUILD_REQUIRED",
       "readiness_gate_file": "project-control/academic-readiness/5-2-5.json"
     },
@@ -1175,17 +1175,17 @@
     "artifact_qa": "project-control/academic-readiness/2-3-3-cycle98-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
   },
   "latest_academic_readiness_cycle": {
-    "cycle": 136,
-    "date": "2026-10-31",
-    "topic": "4-3-5",
-    "source_audit": "project-control/academic-readiness/4-3-5-cycle136-ten-mcq-primary-option-audit-2026-10-31.md",
-    "downloaded_artifact_qa": "project-control/academic-readiness/4-3-5-cycle136-actual-downloaded-post-footer-fix-artifact-qa-2026-10-31.json",
-    "github_ci_run_id": 41207793283,
-    "github_ci_pdf_sha256": "fe2a51827dbc67a25d80b131434cabe664cf7ede6a285993a9ef2f126d27e478",
-    "github_ci_pdf_pages": 30,
-    "packaging_run": 41207834560,
-    "artifact_id": 13044997340,
-    "artifact_sha256": "8613d4e2948b4ee96174398db6d60a53b47270c4da028e20e93b72cf63194248",
+    "cycle": 146,
+    "date": "2026-11-01",
+    "topic": "5-2-5",
+    "source_audit": "Paper 5/Unit 2 - Modern Applications of Science/Topic 5/source/academic-option-audit-cycle146.md",
+    "downloaded_artifact_qa": "project-control/academic-readiness/5-2-5-cycle146-actual-downloaded-post-render-artifact-qa-2026-11-01.json",
+    "github_ci_run_id": 41254648886,
+    "github_ci_pdf_sha256": "45e974927010e74743e211ccc0332512573e1acc492bbad6e593960d9714bbcc",
+    "github_ci_pdf_pages": 29,
+    "packaging_run": 41254739003,
+    "artifact_id": 13062608390,
+    "artifact_sha256": "21d1e8bf1a38e680840523bddae92b4458bd2c1da7c66e8e9e68701cfe9f6c99",
     "topic_counts": {
       "IN_PROGRESS": 7,
       "ASSESSED_REBUILD_REQUIRED": 68,
