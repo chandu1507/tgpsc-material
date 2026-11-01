@@ -32,7 +32,7 @@
   "student_accepted": false,
   "latest_evidence": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 5/source/academic-option-audit-cycle153.md",
   "cycle154_2026_11_01": {
-    "status": "AUTHOR_SIDE_NINE_CONCEPT_DEPTH_EXPANSION_PENDING_CI_NOT_APPROVED",
+    "status": "CI_PDF_PUBLISHED_ACTUAL_ARTIFACT_DOWNLOADED_QA_PASS_NOT_ACADEMICALLY_APPROVED",
     "edited_sections": [
       4,
       6,
@@ -56,8 +56,18 @@
     ],
     "evidence": "project-control/academic-readiness/5-3-5-cycle154-nine-concept-source-bounded-expansion-2026-11-01.json",
     "R3": "IN_PROGRESS",
-    "R8": "IN_PROGRESS",
+    "R8": "IN_PROGRESS_BROWSER_AND_ACADEMIC_QA_PENDING",
     "R9": "NOT_STARTED",
-    "independent_academic_approvals": 0
+    "independent_academic_approvals": 0,
+    "pdf_pages": 32,
+    "pdf_sha256": "155adf3478304c08eb983726930c2bf03b38f16b0af4b498bcebc197f4ba0115",
+    "artifact_id": 13074894207,
+    "artifact_qa_evidence": "project-control/academic-readiness/5-3-5-cycle154-actual-downloaded-artifact-qa-2026-11-01.json",
+    "original_pdf_preserved": true,
+    "readiness_status_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    }
   }
 }
