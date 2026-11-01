@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-2 Cycle168: §§4/5/8 expanded, body-only 7→4 under300; academic evidence committed; CI PDF and downloaded post-merge artifact PENDING; 75 originals and zero approvals.",
+    "last_reported_topic": "2-3-2 Cycle168: §§4/5/8 expanded, 7→4 body-only under300; 43-page CI PDF and actual artifact 13100283709 downloaded CRC/SHA/75 originals/links PASS; QA/control commit postdates archive; zero approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
@@ -248,11 +248,15 @@
         "S51"
       ],
       "evidence": "project-control/academic-readiness/2-3-2-cycle168-millets-commercial-crops-agricultural-transition-source-depth-audit-2026-11-02.json",
-      "ci_pdf": "PENDING",
-      "downloaded_artifact_qa": "PENDING",
+      "ci_pdf": "SUCCESS_43_PAGES",
+      "downloaded_artifact_qa": "VERIFIED_13100283709",
       "original_pdfs_to_preserve": 75,
       "fully_ready": 0,
-      "independent_approvals": 0
+      "independent_approvals": 0,
+      "pdf_sha256": "afe1747ac579cc3733e87050d8a09229ef98178669d14a25a7e696cf67735d32",
+      "artifact_sha256": "ab627d81df91aa977c7a82e2a88712b7af5acfb23823c354c0d8c1a276ffabf5",
+      "artifact_qa_evidence": "project-control/academic-readiness/2-3-2-cycle168-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+      "post_qa_packaging": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
