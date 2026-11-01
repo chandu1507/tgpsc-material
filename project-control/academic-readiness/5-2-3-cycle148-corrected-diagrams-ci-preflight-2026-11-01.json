@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-01",
+  "cycle": 148,
+  "topic": "5-2-3",
+  "assessment": "AUTHOR_SIDE_DIAGRAM_CORRECTION_NOT_INDEPENDENT_CERTIFICATION",
+  "source_review": [
+    {
+      "claim": "HACCP deviation monitoring must trigger corrective action for cause and affected product; verification follows as effectiveness assessment; records apply throughout",
+      "source": "FAO Codex General Principles of Food Hygiene and HACCP Toolbox",
+      "url": "https://www.fao.org/4/Y1579E/y1579e03.htm",
+      "additional_url": "https://www.fao.org/good-hygiene-practices-haccp-toolbox/en"
+    },
+    {
+      "claim": "Drinking water treatment must be chosen from tested microbial/chemical risks; disinfection is not fluoride removal",
+      "source": "WHO Guidelines for Drinking-water Quality, third addendum, 17 June 2026",
+      "url": "https://www.who.int/publications/i/item/9789240121225",
+      "additional_url": "https://www.who.int/docs/default-source/food-safety/arsenic/9789241549950-eng.pdf"
+    }
+  ],
+  "preserved_originals": [
+    "diagrams/01-food-safety-haccp.png",
+    "diagrams/02-organic-mechanisation.png",
+    "diagrams/03-water-treatment.png"
+  ],
+  "corrected_editable_figures": [
+    "diagrams/01-haccp-corrected-cycle148.svg",
+    "diagrams/03-water-treatment-branches-cycle148.svg"
+  ],
+  "local_prepublication": {
+    "original_topics": 75,
+    "original_pdfs": 75,
+    "original_pdf_sha256_unchanged_from_cycle147": true,
+    "html_pages": 92,
+    "local_links_checked": 591,
+    "broken_local_links": 0,
+    "dom_fragments_checked": 1581,
+    "broken_dom_fragments": 0,
+    "spa_hash_routes_excluded": 43,
+    "integrated_pdf_pages": 30,
+    "integrated_pdf_sha256": "8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65",
+    "blank_pages": 0,
+    "text_boundary_violations": 0,
+    "corrected_diagram_text_present": true,
+    "visual_pages_inspected": [
+      14,
+      15
+    ]
+  },
+  "github_renderer": {
+    "initial_failed_run": 41262846297,
+    "reason": "pycairo build missing libcairo2-dev/pkg-config",
+    "repaired_run": 41262911647,
+    "conclusion": "SUCCESS",
+    "guarded_nonforce": true,
+    "ci_pdf_sha256": "8332ea7a369e4ed75ca07a614c913a44f8b12f9b89d79d72ab8238a667953d65"
+  },
+  "status": {
+    "topics": 75,
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0,
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0,
+    "R7": "IN_PROGRESS_NOT_PASS",
+    "R8": "IN_PROGRESS_NOT_PASS",
+    "R9": "NOT_STARTED"
+  },
+  "remaining": [
+    "20 original MCQ keys and 60 distractors",
+    "six mains claim-level audits",
+    "diagram 02 independent accuracy review",
+    "independent review of corrected figures 01 and 03",
+    "direct syllabus reauthentication",
+    "full browser accessibility",
+    "actual final post-control artifact download and CRC/hash QA"
+  ],
+  "integrity_note": "All original PDFs and inherited PNGs preserved; no 76th topic, no official PYQs or independent approval claimed."
+}
