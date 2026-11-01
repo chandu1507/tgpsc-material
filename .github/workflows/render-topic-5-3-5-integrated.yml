@@ -42,7 +42,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             python scripts/publish_topic_5_3_5.py
-            git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle63.pdf" 'project-control/academic-readiness/5-3-5-cycle153-ci-render-qa-2026-11-01.json'
+            git add -- "$chapter/index.html" "$chapter/manifest.json" "$chapter/README.md" "$chapter/QA-REPORT.md" "$chapter/source/integrated-student-edition-cycle63.pdf" 'project-control/academic-readiness/5-3-5-cycle154-ci-render-qa-2026-11-01.json'
             if git diff --cached --quiet; then
               echo 'Topic 5-3-5 already synchronized'
               exit 0
