@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-02",
+  "cycle": 170,
+  "topic_id": "2-3-5",
+  "status": "AUTHOR_SIDE_BOUNDED_PRIMARY_SOURCE_FOUR_OPTION_AUDIT_NOT_INDEPENDENT_APPROVAL",
+  "baseline_main": "ccc67f2419012eeef12fb7e313ad05d338aae5dd",
+  "source_markdown_git_blob_after_edit": "900f50b8818782701a16196e5f87763376477247",
+  "questions_total": 25,
+  "reviewed_questions": [
+    1,
+    2,
+    14,
+    20,
+    22
+  ],
+  "reviewed_options": 20,
+  "keys_unchanged": true,
+  "findings": {
+    "1": {
+      "key": "A",
+      "issue": "Prior stem was ambiguous: births and reclassification can both increase measured urban population without migration. New stem isolates reclassification of existing rural residents.",
+      "A": "Correct: reclassification without movement",
+      "B": "Natural increase among already urban residents does not reclassify existing rural residents",
+      "C": "Movement entails relocation",
+      "D": "Building construction alone does not establish Census reclassification",
+      "sources": [
+        "U18",
+        "U19"
+      ]
+    },
+    "2": {
+      "key": "B",
+      "issue": "Distinguish HMDA administrative expansion from physical urbanisation",
+      "A": "False: boundaries changed",
+      "B": "Correct: notified planning jurisdiction changed",
+      "C": "False: GHMC municipal and HMDA metropolitan jurisdictions differ",
+      "D": "False: HMDA area includes revenue villages",
+      "sources": [
+        "U4",
+        "U12"
+      ]
+    },
+    "14": {
+      "key": "B",
+      "issue": "Replace trivial distractors with distinct hydrological misconceptions",
+      "A": "False: impervious surfaces reduce direct infiltration",
+      "B": "Correct: increased and accelerated runoff with lower infiltration",
+      "C": "False: drains route runoff but do not make imperviousness irrelevant",
+      "D": "False: drainage does not eliminate flood risk",
+      "sources": [
+        "U20"
+      ]
+    },
+    "20": {
+      "key": "D",
+      "issue": "Differentiate built-up footprint, statutory boundary, and census-town status",
+      "A": "False: no automatic annexation per building",
+      "B": "False: census town need not become municipal corporation",
+      "C": "False: remotely observed built-up area differs from notified boundary",
+      "D": "Correct: physical and administrative change may differ",
+      "sources": [
+        "U18",
+        "U4",
+        "U19"
+      ]
+    },
+    "22": {
+      "key": "B",
+      "issue": "Original key incorrectly implied wastewater reuse was universally necessary; safe treatment and appropriate discharge also count",
+      "A": "Plant inauguration is an output",
+      "B": "Correct: actual flows safely treated, discharge or reuse as appropriate",
+      "C": "Sewer length alone is an output",
+      "D": "Rated capacity does not establish actual treatment quality",
+      "sources": [
+        "U21"
+      ]
+    }
+  },
+  "new_sources": [
+    {
+      "id": "U18",
+      "url": "https://ies.gov.in/arthapedia/concept/urban",
+      "scope": "Census 2011 statutory/census-town classification"
+    },
+    {
+      "id": "U19",
+      "url": "https://www.niti.gov.in/node/345",
+      "scope": "2021 urban planning capacity report: reclassification as component of measured urban growth"
+    },
+    {
+      "id": "U20",
+      "url": "https://www.epa.gov/caddis/urbanization-hydrology",
+      "scope": "Impervious surfaces and runoff/infiltration mechanism; not Hyderabad measurements"
+    },
+    {
+      "id": "U21",
+      "url": "https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf",
+      "scope": "UN SDG 6.3.1 metadata updated 23 April 2025: safely treated wastewater flows"
+    }
+  ],
+  "historical_distinct_source_correlated_keys": 12,
+  "newly_source_correlated_keys": 5,
+  "total_distinct_bounded_source_correlated_keys": 17,
+  "remaining_keys_without_bounded_source_correspondence": 8,
+  "independent_full_25_key_and_100_option_review": false,
+  "independent_academic_approvals": 0,
+  "official_pyqs_authenticated": 0,
+  "R5": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "limitations": [
+    "This is author-side source correspondence, not independent academic review.",
+    "HMDA order checked through official authority text, not a signed original.",
+    "US EPA generic hydrology does not establish a Hyderabad measured impact.",
+    "NITI national urbanisation evidence is not a Telangana-specific attribution.",
+    "UN wastewater indicator is a methodology, not a measurement of Hyderabad plant performance.",
+    "Browser and screen-reader accessibility not certified."
+  ]
+}
