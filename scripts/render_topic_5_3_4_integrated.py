@@ -72,8 +72,20 @@ def diagram(num):
             d.add(Line(x+93,38,x+100,38,strokeColor=accent,strokeWidth=1.5))
     return d
 
+def normalize_pdf_text(s):
+    # Keep the UTF-8 editable Markdown intact. Normalize only the ReportLab input
+    # for symbols absent from the installed NotoSans-Regular font.
+    replacements = {
+        '−':'-', '→':' -> ', '←':' <- ', '↔':' <-> ',
+        '⇒':' => ', '⇔':' <=> ', '≥':'>=', '≤':'<=', '≠':'!=',
+        '≈':'~=', '∴':'therefore ', '∞':'infinity', '∩':' intersection ',
+        '∪':' union ', '∈':' in ', '∉':' not in ',
+        '×':' x ', '÷':'/', '⅓':'1/3', '⅔':'2/3',
+    }
+    return ''.join(replacements.get(ch,ch) for ch in s)
+
 story=[]
-tokens=MarkdownIt('commonmark').enable('table').parse(src.read_text())
+tokens=MarkdownIt('commonmark').enable('table').parse(normalize_pdf_text(src.read_text()))
 i=0; current_table=None; row=None; cell=None; list_depth=0
 while i<len(tokens):
  t=tokens[i]
@@ -131,6 +143,9 @@ doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargi
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
+nul_count=sum(p.get_text().count('\x00') for p in pdf)
+if nul_count:
+    raise RuntimeError(f'Unsupported glyphs extracted as NUL in PDF: {nul_count}')
 qa={'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 if args.qa:
     args.qa.parent.mkdir(parents=True,exist_ok=True)
