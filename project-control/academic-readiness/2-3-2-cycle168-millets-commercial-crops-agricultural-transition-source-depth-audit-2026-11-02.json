@@ -1,0 +1,129 @@
+{
+  "cycle": 168,
+  "date": "2026-11-02",
+  "topic_id": "2-3-2",
+  "base_main": "fa4a252e0fbb4399568871d9e27ef776a1c03d5e",
+  "master_git_blob_sha": "c3cac95499f50c56b62c0ab471bba591d1e6b5a7",
+  "academic_status": "IN_PROGRESS_NOT_APPROVED",
+  "method": "Direct whitespace-token count of each Part C section BODY only, excluding heading; 40 unique numbered sections.",
+  "expanded_sections": [
+    4,
+    5,
+    8
+  ],
+  "before_body_words": {
+    "4": 294,
+    "5": 283,
+    "8": 284
+  },
+  "after_body_words": {
+    "4": 515,
+    "5": 526,
+    "8": 531
+  },
+  "under300_before": [
+    4,
+    5,
+    8,
+    12,
+    22,
+    25,
+    30
+  ],
+  "under300_after": [
+    12,
+    22,
+    25,
+    30
+  ],
+  "source_register_new": [
+    "S47",
+    "S48",
+    "S49",
+    "S50",
+    "S51"
+  ],
+  "sources": [
+    {
+      "id": "S47",
+      "url": "https://www.icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "scope": "ICAR 2025 advisory indexed excerpts, not complete PDF audit"
+    },
+    {
+      "id": "S48",
+      "url": "https://icar.gov.in/en/icar-iimr-hyderabad-and-icici-foundation-partner-empower-smallholders-and-strengthen-millet",
+      "scope": "ICAR 11 Dec 2025 announcement, no installed capacity verified"
+    },
+    {
+      "id": "S49",
+      "url": "https://coffeeboard.gov.in/coffee-regions-india.html",
+      "scope": "Coffee Board growing regions and shade descriptions"
+    },
+    {
+      "id": "S50",
+      "url": "https://www.teaboard.gov.in/pdf/Tea_Board_Annual_Report_2024_25_pdf287.pdf",
+      "scope": "Tea Board indexed 2024-25 report excerpt, not complete PDF audit"
+    },
+    {
+      "id": "S51",
+      "url": "https://www.dahd.gov.in/sites/default/files/2025-11/BAHS2025Brochures.pdf",
+      "scope": "DAHD indexed 2025 brochure and methodology, milk estimate not income"
+    }
+  ],
+  "illustrative_calculations": "Explicitly hypothetical margins and processing location/district dashboard; no actual Telangana district outcome inferred.",
+  "preservation": {
+    "concepts": 40,
+    "original_practice_mcqs": 25,
+    "mcq_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "structured_mains": 6,
+    "mains_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "original_topic_pdfs_must_remain": 75,
+    "original_pdf_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886"
+  },
+  "verification": {
+    "author_source_scope": "BOUNDED",
+    "all_mcq_keys_and_distractors_independently_verified": false,
+    "all_six_mains_claim_verified": false,
+    "diagrams_expert_validated": false,
+    "integrated_pdf_ci_rendered_this_cycle": false,
+    "actual_postmerge_artifact_downloaded_this_cycle": false,
+    "browser_accessibility_certified": false,
+    "full_R1_to_R8_ready": false,
+    "R9": "NOT_STARTED",
+    "independent_academic_approvals": 0
+  },
+  "notes": "Cycle167 seven sections under300 body-only. Cycle168 three expanded, four remain (12,22,25,30). Heading-inclusive counts are different; do not conflate. Publication and artifact QA must follow merge."
+}
