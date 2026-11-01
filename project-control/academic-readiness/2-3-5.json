@@ -36,9 +36,10 @@
     "project-control/academic-readiness/2-3-5-turn21-final-post-render-artifact-qa-2026-10-27.json",
     "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/2-3-5-cycle171-eight-remaining-original-mcq-four-option-source-audit-2026-11-02.json"
+    "project-control/academic-readiness/2-3-5-cycle171-eight-remaining-original-mcq-four-option-source-audit-2026-11-02.json",
+    "project-control/academic-readiness/2-3-5-cycle171-precontrol-downloaded-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle171: 8 remaining original practice MCQs Q4/Q12/Q13/Q15/Q19/Q21/Q23/Q24 revised in place with 32 bounded author-side option checks and sources U22-U29. All 25 keys now have bounded author-side source correspondence, NOT independent 100-option certification. CI render and actual artifact QA pending. Six mains, diagrams, browser QA and expert R9 outstanding.",
+  "next_action": "Cycle171: 25/25 original practice MCQ keys have bounded author-side source correspondence after eight new 32-option checks; 25-page CI PDF and downloaded precontrol archive 13105614661 SHA/CRC/75 original PDFs/75 readiness/links PASS. Control and R1 wording commits postdate archive; final post-control package and independent download pending. R5 not PASS: all 100 options need independent expert audit; six mains, diagrams, accessibility and R9 outstanding.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -55,7 +56,7 @@
   "latest_source_evidence": "project-control/academic-readiness/2-3-5-seven-official-source-claim-check-2026-10-27.json",
   "integrated_source": {
     "path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.md",
-    "publication_state": "CI_PDF_AND_ACTUAL_DOWNLOADED_ARTIFACT_VERIFIED_ACADEMIC_AUDIT_PENDING",
+    "publication_state": "CI_PDF_AND_PRECONTROL_ACTUAL_DOWNLOADED_ARTIFACT_VERIFIED_POSTCONTROL_PENDING",
     "original_practice_mcqs": 25,
     "model_answers": 6,
     "schematic_diagrams": 2,
@@ -63,9 +64,9 @@
     "qualitative_depth_pass": false,
     "source_level_mains_audit": false,
     "pdf_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
-    "pdf_sha256": "7ad8d95c678fdcb6811dc67c361a5d009e0fbf64f89db25d297482dc2465b688",
-    "pdf_pages": 23,
-    "actual_downloaded_artifact_id": 13104682429,
+    "pdf_sha256": "62433abb9288c708adff62f657f43db946cfb3c78cc22d2bbcdba03f12466b82",
+    "pdf_pages": 25,
+    "actual_downloaded_artifact_id": 13105614661,
     "portal_links_checked": true,
     "full_resolution_every_page_accessibility_certified": false
   },
@@ -246,10 +247,14 @@
     "original_pdf_preserved": true,
     "original_topics_expected": 75,
     "source_evidence": "project-control/academic-readiness/2-3-5-cycle171-eight-remaining-original-mcq-four-option-source-audit-2026-11-02.json",
-    "github_ci_render": "PENDING",
-    "actual_downloaded_postedit_artifact": "PENDING",
+    "github_ci_render": "SUCCESS_25_PAGES",
+    "actual_downloaded_postedit_artifact": "VERIFIED_13105614661",
     "R5": "IN_PROGRESS",
     "R9": "NOT_STARTED",
-    "independent_approvals": 0
+    "independent_approvals": 0,
+    "actual_pdf_sha256": "62433abb9288c708adff62f657f43db946cfb3c78cc22d2bbcdba03f12466b82",
+    "actual_artifact_sha256": "7fc587c9bd42e1a35abb91ce12749d82aa2d1a0538db48899aa54fa81e42df73",
+    "qa_evidence": "project-control/academic-readiness/2-3-5-cycle171-precontrol-downloaded-artifact-qa-2026-11-02.json",
+    "post_control_packaging": "PENDING"
   }
 }
