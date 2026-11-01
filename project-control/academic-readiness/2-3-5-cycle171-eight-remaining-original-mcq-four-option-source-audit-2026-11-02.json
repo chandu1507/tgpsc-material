@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-02",
+  "cycle": 171,
+  "topic_id": "2-3-5",
+  "status": "AUTHOR_SIDE_BOUNDED_EIGHT_QUESTION_FOUR_OPTION_SOURCE_CHECK_NOT_INDEPENDENT_APPROVAL",
+  "baseline_main": "a02c9c3d0f9f153b6314b0d5a56deaddc3e7af05",
+  "original_mcqs_preserved": 25,
+  "original_pdf_preservation_required": true,
+  "historical_bounded_source_correlated_keys": 17,
+  "newly_correlated_questions": [
+    4,
+    12,
+    13,
+    15,
+    19,
+    21,
+    23,
+    24
+  ],
+  "newly_reviewed_option_count": 32,
+  "total_distinct_bounded_source_correlated_keys": 25,
+  "source_register": {
+    "U22": {
+      "url": "https://unhabitat.org/antigua-and-barbuda-st-johns-city-urban-profile-west-indies",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    },
+    "U23": {
+      "url": "https://itdp.org/wp-content/uploads/2017/06/TOD_Standard_EN.pdf",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    },
+    "U24": {
+      "url": "https://www.epa.gov/green-infrastructure/mitigate-flooding",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    },
+    "U25": {
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-india-2019_554c1c22-en/full-report/component-6.html",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    },
+    "U26": {
+      "url": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Seasonal-migration-and-rural-urban-interface-in/995268283502676",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    },
+    "U27": {
+      "url": "https://gawc.lboro.ac.uk/gawc-worlds/the-world-according-to-gawc/world-cities-2024/",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    },
+    "U28": {
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    },
+    "U29": {
+      "url": "https://unhabitat.org/news/07-jul-2021/why-local-why-now-strengthening-intermediary-cities-to-achieve-the-sdgs",
+      "scope": "Conceptual or methodological correspondence only; no Hyderabad-specific outcome asserted"
+    }
+  },
+  "item_level_checks": [
+    {
+      "q": 4,
+      "key": "D",
+      "source": "U22",
+      "options": {
+        "A": "Uniform growth is not primacy",
+        "B": "Equal functions contradict dominance",
+        "C": "Twice-as-large is one classical threshold, not universal across all functional measures",
+        "D": "Disproportionate demographic or higher-order functional dominance"
+      }
+    },
+    {
+      "q": 12,
+      "key": "D",
+      "source": "U23",
+      "options": {
+        "A": "Route length measures network supply, not household usability",
+        "B": "Euclidean distance ignores accessible walking routes",
+        "C": "Advertising does not measure accessibility",
+        "D": "Time, affordability, step-free walking and feeders capture practical access"
+      }
+    },
+    {
+      "q": 13,
+      "key": "A",
+      "source": "U24",
+      "options": {
+        "A": "Integrated upstream storage, drainage and runoff management",
+        "B": "Isolated downstream drain ignores catchment processes",
+        "C": "Paving reduces infiltration/storage",
+        "D": "Warnings complement but do not substitute risk reduction"
+      }
+    },
+    {
+      "q": 15,
+      "key": "C",
+      "source": "U25",
+      "options": {
+        "A": "Advertised rent alone omits travel and services",
+        "B": "Approval count is not household cost",
+        "C": "Joint housing, transport and access burden",
+        "D": "Marketing is not a household cost metric"
+      }
+    },
+    {
+      "q": 19,
+      "key": "C",
+      "source": "U26",
+      "options": {
+        "A": "Permanent one-way move lacks repeated return",
+        "B": "Daily commuting differs from seasonal stays",
+        "C": "Repeated seasonal migration and return with origin ties",
+        "D": "Boundary notification is not a migration pattern"
+      }
+    },
+    {
+      "q": 21,
+      "key": "A",
+      "source": "U27",
+      "options": {
+        "A": "Documented advanced producer-service inter-city links are network evidence",
+        "B": "Airport alone is not proof of functional business network",
+        "C": "Skyline alone is not service-network evidence",
+        "D": "Branding alone is not measured network connectivity"
+      }
+    },
+    {
+      "q": 23,
+      "key": "C",
+      "source": "U28",
+      "options": {
+        "A": "Facade-only conservation omits community values",
+        "B": "Freeze on compatible reuse contradicts living landscape approach",
+        "C": "Conservation integrated with resident livelihoods and contemporary services",
+        "D": "Unbounded tourism can harm residents and fabric"
+      }
+    },
+    {
+      "q": 24,
+      "key": "D",
+      "source": "U29",
+      "options": {
+        "A": "Capital-only investment reinforces primacy",
+        "B": "Housing without jobs and services is incomplete",
+        "C": "Skyline imitation is not regional economic capability",
+        "D": "Complementary local services, jobs and connections support intermediary functions"
+      }
+    }
+  ],
+  "remaining_without_bounded_author_source_correlation": 0,
+  "full_independent_25_key_100_option_audit": false,
+  "claim_level_six_mains_audit": false,
+  "official_pyqs_authenticated": 0,
+  "independent_academic_approvals": 0,
+  "R5": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "publication_state": "EDITABLE_MASTER_COMMITTED_ON_BRANCH; CI_RENDER_AND_DOWNLOADED_ARTIFACT_PENDING",
+  "limitations": [
+    "Eight bounded source checks are author-side, not independent academic validation.",
+    "UN-Habitat primacy criteria are not a measured Hyderabad primacy ratio.",
+    "ITDP station walk-distance criteria are not a Hyderabad accessibility survey.",
+    "US EPA flood mechanism is not a Hyderabad hydraulic model.",
+    "OECD India housing findings are not Hyderabad rent estimates.",
+    "ILO study concerns seasonal migration in Gujarat, not measured Hyderabad flows.",
+    "GaWC classification is one advanced-service network methodology, not an assertion of Hyderabad rank.",
+    "UNESCO HUL is voluntary policy guidance, not proof of Hyderabad legal implementation.",
+    "UN-Habitat intermediary-city guidance is not proof of Telangana outcomes.",
+    "All six mains, original diagrams and browser/screen-reader QA remain outstanding."
+  ]
+}
