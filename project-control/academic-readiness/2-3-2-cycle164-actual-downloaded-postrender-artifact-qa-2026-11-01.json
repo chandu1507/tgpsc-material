@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-01",
+  "topic_id": "2-3-2",
+  "cycle": 164,
+  "workflow": {
+    "renderer_run_id": 41328943381,
+    "renderer_conclusion": "success",
+    "packaging_run_id": 41328986201,
+    "packaging_conclusion": "success",
+    "actual_downloaded_artifact_id": 13092451515,
+    "artifact_digest_sha256": "4471f55e3488e33db267bc09d3dffd9033ff2464702a4194b5307d079b5a4d9f",
+    "digest_matches_downloaded_bytes": true
+  },
+  "archive": {
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "file_count": 2225,
+    "original_topic_pdf_count": 75,
+    "all_original_topic_pdf_sha256_unchanged_vs_cycle163": true,
+    "readiness_json_count": 75,
+    "status_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "html_pages": 92,
+    "local_file_references_checked": 634,
+    "broken_local_file_references": 0,
+    "dom_fragment_links_checked": 1581,
+    "broken_dom_fragment_links": 0,
+    "spa_hash_routes_excluded": 42
+  },
+  "topic_pdf": {
+    "pages": 38,
+    "sha256": "0d57d51e88d31f51499d651e78ff0598fd1cafa1244d792604d9c9e3982d5f18",
+    "nul_glyphs": 0,
+    "replacement_glyphs": 0,
+    "blank_pages": 0,
+    "out_of_bounds_text_blocks": 0,
+    "visual_pages_sampled": [
+      4,
+      5,
+      8,
+      9,
+      23,
+      24,
+      37
+    ],
+    "full_browser_accessibility_certified": false
+  },
+  "topic_master": {
+    "numbered_concepts": 40,
+    "concept_word_counts_after": {
+      "6": 506,
+      "13": 523,
+      "38": 518
+    },
+    "sections_below_300": 16,
+    "source_register_entries": [
+      "S33",
+      "S34",
+      "S35"
+    ],
+    "academic_approvals": 0
+  },
+  "originals": {
+    "topic_2_3_2_sha256": "ca52cb6b999bfce51d07782a5bc3ab9df9b54396de63e54bee1a317837f69886",
+    "topic_3_1_1_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a"
+  },
+  "limits": [
+    "This QA file is committed after the inspected archive; subsequent packaging must be separately downloaded to prove inclusion.",
+    "No independent academic verification or screen-reader/browser accessibility certification.",
+    "The 300-word threshold is a mechanical screening metric only.",
+    "No official PYQ provenance was asserted."
+  ]
+}
