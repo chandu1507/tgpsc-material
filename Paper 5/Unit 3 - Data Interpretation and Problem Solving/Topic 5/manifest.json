@@ -16,12 +16,12 @@
     213
   ],
   "diagram_count": 3,
-  "primary_source_register": 10,
+  "primary_source_register": 17,
   "pdf_pages": 25,
   "academically_approved": false,
   "files_sha256": {
-    "QA-REPORT.md": "ae1581447c249e40d397d43e99fc7a5f175a3695f2e553ce5ac8ba50096b00c8",
-    "README.md": "da338d9901d15ceca48d14ceb6c67b8b40ff9c9668d037a4b2b13fb4cd0072a3",
+    "QA-REPORT.md": "3e572c6054e4f3218cce5de573c0834585f6ba69c0bc89bce92eeab1b296024e",
+    "README.md": "be094d140cf358a4b2593fd0ed7bd6298a2cae66c200767ffbf80115821d5591",
     "index.html": "2c5fbafcf3d0c2b1636e68577ffc6c89bbedf64a28d683b5895c3f8bf58f357d",
     "complete-notes.pdf": "f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833",
     "diagrams/03-action-timeline.png": "0f47993f9618dbf872d1dfbaeffbb616db3a6c5a2f3bb5635ae1460f78880b6f",

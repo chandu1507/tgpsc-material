@@ -1,9 +1,9 @@
-# Cycle153 deterministic render QA (not academic certification)
+# Cycle154 deterministic render QA (not academic certification)
 
 {
   "date": "2026-11-01",
   "topic_id": "5-3-5",
-  "cycle": 153,
+  "cycle": 154,
   "original_pdf_sha256": "f346c2354ec132bc14daa8dcf6cbd1f7cee5c2b3e65a5aa72f9c0a79ce5a4833",
   "original_preserved": true,
   "integrated_pdf_sha256": "155adf3478304c08eb983726930c2bf03b38f16b0af4b498bcebc197f4ba0115",
@@ -64,6 +64,19 @@
   "full_page_per_concept_met": false,
   "direct_browser_accessibility_certified": false,
   "independent_academic_approvals": 0,
+  "cycle154_expanded_concept_ids": [
+    4,
+    6,
+    8,
+    9,
+    12,
+    15,
+    16,
+    17,
+    18
+  ],
+  "R3": "IN_PROGRESS_NOT_ACADEMICALLY_CERTIFIED",
+  "source_register_entries": 17,
   "R8": "IN_PROGRESS_PENDING_ACTUAL_ARTIFACT_AND_ACADEMIC_QA",
   "actual_downloaded_artifact_verified": false
 }
