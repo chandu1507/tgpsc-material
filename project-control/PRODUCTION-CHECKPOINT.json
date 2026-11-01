@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "total_topics": 75,
   "published_draft_pdf_topics": 75,
   "slots_without_published_pdf": 0,
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5 Cycle170: five original MCQs author-side four-option checked; 23-page actual GitHub PDF, artifact 13104682429 actually downloaded SHA/CRC/75 originals/75 readiness/links PASS; QA commit postdates inspected archive; 0 approvals.",
+    "last_reported_topic": "2-3-5 Cycle171: all eight remaining original MCQ keys source-correlated with 32 bounded option reviews, 25/25 author-side; 25-page CI PDF and actual precontrol artifact 13105614661 downloaded and mechanically verified; post-control packaging pending; zero approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle157 2213 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 634 local href/src links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and zero expert approvals. QA evidence/control commit postdates inspected artifact.",
+    "note": "Cycle171 downloaded precontrol archive: 2239 files, 75 original PDFs unchanged, 75 readiness JSON, 92 HTML, 592 local links/1581 fragments zero broken; 14 normalized R1 PASS; 7/68/0 statuses; 0 R1-R8 ready and 0 approvals. QA/control commits postdate archive.",
     "cycle158": {
       "date": "2026-11-01",
       "topic": "3-1-1",
@@ -317,6 +317,30 @@
       "downloaded_artifact_sha256": "b88ce45c23eadf997db8c44c4d3ccb3177893d91f95531dd56dbdb3700778b8c",
       "post_control_packaging": "PENDING",
       "qa_evidence": "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+    },
+    "cycle171": {
+      "date": "2026-11-02",
+      "topic": "2-3-5",
+      "questions_revised": [
+        4,
+        12,
+        13,
+        15,
+        19,
+        21,
+        23,
+        24
+      ],
+      "new_option_checks": 32,
+      "source_correlated_keys": 25,
+      "original_pdf_count": 75,
+      "readiness_count": 75,
+      "ci_pdf_pages": 25,
+      "ci_pdf_sha256": "62433abb9288c708adff62f657f43db946cfb3c78cc22d2bbcdba03f12466b82",
+      "precontrol_artifact_id": 13105614661,
+      "precontrol_artifact_sha256": "7fc587c9bd42e1a35abb91ce12749d82aa2d1a0538db48899aa54fa81e42df73",
+      "independent_approvals": 0,
+      "post_control_packaging": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",

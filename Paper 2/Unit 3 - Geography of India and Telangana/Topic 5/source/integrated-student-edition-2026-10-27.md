@@ -4,7 +4,7 @@
 
 ## Syllabus coverage — provisional transcription; original TGPSC PDF direct recheck pending
 
-Spatio-temporal urbanisation, urban growth and migration; historical evolution of Hyderabad; primacy, city structure, industries and industrial estates; transport infrastructure, ORR and Metro; urban problems and planning; GHMC and HUDA/HMDA, Metropolitan Development Plan 2031; tourism and global-city functions. Source: existing topic syllabus index; R1 remains IN_PROGRESS.
+Spatio-temporal urbanisation, urban growth and migration; historical evolution of Hyderabad; primacy, city structure, industries and industrial estates; transport infrastructure, ORR and Metro; urban problems and planning; GHMC and HUDA/HMDA, Metropolitan Development Plan 2031; tourism and global-city functions. Source: existing topic syllabus index and prior official TGPSC Annexure II mapping; per-topic R1 is recorded PASS. This cycle did not independently reopen the original syllabus PDF.
 
 ## Part A — Consolidated explanatory chapter
 
