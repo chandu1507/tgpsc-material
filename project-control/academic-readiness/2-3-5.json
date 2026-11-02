@@ -40,9 +40,10 @@
     "project-control/academic-readiness/2-3-5-cycle171-precontrol-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle171-final-downloaded-postcontrol-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json",
-    "project-control/academic-readiness/2-3-5-cycle172-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/2-3-5-cycle172-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/2-3-5-cycle172-final-body-only-count-downloaded-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle172 six mains claim-level audit and body-only counting correction: exclude bold subheading labels; counts 237/236/230/224/211/237, all 200-250. Previous 247/250/242/234/222/250 counted labels. 25 MCQs preserved; corrected renderer eliminated footer-only page. New CI PDF and actual artifact download required after this master correction; zero independent academic approvals.",
+  "next_action": "Cycle172: six mains author-side claim map and corrected body-only counts 237/236/230/224/211/237 (excluding bold subheadings). Actual GitHub 25-page PDF SHA256 29c7c00326944436dfab365793a77dc80da4f81aec02769fdb166bbf85267da2, post-count artifact 13108808062 actually downloaded digest/CRC/75 original PDFs/75 readiness/592 local links/1581 fragments PASS, no footer-only pages. This QA evidence commit postdates inspected archive; final post-evidence repackage/download required. Independent MCQ, mains, diagrams, browser accessibility and expert approval pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -67,9 +68,9 @@
     "qualitative_depth_pass": false,
     "source_level_mains_audit": false,
     "pdf_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
-    "pdf_sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952",
+    "pdf_sha256": "29c7c00326944436dfab365793a77dc80da4f81aec02769fdb166bbf85267da2",
     "pdf_pages": 25,
-    "actual_downloaded_artifact_id": 13108896301,
+    "actual_downloaded_artifact_id": 13108808062,
     "portal_links_checked": true,
     "full_resolution_every_page_accessibility_certified": false
   },
@@ -299,6 +300,7 @@
       222,
       250
     ],
-    "post_count_correction_artifact_qa": "PENDING"
+    "post_count_correction_artifact_qa": "PASS",
+    "post_count_correction_artifact_id": 13108808062
   }
 }

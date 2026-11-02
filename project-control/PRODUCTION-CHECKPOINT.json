@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5 Cycle172: six mains claim-level audit; body-only counts excluding bold subheading labels corrected to 237/236/230/224/211/237. CI re-render pending.",
+    "last_reported_topic": "2-3-5 Cycle172: corrected body-only counts 237/236/230/224/211/237 and actual 25-page GitHub PDF verified; 0 approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Earlier six answer counts 247/250/242/234/222/250 included subheading labels; corrected 237/236/230/224/211/237. 75 original PDFs unchanged, 7/68/0, R1 PASS14, approvals0. New PDF/artifact QA required.",
+    "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
     "cycle158": {
       "date": "2026-11-01",
       "topic": "3-1-1",
@@ -373,7 +373,9 @@
         222,
         250
       ],
-      "post_count_correction_artifact_qa": "PENDING"
+      "post_count_correction_artifact_qa": "PASS",
+      "post_count_correction_artifact_id": 13108808062,
+      "corrected_actual_pdf_sha256": "29c7c00326944436dfab365793a77dc80da4f81aec02769fdb166bbf85267da2"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",

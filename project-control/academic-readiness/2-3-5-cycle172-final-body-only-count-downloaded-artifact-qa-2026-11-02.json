@@ -1,0 +1,65 @@
+{
+  "cycle": 172,
+  "date": "2026-11-02",
+  "topic_id": "2-3-5",
+  "github_packaging_run": 41370119872,
+  "actual_downloaded_artifact_id": 13108808062,
+  "artifact_sha256": "1cedebe39631d854814e3225f4668f6549e1011050ad74c8b8166a0113d27507",
+  "github_digest_match": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "packaged_files": 2244,
+  "original_topic_pdfs": 75,
+  "original_pdfs_unchanged": true,
+  "readiness_json": 75,
+  "html_pages": 92,
+  "local_file_links_checked": 592,
+  "local_links_broken": 0,
+  "dom_fragments_checked": 1581,
+  "dom_fragments_broken": 0,
+  "spa_routes_excluded": 42,
+  "actual_topic_pdf_pages": 25,
+  "actual_topic_pdf_sha256": "29c7c00326944436dfab365793a77dc80da4f81aec02769fdb166bbf85267da2",
+  "actual_master_sha256": "8c9c26cb11b738d92ae9ea85b67996ff02f46ae25c93b9c64df6d29b26a72617",
+  "footer_only_pages": [],
+  "blank_pages": [],
+  "replacement_or_nul_glyph_pages": [],
+  "out_of_bounds_pages": [],
+  "mains_body_only_excluding_bold_labels": [
+    237,
+    236,
+    230,
+    224,
+    211,
+    237
+  ],
+  "earlier_incorrect_counts_including_labels": [
+    247,
+    250,
+    242,
+    234,
+    222,
+    250
+  ],
+  "original_practice_mcqs": 25,
+  "original_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "R1_counts": {
+    "PASS": 14,
+    "IN_PROGRESS": 56,
+    "BLOCKED": 3,
+    "NOT_STARTED": 2
+  },
+  "fully_R1_R8_ready": 0,
+  "independent_approvals": 0,
+  "R9": "NOT_STARTED",
+  "limits": [
+    "Author-side source audit only; no named independent examiner",
+    "Static link checks, not full browser or screen-reader accessibility",
+    "This evidence commit postdates the inspected artifact; new post-evidence packaging and download required"
+  ]
+}
