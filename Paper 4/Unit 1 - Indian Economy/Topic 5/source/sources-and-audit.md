@@ -23,6 +23,9 @@ The following links are primary government sources or the best accessible public
 | S17 | [NITI Aayog Planning Commission archive](https://www.niti.gov.in/planning-commission-archive), historical documents | Plan chronology and archived documents; exact archival URL availability may vary. |
 | S18 | [Government of Telangana, *Telangana Rising 2047* vision PDF](https://tgswc.telangana.gov.in/wp-content/uploads/2025/12/TelanganaRising-2047.pdf), December 2025 | Original state vision directly retrieved in Cycle 39; CURE/PURE/RARE definitions and aspirational status; not evidence of completed outcomes. |
 | S19 | [Cabinet Secretariat notification on NITI Governing Council](https://www.niti.gov.in/sites/default/files/2021-09/Composition_of_Governing_Council_of_NITI_Aayog-Cab_Secretariat_Notification_dated_16-02-2015.pdf), 16 February 2015 | Primary notification distinguishes Governing Council composition date from NITI's 1 January establishment. |
+| S20 | [NITI Aayog, *An Assessment of Aspirational Districts Programme*](https://www.niti.gov.in/sites/default/files/2023-03/An-Assessment-Of-Aspirational-Districts-Programme.pdf), official-hosted assessment | Q11: three-Cs programme design; not causal impact certification. |
+| S21 | [Sixteenth Finance Commission, constitutional provisions](https://fincomindia.nic.in/constitutional-provisions), Article 280 | Q12: Finance Commission recommends Union–State tax division and allocation among States; no independent power to enact shares. |
+| S22 | [DIPAM, Disinvestment Policy](https://www.dipam.gov.in/disinvestment-policy), Ministry of Finance | Q13: minority stake sale without transfer of control differs from strategic disinvestment/privatisation. |
 
 ## Current-affairs integration, with dates
 
@@ -59,3 +62,7 @@ Q1–Q10 were reviewed against the linked issuer records. Each question now cont
 | [Government of India annual-plans directory](https://www.india.gov.in/category/governance-planning/subcategory/planning/details/annual-plans-by-planning-commission) | Q4/Q6: identifies official annual-plan series | Directly inspect 1966–69 and 1990–92 annual plans before promoting to fully source-checked |
 
 **Production gates:** R1–R8 remain non-PASS until all requirements are met. R9 NOT_STARTED; independent academic approvals ZERO. No change to the 75 original topic PDFs is authorised by this review.
+
+## Cycle 196 bounded option-level primary-source review — 3 November 2026
+
+Existing original practice Q11–Q13 retained their keys **A, D, B**; all **three keys and nine distractors** received author-side, option-by-option checks using primary NITI Aayog, Finance Commission and DIPAM sources S20–S22. ADP's three Cs describe programme design, not proven impact. Article 280 creates a recommendatory function. DIPAM classification depends on whether management control transfers, not solely the equity percentage. Q14–Q25 (12 keys and 36 distractors) remain without option-level review; Q4/Q6 original year-by-year Annual Plan documents remain uninspected. Six mains still require claim-level checks. No official PYQs, independent expert approval, full browser accessibility or R1–R8 completion is claimed.
