@@ -79,5 +79,24 @@
     "broken_static_links": 0,
     "full_browser_accessibility_certified": false,
     "independent_approval": false
+  },
+  "objective_cycle194": {
+    "date": "2026-11-03",
+    "original_mcqs_revised_in_place": [
+      6,
+      19,
+      20,
+      21
+    ],
+    "author_side_correct_keys_checked": 4,
+    "author_side_distractors_checked": 12,
+    "primary_sources": [
+      "Legislative Department Constitution Articles 243G/243W, Eleventh/Twelfth Schedules",
+      "MCA General Circular 14/2021 FAQs 1.1,1.4,2.3,3.1,4.1"
+    ],
+    "audit_path": "Paper 3/Unit 3 - Governance/Topic 4/source/cycle194-primary-source-audit.md",
+    "publication": "PENDING_CI_RENDER_AND_ACTUAL_ARTIFACT_QA",
+    "independent_approval": false,
+    "gate_promotions": []
   }
 }

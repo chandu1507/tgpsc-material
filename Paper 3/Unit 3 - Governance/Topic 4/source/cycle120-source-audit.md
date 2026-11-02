@@ -1,6 +1,6 @@
 ### Cycle120 bounded primary-source audit — 31 October 2026
 
-Five newly authored practice MCQs (Q26–Q30) and their 15 distractors were checked author-side against the following primary issuer materials. **These are not authenticated official TGPSC PYQs and not independently academically certified.** The other 25 MCQs and all six mains answers still need complete independent claim-level verification.
+Five newly authored practice MCQs (Q26–Q30) and their 15 distractors were checked author-side against the following primary issuer materials. **These are not authenticated official TGPSC PYQs and not independently academically certified.** Four of the 25 older MCQs (Q6/Q19/Q20/Q21) received later bounded author-side option checks in Cycle194; the remaining 21 older MCQs and all six mains still lack complete independent claim-level verification. See Cycle194 audit below.
 
 | Question | Key | Direct primary evidence | Distractor check |
 |---|---|---|---|

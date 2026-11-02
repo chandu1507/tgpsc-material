@@ -27,6 +27,7 @@
 | S19 | Telangana Government, WE Hub | State-supported entrepreneurship ecosystem and gender-specific constraints | https://wehub.telangana.gov.in/ |
 | S20 | Telangana Government, SERP gender initiative | SHG Social Action Committees and community-based gender support | https://efms.serp.telangana.gov.in/HD/HumanDevelopment/Htmlfiles/Chaitanya.htm |
 | S21 | Department of Economic Affairs, VGF guidelines annexure | Competitive bidding and appraisal controls | https://www.pppinindia.gov.in/assets/doc/vgf-guidelines/pdf/vgf-guideline.pdf |
+| S22 | Ministry of Corporate Affairs, General Circular 14/2021, dated 25 August 2021 (CSR FAQs) | FAQ 1.1 alternative preceding-year thresholds; FAQ 1.4 short-company-history proviso; FAQ 2.3 two-percent spending; FAQ 3.1 Section 198 profit calculation; FAQ 4.1 statutory-duty exclusion. Historical circular, not a 2026 amendment audit. | https://www.mca.gov.in/Ministry/pdf/FAQ_CSR.pdf |
 
 ### Internally checked assertions
 
