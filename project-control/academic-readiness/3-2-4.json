@@ -1,7 +1,7 @@
 {
   "topic_id": "3-2-4",
   "title": "Judicial System: Courts, Tribunals, Judicial Review, Independence and Accountability",
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -61,10 +61,10 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle30: direct current source audit found 11 substantial concepts 605–910 words, 25 original explained MCQs, six mains; body-only recount 205/210/196/200/200/194 contradicts historical manifest 220/228/208/211/212/208. M3 and M6 below 200-word minimum. Two existing SVG diagrams need visual accuracy check. Limited Supreme Court 2025 judgment reiteration of L Chandra Kumar and official eCourts Phase III scope reviewed; NOT complete R4/R5/R6. No synchronized new PDF; original 42-page PDF preserved. Cycle31: source and consolidated master plus offline HTML corrected M3 and M6 to body-only 239/235 words; source-limited 2023 Supreme Court reiteration and eCourts Phase III dashboard correspondence. No complete factual review or independent approval. Two SVGs embedded in canonical source; integrated PDF workflow pending. Cycle31 GitHub Actions synchronized integrated PDF for Topic 3-2-4 actually packaged and independently downloaded from run 40458404442 artifact 12712828105; outer/inner CRC, original 75 PDF hashes, static links and PDF text boundaries checked. Full browser accessibility not certified; R8 not PASS. Cycle115: 5 original practice MCQs Q26-Q30 source-bounded to official Constitution Arts129/130/144/215/233/234; 5 keys/15 distractors author checked, 4 existing B options reordered to D; 30 total, A7/B8/C7/D8. Full independent academic and browser audit pending. Original 75 PDFs preserved by workflow guard; CI render/artifact QA pending. Cycle115 post-render Actions 41093473197 SUCCESS, 36-page PDF SHA87b61658; early package 12994578697 rejected as stale PDF; actual post-render artifact 12993939939 downloaded and verified SHA/CRC/75 originals/597 links/1050 fragments PASS. R8 remains IN_PROGRESS; full browser/academic checks pending.",
-  "next_action": "Independent academic claim and MCQ audits, direct official syllabus, diagram factual checks, public browser accessibility; preserve original 75 PDFs.",
+  "next_action": "Check remaining 26 MCQs and six mains claim-by-claim; official 2024 notification direct page authentication; diagrams and accessibility. Cycle189 Q1–4 source-bounded only.",
   "external_reviewer": null,
   "student_accepted": false,
-  "last_updated_cycle": 115,
+  "last_updated_cycle": 189,
   "cycle115": {
     "source": "Legislative Department Constitution PDF 2025-07",
     "added_original_practice_mcqs": 5,
@@ -90,5 +90,30 @@
     "downloaded_artifact_qa": "PASS run 41093677607 artifact 12993939939, digest/CRC/75 originals/links/PDF checked",
     "academic_approval": false,
     "evidence_file": "project-control/academic-readiness/3-2-4-cycle115-actual-downloaded-postrender-artifact-qa-2026-10-30.json"
+  },
+  "cycle189": {
+    "date": "2026-11-02",
+    "topic": "3-2-4",
+    "original_practice_mcqs_revised": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "author_checked_keys": 4,
+    "author_checked_distractors": 12,
+    "source_ids": [
+      "S17",
+      "S18",
+      "S19"
+    ],
+    "total_original_practice_mcqs": 30,
+    "original_pdf_sha256_expected": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f",
+    "R1": "IN_PROGRESS (official Commission-hosted PDF not independently fetched this cycle)",
+    "R2_R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0,
+    "CI_pdf": "PENDING",
+    "actual_downloaded_artifact_qa": "PENDING"
   }
 }
