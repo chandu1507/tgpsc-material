@@ -1,0 +1,104 @@
+{
+  "cycle": 172,
+  "date": "2026-11-02",
+  "topic_id": "2-3-5",
+  "baseline_main": "8757debd826520b22c81a862d72bbefc6bdf07c9",
+  "scope": "Six existing 20-mark mains answers: bounded author-side claim verification; no independent approval",
+  "source_verification": [
+    {
+      "answer": 1,
+      "anchors": [
+        "U4",
+        "U12",
+        "U29"
+      ],
+      "confirmed": "HMDA metropolitan remit; intermediary city concept",
+      "unverified": "Hyderabad primacy ratio, regional causal outcomes, housing trend"
+    },
+    {
+      "answer": 2,
+      "anchors": [
+        "U4",
+        "U6",
+        "U13",
+        "U14",
+        "U21"
+      ],
+      "confirmed": "HMDA 2025 extension, published Master Plan 2031, ORR, Metro Phase I 69 km and proposed Phase II",
+      "corrected": [
+        "2031 map coverage not presumed for enlarged 2025 boundary",
+        "wastewater safe treatment need not imply mandatory reuse"
+      ],
+      "unverified": "local transport accessibility and flood impact"
+    },
+    {
+      "answer": 3,
+      "anchors": [
+        "U1",
+        "U4",
+        "U18"
+      ],
+      "confirmed": "Census 2011 urban share 38.88%; HMDA 2008 7257 sq km, 2025 10472.723 sq km",
+      "unverified": "current urban share or population from jurisdictional expansion"
+    },
+    {
+      "answer": 4,
+      "anchors": [
+        "U8",
+        "U20",
+        "U24"
+      ],
+      "confirmed": "general impervious cover and runoff mechanism; Musi geographic context",
+      "unverified": "Hyderabad-specific runoff coefficients, lake capacity and flood depth"
+    },
+    {
+      "answer": 5,
+      "anchors": [
+        "U25",
+        "U26"
+      ],
+      "confirmed": "general housing access and seasonal circular migration frameworks",
+      "unverified": "Gujarat ILO case is NOT Hyderabad migration dataset; local rents/flows not checked"
+    },
+    {
+      "answer": 6,
+      "anchors": [
+        "U15",
+        "U27",
+        "U28"
+      ],
+      "confirmed": "UNESCO 2011 HUL recommendation voluntary; 2010 Qutb Shahi tentative listing, not inscription; GaWC functional framework",
+      "unverified": "no Hyderabad ranking, visitor count or local UNESCO legal mandate"
+    }
+  ],
+  "source_urls": {
+    "U1": "https://www.telangana.gov.in/About/State-Profile/",
+    "U4": "https://www.hmda.gov.in/",
+    "U6": "https://www.hmda.gov.in/master-planning-2031/",
+    "U14": "https://hmrl.co.in/phase-ii/",
+    "U15": "https://whc.unesco.org/en/tentativelists/5573/",
+    "U20": "https://www.epa.gov/caddis/urbanization-hydrology",
+    "U26": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Seasonal-migration-and-rural-urban-interface-in/995268283502676",
+    "U28": "https://whc.unesco.org/en/faq/177"
+  },
+  "answer_body_whitespace_words": [
+    247,
+    250,
+    242,
+    234,
+    222,
+    250
+  ],
+  "answers_preserved": 6,
+  "original_practice_mcqs_preserved": 25,
+  "independent_academic_approvals": 0,
+  "fully_R1_R8_ready": 0,
+  "R9": "NOT_STARTED",
+  "limitations": [
+    "Author-side bounded source checks only",
+    "No official PYQ or expert approval",
+    "No direct new original TGPSC syllabus PDF review",
+    "No local empirical outcome audit",
+    "No full screen-reader accessibility certification"
+  ]
+}
