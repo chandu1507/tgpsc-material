@@ -95,7 +95,7 @@
       "MCA General Circular 14/2021 FAQs 1.1,1.4,2.3,3.1,4.1"
     ],
     "audit_path": "Paper 3/Unit 3 - Governance/Topic 4/source/cycle194-primary-source-audit.md",
-    "publication": "CI_RENDER_SUCCESS_FINAL_ARTIFACT_QA_PENDING",
+    "publication": "ACTUAL_GITHUB_ARTIFACT_DOWNLOADED_VERIFIED_POST_EVIDENCE_PACKAGE_PENDING",
     "independent_approval": false,
     "gate_promotions": [],
     "layout_fixes": {
@@ -107,6 +107,10 @@
         388
       ]
     },
-    "pre_final_evidence_path": "project-control/academic-readiness/3-3-4-cycle194-bounded-source-and-layout-evidence-2026-11-03.json"
+    "pre_final_evidence_path": "project-control/academic-readiness/3-3-4-cycle194-bounded-source-and-layout-evidence-2026-11-03.json",
+    "qa_evidence_path": "project-control/academic-readiness/3-3-4-cycle194-actual-downloaded-artifact-qa-2026-11-03.json",
+    "actual_downloaded_artifact_id": 13182704612,
+    "actual_integrated_pdf_pages": 42,
+    "all_30_mcqs_same_page": true
   }
 }
