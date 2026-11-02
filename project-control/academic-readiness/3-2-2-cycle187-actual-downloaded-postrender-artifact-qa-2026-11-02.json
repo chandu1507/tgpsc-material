@@ -1,0 +1,67 @@
+{
+  "cycle": 187,
+  "date": "2026-11-02",
+  "topic_id": "3-2-2",
+  "packaging_run_id": 41477004065,
+  "artifact_id": 13156838869,
+  "artifact_actually_downloaded": true,
+  "artifact_sha256": "0c966730befc51f798ed458033dca9dae1b243bf658779c70b1bd2fb00cb6c8b",
+  "github_reported_digest": "0c966730befc51f798ed458033dca9dae1b243bf658779c70b1bd2fb00cb6c8b",
+  "outer_crc": "PASS",
+  "inner_crc": "PASS",
+  "files": 2274,
+  "original_topic_pdfs": 75,
+  "original_pdfs_byte_identical_to_cycle186": 75,
+  "readiness_json": 75,
+  "html_pages": 92,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1": {
+    "PASS": 19,
+    "IN_PROGRESS": 51,
+    "BLOCKED": 3,
+    "NOT_STARTED": 2
+  },
+  "local_links_checked": 634,
+  "broken_local_links": 0,
+  "dom_fragments_checked": 1581,
+  "broken_fragments": 0,
+  "spa_hash_routes_excluded": 42,
+  "actual_integrated_pdf_pages": 30,
+  "actual_integrated_pdf_sha256": "486c6c589860718c7eac447cdf7e7b5e32a8e1bad7f6cdf7c3ff9ea4feb00d8c",
+  "actual_integrated_master_sha256": "14a3d7e596713111d005ceed8edb4370630f885fe9b71a072e8ed74378b4d974",
+  "pdf_blank_or_footer_only_pages": 0,
+  "pdf_out_of_bounds_blocks": 0,
+  "pdf_replacement_or_nul_glyphs": 0,
+  "visual_pages_inspected": [
+    1,
+    23,
+    24
+  ],
+  "mcq_q17_q20_keys": {
+    "Q17": "C",
+    "Q18": "B",
+    "Q19": "D",
+    "Q20": "A"
+  },
+  "integrated_original_practice_mcqs": 30,
+  "mains_answers": 6,
+  "original_topic_3_2_2_pdf_sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d",
+  "original_topic_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "source_pr": 367,
+  "workflow_fix_pr": 368,
+  "legacy_renderer_failure_run": 41476712670,
+  "canonical_renderer_success_run": 41476712906,
+  "fully_R1_R8_ready": 0,
+  "independent_approvals": 0,
+  "R9": "NOT_STARTED",
+  "limitations": [
+    "This QA evidence commit postdates the inspected archive; post-evidence package/download required",
+    "R1 is 2024 syllabus correspondence only; Commission-hosted PDF returned HTTP403",
+    "Only four MCQs/16 options author-side checked this cycle; independent audit of remaining MCQs and six mains incomplete",
+    "Browser/screen-reader accessibility and cross-environment byte-identical PDF reproducibility unverified"
+  ]
+}

@@ -1735,12 +1735,12 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle187 Topic3-2-2 official 2024 R1 crosswalk 6/6 PASS and Q17–20 source-checked 16 options; normalized R1 PASS19/75, 7 IN_PROGRESS/68 REBUILD, 0 fully R1–R8 ready and 0 independent approvals; CI PDF/artifact QA pending.",
+  "latest_readiness_update": "Cycle187 Topic3-2-2 R1 PASS19; four original MCQs Q17–20 16 options source checked; canonical 30-page PDF and actual artifact13156838869 SHA/CRC/75 originals/75 readiness/links PASS; QA evidence commit postdates archive, final package pending; approvals0.",
   "latest_academic_cycle": {
     "cycle": 187,
     "topic_id": "3-2-2",
     "evidence": "project-control/academic-readiness/3-2-2-cycle187-r1-four-mcq-primary-source-audit-2026-11-02.json",
-    "editorial_state": "BRANCH_PROPOSED",
+    "editorial_state": "MERGED",
     "R1": "PASS",
     "normalized_R1_PASS": 19,
     "mcqs_checked": [
@@ -1750,15 +1750,21 @@
       20
     ],
     "option_checks": 16,
-    "ci_pdf": "PENDING",
-    "downloaded_artifact_qa": "PENDING",
-    "independent_approvals": 0
+    "ci_pdf": "SUCCESS_30_PAGES",
+    "downloaded_artifact_qa": "PASS_ACTUALLY_DOWNLOADED",
+    "independent_approvals": 0,
+    "renderer_run_id": 41476712906,
+    "pdf_sha256": "486c6c589860718c7eac447cdf7e7b5e32a8e1bad7f6cdf7c3ff9ea4feb00d8c",
+    "artifact_id": 13156838869,
+    "artifact_sha256": "0c966730befc51f798ed458033dca9dae1b243bf658779c70b1bd2fb00cb6c8b",
+    "post_qa_evidence_package": "PENDING",
+    "qa_evidence": "project-control/academic-readiness/3-2-2-cycle187-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   },
   "latest_academic_readiness_cycle": {
     "cycle": 187,
     "topic_id": "3-2-2",
     "evidence": "project-control/academic-readiness/3-2-2-cycle187-r1-four-mcq-primary-source-audit-2026-11-02.json",
-    "editorial_state": "BRANCH_PROPOSED",
+    "editorial_state": "MERGED",
     "R1": "PASS",
     "normalized_R1_PASS": 19,
     "mcqs_checked": [
@@ -1768,11 +1774,18 @@
       20
     ],
     "option_checks": 16,
-    "ci_pdf": "PENDING",
-    "downloaded_artifact_qa": "PENDING",
-    "independent_approvals": 0
+    "ci_pdf": "SUCCESS_30_PAGES",
+    "downloaded_artifact_qa": "PASS_ACTUALLY_DOWNLOADED",
+    "independent_approvals": 0,
+    "renderer_run_id": 41476712906,
+    "pdf_sha256": "486c6c589860718c7eac447cdf7e7b5e32a8e1bad7f6cdf7c3ff9ea4feb00d8c",
+    "artifact_id": 13156838869,
+    "artifact_sha256": "0c966730befc51f798ed458033dca9dae1b243bf658779c70b1bd2fb00cb6c8b",
+    "post_qa_evidence_package": "PENDING",
+    "qa_evidence": "project-control/academic-readiness/3-2-2-cycle187-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
   },
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-2-cycle187-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-2-2-cycle187-r1-four-mcq-primary-source-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-5-cycle184-original-2024-r1-eight-clause-crosswalk-2026-11-02.json",
     "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",

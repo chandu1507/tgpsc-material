@@ -40,8 +40,11 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending. Final 28-page PDF and 75-topic downloaded artifact CRC/hash/link checks PASS; 1544 files, 474 file links and 686 DOM fragments zero broken. R8 remains IN_PROGRESS due browser/accessibility checks.",
-  "next_action": "Cycle187 official 2024 R1 crosswalk 6/6 PASS and original practice Q17–20 16 option checks author-side; 26 other integrated MCQs/78 distractors, six mains claims, browser accessibility and independent expert approval pending. CI render and downloaded artifact QA pending.",
+  "evidence": [
+    "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending. Final 28-page PDF and 75-topic downloaded artifact CRC/hash/link checks PASS; 1544 files, 474 file links and 686 DOM fragments zero broken. R8 remains IN_PROGRESS due browser/accessibility checks.",
+    "project-control/academic-readiness/3-2-2-cycle187-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+  ],
+  "next_action": "Cycle187 canonical CI PDF30 pages and actual artifact13156838869 SHA/CRC/75 unchanged originals/75 readiness/634 links/1581 fragments PASS. QA evidence commit postdates inspected archive; post-evidence packaging pending. 26 MCQs/78 distractors, six mains, browser/accessibility and independent approval outstanding.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -108,8 +111,12 @@
     "original_mains": 6,
     "evidence": "project-control/academic-readiness/3-2-2-cycle187-r1-four-mcq-primary-source-audit-2026-11-02.json",
     "original_topic_pdf_preserved_expected": true,
-    "ci_pdf": "PENDING",
-    "downloaded_artifact_qa": "PENDING",
-    "independent_approvals": 0
+    "ci_pdf": "SUCCESS_30_PAGES",
+    "downloaded_artifact_qa": "PASS_ACTUALLY_DOWNLOADED",
+    "independent_approvals": 0,
+    "artifact_id": 13156838869,
+    "artifact_sha256": "0c966730befc51f798ed458033dca9dae1b243bf658779c70b1bd2fb00cb6c8b",
+    "pdf_sha256": "486c6c589860718c7eac447cdf7e7b5e32a8e1bad7f6cdf7c3ff9ea4feb00d8c",
+    "post_evidence_package": "PENDING"
   }
 }
