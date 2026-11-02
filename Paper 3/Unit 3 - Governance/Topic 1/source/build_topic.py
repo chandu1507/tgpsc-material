@@ -146,7 +146,7 @@ manifest={
  'detailed_chapters':len(re.findall(r'(?m)^## \d+\. ',(SRC/'detailed-notes.md').read_text())),
  'manuscript_word_count':len(full.split()),'pdf_bytes':pdf_path.stat().st_size,
  'components':[f for f,_ in COMPONENTS],
- 'source_register_count':20,'diagrams':2,
+ 'source_register_count':len(set(re.findall(r'(?m)^\| (S\d+) \|',(SRC/'sources-and-audit.md').read_text(encoding='utf-8')))),'diagrams':2,
  'files':{},
  'note':'Existing topic 3-3-1 only; preserved legacy complete-notes.pdf unchanged; integrated PDF generated from seven editable components; no independent academic approval.'
 }

@@ -149,33 +149,33 @@ C. The Finance Commission Act.
 D. The Representation of the People Act, 1950.  
 **Answer: B.** Internal/Local Committees under the 2013 Act have specified complaint-handling roles; NCW is not the exclusive adjudicatory forum.
 
-### Q22. The Estimates Committee of Parliament has:
-A. 22 members, all from Rajya Sabha.  
-B. 15 members, all ministers.  
-C. 30 members, all from Lok Sabha.  
-D. 30 members, all from state legislatures.  
-**Answer: C.** The Estimates Committee has 30 Lok Sabha members, elected annually, with ministers ineligible.
+### Q22. Which statement correctly identifies the Estimates Committee's composition and ministerial eligibility?
+A. It has 30 members elected from Lok Sabha, and a minister cannot be a member.  
+B. It has 22 members drawn from both Houses, and ministers may serve.  
+C. It has 30 members, including seven from Rajya Sabha.  
+D. It is a statutory audit authority that signs the Union's accounts.  
+**Answer: A.** The Estimates Committee is Lok Sabha-only with 30 members, and ministers are ineligible [S22]. B confuses its membership with the 22-member bicameral PAC/COPU and falsely permits ministers. C invents Rajya Sabha membership. D confuses parliamentary scrutiny with the CAG's separate audit mandate.
 
-### Q23. Which committee has up to 22 members (15 Lok Sabha and 7 Rajya Sabha) and examines appropriation accounts and CAG reports?
-A. Public Accounts Committee.  
-B. Estimates Committee.  
-C. Cabinet Committee on Security.  
-D. State Election Commission.  
-**Answer: A.** PAC performs ex-post financial scrutiny; its composition and mandate are documented by Lok Sabha.
+### Q23. Which statement correctly distinguishes the Public Accounts Committee (PAC) from the CAG?
+A. PAC is the constitutional auditor, while CAG is a Lok Sabha committee.  
+B. PAC has up to 22 members (15 Lok Sabha and up to 7 Rajya Sabha) and examines appropriation accounts and CAG reports.  
+C. PAC has 30 Lok Sabha members and primarily prepares next year's expenditure estimates.  
+D. PAC is a judicial tribunal empowered to impose criminal sentences for audit objections.  
+**Answer: B.** PAC membership and its ex-post scrutiny follow parliamentary rules and institutional history [S23]. A reverses the auditor and committee. C imports the Estimates Committee's 30-member composition and its estimates focus. D invents criminal adjudicatory power: PAC makes legislative scrutiny recommendations, not convictions.
 
-### Q24. Which body examines reports/accounts of selected public undertakings and their performance within parliamentary rules?
-A. PMO.  
-B. NCST.  
-C. UPSC.  
-D. Committee on Public Undertakings.  
-**Answer: D.** COPU focuses on selected public-sector enterprises and relevant audit material; it does not manage them daily.
+### Q24. The Committee on Public Undertakings (COPU) reviews a CAG report about a selected Union undertaking. Which action is within its mandate?
+A. Replace the undertaking's board and manage daily procurement.  
+B. Issue a binding criminal conviction against its officers.  
+C. Examine its reports, accounts and management principles and report recommendations to Parliament.  
+D. Supersede the CAG and issue the constitutional audit report itself.  
+**Answer: C.** COPU examines specified undertakings' reports/accounts, relevant CAG reports and management against sound business principles [S24]. A wrongly assigns executive management to legislative oversight. B wrongly assigns judicial criminal power. D wrongly substitutes COPU for the constitutionally distinct CAG.
 
-### Q25. Which statement correctly describes commencement under Rule 1 of the Digital Personal Data Protection Rules, 2025?
-A. All 23 rules came into force immediately upon Gazette publication.  
-B. Rules 3, 5–16, 22 and 23 came into force on publication; the rest are deferred.  
-C. Rule 4 takes effect after eighteen months, while Rules 17–21 take effect after one year.  
-D. Rules 1, 2 and 17–21 took effect on publication; Rule 4 is deferred one year, and Rules 3, 5–16, 22 and 23 eighteen months.  
-**Answer: D.** Gazette G.S.R. 846(E), dated 13 November 2025, Rule 1(2)–(4) specifies these three commencement groups [S20]. The Act's commencement notifications must be examined separately; the question concerns the Rules, not every obligation under the Act.
+### Q25. Under Rule 1 of the Digital Personal Data Protection Rules, 2025, which commencement sequence is correct?
+A. Rules 3 and 5–16 commenced on publication; Rules 1 and 2 are deferred eighteen months.  
+B. Rule 4 commenced on publication; Rules 17–21 commence after one year.  
+C. All 23 Rules commenced immediately because the Act and Rules have identical schedules.  
+D. Rules 1, 2 and 17–21 commenced on Gazette publication; Rule 4 follows after one year, and Rules 3, 5–16, 22 and 23 after eighteen months.  
+**Answer: D.** Gazette G.S.R. 846(E), Rule 1(2)–(4), specifies the three groups [S20]. A reverses the immediate and eighteen-month groups; B swaps Rule 4 with Rules 17–21; C wrongly conflates the Rules with separately notified commencement of the 2023 Act under G.S.R. 843(E) [S25]. The December 2025 corrigendum did not change these groups.
 
 ### Q26. Under Article 151(1), which sequence correctly describes submission of the CAG's Union audit reports?
 A. The CAG submits them to the President, who causes them to be laid before each House of Parliament.  
