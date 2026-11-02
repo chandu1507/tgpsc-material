@@ -7,7 +7,7 @@ on:
       - 'Paper 3/Unit 3 - Governance/Topic 2/source/original-mcqs.md'
       - 'Paper 3/Unit 3 - Governance/Topic 2/source/sources-and-audit.md'
       - 'Paper 3/Unit 3 - Governance/Topic 2/source/build_topic.py'
-      - '.github/workflows/render-topic-3-3-2-integrated.yml'
+      - '.github/workflows/render-topic-3-3-2-cycle118.yml'
   workflow_dispatch:
 permissions:
   contents: write
@@ -60,7 +60,7 @@ jobs:
           PY
             python 'Paper 3/Unit 3 - Governance/Topic 2/source/build_topic.py'
             python - <<'PY'
-          import fitz,pathlib,hashlib,json
+          import fitz,pathlib,hashlib,json,re
           root=pathlib.Path('Paper 3/Unit 3 - Governance/Topic 2')
           pdf=root/'source/integrated-student-edition-2026-10-31.pdf'
           doc=fitz.open(pdf)
@@ -68,6 +68,13 @@ jobs:
           assert all(len(p.get_text().strip())>60 for p in doc)
           assert 'Governance at State and District Levels' in doc[0].get_text()
           assert 'Article 243ZA' in ''.join(p.get_text() for p in doc)
+          for n in range(1,31):
+              page_indices=[i for i,p in enumerate(doc) if re.search(rf'(?m)^Q{n}\\. ',p.get_text())]
+              assert len(page_indices)==1,('mcq_page',n,page_indices)
+              segment=doc[page_indices[0]].get_text().split(f'Q{n}. ',1)[1]
+              if f'Q{n+1}. ' in segment: segment=segment.split(f'Q{n+1}. ',1)[0]
+              assert all(re.search(rf'(?m)^{letter}\\. ',segment) for letter in 'ABCD'),('mcq_options',n)
+              assert 'Answer:' in segment,('mcq_answer',n)
           for i,p in enumerate(doc):
               for b in p.get_text('dict')['blocks']:
                   if b['type']==0:
