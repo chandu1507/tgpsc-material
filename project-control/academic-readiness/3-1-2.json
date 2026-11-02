@@ -36,9 +36,10 @@
     "project-control/academic-readiness/3-1-2-cycle174-four-concepts-constitutional-sc-source-depth-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-2-cycle174-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-2-cycle175-four-concepts-identity-obc-minority-gender-source-audit-2026-11-02.json",
-    "project-control/academic-readiness/3-1-2-cycle175-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/3-1-2-cycle175-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/3-1-2-cycle176-comparison-and-district-service-design-source-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle175 actual downloaded GitHub 42-page PDF verified; 75 originals unchanged, 75 readiness, ZIP CRC/digest/634 local refs/1581 fragments PASS. 4/23 concepts under300; full academic and browser/accessibility review pending. Post-QA evidence package still pending; approvals0.",
+  "next_action": "Cycle176 expanded concepts20/22 with official-source-bounded comparison and hypothetical district service design; 2/23 sections remain under300 (21/23). R1-R8 ready0; 25 original practice MCQ options, six mains, original diagram and browser/accessibility checks remain independently unverified. CI render and downloaded-artifact QA pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -214,5 +215,28 @@
     "readiness_count": 75,
     "broken_links": 0,
     "final_post_qa_package": "PENDING"
+  },
+  "cycle176_2026_11_02": {
+    "expanded_concepts": [
+      20,
+      22
+    ],
+    "under300_before_after": [
+      4,
+      2
+    ],
+    "body_words_after": {
+      "20": 568,
+      "22": 636
+    },
+    "sources": [
+      "E176-01",
+      "E176-02",
+      "E176-03"
+    ],
+    "academic_approvals": 0,
+    "integrated_pdf": "PENDING_CI_RENDER",
+    "postrender_artifact_qa": "PENDING",
+    "source_audit": "project-control/academic-readiness/3-1-2-cycle176-comparison-and-district-service-design-source-audit-2026-11-02.json"
   }
 }
