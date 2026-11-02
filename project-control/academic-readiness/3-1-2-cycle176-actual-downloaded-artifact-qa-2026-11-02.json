@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-02",
+  "cycle": 176,
+  "topic_id": "3-1-2",
+  "verification": "ACTUAL_GITHUB_ACTIONS_ARTIFACT_DOWNLOADED_AND_INDEPENDENTLY_INSPECTED",
+  "source_run_id": 41391151740,
+  "source_run_commit": "89d6b9a1e82676554b55617f643758e80d52203b",
+  "artifact_id": 13117506426,
+  "github_reported_digest": "sha256:fd8964409f4be8114f62a5a52c5ec5c9bcc3d6d6aca81a9f46cfdf27680807e7",
+  "actual_downloaded_zip_sha256": "fd8964409f4be8114f62a5a52c5ec5c9bcc3d6d6aca81a9f46cfdf27680807e7",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "files": 2251,
+  "original_topic_pdfs": 75,
+  "original_pdfs_unchanged_from_cycle175": true,
+  "readiness_json": 75,
+  "html_pages": 92,
+  "local_file_references_checked": 634,
+  "broken_local_references": 0,
+  "dom_fragments_checked": 1581,
+  "broken_dom_fragments": 0,
+  "spa_hash_routes_excluded": 42,
+  "actual_pdf_pages": 43,
+  "actual_pdf_sha256": "f22a0107cba06de282101215c219f98fa7759338e74fcc7674de1a88d50c2c60",
+  "actual_editable_master_sha256": "bc93e49a273446d344b24a4f054a47352e1c579d98706515a6e5eb2d52c79934",
+  "pdf_blank_or_footer_only_pages": 0,
+  "pdf_replacement_or_nul_glyph_pages": 0,
+  "pdf_out_of_bounds_pages": 0,
+  "part_c_concepts": 23,
+  "part_c_under_300": [
+    21,
+    23
+  ],
+  "part_c_expanded_body_words": {
+    "20": 568,
+    "22": 636
+  },
+  "three_editable_source_sections_synchronized": true,
+  "original_practice_mcqs": 25,
+  "mains_answers": 6,
+  "topic_3_1_2_original_pdf_sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921",
+  "topic_3_1_1_original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_r1_pass": 14,
+  "fully_r1_r8_ready": 0,
+  "independent_academic_approvals": 0,
+  "r9": "NOT_STARTED",
+  "visual_pages_checked": [
+    23,
+    25
+  ],
+  "limitations": [
+    "This QA evidence commit necessarily postdates the artifact it describes; repackage and download again for final inclusion",
+    "Only selected PDF pages visually checked; no full browser or screen-reader accessibility certification",
+    "Official NCBC central list direct retrieval failed 502; no entry-level authentication",
+    "No independent expert academic verification of MCQ distractors, mains claims or diagrams"
+  ]
+}
