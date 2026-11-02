@@ -4,7 +4,7 @@
 
 | Code | Authority and document | URL | Used for / internal check |
 |---|---|---|---|
-| S1 | Telangana State Public Service Commission, Group-I Notification 02/2024, Annexure II | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | Exact Paper III / II / item 3 syllabus, verified directly |
+| S1 | Telangana State Public Service Commission, Group-I Notification 02/2024, Annexure II | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | 2024 text matched to contemporaneous copy; Commission-hosted file HTTP 403, byte identity unverified |
 | S2 | Government of India, Legislative Department, Constitution of India (consolidated as of 1 May 2024) | https://lddashboard.legislative.gov.in/sites/default/files/coi/COI_2024.pdf | Articles 52–123, 153–213, 245–254, 368 and Tenth Schedule; cross-check wording |
 | S3 | Telangana Government, Legislative Affairs Department | https://www.telangana.gov.in/departments/legislative-affairs/ | State creation date, bicameral structure, Assembly 119 and Council 40 |
 | S4 | Lok Sabha Secretariat, Digital Sansad FAQ | https://sansad.in/ls/faq | Question Hour, Zero Hour, no-confidence procedure, Rule 198 |
@@ -64,3 +64,12 @@ All five are **original practice questions**, not verified official PYQs. Each n
 - Full older-topic cumulative archive cannot be certified without byte access to the 19-topic master and intermediate Topic 5 ZIP; do not infer preservation from filenames alone.
 
 **Academic status:** Expanded draft; **0 topics academically approved**. **Official PYQs verified in this chapter: 0**.
+
+
+## 2 November 2026 — Cycle188 bounded syllabus and constitutional option audit [S14]
+
+**S14a — syllabus:** Telangana State Public Service Commission, Notification 02/2024, 19 February 2024, Annexure II, printed page 30 (PDF index 29), contemporaneous hosted copy: https://www.siasat.com/wp-content/uploads/2024/02/Group-I-detailed-NOTIFICATION_NO_02-2024.pdf . Page image directly inspected on 2 November 2026. Official Commission-hosted URL returned HTTP 403, so the copy's byte identity with the Commission-hosted file was not established. The seven syllabus clause groups correspond to Concepts 1–9. R1 PASS is **correspondence only**.
+
+**S14b — constitutional text:** Government of India, Ministry of Law and Justice, Legislative Department, *Constitution of India*, English–Kannada diglot as on 11 November 2025: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf . Author-side clause inspection: Article 54 (President's electoral college), Article 66 (different Vice-President college), Article 74(1) proviso (reconsidered advice), Article 75(3),(5) (Lok Sabha confidence and six-month membership), Article 108 (joint sittings for bills), Article 164(4) (state minister rule).
+
+**Q1–Q4 bounded checks:** Q1 B (Lok Sabha) and A/C/D rejected by Articles 75(3), 108 and constitutional structure; Q2 D (state Legislative Council members excluded) and A/B/C included under Article 54; Q3 C (act on reiterated advice) and A/B/D rejected under Article 74(1); Q4 B (six months) and A/C/D rejected under Article 75(5). All four explanations now identify the three distractors explicitly in the canonical master, original-MCQ file and offline HTML. These are **16 author-side option checks**, not independent expert verification. All 30 original practice questions and six mains answers retained. No official PYQ labels, no R2–R8 promotion and no independent academic approval.
