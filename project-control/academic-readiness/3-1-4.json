@@ -32,9 +32,10 @@
     "project-control/academic-readiness/3-1-4-cycle110-actual-downloaded-postrender-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle111-legacy-statutory-synchronization-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle111-actual-downloaded-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/3-1-4-cycle179-migrant-worker-current-law-mcq23-audit-2026-11-02.json"
+    "project-control/academic-readiness/3-1-4-cycle179-migrant-worker-current-law-mcq23-audit-2026-11-02.json",
+    "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle179: migrant-law currentness corrected in 5 editable files, existing original MCQ23 4 options author-side checked against Ministry/Gazette. R1 still IN_PROGRESS (2024 original syllabus not directly retrieved this cycle); R5/R8 and independent academic review incomplete. CI PDF and actual downloaded artifact SHA/CRC/75-topic/link QA required. Independent approvals0.",
+  "next_action": "Cycle179: MCQ23 current-law repair synced, actual GitHub 19-page PDF and artifact13125387735 downloaded SHA/CRC/75 originals/75 readiness/592 local links/1581 fragments PASS. QA evidence postdates artifact; final post-evidence packaging/download pending. R1 remains IN_PROGRESS; R5/R8 and independent review pending; approvals0.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -100,7 +101,9 @@
     "original_pdf_preserved_required": true,
     "official_PYQ_claims": 0,
     "independent_approvals": 0,
-    "CI_pdf": "PENDING",
-    "downloaded_artifact_QA": "PENDING"
+    "CI_pdf": "SUCCESS_19_PAGES",
+    "downloaded_artifact_QA": "VERIFIED_13125387735_SHA_CRC_75_ORIGINALS_75_READINESS_LINKS_PASS",
+    "actual_pdf_sha256": "e58838b8d598d94ed19607256ba741c393d39272f5e9154a1376f6cea5d46d2a",
+    "post_QA_packaging": "PENDING"
   }
 }
