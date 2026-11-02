@@ -571,7 +571,14 @@
       "actual_downloaded_artifact_qa": "PENDING",
       "R1_PASS": 17,
       "fully_R1_R8_ready": 0,
-      "independent_approvals": 0
+      "independent_approvals": 0,
+      "first_artifact_id": 13148839151,
+      "first_artifact_sha256": "b06675c0c1a1d70a16c96862c3b7a59645e559baaac6fd2a64acd4e1f83a30b9",
+      "first_artifact_qa": "PASS_WITH_MCQQ19_ORPHAN_LAYOUT_DEFECT",
+      "layout_fix_pr": 362,
+      "post_fix_ci_pdf_sha256": "13adbd02cbb84d209d23de5d93318164cbfad6c6a691e9f4e201ad8ae7c03be3",
+      "post_fix_ci_pdf_pages": 27,
+      "actual_postfix_artifact_qa": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
