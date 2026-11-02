@@ -23,22 +23,34 @@ A. Article 250  B. Article 252  C. Article 262  D. Article 263
 **Answer: B.** Article 252 is the consent-based legislative route. It differs from Article 250, which operates during a Proclamation of Emergency.
 
 **5. A State law on a Concurrent List matter conflicts with an earlier Union law. It was reserved for, and received, Presidential assent. Which is the most accurate position under Article 254(2)?**
-A. The State law may prevail in that State, but Parliament can subsequently override it by law  B. The Governor's assent alone makes the State law prevail throughout India  C. Parliament permanently loses competence over that Concurrent List subject  D. Every difference between Union and State laws automatically voids the State law despite Presidential assent
+A. The State law may prevail in that State, but Parliament can subsequently override it by law  
+B. The Governor's assent alone makes the State law prevail throughout India  
+C. Parliament permanently loses competence over that Concurrent List subject  
+D. Every difference between Union and State laws automatically voids the State law despite Presidential assent
 
 **Answer: A.** Article 254(2) permits the assented State law to prevail within that State despite repugnancy with an earlier Union law, subject to Parliament's later power to add to, amend, vary or repeal the State law. B confuses the Governor's assent with the constitutionally specified Presidential assent and invents nationwide effect. C denies Parliament's express subsequent power. D ignores the Article 254(2) exception and the need to establish actual repugnancy. [S20]
 
 **6. Which statement correctly describes the GST Council's constitutional role?**
-A. Article 263 establishes the GST Council to enact binding tax laws  B. Article 279A establishes the GST Council to make recommendations; Parliament and State legislatures retain their lawmaking roles  C. Article 280 establishes the GST Council to decide Union-State tax devolution  D. Article 279A excludes State government representatives from the Council
+A. Article 263 establishes the GST Council to enact binding tax laws  
+B. Article 279A establishes the GST Council to make recommendations; Parliament and State legislatures retain their lawmaking roles  
+C. Article 280 establishes the GST Council to decide Union-State tax devolution  
+D. Article 279A excludes State government representatives from the Council
 
 **Answer: B.** Article 279A establishes a Union-State forum that makes recommendations on GST matters. Legislative authority is separately governed, including by Article 246A; a Council recommendation does not itself enact a statute. A confuses the Inter-State Council under Article 263 with the GST Council. C confuses the Finance Commission under Article 280. D contradicts Article 279A's express State membership. [S21, S22]
 
 **7. At a formal GST Council vote, suppose all State representatives support a proposal but the Union votes against it. Under Article 279A(9), what follows?**
-A. The proposal passes because States collectively hold two-thirds of the weighted votes  B. The proposal cannot reach the required three-fourths weighted majority  C. The proposal passes automatically if the one-half membership quorum is present  D. The proposal automatically becomes an Act of Parliament because every State supported it
+A. The proposal passes because States collectively hold two-thirds of the weighted votes  
+B. The proposal cannot reach the required three-fourths weighted majority  
+C. The proposal passes automatically if the one-half membership quorum is present  
+D. The proposal automatically becomes an Act of Parliament because every State supported it
 
 **Answer: B.** Under Article 279A(9), the Union's vote has one-third weight and all States together have two-thirds. Two-thirds is below the required three-fourths weighted support of members present and voting, so B is correct. A confuses a large voting share with the threshold; C confuses quorum under Article 279A(7) with approval; D mistakes a Council recommendation for enacted legislation. [S21]
 
 **8. Which constitutional institution recommends Union-State tax sharing and measures to augment State consolidated funds for panchayats and municipalities?**
-A. The Finance Commission constituted under Article 280  B. The GST Council constituted under Article 279A  C. The Inter-State Council contemplated by Article 263  D. The State Election Commission under Article 243K
+A. The Finance Commission constituted under Article 280  
+B. The GST Council constituted under Article 279A  
+C. The Inter-State Council contemplated by Article 263  
+D. The State Election Commission under Article 243K
 
 **Answer: A.** Article 280(3) directs the Finance Commission to recommend Union-State tax distribution and measures to augment States' consolidated funds to supplement local bodies, using State Finance Commission recommendations. B concerns GST policy coordination, not the Finance Commission's devolution remit. C is an intergovernmental coordination mechanism. D supervises panchayat elections, not fiscal transfers. [S23]
 
