@@ -260,6 +260,12 @@ For a 200–250-word mains answer use: **Background / constitutional basis → i
 | S23 | Ministry of Education, Samagra Shiksha official programme and inclusive education pages, directly checked 30 Oct 2026 | Pre-school–Class XII scope and inclusion interventions; no verified Telangana learning-outcome dataset. https://samagra.education.gov.in/about.html ; https://samagra.education.gov.in/inclusive.html |
 | S24 | Ministry of Education, PM POSHAN official programme and 2026–27 Programme Approval Board pages, directly checked 30 Oct 2026 | Published approval through 2025–26 and temporary extension information through 30 Sep 2026; **does not establish 30 Oct 2026 renewal status**. https://pmposhan.education.gov.in/aboutus.html ; https://pmposhan.education.gov.in/PAB_PM_POSHAN.html |
 
+| S30 | India Code, *Provisions of the Panchayats (Extension to the Scheduled Areas) Act*, 1996, Act 40/1996, section 4(e)(i); checked 2 Nov 2026 | Gram Sabha approves village-level social/economic development plans before Panchayat implementation **in Scheduled Areas**; not a general village rule. https://www.indiacode.nic.in/bitstream/123456789/1973/1/A1996-40.pdf |
+| S31 | Ministry of Tribal Affairs, *Forest Rights Act 2006* explanatory portal and FRA Rules, checked 2 Nov 2026 | Individual/community rights, grazing, community forest resources; Gram Sabha initiates claims. No claim-specific Telangana titles verified. https://tribal.nic.in/FRA.aspx ; https://tribal.nic.in/FRA/data/FRARulesBook.pdf |
+| S32 | Ministry of Tribal Affairs, PM-JANMAN programme page and operational guidelines, checked 2 Nov 2026 | PVTG-targeted multi-sector mission; planned services do not prove completed habitation coverage. https://tribal.nic.in/pm-janman.aspx ; https://tribal.nic.in/downloads/PVTG/OperationalGuidelinePMJANMAN.pdf |
+| S33 | Legislative Department, *Constitution of India*, 2025 consolidated official edition, Article 342A(3), checked 2 Nov 2026 | 105th Amendment recognises State/UT backward-class lists for their own purposes, potentially different from Central List; no community-specific eligibility verified. https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf |
+| S34 | National Commission for Backward Classes, Central List of OBCs portal, checked 2 Nov 2026 | Official Central-list publication, including Telangana; portal alone does not establish a particular State-list entry. https://ncbc.nic.in/user_panel/centralliststateview.aspx |
+
 **Current-law evidence:** [S18] India Code, Act 36 of 2025 (125 household-days); [S19] Ministry of Rural Development PIB 11 May and 1 July 2026 (commencement/repeal). See source register for official URLs. Current Telangana implementing orders and district delivery were not independently audited.
 
 **Outstanding audit:** Direct signed Telangana government orders for every current scheme amount, district-wise pension disbursement records, independent scheme impact evaluations, beneficiary appeals datasets, complete original commission question papers and a genuinely independent academic review are not available in this run. The topic must remain **NOT ACADEMICALLY APPROVED**.
@@ -423,48 +429,48 @@ D. Number of press releases
 **Explanation:** Actual functionality and student outcomes matter more than a nominal allocation.
 
 ## MCQ 15
-**Question:** Which is primarily a self-government framework for Scheduled Areas?
+**Question:** A Gram Sabha in a constitutionally notified Scheduled Area is asked to approve a village-level development project before the Panchayat implements it. Which statutory provision most directly supports this role?
 
-A. PESA 1996
-B. PM POSHAN
-C. Mission Vatsalya
-D. National Food Security Act
+A. Section 3 of the Forest Rights Act, 2006, which recognises specified forest rights
+B. Article 342A, which governs Central and State backward-class lists
+C. Section 4(e)(i) of the Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA)
+D. Section 32 of the Rights of Persons with Disabilities Act, 2016, on higher-education reservation
 
-**Correct answer: A. PESA 1996**
-**Explanation:** PESA concerns panchayat governance in applicable Scheduled Areas, distinct from FRA rights recognition.
+**Correct answer: C. Section 4(e)(i) of PESA, 1996**
+**Explanation:** PESA section 4(e)(i) requires Gram Sabha approval of plans, programmes and projects for social and economic development before implementation by the village-level Panchayat in Scheduled Areas. A is a genuine forest-rights provision but does not establish this PESA project-approval requirement. B concerns identification of socially and educationally backward classes, not Scheduled Area Gram Sabha approval. D concerns reservation of higher-education seats for persons with benchmark disabilities. The question assumes the village is in a constitutionally notified Scheduled Area; PESA does not automatically apply to every village. [S30, S31, S33; checked 2 November 2026.]
 
 ## MCQ 16
-**Question:** Which statement about FRA 2006 is most accurate?
+**Question:** A forest-dwelling community seeks recognition of customary grazing access and the right to protect and manage a community forest resource. Which law most directly supplies the rights-recognition framework?
 
-A. It only provides cash pensions
-B. It recognises qualifying individual and community forest rights
-C. It is the same law as PESA
-D. It applies to every urban property
+A. PESA, 1996, which primarily extends modified Panchayat governance to Scheduled Areas
+B. The Forest Rights Act, 2006, which recognises qualifying individual and community forest rights
+C. PM-JANMAN, a targeted development mission for Particularly Vulnerable Tribal Groups
+D. Article 342A, which addresses lists of socially and educationally backward classes
 
-**Correct answer: B. It recognises qualifying individual and community forest rights**
-**Explanation:** FRA provides procedures for recognition of forest-related rights and community resource governance.
+**Correct answer: B. The Forest Rights Act, 2006**
+**Explanation:** The Forest Rights Act recognises specified community rights, including grazing and community forest resource protection and management, subject to eligibility and claim-verification procedures. A is relevant to Scheduled Area self-government but is not the FRA rights-recognition process. C funds targeted development interventions and is not a forest-title statute. D deals with backward-class lists, not forest tenure. Under the FRA Rules, the Gram Sabha initiates and considers claims; this does not mean every claim is automatically approved. [S31, S30, S32, S33; checked 2 November 2026.]
 
 ## MCQ 17
-**Question:** Which group is PM-JANMAN specifically designed to address?
+**Question:** A district officer is planning a coordinated package of housing, drinking water, roads, health and education services specifically for Particularly Vulnerable Tribal Group (PVTG) habitations. Which Union mission most directly matches this target?
 
-A. All residents of Hyderabad
-B. All persons above 60
-C. Particularly Vulnerable Tribal Groups
-D. All Union government employees
+A. PM-JANMAN, the mission focused on PVTG families and habitations
+B. Eklavya Model Residential Schools, an education-focused initiative for Scheduled Tribe students
+C. PM POSHAN, a school-meal programme
+D. National Social Assistance Programme, a social-assistance framework
 
-**Correct answer: C. Particularly Vulnerable Tribal Groups**
-**Explanation:** PM-JANMAN is a targeted initiative for PVTGs; it is not a universal ST programme.
+**Correct answer: A. PM-JANMAN**
+**Explanation:** The Ministry of Tribal Affairs describes PM-JANMAN as a multi-ministry mission for basic services and infrastructure in PVTG families and habitations. B is a genuine ST educational intervention but not the multi-sector PVTG saturation mission. C addresses school meals, not a coordinated PVTG infrastructure package. D is social assistance and is not targeted specifically at PVTG habitation infrastructure. A mission objective is not evidence that every listed habitation has already received all services. [S32; checked 2 November 2026.]
 
 ## MCQ 18
-**Question:** Central OBC and state BC lists should be treated as:
+**Question:** A community appears on a State backward-class list but not on the applicable Central OBC list. Which statement best reflects Article 342A after the Constitution (105th Amendment) Act, 2021?
 
-A. Always identical
-B. Potentially different with scheme-specific eligibility
-C. Automatically replaced by census
-D. Irrelevant for reservation
+A. Inclusion in the State list automatically changes the Central List
+B. The Central List automatically invalidates every State backward-class list
+C. A district census officer may independently amend the Central List
+D. States may maintain lists for their own purposes that differ from the Central List; eligibility must be checked against the relevant list and rules
 
-**Correct answer: B. Potentially different with scheme-specific eligibility**
-**Explanation:** Central and state lists can differ; check the legal framework for the specific programme.
+**Correct answer: D. States may maintain distinct lists for their own purposes**
+**Explanation:** Article 342A(3), inserted by the 105th Amendment, expressly permits State or Union-territory lists for their own purposes, with entries potentially different from the Central List. A wrongly treats a State entry as a Central amendment; B denies the constitutionally recognised State-list power; C ignores the formal constitutional mechanisms for Central-list changes. This does not by itself establish a named Telangana community's eligibility: check the applicable current notification and programme rules. [S33, S34; checked 2 November 2026.]
 
 ## MCQ 19
 **Question:** Which constitutional article specifically protects minority rights to establish and administer educational institutions?
