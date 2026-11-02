@@ -38,9 +38,10 @@
     "project-control/academic-readiness/3-1-4-cycle180-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle181-four-statutory-mcq-option-source-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle181-actual-downloaded-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/3-1-4-cycle182-fluorosis-four-mcq-source-audit-2026-11-02.json"
+    "project-control/academic-readiness/3-1-4-cycle182-fluorosis-four-mcq-source-audit-2026-11-02.json",
+    "project-control/academic-readiness/3-1-4-cycle182-actual-downloaded-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle182 four fluorosis MCQs source-checked in place; render/actual artifact QA pending. R1 PASS, R2-R8 unchanged, approvals0.",
+  "next_action": "Cycle182 fluorosis MCQs 11–14 author-side source audited (16 options), 20-page GitHub PDF and artifact13134618127 actually downloaded and integrity checked; post-evidence packaging pending. R1 PASS, R2–R8 unchanged, approvals0.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -155,7 +156,8 @@
     "R1": "PASS",
     "R2_to_R8": "UNCHANGED",
     "independent_approvals": 0,
-    "render": "PENDING",
-    "artifact_downloaded": "PENDING"
+    "render": "SUCCESS_20_PAGES",
+    "artifact_downloaded": "VERIFIED_13134618127_SHA_CRC_75_ORIGINALS_75_READINESS_LINKS_PASS",
+    "actual_pdf_sha256": "f552869d827020f3d31df387b0ead4c1572b5e8c535f6f1898643b99628b5aab"
   }
 }
