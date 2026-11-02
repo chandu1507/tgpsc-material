@@ -67,4 +67,4 @@
 
 **Source reminder:** Original MCQs only; no official PYQ claims. Current legal and programme changes require recheck at examination time. Academic status: expanded draft, not approved.
 
-**Cycle119 constitutional distinction:** Gram Sabha functions depend on State law (243A); intermediate tier may be omitted for States at most twenty lakh (243B); Panchayat seats are directly elected (243C); women's reservation minimum one-third including SC/ST women (243D); functional and fiscal powers require separate State-law arrangements (243G, 243H). [S25]
+**Cycle119 constitutional distinction:** Gram Sabha functions depend on State law (243A); intermediate tier may be omitted for States at most twenty lakh (243B); Panchayat seats are directly elected (243C); women's reservation minimum one-third including SC/ST women (243D); functional and fiscal powers require separate State-law arrangements (243G, 243H). [S26]

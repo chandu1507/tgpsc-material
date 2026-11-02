@@ -296,11 +296,11 @@ These cases demonstrate **rights convergence without institutional confusion**. 
 
 ### Distinguish the institutions
 
-Participatory development requires separating three questions: **who deliberates**, **who represents voters**, and **who can lawfully spend or raise money**. Article 243A permits State legislation to confer village-level functions on a Gram Sabha. It does not automatically transfer every development budget, taxation power or staff position to a village meeting. Article 243C(2), in contrast, provides for directly elected seats in Panchayats from territorial constituencies. The Gram Sabha is therefore a participatory forum, while the elected Panchayat is a representative institution. Conflating them produces weak answers about accountability. [S25]
+Participatory development requires separating three questions: **who deliberates**, **who represents voters**, and **who can lawfully spend or raise money**. Article 243A permits State legislation to confer village-level functions on a Gram Sabha. It does not automatically transfer every development budget, taxation power or staff position to a village meeting. Article 243C(2), in contrast, provides for directly elected seats in Panchayats from territorial constituencies. The Gram Sabha is therefore a participatory forum, while the elected Panchayat is a representative institution. Conflating them produces weak answers about accountability. [S26]
 
 ### Tier structure and inclusive representation
 
-Article 243B generally provides Panchayats at village, intermediate and district levels. Its population exception allows a State **not exceeding twenty lakh people** to omit the intermediate tier. The relevant population is that of the State, not an individual district. Article 243D requires SC/ST representation in proportion to local population and a constitutional minimum of **one-third of directly elected seats for women**, counting SC/ST women's reserved seats. States may enact higher women's quotas, but current Telangana-specific provisions require separate verification. [S25]
+Article 243B generally provides Panchayats at village, intermediate and district levels. Its population exception allows a State **not exceeding twenty lakh people** to omit the intermediate tier. The relevant population is that of the State, not an individual district. Article 243D requires SC/ST representation in proportion to local population and a constitutional minimum of **one-third of directly elected seats for women**, counting SC/ST women's reserved seats. States may enact higher women's quotas, but current Telangana-specific provisions require separate verification. [S26]
 
 ### Functional versus fiscal devolution
 
@@ -312,5 +312,5 @@ A Gram Sabha reports that houses at the end of a water network receive contamina
 
 ### Mains structure and cautions
 
-Use five headings: *constitutional foundation* (243A–243D), *functional devolution* (243G), *fiscal powers* (243H), *implementation constraints*, and *accountable reforms*. Propose inclusive meetings, public records, disaggregated service indicators and independently checked complaints. Explain that State-law authority, actual budget availability and field performance are separate evidence questions. This chapter does **not** claim to have independently authenticated current Telangana Panchayat Raj rules or every local operational order. [S25]
+Use five headings: *constitutional foundation* (243A–243D), *functional devolution* (243G), *fiscal powers* (243H), *implementation constraints*, and *accountable reforms*. Propose inclusive meetings, public records, disaggregated service indicators and independently checked complaints. Explain that State-law authority, actual budget availability and field performance are separate evidence questions. This chapter does **not** claim to have independently authenticated current Telangana Panchayat Raj rules or every local operational order. [S26]
 
