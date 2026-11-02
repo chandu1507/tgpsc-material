@@ -1,7 +1,7 @@
 {
   "topic_id": "3-3-3",
   "title": "Urban and Rural Development, Participation, Poverty Alleviation and Social Rights",
-  "date": "2026-10-31",
+  "date": "2026-11-03",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -26,7 +26,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle33 individual source/PDF/MCQ/mains inventory, bounded primary-source correspondence and preserved-original hashes; see project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json. No complete R1–R8 verification.",
+  "evidence": "Cycle33 individual source/PDF/MCQ/mains inventory, bounded primary-source correspondence and preserved-original hashes; see project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json. No complete R1–R8 verification. Cycle193 bounded S25/S26 reference repair and Q6/Q10 author-side option checks; see project-control/academic-readiness/3-3-3-cycle193-source-id-and-two-mcq-primary-audit-2026-11-03.json.",
   "next_action": "Full independent audit of 30 keys/90 distractors and six mains, direct TGPSC syllabus authentication, Telangana statute/diagram checks, complete browser accessibility and named expert review. R8 only IN_PROGRESS; R9 NOT_STARTED; approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -85,5 +85,18 @@
     "artifact_sha256": "455fe07b3e8f44b2ce5dcc746cb9c6531971685a5a3fc5a6d0bedbceb9719681",
     "manifest_concept_count_corrected": 15,
     "min_concept_words": 421
+  },
+  "cycle193": {
+    "source_reference_repair": "Q26–Q30 S25→S26; preserved S25 ration-card reference",
+    "original_mcqs_revised": [
+      6,
+      10
+    ],
+    "new_author_side_option_checks": 8,
+    "source_register_entries": 28,
+    "source_integrity_guard": true,
+    "local_preflight_pdf_pages": 42,
+    "github_actions_artifact_qa": "PENDING",
+    "independent_approval": false
   }
 }
