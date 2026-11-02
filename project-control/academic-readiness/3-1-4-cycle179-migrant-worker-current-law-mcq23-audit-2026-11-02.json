@@ -1,0 +1,74 @@
+{
+  "cycle": 179,
+  "date": "2026-11-02",
+  "topic_id": "3-1-4",
+  "base_main": "728e511f7a4755de9263f9cfadae66c35153504a",
+  "purpose": "Correct stale 1979-vs-2025 inter-State migrant-worker law in existing academic content; no extra topic and no official PYQ claims.",
+  "sources": [
+    {
+      "authority": "Ministry of Labour and Employment / PIB",
+      "published": "2025-12-30",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209767&lang=1&reg=6",
+      "claim": "Four labour codes including OSH Code effective 21 Nov 2025"
+    },
+    {
+      "authority": "Ministry of Labour and Employment / Gazette",
+      "published": "2025-12-30",
+      "url": "https://labour.gov.in/sites/default/files/268944.pdf",
+      "claim": "G.S.R.934(E) identifies S.O.5321(E), commencement and section143 repeal of 1979 Act",
+      "caution": "This instrument is a DRAFT Central rules notification, not final Central rules"
+    },
+    {
+      "authority": "Ministry of Labour and Employment / PIB",
+      "published": "2025-12-18",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206144&lang=2&reg=3",
+      "claim": "Code migrant-worker definition includes contractor-recruited and self-migrated categories"
+    },
+    {
+      "authority": "Chief Labour Commissioner",
+      "url": "https://clc.gov.in/clc/acts-rules/inter-state-migrant-workmen",
+      "claim": "Historical 1979 statute text for comparison"
+    }
+  ],
+  "question": {
+    "number": 23,
+    "classification": "ORIGINAL PRACTICE MCQ, NOT OFFICIAL TGPSC PYQ",
+    "correct_option": "C",
+    "option_checks": {
+      "A": "False; ministry confirms code commencement 21 Nov 2025.",
+      "B": "False; ministry confirms definition extends to eligible self-migrated workers.",
+      "C": "Supported with qualifications: 1979 Act historical/repealed with savings, OSH Code in force, applicability depends on definitions and rules.",
+      "D": "False; benefits are conditional on statutory coverage, not automatic for every migrant."
+    }
+  },
+  "edited_paths": [
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/complete-notes.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/detailed-notes.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/original-explained-mcqs.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/references.md"
+  ],
+  "r1": "IN_PROGRESS",
+  "r1_note": "2022 official Group-I scheme has same topic wording and 2024 secondary reproductions correspond; 2024 original notification not directly retrieved this cycle, so no R1 promotion.",
+  "r5": "IN_PROGRESS",
+  "r8": "BLOCKED",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "fully_R1_R8_ready": false,
+  "independent_approvals": 0,
+  "counts_expected": {
+    "topics": 75,
+    "original_pdfs": 75,
+    "readiness_json": 75,
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0,
+    "normalized_R1_PASS": 15
+  },
+  "qa_limits": [
+    "Author-side four-option check only; no independent legal or academic review",
+    "State-specific final implementing rules not exhaustively checked",
+    "Original PDF unchanged required",
+    "CI render and downloaded packaging artifact QA pending",
+    "Browser/screen-reader usability not certified"
+  ]
+}
