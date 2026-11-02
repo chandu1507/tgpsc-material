@@ -549,10 +549,13 @@ A. A factory's untreated effluent damages downstream drinking-water quality.  B.
 
 **Answer: A.** Pollution imposes costs on third parties not fully reflected in the firm's private production cost.
 
-### Q6. The Eleventh and Twelfth Schedules of the Constitution are best understood as:
-A. Automatic transfer of all listed funds to local bodies.  B. Lists of possible functional subjects within the decentralisation framework.  C. Judicially enforceable tariffs for every municipality.  D. Mandatory staffing ratios for all Gram Panchayats.
+### Q6. A State Government lists drinking water under the Eleventh Schedule and urban water supply under the Twelfth Schedule. What follows constitutionally?
+A. Both functions, budgets and employees automatically vest in every local body without State legislation.
+B. Articles 243G and 243W permit State legislatures, by law, to endow Panchayats and Municipalities with powers and responsibilities; the schedules identify subjects but do not themselves complete devolution.
+C. The schedules are binding judicial tariff schedules for household water bills.
+D. The schedules require identical staffing ratios in every Gram Panchayat and Municipality.
 
-**Answer: B.** Effective devolution also requires state legislation, finance and administrative capacity.
+**Answer: B.** Articles 243G and 243W use an enabling State-law framework; the Eleventh Schedule contains 29 subjects and the Twelfth Schedule 18. Listing a subject is not the same as transferring funds, functions and functionaries. A wrongly assumes automatic devolution; C confuses functional subjects with tariffs; D invents constitutional staffing quotas [S16].
 
 ### Q7. Which process best reflects meaningful participation rather than tokenism?
 A. Taking signatures after the contractor is selected.  B. Publishing the final plan only in English.  C. Inviting comments before choices are final and issuing reasoned responses.  D. Consulting only influential landowners.
@@ -614,20 +617,29 @@ A. Transparent reporting of guarantees.  B. Lifecycle costing.  C. Unrecorded co
 
 **Answer: C.** Off-budget promises can impose later costs on taxpayers.
 
-### Q19. Under Section 135, a company may be covered if it meets which test in the preceding financial year?
-A. All three thresholds simultaneously.  B. Any one of ₹500 crore net worth, ₹1,000 crore turnover or ₹5 crore net profit.  C. Only if it has 10,000 employees.  D. Only if it is listed on a stock exchange.
+### Q19. A company had net worth of ₹520 crore, turnover of ₹600 crore and net profit of ₹2 crore in the immediately preceding financial year. Which statement best reflects Section 135(1) CSR applicability?
+A. CSR applies only if all three statutory thresholds are met simultaneously.
+B. CSR applicability is triggered because any one threshold suffices: ₹500 crore net worth, ₹1,000 crore turnover or ₹5 crore net profit in the immediately preceding financial year.
+C. CSR can apply only to companies with at least 10,000 employees.
+D. CSR can apply only to companies whose shares are listed on a stock exchange.
 
-**Answer: B.** The three statutory criteria are alternative thresholds [S09].
+**Answer: B.** The company's net worth alone crosses the alternative ₹500-crore test, even though its turnover and profit do not. MCA Circular 14/2021 FAQ 1.1 confirms the three alternative tests and immediately preceding-year reference. A incorrectly makes them cumulative; C invents an employee threshold; D excludes unlisted and other eligible companies without legal basis [S22].
 
-### Q20. The ordinary CSR spending rule for eligible companies is based on:
-A. Two percent of turnover.  B. Two percent of all capital expenditure.  C. Two percent of average net profits as prescribed.  D. Ten percent of GST paid.
+### Q20. For a company subject to Section 135(5), what is the ordinary statutory basis of its minimum annual CSR spending obligation?
+A. Two percent of current-year gross turnover.
+B. Two percent of total capital expenditure.
+C. At least two percent of average net profits computed under the prescribed Companies Act rules for the three immediately preceding financial years, or the shorter preceding period if the company has existed for fewer than three financial years.
+D. Ten percent of GST remitted.
 
-**Answer: C.** Section 135 uses average net profits, generally of the preceding three financial years, with statutory calculation rules [S09].
+**Answer: C.** MCA Circular 14/2021 FAQs 1.4, 2.3 and 3.1 distinguish the net-profit measure from turnover and post-tax profit; Section 198 adjustments apply. A substitutes turnover; B substitutes investment spending; D substitutes a tax remittance. The shorter-history proviso prevents incorrectly exempting a newly incorporated qualifying company [S22].
 
-### Q21. Which activity is generally **not** qualifying CSR merely because a company labels it social responsibility?
-A. An eligible public-health project under Schedule VII.  B. An eligible community education project.  C. Spending required to meet the company's ordinary pollution-control legal duties.  D. An eligible disability-inclusion programme.
+### Q21. A factory is legally required by its environmental permit to treat its effluent before discharge. It proposes counting the minimum legally required treatment expenditure as CSR. Which answer is correct?
+A. It qualifies automatically if the company calls the expenditure social responsibility.
+B. It qualifies automatically because any activity benefiting the environment is CSR.
+C. It does not qualify merely by being relabelled: activities undertaken to fulfil statutory obligations under Indian law are excluded from eligible CSR under the CSR Policy Rules.
+D. It qualifies if the company publishes a photograph of its treatment plant.
 
-**Answer: C.** Compliance with an existing legal obligation is not converted into CSR by relabelling it.
+**Answer: C.** MCA Circular 14/2021 FAQ 4.1 identifies fulfilment of statutory obligations as an express CSR exclusion. A confuses a label with eligibility; B ignores the statutory-duty exclusion even though other environmental projects may qualify; D mistakes publicity for statutory eligibility [S22].
 
 ### Q22. An NGO is shown on the National CSR Exchange Portal. What does that establish?
 A. Independent government certification of all its outcomes.  B. The portal provides a matching platform; corporate due diligence remains necessary.  C. Automatic FCRA permission.  D. Guaranteed CSR funding.
@@ -794,6 +806,7 @@ A. Mature SHGs may receive loans beyond four times savings at the bank's discret
 | S19 | Telangana Government, WE Hub | State-supported entrepreneurship ecosystem and gender-specific constraints | https://wehub.telangana.gov.in/ |
 | S20 | Telangana Government, SERP gender initiative | SHG Social Action Committees and community-based gender support | https://efms.serp.telangana.gov.in/HD/HumanDevelopment/Htmlfiles/Chaitanya.htm |
 | S21 | Department of Economic Affairs, VGF guidelines annexure | Competitive bidding and appraisal controls | https://www.pppinindia.gov.in/assets/doc/vgf-guidelines/pdf/vgf-guideline.pdf |
+| S22 | Ministry of Corporate Affairs, General Circular 14/2021, dated 25 August 2021 (CSR FAQs) | FAQ 1.1 alternative preceding-year thresholds; FAQ 1.4 short-company-history proviso; FAQ 2.3 two-percent spending; FAQ 3.1 Section 198 profit calculation; FAQ 4.1 statutory-duty exclusion. Historical circular, not a 2026 amendment audit. | https://www.mca.gov.in/Ministry/pdf/FAQ_CSR.pdf |
 
 ### Internally checked assertions
 
@@ -818,7 +831,7 @@ A. Mature SHGs may receive loans beyond four times savings at the bank's discret
 
 ### Cycle120 bounded primary-source audit — 31 October 2026
 
-Five newly authored practice MCQs (Q26–Q30) and their 15 distractors were checked author-side against the following primary issuer materials. **These are not authenticated official TGPSC PYQs and not independently academically certified.** The other 25 MCQs and all six mains answers still need complete independent claim-level verification.
+Five newly authored practice MCQs (Q26–Q30) and their 15 distractors were checked author-side against the following primary issuer materials. **These are not authenticated official TGPSC PYQs and not independently academically certified.** Four of the 25 older MCQs (Q6/Q19/Q20/Q21) received later bounded author-side option checks in Cycle194; the remaining 21 older MCQs and all six mains still lack complete independent claim-level verification. See Cycle194 audit below.
 
 | Question | Key | Direct primary evidence | Distractor check |
 |---|---|---|---|
@@ -831,3 +844,36 @@ Five newly authored practice MCQs (Q26–Q30) and their 15 distractors were chec
 Primary source URLs: MCA https://www.csrxchange.gov.in/Frontend/faq ; DEA https://dea.gov.in/index.php/viability-gap-funding-vgf-scheme ; RBI https://systemhealth.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx_id%3D12649%281%29.html .
 
 **Unresolved R1–R8:** Commission-hosted syllabus PDF direct authentication, complete independent 30-key/90-distractor audit, all six mains claim-level checks, independent review of diagrams and Telangana current-law details, full browser/screen-reader accessibility, and named subject-expert review. R9 NOT_STARTED. Academic approvals ZERO.
+
+
+## Cycle194 bounded primary-source review — 3 November 2026
+
+**Topic 3-3-4; academic status: NOT APPROVED.** Four *existing original practice* MCQs (Q6, Q19, Q20, Q21) were revised in place; no new question numbers, official PYQs or external academic approval. This author-side review checked four correct keys and twelve distractors against the cited primary sources. The earlier five newly authored Q26–Q30 were not rechecked in this cycle.
+
+### Q6 — constitutional devolution (key B)
+- **A false:** the schedules do not automatically transfer staff or budgets.
+- **B true:** Articles 243G/243W permit State legislatures to endow local bodies with functions; the Eleventh/Twelfth Schedules enumerate 29/18 subjects [S16].
+- **C false:** schedules are not household water tariff regulations.
+- **D false:** they do not impose identical staffing quotas.
+
+### Q19 — CSR applicability (key B)
+- **A false:** the three eligibility tests are alternatives, not cumulative.
+- **B true:** ₹520 crore preceding-year net worth crosses the ₹500 crore threshold; turnover/profit need not also qualify [S22, FAQ 1.1].
+- **C false:** Section 135(1) contains no 10,000-employee requirement.
+- **D false:** listed status is not an exclusive eligibility condition.
+
+### Q20 — CSR spending basis (key C)
+- **A false:** current turnover is not the ordinary 2% base.
+- **B false:** capital expenditure is not the statutory base.
+- **C true:** 2% of prescribed average net profits for preceding years, with shorter-history provision and Section 198 computation [S22, FAQs 1.4, 2.3, 3.1].
+- **D false:** GST remittances are not the base.
+
+### Q21 — statutory compliance versus CSR (key C)
+- **A false:** a company's chosen label cannot override the rules.
+- **B false:** environmental benefit alone does not nullify the statutory-duty exclusion.
+- **C true:** activity required to fulfil another statutory obligation is excluded [S22, FAQ 4.1].
+- **D false:** publicity does not establish CSR eligibility.
+
+**Source evidence and bounded scope:** [S16] Legislative Department, Government of India, Constitution of India (Articles 243G and 243W; Eleventh and Twelfth Schedules), https://www.legislative.gov.in/documents ; [S22] Ministry of Corporate Affairs, General Circular 14/2021, 25 August 2021, https://www.mca.gov.in/Ministry/pdf/FAQ_CSR.pdf . The circular is official but historical; this is **not** a claim that all 2026 amendments were independently checked.
+
+**Open work:** 21 other original Q1–Q25 and all their distractors, six mains claim-level checks, original diagrams, 2026 legal amendments, direct Commission-hosted syllabus authentication, browser/screen-reader accessibility, named expert approval. Do not promote R1–R8 or start R9. Exactly 75 topics; preserve all original PDFs.
