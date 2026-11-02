@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "Cycle195 Topic3-3-5 Q13–16 revised with 4 keys/12 distractors author-side primary source checks. Actual GitHub artifact 13186961794 DOWNLOADED SHA/digest/outer-inner CRC PASS, 2291 files, 75 unchanged original PDFs, 75 readiness, 92 HTML, 634 file links/1585 fragments zero broken, 19/19 topic manifest hashes PASS, 41-page PDF, all 30 MCQs same-page (baseline 27). QA evidence commit postdates inspected artifact; post-evidence package pending. R1 PASS20, fully ready0, approvals0.",
+    "last_reported_topic": "Cycle196 Topic4-1-5 Q11–Q13 3 keys/9 distractors author-side primary-source checked; actual post-render GitHub artifact 13190770002 DOWNLOADED, SHA/digest/outer+inner CRC PASS, 2294 files, 75 unchanged originals, 75 readiness, 92 HTML, 592 local links/1586 fragments zero broken, 42 SPA routes excluded, 17/17 manifest SHA+size PASS, 37-page PDF, 25/25 MCQs same-page. QA evidence commit postdates inspected artifact; post-evidence packaging pending. R1 PASS20, fully ready0, independent approvals0.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -691,6 +691,40 @@
       "manifest_hash_failures": 0,
       "academic_approvals": 0,
       "post_qa_evidence_package": "PENDING"
+    },
+    "cycle196": {
+      "date": "2026-11-03",
+      "topic": "4-1-5",
+      "original_mcqs": 25,
+      "option_checked_questions": [
+        11,
+        12,
+        13
+      ],
+      "option_checks": 12,
+      "ci_renderer_run": 41548604660,
+      "ci_pdf_pages": 37,
+      "ci_pdf_sha256": "6af78450b05ee3921cef3e0a5420a37aac9a00220a3a7fffc8a8c7cfed419c6e",
+      "downloaded_packaging_run": 41548658682,
+      "downloaded_artifact_id": 13190770002,
+      "downloaded_artifact_sha256": "a6ed4918a9c0354907b3c7ba7aafb165743433648f86361971f3426c475c52de",
+      "original_pdf_count": 75,
+      "readiness_json_count": 75,
+      "local_file_links_checked": 592,
+      "broken_links": 0,
+      "dom_fragments_checked": 1586,
+      "broken_fragments": 0,
+      "manifest_checks_pass": 17,
+      "mcq_same_page_pass": 25,
+      "status_counts": {
+        "IN_PROGRESS": 7,
+        "ASSESSED_REBUILD_REQUIRED": 68,
+        "NOT_ASSESSED": 0
+      },
+      "r1_pass": 20,
+      "fully_ready": 0,
+      "independent_approvals": 0,
+      "post_evidence_packaging": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
