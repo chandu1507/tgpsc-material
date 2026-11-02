@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle174 Topic3-1-2: four bounded-source concept expansions (2/3/4/5); 12→8 Part C concepts under300; local 40-page candidate glyph/footer QA PASS. CI GitHub PDF and actual downloaded post-edit artifact PENDING. Exactly 75 original PDFs/75 readiness JSON preserved in prior artifact; 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 0 NOT_ASSESSED; normalized R1 PASS14, fully ready0, approvals0, R9 NOT_STARTED.",
+  "warning": "Cycle174 Topic3-1-2: concepts 2/3/4/5 expanded; 12→8 Part C concepts under300. GitHub 41-page PDF SHA256 7f23b8247fbb0d91da02a5cd702c5b82648e75d42e4e60a7912b29c15d94d96c; actual downloaded artifact 13113098109 SHA/CRC/75 unchanged originals/75 readiness/634 local links/1581 fragments PASS. QA evidence commit postdates inspected artifact; final repackage required. 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, R1 PASS14, fully ready0, approvals0, R9 NOT_STARTED.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-02 Cycle174 four concept expansions in Topic3-1-2; CI and artifact QA pending.",
+  "last_readiness_update": "2026-11-02 Cycle174 actual post-render artifact QA PASS; evidence commit postdates archive.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-2-cycle174-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-2-cycle174-four-concepts-constitutional-sc-source-depth-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle172-final-body-only-count-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle172-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json",
