@@ -38,7 +38,7 @@ The notified topic covers policies for women, children, older people and persons
 | Poverty Alleviation Programmes | §14 |
 | Welfare schemes for SCs, STs, BCs, women, children, minorities, aged and disabled | §3, §4, §5, §6, §7, §8, §9, §15, §16 |
 
-The mapping follows the commission's *Notification 02/2024*, Annexure II, printed page 30 (visually inspected), cross-checked with the commission's 2022 scheme PDF. **R1 PASS means that every listed syllabus clause has a corresponding section; it does not certify current-law accuracy, source-level depth, MCQ answers, mains answers, diagrams or accessibility.** Source: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v
+The mapping follows the commission's *Notification 02/2024*, Annexure II, printed page 30 (visually inspected), cross-checked with the commission's 2022 scheme PDF. **R1 PASS means that every listed syllabus clause has a corresponding section; it does not certify current-law accuracy, source-level depth, MCQ answers, mains answers, diagrams or accessibility.** Source: [TGPSC Notification 02/2024, Annexure II](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v)
 
 ## 1. Constitutional architecture: formal equality, substantive equality and social protection
 
