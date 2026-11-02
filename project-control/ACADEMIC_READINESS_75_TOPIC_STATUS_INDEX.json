@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle186 Topic3-2-1 R1 PASS; normalized 18/75. Actual package artifact13153467719 downloaded SHA/CRC/75 unchanged originals/75 readiness/592 local links/1581 fragments PASS. QA evidence commit postdates inspected archive; final package pending. 0 fully R1-R8 ready, 0 independent approvals.",
+  "warning": "Cycle187 Topic3-2-2 R1 PASS on 2024 syllabus correspondence only (Commission host HTTP403; contemporaneous copy page30 inspected); 19 normalized R1 PASS, 0 R1–R8 ready, 0 approvals. Publication QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle185 Topic3-1-5 four original MCQs 15–18 source-checked (16 options), PDF layout fix Q19 orphan; final artifact13149124538 downloaded SHA/CRC/75 unchanged originals/75 readiness/634 links/1581 fragments PASS, 27-page CI PDF; /Mounika delivery confirmed. R1 PASS17, R1-R8 ready0, independent approvals0.",
+  "last_readiness_update": "Cycle187 Topic3-2-2 2024 syllabus crosswalk 6/6 PASS; original practice Q17–20 4 keys/12 distractors source checked; CI PDF and actual downloaded artifact QA pending. R1 PASS19/75; fully ready0, independent approvals0.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -175,6 +175,7 @@
     "3-1-4",
     "3-1-5",
     "3-2-1",
+    "3-2-2",
     "4-1-1",
     "4-1-2",
     "4-1-3",
@@ -182,8 +183,9 @@
     "5-3-5",
     "6-1-1"
   ],
-  "verified_R1_pass_count": 18,
+  "verified_R1_pass_count": 19,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-2-cycle187-r1-four-mcq-primary-source-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-5-cycle185-final-post-layout-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-5-cycle184-actual-downloaded-post-link-fix-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-5-cycle184-original-2024-r1-eight-clause-crosswalk-2026-11-02.json",
