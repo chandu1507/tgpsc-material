@@ -23,4 +23,6 @@
 | Agrarian distress | Crop vs price risk, net margins, debt, tenant farmers, Telangana | Section 16 |
 | Migration | Circular vs permanent, portability, housing, wage protections | Section 17 |
 
+**R1 direct official-syllabus check (2 November 2026):** The [TGPSC Group-I Notification No. 02/2024, dated 19 February 2024, Annexure II, printed page 30](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) was read in extracted text and visually inspected at PDF page index 29. Paper III, Unit I, item 3 enumerates 16 distinct Social Issues clauses. Each clause in the table above maps to a substantive numbered section (2–17); none was inferred from a coaching syllabus. This establishes **R1 syllabus mapping PASS for this topic only**. It does not authenticate a newer recruitment syllabus, validate every statement in the notes, or constitute independent academic approval.
+
 **Exam pattern:** The official Paper III pattern gives approximately 200 words per 10-mark question. The student chapter contains original ~200–250-word models rather than unverified official past questions.
