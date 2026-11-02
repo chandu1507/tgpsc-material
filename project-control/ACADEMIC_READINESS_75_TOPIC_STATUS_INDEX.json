@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle183 Topic3-1-4 PCMA/RTE original MCQs16,17,24 revised with 3 keys/9 distractors author-side checked against India Code. CI PDF and actual downloaded postmerge archive QA PENDING; R1 PASS16/75, statuses7/68/0, fully ready0, approvals0. Previous Cycle182 final downloaded archive artifact13135765670 verified separately.",
+  "warning": "Cycle183 Q16/17/24 source-audited; 21-page GitHub PDF and actual artifact13139056868 downloaded, SHA/CRC/75 original PDFs/75 readiness/592 local links/1581 fragments PASS. QA evidence commit postdates inspected archive; final post-evidence packaging pending. R1 PASS16/75, statuses7/68/0, ready0, approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -182,6 +182,7 @@
   ],
   "verified_R1_pass_count": 16,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-4-cycle183-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle183-pcma-rte-three-mcq-source-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle182-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle181-actual-downloaded-artifact-qa-2026-11-02.json",
