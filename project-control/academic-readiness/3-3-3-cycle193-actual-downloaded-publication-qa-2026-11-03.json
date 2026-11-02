@@ -1,0 +1,70 @@
+{
+  "cycle": 193,
+  "date": "2026-11-03",
+  "topic_id": "3-3-3",
+  "qa_scope": "Actual downloaded GitHub Actions artifact, not merely workflow success",
+  "source_pr": 383,
+  "source_merge_sha": "a97d518b7a61317f4d1ffe029e01630581de372c",
+  "canonical_render_run": 41523866402,
+  "canonical_render_conclusion": "success",
+  "packaging_run": 41523933870,
+  "packaging_conclusion": "success",
+  "artifact_id": 13178986598,
+  "artifact_name": "tgpsc-github-publication-snapshot",
+  "actual_downloaded_artifact_sha256": "58c372ff8f264f73351a6c81d41962beaa7eb7c594ad7106735bc823f5bb4629",
+  "github_reported_digest": "sha256:58c372ff8f264f73351a6c81d41962beaa7eb7c594ad7106735bc823f5bb4629",
+  "digest_match": true,
+  "checks": {
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "packaged_files": 2286,
+    "original_topic_pdfs": 75,
+    "unchanged_original_pdfs_compared_with_cycle192": 75,
+    "per_topic_readiness_json": 75,
+    "html_pages": 92,
+    "local_file_links_checked": 634,
+    "broken_local_links": 0,
+    "dom_fragments_checked": 1582,
+    "broken_dom_fragments": 0,
+    "spa_routes_excluded": 42,
+    "topic_manifest_sha_size_checks": 16,
+    "topic_manifest_errors": 0,
+    "source_register_entries": 28,
+    "original_practice_mcqs": 30,
+    "mains_answers": 6,
+    "integrated_pdf_pages": 42,
+    "integrated_pdf_sha256": "bb9d3178b10996b4caafc7d39a64b1fb5d48d8fd84f5853363ce1d85418c01bb",
+    "blank_pages": 0,
+    "out_of_bounds_text_blocks": 0,
+    "pdf_pages_29_30_visually_inspected": true
+  },
+  "readiness": {
+    "total": 75,
+    "in_progress": 7,
+    "assessed_rebuild_required": 68,
+    "not_assessed": 0,
+    "r1_pass": 20,
+    "r1_in_progress": 51,
+    "r1_blocked": 3,
+    "r1_not_started": 1,
+    "fully_r1_r8_ready": 0,
+    "independent_approvals": 0,
+    "r9": "NOT_STARTED"
+  },
+  "academic_work": {
+    "source_id_collision_repaired": "S25 ration card vs constitutional source now S26 for Q26–Q30",
+    "mcqs_revised": [
+      6,
+      10
+    ],
+    "author_side_correct_keys_checked": 2,
+    "author_side_distractors_checked": 6,
+    "official_pyqs_claimed": 0
+  },
+  "caveats": [
+    "This QA file is committed AFTER the artifact it describes; require a separate post-evidence packaging artifact download to prove this file is included",
+    "Browser interaction, screen-reader accessibility and cross-environment byte-identical PDF reproducibility not certified",
+    "Direct TGPSC 2024 notification PDF remains inaccessible; R1 BLOCKED",
+    "No independent academic expert approved any topic"
+  ]
+}
