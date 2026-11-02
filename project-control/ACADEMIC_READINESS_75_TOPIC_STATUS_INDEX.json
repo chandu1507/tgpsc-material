@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle179 Topic3-1-4 historical 1979 migrant law corrected to OSH Code 2020 (effective 21 Nov 2025) across five editable files; original practice MCQ23 key C and 3 distractors author-side checked. GitHub PDF19p and downloaded artifact13125387735 SHA/CRC/75 originals/75 readiness/592 local paths/1581 fragments PASS. QA evidence commit postdates inspected artifact; post-evidence package/download pending. R1 PASS remains15/75; statuses7/68/0; fully ready0; independent approvals0.",
+  "warning": "Cycle180 R1 3-1-4 8/8 mapped from 2024 original notification (mirror visually inspected, official host live 403; official index corroborates). Normalized R1 PASS16/75, statuses7/68/0, fully ready0, approvals0; no master/PDF bytes changed; postmerge artifact QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-02 Cycle179: 3-1-4 current-law source audit; no R1-R8 promotion.",
+  "last_readiness_update": "2026-11-02 Cycle180: 3-1-4 original 2024 Annexure-II R1 clause mapping 8/8 PASS; no R2-R8 promotion.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -172,6 +172,7 @@
     "2-3-5",
     "3-1-1",
     "3-1-3",
+    "3-1-4",
     "4-1-1",
     "4-1-2",
     "4-1-3",
@@ -179,7 +180,7 @@
     "5-3-5",
     "6-1-1"
   ],
-  "verified_R1_pass_count": 15,
+  "verified_R1_pass_count": 16,
   "recent_evidence": [
     "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-3-cycle178-actual-downloaded-artifact-qa-2026-11-02.json",
