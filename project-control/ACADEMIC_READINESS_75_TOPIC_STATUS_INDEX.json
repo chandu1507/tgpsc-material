@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle172 Topic 2-3-5: all six 20-mark mains answers bounded author-side claim audit, body-only counts 247/250/242/234/222/250; 25 original MCQs retained. First downloaded artifact 13108064686 SHA/CRC/75 PDFs/75 readiness/links PASS but visual inspection found footer-only page 26; corrected renderer PR333 and CI 41369693412 SUCCESS. Final post-fix artifact repackage and download REQUIRED. Status 7 IN_PROGRESS / 68 ASSESSED_REBUILD_REQUIRED / 0 NOT_ASSESSED; R1 PASS 14; fully R1-R8 0, approvals 0.",
+  "warning": "Cycle172: Topic2-3-5 six mains author-side claim audit, 25 original MCQs and six answers preserved. First artifact footer-only page26 defect fixed; post-control artifact 13108896301 actually downloaded digest/CRC PASS, 2243 files, 75 original PDFs unchanged, 75 readiness, 592 local refs and 1581 fragments zero broken; 25-page actual PDF no footer-only pages. QA evidence commit postdates archive; next package requires independent download. Status 7/68/0, R1 PASS14, fully ready0, approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-02 Cycle172 six-mains claim audit and PDF footer-only QA fix; final post-fix artifact QA pending; zero independent approvals.",
+  "last_readiness_update": "2026-11-02 Cycle172 actual post-fix artifact verified; independent academic approvals 0",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -180,6 +180,7 @@
   ],
   "verified_R1_pass_count": 14,
   "recent_evidence": [
+    "project-control/academic-readiness/2-3-5-cycle172-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle170-five-original-mcq-four-option-source-audit-2026-11-02.json",
