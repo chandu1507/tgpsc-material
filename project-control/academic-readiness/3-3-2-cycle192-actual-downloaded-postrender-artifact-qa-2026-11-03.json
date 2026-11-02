@@ -1,0 +1,85 @@
+{
+  "cycle": 192,
+  "topic_id": "3-3-2",
+  "date": "2026-11-03",
+  "status": "ACTUAL_GITHUB_ACTIONS_ARTIFACT_DOWNLOADED_AND_INDEPENDENTLY_CHECKED",
+  "source_pr": 381,
+  "source_merge_commit": "9958e24b36b1150ea700f9885c3eee4450f5a24b",
+  "render_workflow_run_id": 41513872163,
+  "render_workflow_conclusion": "success",
+  "packaging_workflow_run_id": 41513962434,
+  "packaging_workflow_conclusion": "success",
+  "artifact_id": 13174212274,
+  "artifact_name": "tgpsc-github-publication-snapshot",
+  "artifact_sha256": "d3b1a1849e499f966961133989abb0795bf21ae6936bc5c410012e89ea235cb2",
+  "github_reported_artifact_digest": "sha256:d3b1a1849e499f966961133989abb0795bf21ae6936bc5c410012e89ea235cb2",
+  "github_digest_match": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "inner_file_count": 2284,
+  "original_topic_pdfs": 75,
+  "original_topic_pdfs_unchanged_against_actual_cycle191_artifact": true,
+  "readiness_json_count": 75,
+  "html_page_count": 92,
+  "local_links_checked": 634,
+  "broken_local_links": 0,
+  "dom_fragment_links_checked": 1581,
+  "broken_dom_fragments": 0,
+  "spa_hash_routes_excluded": 42,
+  "topic_manifest_entries": 17,
+  "topic_manifest_errors": 0,
+  "integrated_pdf_pages": 43,
+  "integrated_pdf_sha256": "72497008d291e7b663b02eedf6847c534b6a76a730a9567d5a83c5e761b5a27e",
+  "pdf_blank_pages": 0,
+  "pdf_out_of_bounds_text_blocks": 0,
+  "all_30_original_mcqs_four_options_and_answer_same_page": true,
+  "revised_mcq_keys": {
+    "5": "A",
+    "6": "C",
+    "9": "D",
+    "13": "A"
+  },
+  "revised_mcq_pdf_pages": {
+    "5": [
+      30
+    ],
+    "6": [
+      30
+    ],
+    "9": [
+      31
+    ],
+    "13": [
+      31
+    ]
+  },
+  "source_register_count": 25,
+  "html_title_topic_id_correct": "3-3-2",
+  "manifest_topic_id_correct": "P3-U3-T2",
+  "original_topic_3_3_2_pdf_sha256": "93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24",
+  "original_topic_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1_gate_counts": {
+    "PASS": 20,
+    "IN_PROGRESS": 51,
+    "BLOCKED": 3,
+    "NOT_STARTED": 1
+  },
+  "fully_R1_R8_ready": 0,
+  "independent_academic_approvals": 0,
+  "R9": "NOT_STARTED",
+  "pdf_visual_inspection": "PASS: actual GitHub PDF pages 30 and 31 visually inspected, separate A-D options and readable explanations",
+  "academic_scope": "Four existing original practice MCQs Q5/Q6/Q9/Q13 author-side source correlated; 4 keys and 12 distractors, NOT independent academic approval",
+  "limitations": [
+    "2024 Commission-hosted syllabus PDF direct byte-authentication pending; R1 remains IN_PROGRESS",
+    "Remaining 26 MCQs and six mains require independent claim-level review",
+    "No verified official PYQs claimed",
+    "Browser and screen-reader accessibility not certified",
+    "Cross-environment byte-identical PDF reproducibility not certified"
+  ],
+  "post_evidence_packaging": "PENDING: this QA file is committed after the inspected artifact and needs a fresh packaging artifact to be included"
+}
