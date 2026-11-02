@@ -106,19 +106,19 @@ C. Ribbon-cutting photographs
 D. Number of pipes installed alone
 **Answer: A.** Functional safe delivery, household use and clinical surveillance test real impact.
 
-## 16. Which legislation addresses child marriage?
-A. Right to Information Act, 2005
-B. Prohibition of Child Marriage Act, 2006
-C. Representation of the People Act, 1951
-D. Banking Regulation Act, 1949
-**Answer: B.** The PCMA provides prevention and legal remedies; distinguish voidable from automatically void marriages.
+## 16. A Child Marriage Prohibition Officer seeks a court order to prevent an arranged child marriage. Which provision specifically authorises a preventive injunction?
+A. Section 5 of the Right of Children to Free and Compulsory Education Act, 2009
+B. Section 13 of the Prohibition of Child Marriage Act, 2006
+C. Section 4 of the Bonded Labour System (Abolition) Act, 1976
+D. Section 17 of the Constitution of India
+**Answer: B.** Section 13 of the Prohibition of Child Marriage Act (PCMA) authorises a Judicial Magistrate of the first class or Metropolitan Magistrate, on the prescribed information and satisfaction, to prohibit an arranged or imminent child marriage by injunction. A concerns school transfers under the RTE Act, not marriage injunctions; C abolishes bonded labour, not child marriage; D is not a constitutional Article (Article 17, without 'Section', abolishes untouchability). This is a statutory power, not evidence that any specific injunction was granted. Source C183-1, India Code PCMA sections 13–14. Original practice question, NOT an official TGPSC PYQ.
 
-## 17. Which statement about child marriage is legally more accurate?
-A. Always automatically valid
-B. Always automatically void without exception
-C. Generally voidable, with specified cases void
-D. Not regulated by Indian law
-**Answer: C.** The PCMA differentiates voidability and particular void circumstances.
+## 17. Under the central Prohibition of Child Marriage Act, 2006, which statement correctly distinguishes voidable and void marriages?
+A. Every child marriage is automatically void from solemnisation solely because one party is below the statutory age.
+B. No child marriage can be annulled unless a criminal conviction first occurs.
+C. Section 3 generally makes child marriage voidable at the option of the party who was a child; section 12 specifies circumstances making a minor child's marriage void, and section 14 voids marriages solemnised in breach of an injunction.
+D. Only the adult party can petition to annul a child marriage under section 3.
+**Answer: C.** Section 3 gives the party who was a child the option to seek annulment in the competent district court, subject to statutory filing conditions; sections 12 and 14 create specified void categories. A wrongly converts the general voidability rule into automatic nullity; B invents a criminal-conviction prerequisite; D reverses who may petition. The India Code consolidation also displays a Karnataka-specific state amendment; do not silently apply that state rule to Telangana. Source C183-1, PCMA sections 2–3, 12–14. Original practice, not an authenticated PYQ.
 
 ## 18. Which metric best tests girls’ educational inclusion?
 A. Sustained attendance, learning and safe access
@@ -162,12 +162,12 @@ C. The 1979 Act is a historical framework replaced under the Occupational Safety
 D. Every migrant worker receives every statutory benefit automatically, regardless of the Code's definitions and coverage conditions.
 **Answer: C.** The Ministry of Labour and Employment confirms 21 November 2025 commencement of the four codes. Section 143 of the OSH Code repeals the 1979 Act with savings, while the Code's inter-State migrant-worker provisions include defined categories of contractor-recruited and self-migrated workers. The applicable establishment threshold, Central or State rules, savings and facts of employment still matter. Sources: Ministry of Labour and Employment 30 December 2025 year-end review; Gazette G.S.R. 934(E), 30 December 2025 (a draft-rules notification recording the Code's commencement and repeal, not itself the final rules).
 
-## 24. What is an important migrant-child education measure?
-A. Portable school records and bridge learning
-B. Exclusion until permanent residence
-C. No admission during seasonal moves
-D. Only employer-run examinations
-**Answer: A.** Continuity between source and destination schools reduces repeated learning disruption.
+## 24. A 10-year-old child moves with a migrant-worker family from Telangana to another State. The previous school delays issuing the transfer certificate. Under section 5 of the RTE Act, 2009, which statement is correct?
+A. Delay in producing the transfer certificate cannot by itself justify delaying or denying admission to an eligible receiving school for elementary education.
+B. The receiving school may refuse admission until the family proves permanent residence in the destination State.
+C. Section 5 allows transfer only between schools in the same State, not across State boundaries.
+D. The receiving school must wait for a transfer certificate even when its issuance is delayed.
+**Answer: A.** Section 5(2) covers transfers within a State or outside it, and the first proviso to section 5(3) prevents delayed transfer certificates from blocking admission. B adds a permanent-residence condition not in section 5; C contradicts the express interstate scope; D contradicts the proviso. This provision applies within the RTE Act's elementary-education framework and its specified school-category exclusions, not as a right to admission at any private school. Source C183-2, India Code RTE Act sections 2, 4–5 and 9(k). Original practice, not an official TGPSC PYQ.
 
 ## 25. Which region is strongly associated with the early-1990s mass anti-arrack literacy mobilisation?
 A. Nellore in undivided Andhra Pradesh
