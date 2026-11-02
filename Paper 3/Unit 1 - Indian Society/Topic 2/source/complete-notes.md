@@ -216,6 +216,18 @@ A data-driven mains answer might ask whether the survey differentiates household
 
 When discussing constitutional entitlements, differentiate survey findings from legally operative notifications, judicial decisions, and recruitment rules. An administrative programme cannot be deemed implemented solely because a survey recommended it. This distinction is particularly important in contentious quota debates.
 
+
+
+### Source-checked evidence exercise: survey collection is not census coverage (2 November 2026)
+
+**First identify the observation unit.** The Telangana Centre for Good Governance describes the SEEEPC exercise as a household survey launched in **November 2024**. Its project account reports approximately **1.12 crore households** and **3.8 crore persons** captured across two phases. A Telangana government press release dated **11 June 2026**, reporting the Chief Minister's remarks, instead mentions **3.55 crore persons** and **242 castes**. These are two institutional statements, not automatically interchangeable verified denominators. Their differences may reflect scope, stages, definitions or reporting, but no reconciliation is established merely by reading these pages. Do not silently choose one number as the official coverage rate or average household size.
+
+**Next identify the publication version.** The Telangana Directorate of Economics and Statistics lists multiple SEEEPC volumes with April 2026 file dates, including filenames explicitly marked as older versions. A student citing a table should record the exact volume, version, table number, unit, geography, reference period and date accessed. A catalogue listing proves that a document is available; it does not independently verify a percentage inside an unread table. The survey's collection year must not be renamed “Census 2026,” and a reported caste distribution is not by itself a legal reservation notification.
+
+**Worked illustration — hypothetical, not Telangana data:** Suppose a district frame lists 10,000 households, fieldworkers contact 9,000, and 8,000 provide usable questionnaires. Contact is **90% of the frame**, while usable response is **80% of the frame** or about **88.9% of contacted households**. None of those figures establishes coverage of people missing from the frame. If nonresponse differs by migration, caste, disability or settlement, even a large file may misstate subgroup conditions. Before recommending policy, check frame completeness, definitions, missing values, weighting, privacy safeguards and whether a public statistic has a traceable table.
+
+**Source limits:** CGG project description; Telangana DES April 2026 publication directory; Telangana State Portal press release dated 11 June 2026. No survey microdata, revised-volume table cells, population reconciliation or official PYQs were independently examined in this check.
+
 ## 18. Measuring inclusion: indicators that matter
 
 Good public policy sets a **theory of change** and checks whether stated instruments resolve identifiable barriers. For SCs, examine discrimination complaints, outcomes of legal assistance, school retention and labour-market transition, not only seat allocation. For STs, consider individual and community forest-right recognition, functional mother-tongue education, health service presence and community consultation. For OBCs, track post-secondary completion, occupational upgrading, credit access and actual placement in suitable jobs. For minorities, assess fair access to civic services, safety, language accommodation and educational continuity. For women, use time use, earnings, asset control, safe mobility and violence reporting alongside representation. For children, use learning, nutrition, protection and school completion. For older people, look at pension access, geriatric care and autonomy. For persons with disabilities, measure accessible infrastructure and meaningful participation rather than the number of ramps alone.
@@ -229,6 +241,18 @@ Welfare schemes have operational value when they address real constraints, but i
 This can be called the **three-layer inclusion architecture**: (1) equal rights and enforceable protection, (2) public capabilities such as nutrition, health and education, and (3) productive participation through decent work, assets, accessibility and representation. The layers are complements, not sequential luxuries. For instance, training an excluded group without confronting employer discrimination fails at placement; criminalising discrimination without investing in accessible schools fails at opportunity formation.
 
 A high-end TGPSC answer should therefore move from *what is the problem?* to *why does it reproduce?*, *which legal/institutional instrument responds?*, *why are implementation gaps persistent?* and *what measurable outcome would prove change?* This progression is the essence of professional administrative analysis.
+
+
+
+### Application-to-outcome audit: why a portal is not proof of inclusion (2 November 2026)
+
+The Telangana Centre for Good Governance describes **ePASS** as an online scholarship application and disbursement platform for eligible students across several welfare categories. Its public project page lists scheme-wise beneficiary and payment information for **2025–26**. That establishes an administrative service and reported transactions; it does **not** by itself establish that every eligible student applied, received funds on time, remained enrolled or experienced reduced discrimination. A scheme's rules determine eligibility and appeals; calling a process “rights-based” does not convert every discretionary benefit into an unconditional statutory entitlement.
+
+**Worked monitoring example — entirely hypothetical:** A district receives 1,000 applications. After rule-based checks, 800 are eligible, 600 are paid by the reporting cutoff, and 500 paid students continue their courses. The payment rate among eligible applicants is **600/800 = 75%**; continuation among paid students is **500/600 ≈ 83.3%**. The 600/1,000 figure is an application-to-payment conversion, **not** population coverage. These rates still say nothing about eligible students who never applied, payment delays, duplicate records or the reasons for discontinuation. To test exclusion, separately measure application access, rejection reasons, time-to-payment, appeal outcomes, and continuation among comparable eligible students.
+
+**Operational design:** Publish clear eligibility and documentary requirements in accessible languages; offer assisted offline application routes; issue a traceable receipt; provide a reasoned rejection and review channel; log delayed payments without exposing sensitive caste, disability or financial records; and test the journey with affected students. Compare results by district and barrier type only where privacy, sample size and lawful data use permit. An administrative dashboard should show denominators and missing-data rates, not just the number of sanctioned scholarships.
+
+**Evidence boundary:** CGG ePASS project description, including its 2025–26 reporting table. No student-level records, scholarship-scheme rulebooks, independent outcomes study or causal impact estimate were reviewed for this example.
 
 ## 20. Comparisons the examiner can reward
 
