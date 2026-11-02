@@ -1,7 +1,7 @@
 {
   "topic_id": "3-3-5",
   "title": "Ethics, Neutrality, Citizen Charters, Transparency, Anti-Corruption, RTI and Administrative Reforms",
-  "date": "2026-10-31",
+  "date": "2026-11-03",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle34 bounded source audit and 15 MCQ revisions plus actual downloaded artifact QA. See project-control/academic-readiness/3-3-5-cycle34-objective-and-mcq-revision-2026-10-27.json and 3-3-5-cycle34-actual-downloaded-artifact-qa-2026-10-27.json. No independent academic approval. Cycle121 adds RTI remedies concept and five new original MCQs; five keys and 15 distractors bounded author-side checked against consolidated RTI Act sections 7/18/19/20. Existing 25 questions and six mains still require independent audit. CI artifact QA pending. Downloaded artifact QA evidence: project-control/academic-readiness/3-3-5-cycle121-downloaded-artifact-qa-2026-10-31.json.",
-  "next_action": "Independently verify all 30 keys/90 distractors, six mains, official Commission syllabus, diagrams, browser accessibility, deterministic CI PDF and downloaded ZIP CRC/SHA; R9 only after R1-R8 PASS and named expert.",
+  "next_action": "Run canonical CI render, independently download and verify actual postmerge Actions artifact CRC/SHA/75 original PDFs/readiness/links, then independently review remaining MCQs, six mains, 2024 Commission syllabus, diagrams, browser accessibility; no R9 before R1-R8 PASS and named expert.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_cycle34": {
@@ -69,5 +69,22 @@
     "independent_approvals": 0,
     "all_r1_r8_pass": false,
     "ci_artifact_qa": "ACTUAL downloaded packaging artifact 13018274118: CRC, digest, 75 original PDFs, 75 readiness JSON, 88 HTML, 562 local links/1031 DOM fragments zero broken; 43 SPA routes excluded; 39-page PDF and 30 MCQs. QA is production-only, not R8 PASS."
+  },
+  "objective_cycle195": {
+    "questions_revised_in_place": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "correct_keys_checked": 4,
+    "distractors_checked": 12,
+    "source_register_count": 27,
+    "original_mcqs_preserved": 30,
+    "mains_preserved": 6,
+    "author_side_source_audit": "project-control/academic-readiness/3-3-5-cycle195-institutional-remedies-four-mcq-primary-source-audit-2026-11-03.json",
+    "pdf_renderer_same_page_guard_added": true,
+    "ci_pdf_and_actual_artifact_qa": "PENDING",
+    "academic_approvals": 0
   }
 }
