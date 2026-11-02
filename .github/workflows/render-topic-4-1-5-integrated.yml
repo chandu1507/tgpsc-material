@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'Paper 4/Unit 1 - Indian Economy/Topic 5/source/**'
+      - 'scripts/render_topic_4_1_5_integrated.py'
       - '.github/workflows/render-topic-4-1-5-integrated.yml'
   workflow_dispatch:
 permissions:
@@ -64,18 +65,24 @@ jobs:
               body=re.sub(r'(?m)^\*\*[^*]+\*\*\s*','',body)
               counts.append(len(re.findall(r"\b[\w]+(?:[-'][\w]+)*\b",body)))
           assert counts==[235,239,233,230,233,227],counts
-          template=Path('scripts/render_topic_4_1_4_integrated.py').read_text()
-          template=template.replace('Public Finance • Topic 4','Planning in the Indian Economy • Topic 5').replace('Paper IV Unit I Topic 4','Paper IV Unit I Topic 5')
-          tmp=Path('/tmp/tgpsc_cycle39_renderer.py')
-          tmp.write_text(template)
           pdf=src/'integrated-student-edition-2026-10-27.pdf'
-          subprocess.run([sys.executable,str(tmp),'--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
+          subprocess.run([sys.executable,'scripts/render_topic_4_1_5_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
           doc=fitz.open(pdf)
           assert 20<=len(doc)<=55
           assert all(len(page.get_text().strip())>60 for page in doc)
           assert sum(len(page.get_images()) for page in doc)>=3
           text='\n'.join(p.get_text() for p in doc)
           assert all(x in text for x in ['Worked policy evaluation','3,000','Mains 6.'])
+          # MCQ labels, answer keys and all options must remain together on one PDF page.
+          for q in range(1,26):
+              matching=[(i,page.get_text()) for i,page in enumerate(doc) if re.search(r'(?m)^Q'+str(q)+r'\\.',page.get_text())]
+              assert len(matching)==1,(q,[i+1 for i,_ in matching])
+              page_text=matching[0][1]
+              start=re.search(r'(?m)^Q'+str(q)+r'\\.',page_text).start()
+              following=re.search(r'(?m)^Q\\d+\\.',page_text[start+3:])
+              segment=page_text[start:] if not following else page_text[start:start+3+following.start()]
+              assert re.search(r'Answer:\\s*[ABCD]\\.',segment),(q,'missing same-page answer')
+              assert all(re.search(r'(?m)^'+opt+r'\\.',segment) for opt in 'ABCD'),(q,'missing same-page options')
           violations=[]
           for i,page in enumerate(doc):
               for block in page.get_text('dict')['blocks']:
