@@ -100,5 +100,14 @@
     "No direct new original TGPSC syllabus PDF review",
     "No local empirical outcome audit",
     "No full screen-reader accessibility certification"
-  ]
+  ],
+  "answer_body_only_excluding_subheading_labels": [
+    237,
+    236,
+    230,
+    224,
+    211,
+    237
+  ],
+  "counting_correction": "Earlier whitespace counts included bold subheading labels; corrected body-only counts exclude all six bold labels per answer."
 }
