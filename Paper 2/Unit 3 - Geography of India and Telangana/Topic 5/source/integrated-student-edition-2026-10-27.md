@@ -451,6 +451,8 @@ D. 112,077 sq km (Telangana State area)
 
 **Conclusion:** The goal is not to weaken Hyderabad's successful agglomeration but to turn it into an **engine of networked regional development**. Primacy becomes sustainable when economic benefits are shared and metropolitan environmental costs are controlled.
 
+*Body-only word count (excluding bold subheading labels): 237; not an independent factual audit.*
+
 ### Model Answer 2 — 20 marks: Assess HMDA Master Plan 2031, Outer Ring Road and Hyderabad Metro as instruments of sustainable urban planning.
 **Introduction:** Metropolitan growth requires coordination of land use, transport, housing and ecological systems. Hyderabad's Master Plan 2031, ORR and Metro illustrate complementary but potentially conflicting planning instruments.
 
@@ -463,6 +465,8 @@ D. 112,077 sq km (Telangana State area)
 **Environmental and social limits:** Construction and development that obstruct feeder streams can worsen urban flooding. Fragmented institutions may approve land use without corresponding water, sewerage, road or school capacity. Planning must integrate catchment drainage, blue-green networks, safe wastewater treatment with appropriate discharge or reuse, and equitable transport access.
 
 **Recommendations and conclusion:** Establish integrated GIS monitoring, publish implementation milestones and evaluate **door-to-door travel time, flood exposure, land-use compliance, affordable housing and air quality**. Sustainable planning is achieved when statutory land use, transport investments and municipal services operate as one accountable metropolitan system, not as separate projects.
+
+*Body-only word count (excluding bold subheading labels): 236; not an independent factual audit.*
 
 ### Model Answer 3 — 20 marks: Explain the methodological problems of measuring urbanisation in Telangana.
 
@@ -478,7 +482,7 @@ D. 112,077 sq km (Telangana State area)
 
 **Conclusion:** Boundary-aware interpretation prevents misleading growth claims and helps allocate housing, water, schools and transport on the basis of real service demand.
 
-*Body word count (rechecked; not a factual audit): 230.*
+*Body-only word count (excluding bold subheading labels): 230; not a factual audit.*
 
 ### Model Answer 4 — 20 marks: Analyse Hyderabad flood risk through the Musi, lakes and drainage networks.
 
@@ -494,7 +498,7 @@ D. 112,077 sq km (Telangana State area)
 
 **Conclusion:** Effective urban resilience requires coordinated watershed planning and measurable reductions in flood exposure, not merely more visible construction.
 
-*Body word count (rechecked; not a factual audit): 224.*
+*Body-only word count (excluding bold subheading labels): 224; not a factual audit.*
 
 ### Model Answer 5 — 20 marks: Critically examine migration and housing inequality in Hyderabad.
 
@@ -510,7 +514,7 @@ D. 112,077 sq km (Telangana State area)
 
 **Conclusion:** A productive megapolis is socially sustainable only when its essential workforce can access secure housing, mobility and public services without disproportionate financial and health costs.
 
-*Body word count (rechecked; not a factual audit): 211.*
+*Body-only word count (excluding bold subheading labels): 211; not a factual audit.*
 
 ### Model Answer 6 — 20 marks: Assess Hyderabad's heritage and global-city ambitions in an inclusive urban-development strategy.
 
@@ -526,7 +530,7 @@ D. 112,077 sq km (Telangana State area)
 
 **Conclusion:** Hyderabad's durable global appeal depends on preserving its historical urban fabric while distributing economic opportunities and managing metropolitan risks. Tourism and modern services should reinforce rather than displace one another.
 
-*Body word count (deterministically recounted): 243; factual review pending; NOT an official PYQ.*
+*Body-only word count (excluding bold subheading labels): 237; factual review pending; NOT an official PYQ.*
 
 ### Cycle 172 — claim-level evidence boundaries for all six model answers (author-side; NOT independent certification)
 
@@ -538,6 +542,8 @@ D. 112,077 sq km (Telangana State area)
 | 4 — Flood risk | Impervious-cover/runoff mechanism [U20, U24]; Hyderabad's Musi and terrain context [U8] | No Hyderabad-specific runoff coefficient, lake-capacity loss, flood depth or hydraulic model has been independently checked. |
 | 5 — Migration and housing | Seasonal circular migration as a general Indian mechanism [U26]; housing/commute relationship [U25] | The ILO case is from Gujarat, **not Hyderabad**. Local migration flows, rent-to-income ratios and displacement impacts require Hyderabad datasets. |
 | 6 — Heritage and global-city functions | UNESCO Historic Urban Landscape recommendation [U28]; Qutb Shahi **tentative** listing [U15]; GaWC advanced-producer-services framework [U27] | Tentative listing is **not inscription**; no UNESCO legal mandate, Hyderabad GaWC rank, tourism count or inclusive-growth outcome is asserted. |
+
+**Counting correction:** Cycle172 preliminary counts 247/250/242/234/222/250 included bold subheading labels. The reproducible **body-only** counts excluding those labels are **237/236/230/224/211/237**; labels and source notes are not answer body. This correction does not change the six factual claims or grant academic approval.
 
 **Audit boundary:** This table links selected claims to the existing source register, distinguishes verified institutional facts from general mechanisms and unmeasured Hyderabad outcomes, and flags two corrected answer-level overstatements. It is an author-side evidence map only; **R4/R6 and R9 do not pass**. All six answers still require a named independent examiner and a full source-by-source academic review.
 
