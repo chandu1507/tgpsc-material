@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5 Cycle172: six mains author-side source audit and corrected actual 25-page PDF verified; 75 original PDFs, 75 readiness, zero academic approvals.",
+    "last_reported_topic": "2-3-5 Cycle172: six mains claim-level audit; body-only counts excluding bold subheading labels corrected to 237/236/230/224/211/237. CI re-render pending.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Actual downloaded post-control artifact 13108896301 digest/CRC/links/75 originals PASS; footer-only page eliminated; QA evidence commit postdates archive. R1-R8 ready0, approvals0, R9 NOT_STARTED.",
+    "note": "Earlier six answer counts 247/250/242/234/222/250 included subheading labels; corrected 237/236/230/224/211/237. 75 original PDFs unchanged, 7/68/0, R1 PASS14, approvals0. New PDF/artifact QA required.",
     "cycle158": {
       "date": "2026-11-01",
       "topic": "3-1-1",
@@ -348,12 +348,12 @@
       "date": "2026-11-02",
       "topic": "2-3-5",
       "six_mains_body_counts": [
-        247,
-        250,
-        242,
-        234,
-        222,
-        250
+        237,
+        236,
+        230,
+        224,
+        211,
+        237
       ],
       "claim_audit": "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json",
       "first_artifact_id": 13108064686,
@@ -364,7 +364,16 @@
       "fully_ready": 0,
       "independent_approvals": 0,
       "post_fix_artifact_id": 13108896301,
-      "actual_pdf_sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952"
+      "actual_pdf_sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952",
+      "previous_counts_including_labels": [
+        247,
+        250,
+        242,
+        234,
+        222,
+        250
+      ],
+      "post_count_correction_artifact_qa": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
