@@ -454,13 +454,13 @@ D. 112,077 sq km (Telangana State area)
 ### Model Answer 2 — 20 marks: Assess HMDA Master Plan 2031, Outer Ring Road and Hyderabad Metro as instruments of sustainable urban planning.
 **Introduction:** Metropolitan growth requires coordination of land use, transport, housing and ecological systems. Hyderabad's Master Plan 2031, ORR and Metro illustrate complementary but potentially conflicting planning instruments.
 
-**Spatial planning:** HMDA's 2031 planning materials provide land-use and corridor frameworks beyond GHMC's municipal service geography. Plans can direct growth away from vulnerable tanks and floodplains, but implementation depends on legal enforcement, public participation, finance and realistic demand projections.
+**Spatial planning:** HMDA's 2031 planning materials provide land-use and corridor frameworks beyond GHMC's municipal service geography. The 2031 plan maps must be distinguished from the HMDA region expanded in 2025: newly included areas are not automatically covered by older maps. Implementation requires enforcement and public participation.
 
-**ORR's role:** The orbital road improves selected regional connections and freight movement but can stimulate low-density peripheral real estate and private-vehicle dependency. Proposed regional ring networks should be distinguished from existing ORR infrastructure. Managing access points and integrating freight logistics reduce unplanned ribbon development.
+**ORR's role:** ORR connects regional freight corridors but may stimulate peripheral sprawl and car dependency. Proposed regional ring networks should be distinguished from existing ORR infrastructure. Managing access points and integrating freight logistics reduce unplanned ribbon development.
 
 **Metro's role:** The Metro supplies high-capacity transit on served corridors, yet its social value depends on feeder buses, safe pedestrian access, fare affordability and interchange design. Station-area land development must retain affordable housing to avoid displacement. Network effects are more important than route kilometres alone.
 
-**Environmental and social limits:** Construction and development that obstruct feeder streams can worsen urban flooding. Fragmented institutions may approve land use without corresponding water, sewerage, road or school capacity. Master plans must therefore embed catchment-scale drainage, blue-green networks, wastewater reuse and gender-sensitive access to transport.
+**Environmental and social limits:** Construction and development that obstruct feeder streams can worsen urban flooding. Fragmented institutions may approve land use without corresponding water, sewerage, road or school capacity. Planning must integrate catchment drainage, blue-green networks, safe wastewater treatment with appropriate discharge or reuse, and equitable transport access.
 
 **Recommendations and conclusion:** Establish integrated GIS monitoring, publish implementation milestones and evaluate **door-to-door travel time, flood exposure, land-use compliance, affordable housing and air quality**. Sustainable planning is achieved when statutory land use, transport investments and municipal services operate as one accountable metropolitan system, not as separate projects.
 
@@ -516,7 +516,7 @@ D. 112,077 sq km (Telangana State area)
 
 **Introduction:** Hyderabad combines historic Qutb Shahi and Asaf Jahi urban landscapes with contemporary technology, pharmaceuticals, education and international business. A global-city strategy must protect this layered identity while improving the everyday conditions of residents.
 
-**Heritage as a living economy:** Charminar, Golconda Fort, the Qutb Shahi Tombs and traditional bazaars support tourism, crafts and livelihoods. Heritage is not limited to monuments: markets, pedestrian streets and surrounding communities also shape cultural value. Visitor statistics and legal monument buffers require separately dated, site-specific evidence.
+**Heritage as a living economy:** Charminar, Golconda Fort, the Qutb Shahi Tombs and traditional bazaars support tourism, crafts and livelihoods. Heritage is not limited to monuments: markets, pedestrian streets and surrounding communities also shape cultural value. UNESCO’s 2010 tentative listing of Qutb Shahi monuments is not World Heritage inscription; visitor figures require dated evidence.
 
 **Global-city functions:** Skilled labour, specialised hospitals, research institutions, business services and airport links connect Hyderabad to wider economic networks. These strengths can create jobs and tax revenues, but an international skyline does not demonstrate universal access to housing, sanitation or safe transport.
 
@@ -527,6 +527,19 @@ D. 112,077 sq km (Telangana State area)
 **Conclusion:** Hyderabad's durable global appeal depends on preserving its historical urban fabric while distributing economic opportunities and managing metropolitan risks. Tourism and modern services should reinforce rather than displace one another.
 
 *Body word count (deterministically recounted): 243; factual review pending; NOT an official PYQ.*
+
+### Cycle 172 — claim-level evidence boundaries for all six model answers (author-side; NOT independent certification)
+
+| Answer | Directly checked institutional anchor | What remains an analytical inference or needs local data |
+|---|---|---|
+| 1 — Urban primacy | HMDA planning remit and boundary [U4, U12]; intermediary-city framework [U29] | Hyderabad's exact primacy ratio, regional job-distribution effects, housing-cost trend and causal impacts are **not measured here**. |
+| 2 — Master plan, ORR, Metro | HMDA published Master Plan 2031 material [U6], 2025 boundary order [U4], operational ORR [U13], 69-km implemented Metro Phase I [U14] | A 2031 plan cannot be presumed to cover the enlarged 2025 HMDA region; Phase II proposals are **not operational kilometres**; accessibility and flood outcomes require field data. |
+| 3 — Measuring urbanisation | Telangana 2011 urban share 38.88% [U1]; 2025 HMDA planning area approximately 10,472.723 km² [U4] | Census population, statutory boundary, physical built-up area and planning jurisdiction are **different measures**; no 2026 urbanisation rate is established. |
+| 4 — Flood risk | Impervious-cover/runoff mechanism [U20, U24]; Hyderabad's Musi and terrain context [U8] | No Hyderabad-specific runoff coefficient, lake-capacity loss, flood depth or hydraulic model has been independently checked. |
+| 5 — Migration and housing | Seasonal circular migration as a general Indian mechanism [U26]; housing/commute relationship [U25] | The ILO case is from Gujarat, **not Hyderabad**. Local migration flows, rent-to-income ratios and displacement impacts require Hyderabad datasets. |
+| 6 — Heritage and global-city functions | UNESCO Historic Urban Landscape recommendation [U28]; Qutb Shahi **tentative** listing [U15]; GaWC advanced-producer-services framework [U27] | Tentative listing is **not inscription**; no UNESCO legal mandate, Hyderabad GaWC rank, tourism count or inclusive-growth outcome is asserted. |
+
+**Audit boundary:** This table links selected claims to the existing source register, distinguishes verified institutional facts from general mechanisms and unmeasured Hyderabad outcomes, and flags two corrected answer-level overstatements. It is an author-side evidence map only; **R4/R6 and R9 do not pass**. All six answers still require a named independent examiner and a full source-by-source academic review.
 
 ## Part D — Revision and schematic process diagrams
 
@@ -545,7 +558,7 @@ D. 112,077 sq km (Telangana State area)
 
 ## Part E — Dated official-source register and claim limits
 
-**Evidence limitations:** All 16 sections now exceed 300 whitespace words, but this mechanical threshold is NOT qualitative R3 approval. This is a working integrated edition. All 25 original MCQ keys have bounded author-side source correspondence after Cycle171; independent expert checking of all 25 keys and all 100 options remains outstanding; four new mains answers and two inherited mains answers require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
+**Evidence limitations:** All 16 sections now exceed 300 whitespace words, but this mechanical threshold is NOT qualitative R3 approval. This is a working integrated edition. All 25 original MCQ keys have bounded author-side source correspondence after Cycle171; independent expert checking of all 25 keys and all 100 options remains outstanding; all six mains answers have a bounded author-side claim map but still require independent item-level/source-level academic review. The original TGPSC Annexure II syllabus PDF was not directly rechecked in this cycle. Detailed maps, public-browser usability, accessibility and independent reviewer approval remain pending. R9 NOT STARTED. ZERO academic approvals.
 
 
 | Code | Source | Scope of verification |
