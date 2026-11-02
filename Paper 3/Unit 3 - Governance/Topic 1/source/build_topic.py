@@ -49,6 +49,21 @@ def render_lines(markdown,section_idx=0):
  while i<len(lines):
   s=lines[i].strip()
   if not s: i+=1;continue
+  # Keep every MCQ stem, four separately rendered options and explanation together.
+  if re.match(r'^### Q\d+\.',s):
+   mcq=[mkpara(s[4:].strip(),'h3')]
+   i+=1
+   while i<len(lines) and lines[i].strip():
+    item=lines[i].strip()
+    if re.match(r'^[A-D]\. ',item):
+     mcq.append(mkpara(item,'small'))
+    elif item.startswith('**Answer: '):
+     mcq.append(mkpara(item,'p'))
+    else:
+     mcq.append(mkpara(item,'small'))
+    i+=1
+   out.append(KeepTogether(mcq))
+   continue
   if s.startswith('![') and '](' in s:
    m=re.match(r'!\[(.*?)\]\((.*?)\)',s)
    if m:
