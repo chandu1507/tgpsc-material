@@ -1,0 +1,64 @@
+{
+  "cycle": 177,
+  "date": "2026-11-02",
+  "topic_id": "3-1-2",
+  "base_main": "65c43b439b31b9b54eeff8e909cb4b0fbcbe7b37",
+  "work": "Two original existing concepts expanded in place in integrated, complete and detailed Markdown masters; source register synchronized.",
+  "concepts": [
+    {
+      "number": 21,
+      "title": "Frequent errors in mains answers",
+      "body_only_whitespace_words_before": 181,
+      "after": 553
+    },
+    {
+      "number": 23,
+      "title": "One-page exam strategy: answer structure by command word",
+      "body_only_whitespace_words_before": 184,
+      "after": 565
+    }
+  ],
+  "word_count_method": "Split Part C existing numbered section at next numbered heading / Part D divider, remove Markdown heading lines and markup characters, count whitespace-delimited nonempty tokens. Includes worked examples and evidence-boundary text; mechanical threshold only.",
+  "official_sources": [
+    {
+      "id": "E177-01",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/13684/1/a2016-49_act.pdf",
+      "scope": "RPwD Act 2016 sections 32,34,48"
+    },
+    {
+      "id": "E177-02",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/9114eab35ed1da6c31fa85a82e400b28.pdf",
+      "scope": "Constitution Articles 341,342"
+    },
+    {
+      "id": "E177-03",
+      "scope": "Repository syllabus index, not external marking scheme"
+    }
+  ],
+  "claim_boundaries": [
+    "Illustrative grievance counts 120/90/18 are hypothetical; no prevalence or conviction inference",
+    "Illustrative service journey 100/80/60 is hypothetical; no Telangana outcome inference",
+    "200-word answer allocation is teaching heuristic, not authenticated official rubric",
+    "No actual PYQs authenticated, no independent reviewer",
+    "Original 75 topic PDFs must remain untouched"
+  ],
+  "preservation": {
+    "topic_slots": 75,
+    "original_pdfs_expected": 75,
+    "readiness_json_expected": 75,
+    "original_topic_3_1_1_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a"
+  },
+  "readiness": {
+    "status": "ASSESSED_REBUILD_REQUIRED",
+    "r1_r8_ready": 0,
+    "independent_approvals": 0,
+    "r9": "NOT_STARTED"
+  },
+  "publication": {
+    "ci_pdf": "PENDING",
+    "actual_downloaded_actions_artifact": "PENDING",
+    "outer_inner_crc": "PENDING",
+    "link_qa": "PENDING",
+    "browser_screen_reader": "NOT_CERTIFIED"
+  }
+}
