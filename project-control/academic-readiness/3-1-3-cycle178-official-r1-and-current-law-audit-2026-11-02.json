@@ -1,0 +1,203 @@
+{
+  "cycle": 178,
+  "date": "2026-11-02",
+  "topic_id": "3-1-3",
+  "baseline_main": "636aca0baa553c3df5bf841d9c544894803cefc6",
+  "source_authentication": {
+    "authority": "Telangana State Public Service Commission",
+    "document": "Group-I Services Notification No. 02/2024 dated 19 February 2024",
+    "annexure": "Annexure II",
+    "printed_page": 30,
+    "pdf_zero_based_page_index": 29,
+    "paper": "III",
+    "unit": "I",
+    "item": 3,
+    "source_url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "access_method": "Official TGPSC PDF extracted text and direct visual page inspection 2026-11-02",
+    "later_revision_authenticated": false
+  },
+  "syllabus_clause_count": 16,
+  "syllabus_mapping": [
+    {
+      "official_clause": "Poverty",
+      "integrated_master_section": 2,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Unemployment",
+      "integrated_master_section": 3,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Child Labour",
+      "integrated_master_section": 4,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Violence against Women",
+      "integrated_master_section": 5,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Regionalism",
+      "integrated_master_section": 6,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Communalism and Secularism",
+      "integrated_master_section": 7,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Corruption",
+      "integrated_master_section": 8,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Caste Conflicts",
+      "integrated_master_section": 9,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Problems of Agricultural Labour",
+      "integrated_master_section": 10,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Urbanization",
+      "integrated_master_section": 11,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Development and Displacement",
+      "integrated_master_section": 12,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Environmental Degradation",
+      "integrated_master_section": 13,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Sustainable Development",
+      "integrated_master_section": 14,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Population Explosion",
+      "integrated_master_section": 15,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Agrarian Distress",
+      "integrated_master_section": 16,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    },
+    {
+      "official_clause": "Migration",
+      "integrated_master_section": 17,
+      "scope": "Direct official clause-to-section correspondence; not independent academic content certification"
+    }
+  ],
+  "r1_before": "IN_PROGRESS",
+  "r1_after": "PASS",
+  "r1_reason": "All 16 clauses on the directly inspected official 2024 notification page map to numbered detailed sections 2-17; mapping source and page recorded.",
+  "status_unchanged": "ASSESSED_REBUILD_REQUIRED",
+  "current_law": {
+    "statute": "Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB-G RAM G Act, 2025, Act 36 of 2025",
+    "india_code": "https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse",
+    "commencement_and_repeal": "2026-07-01",
+    "official_release": "https://www.dord.gov.in/static/uploads/2026/05/6c0a4feea975932109261916ea1fc699.pdf",
+    "official_implementation_note": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=158510&lang=1&reg=3",
+    "bounded_findings": [
+      "Statutory 125-day guarantee is per eligible rural household, not each adult.",
+      "States may notify peak-season pauses aggregating to 60 days; not evidence of a universal pause.",
+      "Normative allocation and Centre-State cost sharing are design features; not proof of denial or delivery.",
+      "Field outcomes require work-demand, work-offer, person-day and timely-payment denominators."
+    ],
+    "hypothetical_example": {
+      "demanding_households": 1000,
+      "obtained_some_work": 800,
+      "received_at_least_125_person_days": 600,
+      "fully_paid_on_time": 550,
+      "access_rate": 0.8,
+      "fulfilment_rate": 0.6,
+      "timely_full_payment_rate": 0.55,
+      "is_observed_telangana_data": false
+    }
+  },
+  "original_practice_mcq_audit": {
+    "scope": "Three existing questions from integrated editable master; no newly invented official PYQs.",
+    "checked_keys": 3,
+    "checked_distractors": 9,
+    "independent_expert_checks": 0,
+    "items": [
+      {
+        "number": 10,
+        "key": "B",
+        "source_urls": [
+          "https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse",
+          "https://www.dord.gov.in/static/uploads/2026/05/6c0a4feea975932109261916ea1fc699.pdf"
+        ],
+        "option_checks": {
+          "A": "False: both laws are household, not adult-individual guarantees; old law 100 days.",
+          "B": "Supported: 2005 100-day historical household framework replaced 1 July 2026 by 125-day household framework.",
+          "C": "False: new Act contains statutory household guarantee.",
+          "D": "False: 125-day statutory guarantee is not per adult individual."
+        }
+      },
+      {
+        "number": 17,
+        "key": "D",
+        "source_urls": [
+          "https://niti.gov.in/sites/default/files/2025-08/VNR-2025.pdf",
+          "https://www.niti.gov.in/competitive-federalism/sdg/goal-1-end-poverty-in-all-its-forms-everywhere"
+        ],
+        "option_checks": {
+          "A": "False: 11.28% is not nominal GDP growth.",
+          "B": "False: 11.28% is not urban unemployment.",
+          "C": "False: national MPI projection is not a Hyderabad-only count.",
+          "D": "Supported: NITI explicitly labels 2022-23 MPI 11.28% PROJECTED, not direct census."
+        }
+      },
+      {
+        "number": 18,
+        "key": "B",
+        "source_urls": [
+          "https://mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf",
+          "https://mospi.gov.in/sites/default/files/publication_reports/TUS_Report_2024_28.03.2025F.pdf"
+        ],
+        "option_checks": {
+          "A": "False: participation percentage is not proportion of day spent.",
+          "B": "Supported: age 6+ all-India female 81.5%, male 27.1% participated in unpaid domestic services.",
+          "C": "False: these are not unemployment rates.",
+          "D": "False: not restricted to urban Telangana working-age persons."
+        }
+      }
+    ],
+    "bank_consistency_warning": "Integrated master MCQ10 and source/original-practice.md MCQ10 have different stems/options but both key B; no claim that all 30 questions are synchronized across every legacy bank.",
+    "all_30_independently_verified": false
+  },
+  "qa_limits": [
+    "R1 PASS is a syllabus mapping gate only, not full R1-R8 readiness.",
+    "No independent expert approval; R9 NOT_STARTED.",
+    "No full 30-question 90-distractor audit.",
+    "No complete legal amendment consolidation or field-data verification.",
+    "No claim of direct Telangana district outcome from hypothetical exercise.",
+    "PDF render, GitHub Actions artifact download, ZIP CRC/SHA, original-PDF preservation and offline links must be checked after merge."
+  ],
+  "totals_expected": {
+    "original_topics": 75,
+    "original_topic_pdfs": 75,
+    "per_topic_readiness_json": 75,
+    "readiness_statuses": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "normalized_R1_PASS_before": 14,
+    "normalized_R1_PASS_after": 15,
+    "fully_R1_to_R8_ready": 0,
+    "independent_academic_approvals": 0
+  }
+}
