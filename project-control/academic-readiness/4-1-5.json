@@ -26,7 +26,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle39 official TGPSC original PDF fresh retrieval 403, so R1 IN_PROGRESS. Fifteen concepts 362–634 words; Q21/Q25 revised; six mains body-only 235/239/233/230/233/227. Guarded CI produced 31-page integrated PDF SHA256 718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846; actual downloaded GitHub packaging run 40516112070 artifact 12739623188 independently verified: outer/inner CRC, SHA matching GitHub, 1614 files, 75 unchanged original PDFs, 75 readiness JSON, 78 HTML, 485 relative href/src links and 966 DOM fragments zero broken, 64 SPA route occurrences excluded, 17/17 manifest hashes. R8 IN_PROGRESS, no accessibility certification, zero approvals. Cycle126: Q1-Q10 option-level author-side reviews (40 options; Q4/Q6 chronology provisional); 35-page CI PDF SHA256 4287e86a...; actual artifact 13029007702 downloaded, CRC/SHA/75 originals/links PASS. No independent academic approval. Cycle196: Q11–Q13 3 keys/9 distractors author-side checked against NITI, Finance Commission and DIPAM primary sources; CI 41548604660 SUCCESS 37 pages, 25/25 same-page assertions; actual post-edit publication archive verification pending. Independent approvals0.",
+  "evidence": "Cycle39 official TGPSC original PDF fresh retrieval 403, so R1 IN_PROGRESS. Fifteen concepts 362–634 words; Q21/Q25 revised; six mains body-only 235/239/233/230/233/227. Guarded CI produced 31-page integrated PDF SHA256 718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846; actual downloaded GitHub packaging run 40516112070 artifact 12739623188 independently verified: outer/inner CRC, SHA matching GitHub, 1614 files, 75 unchanged original PDFs, 75 readiness JSON, 78 HTML, 485 relative href/src links and 966 DOM fragments zero broken, 64 SPA route occurrences excluded, 17/17 manifest hashes. R8 IN_PROGRESS, no accessibility certification, zero approvals. Cycle126: Q1-Q10 option-level author-side reviews (40 options; Q4/Q6 chronology provisional); 35-page CI PDF SHA256 4287e86a...; actual artifact 13029007702 downloaded, CRC/SHA/75 originals/links PASS. No independent academic approval. Cycle196: Q11–Q13 3 keys/9 distractors author-side checked against NITI, Finance Commission and DIPAM primary sources; CI 41548604660 SUCCESS 37 pages, 25/25 same-page assertions; actual post-edit publication archive verification pending. Independent approvals0. Actual GitHub artifact 13190770002 downloaded SHA/CRC/75 unchanged originals/75 readiness/592 file links/1586 fragments/17 manifest hashes/25 same-page MCQs PASS; QA evidence commit postdates inspected artifact.",
   "next_action": "Download post-render GitHub packaging artifact; independently check ZIP CRC/SHA, 75 original PDFs and readiness JSON, manifest and links; directly inspect original Annual Plans for Q4/Q6; audit Q14-Q25 and six mains claims; diagram and browser accessibility QA; named expert review only after R1-R8 PASS.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -152,8 +152,15 @@
     "ci_pdf_pages": 37,
     "ci_pdf_sha256": "6af78450b05ee3921cef3e0a5420a37aac9a00220a3a7fffc8a8c7cfed419c6e",
     "ci_25_mcq_same_page_assertions": "PASS",
-    "actual_postedit_artifact_qa": "PENDING",
+    "actual_postedit_artifact_qa": "VERIFIED artifact 13190770002; packaging run 41548658682",
     "independent_approvals": 0,
-    "external_reviewer": null
+    "external_reviewer": null,
+    "actual_artifact_sha256": "a6ed4918a9c0354907b3c7ba7aafb165743433648f86361971f3426c475c52de",
+    "actual_artifact_qa_evidence": "project-control/academic-readiness/4-1-5-cycle196-actual-downloaded-artifact-qa-2026-11-03.json",
+    "actual_artifact_original_pdf_count": 75,
+    "actual_artifact_readiness_json_count": 75,
+    "actual_artifact_links_broken": 0,
+    "actual_artifact_manifest_checks": "17/17 PASS",
+    "post_evidence_packaging": "PENDING"
   }
 }
