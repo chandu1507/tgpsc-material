@@ -131,7 +131,7 @@ doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargi
 grouped=[]
 mcq_group=[]
 for flow in story:
-    is_question=isinstance(flow,Paragraph) and re.match(r'^Q\\d+\\.',flow.text or '')
+    is_question=isinstance(flow,Paragraph) and re.match(r'^Q\d+\.',flow.text or '')
     is_section=isinstance(flow,PageBreak) or (isinstance(flow,Paragraph) and flow.style in (styles['title'],styles['h2']))
     if is_question or is_section:
         if mcq_group:
