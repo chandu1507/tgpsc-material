@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5 Cycle172: six mains claim-level author-side audit; renderer footer-only page defect corrected, final post-fix artifact QA pending; zero academic approvals.",
+    "last_reported_topic": "2-3-5 Cycle172: six mains author-side source audit and corrected actual 25-page PDF verified; 75 original PDFs, 75 readiness, zero academic approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle172 first downloaded artifact 13108064686 verified ZIP/75 originals but page26 was footer-only; renderer PR333 fixed, run 41369693412 success. Final package must be downloaded and independently checked. Status 7/68/0, R1 PASS14, R1-R8 ready0, approvals0.",
+    "note": "Actual downloaded post-control artifact 13108896301 digest/CRC/links/75 originals PASS; footer-only page eliminated; QA evidence commit postdates archive. R1-R8 ready0, approvals0, R9 NOT_STARTED.",
     "cycle158": {
       "date": "2026-11-01",
       "topic": "3-1-1",
@@ -360,9 +360,11 @@
       "first_artifact_footer_only_page": 26,
       "renderer_fix_pr": 333,
       "renderer_ci_success": 41369693412,
-      "post_fix_actual_artifact_qa": "PENDING",
+      "post_fix_actual_artifact_qa": "PASS",
       "fully_ready": 0,
-      "independent_approvals": 0
+      "independent_approvals": 0,
+      "post_fix_artifact_id": 13108896301,
+      "actual_pdf_sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
