@@ -29,6 +29,9 @@
 | S23 | India Code, RTE Act, 2009 | Article 21A implementation; 6–14 years; duties and covered-school categories | https://www.indiacode.nic.in/handle/123456789/12911?sam_handle=&view_type=browse |
 | S24 | Ministry of Education, Samagra Shiksha | Integrated school-education scheme, equity and learning | https://samagra.education.gov.in/ |
 | S25 | Telangana State Portal, food-security-card distribution, 14 July 2025 | Dated state administrative announcement, not independent coverage proof | https://www.telangana.gov.in/news/news-and-press-releases/2025/07/honble-cm-revanth-reddy-participated-in-the-launch-of-food-security-cards-new-ration-cards-distribution-at-thirumalagiri/ |
+| S26 | Legislative Department, *Constitution of India* (as on 1 May 2026), Part IX, Articles 243A–243H | Q26–Q30 constitutional provisions; specifically State-law authority, twenty-lakh State population exception, direct elections, one-third women's minimum, and enabling fiscal law. Corrects earlier misattribution to S25 (Telangana ration-card announcement). | https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf |
+| S27 | Ministry of Rural Development, *Annual Master Circular 2024–25*, chapter 10, social audit | Historical MGNREGA social-audit method: Gram Sabha, records and independent Social Audit Units. Historical source; NOT certification of post-2026 transition rules. | https://www.dord.gov.in/static/uploads/2024/11/ac56e7f159e31f06e12beb799f206786.pdf |
+| S28 | Telangana Panchayat Raj and Rural Development Department; Peddapalli DRDA | Stree Nidhi is an SHG-linked credit cooperative federation, not a court, municipality or legislative audit committee. | https://peddapalli.telangana.gov.in/district-rural-development-agency/ |
 
 ## Source-quality controls and unresolved items
 
@@ -55,6 +58,14 @@ The revised answer distribution is A4/B9/C6/D6. A balanced distribution is not e
 
 ## 31 October 2026 — Cycle119 bounded constitutional check, not independent R5 approval
 
-**S25 — directly inspected primary text:** Legislative Department, *Constitution of India*, Articles 243A, 243B(2), 243C(2), 243D(3), 243G and 243H: https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf . Historical constitutional design also compared with the official 73rd Amendment Act: https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf .
+**S26 — directly inspected primary text:** Legislative Department, *Constitution of India*, Articles 243A, 243B(2), 243C(2), 243D(3), 243G and 243H: https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf . Historical constitutional design also compared with the official 73rd Amendment Act: https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf .
 
 New original practice Q26–Q30: **five keys and 15 distractors checked author-side** against the named provisions; every new distractor has an explicit rationale. These are not official PYQs, not independent question certification, and do not authenticate Q1–Q25. New detailed concept 15 distinguishes deliberation, representation, functional devolution and fiscal authority. Full 30-key/90-distractor independent audit, six mains claim checks, current Telangana operational rules, official TGPSC syllabus direct PDF, browser accessibility and named academic expert remain pending. No academic approval.
+
+## 3 November 2026 — Cycle193 source-ID repair and bounded MCQ audit
+
+**Defect fixed:** Original Q26–Q30 cited `[S25]` even though the numbered S25 register entry is a Telangana food-security-card announcement. The Constitution had been discussed in a later unnumbered note also called S25. This is a source-identity collision, not evidence that the questions' constitutional keys were wrong. The five MCQs now cite distinct **S26**, with the exact Legislative Department consolidated text and Articles 243A–243H. The pre-existing S25 ration-card entry remains unchanged.
+
+**Two additional original MCQs:** Q6 was rewritten to distinguish documentary accounting from public verification under the *historical* 2024 Ministry social-audit circular (S27). Q10 was rewritten to test Stree Nidhi's SHG-linked cooperative-credit function against Telangana department and district descriptions (S28). For these two questions, **two keys and six distractors** were checked author-side. The check does not establish any post-2026 social-audit legal transition rule, nor does it authenticate official PYQs.
+
+**Remaining limitations:** Direct Commission-hosted 2024 syllabus authentication, complete 30-question independent key/distractor audit, six mains claim checks, browser/screen-reader QA and named expert review remain pending. R1 remains BLOCKED; no R1–R8 gate or independent academic approval is promoted.
