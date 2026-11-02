@@ -552,6 +552,26 @@
       "fully_ready": 0,
       "independent_approvals": 0,
       "post_evidence_package": "PENDING"
+    },
+    "cycle185": {
+      "date": "2026-11-02",
+      "topic": "3-1-5",
+      "mcqs_revised": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "keys_author_side_checked": 4,
+      "distractors_author_side_checked": 12,
+      "mcq_count": 30,
+      "mains_count": 6,
+      "original_pdfs_preserved": true,
+      "CI_render": "PENDING",
+      "actual_downloaded_artifact_qa": "PENDING",
+      "R1_PASS": 17,
+      "fully_R1_R8_ready": 0,
+      "independent_approvals": 0
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",

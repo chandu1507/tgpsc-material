@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-02",
+  "cycle": 185,
+  "topic_id": "3-1-5",
+  "status": "AUTHOR_SIDE_SOURCE_CHECK_ONLY",
+  "scope": "Four existing original practice MCQs 15–18; 4 keys + 12 distractors",
+  "canonical_master": "Paper 3/Unit 1 - Indian Society/Topic 5/source/integrated-student-edition-2026-10-30.md",
+  "question_count_preserved": 30,
+  "mains_count_preserved": 6,
+  "original_pdf_preserved": true,
+  "questions": [
+    {
+      "number": 15,
+      "key": "C",
+      "key_claim": "PESA section 4(e)(i): Gram Sabha approval of village-level development plans in Scheduled Areas",
+      "distractors": {
+        "A": "FRA section 3 concerns recognised forest rights, not PESA project approval",
+        "B": "Article 342A addresses backward-class lists",
+        "D": "RPwD section 32 addresses higher-education reservation"
+      },
+      "sources": [
+        "S30",
+        "S31",
+        "S33",
+        "S08"
+      ],
+      "caveat": "PESA is not applicable to every village; no Telangana village-level implementation record inspected"
+    },
+    {
+      "number": 16,
+      "key": "B",
+      "key_claim": "FRA 2006 recognises qualifying community grazing and community forest resource rights",
+      "distractors": {
+        "A": "PESA concerns Scheduled Area Panchayat governance",
+        "C": "PM-JANMAN is development mission, not forest title",
+        "D": "Article 342A concerns backward-class lists"
+      },
+      "sources": [
+        "S31",
+        "S30",
+        "S32",
+        "S33"
+      ],
+      "caveat": "Gram Sabha initiation does not mean automatic title approval"
+    },
+    {
+      "number": 17,
+      "key": "A",
+      "key_claim": "PM-JANMAN targets PVTG families and habitations with multi-sector interventions",
+      "distractors": {
+        "B": "EMRS is education-focused rather than multi-sector habitation saturation",
+        "C": "PM POSHAN provides school meals",
+        "D": "NSAP is social assistance, not PVTG habitation infrastructure"
+      },
+      "sources": [
+        "S32",
+        "S07",
+        "S25"
+      ],
+      "caveat": "Mission targets do not prove completed coverage"
+    },
+    {
+      "number": 18,
+      "key": "D",
+      "key_claim": "Article 342A(3) recognises State/UT lists potentially different from Central OBC List",
+      "distractors": {
+        "A": "State inclusion does not automatically amend Central List",
+        "B": "State-list power remains after 105th Amendment",
+        "C": "Central List amendments require formal constitutional process, not district census discretion"
+      },
+      "sources": [
+        "S33",
+        "S34"
+      ],
+      "caveat": "No individual Telangana community entry or reservation eligibility independently established"
+    }
+  ],
+  "primary_sources": [
+    {
+      "id": "S30",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1973/1/A1996-40.pdf",
+      "scope": "PESA section 4(e)(i)"
+    },
+    {
+      "id": "S31",
+      "url": "https://tribal.nic.in/FRA.aspx",
+      "scope": "FRA individual/community rights and Gram Sabha role"
+    },
+    {
+      "id": "S32",
+      "url": "https://tribal.nic.in/pm-janman.aspx",
+      "scope": "PVTG targeting and mission design"
+    },
+    {
+      "id": "S33",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "scope": "Constitution Article 342A(3)"
+    },
+    {
+      "id": "S34",
+      "url": "https://ncbc.nic.in/user_panel/centralliststateview.aspx",
+      "scope": "Central List publication"
+    }
+  ],
+  "limitations": [
+    "Not authenticated official TGPSC PYQs",
+    "No independent subject-matter expert approval",
+    "No new R1-R8 PASS promotion",
+    "CI PDF render and actual downloaded postmerge artifact verification pending",
+    "Browser and screen-reader accessibility not assessed",
+    "Original topic PDFs must remain unchanged",
+    "All other MCQs and mains require further claim-level review"
+  ],
+  "portfolio_baseline": {
+    "total_topics": 75,
+    "status_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "normalized_R1_PASS": 17,
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED"
+  }
+}
