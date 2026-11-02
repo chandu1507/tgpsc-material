@@ -154,6 +154,12 @@ The central problem is frequently a mismatch between community life and state co
 
 When describing Telangana, distinguish north-eastern forested and agency landscapes from the Amrabad–Nallamala region; one tribal development plan cannot mechanically fit both. Deprivation must be disaggregated by community, gender, age and settlement type. Women collecting and processing forest produce may face market disadvantages different from those faced by households losing cultivation land.
 
+
+
+**Legal identity is not a geographical shortcut.** Article 342 specifies a State- or Union-territory-related notification process for Scheduled Tribes; the Fifth Schedule instead concerns the governance of particular Scheduled Areas. A person may belong to a notified ST community while living outside a Scheduled Area. Conversely, residence in a Scheduled Area does not itself establish ST status. The Ministry of Tribal Affairs separately publishes notifications for scheduling and orders for Scheduled Areas, confirming that these are distinct administrative questions. When analysing a Telangana settlement, verify the applicable notified community entry and the relevant territorial order independently; never infer eligibility from a generic label such as 'forest village'. [E175-01]
+
+**Worked district assessment (illustrative, not reported data).** Imagine two hamlets, one forest-fringe and one peri-urban, with the same reported school enrolment. In the first, seasonal access to a school and the language of instruction may be decisive; in the second, migration, documentation and hostel access may be more important. A rigorous field study would record each child's age, travel time, instructional language, attendance, transition to secondary school and reasons for withdrawal. It should disaggregate outcomes by settlement and gender while suppressing personally identifiable data. Neither the number of schools built nor the number of certificates issued demonstrates that educational exclusion has been removed. A defensible conclusion links **identity recognition, territorial governance, service accessibility and measured outcomes** without collapsing them into a single indicator.
+
 ## 7. Scheduled Tribes: Fifth Schedule, PESA and Forest Rights Act
 
 
@@ -173,6 +179,14 @@ The **National Commission for Backward Classes (NCBC)** received constitutional 
 
 Backward-class policy should address educational capacity, occupation transition, skill certification, entrepreneurship, credit and representation, rather than assuming all listed communities face identical hardship. In Telangana, artisanal, pastoral, agrarian, trading and service communities have heterogeneous histories and economic positions. Public surveys must define their classification scheme carefully, particularly when categories used for political reporting do not precisely match central eligibility lists.
 
+
+
+**Central and State lists are different legal instruments.** Article 342A, as amended by the Constitution (One Hundred and Fifth Amendment) Act, 2021, distinguishes the Central List used for Central Government purposes from lists that States or Union territories may prepare and maintain for their own purposes. Therefore a community's appearance in one list does not by itself prove eligibility for every recruitment or educational programme. The National Commission for Backward Classes maintains a Central List interface; that administrative interface is not a substitute for reading the current notification, applicable reservation rules and scheme conditions. [E175-02]
+
+**Eligibility case study (hypothetical).** Suppose an applicant is recognised as belonging to a backward class in a Telangana State scheme but applies for a Central Government post. The officer should not approve or reject the application merely by matching the colloquial community name. The sequence is: establish the relevant Central or State authority; verify the notified entry, including any synonyms or territorial qualifications; determine the applicable certificate and non-creamy-layer rules where required; and check the recruitment notification's date and conditions. This is an administrative reasoning exercise, not legal advice on a particular applicant.
+
+**Policy evaluation beyond the quota percentage.** A district's scholarship allocation measures expenditure, whereas admissions, course completion, competitive-examination participation and subsequent employment measure different stages of opportunity. Compare similarly situated cohorts, disclose missing data and avoid treating an OBC population estimate as an automatically valid denominator for every programme. In a mains answer, link historical disadvantage to a specific institutional barrier, then propose a measurable corrective intervention.
+
 ## 9. Minorities: constitutional identity and substantive security
 
 India's framework for minorities rests on protection of cultural, religious and linguistic pluralism. Article **29(1)** protects the right of any section of citizens possessing a distinct language, script or culture to conserve it; it is **not limited only to notified religious minorities**. Article **30(1)** recognises religious and linguistic minorities' right to establish and administer educational institutions of their choice. Article **25** protects freedom of conscience and religion within the Constitution's limits, while Articles **14–16** secure equality and non-discrimination. These are not identical provisions and must be separated when writing answers.
@@ -181,6 +195,14 @@ A minority's exclusion may occur through neighbourhood segregation, stereotypes,
 
 The minority concept can be **religious or linguistic** depending on the legal question. A learner should distinguish identification for central programmes from judicial and constitutional tests applying to educational rights. Telangana's Hyderabad region illustrates complex Urdu/Dakhni, Telugu, Hindi and English use, but language practice must not be mechanically equated with religious identity. Effective multilingual public administration is a concrete issue of access to forms, hospitals, schools, courts and benefit information.
 
+
+
+**Four constitutional questions, four distinct tests.** Article 29(1) protects any section of citizens with a distinct language, script or culture; Article 29(2) addresses discriminatory denial of admission to State-maintained or State-aided educational institutions on the specified grounds. Article 30(1) protects religious and linguistic minorities in establishing and administering educational institutions. Article 350A concerns the endeavour of States and local authorities to provide adequate mother-tongue instruction facilities at the primary stage for children belonging to linguistic minority groups. The Ministry of Education's published policy document reproduces these provisions; it is a historical policy source, not an updated judicial digest. [E175-03]
+
+**A school-access example (hypothetical).** A child who speaks Urdu at home may encounter a language barrier in a school where every instruction and parent notice is in another language. The first question is practical access: are explanations, assessments and family communications comprehensible? A separate legal question concerns the constitutional rights of a linguistic minority institution. A third question concerns whether a child has actually been denied admission on a prohibited ground. These cannot be answered by citing Article 30 indiscriminately. A policy evaluation should examine language support, attendance, reading proficiency, parent participation and grievance resolution rather than merely counting schools designated 'minority'.
+
+**Avoid demographic overreach.** Hyderabad's multilingual life does not allow a one-to-one inference from language to religion, economic status or educational disadvantage. Evidence about a particular ward or school requires an identified population, year and source. This distinction strengthens both constitutional accuracy and sociological explanation.
+
 ## 10. Women: gender as an institutional relationship
 
 Women's disadvantage cannot be explained simply by lower income or a supposed deficit of ambition. The mechanisms include **unequal unpaid care work, constraints on mobility, asset and inheritance gaps, violence, occupational segregation, interrupted careers, limited political representation and discriminatory institutions**. Patriarchal norms can operate differently across caste, class, religion, region and family structure. A woman in an urban professional household may experience a heavy unpaid care burden, while a woman agricultural labourer may face wage insecurity and limited land rights. Both are gender issues, but they require different policy instruments.
@@ -188,6 +210,14 @@ Women's disadvantage cannot be explained simply by lower income or a supposed de
 A capabilities-oriented analysis asks whether women can be educated, travel safely, control earnings, choose marriage, claim inheritance, participate in politics and make reproductive and health decisions. This moves beyond 'women empowerment schemes' as an undifferentiated phrase. **Time-use data** are useful for understanding unpaid labour, while labour-force participation statistics require careful interpretation because counting methods, unpaid family work and seasonal work affect estimates. Higher enrolment or workforce participation does not by itself establish equal safety, income or leadership.
 
 Legal measures serve different objectives. The **Protection of Women from Domestic Violence Act, 2005** addresses domestic abuse within its statutory framework; the **Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)** establishes workplace prevention and redressal mechanisms; the **Maternity Benefit Act, 1961**, as amended, protects covered employees under specified conditions. The constitutional provisions relevant to women's equality include Articles **14, 15(1), 15(3), 16** and directive principles addressing health and livelihood. Do not use one statute as a substitute for the others.
+
+
+
+**What the 2024 Time Use Survey actually measures.** The National Statistical Office's *Time Use Survey 2024* fact sheet reports that, among persons aged six or above in India, 81.5% of females and 27.1% of males performed unpaid domestic services on the reference day. Among those who performed such services, the corresponding averages were 289 and 88 minutes. The figures use two different denominators: participation rates cover the relevant population, while minutes are conditional on participating in the activity. These are national estimates, not Telangana-specific or causal estimates of discrimination. [E175-04]
+
+**Worked interpretation (illustrative).** In a hypothetical sample of 100 women, suppose 80 report unpaid household work and those 80 spend 300 minutes each. The participant average is 300 minutes, but the simple population-wide average is 240 minutes if nonparticipants are assigned zero for that activity. Comparing the 300-minute participant average with a men's population-wide average would be statistically misleading. Likewise, paid-employment participation, earnings, control over earnings and career progression are separate outcomes. A policy that increases the number of employed women without reducing unsafe travel or the care burden may leave important constraints intact.
+
+**Intervention and accountability.** A district response could combine reliable childcare, safe public transport, enforceable workplace grievance procedures and equitable access to skills training. Evaluate these with predeclared indicators: commuting time, childcare usage, paid-work retention, reported harassment handling and actual earnings control. Collect subgroup data carefully to avoid exposing survivors or identifying small communities. The analytical goal is not to claim that a single scheme 'empowers women', but to trace which institutional barrier was reduced and for whom.
 
 ## 11. Women in Telangana: education, work, safety and representation
 
@@ -770,7 +800,7 @@ Research safeguards: exact legal operative wording must be checked for amendment
 **Status: EXPANDED DRAFT; NOT APPROVED.**
 
 - [ ] Independent R1 check of the exact official numbered clause and all subpoints (existing syllabus-index cites the notification; not independently reverified in this assessment).
-- [ ] Full textbook depth across the 23 numbered explanations (8/23 remain under 300 words in the 2 November 2026 Part C-only direct recount after Concepts 2, 3, 4 and 5 were expanded; this threshold is not R3 approval).
+- [ ] Full textbook depth across the 23 numbered explanations (4/23 remain under 300 words in the 2 November 2026 Part C-only direct recount after Concepts 6, 8, 9 and 10 were expanded; this threshold is not R3 approval).
 - [x] Named thinker/institution/law distinctions and Telangana examples.
 - [x] Topic summary and flexible quick-revision sheet.
 - [x] Six structured original mains answer blueprints with approximately 233–240-word bodies (automated count only; factual source review pending).
@@ -801,3 +831,14 @@ The earlier standalone `depth-repair-exclusion.md` remains preserved in the sour
 
 **Scope:** Concepts 2, 3, 4 and 5 were expanded in place, preserving all 23 numbered concepts, 25 original practice MCQs and six original mains answers. The current 75-topic catalogue and original PDFs are untouched. No independent academic reviewer, official PYQ authentication, full textbook-page verification or browser/screen-reader certification is claimed.
 
+
+
+
+### Cycle175 bounded official-source correspondence — 2 November 2026 (author-side, not independent approval)
+
+- **E175-01 — Ministry of Tribal Affairs, Constitutional and Legal Matters:** https://tribal.nic.in/Clm.aspx . Direct government page check distinguishes ST scheduling/de-scheduling notifications from Scheduled Area declarations under Article 244(1) and the Fifth Schedule. The current Telangana ST community list and individual eligibility were **not** independently authenticated entry by entry.
+- **E175-02 — National Commission for Backward Classes, Central List:** https://ncbc.nic.in/User_Panel/CentralListStateView.aspx/1000 ; Article 342A as amended in 2021. The official NCBC list interface was checked; a current operative Telangana-specific entry or court holding was **not** independently verified. The constitutional wording was also compared against the previously registered Legislative Department text; no claim of comprehensive case-law review.
+- **E175-03 — Ministry of Education, Programme of Action 1992, minority education section:** https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/POA_1992.pdf . Direct official hosted PDF excerpt reproduces Articles 29(1), 29(2), 30(1) and 350A. This historical document supports the article distinctions, **not** contemporary interpretation of a specific school dispute.
+- **E175-04 — NSO/MoSPI, *Time Use Survey 2024* fact sheet, 25 February 2025:** https://www.mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf . Direct official PDF excerpt checked: age 6+ participation 81.5% female/27.1% male for unpaid domestic services, and conditional participant means 289/88 minutes. National reference-day estimates; no Telangana extrapolation.
+
+**Scope:** Concepts 6, 8, 9 and 10 expanded in place; 23 concepts, 25 original practice MCQs, six mains and all 75 original topic PDFs preserved. These bounded source checks do not establish full R4/R6, R5 or R9 approval.

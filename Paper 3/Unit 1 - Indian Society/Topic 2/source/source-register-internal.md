@@ -40,3 +40,14 @@ Research safeguards: exact legal operative wording must be checked for amendment
 
 **Scope:** Concepts 2, 3, 4 and 5 were expanded in place, preserving all 23 numbered concepts, 25 original practice MCQs and six original mains answers. The current 75-topic catalogue and original PDFs are untouched. No independent academic reviewer, official PYQ authentication, full textbook-page verification or browser/screen-reader certification is claimed.
 
+
+
+
+### Cycle175 bounded official-source correspondence — 2 November 2026 (author-side, not independent approval)
+
+- **E175-01 — Ministry of Tribal Affairs, Constitutional and Legal Matters:** https://tribal.nic.in/Clm.aspx . Direct government page check distinguishes ST scheduling/de-scheduling notifications from Scheduled Area declarations under Article 244(1) and the Fifth Schedule. The current Telangana ST community list and individual eligibility were **not** independently authenticated entry by entry.
+- **E175-02 — National Commission for Backward Classes, Central List:** https://ncbc.nic.in/User_Panel/CentralListStateView.aspx/1000 ; Article 342A as amended in 2021. The official NCBC list interface was checked; a current operative Telangana-specific entry or court holding was **not** independently verified. The constitutional wording was also compared against the previously registered Legislative Department text; no claim of comprehensive case-law review.
+- **E175-03 — Ministry of Education, Programme of Action 1992, minority education section:** https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/POA_1992.pdf . Direct official hosted PDF excerpt reproduces Articles 29(1), 29(2), 30(1) and 350A. This historical document supports the article distinctions, **not** contemporary interpretation of a specific school dispute.
+- **E175-04 — NSO/MoSPI, *Time Use Survey 2024* fact sheet, 25 February 2025:** https://www.mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf . Direct official PDF excerpt checked: age 6+ participation 81.5% female/27.1% male for unpaid domestic services, and conditional participant means 289/88 minutes. National reference-day estimates; no Telangana extrapolation.
+
+**Scope:** Concepts 6, 8, 9 and 10 expanded in place; 23 concepts, 25 original practice MCQs, six mains and all 75 original topic PDFs preserved. These bounded source checks do not establish full R4/R6, R5 or R9 approval.

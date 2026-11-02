@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle174 Topic3-1-2: concepts 2/3/4/5 expanded; 12→8 Part C concepts under300. GitHub 41-page PDF SHA256 7f23b8247fbb0d91da02a5cd702c5b82648e75d42e4e60a7912b29c15d94d96c; actual downloaded artifact 13113098109 SHA/CRC/75 unchanged originals/75 readiness/634 local links/1581 fragments PASS. QA evidence commit postdates inspected artifact; final repackage required. 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, R1 PASS14, fully ready0, approvals0, R9 NOT_STARTED.",
+  "warning": "Cycle175 Topic3-1-2 four concepts 6,8,9,10 expanded; 8→4 under300; CI/actual artifact pending. Exactly75 original PDFs/readiness records; R1 PASS14, fully ready0, independent approvals0, R9 NOT_STARTED.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
