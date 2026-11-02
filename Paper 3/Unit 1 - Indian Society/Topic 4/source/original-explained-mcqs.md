@@ -127,12 +127,12 @@ C. Uniform distribution alone
 D. School building count alone
 **Answer: A.** Retention and meaningful access reveal burdens hidden by enrollment totals.
 
-## 19. Which statute regulates child and adolescent labour?
-A. Forest Conservation Act, 1980
-B. Land Acquisition Act, 1894
-C. Child and Adolescent Labour (Prohibition and Regulation) Act, 1986
-D. Income-tax Act, 1961
-**Answer: C.** The amended Act distinguishes children from adolescents and hazardous processes.
+## 19. Under the Child and Adolescent Labour (Prohibition and Regulation) Act, 1986 as amended, which distinction is correct?
+A. Children may work for any employer if the work occurs after school hours.
+B. Every form of work by adolescents is prohibited, including non-hazardous work.
+C. Children's employment is prohibited subject to narrow statutory exceptions; adolescents are prohibited from listed hazardous occupations and processes.
+D. Family-enterprise work is exempt even when it is hazardous or interferes with schooling.
+**Answer: C.** Section 3 states the child-employment prohibition and limited family/artist exceptions; section 3A prohibits adolescent employment in listed hazardous work. A wrongly generalises a narrow family/artist exception to any employer; B wrongly extends the adolescent prohibition to all work; D ignores the hazardous-work and school-time conditions. Source C181-1: India Code, Act 61 of 1986 as amended, sections 2, 3 and 3A. This describes statutory design, not proof of enforcement.
 
 ## 20. Which approach best prevents return to child labour after rescue?
 A. Closing the case at first admission
@@ -183,26 +183,26 @@ C. They linked household harm and state excise decisions
 D. They concerned only a single family
 **Answer: C.** Collective mobilisation connected domestic burdens to licensing and state revenue policy.
 
-## 27. Which constitutional provision abolishes untouchability?
+## 27. A shop refuses service because of caste-based untouchability. Which constitutional Article directly abolishes the practice?
 A. Article 17
-B. Article 370
-C. Article 280
-D. Article 148
-**Answer: A.** Article 17 is a direct equality guarantee; enforcement and social inclusion are separate tasks.
+B. Article 15(2)
+C. Article 23
+D. Article 24
+**Answer: A.** Article 17 expressly abolishes untouchability and forbids its practice. B also protects against specified access discrimination, including shops, but does not itself contain the constitutional abolition clause; C prohibits trafficking, begar and forced labour; D addresses children's employment in factories, mines and hazardous work. Source C181-2: Constitution of India, Part III, Articles 15, 17, 23 and 24. The scenario is illustrative, not a finding in an actual case.
 
-## 28. Which law provides protection against caste-based atrocities?
-A. Companies Act, 1956
-B. SC/ST (Prevention of Atrocities) Act, 1989
-C. Patent Act, 1970
-D. Motor Vehicles Act alone
-**Answer: B.** The 1989 law addresses specified atrocities; accessible complaints and victim protection are critical.
+## 28. Which central law specifically defines atrocities against Scheduled Castes and Scheduled Tribes and provides for Special Courts and victim/witness safeguards?
+A. Protection of Civil Rights Act, 1955
+B. Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989
+C. Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996
+D. Bonded Labour System (Abolition) Act, 1976
+**Answer: B.** The 1989 Act contains specified atrocity offences (section 3), Special Court provisions (section 14) and rights of victims and witnesses (section 15A). A addresses disabilities arising from untouchability but is not the named atrocities statute; C governs Panchayati Raj in Scheduled Areas; D abolishes bonded labour. Source C181-3: India Code, Act 33 of 1989, sections 3, 14 and 15A. Applicability to any alleged incident requires its facts and statutory elements.
 
-## 29. Which legal regime is especially relevant to self-governance in Scheduled Areas?
-A. PESA and Fifth Schedule protections
-B. The Official Secrets Act alone
-C. A blanket application to every village
-D. The Companies Act alone
-**Answer: A.** PESA applies to Scheduled Areas; scope and implementing rules must be checked.
+## 29. In a Fifth Schedule Scheduled Area, which statute expressly requires the Gram Sabha to approve social and economic development plans before village-Panchayat implementation?
+A. Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA)
+B. Forest Rights Act, 2006, by itself for every Panchayat development plan
+C. The general 73rd Constitutional Amendment alone, without Scheduled-Area modifications
+D. Sixth Schedule autonomous-district provisions as a blanket rule for Fifth Schedule villages
+**Answer: A.** PESA section 4(e)(i) provides the specified Gram Sabha approval function; section 2 links its Scheduled Areas to Article 244(1). B concerns forest-rights recognition and related functions, not this general PESA approval clause; C omits PESA's tailored extension of Part IX; D conflates distinct Fifth- and Sixth-Schedule arrangements. Source C181-4: India Code, Act 40 of 1996, sections 2–4. Actual local implementation and State rules require separate checking.
 
 ## 30. What is the strongest test of a self-help group’s empowerment impact?
 A. Number of meetings alone
