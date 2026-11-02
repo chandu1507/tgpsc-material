@@ -1,0 +1,83 @@
+{
+  "cycle": 195,
+  "date": "2026-11-03",
+  "topic_id": "3-3-5",
+  "status": "ASSESSED_REBUILD_REQUIRED",
+  "questions_revised_in_place": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "answer_keys": {
+    "13": "B",
+    "14": "C",
+    "15": "A",
+    "16": "D"
+  },
+  "author_side_correct_keys_checked": 4,
+  "author_side_distractors_checked": 12,
+  "source_evidence": [
+    {
+      "id": "S24",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/2122/1/201401.pdf",
+      "scope": "Lokpal and Lokayuktas Act 2013 section 3 establishes Union Lokpal"
+    },
+    {
+      "id": "S25",
+      "url": "https://www.tvc.telangana.gov.in/jurisdiction_function.html",
+      "scope": "Telangana Vigilance Commission advisory functions and ACB investigation referral"
+    },
+    {
+      "id": "S26",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/12894/1/prevention_of_corruption_act_1988_49_of_1988.pdf",
+      "scope": "Prevention of Corruption Act amended section 7 undue advantage"
+    },
+    {
+      "id": "S27",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/Estt%20of%20CCPA.pdf",
+      "scope": "Consumer Protection Act 2019 section 10, Gazette SO 2422(E), CCPA effective 24 July 2020"
+    }
+  ],
+  "distractors": {
+    "13": {
+      "A": "CVC not Union Lokpal",
+      "C": "state ombudsman not Union",
+      "D": "PC Act does not constitute Lokpal trial court"
+    },
+    "14": {
+      "A": "Union/state conflation",
+      "B": "advice not conviction",
+      "D": "RTI body separate"
+    },
+    "15": {
+      "B": "consumer authority not general corruption prosecutor",
+      "C": "RTI Commission not investigator",
+      "D": "audit not criminal conviction"
+    },
+    "16": {
+      "A": "RTI separate",
+      "B": "CVC separate",
+      "C": "wrong Act, government and date"
+    }
+  },
+  "preserved": {
+    "original_topic_pdfs_expected": 75,
+    "original_practice_mcqs": 30,
+    "mains_answers": 6,
+    "verified_official_pyqs": 0
+  },
+  "new_renderer_guard": "KeepTogether MCQ block plus same-page CI assertion",
+  "source_register_count": 27,
+  "academic_status": "NOT_APPROVED",
+  "R1_R8_all_pass": false,
+  "R9": "NOT_STARTED",
+  "named_independent_expert_approval_count": 0,
+  "limitations": [
+    "Not independent legal expert review",
+    "Direct TGPSC 2024 hosted PDF not authenticated",
+    "Remaining 26 MCQs and 78 distractors and six mains not fully independently audited",
+    "Browser and screen-reader accessibility not certified",
+    "Postmerge actual GitHub Actions artifact SHA/CRC/links verification pending"
+  ]
+}
