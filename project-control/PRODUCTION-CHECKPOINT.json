@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "Cycle194 Topic3-3-4 Q6/Q19/Q20/Q21 author-side primary-source audit; 26 legacy option layouts and two MCQ page splits fixed; actual artifact 13182704612 DOWNLOADED SHA/digest/outer+inner CRC PASS, 2289 files, 75 unchanged original PDFs, 75 readiness, 92 HTML, 634 links/1584 fragments zero broken, 30/30 MCQs same-page, 42-page PDF. Post-evidence package pending. R1 PASS20, fully ready0, independent approvals0.",
+    "last_reported_topic": "Cycle195 Topic3-3-5 Q13–16 revised with 4 keys/12 distractors author-side primary source checks. Actual GitHub artifact 13186961794 DOWNLOADED SHA/digest/outer-inner CRC PASS, 2291 files, 75 unchanged original PDFs, 75 readiness, 92 HTML, 634 file links/1585 fragments zero broken, 19/19 topic manifest hashes PASS, 41-page PDF, all 30 MCQs same-page (baseline 27). QA evidence commit postdates inspected artifact; post-evidence package pending. R1 PASS20, fully ready0, approvals0.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -662,6 +662,35 @@
       "fully_ready": 0,
       "independent_approvals": 0,
       "post_evidence_packaging": "PENDING"
+    },
+    "cycle195": {
+      "date": "2026-11-03",
+      "topic": "3-3-5",
+      "original_mcqs_revised": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "keys_checked": 4,
+      "distractors_checked": 12,
+      "source_register_count": 27,
+      "mcq_same_page_before_after": [
+        27,
+        30
+      ],
+      "pdf_pages": 41,
+      "pdf_sha256": "4ee11219f485981b66f855acc179ab7d0ec172747b99563c14b02c8554bdd12e",
+      "renderer_run": 41541098393,
+      "actual_packaging_run": 41541165515,
+      "downloaded_artifact_id": 13186961794,
+      "actual_artifact_sha256": "3e4d425b34d8791e9af465d5ff35fa20b247381980412f594c060c522f2655a0",
+      "original_topic_pdfs": 75,
+      "readiness_json": 75,
+      "links_broken": 0,
+      "manifest_hash_failures": 0,
+      "academic_approvals": 0,
+      "post_qa_evidence_package": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
