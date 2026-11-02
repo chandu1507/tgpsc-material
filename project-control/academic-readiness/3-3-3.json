@@ -26,7 +26,7 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "Cycle33 individual source/PDF/MCQ/mains inventory, bounded primary-source correspondence and preserved-original hashes; see project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json. No complete R1–R8 verification. Cycle193 bounded S25/S26 reference repair and Q6/Q10 author-side option checks; see project-control/academic-readiness/3-3-3-cycle193-source-id-and-two-mcq-primary-audit-2026-11-03.json.",
+  "evidence": "Cycle33 individual source/PDF/MCQ/mains inventory, bounded primary-source correspondence and preserved-original hashes; see project-control/academic-readiness/3-3-3-and-3-3-4-cycle33-bounded-audit-2026-10-27.json. No complete R1–R8 verification. Cycle193 bounded S25/S26 reference repair and Q6/Q10 author-side option checks; see project-control/academic-readiness/3-3-3-cycle193-source-id-and-two-mcq-primary-audit-2026-11-03.json. Actual downloaded GitHub artifact QA: project-control/academic-readiness/3-3-3-cycle193-actual-downloaded-publication-qa-2026-11-03.json.",
   "next_action": "Full independent audit of 30 keys/90 distractors and six mains, direct TGPSC syllabus authentication, Telangana statute/diagram checks, complete browser accessibility and named expert review. R8 only IN_PROGRESS; R9 NOT_STARTED; approvals ZERO.",
   "external_reviewer": null,
   "student_accepted": false,
@@ -96,7 +96,11 @@
     "source_register_entries": 28,
     "source_integrity_guard": true,
     "local_preflight_pdf_pages": 42,
-    "github_actions_artifact_qa": "PENDING",
-    "independent_approval": false
+    "github_actions_artifact_qa": "VERIFIED_DOWNLOADED_13178986598",
+    "independent_approval": false,
+    "actual_pdf_pages": 42,
+    "actual_pdf_sha256": "bb9d3178b10996b4caafc7d39a64b1fb5d48d8fd84f5853363ce1d85418c01bb",
+    "post_evidence_artifact_download": "PENDING",
+    "legacy_pdf_unchanged": true
   }
 }
