@@ -12,7 +12,7 @@
   "mains_model_answers": 6,
   "detailed_chapters": 13,
   "manuscript_word_count": 15508,
-  "pdf_bytes": 316596,
+  "pdf_bytes": 319228,
   "components": [
     "syllabus-and-summary.md",
     "detailed-notes.md",
@@ -42,8 +42,8 @@
       "sha256": "0ee6eb6e1065e7b898616c2ed5a3ddf086cf29835a237eb7844daf0cb6b4d41d"
     },
     "source/build_topic.py": {
-      "bytes": 17100,
-      "sha256": "3903bdb87551cd83ab2016fbd6740334299a9b40104ace868bbfdbe6c3a7e080"
+      "bytes": 17581,
+      "sha256": "dcee881f28644e84eebc25b5cd99a50ca1e2ac45483f577b70822b8c759f9151"
     },
     "source/complete-notes.md": {
       "bytes": 116440,
@@ -54,8 +54,8 @@
       "sha256": "ec29fd5b2270904a26ff7d65556e6070879ea2222729da4721233cd326605aee"
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "bytes": 316596,
-      "sha256": "955ee8ded6ad0be819f5f6acd67a6b529a6acb3ac45e966f1d9e316f95c6ad31"
+      "bytes": 319228,
+      "sha256": "3a8c84ddf673b069ce35f5c0e4515adf86a5b70ae92daa2815b80eb57bb44cf1"
     },
     "source/mains-model-answers.md": {
       "bytes": 12616,
