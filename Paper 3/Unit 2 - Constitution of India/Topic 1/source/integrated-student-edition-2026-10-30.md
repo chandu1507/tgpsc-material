@@ -555,4 +555,33 @@ The source register lists documents consulted for legal or historical propositio
 - **[S15] News On AIR, 18 April 2026:** https://newsonair.gov.in/hi/131st-constitutional-amendment-bill-not-passed-lok-sabha-vote-count/ — directly viewed; reports failure and 298 for/230 against but also 489 present and a 326-vote threshold. These figures conflict. Parliamentary division record not retrieved.
 - **[S16] Legislative Department, Constitution of India (as at 11 November 2025):** https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf — directly checked Articles 13(4), 169, 300A and 368(2). Not a claim that every subsequent 2026 constitutional update has been authenticated.
 
+
+### Cycle186 evidence-bound R1 syllabus crosswalk (2 November 2026)
+
+The Commission-issued Notification 02/2024 (19 February 2024), Annexure II, **printed page 30**, was read as a full-page image from a contemporary hosted copy. The Commission-hosted URL returned HTTP 403, so the hosted copy has **not** been byte-compared to a file downloaded directly from the Commission. This is a check of the published 2024 syllabus, not a certification of any later revision. The exact six subcomponents in Paper III, Part II, item 1 are covered as follows:
+
+| 2024 syllabus subcomponent | Existing integrated chapter | Scope of check |
+|---|---|---|
+| Evolution of Indian Constitution | Concept A and B | Colonial laws, Constituent Assembly and transfer to popular sovereignty |
+| Role of the Drafting Committee | Concept C | Committee's role, B. N. Rau and Assembly decisions |
+| Constitutional Philosophy and Preamble | Concept D | Justice, liberty, equality, fraternity and interpretive role |
+| Salient features | Concept E | Federalism, rights, Parliament, judicial review and social commitments |
+| Basic Structure | Concept F | Kesavananda doctrine and subsequent interpretation |
+| Amendments | Concepts G and H | Article 368, special majority, State ratification and legal limits |
+
+**R1 = PASS for correspondence to the 2024 syllabus only.** This table is not R2–R8 certification, nor an assertion that all explanations, judicial holdings, or MCQ distractors are independently approved.
+
+### Cycle186 four-question option-level legal check (Q11–Q14)
+
+The following checks use the Government of India's Legislative Department Constitution (English–Kannada edition **as at 11 November 2025**), English provisions on printed constitutional pages 2–3 and 21, and Article 368. All four existing answer keys are retained; this is an author-side legal-text check, not a newly invented official previous-year question.
+
+- **Q11 — A, Article 1:** Article 1(1) says India, that is Bharat, is a Union of States. B Article 3 deals with State formation, C Article 14 with equality, and D Article 368 with amendment procedure; none supplies the quoted opening.
+- **Q12 — C, Article 3 proviso:** Presidential referral to an affected State legislature to express views within the specified period is required where the Bill affects its area, boundaries or name; those views do not amount to a veto. A invents binding consent; B denies the prescribed referral; D incorrectly moves the referral to after enactment.
+- **Q13 — B, Articles 3 and 4:** State reorganisation can be enacted by Parliamentary law under Article 3, with Article 4 allowing necessary Schedule and consequential changes without invoking Article 368. A wrongly requires Article 368 alone; C Article 32 is a Fundamental Rights remedy; D Article 356 concerns constitutional machinery in a State.
+- **Q14 — C, Part IV:** Directive Principles appear in Part IV (Articles 36–51). A Part II is citizenship; B Part III is Fundamental Rights; D Part IVA is Fundamental Duties. These categories should not be conflated merely because they appear in constitutional-studies chapters.
+
+**Evidence boundary:** Four correct answers and twelve distractors checked against constitutional text. The remaining 26 questions, six mains answers, diagrams, and 2026 legal currency remain outside this bounded audit. The reported 2026 parliamentary vote-count inconsistency elsewhere in this chapter is not resolved by this exercise.
+
+- **[S17] TGPSC Group-I Notification 02/2024, Annexure II, printed page 30, hosted contemporary copy:** https://www.siasat.com/wp-content/uploads/2024/02/Group-I-detailed-NOTIFICATION_NO_02-2024.pdf — page image inspected 2 November 2026; commission-hosted bytes not independently authenticated.
+
 **Internal accuracy gates performed:** syllabus clause transcribed from the 02/2024 notification; Article 3 versus Article 368 route explicitly distinguished; 2026 131st Bill labelled unsuccessful rather than enacted; original questions never called official PYQs; major case holdings separated from their critical interpretations; original-versus-current Constitution counts distinguished; no fabricated page-number citations. **Outstanding:** line-by-line expert academic audit, comprehensive validation of every secondary historical claim, current consolidated amendment-text check beyond the cited edition, and independent checking against authenticated TGPSC question papers.
