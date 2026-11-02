@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-02",
+  "cycle": 184,
+  "topic_id": "3-1-5",
+  "topic_title": "Social Policies and Programmes in India and Telangana",
+  "source": {
+    "issuer": "Telangana State Public Service Commission",
+    "notification": "02/2024 dated 19 February 2024",
+    "annexure": "II",
+    "paper": "III",
+    "unit": "I",
+    "item": 5,
+    "printed_page": 30,
+    "pdf_page_index_zero_based": 29,
+    "official_url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "direct_text_read": true,
+    "page_image_visually_inspected": true,
+    "byte_downloaded_in_container": false,
+    "crosscheck_2022_official": "https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf"
+  },
+  "integrated_master": "Paper 3/Unit 1 - Indian Society/Topic 5/source/integrated-student-edition-2026-10-30.md",
+  "master_prior_blob_sha": "70749c3e9401c4e1a673bcb761733766b9fc7c63",
+  "numbered_concept_sections": 18,
+  "clauses_total": 8,
+  "clauses_mapped": 8,
+  "clauses": [
+    {
+      "clause": "Policies for women, children, aged and disabled",
+      "sections": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "note": "Distinct groups and instruments; not a single interchangeable beneficiary category."
+    },
+    {
+      "clause": "Policies for SCs, STs, BCs and minorities",
+      "sections": [
+        7,
+        8,
+        9
+      ],
+      "note": "Differentiates constitutional status, territorial rights and classification."
+    },
+    {
+      "clause": "Environmental Policy",
+      "sections": [
+        13
+      ],
+      "note": "Regulation, ecological services and distribution."
+    },
+    {
+      "clause": "Population Policy",
+      "sections": [
+        12
+      ],
+      "note": "Demographic transition and non-coercive approaches."
+    },
+    {
+      "clause": "Policy on Education",
+      "sections": [
+        10
+      ],
+      "note": "Access, learning, inclusion and transition."
+    },
+    {
+      "clause": "Policy on Health",
+      "sections": [
+        11
+      ],
+      "note": "Primary care, public health and financial protection."
+    },
+    {
+      "clause": "Poverty Alleviation Programmes",
+      "sections": [
+        14
+      ],
+      "note": "Cash, employment, food and services; current-law claims need separate verification."
+    },
+    {
+      "clause": "Welfare schemes for SCs, STs, BCs, women, children, minorities, aged and disabled",
+      "sections": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        16
+      ],
+      "note": "Cross-cutting beneficiary groups plus Telangana implementation and accountability."
+    }
+  ],
+  "gate_change": {
+    "R1": {
+      "from": "IN_PROGRESS",
+      "to": "PASS"
+    },
+    "R2_to_R8": "UNCHANGED",
+    "R9": "NOT_STARTED"
+  },
+  "inventory": {
+    "topic_slots": 75,
+    "original_pdfs_preserve": 75,
+    "readiness_records": 75,
+    "status_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "normalized_R1_PASS_before": 16,
+    "normalized_R1_PASS_after": 17,
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0
+  },
+  "caveats": [
+    "R1 verifies topical correspondence, not factual accuracy, depth or recency.",
+    "2024 official PDF parsed and its printed page 30 visually inspected; no independent byte-level authentication of original PDF was performed.",
+    "Original 3-1-5 topic PDF remains untouched; integrated master appendix requires CI PDF re-render.",
+    "Six concept sections under 300 words, 30 MCQ keys and 90 distractors, six mains answers, diagram accuracy and browser accessibility still require review.",
+    "Original practice questions are not authenticated official PYQs."
+  ]
+}
