@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle195 Topic3-3-5 Q13–16 revised (4 keys/12 distractors author-side primary-source checked), renderer repaired baseline 3 split MCQ answers. Actual GitHub artifact 13186961794 DOWNLOADED SHA/digest/outer+inner CRC PASS, 2291 files, 75 unchanged original PDFs, 75 readiness JSON, 92 HTML, 634 file links/1585 fragments zero broken, 19/19 topic manifest hashes PASS, 41-page PDF, 30/30 MCQs same-page. QA evidence commit postdates inspected artifact; post-evidence package pending. R1 PASS20, fully R1-R8 ready0, independent approvals0.",
+  "warning": "Cycle196 Topic4-1-5 Q11–Q13 3 keys/9 distractors author-side primary-source checked; actual post-render GitHub artifact 13190770002 DOWNLOADED, SHA/digest/outer+inner CRC PASS, 2294 files, 75 unchanged originals, 75 readiness, 92 HTML, 592 local links/1586 fragments zero broken, 42 SPA routes excluded, 17/17 manifest SHA+size PASS, 37-page PDF, 25/25 MCQs same-page. QA evidence commit postdates inspected artifact; post-evidence packaging pending. R1 PASS20, fully ready0, independent approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle193 Topic3-3-3 repaired S25/S26 source-ID collision and checked 2 MCQ keys/6 distractors; actual artifact 13178986598 downloaded SHA/CRC/75 unchanged originals/75 readiness/92 HTML/634 file links/1582 fragments/16 manifest PASS; post-evidence artifact pending. R1 PASS20, fully ready0, approvals0.",
+  "last_readiness_update": "Cycle196 Topic4-1-5 Q11–Q13 3 keys/9 distractors author-side primary-source checked; actual post-render GitHub artifact 13190770002 DOWNLOADED, SHA/digest/outer+inner CRC PASS, 2294 files, 75 unchanged originals, 75 readiness, 92 HTML, 592 local links/1586 fragments zero broken, 42 SPA routes excluded, 17/17 manifest SHA+size PASS, 37-page PDF, 25/25 MCQs same-page. QA evidence commit postdates inspected artifact; post-evidence packaging pending. R1 PASS20, fully ready0, independent approvals0.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -186,6 +186,8 @@
   ],
   "verified_R1_pass_count": 20,
   "recent_evidence": [
+    "project-control/academic-readiness/4-1-5-cycle196-actual-downloaded-artifact-qa-2026-11-03.json",
+    "project-control/academic-readiness/4-1-5-cycle196-three-mcq-primary-source-audit-2026-11-03.json",
     "project-control/academic-readiness/3-3-3-cycle193-actual-downloaded-publication-qa-2026-11-03.json",
     "project-control/academic-readiness/3-3-3-cycle193-source-id-and-two-mcq-primary-audit-2026-11-03.json",
     "project-control/academic-readiness/3-3-2-cycle192-actual-downloaded-postrender-artifact-qa-2026-11-03.json",
