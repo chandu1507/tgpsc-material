@@ -20,6 +20,9 @@
 | S14 | e-Committee, Supreme Court, eCourts services portal | https://ecommitteesci.gov.in/service/ecourts-portal/ | NJDG, e-filing, e-pay, case status and virtual-court services; live pendency not asserted. |
 | S15 | India Code, Legal Services Authorities Act, 1987 | https://www.indiacode.nic.in/handle/123456789/12883?view_type=browse | Sections 12–13 eligibility, Chapter VI Lok Adalats and Chapter VI-A Permanent Lok Adalats. |
 | S16 | India Code, Bharatiya Nagarik Suraksha Sanhita, 2023 | https://www.indiacode.nic.in/indiacode/handle/123456789/20099?view_type=browse | Commencement 1 July 2024, criminal-court provisions; transitional caveat. |
+| S17 | Legislative Department, Constitution of India (2025 official text) | https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf | Articles 50, 141, 32, 226 and 233–234; Q1–Q3 author-side textual checks. |
+| S18 | Supreme Court of India, Jurisdiction (official explanatory page) | https://www.sci.gov.in/jurisdiction/ | Article 32/226 distinction and five writs; Q3–Q4 author-side cross-check. |
+| S19 | Supreme Court judgment dated 21 March 2024 on habeas corpus | https://api.sci.gov.in/supremecourt/2024/8159/8159_2024_1_1501_51616_Judgement_21-Mar-2024.pdf | Habeas corpus against unlawful detention; Q4 author-side cross-check. |
 
 ## Internal doctrinal checks
 
@@ -56,3 +59,6 @@
 - **Primary text directly inspected:** Legislative Department, *Constitution of India*, PDF at https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf (Articles 129, 130, 144, 215, 233(1) and 234). The five new Q26–Q30 answers and 15 distractors are individually explained in the MCQ bank; four pre-existing answer positions (Q1/Q2/Q6/Q8) were moved from B to D by swapping options, not by changing propositions. No official PYQ attribution.
 - **Q26:** Articles 129 and 215 confer court-of-record status and contempt powers on Supreme Court and High Courts. **Q27:** Article 130 permits CJI designation of another sitting place with President's approval. **Q28:** Article 144 requires all civil and judicial authorities in India to act in aid of the Supreme Court. **Q29:** Article 233(1) specifies Governor consultation with High Court for district judges. **Q30:** Article 234 specifies Governor-made rules after consultation with State PSC and High Court for other judicial-service appointments.
 - **Limits:** Source-bounded author-side checks cover only five newly added keys and their 15 distractors; the pre-existing 25 keys and 75 distractors, six mains, original diagrams, direct Commission syllabus reauthentication, browser accessibility and independent subject-matter review remain pending. R1–R8 not fully passed; R9 NOT_STARTED; approvals ZERO.
+
+## 2 November 2026 — Cycle 189 bounded MCQ verification
+Original practice Q1–Q4 were revised in place, four keys and twelve distractors checked author-side against S17–S19. This does not establish full R4/R5/R6, independent approval, direct official-syllabus reauthentication, or official PYQ provenance. The original PDF remains untouched.

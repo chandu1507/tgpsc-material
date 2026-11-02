@@ -1,0 +1,106 @@
+{
+  "cycle": 189,
+  "date": "2026-11-02",
+  "topic_id": "3-2-4",
+  "topic_title": "Judicial System: Courts, Tribunals, Judicial Review, Independence and Accountability",
+  "method": "Author-side option-by-option primary-source cross-check; not independent peer review",
+  "source_register": [
+    "S17",
+    "S18",
+    "S19"
+  ],
+  "sources": [
+    {
+      "id": "S17",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf",
+      "scope": "Constitution Articles 50,141,32,226,233,234"
+    },
+    {
+      "id": "S18",
+      "url": "https://www.sci.gov.in/jurisdiction/",
+      "scope": "SC jurisdiction and HC writ powers"
+    },
+    {
+      "id": "S19",
+      "url": "https://api.sci.gov.in/supremecourt/2024/8159/8159_2024_1_1501_51616_Judgement_21-Mar-2024.pdf",
+      "scope": "Habeas corpus purpose"
+    }
+  ],
+  "mcqs": [
+    {
+      "number": 1,
+      "key": "D",
+      "options": {
+        "A": "False: Article 141 applies to all courts, not only High Courts",
+        "B": "False: precedent differs from inter-partes operative order",
+        "C": "False: no State-law exception to Article 141",
+        "D": "True: Article 141 expressly binds all courts in India"
+      },
+      "sources": [
+        "S17"
+      ]
+    },
+    {
+      "number": 2,
+      "key": "D",
+      "options": {
+        "A": "False: Article 50 names executive, not legislature",
+        "B": "False: Articles 233–234 involve Governor, High Court and sometimes State PSC",
+        "C": "False: Article 50 is Part IV DPSP, not independently Part III",
+        "D": "True: separation from executive in State public services"
+      },
+      "sources": [
+        "S17"
+      ]
+    },
+    {
+      "number": 3,
+      "key": "C",
+      "options": {
+        "A": "False: Article 32 enforces Part III, not every statutory right",
+        "B": "False: Article 226 also says 'for any other purpose'",
+        "C": "True: wider Article 226 subject-matter scope; Article 32 Part III",
+        "D": "False: Article 226 power belongs to High Courts"
+      },
+      "sources": [
+        "S17",
+        "S18"
+      ]
+    },
+    {
+      "number": 4,
+      "key": "C",
+      "options": {
+        "A": "Mandamus addresses public duty, not specifically custody",
+        "B": "Certiorari quashes reviewable decisions, not specifically detention",
+        "C": "Habeas corpus requires legal justification of detention",
+        "D": "Quo warranto concerns public-office entitlement"
+      },
+      "sources": [
+        "S18",
+        "S19"
+      ]
+    }
+  ],
+  "preservation": {
+    "original_topic_pdf_sha256": "1949ba29adcb97590d1a845f01f8afdeffca781620c7ce85a9eed1a07da54b2f",
+    "original_topic_pdf_edited": false,
+    "original_practice_mcq_total": 30,
+    "mains_total": 6,
+    "topic_count": 75
+  },
+  "readiness": {
+    "R1": "IN_PROGRESS",
+    "R2_R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED",
+    "fully_ready": 0,
+    "independent_approvals": 0
+  },
+  "pending": [
+    "Direct official 2024 PDF reauthentication",
+    "26 other MCQs and 78 distractors",
+    "Six mains claim checks",
+    "Diagram accuracy and full browser/accessibility QA",
+    "CI render and actual downloaded archive integrity verification"
+  ]
+}
