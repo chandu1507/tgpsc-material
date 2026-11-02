@@ -9,7 +9,7 @@
   "academic_status": "not_approved",
   "word_count_complete_markdown": 14724,
   "word_count_detailed_notes": 6958,
-  "pdf_pages": 36,
+  "pdf_pages": 37,
   "original_explained_mcqs": 25,
   "original_mains_model_answers": 6,
   "original_diagrams": 3,
@@ -57,8 +57,8 @@
       "bytes": 57840
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "7e57b10005b507576b557ca5fd8fb0fd85251707f3d5a30265c9606ba5d191c1",
-      "bytes": 434369
+      "sha256": "6af78450b05ee3921cef3e0a5420a37aac9a00220a3a7fffc8a8c7cfed419c6e",
+      "bytes": 435675
     },
     "source/mains-model-answers.md": {
       "sha256": "b07d806c68d8b0c98d0fa678a06d18ae6873230d17c50d7c494c5790a039bd46",
