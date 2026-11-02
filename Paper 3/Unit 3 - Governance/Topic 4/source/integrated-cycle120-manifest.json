@@ -5,7 +5,7 @@
   "academic_approved": false,
   "original_pdf_sha256": "0d4fb8463bbced10bc1f481020e9b2350f77ae646f1c0dcdd910781a33a98a63",
   "original_pdf_preserved": true,
-  "integrated_pdf_pages": 40,
+  "integrated_pdf_pages": 41,
   "concepts": 15,
   "original_practice_mcqs": 30,
   "answer_distribution": {
@@ -18,12 +18,12 @@
   "official_pyqs_verified": 0,
   "source_check_scope": "Five new MCQ keys and 15 distractors bounded author-side; 25 older MCQs and six mains not independently audited",
   "files_sha256": {
-    "index.html": "7dbb8cfd58059d2771789691d1016b4d67dd6556fc5dfca51eb75bbbc0eeb68d",
+    "index.html": "f05caf40188d5db0c7e33602d28ce3fdccddd52ca55d7899bb2c717909e2b5ef",
     "source/cycle120-concept.md": "905a654322ba597eb9b502762dd8fd0c693041cb3610a402c8f24f70b2678bcf",
     "source/cycle120-mcqs.md": "bbf26063eee2596df620a6e39cb6cfbbd45300c35dbf0b0c6ebf80887222bb1a",
     "source/cycle120-source-audit.md": "35ae5086f29633d058b2d1981c5221bed59b673fdb867d93f4041d124658caa9",
-    "source/integrated-student-edition-cycle120.md": "e94274775d08949b1fb9a8c545603e18a96c508959090cbd4bd59721fe3604d3",
-    "source/integrated-student-edition-cycle120.pdf": "fb6cf48f1eb50026453227361616661a6e4130fb9e246dc65053f86d0c8388dd",
-    "source/integrated-student-edition-cycle120.html": "008e3dacb5634016402471405a3dd79bf3829ec4c25e38d115c4dd2fdae6cc15"
+    "source/integrated-student-edition-cycle120.md": "aa8b22e65a6ead1e25a64882bde80dfb7b3190cee636134dc46476141617265a",
+    "source/integrated-student-edition-cycle120.pdf": "532700b844e28b8b23d890b56cc5d0e76f33891cfc5fcefc0a998bb7a114f131",
+    "source/integrated-student-edition-cycle120.html": "8033c41d0323f14942d06af59b7080aa214b00cfe9ebf15b5cc29b50f55abd28"
   }
 }
