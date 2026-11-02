@@ -53,13 +53,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 124872,
-      "sha256": "64b54776fb5e06a043c3c8ff1c625380be35432458bc98b8ce862537fc5d9d49"
+      "bytes": 126110,
+      "sha256": "764d5663628b2a266e268634c0eb85012fa664300aa5366433b3d691684dd347"
     },
     {
       "path": "source/complete-notes.md",
-      "bytes": 113286,
-      "sha256": "840816430e3d561a14caa6e602cef92f8eedce1432a248611aa6d8ffd22d4b28"
+      "bytes": 117454,
+      "sha256": "ed48bf994f786ae24aad304df3c2242d7b918ea956f1308d288fedafcb3ccbd4"
     },
     {
       "path": "source/detailed-notes.md",
@@ -73,8 +73,8 @@
     },
     {
       "path": "source/original-mcqs.md",
-      "bytes": 14926,
-      "sha256": "b27de20a211c68dc032d0b6fc3b5eff58bdeaf01d7f5af6fcd8b131dbe971ab7"
+      "bytes": 16164,
+      "sha256": "d1344db0228cb70e36809bd82e9aec7d600d1f6d1db42f9572788b83bc39a6cb"
     },
     {
       "path": "source/quick-revision.md",
@@ -83,13 +83,13 @@
     },
     {
       "path": "source/sources-and-audit.md",
-      "bytes": 9690,
-      "sha256": "020d4177c74229005bae0a636653489abac4692ae32eb47f3b1d04f50d1d7f67"
+      "bytes": 11663,
+      "sha256": "09e272da03fa2cefbf4449641987ce36977f4f8b45dad0d83c34f8a29fdb35dc"
     },
     {
       "path": "source/syllabus-and-summary.md",
-      "bytes": 3622,
-      "sha256": "a9f79a802a0e56ae6f578961f9fb1c384a6445205800393bb09ad366312d0a71"
+      "bytes": 4579,
+      "sha256": "d0704c9eff2ba2b2ad5633666e5bb9987bad4483575b7d4d0a192417a6017293"
     },
     {
       "path": "source/council-floor-versus-ministry-ceiling.svg",
@@ -103,8 +103,8 @@
     },
     {
       "path": "source/integrated-student-edition-2026-10-27.pdf",
-      "bytes": 168260,
-      "sha256": "ed626f1a97c2f9f7520894d4dac7a1d715ee1f64a3fef8389450fbe0859fa770"
+      "bytes": 172055,
+      "sha256": "3a0a6b54412dd243fda10f370f01a6c4a6d589bfe734e4dab5c48348937aceaa"
     }
   ],
   "github_branch": "topic-archive/p3-u2-t3-20261023",
@@ -112,6 +112,6 @@
   "github_full_pdf_included": false,
   "github_publication_verified": true,
   "status": "ASSESSED_REBUILD_REQUIRED; not academically approved",
-  "markdown_words": 15772,
+  "markdown_words": 16349,
   "sources_primary_and_secondary": 12
 }
