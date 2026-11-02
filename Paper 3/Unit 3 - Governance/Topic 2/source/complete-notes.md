@@ -510,15 +510,15 @@ A. A technical/operational head-of-department organization that provides impleme
 A. One title automatically grants unlimited powers.  B. The Collector is elected by Gram Sabhas.  C. Different enactments assign different revenue and magisterial functions.  D. Every police order must be issued by the Collector.
 **Answer: C. Explanation:** The roles arise under distinct legal sources. The Collector coordinates but cannot absorb every power of the police, municipality or other statutory body.
 
-### Q5. The constitutional provision most directly associated with Gram Sabha is:
-A. Article 243A  B. Article 280  C. Article 324  D. Article 356.
+### Q5. Which statement correctly describes the constitutional position of the Gram Sabha under Article 243A?
+A. A Gram Sabha may exercise village-level powers and functions that the State Legislature provides by law.  B. Article 243A itself transfers all 29 Eleventh Schedule subjects directly to every Gram Sabha.  C. Article 243A assigns Panchayat election supervision to the Gram Sabha instead of the State Election Commission.  D. Article 243A authorizes the Gram Sabha to constitute the State Finance Commission.
 
-**Answer: A. Explanation:** Article 243A concerns Gram Sabha powers under state law. It does not make the Gram Sabha identical to the elected Gram Panchayat.
+**Answer: A. Explanation:** Article 243A leaves the Gram Sabha’s village-level powers and functions to State legislation. B confuses the Eleventh Schedule and Article 243G, which concern Panchayat devolution, with an automatic Gram Sabha transfer. C incorrectly substitutes the Gram Sabha for the State Election Commission under Article 243K. D confuses the Gram Sabha with the Finance Commission constituted by the Governor under Article 243I. [S23, Part IX, Articles 243A, 243G, 243I, 243K].
 
-### Q6. Which pair is correct?
-A. Eleventh Schedule—18 subjects; Twelfth—29.  B. Both have 29.  C. Eleventh—29; Twelfth—18.  D. Neither contains functional subjects.
+### Q6. Which pairing correctly identifies the Eleventh and Twelfth Schedules and their associated constitutional articles?
+A. Eleventh: 29 subjects under Article 243W; Twelfth: 18 subjects under Article 243G.  B. Eleventh: 18 subjects under Article 243G; Twelfth: 29 subjects under Article 243W.  C. Eleventh: 29 subjects under Article 243G; Twelfth: 18 subjects under Article 243W.  D. Eleventh: 29 subjects under Article 243G; Twelfth: 18 subjects under Article 243X.
 
-**Answer: C. Explanation:** The rural Eleventh Schedule lists 29 subjects and the urban Twelfth Schedule lists 18. Listing alone does not automatically transfer all powers, staff and money.
+**Answer: C. Explanation:** The Eleventh Schedule contains 29 Panchayat-related matters and is associated with Article 243G; the Twelfth Schedule contains 18 municipal matters and is associated with Article 243W. A swaps the constitutional articles; B reverses the subject counts; D replaces municipal-function Article 243W with municipal-revenue Article 243X. Listing subjects does not itself confer all powers: the relevant State law determines devolution. [S24, Article 243W and Twelfth Schedule; S25, Eleventh Schedule; S23, Article 243G].
 
 ### Q7. Under the Telangana Panchayat Raj Act, 2018, the three main rural tiers are:
 A. Ward, Circle, Metropolitan Council.  B. Village Court, Tahsil Court, District Court.  C. Gram Panchayat, Mandal Praja Parishad, Zilla Praja Parishad.  D. Secretariat, Directorate, High Court.
@@ -528,9 +528,10 @@ A. Ward, Circle, Metropolitan Council.  B. Village Court, Tahsil Court, District
 A. It ordinarily governs GHMC in the same way as every other corporation.  B. It gives ward committees all police powers.  C. It repealed Part IXA.  D. It expressly excludes GHMC from its ordinary application.
 **Answer: D. Explanation:** The Act specifies municipal councils and corporations but excludes GHMC, which is governed by separate legislation.
 
-### Q9. A Municipality's functions in the Twelfth Schedule are best understood as:
-A. Powers automatically exercisable without state law.  B. Judicial functions of ward committees.  C. Exclusive Union functions.  D. Potential areas for endowment through state legislation.
-**Answer: D. Explanation:** Article 243W and state legislation determine actual functional assignments. The Schedule is a constitutional guide, not a self-executing municipal statute.
+### Q9. Which statement best captures Article 243W and the functions listed in the Twelfth Schedule?
+A. Every Twelfth Schedule function is automatically vested in every Municipality without State legislation.  B. Only a State Finance Commission, rather than the State Legislature, can assign Twelfth Schedule functions.  C. Article 243W deals only with municipal taxation and cannot cover municipal service responsibilities.  D. A State Legislature may by law endow Municipalities with responsibilities, including functions related to Twelfth Schedule matters.
+
+**Answer: D. Explanation:** Article 243W permits State legislation to endow municipalities with powers and responsibilities, including Twelfth Schedule functions. A incorrectly treats the Schedule as self-executing; B confuses devolution with the financial review role under Article 243Y; C confuses municipal functions under Article 243W with municipal taxation under Article 243X. The provision does not establish automatic, uniform devolution across all States. [S24, Articles 243W, 243X, 243Y and Twelfth Schedule].
 
 ### Q10. Which is the best evidence of successful municipal waste management?
 A. Number of bins purchased alone.  B. Number of publicity events.  C. Verified segregation, collection, processing and safe disposal outcomes.  D. Number of files sent to Secretariat.
@@ -545,10 +546,10 @@ A. The operator unilaterally alters the record.  B. The applicant must never app
 A. Filing a grievance necessarily suspends every statutory appeal deadline.  B. It grants every requested benefit automatically.  C. It is the High Court.  D. It is an executive grievance mechanism and may complement, not replace, a statutory appeal.
 **Answer: D. Explanation:** District portals describe grievance hearings and online channels. Separate statutory appeal and limitation requirements still matter.
 
-### Q13. The State Finance Commission is constitutionally linked to:
-A. Articles 243I and 243Y.  B. Articles 148 and 151.  C. Articles 32 and 136.  D. Article 324 alone.
+### Q13. Which statement correctly relates the constitutional State Finance Commission to Panchayats and Municipalities?
+A. The Finance Commission constituted under Article 243I for Panchayat finances also reviews municipal finances under Article 243Y.  B. The Union Finance Commission constituted under Article 280 is automatically the State Finance Commission under Article 243I.  C. Article 243K creates the State Finance Commission to review Panchayat taxes and grants.  D. Article 243ZA gives the State Finance Commission control over municipal electoral rolls and elections.
 
-**Answer: A. Explanation:** Article 243I concerns Panchayat finance review; Article 243Y extends the framework to municipalities. Article 280 concerns the Union Finance Commission.
+**Answer: A. Explanation:** Article 243I provides for a State Finance Commission constituted by the Governor to review Panchayat finances; Article 243Y extends its review to municipalities. B conflates the separate Union Finance Commission under Article 280; C confuses finance review with the State Election Commission under Article 243K; D incorrectly assigns the municipal-election power of the State Election Commission under Article 243ZA to the Finance Commission. [S23, Articles 243I and 243K; S24, Articles 243Y and 243ZA; S2, Article 280].
 
 ### Q14. An SFC recommendation becomes a grant actually received by a Gram Panchayat only when:
 A. The commission signs the report, automatically.  B. The Gram Sabha prints the report.  C. The district court declares it.  D. It passes through applicable government acceptance, budgeting and release processes.
@@ -784,7 +785,7 @@ Combine reasoned orders, time-bound internal correction, accessible appeals, pub
 
 # Authoritative evidence register and academic audit ledger
 
-**Evidence date:** 23 October 2026; additional Article 167/243S/243U/243X/243ZA text checks on 31 October 2026. **Status:** internally checked draft, **NOT academically approved**. The numbered references are part of the student-facing evidence trail; they are not claims of verified official PYQs.
+**Evidence date:** 23 October 2026; additional constitutional-text checks on 31 October and 3 November 2026. **Status:** internally checked draft, **NOT academically approved**. The numbered references are part of the student-facing evidence trail; they are not claims of verified official PYQs.
 
 | ID | Primary source and link | Specific proposition checked | Limit / caution |
 |---|---|---|---|
@@ -810,6 +811,9 @@ Combine reasoned orders, time-bound internal correction, accessible appeals, pub
 | S20 | [Telangana Minorities Welfare Department](https://www.telangana.gov.in/departments/minorities-welfare/) | Minorities Finance Corporation and welfare mandate | Officeholders and programme availability change |
 | S21 | [CAG Duties, Powers and Conditions of Service Act, 1971](https://www.cag.gov.in/en/page-duties-power-and-conditions-of-services-act) | Constitutional/statutory audit framework | Audit finding does not establish criminal guilt |
 | S22 | [Supreme Court — Union of India v. Rajendra N. Shah, 20 July 2021](https://api.sci.gov.in/supremecourt/2013/21321/21321_2013_32_1501_28728_Judgement_20-Jul-2021.pdf) | Part IXB invalid as to wholly intra-state cooperatives; Article 43B survives | Read majority holding and separate opinion carefully |
+| S23 | [Ministry of Panchayati Raj — official Part IX constitutional extract](https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/02/2023021550.pdf) | Article 243A Gram Sabha; 243G Panchayat powers; 243I Finance Commission; 243K State Election Commission | Official ministry-hosted excerpt; check current amendments if the examination cutoff changes |
+| S24 | [Legislative Department — Constitution (74th Amendment) Act, 1992](https://www.legislative.gov.in/static/uploads/2025/07/8e3828fa91baa94f3aaa74cdc4152cf2.pdf) | Article 243W municipal functions, 243X municipal taxes, 243Y municipal finance, 243ZA elections; Twelfth Schedule 18 items | Original amendment text; compare with current Constitution for later amendments |
+| S25 | [Ministry of Panchayati Raj — official Eleventh Schedule extract](https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/02/2023021533.pdf) | 29 Eleventh Schedule subjects linked to Article 243G | Listing alone is not evidence of implementation/devolution in Telangana |
 
 ## Claim-by-claim internal checks
 
@@ -839,4 +843,17 @@ The [Legislative Department Constitution of India, July 2025 publication](https:
 **Editorial-only reordering:** Nine existing B-keyed questions (Q1, Q3, Q4, Q7, Q8, Q9, Q11, Q12, Q14) had the correct option proposition moved to another letter with the same four substantive options; no legal claims were rewritten. This reduces answer-position cueing but is **not** a substitute for verifying those nine keys or all 75 original distractors. After addition the distribution is A8/B7/C8/D7.
 
 **Open gates:** R1 official notification direct access, all 30 keys and 90 distractors independent audit, six mains claim-level audit, state-law amendment currency, accessibility, and independent named reviewer. R9 NOT_STARTED, approvals ZERO.
+
+## Cycle 192: bounded constitutional MCQ review (3 November 2026)
+
+Existing original practice **Q5, Q6, Q9 and Q13** were revised **in place**. The four correct keys **A/C/D/A** and twelve distractors were checked against Ministry of Panchayati Raj's published Part IX and Eleventh Schedule extracts and the Legislative Department's Seventy-fourth Amendment text (S23–S25). The checks distinguish a Gram Sabha from an elected Panchayat, 29 rural versus 18 urban schedule matters, state-law devolution from automatic vesting, and the State Finance Commission from the State Election Commission and Union Finance Commission.
+
+| Question | Supported answer | Distractor A | Distractor B | Distractor C | Distractor D |
+|---|---|---|---|---|---|---|
+| Q5 | A, Art. 243A | Correct: state-law-defined Gram Sabha powers | 243G/11th Schedule concern Panchayats, not automatic Gram Sabha transfer | 243K SEC, not Gram Sabha | 243I Governor constitutes SFC |
+| Q6 | C, Arts. 243G/243W | Swaps article links | Reverses 29/18 counts | Correct rural/urban schedule links | 243X is municipal taxation, not schedule functions |
+| Q9 | D, Art. 243W | No automatic vesting | 243Y SFC reviews finance, not service assignment | 243X covers municipal taxation | Correct: State legislation may endow functions |
+| Q13 | A, Arts. 243I/243Y | Correct: same SFC framework reviews rural and urban finances | Article 280 establishes Union FC | Article 243K establishes SEC | Article 243ZA concerns SEC municipal elections |
+
+**Boundaries:** This is author-side proposition verification of 16 answer options, **not** independent subject-expert approval, not verification of the other 26 MCQs/78 distractors, not a current Telangana-law audit, not an official-PYQ authentication, and not a complete R1–R8 gate pass. Commission-hosted 2024 syllabus PDF remains unverified; R1 stays IN_PROGRESS and R9 NOT_STARTED.
 

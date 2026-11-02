@@ -11,8 +11,8 @@
   "verified_official_pyqs": 0,
   "mains_model_answers": 6,
   "detailed_chapters": 15,
-  "manuscript_word_count": 16055,
-  "pdf_bytes": 365323,
+  "manuscript_word_count": 16839,
+  "pdf_bytes": 374346,
   "components": [
     "syllabus-and-summary.md",
     "detailed-notes.md",
@@ -22,7 +22,7 @@
     "mains-model-answers.md",
     "sources-and-audit.md"
   ],
-  "source_register_count": 22,
+  "source_register_count": 25,
   "diagrams": 2,
   "files": {
     "README.md": {
@@ -34,40 +34,40 @@
       "sha256": "93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24"
     },
     "index.html": {
-      "bytes": 136617,
-      "sha256": "9d250fb9bd1ec417dc8d0e9cd0e68a14f4c770304d632f6cbaf87fd8d06f376b"
+      "bytes": 142587,
+      "sha256": "eab0f42fea759874719fac4ab6e019e6dac7d29b3f0a936227019eb81d29c948"
     },
     "source/build_topic.py": {
-      "bytes": 17170,
-      "sha256": "850a9be87f4513a6a9b6627bba4079944ad648d27ee3a9f35d7934746e8869cb"
+      "bytes": 18022,
+      "sha256": "62209e78e589def15e4fb770d38405d6b7b2aca8d72c1f21feeb1fba1b03b72e"
     },
     "source/complete-notes.md": {
-      "bytes": 121667,
-      "sha256": "79ec6eaf0ce83a79b38b157daca212d5b19877675a36e8f9eb324077affe627f"
+      "bytes": 127382,
+      "sha256": "7ef558a24055570c670da7a0e4c5e735181ec52c2e1d48d6592951a62cc4d329"
     },
     "source/detailed-notes.md": {
       "bytes": 68334,
       "sha256": "337515d0957a32626c4240dd6e87cac406938a5001a3e0b611a14d5d485ffd9d"
     },
     "source/integrated-student-edition-2026-10-31.pdf": {
-      "bytes": 365323,
-      "sha256": "34481fa7da3ac77375d9759240ce7671cbe9ceb15dcdcd4f81e88222afb0398a"
+      "bytes": 374346,
+      "sha256": "72497008d291e7b663b02eedf6847c534b6a76a730a9567d5a83c5e761b5a27e"
     },
     "source/mains-model-answers.md": {
       "bytes": 12324,
       "sha256": "ada2eee51e5e0e9c04454521e12a478f58efd7d7256457b5b6d7b02abf26eb41"
     },
     "source/original-mcqs.md": {
-      "bytes": 16209,
-      "sha256": "36007fff835c7b7a2d830f751c4b329b9c17292c9ee8a8352896e052e2254bbb"
+      "bytes": 18974,
+      "sha256": "c9316758e70b11a317349399229483989d48543316abcc858a396870972fb0f1"
     },
     "source/quick-revision.md": {
       "bytes": 4847,
       "sha256": "2575c32df694c8ea0a720f79af08fb53e3384ed75a38586be55ff2d52154597a"
     },
     "source/sources-and-audit.md": {
-      "bytes": 9723,
-      "sha256": "5d6842054a0fa5e0b90abaf1405d6c79a0fa75ed140b781f0875dbf76c2294bc"
+      "bytes": 12673,
+      "sha256": "de15f4a189b7654cea1cb2e098a29e5793f809e15fc8d0dfdd955bb508ebc85a"
     },
     "source/syllabus-and-summary.md": {
       "bytes": 5949,
@@ -94,5 +94,5 @@
       "sha256": "be4a5354beb28fbec777676850ca8d21253d32f3a518d7b368878371871901b2"
     }
   },
-  "note": "Existing topic 3-3-1 only; preserved legacy complete-notes.pdf unchanged; integrated PDF generated from seven editable components; no independent academic approval."
+  "note": "Existing topic 3-3-2 only; preserved legacy complete-notes.pdf unchanged; integrated PDF generated from seven editable components; no independent academic approval."
 }
