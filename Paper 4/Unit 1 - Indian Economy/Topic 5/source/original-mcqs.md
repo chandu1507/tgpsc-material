@@ -190,6 +190,15 @@ D. Licensing, Quotas, Controls
 
 **Answer: A.** The 3Cs link schemes, actors and comparative performance; rankings alone do not establish causal impact.
 
+**Cycle 196 author-side option audit (3 November 2026; official NITI Aayog programme records):**
+
+- **A — Correct.** NITI Aayog explicitly identifies **Convergence, Collaboration and Competition** as the Aspirational Districts Programme's three principles. Convergence aligns government schemes; collaboration connects administrators, citizens and partners; competition uses comparative district monitoring. These describe design, not proven causal impact.
+- **B — Incorrect.** Currency, credit and capital are financial concepts, not the ADP's named principles.
+- **C — Incorrect.** Taxation, tariffs and transfers concern fiscal and trade policy, not the ADP's named three Cs.
+- **D — Incorrect.** Licensing, quotas and controls describe regulatory instruments, not the ADP framework.
+
+**Primary evidence:** NITI Aayog, *An Assessment of Aspirational Districts Programme*, “The 3C Approach”: https://www.niti.gov.in/sites/default/files/2023-03/An-Assessment-Of-Aspirational-Districts-Programme.pdf ; NITI Aayog, “Data & Aspirational Districts Model”: https://www.niti.gov.in/data-aspirational-districts-model . **Limit:** Programme design is verified, not independent impact attribution.
+
 ### Q12. Which institution has the constitutional role of recommending tax devolution between Union and states?
 A. NITI Aayog  
 B. Competition Commission of India  
@@ -198,6 +207,15 @@ D. Finance Commission
 
 **Answer: D.** Article 280 establishes the Finance Commission; NITI Aayog is an executive policy think tank.
 
+**Cycle 196 author-side option audit (3 November 2026; Article 280 primary institutional text):**
+
+- **A — Incorrect.** NITI Aayog is an executive policy institution, not the constitutionally designated tax-devolution recommender.
+- **B — Incorrect.** The Competition Commission of India has a distinct statutory competition-law mandate, not the Article 280 function.
+- **C — Incorrect.** The former Planning Commission coordinated planning but did not exercise Article 280's Finance Commission mandate.
+- **D — Correct.** Article **280(3)(a)** directs the Finance Commission to **recommend to the President** both Union–State division of shareable net tax proceeds and allocation of State shares. Recommendation is not unilateral enactment or transfer.
+
+**Primary evidence:** Sixteenth Finance Commission, “Constitutional Provisions,” Article 280: https://fincomindia.nic.in/constitutional-provisions ; Legislative Department, Part XII constitutional text: https://www.legislative.gov.in/static/uploads/2025/07/ca7ce5c746fa7480804bbdeb6cb704f0.pdf . **Limit:** No current devolution percentage is asserted.
+
 ### Q13. A sale of 10% government equity without transfer of control is most accurately called:
 A. Full privatisation  
 B. Disinvestment without necessary privatisation  
@@ -205,6 +223,15 @@ C. Nationalisation
 D. Fiscal federalism
 
 **Answer: B.** Disinvestment concerns sale of shares; privatisation generally entails transfer of ownership or management control.
+
+**Cycle 196 author-side option audit (3 November 2026; Ministry of Finance DIPAM policy):**
+
+- **A — Incorrect.** Selling 10% of equity **without transfer of management control** does not by itself constitute full privatisation.
+- **B — Correct.** DIPAM distinguishes minority-stake disinvestment without management-control transfer from strategic disinvestment/privatisation. **The no-transfer-of-control condition, not the 10% number alone, is decisive.**
+- **C — Incorrect.** Nationalisation increases public ownership or control rather than selling government shares.
+- **D — Incorrect.** Fiscal federalism concerns intergovernmental fiscal relations, not classification of an equity sale.
+
+**Primary evidence:** DIPAM, Ministry of Finance, “Disinvestment Policy”: https://www.dipam.gov.in/disinvestment-policy ; “Methods of Disinvestment of CPSEs”: https://www.dipam.gov.in/methods-disinvestment-cpses . **Limit:** A conceptual classification; no particular CPSE transaction is asserted.
 
 ### Q14. Which is the best example of inclusive-growth evaluation?
 A. Number of roads announced only  
