@@ -1,0 +1,121 @@
+{
+  "cycle": 187,
+  "date": "2026-11-02",
+  "topic_id": "3-2-2",
+  "source_main_sha": "b058b660bb24d286ead20925b32a0b72bb9131a1",
+  "topic_title": "Fundamental Rights, Directive Principles, Rule of Law and Fundamental Duties",
+  "syllabus_source": {
+    "title": "TGPSC Group-I Notification 02/2024, 19 February 2024, Annexure II, printed page 30, Paper III II(2)",
+    "contemporaneous_copy": "https://www.siasat.com/wp-content/uploads/2024/02/Group-I-detailed-NOTIFICATION_NO_02-2024.pdf",
+    "inspected": "PDF page index 29 rendered visually, exact printed item 2 text",
+    "commission_host": "HTTP 403; byte-for-byte equality unverified"
+  },
+  "r1_crosswalk": [
+    [
+      "Nature and Scope",
+      "Constitutional architecture; equality; freedoms and criminal-process guarantees"
+    ],
+    [
+      "Expanding horizons",
+      "Article 21: dignity, privacy, livelihood, environment and digital government"
+    ],
+    [
+      "Enforceability against State and others",
+      "Vertical and horizontal application: State, private power and public duty"
+    ],
+    [
+      "Welfare State and Distributive Justice",
+      "Directive Principles, welfare state and distributive justice; equality and reservations"
+    ],
+    [
+      "Directive Principles of State Policy",
+      "Directive Principles, welfare state and distributive justice"
+    ],
+    [
+      "Rule of Law and Fundamental Duties",
+      "Rule of law, institutional accountability and Fundamental Duties"
+    ]
+  ],
+  "mapped": 6,
+  "unmapped": 0,
+  "R1": "PASS_2024_SYLLABUS_CORRESPONDENCE_ONLY",
+  "constitutional_source": {
+    "title": "Government of India, Ministry of Law and Justice, Legislative Department, Constitution of India English-Kannada diglot as on 11 November 2025",
+    "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "provisions": [
+      "Article 15(1)-(2)",
+      "Article 16(3)-(4A)",
+      "Article 29(2)",
+      "Article 37",
+      "Article 48A",
+      "Article 51A(g)",
+      "Article 14"
+    ]
+  },
+  "mcq_reviews": [
+    {
+      "q": 17,
+      "key": "C",
+      "options_checked": 4,
+      "correct": "48A State directive; 51A(g) citizen duty",
+      "distractors": {
+        "A": "reverses addressees",
+        "B": "misclassifies both",
+        "D": "Article 32 does not specify compulsory cleanup hours"
+      }
+    },
+    {
+      "q": 18,
+      "key": "B",
+      "options_checked": 4,
+      "correct": "Article 15(2)(a) applies to discriminatory public restaurant access",
+      "distractors": {
+        "A": "16(4) concerns employment",
+        "C": "15(1) State-directed, not most direct",
+        "D": "29(2) educational admissions"
+      }
+    },
+    {
+      "q": 19,
+      "key": "D",
+      "options_checked": 4,
+      "correct": "lawful power and stipulated statutory hearing must be checked",
+      "distractors": {
+        "A": "circular cannot supersede statute",
+        "B": "no blanket immunity from review",
+        "C": "administrative acts can be reviewed"
+      },
+      "source_limitation": "hypothetical administrative-law illustration; no independent case-specific judicial holding asserted"
+    },
+    {
+      "q": 20,
+      "key": "A",
+      "options_checked": 4,
+      "correct": "16(4) enabling reservation, not automatic individual post",
+      "distractors": {
+        "B": "no universal percentage",
+        "C": "16(4A) SC/ST promotion, not all citizens",
+        "D": "16(3) Parliament, not internal State circular"
+      }
+    }
+  ],
+  "author_side_key_checks": 4,
+  "author_side_distractor_checks": 12,
+  "practice_questions_not_official_pyqs": true,
+  "original_mcqs_preserved": 30,
+  "legacy_mcq_file_count": 25,
+  "original_mains_preserved": 6,
+  "original_topic_pdf_sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d",
+  "academic_status": "ASSESSED_REBUILD_REQUIRED",
+  "R2_R8_promoted": false,
+  "fully_R1_R8_ready": false,
+  "independent_approvals": 0,
+  "R9": "NOT_STARTED",
+  "limits": [
+    "No independent law-faculty or expert approval",
+    "Remaining 26 integrated MCQ keys/78 distractors require comprehensive review",
+    "Six mains claim-level review pending",
+    "Browser/screen-reader accessibility not certified",
+    "CI PDF and actual downloaded artifact QA pending merge"
+  ]
+}
