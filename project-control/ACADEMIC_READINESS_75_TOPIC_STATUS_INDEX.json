@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle193 Topic3-3-3 repaired S25/S26 source-ID collision and checked 2 MCQ keys/6 distractors; actual artifact 13178986598 downloaded SHA/CRC/75 unchanged originals/75 readiness/92 HTML/634 file links/1582 fragments/16 manifest PASS; post-evidence artifact pending. R1 PASS20, fully ready0, approvals0.",
+  "warning": "Cycle194 Topic3-3-4 four original MCQs Q6/Q19/Q20/Q21 revised against Constitution/MCA Circular 14/2021; 4 keys/12 distractors author-side checked. Actual artifact 13182704612 DOWNLOADED: SHA/digest/outer-inner CRC PASS, 75 original PDFs unchanged, 75 readiness, 92 HTML, 634 file links/1584 fragments zero broken, 7/7 manifest checks, 42-page PDF, 30/30 MCQs same-page. QA evidence commit postdates inspected artifact; post-evidence package pending. R1 PASS20, fully ready0, approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
