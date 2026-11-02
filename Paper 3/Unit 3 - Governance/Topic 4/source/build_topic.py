@@ -101,6 +101,26 @@ for n in parser(md):
   table=Table(data,colWidths=[available*x for x in ratios],repeatRows=1,hAlign='LEFT')
   table.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),colors.HexColor('#e3eef4')),('VALIGN',(0,0),(-1,-1),'TOP'),('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#c3d6df')),('LEFTPADDING',(0,0),(-1,-1),7),('RIGHTPADDING',(0,0),(-1,-1),7),('TOPPADDING',(0,0),(-1,-1),7),('BOTTOMPADDING',(0,0),(-1,-1),7)]))
   story.append(table);story.append(Spacer(1,10))
+# Keep each original practice MCQ, its four options and explanation on one PDF page.
+# The previous actual downloaded PDF split Q10 and Q20 answers across page breaks.
+def is_question(item):
+ return isinstance(item, Paragraph) and re.match(r'^Q[0-9]+\\.', item.getPlainText()) is not None
+def is_answer(item):
+ return isinstance(item, Paragraph) and item.getPlainText().startswith('Answer:')
+grouped=[];i=0;group_count=0
+while i<len(story):
+ if is_question(story[i]):
+  j=i+1
+  while j<len(story) and not is_question(story[j]) and not is_answer(story[j]):
+   j+=1
+  assert j<len(story) and is_answer(story[j]), 'MCQ missing answer after question'
+  grouped.append(KeepTogether(story[i:j+1]))
+  group_count+=1;i=j+1
+ else:
+  grouped.append(story[i]);i+=1
+assert group_count==30, f'Expected 30 complete MCQ groups, found {group_count}'
+story=grouped
+
 # use no page numbers to avoid misleading citations
 
 def on_page(canvas,doc):
