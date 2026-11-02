@@ -1,0 +1,58 @@
+{
+  "cycle": 174,
+  "date": "2026-11-02",
+  "artifact_id": 13113098109,
+  "actions_package_run": 41380727554,
+  "actions_render_run": 41380683715,
+  "archive_sha256": "413025d8013d493c025e96fd1ddb3d297a534908181e07413202f9900df0a33e",
+  "declared_github_artifact_sha256": "413025d8013d493c025e96fd1ddb3d297a534908181e07413202f9900df0a33e",
+  "github_digest_match": true,
+  "outer_crc_pass": true,
+  "inner_crc_pass": true,
+  "inner_file_count": 2247,
+  "original_topic_pdf_count": 75,
+  "original_topic_pdf_hash_changes_vs_cycle173": [],
+  "readiness_json_count": 75,
+  "readiness_status_counts": {
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "IN_PROGRESS": 7
+  },
+  "html_count": 92,
+  "local_references_checked": 634,
+  "dom_fragments_checked": 1581,
+  "spa_routes_excluded": 42,
+  "broken_links": [],
+  "original_3_1_1_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "original_3_1_2_sha256": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921",
+  "integrated_pdf_pages": 41,
+  "integrated_pdf_sha256": "7f23b8247fbb0d91da02a5cd702c5b82648e75d42e4e60a7912b29c15d94d96c",
+  "integrated_master_matches_local": true,
+  "concepts": 23,
+  "concepts_under300": 8,
+  "concepts_expanded": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "expanded_body_counts": [
+    454,
+    480,
+    465,
+    473
+  ],
+  "original_mcqs": 25,
+  "mains_answers": 6,
+  "pdf_blank_pages": [],
+  "pdf_bad_glyph_pages": [],
+  "pdf_out_of_bounds_pages": [],
+  "pdf_footer_only_pages": [],
+  "fully_ready": 0,
+  "independent_academic_approvals": 0,
+  "R9": "NOT_STARTED",
+  "limits": [
+    "Author-side source correspondence only",
+    "Browser and screen-reader accessibility not certified",
+    "Post-QA evidence commit not included in this already-downloaded artifact"
+  ]
+}
