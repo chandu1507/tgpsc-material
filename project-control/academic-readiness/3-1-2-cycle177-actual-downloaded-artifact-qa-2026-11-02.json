@@ -1,0 +1,70 @@
+{
+  "cycle": 177,
+  "date": "2026-11-02",
+  "topic_id": "3-1-2",
+  "actions": {
+    "renderer_run_id": 41396855344,
+    "renderer_conclusion": "success",
+    "packaging_run_id": 41396903671,
+    "packaging_conclusion": "success",
+    "downloaded_artifact_id": 13119916312,
+    "github_declared_digest": "sha256:48a20f458ef4874843bcd09e322aa1ed6b21b363cfd40d33c71f114ad611b4bb",
+    "actual_sha256": "48a20f458ef4874843bcd09e322aa1ed6b21b363cfd40d33c71f114ad611b4bb"
+  },
+  "archive": {
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "files": 2253,
+    "original_topic_pdfs": 75,
+    "changed_original_pdfs_vs_cycle176": 0,
+    "readiness_json": 75,
+    "html_pages": 92,
+    "local_links_checked": 634,
+    "broken_local_links": 0,
+    "dom_fragments_checked": 1581,
+    "broken_fragments": 0,
+    "spa_hash_routes_excluded": 42,
+    "original_topic_3_1_1_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a"
+  },
+  "pdf": {
+    "pages": 45,
+    "sha256": "7a73f1ef3d97a792d05da48dd9d3c4b14741edbced45d47ad8add7f574e3de3e",
+    "footer_only_pages": 0,
+    "unsupported_glyph_pages": 0,
+    "out_of_bounds_pages": 0,
+    "visually_inspected_pages": [
+      24,
+      27
+    ],
+    "local_candidate_pages": 44,
+    "byte_identical_to_local": false
+  },
+  "academic": {
+    "existing_concepts": 23,
+    "under300_body_only": 0,
+    "concept21_body_words": 553,
+    "concept23_body_words": 565,
+    "original_practice_mcqs": 25,
+    "mains_answers": 6,
+    "status_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "r1_normalized_PASS": 14,
+    "r1_raw_PASS": 13,
+    "r1_nested_PASS": 1,
+    "r1_IN_PROGRESS": 56,
+    "r1_BLOCKED": 3,
+    "r1_NOT_STARTED": 2,
+    "fully_r1_r8_ready": 0,
+    "independent_approvals": 0,
+    "r9": "NOT_STARTED"
+  },
+  "limits": [
+    "This evidence commit postdates the inspected artifact; post-evidence package and download are required",
+    "No full browser usability or screen-reader audit",
+    "No independent subject expert; all 25 MCQ options and six mains remain without independent certification",
+    "Original practice questions are not official PYQs"
+  ]
+}
