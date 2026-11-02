@@ -1,0 +1,117 @@
+{
+  "cycle": 190,
+  "date": "2026-11-03",
+  "topic_id": "3-2-5",
+  "scope": "Original practice MCQ Q5-Q8 revised in place; R1 wording provenance bounded",
+  "classification": "AUTHOR_SIDE_SOURCE_CORRESPONDENCE_NOT_INDEPENDENT_APPROVAL",
+  "official_pyq_claim": false,
+  "original_pdf_unchanged_required_sha256": "44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15",
+  "sources": [
+    {
+      "id": "S20",
+      "title": "Constitution of India Legislative Department official archive",
+      "url": "https://legislative.gov.in/constitution-of-india-archive",
+      "scope": "Article 254(2) and Parliament subsequent override"
+    },
+    {
+      "id": "S21",
+      "title": "GST Council official constitutional voting explanation",
+      "url": "https://gstcouncil.gov.in/gst-council-0",
+      "scope": "Article 279A, Council composition, weighted votes and threshold"
+    },
+    {
+      "id": "S22",
+      "title": "GST Council-hosted Mohit Minerals Supreme Court case note",
+      "url": "https://gstcouncil.gov.in/sites/default/files/gst-knowledge/GST-and-Co-operative-Federalism.pdf",
+      "scope": "Recommendations persuasive and separate from enacted law"
+    },
+    {
+      "id": "S23",
+      "title": "Finance Commission of India constitutional terms of reference",
+      "url": "https://fincomindia.nic.in/about-us",
+      "scope": "Article 280(3) Union-State tax sharing and local-body funding"
+    }
+  ],
+  "question_audits": [
+    {
+      "q": 5,
+      "key": "A",
+      "claim": "State-specific Presidential assent exception subject to subsequent parliamentary override",
+      "options": {
+        "A": "Correct under Art254(2)",
+        "B": "Wrong: Governor assent and nationwide effect",
+        "C": "Wrong: Parliament retains power",
+        "D": "Wrong: ignores Art254(2) and repugnancy test"
+      },
+      "sources": [
+        "S20"
+      ]
+    },
+    {
+      "q": 6,
+      "key": "B",
+      "claim": "Article279A GST Council recommends, legislatures legislate",
+      "options": {
+        "A": "Wrong: Article263 Inter-State Council",
+        "B": "Correct: Article279A GST Council",
+        "C": "Wrong: Article280 Finance Commission",
+        "D": "Wrong: States have Council membership"
+      },
+      "sources": [
+        "S21",
+        "S22"
+      ]
+    },
+    {
+      "q": 7,
+      "key": "B",
+      "claim": "Two-thirds State weighted vote alone is below three-fourths threshold",
+      "options": {
+        "A": "Wrong: 2/3 is below 3/4",
+        "B": "Correct: cannot reach threshold without Union support",
+        "C": "Wrong: quorum is not vote threshold",
+        "D": "Wrong: Council vote not Act of Parliament"
+      },
+      "sources": [
+        "S21"
+      ]
+    },
+    {
+      "q": 8,
+      "key": "A",
+      "claim": "Article280(3) finance commission recommends devolution and local-body fund augmentation",
+      "options": {
+        "A": "Correct: Finance Commission",
+        "B": "Wrong: GST Council role",
+        "C": "Wrong: Inter-State Council role",
+        "D": "Wrong: State Election Commission role"
+      },
+      "sources": [
+        "S23"
+      ]
+    }
+  ],
+  "syllabus_verification": {
+    "source_2022_official": "https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf",
+    "source_2024_reproduction": "https://prepshark.in/tgpsc/group-1/syllabus",
+    "matching_clause_groups": 3,
+    "gate_before": "NOT_STARTED",
+    "gate_after": "IN_PROGRESS",
+    "reason_not_pass": "Commission-hosted 02/2024 notification PDF bytes not authenticated in this cycle"
+  },
+  "integrity_constraints": {
+    "topic_count": 75,
+    "mcq_count_expected": 30,
+    "mains_count_expected": 6,
+    "independent_approvals": 0,
+    "fully_R1_R8_ready": 0,
+    "R9": "NOT_STARTED",
+    "other_gate_promotions": 0
+  },
+  "pending": [
+    "CI rendered PDF and manifest sync",
+    "actual downloaded GitHub Actions artifact CRC/SHA/links and 75-topic inventory",
+    "browser and screen-reader QA",
+    "independent expert review"
+  ]
+}
