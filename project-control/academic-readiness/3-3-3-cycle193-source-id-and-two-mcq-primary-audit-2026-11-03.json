@@ -13,7 +13,12 @@
       29,
       30
     ],
-    "historical_S25_preserved": true
+    "historical_S25_preserved": true,
+    "additional_concept_references_repaired": {
+      "detailed_notes": 3,
+      "quick_revision": 1
+    },
+    "total_source_references_repaired": 9
   },
   "sources": [
     {
@@ -71,7 +76,7 @@
   ],
   "checked_correct_keys": 2,
   "checked_distractors": 6,
-  "references_corrected_without_new_answer_claims": 5,
+  "references_corrected_without_new_answer_claims": 9,
   "unchanged_original_practice_mcq_total": 30,
   "mains_total": 6,
   "official_pyq_claimed": false,
@@ -92,6 +97,7 @@
     "Complete 30-key/90-distractor independent audit not completed",
     "Six mains not claim-by-claim verified",
     "Browser and screen-reader accessibility not certified",
-    "No named independent subject expert approval"
+    "No named independent subject expert approval",
+    "Four additional concept/revision citations corrected in follow-up source sweep; no new claim-level independent audit"
   ]
 }
