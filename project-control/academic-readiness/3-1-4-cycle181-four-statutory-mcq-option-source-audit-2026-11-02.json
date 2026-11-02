@@ -1,0 +1,103 @@
+{
+  "topic_id": "3-1-4",
+  "cycle": 181,
+  "date": "2026-11-02",
+  "status": "AUTHOR_SIDE_BOUNDED_SOURCE_CHECK_NOT_INDEPENDENT_APPROVAL",
+  "scope": "Four existing original practice MCQs rewritten in place across integrated master, original MCQ bank, and complete notes; no original PDF modified",
+  "questions": [
+    19,
+    27,
+    28,
+    29
+  ],
+  "keys": {
+    "19": "C",
+    "27": "A",
+    "28": "B",
+    "29": "A"
+  },
+  "option_checks": 16,
+  "sources": [
+    {
+      "id": "C181-1",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/20344/1/a1986-61.pdf",
+      "sections": [
+        "2",
+        "3",
+        "3A"
+      ],
+      "direct_pdf_text": "READ",
+      "question": 19
+    },
+    {
+      "id": "C181-2",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/22976",
+      "articles": [
+        "15(2)",
+        "17",
+        "23",
+        "24"
+      ],
+      "direct_constitution_article": "CORROBORATED_WITH_CONSTITUTION_TEXT_AND_WIPO_CONSOLIDATED_EDITION; NOT_PAGE_LEVEL_DIRECT_PDF",
+      "question": 27
+    },
+    {
+      "id": "C181-3",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1920/1/a1989-33.pdf",
+      "sections": [
+        "3",
+        "14",
+        "15A"
+      ],
+      "direct_pdf_text": "READ",
+      "question": 28
+    },
+    {
+      "id": "C181-4",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1973/1/a199640.pdf",
+      "sections": [
+        "2",
+        "3",
+        "4(e)(i)"
+      ],
+      "direct_pdf_text": "READ",
+      "as_of": "2026-06-01",
+      "question": 29
+    }
+  ],
+  "distractor_rationales": {
+    "19": {
+      "A": "Narrow family/artist exception does not authorize any employer",
+      "B": "Adolescent ban targets listed hazardous occupations/processes, not every form of work",
+      "D": "Hazardous-work and schooling limits apply to family enterprise exceptions"
+    },
+    "27": {
+      "B": "Article 15(2) prohibits specified discrimination in access but does not contain express abolition clause",
+      "C": "Article 23 addresses trafficking and forced labour",
+      "D": "Article 24 addresses child employment in specified settings"
+    },
+    "28": {
+      "A": "1955 Act addresses civil rights/untouchability, not the named 1989 atrocities framework",
+      "C": "PESA regulates Panchayati Raj in Scheduled Areas",
+      "D": "1976 Act abolishes bonded labour"
+    },
+    "29": {
+      "B": "Forest Rights Act is distinct from PESA's general village-Panchayat development-plan approval",
+      "C": "PESA provides the Scheduled-Area modification to Part IX",
+      "D": "Sixth Schedule framework is not a blanket Fifth Schedule substitute"
+    }
+  },
+  "preservation": {
+    "original_topic_pdfs_expected": 75,
+    "original_mcqs_expected": 30,
+    "mains_expected": 6,
+    "official_pyqs_authenticated": 0
+  },
+  "gate_policy": {
+    "R1": "PASS_UNCHANGED",
+    "R2_R8": "UNCHANGED_NOT_CERTIFIED",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "remaining": "26 original MCQs (78 distractors) lack this cycle's source-level option review; six mains require independent claim-level review; diagrams and browser/accessibility QA outstanding; CI PDF and downloaded publication artifact not yet verified at audit creation."
+}

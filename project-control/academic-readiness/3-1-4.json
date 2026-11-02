@@ -35,9 +35,10 @@
     "project-control/academic-readiness/3-1-4-cycle179-migrant-worker-current-law-mcq23-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle180-original-2024-r1-mapping-2026-11-02.json",
-    "project-control/academic-readiness/3-1-4-cycle180-actual-downloaded-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/3-1-4-cycle180-actual-downloaded-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/3-1-4-cycle181-four-statutory-mcq-option-source-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle180 8/8 R1 mapping PASS, actual postmerge artifact13127633962 downloaded and CRC/SHA/75 originals/75 readiness/links verified. QA evidence commit postdates inspected artifact; final post-evidence package/download required. Independent MCQ/mains/browser review and R2–R8 pending.",
+  "next_action": "Cycle181 Q19/27/28/29 author-side source checked, 16 options; CI PDF and actual downloaded artifact QA pending. Other 26 MCQs, six mains, diagrams and browser accessibility require independent audit; R1 PASS, R2-R8 not promoted.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -117,5 +118,20 @@
     "post_merge_artifact_QA": "PASS_POST_MERGE_BEFORE_EVIDENCE_COMMIT",
     "actual_downloaded_artifact_id": 13127633962,
     "artifact_sha256": "9016d0ff4ceff896a5300f1354e0392d4232eb6a7466b831829c6f78ea4867e2"
+  },
+  "cycle181": {
+    "date": "2026-11-02",
+    "revised_original_mcqs": [
+      19,
+      27,
+      28,
+      29
+    ],
+    "author_side_keys": 4,
+    "author_side_distractors": 12,
+    "source_scope": "India Code Acts 1986,1989,1996; Constitution Article17 and comparator Articles",
+    "independent_approvals": 0,
+    "ci_pdf": "PENDING",
+    "downloaded_artifact": "PENDING"
   }
 }
