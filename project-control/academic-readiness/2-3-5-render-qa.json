@@ -1,9 +1,9 @@
 {
   "bad_glyph_pages": [],
   "file": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
-  "pages": 26,
-  "sha256": "7d3da16a0f5e5eb225a94ad7662b01213e4eee94707014914a6f7b8d77fe0b2c",
-  "pdf_text_words": 12098,
+  "pages": 25,
+  "sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952",
+  "pdf_text_words": 12080,
   "page_text_lengths": [
     3732,
     4276,
@@ -29,8 +29,7 @@
     2370,
     1241,
     3058,
-    3577,
-    92
+    3577
   ],
   "pages_with_no_text": []
 }
