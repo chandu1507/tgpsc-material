@@ -4,7 +4,7 @@
 
 **Syllabus wording (Notification No. 02/2024, Annexure-II):** “Federal system: Centre-State Relations- Issues and Challenges pertaining to the Federal Structure; Local Self-Government 73rd and 74th Constitutional Amendments for sharing of powers - Panchayat Raj and Municipal Institutions; Resolution of Inter- State disputes with reference to Water Disputes- Challenges of Implementation.”
 
-**Source verification:** This line has been checked against published reproductions of Notification 02/2024 and the official examination pattern. The primary notification PDF was not successfully downloaded in this run; therefore the wording is cross-checked, not independently extracted from a fresh official PDF. No unverified official previous-year question is claimed.
+**Source verification (3 November 2026):** The Commission-hosted 2022 Group-I scheme PDF (https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf) includes this exact federal-system clause; a reproduction of Notification 02/2024 Annexure-II also matches. Direct byte authentication of the 2024 Commission-hosted notification remains unavailable, so **R1 is IN_PROGRESS, not PASS**. This is a bounded wording cross-check, not academic approval. No official PYQ is claimed.
 
 ## Syllabus-to-chapter map
 
