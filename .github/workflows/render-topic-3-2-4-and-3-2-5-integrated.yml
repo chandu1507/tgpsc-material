@@ -81,6 +81,12 @@ jobs:
                   m['file_sha256']['source/integrated-student-edition-2026-10-27.pdf']=hashlib.sha256(pdf.read_bytes()).hexdigest()
               m['integrated_pdf_sha256']=hashlib.sha256(pdf.read_bytes()).hexdigest()
               m['integrated_pdf_pages']=len(doc)
+              # Refresh every declared file hash after source and HTML edits.
+              # Previously only the integrated PDF hash was updated, leaving stale manifest entries.
+              for rel in list(m.get('file_sha256', {})):
+                  fp=root/rel
+                  assert fp.is_file(),(t,'missing manifest file',rel)
+                  m['file_sha256'][rel]=hashlib.sha256(fp.read_bytes()).hexdigest()
               m['publication_state']='synchronized PDF from canonical editable Markdown; independent academic audit pending'
               m['academically_approved']=0
               mpath.write_text(json.dumps(m,indent=2,ensure_ascii=False)+'\n')
