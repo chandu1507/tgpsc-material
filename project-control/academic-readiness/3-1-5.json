@@ -38,9 +38,10 @@
     "project-control/academic-readiness/3-1-5-cycle184-original-2024-r1-eight-clause-crosswalk-2026-11-02.json",
     "project-control/academic-readiness/3-1-5-cycle184-actual-downloaded-post-link-fix-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-5-cycle185-four-tribal-governance-obc-mcq-option-audit-2026-11-02.json",
-    "project-control/academic-readiness/3-1-5-cycle185-first-downloaded-artifact-and-mcq-pagination-qa-2026-11-02.json"
+    "project-control/academic-readiness/3-1-5-cycle185-first-downloaded-artifact-and-mcq-pagination-qa-2026-11-02.json",
+    "project-control/academic-readiness/3-1-5-cycle185-final-post-layout-downloaded-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle185 four original MCQs 15-18 updated with primary-source option checks in integrated master; synchronize CI PDF and independently download/verify artifact. Other 26 MCQs, six mains, six shallow concepts, diagrams and browser accessibility require review; R1 PASS only; approvals0.",
+  "next_action": "Cycle185 final post-layout artifact13149124538 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/634 links/1581 fragments PASS, 27-page PDF all 30 MCQs grouped; QA evidence commit postdates archive, next package required. Remaining 26 MCQs, six mains, six shallow concepts, diagrams and browser accessibility; approvals0.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -218,12 +219,18 @@
     "original_topic_pdf_unchanged": true,
     "author_side_only": true,
     "render_status": "PENDING",
-    "actual_postmerge_artifact_qa": "PENDING_POST_LAYOUT_FIX_PACKAGE",
+    "actual_postmerge_artifact_qa": "PASS_ACTUALLY_DOWNLOADED",
     "independent_approvals": 0,
     "first_downloaded_artifact_id": 13148839151,
     "first_artifact_qa": "PASS_WITH_ORPHANED_MCQ_LAYOUT_DEFECT",
     "layout_fix_pr": 362,
     "post_fix_ci_pdf_sha256": "13adbd02cbb84d209d23de5d93318164cbfad6c6a691e9f4e201ad8ae7c03be3",
-    "post_fix_ci_pdf_pages": 27
+    "post_fix_ci_pdf_pages": 27,
+    "final_post_layout_artifact_id": 13149124538,
+    "final_post_layout_artifact_sha256": "d1ffa67dc197d4c7641b1e1d65086ada4cfc30a779e9eac37edb72444dd4024f",
+    "final_post_layout_pdf_sha256": "13adbd02cbb84d209d23de5d93318164cbfad6c6a691e9f4e201ad8ae7c03be3",
+    "final_post_layout_pdf_pages": 27,
+    "all_30_mcqs_kept_together": true,
+    "library_upload": "CONFIRMED"
   }
 }
