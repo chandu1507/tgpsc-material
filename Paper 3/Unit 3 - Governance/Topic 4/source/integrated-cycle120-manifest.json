@@ -5,7 +5,7 @@
   "academic_approved": false,
   "original_pdf_sha256": "0d4fb8463bbced10bc1f481020e9b2350f77ae646f1c0dcdd910781a33a98a63",
   "original_pdf_preserved": true,
-  "integrated_pdf_pages": 41,
+  "integrated_pdf_pages": 42,
   "concepts": 15,
   "original_practice_mcqs": 30,
   "answer_distribution": {
@@ -23,7 +23,7 @@
     "source/cycle120-mcqs.md": "bbf26063eee2596df620a6e39cb6cfbbd45300c35dbf0b0c6ebf80887222bb1a",
     "source/cycle120-source-audit.md": "35ae5086f29633d058b2d1981c5221bed59b673fdb867d93f4041d124658caa9",
     "source/integrated-student-edition-cycle120.md": "aa8b22e65a6ead1e25a64882bde80dfb7b3190cee636134dc46476141617265a",
-    "source/integrated-student-edition-cycle120.pdf": "532700b844e28b8b23d890b56cc5d0e76f33891cfc5fcefc0a998bb7a114f131",
+    "source/integrated-student-edition-cycle120.pdf": "c8cec31ebe630ba0ec63ecb37c24862ecd1e77ef0cc2cc4aabc8fb1f05066df4",
     "source/integrated-student-edition-cycle120.html": "8033c41d0323f14942d06af59b7080aa214b00cfe9ebf15b5cc29b50f55abd28"
   }
 }
