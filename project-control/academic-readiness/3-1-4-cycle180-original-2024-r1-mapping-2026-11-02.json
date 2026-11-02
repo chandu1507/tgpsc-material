@@ -1,0 +1,100 @@
+{
+  "cycle": 180,
+  "date": "2026-11-02",
+  "topic_id": "3-1-4",
+  "baseline_main": "1bcebede8f9436c051e91ae831bc1d2a5fb29abd",
+  "scope": "R1 syllabus-clause correspondence only; no content approval or claims of archival consultation",
+  "source": {
+    "issuer": "Telangana State Public Service Commission",
+    "document": "Group-I Notification 02/2024 dated 19 February 2024",
+    "annexure": "II",
+    "printed_page": 30,
+    "pdf_page_index_zero_based": 29,
+    "paper": "III",
+    "unit": "I",
+    "item": "4(a) and 4(b)",
+    "official_original_url": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v",
+    "official_host_access": "403 on direct live open in this run; official search index exposes original text",
+    "mirror_url": "https://www.siasat.com/wp-content/uploads/2024/02/Group-I-detailed-NOTIFICATION_NO_02-2024.pdf",
+    "mirror_inspection": "Full original notification PDF text and visual page 30 inspected 2 November 2026",
+    "cross_check": "Official commission 2022 Group-I scheme/syllabus PDF independently corroborates clause wording; not a substitute for 2024 original",
+    "later_revision_authenticated": false
+  },
+  "mapping": [
+    {
+      "official_clause": "Vetti",
+      "integrated_master_section": "2",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    },
+    {
+      "official_clause": "Jogini and Devadasi System",
+      "integrated_master_section": "3",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    },
+    {
+      "official_clause": "Girl Child",
+      "integrated_master_section": "4",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    },
+    {
+      "official_clause": "Flourosis [official spelling; fluorosis in notes]",
+      "integrated_master_section": "5",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    },
+    {
+      "official_clause": "Child Labour",
+      "integrated_master_section": "6",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    },
+    {
+      "official_clause": "Migrant Labour",
+      "integrated_master_section": "7",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    },
+    {
+      "official_clause": "Child Marriages",
+      "integrated_master_section": "4.2",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    },
+    {
+      "official_clause": "Social Movements in Telangana",
+      "integrated_master_section": "8 (8.1–8.6)",
+      "source_path": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+      "coverage": "explicit heading or subsection correspondence; depth, source accuracy and completeness remain independently unapproved"
+    }
+  ],
+  "mapped_clauses": 8,
+  "unmapped_clauses": 0,
+  "r1_before": "IN_PROGRESS",
+  "r1_after": "PASS",
+  "limitations": [
+    "Original 2024 notification was visually inspected via a third-party-hosted mirror because the live official PDF endpoint returned 403; byte-for-byte provenance of mirror against commission host not established.",
+    "Official source text uses 'Flourosis'; study text correctly uses 'fluorosis'.",
+    "Social Movements in Telangana is an umbrella clause, not an enumerated official list; six movements in notes are illustrative, not an exhaustive officially prescribed list.",
+    "Mapping does not certify accuracy of historical interpretations, statutes, MCQs, mains, diagrams, or browser/screen-reader usability.",
+    "No official PYQs invented; no independent expert approval; R9 NOT_STARTED.",
+    "75 existing topics and original PDFs preserved; no 76th topic created."
+  ],
+  "expected_totals": {
+    "topics": 75,
+    "published_original_pdfs": 75,
+    "readiness_json": 75,
+    "status_counts": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "normalized_R1_PASS_before": 15,
+    "normalized_R1_PASS_after": 16,
+    "fully_R1_to_R8_ready": 0,
+    "independent_approvals": 0
+  },
+  "pdf_sync": "No study master or PDF bytes changed in this R1-only control update; previously published 19-page integrated PDF remains synchronized with unchanged master. New packaging artifact must be downloaded and checked after merge."
+}
