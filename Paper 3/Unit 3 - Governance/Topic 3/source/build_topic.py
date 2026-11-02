@@ -13,6 +13,13 @@ ROOT=Path(__file__).resolve().parent.parent;SRC=ROOT/'source'
 TITLE='Programmes, Agencies and Institutions for Urban and Rural Development; Participatory Development; Poverty Alleviation; Women Empowerment; Rights to Health, Food Security and Education'
 parts=['syllabus-and-summary.md','detailed-notes.md','visual-learning.md','quick-revision.md','original-mcqs.md','mains-model-answers.md','sources-and-audit.md']
 header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 3 | Expanded draft | 31 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All 30 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
+# Citation integrity: every bracketed [S#] reference must resolve to one unique register row.
+register=(SRC/'sources-and-audit.md').read_text(encoding='utf-8')
+registered=re.findall(r'^\|\s*(S\d+)\s*\|',register,re.M)
+assert len(registered)==len(set(registered)), 'Duplicate source IDs in evidence register'
+mcq_text=(SRC/'original-mcqs.md').read_text(encoding='utf-8')
+referenced={sid for group in re.findall(r'\[([^\]]*S\d+[^\]]*)\]',mcq_text) for sid in re.findall(r'\bS\d+\b',group)}
+assert referenced<=set(registered), f'Unresolved MCQ source IDs: {sorted(referenced-set(registered))}'
 md=header+'\n\n'.join((SRC/p).read_text(encoding='utf-8') for p in parts)
 (SRC/'complete-notes.md').write_text(md,encoding='utf-8')
 # offline HTML
@@ -128,6 +135,7 @@ manifest['legacy_pdf_pages']=37
 manifest['mains_answer_words']=[210,219,217,219,217,210]
 manifest['original_mcqs']=30
 manifest['mains_answers']=6
+manifest['source_register_entries']=len(registered)
 manifest['integrated_student_pdf']={'path':'source/integrated-student-edition-2026-10-27.pdf','sha256':hashlib.sha256((SRC/'integrated-student-edition-2026-10-27.pdf').read_bytes()).hexdigest(),'legacy_pdf_preserved':True}
 manifest['file_sha256']={str(f.relative_to(ROOT)):hashlib.sha256(f.read_bytes()).hexdigest() for f in sorted(ROOT.rglob('*')) if f.is_file() and f.name!='manifest.json'}
 manifest_path.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
