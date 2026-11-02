@@ -8,6 +8,22 @@
 
 **Exact syllabus wording:** Fundamental Rights: Nature and Scope; Expanding horizons of Fundamental Rights; Enforceability against State and others; Welfare State and Distributive Justice under the Constitution; Directive Principles of State Policy - Rule of Law and Fundamental Duties.
 
+
+### Cycle 187: verified 2024 syllabus-to-concept crosswalk (R1 correspondence only)
+
+The six components below were checked against Annexure II, Paper III, Section II, item 2, printed page 30 of the Commission-issued 19 February 2024 notification (contemporaneous hosted PDF image inspected on 2 November 2026). The Commission-hosted file returned HTTP 403, so byte identity with that host remains unverified. The mapping does **not** certify depth, legal accuracy, mains answers or independent academic approval.
+
+| 2024 syllabus component | Existing detailed-note coverage |
+|---|---|
+| Fundamental Rights: nature and scope | Constitutional architecture; equality; freedoms and criminal-process guarantees |
+| Expanding horizons of Fundamental Rights | Article 21: dignity, privacy, livelihood, environment and digital government |
+| Enforceability against State and others | Vertical and horizontal application: State, private power and public duty |
+| Welfare State and Distributive Justice | Directive Principles, welfare state and distributive justice; equality and reservations |
+| Directive Principles of State Policy | Directive Principles, welfare state and distributive justice |
+| Rule of Law and Fundamental Duties | Rule of law, institutional accountability and Fundamental Duties |
+
+**R1: PASS (2024 syllabus correspondence only); R2–R8: not promoted; R9: NOT_STARTED.**
+
 ## Topic summary
 The Indian constitutional framework links enforceable liberty and equality to the long-term project of a socially just welfare state. Part III creates judicially enforceable rights; Part IV directs public policy; Part IVA describes civic duties. Their interaction is tested through equality, privacy, state accountability, legal remedies, policy implementation and the limits of public power.
 
@@ -478,39 +494,37 @@ D. Article 39(e)
 
 **Answer: A.** Article 24 directly prohibits employment of children below fourteen in factories, mines and other hazardous employment. Article 23(1) concerns trafficking, begar and similar forced labour, which would require additional facts; Article 21A concerns education of ages six to fourteen; Article 39(e) is a Directive Principle addressing protection of workers and children. The Child and Adolescent Labour (Prohibition and Regulation) Act supplies additional statutory rules. This is an original practice scenario, not an official PYQ.
 
-**Q17. Which Article concerns environment in DPSPs?**
-A. 48A
-B. 32
-C. 19
-D. 16
+**Q17. A State forest department plans a lake-restoration programme while citizens volunteer to prevent littering. Which constitutional pairing is accurate?**
+A. Article 51A(g) is the State's Directive Principle; Article 48A is the citizens' Fundamental Duty
+B. Article 48A is a directly enforceable Fundamental Right; Article 51A(g) is a Directive Principle
+C. Article 48A directs the State to protect the environment; Article 51A(g) places an environmental duty on citizens
+D. Article 32 automatically orders every citizen to undertake a fixed number of lake-cleaning hours
 
-**Answer: A.** Article 48A directs the State to protect and improve the environment and safeguard forests and wildlife. Article 51A(g) is the corresponding citizen duty, but these provisions have different legal character.
+**Answer: C.** Article 48A appears in Part IV and addresses the State; Article 51A(g) appears in Part IVA and addresses citizens. Neither text, standing alone, specifies a fixed number of hours or automatically creates the remedy asserted in D. A reverses the addressees, and B reverses the constitutional classification. Environmental rights or statutory duties may be enforceable through other legal routes; do not equate a Directive Principle with an independently executable decree.
 
-**Q18. Article 15(2) primarily addresses**
-A. Access discrimination in specified public spaces/services
-B. Parliamentary privilege
-C. State budgets
-D. Amendment procedure
+**Q18. A privately operated restaurant open to the public refuses service to an Indian citizen solely because of caste. Which constitutional provision most directly addresses this specified access discrimination?**
+A. Article 16(4), enabling certain public-employment reservations
+B. Article 15(2)(a), covering access to public restaurants among other specified places
+C. Article 15(1), which by its text prohibits only discrimination by the State
+D. Article 29(2), dealing with admission to State-maintained or State-aided educational institutions
 
-**Answer: A.** Article 15(2) reaches specified discriminatory access to shops, restaurants, hotels and certain public facilities. It differs from Article 15(1), which specifically constrains State discrimination on listed grounds.
+**Answer: B.** Article 15(2)(a) protects citizens against discrimination on listed grounds in access to public restaurants, including the stated private-operator setting. A concerns State-service reservation, not restaurant entry. C is the State-directed clause and is not the most direct provision on these facts. D addresses admission to specified educational institutions, not restaurants. The scenario assumes the refusal was solely on the prohibited ground; evidence and applicable statutory remedies require separate assessment.
 
-**Q19. Rule of law requires**
-A. Unreviewable discretion
-B. Reasoned, legally authorized action
-C. Automatic executive supremacy
-D. No judicial review
+**Q19. A licensing authority cancels a licence by citing only an internal circular, although the governing statute requires a hearing and the authority provides no reasons. Which response best reflects the rule of law?**
+A. Treat every internal circular as automatically superior to the governing statute
+B. Accept the cancellation because administrative discretion is never reviewable
+C. Assume only criminal convictions, not administrative decisions, can be tested for legality
+D. Check statutory authority, the required hearing, reasons and available review before treating the cancellation as valid
 
-**Answer: B.** Rule of law combines lawful authority with equality, reasoned decision-making and review. A rule that grants officials arbitrary, unreviewable power may amount to rule by law without satisfying constitutional rule-of-law standards.
+**Answer: D.** The stipulated statute requires a hearing; an internal circular cannot dispense with that statutory safeguard. The authority must identify lawful power and follow the applicable procedure, with reasons and review assessed under the governing legal framework. A wrongly elevates a circular over legislation; B invents immunity from review; C incorrectly confines legality review to criminal matters. This is a hypothetical administrative-law application, not a claim that every decision requires an identical hearing process.
 
-**Q20. Which is an enabling reservation provision in public employment?**
-A. Article 16(4)
-B. Article 21A
-C. Article 51
-D. Article 300A
+**Q20. A recruitment notice says Article 16(4) itself guarantees an individual a reserved government post, even without an operative reservation policy. Which is the most accurate correction?**
+A. Article 16(4) enables the State to provide reservation for a backward class inadequately represented in State services; it does not by itself award a particular applicant a post
+B. Article 16(4) directly fixes a universal reservation percentage for every class and every post
+C. Article 16(4A) automatically reserves every promotion for all citizens, irrespective of category
+D. Article 16(3) lets any State department impose residence requirements by an internal circular without parliamentary law
 
-**Answer: A.** Article 16(4) is an enabling provision for reservation of appointments or posts for backward classes inadequately represented in State services. Article 21A concerns schooling, Article 51 international peace and Article 300A property.
-
-
+**Answer: A.** Article 16(4) is enabling and addresses reservation of appointments or posts for inadequately represented backward classes; implementation and the applicable legal conditions must be checked separately. B invents a universal constitutional percentage. C misstates Article 16(4A), which concerns enabling promotion reservation for SCs/STs under specified conditions. D ignores Article 16(3)'s allocation of the residence-requirement lawmaking power to Parliament. A notice cannot itself convert enabling constitutional language into an automatic individual appointment.
 
 **Q21. A government welfare portal rejects a visually impaired applicant because its only identity test requires blinking. Which is the strongest constitutional-administrative response?**
 A. Reject permanently because software applies equally to all

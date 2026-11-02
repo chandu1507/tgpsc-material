@@ -1,7 +1,7 @@
 {
   "topic_id": "3-2-2",
   "title": "Fundamental Rights, Directive Principles, Rule of Law and Fundamental Duties",
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -31,7 +31,7 @@
     "original_pdf_sha256": "a67f6ee14968b79ae5726a023d8c047807c97aaaa42d284c40b23503c796590d"
   },
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
@@ -41,7 +41,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle29: seven limited constitutional/source item correspondences; Q16 duplicate forced-labour item corrected to Article 24; Q21 2025 digital-KYC scope qualified; two original SVG diagrams. Full official TGPSC PDF returned 403, 25-key/100-distractor independent audit, six mains factual checks and synchronized CI PDF remain outstanding. GitHub CI renderer 40448120479 succeeded with 27 searchable pages and synchronized manifest; post-render package not yet downloaded. Second renderer 40448365148 corrected orphan diagram heading, 28-page PDF SHA256 1284823e775af77d87663cbdc52d7e130f919c4a2bff78c3342f517477e76831. Final packaging QA pending. Final 28-page PDF and 75-topic downloaded artifact CRC/hash/link checks PASS; 1544 files, 474 file links and 686 DOM fragments zero broken. R8 remains IN_PROGRESS due browser/accessibility checks.",
-  "next_action": "Full independent 30-key/90-distractor and six-mains claim audits; direct Commission syllabus R1; legacy HTML synchronization and full browser/accessibility; R9 only after genuine R1-R8 PASS and named expert.",
+  "next_action": "Cycle187 official 2024 R1 crosswalk 6/6 PASS and original practice Q17–20 16 option checks author-side; 26 other integrated MCQs/78 distractors, six mains claims, browser accessibility and independent expert approval pending. CI render and downloaded artifact QA pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -86,5 +86,30 @@
     "artifact_id": 12986359935,
     "artifact_sha256": "76541afe179ba1f93f54f887f2ce6049f7694bf874d8cc87c8ca54b5eea09dd8",
     "qa_evidence": "project-control/academic-readiness/3-2-2-cycle113-actual-downloaded-artifact-qa-2026-10-30.json"
+  },
+  "cycle187": {
+    "date": "2026-11-02",
+    "r1": "PASS_2024_SYLLABUS_CORRESPONDENCE_ONLY",
+    "mapped": 6,
+    "mcqs_revised": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "keys": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "options_checked": 16,
+    "original_integrated_mcqs": 30,
+    "original_mains": 6,
+    "evidence": "project-control/academic-readiness/3-2-2-cycle187-r1-four-mcq-primary-source-audit-2026-11-02.json",
+    "original_topic_pdf_preserved_expected": true,
+    "ci_pdf": "PENDING",
+    "downloaded_artifact_qa": "PENDING",
+    "independent_approvals": 0
   }
 }
