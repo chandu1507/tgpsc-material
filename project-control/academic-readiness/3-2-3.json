@@ -50,8 +50,11 @@
     "R7": "IN_PROGRESS",
     "R8": "IN_PROGRESS"
   },
-  "evidence": "27 Oct Cycle30: actual 10 concepts, 25 original MCQs, six mains inspected. Added substantive Article171 forty-member minimum proviso vs one-third Council ceiling and separate Art164 ministry 17 maximum; revised Q13 in detailed notes, integrated master and offline HTML; five limited author-side source correspondences Q5/Q12/Q13/Q14/Q23. No independent distractor, mains, R1, accessibility or PDF synchronization certification. GitHub CI renderer run 40452135732 SUCCESS, 33-page searchable integrated PDF, SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; page18 330 chars and page33 490 chars require layout review; post-render downloaded archive and browser accessibility NOT verified. Cycle30 correction: contact-sheet page18 orphan visual heading identified in initial 33-page render; renderer PageBreak removed, rerender run 40452389432 SUCCESS, now 32 searchable pages SHA256 bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05. Actual final post-render artifact download pending. Final GitHub packaging run 40452521425 SUCCESS, artifact 12711190435 actually downloaded: 1553 inner files, outer/inner ZIP CRC PASS, 75 original topic PDFs byte-identical to Cycle29, 75 readiness JSON, 78 HTML, 476 static links and 686 DOM fragments zero broken, 64 SPA hash routes excluded, 12/12 Topic3 manifest hashes PASS, corrected 32-page PDF SHA match. All 32 pages contact-sheet inspected; pages18 and32 full resolution; full accessibility/public browser not certified.",
-  "next_action": "R1 2024 syllabus correspondence PASS; remaining 26 MCQ keys/78 distractors, six mains, case-law audit, browser/accessibility and downloaded postrender artifact QA outstanding.",
+  "evidence": [
+    "27 Oct Cycle30: actual 10 concepts, 25 original MCQs, six mains inspected. Added substantive Article171 forty-member minimum proviso vs one-third Council ceiling and separate Art164 ministry 17 maximum; revised Q13 in detailed notes, integrated master and offline HTML; five limited author-side source correspondences Q5/Q12/Q13/Q14/Q23. No independent distractor, mains, R1, accessibility or PDF synchronization certification. GitHub CI renderer run 40452135732 SUCCESS, 33-page searchable integrated PDF, SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; page18 330 chars and page33 490 chars require layout review; post-render downloaded archive and browser accessibility NOT verified. Cycle30 correction: contact-sheet page18 orphan visual heading identified in initial 33-page render; renderer PageBreak removed, rerender run 40452389432 SUCCESS, now 32 searchable pages SHA256 bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05. Actual final post-render artifact download pending. Final GitHub packaging run 40452521425 SUCCESS, artifact 12711190435 actually downloaded: 1553 inner files, outer/inner ZIP CRC PASS, 75 original topic PDFs byte-identical to Cycle29, 75 readiness JSON, 78 HTML, 476 static links and 686 DOM fragments zero broken, 64 SPA hash routes excluded, 12/12 Topic3 manifest hashes PASS, corrected 32-page PDF SHA match. All 32 pages contact-sheet inspected; pages18 and32 full resolution; full accessibility/public browser not certified.",
+    "project-control/academic-readiness/3-2-3-cycle188-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+  ],
+  "next_action": "R1 PASS; actual 34-page CI PDF and artifact13161829055 SHA/CRC/75 originals/75 readiness/634 links/1581 fragments PASS. Post-evidence package pending. Remaining 26 keys/78 distractors, six mains, browser accessibility and independent review.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -112,9 +115,15 @@
     "original_mcqs_preserved": 30,
     "mains_preserved": 6,
     "source_evidence": "project-control/academic-readiness/3-2-3-cycle188-r1-four-mcq-source-audit-2026-11-02.json",
-    "ci_pdf": "PENDING",
-    "downloaded_artifact_qa": "PENDING",
+    "ci_pdf": "SUCCESS_34_PAGES",
+    "downloaded_artifact_qa": "VERIFIED_13161829055",
     "independent_approvals": 0,
-    "r9": "NOT_STARTED"
+    "r9": "NOT_STARTED",
+    "renderer_run": 41486814148,
+    "packaging_run": 41486955573,
+    "pdf_sha256": "3a0a6b54412dd243fda10f370f01a6c4a6d589bfe734e4dab5c48348937aceaa",
+    "artifact_sha256": "12a97245a2fdef4a8ece60d77d233cbd6e9d8c7f76c80b4542e4ca750f545f6e",
+    "qa_evidence": "project-control/academic-readiness/3-2-3-cycle188-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+    "post_evidence_package": "PENDING"
   }
 }
