@@ -6,10 +6,10 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5 Cycle171: eight remaining MCQs source-correlated, 25/25 author-side; 25-page actual GitHub PDF and post-control artifact 13106134868 downloaded verified SHA/CRC/75 original PDFs/75 readiness/links PASS; 0 approvals.",
+    "last_reported_topic": "2-3-5 Cycle172: six mains claim-level author-side audit; renderer footer-only page defect corrected, final post-fix artifact QA pending; zero academic approvals.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
-    "note": "Cycle171 actual downloaded post-control artifact: 2240 files, 75 unchanged original PDFs, 75 readiness JSON, 92 HTML, 592 local links and 1581 fragments zero broken, 14 normalized R1 PASS, 7/68/0 statuses, zero R1-R8 ready and approvals. QA evidence commit postdates archive.",
+    "note": "Cycle172 first downloaded artifact 13108064686 verified ZIP/75 originals but page26 was footer-only; renderer PR333 fixed, run 41369693412 success. Final package must be downloaded and independently checked. Status 7/68/0, R1 PASS14, R1-R8 ready0, approvals0.",
     "cycle158": {
       "date": "2026-11-01",
       "topic": "3-1-1",
@@ -343,6 +343,26 @@
       "post_control_packaging": "VERIFIED_PRE_FINAL_QA_COMMIT",
       "postcontrol_artifact_id": 13106134868,
       "postcontrol_artifact_sha256": "1b765ae8924290a4ee02177518fb77596ddb33dda4ee913e1932df3d9d608e19"
+    },
+    "cycle172": {
+      "date": "2026-11-02",
+      "topic": "2-3-5",
+      "six_mains_body_counts": [
+        247,
+        250,
+        242,
+        234,
+        222,
+        250
+      ],
+      "claim_audit": "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json",
+      "first_artifact_id": 13108064686,
+      "first_artifact_footer_only_page": 26,
+      "renderer_fix_pr": 333,
+      "renderer_ci_success": 41369693412,
+      "post_fix_actual_artifact_qa": "PENDING",
+      "fully_ready": 0,
+      "independent_approvals": 0
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
