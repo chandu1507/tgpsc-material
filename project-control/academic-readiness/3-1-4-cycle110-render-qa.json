@@ -1,8 +1,8 @@
 {
   "file": "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.pdf",
-  "pages": 19,
-  "sha256": "e58838b8d598d94ed19607256ba741c393d39272f5e9154a1376f6cea5d46d2a",
-  "pdf_text_words": 8546,
+  "pages": 20,
+  "sha256": "f9e3628717bf9ffab05ca4424dd8f70aa27335de0a5113b186dd5a105c734cf2",
+  "pdf_text_words": 8907,
   "page_text_lengths": [
     4433,
     4940,
@@ -16,18 +16,19 @@
     2198,
     2120,
     1947,
-    1852,
+    2565,
     2758,
-    1941,
-    3011,
-    3194,
-    2814,
-    3060
+    2311,
+    3144,
+    3009,
+    2963,
+    2907,
+    1469
   ],
   "embedded_vector_diagrams": [
     "01",
     "02"
   ],
-  "total_pdf_vector_drawing_paths": 63,
+  "total_pdf_vector_drawing_paths": 64,
   "pages_with_no_text": []
 }
