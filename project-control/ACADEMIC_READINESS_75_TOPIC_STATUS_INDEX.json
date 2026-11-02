@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle178 Topic3-1-3 official syllabus 16/16 R1 PASS; normalized R1 PASS15. Renderer 41403005107 SUCCESS; packaging 41403005090 SUCCESS, actual artifact13122367208 downloaded SHA/CRC/75 unchanged original PDFs/75 readiness/634 local links/1581 DOM fragments PASS; 43-page PDF SHA dad258bd31c99a0abc7fbe35f8768c446e5ad439c70768ed6be430ece70f36cd. Two sparse continuation pages remain. QA evidence commit postdates artifact; post-evidence package/download pending. 7 IN_PROGRESS/68 REBUILD/0 NOT_ASSESSED; fully ready0, approvals0.",
+  "warning": "Cycle179 Topic3-1-4 historical 1979 migrant law corrected to OSH Code 2020 (effective 21 Nov 2025) across five editable files; original practice MCQ23 key C and 3 distractors author-side checked. GitHub PDF19p and downloaded artifact13125387735 SHA/CRC/75 originals/75 readiness/592 local paths/1581 fragments PASS. QA evidence commit postdates inspected artifact; post-evidence package/download pending. R1 PASS remains15/75; statuses7/68/0; fully ready0; independent approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-02 Cycle178: Topic3-1-3 R1 PASS; actual GitHub 43-page PDF and downloaded archive QA verified; post-evidence package pending.",
+  "last_readiness_update": "2026-11-02 Cycle179: 3-1-4 current-law source audit; no R1-R8 promotion.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -181,6 +181,7 @@
   ],
   "verified_R1_pass_count": 15,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-3-cycle178-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-3-cycle178-official-r1-and-current-law-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-2-cycle176-actual-downloaded-artifact-qa-2026-11-02.json",
