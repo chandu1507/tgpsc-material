@@ -17,7 +17,10 @@ md=header+'\n\n'.join((SRC/p).read_text(encoding='utf-8') for p in parts)
 # Keep the 26 older single-line A/B/C/D option sets readable in the integrated
 # HTML/PDF without modifying their preserved original practice source files.
 # Markdown hard line breaks are interpreted by both mistune and the PDF AST renderer.
-option_line = re.compile(r'(?m)^A\\. [^\\n]+?  B\\. [^\\n]+?  C\\. [^\\n]+?  D\\. [^\\n]+
+option_line = re.compile(r'(?m)^A\. [^\n]+?  B\. [^\n]+?  C\. [^\n]+?  D\. [^\n]+$')
+matches = option_line.findall(md)
+assert len(matches)==26, f'Expected 26 legacy run-on option sets; got {len(matches)}'
+md=option_line.sub(lambda m: re.sub(r'  (?=[BCD]\. )', '  \n', m.group(0)), md)
 (SRC/'complete-notes.md').write_text(md,encoding='utf-8')
 # offline HTML
 htmlbody=mistune.create_markdown(plugins=['table','strikethrough'])(md)
