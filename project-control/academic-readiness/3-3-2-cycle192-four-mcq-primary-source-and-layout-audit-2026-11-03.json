@@ -1,0 +1,131 @@
+{
+  "topic_id": "3-3-2",
+  "cycle": 192,
+  "date": "2026-11-03",
+  "status": "AUTHOR_SIDE_BOUNDED_CHECK_ONLY",
+  "source_main_before": "1c33483719064efc14f43ecc31bb432453902c22",
+  "original_topics_expected": 75,
+  "original_pdfs_expected": 75,
+  "original_topic_pdf_sha256_expected": "93d0838f191cfc88cdce8838ee2e1f6d1bbaec4739c8f46f0428928230a3aa24",
+  "source_documents": [
+    {
+      "id": "S23",
+      "owner": "Ministry of Panchayati Raj, Government of India",
+      "url": "https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/02/2023021550.pdf",
+      "checked": "Articles 243A,243G,243I,243K in official Part IX extract",
+      "access": "PDF text directly inspected"
+    },
+    {
+      "id": "S24",
+      "owner": "Legislative Department, Ministry of Law and Justice",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/8e3828fa91baa94f3aaa74cdc4152cf2.pdf",
+      "checked": "74th Amendment text Articles 243W,243X,243Y,243ZA; Twelfth Schedule 18 items",
+      "access": "PDF text directly inspected"
+    },
+    {
+      "id": "S25",
+      "owner": "Ministry of Panchayati Raj, Government of India",
+      "url": "https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/02/2023021533.pdf",
+      "checked": "Eleventh Schedule 29 items, linked to Article 243G",
+      "access": "PDF text directly inspected"
+    }
+  ],
+  "questions": [
+    {
+      "n": 5,
+      "key": "A",
+      "option_checks": {
+        "A": "PASS: Article 243A leaves Gram Sabha functions to State law",
+        "B": "REJECT: 243G concerns Panchayat devolution; not automatic Gram Sabha vesting",
+        "C": "REJECT: 243K gives Panchayat election oversight to SEC",
+        "D": "REJECT: 243I establishes Governor-constituted SFC"
+      }
+    },
+    {
+      "n": 6,
+      "key": "C",
+      "option_checks": {
+        "A": "REJECT: reverses Articles 243G and 243W",
+        "B": "REJECT: reverses 29/18 schedule subject counts",
+        "C": "PASS: Eleventh 29/243G and Twelfth 18/243W",
+        "D": "REJECT: Article 243X concerns municipal taxes, not schedule functions"
+      }
+    },
+    {
+      "n": 9,
+      "key": "D",
+      "option_checks": {
+        "A": "REJECT: 243W requires State-law endowment, not automatic vesting",
+        "B": "REJECT: 243Y concerns municipal finance review",
+        "C": "REJECT: 243X is taxation; 243W concerns municipal functions",
+        "D": "PASS: State Legislature may by law endow municipalities with functions"
+      }
+    },
+    {
+      "n": 13,
+      "key": "A",
+      "option_checks": {
+        "A": "PASS: Article 243I SFC also reviews municipal finances under 243Y",
+        "B": "REJECT: Article 280 Union Finance Commission is distinct",
+        "C": "REJECT: 243K concerns State Election Commission",
+        "D": "REJECT: 243ZA municipal elections are under SEC"
+      }
+    }
+  ],
+  "question_ids_modified": [
+    5,
+    6,
+    9,
+    13
+  ],
+  "verified_options": 16,
+  "original_mcqs_preserved": 30,
+  "original_mains_preserved": 6,
+  "expected_answer_distribution": {
+    "A": 8,
+    "B": 7,
+    "C": 8,
+    "D": 7
+  },
+  "local_candidate_qa": {
+    "pdf_pages": 43,
+    "options_rendered_as_separate_lines": true,
+    "visual_pages_inspected": [
+      30
+    ],
+    "blank_pages": 0,
+    "out_of_bounds_text_blocks": 0,
+    "source_register_entries": 25,
+    "html_title_corrected_to": "P3 U3 T2",
+    "manifest_note_corrected_to": "3-3-2",
+    "note": "Local candidate is not the actual GitHub Actions artifact"
+  },
+  "publication_qa": {
+    "ci_pdf": "PENDING",
+    "actual_github_actions_artifact_download": "PENDING",
+    "outer_inner_zip_crc": "PENDING",
+    "manifest_hashes": "PENDING",
+    "links_and_fragments": "PENDING"
+  },
+  "gates": {
+    "R1": "IN_PROGRESS",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "independent_expert_approvals": 0,
+  "fully_R1_R8_ready": 0,
+  "limitations": [
+    "Remaining 26 MCQ keys and 78 distractors not independently audited",
+    "Six mains not claim-level verified in this cycle",
+    "2024 Commission-hosted syllabus PDF direct authenticity unresolved",
+    "Current Telangana local-government statutes and amendments not fully checked",
+    "Browser and screen-reader QA not certified",
+    "Not official TGPSC PYQs"
+  ]
+}
