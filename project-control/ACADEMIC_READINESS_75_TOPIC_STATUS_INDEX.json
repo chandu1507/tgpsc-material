@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "total_topics": 75,
   "pilot_in_progress": [
     "2-2-4",
@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle189 Topic3-2-4 Q1–Q4 author-side 16 option checks; 36-page CI PDF; manifest hash repair PR373. Actual artifact13166561604 downloaded: SHA/CRC/75 unchanged originals/75 readiness/92 HTML/592 local links/1581 fragments/33 manifest hashes PASS. Normalized R1 PASS20; fully R1–R8 ready0, independent approvals0. Post-evidence package pending.",
+  "warning": "Cycle190 Topic3-2-5 Q5–Q8 source-checked and option layout corrected, actual artifact13169858354 downloaded SHA/CRC/75 originals/75 readiness/92 HTML/634 links/1581 fragments/33 manifest entries PASS. R1 moved NOT_STARTED→IN_PROGRESS, not PASS; normalized R1 PASS20; full ready0, approvals0. Post-evidence package pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle189 Topic3-2-4 Q1–Q4 author-side 16 option checks; 36-page CI PDF; manifest hash repair PR373. Actual artifact13166561604 downloaded: SHA/CRC/75 unchanged originals/75 readiness/92 HTML/592 local links/1581 fragments/33 manifest hashes PASS. Normalized R1 PASS20; fully R1–R8 ready0, independent approvals0. Post-evidence package pending.",
+  "last_readiness_update": "Cycle190 Topic3-2-5 Q5–Q8 source-checked and option layout corrected, actual artifact13169858354 downloaded SHA/CRC/75 originals/75 readiness/92 HTML/634 links/1581 fragments/33 manifest entries PASS. R1 moved NOT_STARTED→IN_PROGRESS, not PASS; normalized R1 PASS20; full ready0, approvals0. Post-evidence package pending.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -186,6 +186,7 @@
   ],
   "verified_R1_pass_count": 20,
   "recent_evidence": [
+    "project-control/academic-readiness/3-2-5-cycle190-actual-downloaded-postlayout-artifact-qa-2026-11-03.json",
     "project-control/academic-readiness/3-2-4-cycle189-actual-downloaded-manifest-repaired-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-2-4-cycle189-four-mcq-primary-source-audit-2026-11-02.json",
     "project-control/academic-readiness/3-2-3-cycle188-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
