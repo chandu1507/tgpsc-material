@@ -2,33 +2,33 @@
 
 **All 30 questions below are newly written practice questions. They are NOT verified official TGPSC previous-year questions.** Each explanation identifies the controlling distinction.
 
-### Q1. Which constitutional arrangement best describes India's judiciary?
-A. Separate federal and State supreme courts with unrelated precedents  
-B. District courts directly administered by Parliament  
-C. Only tribunals below the Supreme Court  
-D. An integrated hierarchy headed by the Supreme Court  
-**Answer: D.** India has an integrated judicial structure. High Courts and subordinate courts remain institutionally significant, and the Supreme Court's law declared binds courts under Article 141.
+### Q1. Which proposition follows from Article 141 in India's integrated judicial system?
+A. Supreme Court law declared binds High Courts but never district courts.  
+B. Supreme Court law declared binds only the parties to the particular case.  
+C. High Courts may disregard Supreme Court law declared whenever a State statute is involved.  
+D. The law declared by the Supreme Court binds all courts within the territory of India.  
+**Answer: D.** Article 141 states the rule in D [S17]. A incorrectly excludes subordinate courts; B confuses binding precedent with the binding effect of a case's operative order; C invents an exception for State legislation. The integrated hierarchy does not abolish the distinct constitutional powers of High Courts.
 
-### Q2. Article 50 primarily concerns:
-A. Abolition of the Supreme Court  
-B. Removal of judges by governors  
-C. Election of district judges  
-D. Separation of judiciary from executive in public services  
-**Answer: D.** Article 50 is a Directive Principle; it is not an independent fundamental-rights petition route.
+### Q2. Article 50 directs the State to take steps to:
+A. Separate the judiciary from the legislature in public services.  
+B. Vest all judicial appointments exclusively in the State Public Service Commission.  
+C. Convert separation of the judiciary into a directly enforceable Article 32 fundamental right.  
+D. Separate the judiciary from the executive in the public services of the State.  
+**Answer: D.** Article 50 expressly refers to separation from the executive in the public services of the State and is located among the Directive Principles [S17]. A substitutes the legislature; B incorrectly displaces the constitutional appointment procedures in Articles 233–234; C incorrectly treats a Directive Principle as an independently enforceable Part III right.
 
-### Q3. Which statement correctly compares Articles 32 and 226?
-A. Both are restricted to disputes among States  
-B. Article 32 reaches every legal right; Article 226 only fundamental rights  
-C. Article 226 can enforce fundamental and other legal rights  
-D. Article 226 is exercised only by the Supreme Court  
-**Answer: C.** Article 32 protects fundamental rights in the Supreme Court; Article 226 gives High Courts a wider subject-matter writ jurisdiction.
+### Q3. A public authority violates a statutory legal right that is not itself a fundamental right. Which statement correctly compares Articles 32 and 226?
+A. Article 32 guarantees Supreme Court writ relief for every statutory legal right.  
+B. Article 226 allows High Court writs only for fundamental-rights violations.  
+C. Article 226 extends to fundamental rights and other legal purposes, while Article 32 guarantees Supreme Court remedies for Part III rights.  
+D. Article 226 is a writ power exercised only by the Supreme Court.  
+**Answer: C.** Article 226 empowers High Courts to issue writs for Part III rights and "for any other purpose"; Article 32 guarantees Supreme Court remedies for enforcement of Part III rights [S17; S18]. A overstates Article 32; B omits Article 226's additional purpose; D names the wrong court. A statutory right alone does not guarantee writ relief irrespective of maintainability or alternative-remedy principles.
 
-### Q4. The writ principally directed at testing unlawful detention is:
-A. Quo warranto  
+### Q4. A person is held in custody without lawful authority. Which writ specifically calls for justification of that detention?
+A. Mandamus  
 B. Certiorari  
 C. Habeas corpus  
-D. Prohibition  
-**Answer: C.** Habeas corpus challenges the legality of custody; it is distinct from a general statutory appeal.
+D. Quo warranto  
+**Answer: C.** Habeas corpus tests the legal justification for custody and can secure release from unlawful detention [S18; S19]. Mandamus generally commands performance of a public duty; certiorari reviews and quashes jurisdictionally or legally defective decisions; quo warranto challenges a person's legal authority to hold a public office. Those writs are not the specifically directed remedy for unlawful detention.
 
 ### Q5. A tribunal is about to decide a matter outside its jurisdiction. Which writ is most directly preventive?
 A. Prohibition  
