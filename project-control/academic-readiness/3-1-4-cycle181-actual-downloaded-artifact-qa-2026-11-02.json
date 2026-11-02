@@ -1,0 +1,63 @@
+{
+  "cycle": 181,
+  "date": "2026-11-02",
+  "topic_id": "3-1-4",
+  "status": "ACTUAL_DOWNLOADED_GITHUB_ARTIFACT_VERIFIED",
+  "run_id": 41424652231,
+  "artifact_id": 13130419970,
+  "archive_sha256": "6689181ea7f3792cfa25b348b1115f3321eca0cd82c91c1038a62be142d86e64",
+  "github_artifact_digest_match": true,
+  "outer_crc": "PASS",
+  "inner_crc": "PASS",
+  "packaged_files": 2261,
+  "original_topic_pdfs": 75,
+  "original_pdfs_sha256_match_cycle180": true,
+  "original_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "readiness_json": 75,
+  "html_pages": 92,
+  "local_file_refs_checked": 592,
+  "broken_local_files": 0,
+  "dom_fragments_checked": 1581,
+  "broken_dom_fragments": 0,
+  "spa_routes_excluded": 42,
+  "topic_3_1_4_pdf_pages": 20,
+  "topic_3_1_4_pdf_sha256": "f9e3628717bf9ffab05ca4424dd8f70aa27335de0a5113b186dd5a105c734cf2",
+  "blank_footer_only_pages": 0,
+  "nul_or_replacement_pages": 0,
+  "visual_page_inspection": [
+    15
+  ],
+  "mcq_count": 30,
+  "mains_count": 6,
+  "edited_questions": [
+    19,
+    27,
+    28,
+    29
+  ],
+  "answer_keys": [
+    "C",
+    "A",
+    "B",
+    "A"
+  ],
+  "editable_blocks_synchronized_in_three_sources": true,
+  "author_side_checked_keys_this_cycle": 4,
+  "author_side_checked_distractors_this_cycle": 12,
+  "academic_status": {
+    "in_progress": 7,
+    "assessed_rebuild_required": 68,
+    "not_assessed": 0,
+    "R1_PASS": 16,
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED"
+  },
+  "limits": [
+    "No full browser/screen reader accessibility certification",
+    "No independent academic review",
+    "Article 17 cross-check did not entail page-level inspection of WIPO-hosted constitutional PDF",
+    "CI PDF cross-environment bit reproducibility unproven",
+    "Post-QA evidence commit will postdate this inspected archive; require final packaging and actual download"
+  ]
+}
