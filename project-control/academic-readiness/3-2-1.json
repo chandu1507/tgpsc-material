@@ -30,9 +30,10 @@
     "project-control/academic-readiness/3-2-1-cycle28-constitutional-mcq-and-objective-audit-2026-10-27.json",
     "project-control/academic-readiness/3-2-1-cycle112-constitutional-arithmetic-and-ci-evidence-2026-10-30.json",
     "project-control/academic-readiness/3-2-1-cycle112-actual-downloaded-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/3-2-1-cycle186-r1-and-four-mcq-source-check-2026-11-02.json"
+    "project-control/academic-readiness/3-2-1-cycle186-r1-and-four-mcq-source-check-2026-11-02.json",
+    "project-control/academic-readiness/3-2-1-cycle186-downloaded-publication-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Render coherent updated master/PDF, download and independently inspect final Actions artifact; audit remaining 26 MCQs/78 distractors and six mains; no R2-R8 promotion.",
+  "next_action": "Independent 26 remaining MCQ keys/78 distractors, six mains claims, diagram and browser/accessibility QA; R2-R8 still unapproved.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -97,8 +98,11 @@
     ],
     "options_checked": 16,
     "academic_approvals": 0,
-    "ci_pdf": "PENDING",
-    "artifact_qa": "PENDING",
-    "source_authentication_limit": "2024 Commission-issued notification hosted copy; official Commission URL HTTP 403"
+    "ci_pdf": "SUCCESS_24_PAGES",
+    "artifact_qa": "ACTUALLY_DOWNLOADED_SHA_CRC_75_ORIGINALS_LINKS_PASS",
+    "source_authentication_limit": "2024 Commission-issued notification hosted copy; official Commission URL HTTP 403",
+    "artifact_id": 13153467719,
+    "artifact_sha256": "4fec1360d176b3ee13b666997a65b052a8ad7d78a5bae990ecf883f32f11a4b3",
+    "pdf_sha256": "f95e32616f4833631af1070f80de69e86c8a3ab20c9ddb54f5b53e0ca6159d2d"
   }
 }
