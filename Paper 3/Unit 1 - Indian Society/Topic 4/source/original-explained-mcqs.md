@@ -110,8 +110,8 @@ D. Number of pipes installed alone
 A. Section 5 of the Right of Children to Free and Compulsory Education Act, 2009
 B. Section 13 of the Prohibition of Child Marriage Act, 2006
 C. Section 4 of the Bonded Labour System (Abolition) Act, 1976
-D. Section 17 of the Constitution of India
-**Answer: B.** Section 13 of the Prohibition of Child Marriage Act (PCMA) authorises a Judicial Magistrate of the first class or Metropolitan Magistrate, on the prescribed information and satisfaction, to prohibit an arranged or imminent child marriage by injunction. A concerns school transfers under the RTE Act, not marriage injunctions; C abolishes bonded labour, not child marriage; D is not a constitutional Article (Article 17, without 'Section', abolishes untouchability). This is a statutory power, not evidence that any specific injunction was granted. Source C183-1, India Code PCMA sections 13–14. Original practice question, NOT an official TGPSC PYQ.
+D. Article 17 of the Constitution of India
+**Answer: B.** Section 13 of the Prohibition of Child Marriage Act (PCMA) authorises a Judicial Magistrate of the first class or Metropolitan Magistrate, on the prescribed information and satisfaction, to prohibit an arranged or imminent child marriage by injunction. A concerns school transfers under the RTE Act, not marriage injunctions; C abolishes bonded labour, not child marriage; D is the constitutional abolition of untouchability, not the PCMA injunction power. This is a statutory power, not evidence that any specific injunction was granted. Source C183-1, India Code PCMA sections 13–14. Original practice question, NOT an official TGPSC PYQ.
 
 ## 17. Under the central Prohibition of Child Marriage Act, 2006, which statement correctly distinguishes voidable and void marriages?
 A. Every child marriage is automatically void from solemnisation solely because one party is below the statutory age.
