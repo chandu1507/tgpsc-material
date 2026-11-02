@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-03",
+  "topic_id": "3-3-4",
+  "cycle": 194,
+  "source_commit": "ebcc45a1eb88d01b19e7a22949c4225ee85b2ddc",
+  "scope": "Four existing original practice MCQs Q6/Q19/Q20/Q21 revised in place; 4 keys and 12 distractors checked author-side against Legislative Department Constitution and MCA General Circular 14/2021; NOT independent expert verification.",
+  "mcqs": [
+    6,
+    19,
+    20,
+    21
+  ],
+  "keys": {
+    "Q6": "B",
+    "Q19": "B",
+    "Q20": "C",
+    "Q21": "C"
+  },
+  "sources": [
+    {
+      "issuer": "Legislative Department",
+      "url": "https://www.legislative.gov.in/documents",
+      "provisions": "Articles 243G/243W; Eleventh and Twelfth Schedules"
+    },
+    {
+      "issuer": "Ministry of Corporate Affairs",
+      "url": "https://www.mca.gov.in/Ministry/pdf/FAQ_CSR.pdf",
+      "document": "General Circular 14/2021 dated 25 August 2021",
+      "faq": [
+        "1.1",
+        "1.4",
+        "2.3",
+        "3.1",
+        "4.1"
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "pr": 386,
+      "scope": "4 MCQ revisions, source register S22, audit in integrated master"
+    },
+    {
+      "pr": 387,
+      "scope": "separate 26 run-on four-option sets in PDF/HTML"
+    },
+    {
+      "pr": 388,
+      "scope": "KeepTogether to prevent Q10/Q20 answers crossing page breaks"
+    }
+  ],
+  "ci_renderer": {
+    "run": 41534285229,
+    "render_commit": "4831f8239622e58f7d1567a39cbd8afdae8ae05b",
+    "render_step": "SUCCESS",
+    "full_workflow_conclusion": "PENDING_AT_AUDIT_CREATION"
+  },
+  "previous_downloaded_artifact": {
+    "artifact_id": 13183082429,
+    "sha256": "327be0b50865a612dffeb3544369455b1208121077384ee95bb2a6148a9e9ed6",
+    "outer_inner_crc": "PASS",
+    "original_topic_pdfs_unchanged": 75,
+    "readiness_json": 75,
+    "html_pages": 92,
+    "local_file_links_broken": 0,
+    "fragment_links_broken": 0,
+    "topic_pdf_pages": 41,
+    "defects_found": [
+      "Q10 answer split onto next page",
+      "Q20 answer split onto next page"
+    ],
+    "not_final_after_PR388": true
+  },
+  "current_final_post_PR388_artifact": "PENDING_DOWNLOAD_AND_INDEPENDENT_QA",
+  "readiness": {
+    "total_topics": 75,
+    "statuses": {
+      "IN_PROGRESS": 7,
+      "ASSESSED_REBUILD_REQUIRED": 68,
+      "NOT_ASSESSED": 0
+    },
+    "r1_pass_normalized": 20,
+    "fully_R1_to_R8_ready": 0,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED"
+  },
+  "disclaimer": "No authenticated official PYQs; original 75 topic PDFs preserved. Direct browser accessibility and named expert approval not certified."
+}
