@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-2 Cycle177: concepts21/23 expanded 181→553 and 184→565; 0/23 under300 mechanical only. CI/actual artifact QA pending, approvals0.",
+    "last_reported_topic": "3-1-2 Cycle177: concepts21/23 553/565 words; actual GitHub PDF45p, artifact13119916312 SHA/CRC/75 originals/75 readiness/links PASS; evidence commit postdates archive; approvals0.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -474,8 +474,8 @@
       "original_pdfs_preserved_expected": 75,
       "readiness_json_expected": 75,
       "independent_approvals": 0,
-      "ci": "PENDING",
-      "actual_artifact_qa": "PENDING"
+      "ci": "SUCCESS_45_PAGE_ACTUAL_GITHUB",
+      "actual_artifact_qa": "VERIFIED_13119916312"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
