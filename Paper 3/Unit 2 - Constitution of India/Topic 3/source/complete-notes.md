@@ -5,6 +5,9 @@
 
 ## Exact syllabus map
 
+**2 November 2026 evidence update (R1 syllabus correspondence):** The contemporaneous copy of Commission-issued Notification 02/2024, Annexure II, printed page 30 (PDF index 29), was visually inspected. Its seven clause groups map to Concepts 1–9 below: parliamentary system (1), President (2), Prime Minister and Council (3), Parliament (4–5), Governor (6), Chief Minister and Council (7), state legislature (8), legislative privileges (9). **R1 PASS means 2024 syllabus correspondence only**, not legal accuracy, R2–R8 completion or independent academic approval. The Commission-hosted file returned HTTP 403; byte identity with the hosted copy was not established. Original practice Q1–Q4 received bounded checks of four keys and twelve distractors against the Legislative Department's Constitution (as at 11 November 2025), Articles 54, 66, 74, 75, 108 and 164. No official PYQ authentication is claimed. See [S14] and the dated source audit.
+
+
 **Authority:** Telangana State Public Service Commission, Group-I Services Notification No. 02/2024, dated 19 February 2024, Annexure II, Paper III — Indian Society, Constitution and Governance, II. Constitution of India, item 3. Official notification: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v
 
 **Exact syllabus wording:** System of Government: Parliamentary system, Central Government: President, Prime Minister & Council of Ministers; Parliament: Powers and Functions; State Government: Governor, Chief Minister & Council of Ministers; Legislature: Powers and Functions, Legislative Privileges.
@@ -431,28 +434,28 @@ A. Rajya Sabha
 B. Lok Sabha  
 C. Joint sitting of both Houses  
 D. President acting alone  
-**Answer: B.** Article 75(3) makes the Union Council collectively responsible to the Lok Sabha. Rajya Sabha can scrutinise and criticise but cannot constitutionally remove the ministry through no-confidence.
+**Answer: B.** Article 75(3) makes the Union Council collectively responsible to the Lok Sabha, so B is correct. A is wrong because Rajya Sabha can question the ministry but cannot withdraw the confidence constitutionally required from Lok Sabha. C is wrong because an Article 108 joint sitting resolves specified legislative deadlocks, not ministerial confidence. D is wrong because the President is the constitutional head, not an independently voting house empowered to remove a ministry through a no-confidence motion. [S14]
 
 ### Q2. Which of the following is *not* included in the President's electoral college?
 A. Elected Lok Sabha members  
 B. Elected Rajya Sabha members  
 C. Elected members of Telangana Legislative Assembly  
 D. Elected members of Telangana Legislative Council  
-**Answer: D.** Article 54 includes elected members of Parliament and of specified Legislative Assemblies, not MLCs; nominated MPs also do not vote in this election.
+**Answer: D.** Article 54 includes elected members of both Houses of Parliament (A and B) and elected members of state Legislative Assemblies, including Telangana (C). It does not include elected state Legislative Council members (D, the correct exclusion). Nominated MPs are also outside the Article 54 college; do not confuse this election with the Vice-President election under Article 66. [S14]
 
 ### Q3. A President returns the Council of Ministers' advice for reconsideration under Article 74. The Council reiterates it. The President must:
 A. Call a national referendum  
 B. Refer it automatically to the Supreme Court  
 C. Act in accordance with the reconsidered advice  
 D. Dismiss the Council  
-**Answer: C.** The Forty-fourth Amendment's proviso permits reconsideration once, not an unlimited personal veto over ministerial advice.
+**Answer: C.** Under the proviso to Article 74(1), the President may seek reconsideration, but must act on the advice tendered after reconsideration; C is correct. A is wrong because Article 74 creates no referendum mechanism. B is wrong because no automatic Supreme Court reference is prescribed for reiterated advice. D is wrong because disagreement with reiterated advice does not itself authorise dismissal of the Council. This is distinct from exceptional situations involving loss of Lok Sabha confidence. [S14]
 
 ### Q4. A person appointed Union minister without membership of either House must normally obtain membership within:
 A. Three months  
 B. Six months  
 C. One year  
 D. The full Lok Sabha term  
-**Answer: B.** Article 75(5) specifies six months; Article 164(4) contains the corresponding state rule.
+**Answer: B.** Article 75(5) makes a Union minister cease to hold office after six consecutive months without membership of either House, so B is correct. A and C invent three-month and one-year periods not found in that clause; D incorrectly ties the deadline to the full Lok Sabha term, even though Rajya Sabha membership also qualifies. Article 164(4) contains the analogous state-legislature rule. [S14]
 
 ### Q5. With 119 members in the Telangana Assembly, what is the maximum size of its Council of Ministers including the Chief Minister under Article 164(1A)?
 A. 12  
@@ -721,7 +724,7 @@ D. A Bill that, in the Governor's opinion, would so derogate from High Court pow
 
 | Code | Authority and document | URL | Used for / internal check |
 |---|---|---|---|
-| S1 | Telangana State Public Service Commission, Group-I Notification 02/2024, Annexure II | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | Exact Paper III / II / item 3 syllabus, verified directly |
+| S1 | Telangana State Public Service Commission, Group-I Notification 02/2024, Annexure II | https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v | 2024 text matched to contemporaneous copy; Commission-hosted file HTTP 403, byte identity unverified |
 | S2 | Government of India, Legislative Department, Constitution of India (consolidated as of 1 May 2024) | https://lddashboard.legislative.gov.in/sites/default/files/coi/COI_2024.pdf | Articles 52–123, 153–213, 245–254, 368 and Tenth Schedule; cross-check wording |
 | S3 | Telangana Government, Legislative Affairs Department | https://www.telangana.gov.in/departments/legislative-affairs/ | State creation date, bicameral structure, Assembly 119 and Council 40 |
 | S4 | Lok Sabha Secretariat, Digital Sansad FAQ | https://sansad.in/ls/faq | Question Hour, Zero Hour, no-confidence procedure, Rule 198 |
@@ -781,3 +784,12 @@ All five are **original practice questions**, not verified official PYQs. Each n
 - Full older-topic cumulative archive cannot be certified without byte access to the 19-topic master and intermediate Topic 5 ZIP; do not infer preservation from filenames alone.
 
 **Academic status:** Expanded draft; **0 topics academically approved**. **Official PYQs verified in this chapter: 0**.
+
+
+## 2 November 2026 — Cycle188 bounded syllabus and constitutional option audit [S14]
+
+**S14a — syllabus:** Telangana State Public Service Commission, Notification 02/2024, 19 February 2024, Annexure II, printed page 30 (PDF index 29), contemporaneous hosted copy: https://www.siasat.com/wp-content/uploads/2024/02/Group-I-detailed-NOTIFICATION_NO_02-2024.pdf . Page image directly inspected on 2 November 2026. Official Commission-hosted URL returned HTTP 403, so the copy's byte identity with the Commission-hosted file was not established. The seven syllabus clause groups correspond to Concepts 1–9. R1 PASS is **correspondence only**.
+
+**S14b — constitutional text:** Government of India, Ministry of Law and Justice, Legislative Department, *Constitution of India*, English–Kannada diglot as on 11 November 2025: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf . Author-side clause inspection: Article 54 (President's electoral college), Article 66 (different Vice-President college), Article 74(1) proviso (reconsidered advice), Article 75(3),(5) (Lok Sabha confidence and six-month membership), Article 108 (joint sittings for bills), Article 164(4) (state minister rule).
+
+**Q1–Q4 bounded checks:** Q1 B (Lok Sabha) and A/C/D rejected by Articles 75(3), 108 and constitutional structure; Q2 D (state Legislative Council members excluded) and A/B/C included under Article 54; Q3 C (act on reiterated advice) and A/B/D rejected under Article 74(1); Q4 B (six months) and A/C/D rejected under Article 75(5). All four explanations now identify the three distractors explicitly in the canonical master, original-MCQ file and offline HTML. These are **16 author-side option checks**, not independent expert verification. All 30 original practice questions and six mains answers retained. No official PYQ labels, no R2–R8 promotion and no independent academic approval.

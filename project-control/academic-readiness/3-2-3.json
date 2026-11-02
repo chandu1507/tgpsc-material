@@ -1,7 +1,7 @@
 {
   "topic_id": "3-2-3",
   "title": "System of Government: Parliament, Union and State Executives and Legislatures",
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "status": "ASSESSED_REBUILD_REQUIRED",
   "academic_status": "NOT_APPROVED",
   "academic_approved": false,
@@ -41,7 +41,7 @@
     "original_pdf_sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24"
   },
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
@@ -51,7 +51,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle30: actual 10 concepts, 25 original MCQs, six mains inspected. Added substantive Article171 forty-member minimum proviso vs one-third Council ceiling and separate Art164 ministry 17 maximum; revised Q13 in detailed notes, integrated master and offline HTML; five limited author-side source correspondences Q5/Q12/Q13/Q14/Q23. No independent distractor, mains, R1, accessibility or PDF synchronization certification. GitHub CI renderer run 40452135732 SUCCESS, 33-page searchable integrated PDF, SHA256 8c51a2bb887f22241ee77fa6538f75ca0948324d4682c8a9778518075aba3c51; page18 330 chars and page33 490 chars require layout review; post-render downloaded archive and browser accessibility NOT verified. Cycle30 correction: contact-sheet page18 orphan visual heading identified in initial 33-page render; renderer PageBreak removed, rerender run 40452389432 SUCCESS, now 32 searchable pages SHA256 bd3dbdeb68611432d3c28c631aa41ffe1471fde38e814fe1de6c900db7104b05. Actual final post-render artifact download pending. Final GitHub packaging run 40452521425 SUCCESS, artifact 12711190435 actually downloaded: 1553 inner files, outer/inner ZIP CRC PASS, 75 original topic PDFs byte-identical to Cycle29, 75 readiness JSON, 78 HTML, 476 static links and 686 DOM fragments zero broken, 64 SPA hash routes excluded, 12/12 Topic3 manifest hashes PASS, corrected 32-page PDF SHA match. All 32 pages contact-sheet inspected; pages18 and32 full resolution; full accessibility/public browser not certified.",
-  "next_action": "Full independent 30-key/90-distractor and six-mains claim-level audit; direct R1; browser accessibility and student HTML synchronization. Final post-evidence package needs separate downloaded artifact verification.",
+  "next_action": "R1 2024 syllabus correspondence PASS; remaining 26 MCQ keys/78 distractors, six mains, case-law audit, browser/accessibility and downloaded postrender artifact QA outstanding.",
   "external_reviewer": null,
   "student_accepted": false,
   "rendered_integrated_pdf": {
@@ -97,5 +97,24 @@
     "qa_evidence": "project-control/academic-readiness/3-2-3-cycle114-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "r8": "IN_PROGRESS",
     "independent_approval": false
+  },
+  "cycle188": {
+    "date": "2026-11-02",
+    "r1": "PASS_2024_SYLLABUS_CORRESPONDENCE_ONLY",
+    "syllabus_clauses_mapped": 7,
+    "mcq_keys_checked": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "mcq_option_checks": 16,
+    "original_mcqs_preserved": 30,
+    "mains_preserved": 6,
+    "source_evidence": "project-control/academic-readiness/3-2-3-cycle188-r1-four-mcq-source-audit-2026-11-02.json",
+    "ci_pdf": "PENDING",
+    "downloaded_artifact_qa": "PENDING",
+    "independent_approvals": 0,
+    "r9": "NOT_STARTED"
   }
 }

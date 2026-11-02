@@ -5,6 +5,9 @@
 
 ## Exact syllabus map
 
+**2 November 2026 evidence update (R1 syllabus correspondence):** The contemporaneous copy of Commission-issued Notification 02/2024, Annexure II, printed page 30 (PDF index 29), was visually inspected. Its seven clause groups map to Concepts 1–9 below: parliamentary system (1), President (2), Prime Minister and Council (3), Parliament (4–5), Governor (6), Chief Minister and Council (7), state legislature (8), legislative privileges (9). **R1 PASS means 2024 syllabus correspondence only**, not legal accuracy, R2–R8 completion or independent academic approval. The Commission-hosted file returned HTTP 403; byte identity with the hosted copy was not established. Original practice Q1–Q4 received bounded checks of four keys and twelve distractors against the Legislative Department's Constitution (as at 11 November 2025), Articles 54, 66, 74, 75, 108 and 164. No official PYQ authentication is claimed. See [S14] and the dated source audit.
+
+
 **Authority:** Telangana State Public Service Commission, Group-I Services Notification No. 02/2024, dated 19 February 2024, Annexure II, Paper III — Indian Society, Constitution and Governance, II. Constitution of India, item 3. Official notification: https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v
 
 **Exact syllabus wording:** System of Government: Parliamentary system, Central Government: President, Prime Minister & Council of Ministers; Parliament: Powers and Functions; State Government: Governor, Chief Minister & Council of Ministers; Legislature: Powers and Functions, Legislative Privileges.

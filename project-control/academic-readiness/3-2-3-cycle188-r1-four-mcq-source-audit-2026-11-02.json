@@ -1,0 +1,92 @@
+{
+  "cycle": 188,
+  "date": "2026-11-02",
+  "topic_id": "3-2-3",
+  "source_main_sha": "2000be828092107bd3e6df881bf9d67271e9b39d",
+  "r1": {
+    "status": "PASS_2024_SYLLABUS_CORRESPONDENCE_ONLY",
+    "official_document": "TGPSC Notification 02/2024, Annexure II, printed p30, Paper III Section II item 3",
+    "copy_url": "https://www.siasat.com/wp-content/uploads/2024/02/Group-I-detailed-NOTIFICATION_NO_02-2024.pdf",
+    "visual_pdf_page_index": 29,
+    "commission_host": "HTTP 403; byte-identical source unverified",
+    "clauses": {
+      "Parliamentary system": "Concept 1",
+      "President": "Concept 2",
+      "Prime Minister and Council": "Concept 3",
+      "Parliament powers/functions": "Concepts 4-5",
+      "Governor": "Concept 6",
+      "Chief Minister and Council": "Concept 7",
+      "State legislature powers/functions and privileges": "Concepts 8-9"
+    },
+    "mapped": 7,
+    "unmapped": 0
+  },
+  "constitution": {
+    "source": "Government of India Legislative Department Constitution as on 11 November 2025",
+    "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "articles": [
+      54,
+      66,
+      74,
+      75,
+      108,
+      164
+    ]
+  },
+  "mcq_audit": [
+    {
+      "q": 1,
+      "key": "B",
+      "checked": 4,
+      "wrong": {
+        "A": "Rajya Sabha does not hold ministry confidence",
+        "C": "Article 108 joint sitting is for bills",
+        "D": "President is not a house holding confidence"
+      }
+    },
+    {
+      "q": 2,
+      "key": "D",
+      "checked": 4,
+      "wrong": {
+        "A": "elected Lok Sabha MPs included",
+        "B": "elected Rajya Sabha MPs included",
+        "C": "elected Telangana MLAs included"
+      }
+    },
+    {
+      "q": 3,
+      "key": "C",
+      "checked": 4,
+      "wrong": {
+        "A": "no Article 74 referendum",
+        "B": "no automatic court referral",
+        "D": "disagreement does not itself dismiss ministry"
+      }
+    },
+    {
+      "q": 4,
+      "key": "B",
+      "checked": 4,
+      "wrong": {
+        "A": "not 3 months",
+        "C": "not one year",
+        "D": "not full Lok Sabha term"
+      }
+    }
+  ],
+  "author_side_keys_checked": 4,
+  "author_side_distractors_checked": 12,
+  "original_mcqs_preserved": 30,
+  "mains_preserved": 6,
+  "original_topic_pdf_sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24",
+  "fully_ready": false,
+  "independent_approvals": 0,
+  "r9": "NOT_STARTED",
+  "limits": [
+    "Remaining 26 keys/78 distractors and six mains need claim-level review",
+    "CI PDF and downloaded postmerge artifact QA pending",
+    "Browser and screen-reader accessibility uncertified",
+    "No authenticated official PYQs"
+  ]
+}
