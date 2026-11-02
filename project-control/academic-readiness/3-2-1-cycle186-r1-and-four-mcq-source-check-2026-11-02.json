@@ -1,0 +1,97 @@
+{
+  "cycle": 186,
+  "date": "2026-11-02",
+  "topic_id": "3-2-1",
+  "source_main_sha": "60757948000af5ac5b750ed762b81ba073c0e9f0",
+  "official_document": "Telangana State Public Service Commission Group-I Notification 02/2024, Annexure II, printed p.30",
+  "source_url": "https://www.siasat.com/wp-content/uploads/2024/02/Group-I-detailed-NOTIFICATION_NO_02-2024.pdf",
+  "source_type": "contemporaneous copy of Commission-issued PDF; printed p30 image directly inspected",
+  "commission_host_access": "HTTP 403; byte identity not authenticated",
+  "syllabus_crosswalk": [
+    [
+      "Evolution of Indian Constitution",
+      "Concepts A,B"
+    ],
+    [
+      "Role of Drafting Committee",
+      "Concept C"
+    ],
+    [
+      "Constitutional Philosophy and Preamble",
+      "Concept D"
+    ],
+    [
+      "Salient features",
+      "Concept E"
+    ],
+    [
+      "Basic Structure",
+      "Concept F"
+    ],
+    [
+      "Amendments",
+      "Concepts G,H"
+    ]
+  ],
+  "mapped": 6,
+  "unmapped": 0,
+  "r1": "PASS_2024_SYLLABUS_CORRESPONDENCE_ONLY",
+  "legal_source": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+  "legal_edition": "11 November 2025 English-Kannada diglot official edition",
+  "mcq_checks": [
+    {
+      "q": 11,
+      "key": "A",
+      "articles": [
+        "1",
+        "3",
+        "14",
+        "368"
+      ],
+      "options_checked": 4
+    },
+    {
+      "q": 12,
+      "key": "C",
+      "articles": [
+        "3"
+      ],
+      "options_checked": 4
+    },
+    {
+      "q": 13,
+      "key": "B",
+      "articles": [
+        "3",
+        "4",
+        "32",
+        "356",
+        "368"
+      ],
+      "options_checked": 4
+    },
+    {
+      "q": 14,
+      "key": "C",
+      "articles": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IVA"
+      ],
+      "options_checked": 4
+    }
+  ],
+  "original_practice_not_official_pyq": true,
+  "r2_r8_promoted": false,
+  "fully_r1_r8_ready": false,
+  "independent_expert_approval": false,
+  "original_topic_pdf_sha256": "15bb89b5882a24ac918f01c358cdb3f907a5d1ebfff5f2ab94d4429b5cba0a21",
+  "limits": [
+    "full 30-key/90-distractor audit pending",
+    "all six mains claim checks pending",
+    "diagram and browser accessibility pending",
+    "new CI PDF and downloaded publication QA pending at source commit"
+  ],
+  "count_scope": 75
+}
