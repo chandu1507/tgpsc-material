@@ -34,9 +34,10 @@
     "project-control/academic-readiness/3-1-4-cycle111-actual-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle179-migrant-worker-current-law-mcq23-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/3-1-4-cycle180-original-2024-r1-mapping-2026-11-02.json"
+    "project-control/academic-readiness/3-1-4-cycle180-original-2024-r1-mapping-2026-11-02.json",
+    "project-control/academic-readiness/3-1-4-cycle180-actual-downloaded-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle180 R1 8/8 syllabus clauses mapped PASS with source provenance caveat; no content master/PDF change. R2-R8 still incomplete, independent approvals0. Postmerge package and actual artifact QA pending.",
+  "next_action": "Cycle180 8/8 R1 mapping PASS, actual postmerge artifact13127633962 downloaded and CRC/SHA/75 originals/75 readiness/links verified. QA evidence commit postdates inspected artifact; final post-evidence package/download required. Independent MCQ/mains/browser review and R2–R8 pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -113,6 +114,8 @@
     "R1": "PASS",
     "all_other_gates_unchanged": true,
     "independent_approvals": 0,
-    "post_merge_artifact_QA": "PENDING"
+    "post_merge_artifact_QA": "PASS_POST_MERGE_BEFORE_EVIDENCE_COMMIT",
+    "actual_downloaded_artifact_id": 13127633962,
+    "artifact_sha256": "9016d0ff4ceff896a5300f1354e0392d4232eb6a7466b831829c6f78ea4867e2"
   }
 }

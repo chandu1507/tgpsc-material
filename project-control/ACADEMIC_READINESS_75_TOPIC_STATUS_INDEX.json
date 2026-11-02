@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle180 R1 3-1-4 8/8 mapped from 2024 original notification (mirror visually inspected, official host live 403; official index corroborates). Normalized R1 PASS16/75, statuses7/68/0, fully ready0, approvals0; no master/PDF bytes changed; postmerge artifact QA pending.",
+  "warning": "Cycle180 3-1-4 R1 mapping 8/8 PASS; artifact13127633962 ACTUALLY DOWNLOADED, CRC/SHA/75 originals/75 readiness/634 local links/1581 fragments PASS. Evidence commit postdates archive; final post-evidence packaging pending. R1 PASS16/75, statuses7/68/0, fully ready0, approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -182,6 +182,7 @@
   ],
   "verified_R1_pass_count": 16,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-4-cycle180-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-3-cycle178-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-3-cycle178-official-r1-and-current-law-audit-2026-11-02.json",

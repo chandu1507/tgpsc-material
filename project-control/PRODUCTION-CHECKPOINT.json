@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-4 Cycle180: original 2024 syllabus R1 mapping 8/8 PASS (official live 403; mirrored original visually inspected); R1 PASS16/75, approvals0; postmerge artifact QA pending.",
+    "last_reported_topic": "3-1-4 Cycle180 R1 8/8 PASS; artifact13127633962 ACTUALLY DOWNLOADED, SHA/CRC/75 original PDFs/75 readiness/links PASS; final post-evidence package pending; approvals0.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -507,7 +507,8 @@
       "R1_pass_total": 16,
       "original_pdfs_expected": 75,
       "independent_approvals": 0,
-      "postmerge_artifact_qa": "PENDING"
+      "postmerge_artifact_qa": "VERIFIED_13127633962",
+      "artifact_sha256": "9016d0ff4ceff896a5300f1354e0392d4232eb6a7466b831829c6f78ea4867e2"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
