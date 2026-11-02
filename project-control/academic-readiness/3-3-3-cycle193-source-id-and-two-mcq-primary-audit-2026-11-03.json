@@ -1,0 +1,97 @@
+{
+  "cycle": "193",
+  "date": "2026-11-03",
+  "topic_id": "3-3-3",
+  "scope": "Author-side bounded primary-source check; not independent certification",
+  "source_identity_defect": {
+    "previous": "Q26–Q30 cited S25, which is a Telangana food-security-card announcement; a later unnumbered note also used S25 for the Constitution",
+    "correction": "Q26–Q30 now cite unique S26 Legislative Department Constitution (as on 1 May 2026)",
+    "questions_repaired": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "historical_S25_preserved": true
+  },
+  "sources": [
+    {
+      "id": "S26",
+      "authority": "Government of India, Legislative Department",
+      "document": "Constitution of India as on 1 May 2026, Part IX, Articles 243A–243H",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf",
+      "checked_articles": [
+        "243A",
+        "243B(2)",
+        "243C(2)",
+        "243D(3)",
+        "243H"
+      ]
+    },
+    {
+      "id": "S27",
+      "authority": "Ministry of Rural Development",
+      "document": "Annual Master Circular 2024–25, Chapter 10 Social Audit",
+      "url": "https://www.dord.gov.in/static/uploads/2024/11/ac56e7f159e31f06e12beb799f206786.pdf",
+      "caveat": "Historical framework, not proof of operative 2026 replacement Act rules"
+    },
+    {
+      "id": "S28",
+      "authority": "Government of Telangana, Panchayat Raj and Rural Development / Peddapalli DRDA",
+      "document": "Stree Nidhi Credit Cooperative Federation institutional description",
+      "url": "https://peddapalli.telangana.gov.in/district-rural-development-agency/"
+    }
+  ],
+  "option_level_checks": [
+    {
+      "question": 6,
+      "key": "B",
+      "source_id": "S27",
+      "options": {
+        "A": "Incorrect: contractor self-certification without community scrutiny is not a social audit",
+        "B": "Correct: records, worksite verification and worker testimony are core social-audit methods",
+        "C": "Incorrect: voucher arithmetic cannot establish whether listed workers actually received wages",
+        "D": "Incorrect: closed implementing-agency review omits public verification and independent facilitation"
+      },
+      "legal_caveat": "2024 MGNREGA method is historical; post-2026 law not verified here"
+    },
+    {
+      "question": 10,
+      "key": "B",
+      "source_id": "S28",
+      "options": {
+        "A": "Incorrect: Stree Nidhi is a credit cooperative, not a tribunal",
+        "B": "Correct: government and Mandal Samakhya-promoted SHG-linked credit federation supplementing bank credit",
+        "C": "Incorrect: municipal property-tax authority is not a Stree Nidhi function",
+        "D": "Incorrect: legislative appropriation scrutiny is not SHG credit provision"
+      },
+      "scope_caveat": "Official institutional description does not prove individual borrowers improved welfare"
+    }
+  ],
+  "checked_correct_keys": 2,
+  "checked_distractors": 6,
+  "references_corrected_without_new_answer_claims": 5,
+  "unchanged_original_practice_mcq_total": 30,
+  "mains_total": 6,
+  "official_pyq_claimed": false,
+  "independent_academic_approvals": 0,
+  "gates": {
+    "R1": "BLOCKED",
+    "R2": "IN_PROGRESS",
+    "R3": "IN_PROGRESS",
+    "R4": "IN_PROGRESS",
+    "R5": "IN_PROGRESS",
+    "R6": "IN_PROGRESS",
+    "R7": "IN_PROGRESS",
+    "R8": "IN_PROGRESS",
+    "R9": "NOT_STARTED"
+  },
+  "limitations": [
+    "Direct Commission-hosted 2024 syllabus PDF not authenticated",
+    "Complete 30-key/90-distractor independent audit not completed",
+    "Six mains not claim-by-claim verified",
+    "Browser and screen-reader accessibility not certified",
+    "No named independent subject expert approval"
+  ]
+}
