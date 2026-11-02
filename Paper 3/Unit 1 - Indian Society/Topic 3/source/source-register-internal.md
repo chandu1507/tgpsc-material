@@ -15,3 +15,11 @@ Status: FACTUAL EDITORIAL REVIEW STILL REQUIRED. Core official sources consulted
 - Relevant conceptual books NCERT Indian Society; NCERT Social Change and Development in India; Sen Development as Freedom; Dreze and Sen An Uncertain Glory; M.N. Srinivas Social Change in Modern India; Cernea on impoverishment risks.
 
 Do NOT silently promote unverified original questions to PYQs. Verify contemporary rates with release date, geography, age range, status definition and numerator/denominator; claim-level review remains incomplete.
+
+### Cycle 178 bounded official-source check (2 November 2026; author-side only)
+
+- **R1:** Directly visually inspected TGPSC Notification 02/2024 Annexure II printed page 30; all 16 Paper III/Unit I/item 3 clauses map to concept sections 2–17. See `project-control/academic-readiness/3-1-3-cycle178-official-r1-and-current-law-audit-2026-11-02.json`. This does not authenticate any subsequent TGPSC syllabus revision.
+- **MCQ 10:** India Code Act 36/2025 and MoRD 11 May 2026 release support the 125-day eligible rural **household** guarantee effective 1 July 2026. A and D confuse household with adult individual; C denies the replacement. Master and legacy original-practice bank use different question wording; both presently key B. This is **not** a claim of complete bank synchronization.
+- **MCQ 17:** NITI Aayog's 2025 Voluntary National Review labels the 11.28% 2022–23 MPI estimate **PROJECTED**, not directly enumerated. A, B and C identify unrelated measures or geography.
+- **MCQ 18:** MoSPI's Time Use Survey 2024 fact sheet, released 25 February 2025, reports unpaid domestic-service participation for persons aged 6+ as 81.5% female and 27.1% male. It is a participation rate, not a proportion of the day, an unemployment rate, or an urban Telangana estimate.
+- **Boundary:** These are 3 author-side correct-key/9 distractor source-correspondence checks, not a named independent expert's review of 30 questions/90 distractors. MCQ 26 census-town definition and other items remain outside this pass; current-law consolidation and full browser/accessibility checks remain open.

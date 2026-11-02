@@ -4,7 +4,7 @@
 
 **Cycle 105 legal-currentness and option-position repair · 30 October 2026 · ORIGINAL PRACTICE, NOT OFFICIAL PYQs · NOT INDEPENDENTLY APPROVED.**
 
-This edition integrates the earlier analytical repair inside 20 original numbered concepts, retaining the original published PDF unchanged. Thirty original four-option MCQs and eight original mains answers appear once each. Claims and diagrams require further independent review.
+This edition integrates the earlier analytical repair inside 20 original numbered concepts, retaining the original published PDF unchanged. Cycle 178 adds a directly checked official-syllabus map and a bounded 2026 rural-employment implementation exercise. Thirty original four-option MCQs and eight original mains answers appear once each. Claims and diagrams require further independent review.
 
 **Offline:** [Topic page](../index.html) · [Original PDF](../complete-notes.pdf) · [Integrated PDF](integrated-student-edition-2026-10-30.pdf).
 
@@ -26,7 +26,7 @@ This edition integrates the earlier analytical repair inside 20 original numbere
 | Communalism and secularism | Identity politics; Articles 14–16, 25–30; rights and accountability | Section 7 |
 | Corruption | Petty/grand/state capture; PCA 1988/2018; institutional design | Section 8 |
 | Caste conflicts | Graded inequality; dominant caste; atrocity law; land and local power | Section 9 |
-| Agricultural labour | Seasonal wages, landlessness, historical MGNREGA and the VB–G RAM G 2025 transition, gender, worker protection | Section 10 |
+| Agricultural labour | Seasonal wages, landlessness, historical MGNREGA (2005–30 June 2026), current VB–G RAM G (from 1 July 2026), gender and worker protection | Section 10 |
 | Urbanisation | Urban share vs population growth; primacy, informal housing, Musi | Section 11 |
 | Development and displacement | Physical/economic displacement; Cernea; 2013 land acquisition law | Section 12 |
 | Environmental degradation | Water, air, ecology, exposures, legal responsibilities and justice | Section 13 |
@@ -34,6 +34,8 @@ This edition integrates the earlier analytical repair inside 20 original numbere
 | Population explosion | TFR, demographic transition, momentum, ageing, rights | Section 15 |
 | Agrarian distress | Crop vs price risk, net margins, debt, tenant farmers, Telangana | Section 16 |
 | Migration | Circular vs permanent, portability, housing, wage protections | Section 17 |
+
+**R1 direct official-syllabus check (2 November 2026):** The [TGPSC Group-I Notification No. 02/2024, dated 19 February 2024, Annexure II, printed page 30](https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTl9OT18wMi0yMDI0X0dyb3VwLUlfU2VydmljZXMgKDEpMjAyNDAyMjAxNDA3MzcucGRmr95v17a0y2d8i13v) was read in extracted text and visually inspected at PDF page index 29. Paper III, Unit I, item 3 enumerates 16 distinct Social Issues clauses. Each clause in the table above maps to a substantive numbered section (2–17); none was inferred from a coaching syllabus. This establishes **R1 syllabus mapping PASS for this topic only**. It does not authenticate a newer recruitment syllabus, validate every statement in the notes, or constitute independent academic approval.
 
 **Exam pattern:** The official Paper III pattern gives approximately 200 words per 10-mark question. The student chapter contains original ~200–250-word models rather than unverified official past questions.
 
@@ -260,6 +262,16 @@ The answer should examine **both labour demand and bargaining capacity**. Indica
 ### Cycle 103 focused concept expansion — 10
 
 **Household guarantee versus individual labour rights — historical and current law.** The **2005 MGNREGA**, now repealed effective **1 July 2026**, guaranteed at least **100 days of unskilled wage employment per financial year per eligible rural household**, not per adult. Under the **VB–G RAM G Act 2025**, in force from that date, the statutory guarantee is **125 days per eligible rural household**. For a worked illustration, if two adults receive 70 and 55 person-days respectively, the household reaches 125 person-days in total, not 125 days each. A guarantee on paper does not demonstrate that work was actually offered on demand, wages were timely, or assets were durable. The 2026 transition requires evaluation of implementing rules and district delivery rather than an assumption of seamless performance. Agricultural labourers also face seasonal private-market wage fluctuations, tenancy exclusion, occupational hazards and unpaid care burdens. For a Telangana rural labour analysis, distinguish demand for work, days actually provided, delays, real wage levels and quality of durable water-conservation assets. A complete response asks whether public employment reduces distress migration or merely smooths consumption during a lean season. **Evidence limit:** the portal confirms the programme's stated entitlement, not actual district-level performance.
+
+### Cycle 178: the 2026 rural-work guarantee as an implementation test (2 November 2026)
+
+**Statutory right, work scheduling and actual payment are different propositions.** The [India Code entry for Act 36 of 2025](https://www.indiacode.nic.in/indiacode/handle/123456789/22478?view_type=browse) identifies a statutory guarantee of 125 days of wage employment in a financial year for a rural **household** whose adult members volunteer for unskilled manual work. The [Ministry of Rural Development's 11 May 2026 commencement statement](https://www.dord.gov.in/static/uploads/2026/05/6c0a4feea975932109261916ea1fc699.pdf) places the transition from the repealed 2005 law on 1 July 2026. Neither source measures whether a particular Telangana household actually received 125 days.
+
+**Two design qualifications matter.** The [Ministry's implementation note](https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=158510&lang=1&reg=3) describes a power for states to notify peak agricultural-season work pauses aggregating to 60 days in a financial year; it is **not** evidence that every state actually notified a 60-day pause. The framework also uses normative allocations and Centre–State cost sharing. Those design features raise questions about local work availability and fiscal capacity, but do not themselves prove that an eligible claimant was refused work.
+
+**Worked evaluation (hypothetical, not Telangana data).** Suppose 1,000 eligible households demand work; 800 obtain some work, 600 accumulate at least 125 household person-days, and 550 receive all wages within the applicable deadline. Using all 1,000 demanders as denominator gives 80% initial access, 60% full-guarantee fulfilment and 55% timely full payment. These are distinct indicators, not interchangeable success rates. A field audit should additionally inspect dated work requests, state pause notifications, muster rolls, wage-credit dates, grievance outcomes and delay compensation. Disaggregate results by gender, landlessness and social group where valid data permit.
+
+**Mains inference:** distinguish legal entitlement, administrative implementation, verified household outcomes and labour-market effects. Do not convert the household guarantee into 125 days **per adult**, or treat an announced allocation as proof of delivered work.
 
 ## 11. Urbanisation: demographic change versus the urban way of life
 
@@ -945,3 +957,11 @@ Do NOT silently promote unverified original questions to PYQs. Verify contempora
 
 
 **Cycle105 source-critical correction (30 October 2026):** The 2005 MGNREGA 100-day entitlement was repealed effective 1 July 2026 and replaced by the 2025 VB–G RAM G Act with a 125-day **rural-household** guarantee, as announced by the Ministry of Rural Development on 11 May 2026. Q10 and affected chapter/mains/source-register statements were updated. Twelve other MCQs had their existing option texts **reordered only** (five B→A, seven B→D) to remove severe key-position bias; no correct answer proposition or distractor proposition was changed. This is an author-side correction, not independent 30-key/90-distractor verification, not official PYQ authentication and not R1–R8 approval.
+
+### Cycle 178 bounded official-source check (2 November 2026; author-side only)
+
+- **R1:** Directly visually inspected TGPSC Notification 02/2024 Annexure II printed page 30; all 16 Paper III/Unit I/item 3 clauses map to concept sections 2–17. See `project-control/academic-readiness/3-1-3-cycle178-official-r1-and-current-law-audit-2026-11-02.json`. This does not authenticate any subsequent TGPSC syllabus revision.
+- **MCQ 10:** India Code Act 36/2025 and MoRD 11 May 2026 release support the 125-day eligible rural **household** guarantee effective 1 July 2026. A and D confuse household with adult individual; C denies the replacement. Master and legacy original-practice bank use different question wording; both presently key B. This is **not** a claim of complete bank synchronization.
+- **MCQ 17:** NITI Aayog's 2025 Voluntary National Review labels the 11.28% 2022–23 MPI estimate **PROJECTED**, not directly enumerated. A, B and C identify unrelated measures or geography.
+- **MCQ 18:** MoSPI's Time Use Survey 2024 fact sheet, released 25 February 2025, reports unpaid domestic-service participation for persons aged 6+ as 81.5% female and 27.1% male. It is a participation rate, not a proportion of the day, an unemployment rate, or an urban Telangana estimate.
+- **Boundary:** These are 3 author-side correct-key/9 distractor source-correspondence checks, not a named independent expert's review of 30 questions/90 distractors. MCQ 26 census-town definition and other items remain outside this pass; current-law consolidation and full browser/accessibility checks remain open.
