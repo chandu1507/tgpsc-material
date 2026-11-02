@@ -1,0 +1,58 @@
+{
+  "cycle": 172,
+  "date": "2026-11-02",
+  "topic": "2-3-5",
+  "source": "actual downloaded GitHub Actions artifact",
+  "packaging_run": 41369847696,
+  "artifact_id": 13108896301,
+  "artifact_sha256": "182480eca10d95bb482e97bbb02e209d85946d9a72ce849bc6e3ba43cc81e1c1",
+  "digest_match": true,
+  "outer_crc": "PASS",
+  "inner_crc": "PASS",
+  "files": 2243,
+  "original_topic_pdfs": 75,
+  "original_pdfs_unchanged_from_cycle171": true,
+  "readiness_records": 75,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "R1": {
+    "PASS": 14,
+    "IN_PROGRESS": 56,
+    "BLOCKED": 3,
+    "NOT_STARTED": 2
+  },
+  "html_pages": 92,
+  "local_links_checked": 592,
+  "local_links_broken": 0,
+  "dom_fragments_checked": 1581,
+  "dom_fragments_broken": 0,
+  "spa_hash_routes_excluded": 42,
+  "actual_integrated_pdf_pages": 25,
+  "actual_pdf_sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952",
+  "master_sha256": "62d94b80753b0e9fbe3ff508d86c45f292560dd292622aa6209a4f70ddd5fbd4",
+  "six_mains_body_counts": [
+    247,
+    250,
+    242,
+    234,
+    222,
+    250
+  ],
+  "original_mcqs": 25,
+  "footer_only_pages": [],
+  "blank_pages": [],
+  "nul_or_replacement_glyph_pages": [],
+  "out_of_bounds_pages": [],
+  "original_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "independent_approvals": 0,
+  "fully_R1_R8_ready": 0,
+  "R9": "NOT_STARTED",
+  "limits": [
+    "This is mechanical artifact QA, not independent academic certification",
+    "Visual samples not complete browser/screen-reader accessibility",
+    "This QA evidence commit postdates inspected archive; any subsequent final packaging requires fresh download"
+  ]
+}
