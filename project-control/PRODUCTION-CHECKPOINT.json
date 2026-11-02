@@ -1672,7 +1672,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle178 Topic3-1-3: R1 PASS official 16-clause mapping, actual GitHub 43-page PDF and artifact13122367208 SHA/CRC/75 originals/634 links/1581 fragments PASS. Sparse continuation pages10/20 open. Evidence commit postdates archive; post-evidence package pending. Fully ready0, approvals0.",
+  "last_readiness_update": "Cycle183 Topic3-1-4: original MCQs16/17/24 revised in three editable files, primary PCMA/RTE author-side option checks 3 keys/9 distractors; PDF and downloaded GitHub artifact QA pending. 75 original PDFs preserved by design, R1 PASS16/75, ready0, approvals0.",
   "last_readiness_reconciliation": "2026-11-02 Cycle178: 75 original topic PDFs, 75 readiness records, 7 IN_PROGRESS/68 ASSESSED_REBUILD_REQUIRED/0 NOT_ASSESSED; 15 normalized R1 PASS (including newly verified 3-1-3); zero fully R1-R8 ready; zero independent approvals.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
@@ -1700,42 +1700,40 @@
     "artifact_sha256": "2d3bbf3e7b4ecebd9b75221204b936e77d1c7b0ef440aadd508096be616554e4",
     "actual_artifact_evidence": "project-control/academic-readiness/5-1-5-cycle54-actual-downloaded-post-render-artifact-qa-2026-10-28.json"
   },
-  "latest_readiness_update": "Cycle150 Topic5-3-2: ten keys/30 distractors author-side source-correlated; 26-page CI PDF zero NUL glyphs; downloaded artifact 13069521224 SHA/CRC/75 originals/592 links/1581 fragments PASS. R1-R8 incomplete, zero independent approvals.",
+  "latest_readiness_update": "Cycle183 Topic3-1-4: original MCQs16/17/24 revised in three editable files, primary PCMA/RTE author-side option checks 3 keys/9 distractors; PDF and downloaded GitHub artifact QA pending. 75 original PDFs preserved by design, R1 PASS16/75, ready0, approvals0.",
   "latest_academic_cycle": {
-    "cycle": 178,
-    "topic_id": "3-1-3",
-    "evidence": "project-control/academic-readiness/3-1-3-cycle178-actual-downloaded-artifact-qa-2026-11-02.json",
-    "editorial_state": "MERGED",
-    "renderer_run_id": 41403005107,
-    "renderer_conclusion": "SUCCESS",
-    "integrated_pdf_pages": 43,
-    "integrated_pdf_sha256": "dad258bd31c99a0abc7fbe35f8768c446e5ad439c70768ed6be430ece70f36cd",
-    "artifact_downloaded_and_verified": true,
-    "artifact_id": 13122367208,
-    "post_qa_evidence_package": "PENDING",
-    "normalized_R1_PASS": 15,
+    "cycle": 183,
+    "topic_id": "3-1-4",
+    "evidence": "project-control/academic-readiness/3-1-4-cycle183-pcma-rte-three-mcq-source-audit-2026-11-02.json",
+    "editorial_state": "BRANCH_PENDING_MERGE",
+    "original_practice_mcqs_preserved": 30,
+    "source_checked_mcqs": [
+      16,
+      17,
+      24
+    ],
+    "source_checked_options": 12,
+    "render_status": "PENDING",
+    "downloaded_artifact_qa": "PENDING",
+    "normalized_R1_PASS": 16,
     "independent_approvals": 0
   },
   "latest_academic_readiness_cycle": {
-    "cycle": 150,
-    "date": "2026-11-01",
-    "topic": "5-3-2",
-    "source_audit": "Paper 5/Unit 3 - Data Interpretation and Problem Solving/Topic 2/source/academic-option-audit-cycle150.md",
-    "downloaded_artifact_qa": "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
-    "github_ci_run_id": 41271293045,
-    "github_ci_pdf_sha256": "52beab582b2c804a5371311c1ceaa9391935cd1b226907394519163e9fbd345e",
-    "github_ci_pdf_pages": 26,
-    "packaging_run": 41271329890,
-    "artifact_id": 13069521224,
-    "artifact_sha256": "9ab2aa50a79328fdfb9105dfc88eed5c7177ee0dd7e5afe5c6a753962e11e2fe",
-    "topic_counts": {
-      "IN_PROGRESS": 7,
-      "ASSESSED_REBUILD_REQUIRED": 68,
-      "NOT_ASSESSED": 0
-    },
-    "fully_ready": 0,
-    "independent_approvals": 0,
-    "pdf_unsupported_glyphs": 0
+    "cycle": 183,
+    "topic_id": "3-1-4",
+    "evidence": "project-control/academic-readiness/3-1-4-cycle183-pcma-rte-three-mcq-source-audit-2026-11-02.json",
+    "editorial_state": "BRANCH_PENDING_MERGE",
+    "original_practice_mcqs_preserved": 30,
+    "source_checked_mcqs": [
+      16,
+      17,
+      24
+    ],
+    "source_checked_options": 12,
+    "render_status": "PENDING",
+    "downloaded_artifact_qa": "PENDING",
+    "normalized_R1_PASS": 16,
+    "independent_approvals": 0
   },
   "recent_evidence": [
     "project-control/academic-readiness/5-3-2-cycle150-downloaded-postrender-artifact-qa-2026-11-01.json",
