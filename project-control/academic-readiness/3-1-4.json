@@ -36,9 +36,10 @@
     "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle180-original-2024-r1-mapping-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle180-actual-downloaded-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/3-1-4-cycle181-four-statutory-mcq-option-source-audit-2026-11-02.json"
+    "project-control/academic-readiness/3-1-4-cycle181-four-statutory-mcq-option-source-audit-2026-11-02.json",
+    "project-control/academic-readiness/3-1-4-cycle181-actual-downloaded-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle181 Q19/27/28/29 author-side source checked, 16 options; CI PDF and actual downloaded artifact QA pending. Other 26 MCQs, six mains, diagrams and browser accessibility require independent audit; R1 PASS, R2-R8 not promoted.",
+  "next_action": "Cycle181 4 source-bounded MCQs (16 options) synced and 20-page CI PDF verified in ACTUAL downloaded artifact13130419970; final post-QA evidence package pending. R1 PASS; remaining 26 MCQs and six mains need expert review; R2-R8 unchanged, approvals0.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -131,7 +132,8 @@
     "author_side_distractors": 12,
     "source_scope": "India Code Acts 1986,1989,1996; Constitution Article17 and comparator Articles",
     "independent_approvals": 0,
-    "ci_pdf": "PENDING",
-    "downloaded_artifact": "PENDING"
+    "ci_pdf": "SUCCESS_20_PAGES",
+    "downloaded_artifact": "VERIFIED_13130419970_SHA_CRC_75_ORIGINALS_LINKS_PASS",
+    "pdf_sha256": "f9e3628717bf9ffab05ca4424dd8f70aa27335de0a5113b186dd5a105c734cf2"
   }
 }
