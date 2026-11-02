@@ -112,6 +112,10 @@ while i<len(tokens):
  if t.type=='fence':story.append(Paragraph(html.escape(t.content).replace('\n','<br/>'),styles['note']));i+=1;continue
  i+=1
 
+# A final table spacer can overflow and produce a footer-only trailing page.
+while story and isinstance(story[-1], Spacer):
+    story.pop()
+
 def footer(canvas,doc):
     canvas.saveState();w,h=A4
     canvas.setStrokeColor(colors.HexColor('#C7D5DF'));canvas.line(42,38,w-42,38)
@@ -125,6 +129,8 @@ doc.build(story,onFirstPage=footer,onLaterPages=footer)
 import fitz
 pdf=fitz.open(str(out))
 bad_glyph_pages=[i+1 for i,page in enumerate(pdf) if ('\x00' in page.get_text() or '\ufffd' in page.get_text())]
+footer_only_pages=[i+1 for i,page in enumerate(pdf) if len(' '.join(b[4] for b in page.get_text('blocks') if b[1] < page.rect.height-65).strip()) < 60]
+assert not footer_only_pages, f'Footer-only or blank PDF pages: {footer_only_pages}'
 assert not bad_glyph_pages, f'PDF contains unsupported glyphs on pages: {bad_glyph_pages}'
 qa={'bad_glyph_pages':bad_glyph_pages,'file':str(out),'pages':len(pdf),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'pdf_text_words':sum(len(p.get_text().split()) for p in pdf),'page_text_lengths':[len(p.get_text()) for p in pdf], 'pages_with_no_text':[i+1 for i,p in enumerate(pdf) if len(p.get_text().strip())<60]}
 if args.qa:
