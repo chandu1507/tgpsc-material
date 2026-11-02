@@ -78,14 +78,14 @@ def render_lines(markdown,section_idx=0):
   # Keep each complete practice question, its four separately rendered options and
   # its explanation together. The Markdown keeps one-line A/B/C/D options for
   # the offline quiz parser; the PDF must not present a run-on options paragraph.
-  if re.match(r'^### Q\\d+\\. ',s):
+  if re.match(r'^### Q\d+\. ',s):
    question_group=[mkpara(s[4:],'h3')]; i+=1
    while i<len(lines):
     part=lines[i].strip()
     if re.match(r'^#{2,3} ',part): break
     i+=1
     if not part: continue
-    options=re.fullmatch(r'A\\. (.*?)  B\\. (.*?)  C\\. (.*?)  D\\. (.*)',part)
+    options=re.fullmatch(r'A\. (.*?)  B\. (.*?)  C\. (.*?)  D\. (.*)',part)
     if options:
      for letter,option in zip('ABCD',options.groups()):
       question_group.append(mkpara(f'{letter}. {option}','small'))
