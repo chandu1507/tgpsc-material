@@ -84,7 +84,11 @@
     "mains_preserved": 6,
     "author_side_source_audit": "project-control/academic-readiness/3-3-5-cycle195-institutional-remedies-four-mcq-primary-source-audit-2026-11-03.json",
     "pdf_renderer_same_page_guard_added": true,
-    "ci_pdf_and_actual_artifact_qa": "PENDING",
-    "academic_approvals": 0
+    "ci_pdf_and_actual_artifact_qa": "PASS_POSTRENDER_ARTIFACT_13186961794",
+    "academic_approvals": 0,
+    "pdf_pages": 41,
+    "pdf_sha256": "4ee11219f485981b66f855acc179ab7d0ec172747b99563c14b02c8554bdd12e",
+    "qa_evidence": "project-control/academic-readiness/3-3-5-cycle195-actual-downloaded-postrender-artifact-qa-2026-11-03.json",
+    "post_qa_evidence_package": "PENDING"
   }
 }
