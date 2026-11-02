@@ -75,14 +75,14 @@ jobs:
           assert all(x in text for x in ['Worked policy evaluation','3,000','Mains 6.'])
           # MCQ labels, answer keys and all options must remain together on one PDF page.
           for q in range(1,26):
-              matching=[(i,page.get_text()) for i,page in enumerate(doc) if re.search(r'(?m)^Q'+str(q)+r'\\.',page.get_text())]
+              matching=[(i,page.get_text()) for i,page in enumerate(doc) if re.search(r'(?m)^Q'+str(q)+r'\.',page.get_text())]
               assert len(matching)==1,(q,[i+1 for i,_ in matching])
               page_text=matching[0][1]
-              start=re.search(r'(?m)^Q'+str(q)+r'\\.',page_text).start()
-              following=re.search(r'(?m)^Q\\d+\\.',page_text[start+3:])
+              start=re.search(r'(?m)^Q'+str(q)+r'\.',page_text).start()
+              following=re.search(r'(?m)^Q\d+\.',page_text[start+3:])
               segment=page_text[start:] if not following else page_text[start:start+3+following.start()]
-              assert re.search(r'Answer:\\s*[ABCD]\\.',segment),(q,'missing same-page answer')
-              assert all(re.search(r'(?m)^'+opt+r'\\.',segment) for opt in 'ABCD'),(q,'missing same-page options')
+              assert re.search(r'Answer:\s*[ABCD]\.',segment),(q,'missing same-page answer')
+              assert all(re.search(r'(?m)^'+opt+r'\.',segment) for opt in 'ABCD'),(q,'missing same-page options')
           violations=[]
           for i,page in enumerate(doc):
               for block in page.get_text('dict')['blocks']:
