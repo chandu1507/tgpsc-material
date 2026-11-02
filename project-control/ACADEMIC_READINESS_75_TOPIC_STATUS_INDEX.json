@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle186 Topic3-2-1 R1 PASS for 2024 notification p30 syllabus correspondence; 4 original MCQ keys and 12 distractors author-side checked. CI PDF/artifact QA pending; 0 fully R1-R8 ready; 0 independent approvals.",
+  "warning": "Cycle186 Topic3-2-1 R1 PASS; normalized 18/75. Actual package artifact13153467719 downloaded SHA/CRC/75 unchanged originals/75 readiness/592 local links/1581 fragments PASS. QA evidence commit postdates inspected archive; final package pending. 0 fully R1-R8 ready, 0 independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
