@@ -522,12 +522,12 @@ C. Information or limited consultation, not meaningful shared decision-making.
 D. Judicial review.  
 **Answer: C.** **Explanation:** Participation is substantive only if citizens can influence choices before decisions become irreversible.
 
-### Q6. A financial audit and social audit differ principally because:
-A. Social audit ignores public records.  
-B. Financial audit tests accounts; social audit also tests delivery through beneficiary testimony and public verification.  
-C. Financial audit is performed only by private companies.  
-D. Social audit automatically replaces courts.  
-**Answer: B.** **Explanation:** Social audit can verify worksite reality against muster rolls and payments, while both approaches may examine documents.
+### Q6. Which procedure most clearly distinguishes a community social audit of public works from checking expenditure totals alone?
+A. Accepting a contractor's completion certificate without consulting workers or inspecting records.  
+B. Comparing muster rolls, wage payments and worksite evidence with workers' testimony in an open community verification process.  
+C. Treating the arithmetic agreement of vouchers as proof that every listed worker was paid.  
+D. Replacing public verification with a closed review conducted only by the implementing agency.  
+**Answer: B.** **Explanation:** Social audit connects documentary evidence to field conditions and people's testimony; A and D exclude public scrutiny, while C mistakes internally consistent accounts for actual delivery. The Ministry of Rural Development's 2024 Master Circular describes Gram Sabha verification, independent facilitation and access to muster rolls under the *historical* MGNREGA framework. Its discussion is not proof of the legal rules applicable after the reported 2026 statutory transition. [S27]
 
 ### Q7. Which statement correctly describes the legal transition in India's central rural wage-employment guarantee as of October 2026?
 A. The 2005 MGNREGA remained the sole operative Act until 31 December 2026.  
@@ -550,12 +550,12 @@ C. Track net income, repayment stress, control over assets and market viability.
 D. Every borrower necessarily owns the enterprise assets.  
 **Answer: C.** **Explanation:** Credit is an input; sustainable economic agency requires positive net returns and control.
 
-### Q10. Telangana's Stree Nidhi is best described as:
-A. A High Court division.  
-B. A credit cooperative federation associated with SHG institutions.  
-C. A central university.  
-D. The National Food Security Authority.  
-**Answer: B.** **Explanation:** Telangana's Panchayat Raj department describes its role in supplementing SHG credit flows. [S5]
+### Q10. Which description correctly identifies Telangana's Stree Nidhi and its relationship with Self-Help Groups?
+A. A judicial tribunal that adjudicates rural employment disputes.  
+B. A credit cooperative federation promoted by the Government and Mandal Samakhyas to supplement bank credit for SHG members.  
+C. An elected municipal corporation that assesses urban property tax.  
+D. A legislative audit committee responsible for examining the State's appropriation accounts.  
+**Answer: B.** **Explanation:** Telangana's Panchayat Raj department and Peddapalli district DRDA describe Stree Nidhi as an SHG-linked credit cooperative federation. A confuses credit provision with adjudication; C describes urban local government; D describes legislative financial oversight, not SHG lending. Neither sanctioning a loan nor its repayment alone proves a household has escaped poverty. [S28]
 
 ### Q11. Under the National Food Security Act, 2013, what is the basic monthly grain entitlement for a person in an identified Priority Household?
 A. Thirty-five kilograms per household, irrespective of its number of eligible persons.  
@@ -667,35 +667,35 @@ A. It can amend the Constitution for village matters.
 B. It automatically controls every municipal function.  
 C. It may exercise village-level powers and functions provided by State law.  
 D. It independently levies every Panchayat tax without enabling legislation.  
-**Answer: C.** **Explanation:** Article 243A makes Gram Sabha functions subject to State legislation. A confuses it with Parliament's constitutional amendment process; B confuses rural and urban bodies; D ignores State-law fiscal authorisation under Article 243H. [S25]
+**Answer: C.** **Explanation:** Article 243A makes Gram Sabha functions subject to State legislation. A confuses it with Parliament's constitutional amendment process; B confuses rural and urban bodies; D ignores State-law fiscal authorisation under Article 243H. [S26]
 
 ### Q27. Under Article 243B(2), which exception is permitted?
 A. A State whose population does not exceed twenty lakh may omit intermediate-level Panchayats.  
 B. Any State may omit district-level Panchayats without qualification.  
 C. A district below twenty lakh population must abolish village Panchayats.  
 D. States above twenty lakh population must omit intermediate Panchayats.  
-**Answer: A.** **Explanation:** The threshold applies to a **State**, and the optional omission concerns only the intermediate tier. B lacks the constitutional condition; C substitutes district for State and targets the wrong tier; D reverses the threshold. [S25]
+**Answer: A.** **Explanation:** The threshold applies to a **State**, and the optional omission concerns only the intermediate tier. B lacks the constitutional condition; C substitutes district for State and targets the wrong tier; D reverses the threshold. [S26]
 
 ### Q28. How are Panchayat seats generally filled under Article 243C(2)?
 A. By appointment from district officers.  
 B. By Governor's nomination to all seats.  
 C. By inheritance of traditional village offices.  
 D. By direct election from territorial constituencies in the Panchayat area.  
-**Answer: D.** **Explanation:** Article 243C(2) specifies direct election to Panchayat seats. A, B and C substitute administrative appointment, executive nomination and inheritance. Rules for selecting chairpersons are a separate matter. [S25]
+**Answer: D.** **Explanation:** Article 243C(2) specifies direct election to Panchayat seats. A, B and C substitute administrative appointment, executive nomination and inheritance. Rules for selecting chairpersons are a separate matter. [S26]
 
 ### Q29. Which is the minimum reservation for women in directly elected Panchayat seats under Article 243D(3)?
 A. Exactly half of all seats, with no variation allowed.  
 B. Not less than one-third, including seats reserved for SC/ST women.  
 C. Only the SC/ST women's seats, with no other women's reservation.  
 D. Reservation applies to chairperson offices alone.  
-**Answer: B.** **Explanation:** The Constitution establishes a **minimum** one-third including SC/ST women's reserved seats. A confuses a possible higher State quota with the constitutional floor; C excludes other women's seats; D ignores seat reservation. [S25]
+**Answer: B.** **Explanation:** The Constitution establishes a **minimum** one-third including SC/ST women's reserved seats. A confuses a possible higher State quota with the constitutional floor; C excludes other women's seats; D ignores seat reservation. [S26]
 
 ### Q30. How may a Panchayat be authorised to levy specified taxes under Article 243H?
 A. Through State legislation, subject to the prescribed procedures and limits.  
 B. Automatically by any Gram Sabha oral resolution.  
 C. Through a mandatory allocation of all State taxes by the Election Commission.  
 D. Never, because Article 243H forbids grants-in-aid and local funds.  
-**Answer: A.** **Explanation:** State law may authorise levies, assign State taxes, provide grants and constitute Panchayat funds. B omits enabling law; C misattributes fiscal authority to an election body; D directly contradicts Article 243H(c)–(d). [S25]
+**Answer: A.** **Explanation:** State law may authorise levies, assign State taxes, provide grants and constitute Panchayat funds. B omits enabling law; C misattributes fiscal authority to an election body; D directly contradicts Article 243H(c)–(d). [S26]
 
 
 
@@ -867,6 +867,9 @@ Publish a district action-taken register with named agencies, deadlines and appe
 | S23 | India Code, RTE Act, 2009 | Article 21A implementation; 6–14 years; duties and covered-school categories | https://www.indiacode.nic.in/handle/123456789/12911?sam_handle=&view_type=browse |
 | S24 | Ministry of Education, Samagra Shiksha | Integrated school-education scheme, equity and learning | https://samagra.education.gov.in/ |
 | S25 | Telangana State Portal, food-security-card distribution, 14 July 2025 | Dated state administrative announcement, not independent coverage proof | https://www.telangana.gov.in/news/news-and-press-releases/2025/07/honble-cm-revanth-reddy-participated-in-the-launch-of-food-security-cards-new-ration-cards-distribution-at-thirumalagiri/ |
+| S26 | Legislative Department, *Constitution of India* (as on 1 May 2026), Part IX, Articles 243A–243H | Q26–Q30 constitutional provisions; specifically State-law authority, twenty-lakh State population exception, direct elections, one-third women's minimum, and enabling fiscal law. Corrects earlier misattribution to S25 (Telangana ration-card announcement). | https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf |
+| S27 | Ministry of Rural Development, *Annual Master Circular 2024–25*, chapter 10, social audit | Historical MGNREGA social-audit method: Gram Sabha, records and independent Social Audit Units. Historical source; NOT certification of post-2026 transition rules. | https://www.dord.gov.in/static/uploads/2024/11/ac56e7f159e31f06e12beb799f206786.pdf |
+| S28 | Telangana Panchayat Raj and Rural Development Department; Peddapalli DRDA | Stree Nidhi is an SHG-linked credit cooperative federation, not a court, municipality or legislative audit committee. | https://peddapalli.telangana.gov.in/district-rural-development-agency/ |
 
 ## Source-quality controls and unresolved items
 
@@ -893,6 +896,14 @@ The revised answer distribution is A4/B9/C6/D6. A balanced distribution is not e
 
 ## 31 October 2026 — Cycle119 bounded constitutional check, not independent R5 approval
 
-**S25 — directly inspected primary text:** Legislative Department, *Constitution of India*, Articles 243A, 243B(2), 243C(2), 243D(3), 243G and 243H: https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf . Historical constitutional design also compared with the official 73rd Amendment Act: https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf .
+**S26 — directly inspected primary text:** Legislative Department, *Constitution of India*, Articles 243A, 243B(2), 243C(2), 243D(3), 243G and 243H: https://www.legislative.gov.in/static/uploads/2025/07/88cca69e868e50b217f855be2fb8bdba.pdf . Historical constitutional design also compared with the official 73rd Amendment Act: https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf .
 
 New original practice Q26–Q30: **five keys and 15 distractors checked author-side** against the named provisions; every new distractor has an explicit rationale. These are not official PYQs, not independent question certification, and do not authenticate Q1–Q25. New detailed concept 15 distinguishes deliberation, representation, functional devolution and fiscal authority. Full 30-key/90-distractor independent audit, six mains claim checks, current Telangana operational rules, official TGPSC syllabus direct PDF, browser accessibility and named academic expert remain pending. No academic approval.
+
+## 3 November 2026 — Cycle193 source-ID repair and bounded MCQ audit
+
+**Defect fixed:** Original Q26–Q30 cited `[S25]` even though the numbered S25 register entry is a Telangana food-security-card announcement. The Constitution had been discussed in a later unnumbered note also called S25. This is a source-identity collision, not evidence that the questions' constitutional keys were wrong. The five MCQs now cite distinct **S26**, with the exact Legislative Department consolidated text and Articles 243A–243H. The pre-existing S25 ration-card entry remains unchanged.
+
+**Two additional original MCQs:** Q6 was rewritten to distinguish documentary accounting from public verification under the *historical* 2024 Ministry social-audit circular (S27). Q10 was rewritten to test Stree Nidhi's SHG-linked cooperative-credit function against Telangana department and district descriptions (S28). For these two questions, **two keys and six distractors** were checked author-side. The check does not establish any post-2026 social-audit legal transition rule, nor does it authenticate official PYQs.
+
+**Remaining limitations:** Direct Commission-hosted 2024 syllabus authentication, complete 30-question independent key/distractor audit, six mains claim checks, browser/screen-reader QA and named expert review remain pending. R1 remains BLOCKED; no R1–R8 gate or independent academic approval is promoted.
