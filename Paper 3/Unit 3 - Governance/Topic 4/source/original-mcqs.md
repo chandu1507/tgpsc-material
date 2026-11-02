@@ -27,10 +27,13 @@ A. A factory's untreated effluent damages downstream drinking-water quality.  B.
 
 **Answer: A.** Pollution imposes costs on third parties not fully reflected in the firm's private production cost.
 
-### Q6. The Eleventh and Twelfth Schedules of the Constitution are best understood as:
-A. Automatic transfer of all listed funds to local bodies.  B. Lists of possible functional subjects within the decentralisation framework.  C. Judicially enforceable tariffs for every municipality.  D. Mandatory staffing ratios for all Gram Panchayats.
+### Q6. A State Government lists drinking water under the Eleventh Schedule and urban water supply under the Twelfth Schedule. What follows constitutionally?
+A. Both functions, budgets and employees automatically vest in every local body without State legislation.
+B. Articles 243G and 243W permit State legislatures, by law, to endow Panchayats and Municipalities with powers and responsibilities; the schedules identify subjects but do not themselves complete devolution.
+C. The schedules are binding judicial tariff schedules for household water bills.
+D. The schedules require identical staffing ratios in every Gram Panchayat and Municipality.
 
-**Answer: B.** Effective devolution also requires state legislation, finance and administrative capacity.
+**Answer: B.** Articles 243G and 243W use an enabling State-law framework; the Eleventh Schedule contains 29 subjects and the Twelfth Schedule 18. Listing a subject is not the same as transferring funds, functions and functionaries. A wrongly assumes automatic devolution; C confuses functional subjects with tariffs; D invents constitutional staffing quotas [S16].
 
 ### Q7. Which process best reflects meaningful participation rather than tokenism?
 A. Taking signatures after the contractor is selected.  B. Publishing the final plan only in English.  C. Inviting comments before choices are final and issuing reasoned responses.  D. Consulting only influential landowners.
@@ -92,20 +95,29 @@ A. Transparent reporting of guarantees.  B. Lifecycle costing.  C. Unrecorded co
 
 **Answer: C.** Off-budget promises can impose later costs on taxpayers.
 
-### Q19. Under Section 135, a company may be covered if it meets which test in the preceding financial year?
-A. All three thresholds simultaneously.  B. Any one of ₹500 crore net worth, ₹1,000 crore turnover or ₹5 crore net profit.  C. Only if it has 10,000 employees.  D. Only if it is listed on a stock exchange.
+### Q19. A company had net worth of ₹520 crore, turnover of ₹600 crore and net profit of ₹2 crore in the immediately preceding financial year. Which statement best reflects Section 135(1) CSR applicability?
+A. CSR applies only if all three statutory thresholds are met simultaneously.
+B. CSR applicability is triggered because any one threshold suffices: ₹500 crore net worth, ₹1,000 crore turnover or ₹5 crore net profit in the immediately preceding financial year.
+C. CSR can apply only to companies with at least 10,000 employees.
+D. CSR can apply only to companies whose shares are listed on a stock exchange.
 
-**Answer: B.** The three statutory criteria are alternative thresholds [S09].
+**Answer: B.** The company's net worth alone crosses the alternative ₹500-crore test, even though its turnover and profit do not. MCA Circular 14/2021 FAQ 1.1 confirms the three alternative tests and immediately preceding-year reference. A incorrectly makes them cumulative; C invents an employee threshold; D excludes unlisted and other eligible companies without legal basis [S22].
 
-### Q20. The ordinary CSR spending rule for eligible companies is based on:
-A. Two percent of turnover.  B. Two percent of all capital expenditure.  C. Two percent of average net profits as prescribed.  D. Ten percent of GST paid.
+### Q20. For a company subject to Section 135(5), what is the ordinary statutory basis of its minimum annual CSR spending obligation?
+A. Two percent of current-year gross turnover.
+B. Two percent of total capital expenditure.
+C. At least two percent of average net profits computed under the prescribed Companies Act rules for the three immediately preceding financial years, or the shorter preceding period if the company has existed for fewer than three financial years.
+D. Ten percent of GST remitted.
 
-**Answer: C.** Section 135 uses average net profits, generally of the preceding three financial years, with statutory calculation rules [S09].
+**Answer: C.** MCA Circular 14/2021 FAQs 1.4, 2.3 and 3.1 distinguish the net-profit measure from turnover and post-tax profit; Section 198 adjustments apply. A substitutes turnover; B substitutes investment spending; D substitutes a tax remittance. The shorter-history proviso prevents incorrectly exempting a newly incorporated qualifying company [S22].
 
-### Q21. Which activity is generally **not** qualifying CSR merely because a company labels it social responsibility?
-A. An eligible public-health project under Schedule VII.  B. An eligible community education project.  C. Spending required to meet the company's ordinary pollution-control legal duties.  D. An eligible disability-inclusion programme.
+### Q21. A factory is legally required by its environmental permit to treat its effluent before discharge. It proposes counting the minimum legally required treatment expenditure as CSR. Which answer is correct?
+A. It qualifies automatically if the company calls the expenditure social responsibility.
+B. It qualifies automatically because any activity benefiting the environment is CSR.
+C. It does not qualify merely by being relabelled: activities undertaken to fulfil statutory obligations under Indian law are excluded from eligible CSR under the CSR Policy Rules.
+D. It qualifies if the company publishes a photograph of its treatment plant.
 
-**Answer: C.** Compliance with an existing legal obligation is not converted into CSR by relabelling it.
+**Answer: C.** MCA Circular 14/2021 FAQ 4.1 identifies fulfilment of statutory obligations as an express CSR exclusion. A confuses a label with eligibility; B ignores the statutory-duty exclusion even though other environmental projects may qualify; D mistakes publicity for statutory eligibility [S22].
 
 ### Q22. An NGO is shown on the National CSR Exchange Portal. What does that establish?
 A. Independent government certification of all its outcomes.  B. The portal provides a matching platform; corporate due diligence remains necessary.  C. Automatic FCRA permission.  D. Guaranteed CSR funding.
