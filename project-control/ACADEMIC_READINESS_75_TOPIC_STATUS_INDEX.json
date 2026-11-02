@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle183 Q16/17/24 source-audited; 21-page GitHub PDF and actual artifact13139056868 downloaded, SHA/CRC/75 original PDFs/75 readiness/592 local links/1581 fragments PASS. QA evidence commit postdates inspected archive; final post-evidence packaging pending. R1 PASS16/75, statuses7/68/0, ready0, approvals0.",
+  "warning": "2026-11-02 Cycle184: 3-1-5 R1 IN_PROGRESS→PASS by direct original 2024 printed p30 mapping of 8/8 clause groups to existing master; 17 R1 PASS, statuses7/68/0, ready0, approvals0. New PDF/render/actual artifact QA pending.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "2026-11-02 Cycle183: three original PCMA/RTE practice MCQs source-audited; no R1-R8 promotion, approvals0.",
+  "last_readiness_update": "2026-11-02 Cycle184: 3-1-5 R1 IN_PROGRESS→PASS by direct original 2024 printed p30 mapping of 8/8 clause groups to existing master; 17 R1 PASS, statuses7/68/0, ready0, approvals0. New PDF/render/actual artifact QA pending.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -173,6 +173,7 @@
     "3-1-1",
     "3-1-3",
     "3-1-4",
+    "3-1-5",
     "4-1-1",
     "4-1-2",
     "4-1-3",
@@ -180,8 +181,9 @@
     "5-3-5",
     "6-1-1"
   ],
-  "verified_R1_pass_count": 16,
+  "verified_R1_pass_count": 17,
   "recent_evidence": [
+    "project-control/academic-readiness/3-1-5-cycle184-original-2024-r1-eight-clause-crosswalk-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle183-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle183-pcma-rte-three-mcq-source-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-4-cycle182-actual-downloaded-artifact-qa-2026-11-02.json",
