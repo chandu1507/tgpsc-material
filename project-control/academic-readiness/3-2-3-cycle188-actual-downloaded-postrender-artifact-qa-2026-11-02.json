@@ -1,0 +1,66 @@
+{
+  "cycle": 188,
+  "date": "2026-11-02",
+  "topic_id": "3-2-3",
+  "source_pr": 370,
+  "source_merge_commit": "35a7b3ee4e83d851a6448c8f2a8ceb0daedb67f3",
+  "renderer_run": 41486814148,
+  "renderer_status": "SUCCESS",
+  "packaging_run": 41486955573,
+  "packaging_status": "SUCCESS",
+  "downloaded_artifact_id": 13161829055,
+  "downloaded_artifact_sha256": "12a97245a2fdef4a8ece60d77d233cbd6e9d8c7f76c80b4542e4ca750f545f6e",
+  "github_artifact_digest_match": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "packaged_files": 2276,
+  "original_topic_pdfs": 75,
+  "original_topic_pdfs_changed_vs_cycle187": 0,
+  "readiness_json": 75,
+  "html_pages": 92,
+  "local_file_links_checked": 634,
+  "broken_local_file_links": 0,
+  "dom_fragments_checked": 1581,
+  "broken_dom_fragments": 0,
+  "spa_hash_routes_excluded": 42,
+  "readiness_status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "r1_status_counts": {
+    "PASS": 20,
+    "IN_PROGRESS": 50,
+    "BLOCKED": 3,
+    "NOT_STARTED": 2
+  },
+  "topic_3_2_3_original_pdf_sha256": "f4595c00760b0659f1cf4cb846404aa24eb4ab7944223731c498f9aa377dac24",
+  "integrated_pdf_pages": 34,
+  "integrated_pdf_sha256": "3a0a6b54412dd243fda10f370f01a6c4a6d589bfe734e4dab5c48348937aceaa",
+  "blank_or_footer_only_pages": 0,
+  "replacement_or_nul_glyph_pages": 0,
+  "out_of_bounds_text_blocks": 0,
+  "visually_inspected_pages": [
+    21,
+    22,
+    34
+  ],
+  "four_mcq_keys": [
+    "B",
+    "D",
+    "C",
+    "B"
+  ],
+  "original_mcqs": 30,
+  "mains_answers": 6,
+  "offline_html_synchronized": true,
+  "fully_r1_r8_ready": 0,
+  "independent_approvals": 0,
+  "r9": "NOT_STARTED",
+  "limitations": [
+    "Post-QA evidence commit postdates inspected artifact; final post-evidence package pending",
+    "Full browser/screen-reader accessibility not certified",
+    "No independent expert review of 30 MCQs or six mains",
+    "2024 Commission-hosted PDF byte identity unverified"
+  ]
+}
