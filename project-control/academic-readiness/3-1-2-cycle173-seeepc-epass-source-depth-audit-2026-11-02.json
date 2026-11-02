@@ -1,0 +1,32 @@
+{
+  "cycle": 173,
+  "date": "2026-11-02",
+  "topic_id": "3-1-2",
+  "baseline_main": "55b8e61bb70fdacf05226bbfe0cf609e5e48e0cc",
+  "changes": "Expanded Concepts 17 and 19 in integrated student master, complete-notes, detailed-notes; source register synchronized.",
+  "method": "Part C only, 23 numbered ## sections, Unicode word tokens; mechanical threshold, not R3 academic certification.",
+  "before_under300": 14,
+  "after_under300": 12,
+  "concept17_before_after": [
+    187,
+    530
+  ],
+  "concept19_before_after": [
+    187,
+    494
+  ],
+  "source_ids": [
+    "E173-01",
+    "E173-02",
+    "E173-03",
+    "E173-04",
+    "E173-05"
+  ],
+  "evidence_limits": "Official CGG and state web pages checked; survey volume table cells, underlying microdata and population denominators NOT reconciled; hypothetical calculations labelled; no official PYQs, independent approval or full accessibility certification.",
+  "gates": {
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED"
+  },
+  "original_topic_count": 75
+}
