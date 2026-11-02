@@ -97,6 +97,21 @@ for n in parser(md):
   table=Table(data,colWidths=[available*x for x in ratios],repeatRows=1,hAlign='LEFT')
   table.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),colors.HexColor('#e3eef4')),('VALIGN',(0,0),(-1,-1),'TOP'),('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#c3d6df')),('LEFTPADDING',(0,0),(-1,-1),7),('RIGHTPADDING',(0,0),(-1,-1),7),('TOPPADDING',(0,0),(-1,-1),7),('BOTTOMPADDING',(0,0),(-1,-1),7)]))
   story.append(table);story.append(Spacer(1,10))
+# Keep each original practice question, its four options and answer together.
+# A previous rendered PDF split Q15 between pages; structural integrity must be checked.
+from reportlab.platypus import Paragraph as RLParagraph
+def _is_heading(item):
+ return isinstance(item,RLParagraph) and item.style.name in ('h1x','h2x','h3x')
+packed=[];idx=0
+while idx<len(story):
+ item=story[idx]
+ if _is_heading(item) and re.match(r'^MCQ\s+\d+\.',item.getPlainText()):
+  end=idx+1
+  while end<len(story) and not _is_heading(story[end]):end+=1
+  packed.append(KeepTogether(story[idx:end]));idx=end
+ else:
+  packed.append(item);idx+=1
+story=packed
 # use no page numbers to avoid misleading citations
 
 def on_page(canvas,doc):
@@ -132,7 +147,7 @@ manifest['detailed_concept_chapters']=len(matches)
 manifest['total_manuscript_words']=len(md.split())
 manifest['original_diagrams']=3
 manifest['original_mcqs']=mcq_count
-manifest['primary_source_register']=23
+manifest['primary_source_register']=len(set(re.findall(r'\bS\d{2}\b', (SRC/'sources-and-audit.md').read_text(encoding='utf-8'))))
 manifest['mains_answers']=6
 import fitz
 manifest['integrated_pdf_pages']=len(fitz.open(SRC/'integrated-student-edition-2026-10-27.pdf'))

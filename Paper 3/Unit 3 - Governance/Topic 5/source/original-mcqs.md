@@ -110,41 +110,53 @@ D. Section 4, superintendence and administration.
 
 **Answer: C.** Section 6 addresses state consent; Section 5 concerns extension and must be read together with Section 6. Court-directed investigations raise a distinct constitutional exception, not a rewriting of Section 6.
 
-### MCQ 13. The national Lokpal is established under:
+### MCQ 13. Which statement correctly identifies the statutory source of the Union Lokpal, without confusing it with state ombudsman institutions?
 
-A. Lokpal and Lokayuktas Act, 2013
-B. CVC Act, 2003
-C. Telangana Lokayukta Act, 1983
-D. Consumer Protection Act, 1986
+A. The Central Vigilance Commission Act, 2003 establishes both the Union Lokpal and all state Lokayuktas.
 
-**Answer: A.** The national ombudsman framework derives from the 2013 Act, which commenced in January 2014.
+B. Section 3 of the Lokpal and Lokayuktas Act, 2013 establishes the Lokpal for the Union.
 
-### MCQ 14. Which body is correctly described as a Telangana state advisory vigilance body?
+C. The Telangana Lokayukta Act, 1983 establishes the Union Lokpal with nationwide jurisdiction.
 
-A. Telangana Vigilance Commission
-B. Central Information Commission
-C. NITI Aayog
-D. National Consumer Disputes Redressal Commission
+D. The Prevention of Corruption Act, 1988 itself constitutes the Lokpal as a criminal trial court.
 
-**Answer: A.** Telangana established its Vigilance Commission in March 2015 as an advisory body for integrity in state services.
+**Answer: B.** Section 3 of the Lokpal and Lokayuktas Act, 2013 expressly provides for establishment of the Union Lokpal. A concerns a distinct statutory vigilance commission, not the Lokpal's constituting provision; C concerns a state institution, not the Union body; D defines corruption offences and procedures but does not itself create the Lokpal or turn it into a criminal trial court. This is an institutional-source question, not a claim that every allegation against every public servant falls within Lokpal jurisdiction. [C195-01; S24]
 
-### MCQ 15. An allegation of a bribe demanded for a state certificate is most directly relevant to:
+### MCQ 14. A Telangana department receives a vigilance recommendation about suspected corruption. Which description of the Telangana Vigilance Commission's role is most accurate?
 
-A. Competent state anti-corruption investigation
-B. Only consumer product-liability proceedings
-C. Only Lok Sabha privileges
-D. Only CAG performance audit
+A. It is the Union Central Vigilance Commission exercising direct control over every Telangana police investigation.
 
-**Answer: A.** The state ACB or other competent investigator addresses criminal bribery allegations; service grievances may proceed separately.
+B. Its advice is equivalent to a final conviction by a special criminal court.
 
-### MCQ 16. The CCPA is associated with which statute?
+C. It is a state advisory vigilance body; its scheme permits scrutiny and recommendations, while criminal investigation and adjudication remain distinct functions.
 
-A. Consumer Protection Act, 2019
-B. RTI Act, 2005
-C. CVC Act, 2003
-D. DSPE Act, 1946
+D. It is the statutory Information Commission deciding appeals under RTI Section 19.
 
-**Answer: A.** The 2019 consumer statute established the Central Consumer Protection Authority.
+**Answer: C.** Telangana Vigilance Commission's official introduction and jurisdiction statements describe a state body established in March 2015 whose recommendations are advisory, even though its scheme permits calling for records and asking the ACB to register or investigate a case. A confuses Union and state institutions; B equates advice with judicial conviction; D confuses vigilance with the information-appeal jurisdiction. An advisory role is not the same as having no investigatory referral powers. [C195-02; S25]
+
+### MCQ 15. A Telangana official allegedly demands an illegal payment for issuing an otherwise valid certificate. Which routing statement correctly distinguishes the relevant institutions?
+
+A. The allegation can be referred to the competent state anti-corruption investigative agency; the Vigilance Commission's advisory role and any service grievance are separate processes.
+
+B. The Central Consumer Protection Authority must prosecute every public servant who demands a bribe.
+
+C. The State Information Commission must conduct the criminal investigation because the certificate is a public record.
+
+D. A departmental audit finding alone is a criminal conviction under the Prevention of Corruption Act.
+
+**Answer: A.** Section 7 of the Prevention of Corruption Act addresses a public servant seeking an undue advantage even where the underlying official duty would otherwise be performed properly. Telangana Vigilance Commission's jurisdiction page identifies referral to the ACB for investigation, while advice, investigation, prosecution and judicial findings are separate stages. B concerns consumer protection, not general bribery prosecution; C concerns RTI appeals, not police investigation; D wrongly treats audit evidence as a judicial verdict. The competent agency and procedural requirements depend on the facts. [C195-03; S25; S26]
+
+### MCQ 16. Which combination correctly states the Central Consumer Protection Authority's legal basis and the date of its establishment?
+
+A. RTI Act, 2005, Section 19; established in 2005 as an appellate Information Commission.
+
+B. Central Vigilance Commission Act, 2003; established in 2003 to investigate all misleading advertisements.
+
+C. Consumer Protection Act, 1986; established by the Telangana Government in 2014.
+
+D. Consumer Protection Act, 2019, Section 10; established by Central Government notification with effect from 24 July 2020.
+
+**Answer: D.** Section 10 of the Consumer Protection Act, 2019 authorises establishment of the CCPA. Central Government notification S.O. 2422(E), dated 23 July 2020, established it with effect from 24 July 2020. A is about RTI appeals, B is a different vigilance body, and C confuses the repealed consumer-law framework with the 2019 central authority and misstates the government and date. The CCPA's class-wide consumer-protection role should not be confused with an individual consumer dispute commission. [C195-04; S27]
 
 ### MCQ 17. Which RTI Act provision primarily imposes proactive publication and record-management obligations on public authorities?
 

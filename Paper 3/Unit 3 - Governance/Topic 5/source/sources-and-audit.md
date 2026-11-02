@@ -27,6 +27,11 @@
 | S21 | DARPG, Sevottam and grievance-redress workshop listings, 2025 | Continuing public-service standards activity | https://darpg.gov.in/whats-new |
 | S22 | Government of Telangana, Institute of Rural Development RTI guidance | Practical Telangana RTI request route | https://tgird.telangana.gov.in/rtiact.html |
 
+| S24 | India Code, Lokpal and Lokayuktas Act, 2013, Section 3 | Union Lokpal's constituting statutory provision; not the Telangana Lokayukta | https://www.indiacode.nic.in/bitstream/123456789/2122/1/201401.pdf |
+| S25 | Telangana Vigilance Commission, Introduction and Jurisdiction & Functions | 12–13 March 2015 establishment, advisory recommendations, ability to refer investigation to ACB | https://www.tvc.telangana.gov.in/jurisdiction_function.html |
+| S26 | India Code, Prevention of Corruption Act, 1988 (amended), Section 7 | Undue advantage for performing public duty, even if underlying decision would be proper | https://www.indiacode.nic.in/bitstream/123456789/12894/1/prevention_of_corruption_act_1988_49_of_1988.pdf |
+| S27 | Department of Consumer Affairs, S.O. 2422(E), 23 July 2020; Consumer Protection Act, 2019, Section 10 | CCPA legal basis and establishment effective 24 July 2020 | https://consumeraffairs.nic.in/sites/default/files/Estt%20of%20CCPA.pdf |
+
 ## Dated developments to integrate with static syllabus
 
 **13 November 2025 — privacy and transparency:** Gazette G.S.R. 843(E) brought Section 44(3) of the DPDP Act into force, amending the RTI Act's personal-information exemption. It did not commence the entire DPDP Act at once. Primary documents: S17–S18. The impact on public-interest disclosure remains a legal and policy debate; avoid claiming that all personal-information requests are necessarily rejected.
@@ -40,7 +45,7 @@
 ## Provenance and quality flags
 
 1. The official TGPSC Notification 02/2024 full PDF could not be directly retrieved in this production run; exact syllabus item was checked against a published reproduction. **Primary-syllabus retrieval remains open.**
-2. No official TGPSC question paper with a verified question number was obtained. All 25 MCQs and six mains prompts are original practice; **zero official PYQs verified**.
+2. No official TGPSC question paper with a verified question number was obtained. All 30 MCQs and six mains prompts are original practice; **zero official PYQs verified**.
 3. The 2025 DPDP/RTI amendment is supported by the primary Gazette and MeitY text. The detailed effect of its interpretation requires current case-law review; no blanket claim about the legality of all disclosures is made.
 4. State service rules, commission membership and consumer pecuniary jurisdiction may change; the chapter avoids unsourced universal thresholds and treats the official current rules as controlling.
 5. Statutory text, institutional webpages and administrative guidance have been internally cross-checked for role and date. **No independent academic review or line-by-line legal peer audit has occurred.**
@@ -76,3 +81,16 @@ Verification boundary: item-level author-side comparisons to the listed governme
 | C121-05 | Q30 | C; Section 19(6) | A 48-hour rule is for life-or-liberty requests; B statutory period exists; D 90 days concerns second-appeal filing |
 
 **Verification boundary:** The five new keys and 15 new distractors were author-side correlated with the named primary statutory provisions; these are not independent examiner approvals. All 30 questions are original practice; verified official PYQs remain zero. The previous 25 keys/75 distractors and six mains answers still require independent claim-level audit. Direct Commission-hosted syllabus authentication, full browser accessibility, diagram review and named expert approval remain pending. R1–R8 are incomplete; R9 NOT_STARTED.
+
+## Cycle 195 — 3 November 2026: Four institutional-remedy MCQs revised in place
+
+Original practice Q13–Q16 were rewritten to distinguish the Union Lokpal, Telangana Vigilance Commission, state anti-corruption investigation and CCPA. The four correct answers and twelve distractors received **bounded author-side primary-document comparisons**; this is neither independent legal review nor official PYQ authentication.
+
+| Audit | Question | Key | Primary support | Distractor check |
+|---|---|---|---|---|
+| C195-01 | Q13 | B | S24, Lokpal Act s.3 | A CVC separate; C Telangana state ombudsman; D PC Act offences, not Lokpal constitution |
+| C195-02 | Q14 | C | S25, TVC establishment and jurisdiction | A Union/state confusion; B advisory ≠ conviction; D RTI forum separate |
+| C195-03 | Q15 | A | S25 TVC ACB referral; S26 PC Act s.7 | B consumer body; C RTI appeal; D audit ≠ criminal verdict |
+| C195-04 | Q16 | D | S27, CCPA notification; Consumer Act 2019 s.10 | A RTI; B CVC; C wrong Act, authority, date |
+
+**Boundary:** The institutional sources establish their described powers and dates, not that any particular complaint was registered, any prosecution succeeded or any 2026 administrative roster remains unchanged. All 30 practice questions and six mains answers are retained. Remaining questions, mains, official Commission PDF, diagram and accessibility review are not independently certified. R1–R8 incomplete; R9 NOT_STARTED; independent approvals ZERO.
