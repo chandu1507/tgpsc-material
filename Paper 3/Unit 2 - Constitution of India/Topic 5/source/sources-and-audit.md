@@ -51,3 +51,12 @@
 - Article 243Y(1), PDF page 318, refers to the State Finance Commission constituted under Article 243I for municipal review. Article 243K(2), PDF page 302, protects the State Election Commissioner from removal except in like manner and on like grounds as a High Court judge. Article 243ZE(3), PDF page 324, enumerates the MPC's planning inputs.
 - Five **new original practice** MCQs Q26–Q30 have author-side correspondence for their five keys and all fifteen distractors. The first 25 MCQs and all six mains remain **not independently claim-audited**. No official PYQ or authenticated current Telangana DPC/MPC roster is claimed. R1–R8 and R9 status are unchanged; independent academic approvals remain ZERO.
 
+
+## 3 November 2026 — Cycle 190 bounded constitutional/GST MCQ checks
+
+- **S20:** Legislative Department, Constitution of India (official text), Article 254(2), https://legislative.gov.in/constitution-of-india-archive — Presidential assent exception is State-specific and Parliament retains subsequent overriding power.
+- **S21:** GST Council official institutional guidance, Article 279A and formal weighted voting, https://gstcouncil.gov.in/gst-council-0 — Union one-third, States collectively two-thirds, three-fourths approval threshold, quorum distinct.
+- **S22:** GST Council publication of Supreme Court *Union of India v Mohit Minerals* (19 May 2022), https://gstcouncil.gov.in/sites/default/files/gst-knowledge/GST-and-Co-operative-Federalism.pdf — Council recommendations do not themselves constitute legislation; legal character must be read with constitutional powers.
+- **S23:** Finance Commission of India official remit, Article 280(3), https://fincomindia.nic.in/about-us — Union–State tax distribution and augmentation of State funds for local bodies.
+- Original practice **Q5–Q8** revised in place. Four correct keys and twelve distractors received **author-side** checks. Remaining Q1–Q4 and Q9–Q30, all six mains, diagrams and accessibility are not newly certified. No official PYQs or independent approvals claimed.
+- **R1 remains IN_PROGRESS:** the Commission's 2022 Group-I scheme PDF at https://websitenew.tspsc.gov.in/preview/PRESSNOTE/Group-SchemeandSyllabus20220603142210.pdf supports the federal-system wording; a 2024 notification reproduction matches it, but byte-identical access to the Commission's 02/2024 notification was not established in this cycle.
