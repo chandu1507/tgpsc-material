@@ -14,6 +14,11 @@ TITLE='Debates on Development and Development Processes; State and Market; Civil
 parts=['syllabus-and-summary.md','detailed-notes.md','cycle120-concept.md','visual-learning.md','quick-revision.md','original-mcqs.md','cycle120-mcqs.md','mains-model-answers.md','sources-and-audit.md','cycle120-source-audit.md','cycle194-primary-source-audit.md']
 header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 4 | Expanded draft | 31 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All 30 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
 md=header+'\n\n'.join((SRC/p).read_text(encoding='utf-8') for p in parts)
+# Keep 26 legacy one-line A/B/C/D option sets readable in integrated HTML/PDF.
+# Original MCQ source files and original topic PDF are never rewritten.
+option_line = re.compile(r'(?m)^A\. [^\n]+?  B\. [^\n]+?  C\. [^\n]+?  D\. [^\n]+$')
+assert len(option_line.findall(md))==26, 'Legacy MCQ option layout changed unexpectedly'
+md=option_line.sub(lambda m: re.sub(r'  (?=[BCD]\. )', '  \n', m.group(0)), md)
 (SRC/'complete-notes.md').write_text(md,encoding='utf-8')
 # offline HTML
 htmlbody=mistune.create_markdown(plugins=['table','strikethrough'])(md)
