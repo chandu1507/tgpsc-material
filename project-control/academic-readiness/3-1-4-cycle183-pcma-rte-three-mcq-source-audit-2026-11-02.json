@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-02",
+  "cycle": 183,
+  "topic_id": "3-1-4",
+  "title": "Social Issues and Social Movements in Telangana",
+  "scope": "Author-side primary-statute verification of three existing original practice MCQs, preserving all 30 and six mains",
+  "starting_main_sha": "36956a45c1e0247f92ef0803c08fdad3f7670629",
+  "question_ids": [
+    16,
+    17,
+    24
+  ],
+  "correct_keys": {
+    "16": "B",
+    "17": "C",
+    "24": "A"
+  },
+  "checked_correct_answers": 3,
+  "checked_distractors": 9,
+  "option_audit": [
+    {
+      "question": 16,
+      "A": "INCORRECT: RTE section 5 regulates school transfers, not child-marriage injunctions",
+      "B": "CORRECT: PCMA section 13 authorises a judicial preventive injunction",
+      "C": "INCORRECT: Bonded Labour Abolition Act section 4 abolishes bonded labour",
+      "D": "INCORRECT: Constitution Article 17 abolishes untouchability, not child-marriage injunctions",
+      "source": "C183-1"
+    },
+    {
+      "question": 17,
+      "A": "INCORRECT: PCMA section 3 generally provides voidability, not automatic nullity",
+      "B": "INCORRECT: PCMA section 3 does not require a prior criminal conviction to petition",
+      "C": "CORRECT: PCMA sections 3,12,14 distinguish voidable and specified void situations",
+      "D": "INCORRECT: section 3 grants the child party the annulment option, not only the adult party",
+      "source": "C183-1"
+    },
+    {
+      "question": 24,
+      "A": "CORRECT: RTE section 5(3) transfer-certificate delay cannot by itself block admission",
+      "B": "INCORRECT: RTE section 5 does not require permanent destination-State residence",
+      "C": "INCORRECT: RTE section 5(2) expressly covers interstate transfer",
+      "D": "INCORRECT: section 5(3) expressly bars delay/denial on that ground",
+      "source": "C183-2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "C183-1",
+      "title": "Prohibition of Child Marriage Act, 2006, India Code consolidated PDF",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/15426/1/the_prohibition_of_child_marriage_act%2C_2006.pdf",
+      "verified_sections": [
+        "2",
+        "3",
+        "12",
+        "13",
+        "14"
+      ],
+      "limitation": "Contains Karnataka-specific amendment; not treated as Telangana law; no comprehensive state-specific or litigation audit"
+    },
+    {
+      "id": "C183-2",
+      "title": "Right of Children to Free and Compulsory Education Act, 2009, India Code Gazette/Act PDF",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/4322/1/rte_goi_2009.pdf",
+      "verified_sections": [
+        "2",
+        "4",
+        "5",
+        "9(k)"
+      ],
+      "limitation": "2009 enactment text checked; no comprehensive later amendment or state implementation audit"
+    }
+  ],
+  "editable_files": [
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/original-explained-mcqs.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/complete-notes.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/integrated-student-edition-2026-10-30.md",
+    "Paper 3/Unit 1 - Indian Society/Topic 4/source/references.md"
+  ],
+  "preservation": {
+    "original_topic_pdf_sha256_required": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3",
+    "original_topic_count": 75,
+    "original_mcq_count": 30,
+    "original_mains_count": 6,
+    "official_pyq_claims": 0
+  },
+  "gate_claims": {
+    "R1": "PASS_UNCHANGED",
+    "R2_to_R8": "UNCHANGED",
+    "fully_ready": 0,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED"
+  },
+  "pending": [
+    "Merge and GitHub CI render",
+    "Actual downloaded postrender artifact CRC/SHA/75 originals/links QA",
+    "All remaining question options and mains claims",
+    "Independent reviewer and accessibility testing"
+  ]
+}
