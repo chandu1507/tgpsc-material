@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle175 Topic3-1-2 four concepts 6,8,9,10 expanded; 8→4 under300; CI/actual artifact pending. Exactly75 original PDFs/readiness records; R1 PASS14, fully ready0, independent approvals0, R9 NOT_STARTED.",
+  "warning": "Cycle175 Topic3-1-2 42-page actual GitHub PDF; post-render downloaded artifact 13115137342 SHA/CRC/75 originals/75 readiness/634 links/1581 fragments PASS. QA evidence commit postdates inspected archive; repackage. 7 IN_PROGRESS, 68 rebuild, 14 R1 PASS, fully ready0, approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",

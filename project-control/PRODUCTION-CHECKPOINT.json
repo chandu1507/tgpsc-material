@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "3-1-2 Cycle175 four source-bounded concept expansions, 4/23 under300, local render PASS; CI artifact pending; approvals0.",
+    "last_reported_topic": "3-1-2 Cycle175: four source-bounded concepts expanded, 4/23 under300; 42-page actual GitHub PDF, artifact13115137342 CRC/SHA/link QA PASS; final post-QA package pending; approvals0.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -413,7 +413,18 @@
       "original_pdfs": 75,
       "readiness_records": 75,
       "approvals": 0,
-      "ci_artifact": "PENDING"
+      "ci_artifact": "PENDING",
+      "render_run": 41385520200,
+      "package_run": 41385520208,
+      "artifact_id": 13115137342,
+      "actual_pdf_pages": 42,
+      "actual_pdf_sha256": "4ea8372d57b36e3ca73c7cb0b62a8a6ac415f6be39667e148cd2c4aa488c94fa",
+      "artifact_sha256": "0be06c0b68616dec686a423d8c49c26a990ac34bf4d6acfdd6910a1bf6e7aa8b",
+      "local_links": 634,
+      "fragments": 1581,
+      "broken_links": 0,
+      "academic_approvals": 0,
+      "final_post_qa_package": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
