@@ -7,28 +7,28 @@ A. Rajya Sabha
 B. Lok Sabha  
 C. Joint sitting of both Houses  
 D. President acting alone  
-**Answer: B.** Article 75(3) makes the Union Council collectively responsible to the Lok Sabha. Rajya Sabha can scrutinise and criticise but cannot constitutionally remove the ministry through no-confidence.
+**Answer: B.** Article 75(3) makes the Union Council collectively responsible to the Lok Sabha, so B is correct. A is wrong because Rajya Sabha can question the ministry but cannot withdraw the confidence constitutionally required from Lok Sabha. C is wrong because an Article 108 joint sitting resolves specified legislative deadlocks, not ministerial confidence. D is wrong because the President is the constitutional head, not an independently voting house empowered to remove a ministry through a no-confidence motion. [S14]
 
 ### Q2. Which of the following is *not* included in the President's electoral college?
 A. Elected Lok Sabha members  
 B. Elected Rajya Sabha members  
 C. Elected members of Telangana Legislative Assembly  
 D. Elected members of Telangana Legislative Council  
-**Answer: D.** Article 54 includes elected members of Parliament and of specified Legislative Assemblies, not MLCs; nominated MPs also do not vote in this election.
+**Answer: D.** Article 54 includes elected members of both Houses of Parliament (A and B) and elected members of state Legislative Assemblies, including Telangana (C). It does not include elected state Legislative Council members (D, the correct exclusion). Nominated MPs are also outside the Article 54 college; do not confuse this election with the Vice-President election under Article 66. [S14]
 
 ### Q3. A President returns the Council of Ministers' advice for reconsideration under Article 74. The Council reiterates it. The President must:
 A. Call a national referendum  
 B. Refer it automatically to the Supreme Court  
 C. Act in accordance with the reconsidered advice  
 D. Dismiss the Council  
-**Answer: C.** The Forty-fourth Amendment's proviso permits reconsideration once, not an unlimited personal veto over ministerial advice.
+**Answer: C.** Under the proviso to Article 74(1), the President may seek reconsideration, but must act on the advice tendered after reconsideration; C is correct. A is wrong because Article 74 creates no referendum mechanism. B is wrong because no automatic Supreme Court reference is prescribed for reiterated advice. D is wrong because disagreement with reiterated advice does not itself authorise dismissal of the Council. This is distinct from exceptional situations involving loss of Lok Sabha confidence. [S14]
 
 ### Q4. A person appointed Union minister without membership of either House must normally obtain membership within:
 A. Three months  
 B. Six months  
 C. One year  
 D. The full Lok Sabha term  
-**Answer: B.** Article 75(5) specifies six months; Article 164(4) contains the corresponding state rule.
+**Answer: B.** Article 75(5) makes a Union minister cease to hold office after six consecutive months without membership of either House, so B is correct. A and C invent three-month and one-year periods not found in that clause; D incorrectly ties the deadline to the full Lok Sabha term, even though Rajya Sabha membership also qualifies. Article 164(4) contains the analogous state-legislature rule. [S14]
 
 ### Q5. With 119 members in the Telangana Assembly, what is the maximum size of its Council of Ministers including the Chief Minister under Article 164(1A)?
 A. 12  
