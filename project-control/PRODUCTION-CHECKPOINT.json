@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "Cycle192 Topic3-3-2 original Q5/Q6/Q9/Q13 16 bounded constitutional-option checks, readable 43-page CI PDF; actual packaging artifact 13174212274 DOWNLOADED digest/CRC/75 originals/75 readiness/634 links/1581 fragments/17 manifest PASS; R1 PASS20, approvals0. QA evidence commit postdates artifact, post-evidence package pending.",
+    "last_reported_topic": "Cycle193 Topic3-3-3 repaired Q26–Q30 S25 constitutional-source misattribution to S26; revised Q6/Q10 with 2 keys/6 distractors checked author-side; 28 source rows, 42-page CI PDF. Actual GitHub packaging artifact 13178986598 DOWNLOADED, SHA/digest/outer+inner CRC PASS, 75 unchanged originals, 75 readiness, 92 HTML, 634 file links/1582 fragments zero broken, 16/16 topic manifest checks PASS. Status 7 IN_PROGRESS/68 REBUILD/0 NOT_ASSESSED, R1 PASS20, fully ready0, approvals0. QA evidence commit postdates inspected artifact; post-evidence package pending.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -1759,7 +1759,7 @@
     "fully_R1_to_R8_ready": 0,
     "independent_academic_approvals": 0
   },
-  "last_readiness_update": "Cycle192 Topic3-3-2 original Q5/Q6/Q9/Q13 16 bounded constitutional-option checks, readable 43-page CI PDF; actual packaging artifact 13174212274 DOWNLOADED digest/CRC/75 originals/75 readiness/634 links/1581 fragments/17 manifest PASS; R1 PASS20, approvals0. QA evidence commit postdates artifact, post-evidence package pending.",
+  "last_readiness_update": "Cycle193 Topic3-3-3 repaired Q26–Q30 S25 constitutional-source misattribution to S26; revised Q6/Q10 with 2 keys/6 distractors checked author-side; 28 source rows, 42-page CI PDF. Actual GitHub packaging artifact 13178986598 DOWNLOADED, SHA/digest/outer+inner CRC PASS, 75 unchanged originals, 75 readiness, 92 HTML, 634 file links/1582 fragments zero broken, 16/16 topic manifest checks PASS. Status 7 IN_PROGRESS/68 REBUILD/0 NOT_ASSESSED, R1 PASS20, fully ready0, approvals0. QA evidence commit postdates inspected artifact; post-evidence package pending.",
   "last_readiness_reconciliation": "Cycle189 actual 75 original PDFs and 75 per-topic JSON; 7 IN_PROGRESS/68 REBUILD/0 NOT_ASSESSED; normalized R1 PASS20; 0 fully ready, 0 independent approvals. Topic3-2-4 Q1-4 source-bounded and manifest repair independently artifact-verified.",
   "academic_readiness_counts": {
     "IN_PROGRESS": 7,
