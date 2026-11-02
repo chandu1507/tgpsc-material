@@ -61,7 +61,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "27 Oct Cycle30: direct current source audit found 11 substantial concepts 605–910 words, 25 original explained MCQs, six mains; body-only recount 205/210/196/200/200/194 contradicts historical manifest 220/228/208/211/212/208. M3 and M6 below 200-word minimum. Two existing SVG diagrams need visual accuracy check. Limited Supreme Court 2025 judgment reiteration of L Chandra Kumar and official eCourts Phase III scope reviewed; NOT complete R4/R5/R6. No synchronized new PDF; original 42-page PDF preserved. Cycle31: source and consolidated master plus offline HTML corrected M3 and M6 to body-only 239/235 words; source-limited 2023 Supreme Court reiteration and eCourts Phase III dashboard correspondence. No complete factual review or independent approval. Two SVGs embedded in canonical source; integrated PDF workflow pending. Cycle31 GitHub Actions synchronized integrated PDF for Topic 3-2-4 actually packaged and independently downloaded from run 40458404442 artifact 12712828105; outer/inner CRC, original 75 PDF hashes, static links and PDF text boundaries checked. Full browser accessibility not certified; R8 not PASS. Cycle115: 5 original practice MCQs Q26-Q30 source-bounded to official Constitution Arts129/130/144/215/233/234; 5 keys/15 distractors author checked, 4 existing B options reordered to D; 30 total, A7/B8/C7/D8. Full independent academic and browser audit pending. Original 75 PDFs preserved by workflow guard; CI render/artifact QA pending. Cycle115 post-render Actions 41093473197 SUCCESS, 36-page PDF SHA87b61658; early package 12994578697 rejected as stale PDF; actual post-render artifact 12993939939 downloaded and verified SHA/CRC/75 originals/597 links/1050 fragments PASS. R8 remains IN_PROGRESS; full browser/academic checks pending.",
-  "next_action": "Check remaining 26 MCQs and six mains claim-by-claim; official 2024 notification direct page authentication; diagrams and accessibility. Cycle189 Q1–4 source-bounded only.",
+  "next_action": "26 remaining MCQ keys and 78 distractors, six mains claim-by-claim; official 2024 syllabus original PDF authentication, diagram and accessibility QA. Cycle189 verified artifact but no R1-R8 approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "last_updated_cycle": 189,
@@ -113,7 +113,11 @@
     "R2_R8": "IN_PROGRESS",
     "R9": "NOT_STARTED",
     "independent_approvals": 0,
-    "CI_pdf": "PENDING",
-    "actual_downloaded_artifact_qa": "PENDING"
+    "CI_pdf": "SUCCESS_36_PAGES",
+    "actual_downloaded_artifact_qa": "VERIFIED_13166561604",
+    "actual_pdf_sha256": "891df6de2a682e524a90926ffb8fbde9354672f80f7fb4e0231dc0916514baff",
+    "artifact_sha256": "30f5b628f9e0a5c220952ece7fe635a9a6361b1458f17b8862f3bac18c70bd27",
+    "manifest_hashes_verified": 33,
+    "qa_evidence": "project-control/academic-readiness/3-2-4-cycle189-actual-downloaded-manifest-repaired-artifact-qa-2026-11-02.json"
   }
 }
