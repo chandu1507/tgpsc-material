@@ -1,6 +1,6 @@
 # Authoritative evidence register and academic audit ledger
 
-**Evidence date:** 23 October 2026; additional Article 167/243S/243U/243X/243ZA text checks on 31 October 2026. **Status:** internally checked draft, **NOT academically approved**. The numbered references are part of the student-facing evidence trail; they are not claims of verified official PYQs.
+**Evidence date:** 23 October 2026; additional constitutional-text checks on 31 October and 3 November 2026. **Status:** internally checked draft, **NOT academically approved**. The numbered references are part of the student-facing evidence trail; they are not claims of verified official PYQs.
 
 | ID | Primary source and link | Specific proposition checked | Limit / caution |
 |---|---|---|---|
@@ -26,6 +26,9 @@
 | S20 | [Telangana Minorities Welfare Department](https://www.telangana.gov.in/departments/minorities-welfare/) | Minorities Finance Corporation and welfare mandate | Officeholders and programme availability change |
 | S21 | [CAG Duties, Powers and Conditions of Service Act, 1971](https://www.cag.gov.in/en/page-duties-power-and-conditions-of-services-act) | Constitutional/statutory audit framework | Audit finding does not establish criminal guilt |
 | S22 | [Supreme Court — Union of India v. Rajendra N. Shah, 20 July 2021](https://api.sci.gov.in/supremecourt/2013/21321/21321_2013_32_1501_28728_Judgement_20-Jul-2021.pdf) | Part IXB invalid as to wholly intra-state cooperatives; Article 43B survives | Read majority holding and separate opinion carefully |
+| S23 | [Ministry of Panchayati Raj — official Part IX constitutional extract](https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/02/2023021550.pdf) | Article 243A Gram Sabha; 243G Panchayat powers; 243I Finance Commission; 243K State Election Commission | Official ministry-hosted excerpt; check current amendments if the examination cutoff changes |
+| S24 | [Legislative Department — Constitution (74th Amendment) Act, 1992](https://www.legislative.gov.in/static/uploads/2025/07/8e3828fa91baa94f3aaa74cdc4152cf2.pdf) | Article 243W municipal functions, 243X municipal taxes, 243Y municipal finance, 243ZA elections; Twelfth Schedule 18 items | Original amendment text; compare with current Constitution for later amendments |
+| S25 | [Ministry of Panchayati Raj — official Eleventh Schedule extract](https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/02/2023021533.pdf) | 29 Eleventh Schedule subjects linked to Article 243G | Listing alone is not evidence of implementation/devolution in Telangana |
 
 ## Claim-by-claim internal checks
 
@@ -55,3 +58,16 @@ The [Legislative Department Constitution of India, July 2025 publication](https:
 **Editorial-only reordering:** Nine existing B-keyed questions (Q1, Q3, Q4, Q7, Q8, Q9, Q11, Q12, Q14) had the correct option proposition moved to another letter with the same four substantive options; no legal claims were rewritten. This reduces answer-position cueing but is **not** a substitute for verifying those nine keys or all 75 original distractors. After addition the distribution is A8/B7/C8/D7.
 
 **Open gates:** R1 official notification direct access, all 30 keys and 90 distractors independent audit, six mains claim-level audit, state-law amendment currency, accessibility, and independent named reviewer. R9 NOT_STARTED, approvals ZERO.
+
+## Cycle 192: bounded constitutional MCQ review (3 November 2026)
+
+Existing original practice **Q5, Q6, Q9 and Q13** were revised **in place**. The four correct keys **A/C/D/A** and twelve distractors were checked against Ministry of Panchayati Raj's published Part IX and Eleventh Schedule extracts and the Legislative Department's Seventy-fourth Amendment text (S23–S25). The checks distinguish a Gram Sabha from an elected Panchayat, 29 rural versus 18 urban schedule matters, state-law devolution from automatic vesting, and the State Finance Commission from the State Election Commission and Union Finance Commission.
+
+| Question | Supported answer | Distractor A | Distractor B | Distractor C | Distractor D |
+|---|---|---|---|---|---|---|
+| Q5 | A, Art. 243A | Correct: state-law-defined Gram Sabha powers | 243G/11th Schedule concern Panchayats, not automatic Gram Sabha transfer | 243K SEC, not Gram Sabha | 243I Governor constitutes SFC |
+| Q6 | C, Arts. 243G/243W | Swaps article links | Reverses 29/18 counts | Correct rural/urban schedule links | 243X is municipal taxation, not schedule functions |
+| Q9 | D, Art. 243W | No automatic vesting | 243Y SFC reviews finance, not service assignment | 243X covers municipal taxation | Correct: State legislation may endow functions |
+| Q13 | A, Arts. 243I/243Y | Correct: same SFC framework reviews rural and urban finances | Article 280 establishes Union FC | Article 243K establishes SEC | Article 243ZA concerns SEC municipal elections |
+
+**Boundaries:** This is author-side proposition verification of 16 answer options, **not** independent subject-expert approval, not verification of the other 26 MCQs/78 distractors, not a current Telangana-law audit, not an official-PYQ authentication, and not a complete R1–R8 gate pass. Commission-hosted 2024 syllabus PDF remains unverified; R1 stays IN_PROGRESS and R9 NOT_STARTED.
