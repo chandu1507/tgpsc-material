@@ -17,7 +17,7 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
@@ -34,9 +34,10 @@
     "project-control/academic-readiness/3-1-5-cycle108-ci-layout-race-evidence-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle108-final-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-5-cycle109-five-concept-primary-source-depth-audit-2026-10-30.json",
-    "project-control/academic-readiness/3-1-5-cycle109-actual-downloaded-post-layout-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/3-1-5-cycle109-actual-downloaded-post-layout-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/3-1-5-cycle184-original-2024-r1-eight-clause-crosswalk-2026-11-02.json"
   ],
-  "next_action": "Six concepts remain below300 (3,7,9,12,13,15); independently verify 30 MCQ keys and 90 distractors, all six mains claims, source registers, diagrams and browser accessibility. Post-control artifact repackage pending; R1-R8 not ready, R9 not started.",
+  "next_action": "Cycle184 original 2024 Notification 02/2024 Annexure II printed p30 directly inspected; 8/8 syllabus clause groups mapped to existing 18-section integrated master; R1 PASS only. R2-R8 unchanged; 30 MCQs/90 distractors, six mains, six shallow concepts, diagrams and browser/accessibility remain pending. Re-render and downloaded-artifact QA pending; approvals0.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -171,5 +172,16 @@
     "actual_downloaded_packaging_run": 41044849142,
     "actual_downloaded_artifact_id": 12970844174,
     "pdf_layout": "THREE_VECTOR_DIAGRAMS_GROUPED_AND_FINAL_TWO_MAINS_NOT_ORPHANED"
+  },
+  "cycle184": {
+    "date": "2026-11-02",
+    "scope": "Direct 2024 TGPSC Group-I Annexure-II printed p30; eight syllabus clause groups mapped to integrated master sections 3-16",
+    "R1": "PASS",
+    "other_gates": "UNCHANGED",
+    "original_pdfs_preserved": true,
+    "academic_approvals": 0,
+    "renderer": "PENDING",
+    "actual_artifact_QA": "PENDING",
+    "source": "project-control/academic-readiness/3-1-5-cycle184-original-2024-r1-eight-clause-crosswalk-2026-11-02.json"
   }
 }
