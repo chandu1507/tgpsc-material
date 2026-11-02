@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "2-3-5 Cycle172: corrected body-only counts 237/236/230/224/211/237 and actual 25-page GitHub PDF verified; 0 approvals.",
+    "last_reported_topic": "3-1-2 Cycle174: four substantive concept expansions and bounded primary-source table checks; 8/23 under300; GitHub CI/artifact pending; approvals0.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -376,6 +376,26 @@
       "post_count_correction_artifact_qa": "PASS",
       "post_count_correction_artifact_id": 13108808062,
       "corrected_actual_pdf_sha256": "29c7c00326944436dfab365793a77dc80da4f81aec02769fdb166bbf85267da2"
+    },
+    "cycle174": {
+      "topic": "3-1-2",
+      "expanded_concepts": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "under300_before_after": [
+        12,
+        8
+      ],
+      "local_pdf_pages": 40,
+      "local_pdf_sha256": "37757a955e5ba0bc9332bf53573707e256978952ccf305a0879e9043ba54cb58",
+      "original_topic_pdfs": 75,
+      "readiness_records": 75,
+      "fully_ready": 0,
+      "independent_approvals": 0,
+      "ci_artifact": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
