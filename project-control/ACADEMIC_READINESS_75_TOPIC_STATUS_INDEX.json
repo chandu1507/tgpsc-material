@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle177 3-1-2 concepts21/23 author-side source-bounded expansions, 553/565 body words, 0/23 under300 mechanical. GitHub render and downloaded-artifact QA PENDING. 7 IN_PROGRESS/68 REBUILD/0 NOT_ASSESSED, normalized R1 PASS14, fully ready0, approvals0.",
+  "warning": "Cycle177 3-1-2 concepts21/23 source-bounded expansions 553/565 body words, 0/23 under300 mechanical; GitHub 45-page PDF, downloaded artifact13119916312 SHA/CRC/75 originals/75 readiness/634 local links/1581 fragments PASS. Evidence commit postdates archive; final package pending. 7 IN_PROGRESS/68 REBUILD/0 NOT_ASSESSED; normalized R1 PASS14, fully ready0, approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
