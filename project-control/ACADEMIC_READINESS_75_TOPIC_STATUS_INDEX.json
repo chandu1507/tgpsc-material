@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle184 Topic3-1-5 R1 PASS; 17/75 R1 PASS; actual artifact13142883649 downloaded SHA/CRC/75 originals/75 readiness/592 local links/1581 fragments PASS. QA evidence commit postdates archive; final package pending. R1-R8 ready0, approvals0.",
+  "warning": "Cycle186 Topic3-2-1 R1 PASS for 2024 notification p30 syllabus correspondence; 4 original MCQ keys and 12 distractors author-side checked. CI PDF/artifact QA pending; 0 fully R1-R8 ready; 0 independent approvals.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -174,6 +174,7 @@
     "3-1-3",
     "3-1-4",
     "3-1-5",
+    "3-2-1",
     "4-1-1",
     "4-1-2",
     "4-1-3",
@@ -181,7 +182,7 @@
     "5-3-5",
     "6-1-1"
   ],
-  "verified_R1_pass_count": 17,
+  "verified_R1_pass_count": 18,
   "recent_evidence": [
     "project-control/academic-readiness/3-1-5-cycle185-final-post-layout-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/3-1-5-cycle184-actual-downloaded-post-link-fix-artifact-qa-2026-11-02.json",
