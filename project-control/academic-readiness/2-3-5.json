@@ -39,9 +39,10 @@
     "project-control/academic-readiness/2-3-5-cycle171-eight-remaining-original-mcq-four-option-source-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle171-precontrol-downloaded-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle171-final-downloaded-postcontrol-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json"
+    "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json",
+    "project-control/academic-readiness/2-3-5-cycle172-actual-downloaded-postcontrol-artifact-qa-2026-11-02.json"
   ],
-  "next_action": "Cycle172: six mains answer claims mapped to bounded institutional sources; corrected 2031-vs-2025 HMDA boundary inference, wastewater reuse overstatement and UNESCO tentative-listing confusion. All six body-only answers 200-250 words. First downloaded CI artifact 13108064686 had footer-only page 26 missed by old QA; renderer fixed in PR333, CI run 41369693412 SUCCESS. New post-fix publication artifact download/independent QA PENDING. No R1-R8 or independent expert promotion.",
+  "next_action": "Cycle172 six mains bounded claim audit completed author-side, body counts 247/250/242/234/222/250. Footer-only PDF page fixed. Post-control artifact 13108896301 actually downloaded SHA/CRC/75 originals/75 readiness/592 local links/1581 fragments PASS; actual 25-page PDF SHA256 56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952, zero footer-only/blank/glyph/bounds. QA evidence commit postdates archive; repackage for evidence inclusion. Independent mains/MCQ/diagram/browser/accessibility review still pending, R9 NOT_STARTED.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -66,9 +67,9 @@
     "qualitative_depth_pass": false,
     "source_level_mains_audit": false,
     "pdf_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 5/source/integrated-student-edition-2026-10-27.pdf",
-    "pdf_sha256": "1a1d39ecd14ef9e8fc244749c8e1d000e622f74bdae0fefa927f154671418e02",
+    "pdf_sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952",
     "pdf_pages": 25,
-    "actual_downloaded_artifact_id": 13106134868,
+    "actual_downloaded_artifact_id": 13108896301,
     "portal_links_checked": true,
     "full_resolution_every_page_accessibility_certified": false
   },
@@ -277,8 +278,10 @@
     "renderer_fix_ci_run": 41369693412,
     "first_downloaded_artifact_id": 13108064686,
     "first_artifact_footer_only_page": 26,
-    "post_fix_downloaded_artifact_qa": "PENDING",
+    "post_fix_downloaded_artifact_qa": "PASS",
     "independent_academic_approvals": 0,
-    "R9": "NOT_STARTED"
+    "R9": "NOT_STARTED",
+    "post_fix_artifact_id": 13108896301,
+    "post_fix_pdf_sha256": "56db73d0252d2707602569e85099ac14d83d250299933f088f31db6b186ad952"
   }
 }
