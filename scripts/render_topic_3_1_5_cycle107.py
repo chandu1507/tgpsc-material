@@ -150,6 +150,22 @@ def footer(canvas,doc):
     canvas.drawRightString(w-42,26,f'Page {doc.page}')
     canvas.restoreState()
 
+# Keep each MCQ's stem, options, key and explanation together; avoid orphaned questions.
+reflow=[];mcq_group=None
+for item in story:
+    plain=item.getPlainText().strip() if isinstance(item,Paragraph) else ''
+    is_mcq=bool(re.fullmatch(r'MCQ [1-9][0-9]*',plain))
+    after_mcqs=plain.startswith('Part C') or plain.startswith('Six original structured mains')
+    if is_mcq or after_mcqs:
+        if mcq_group is not None:
+            reflow.append(KeepTogether(mcq_group))
+            mcq_group=None
+    if is_mcq:mcq_group=[item]
+    elif mcq_group is not None:mcq_group.append(item)
+    else:reflow.append(item)
+if mcq_group is not None:reflow.append(KeepTogether(mcq_group))
+story=reflow
+
 assert rendered_diagrams==['01_entitlement_chain.svg','02_policy_matrix.svg','03_district_convergence.svg'],rendered_diagrams
 doc=SimpleDocTemplate(str(out),pagesize=A4,rightMargin=42,leftMargin=42,topMargin=45,bottomMargin=52,invariant=1,title="TGPSC Paper III Unit I Topic 5 - Social Policies Integrated Edition",author="TGPSC Academic Readiness Production")
 doc.build(story,onFirstPage=footer,onLaterPages=footer)
