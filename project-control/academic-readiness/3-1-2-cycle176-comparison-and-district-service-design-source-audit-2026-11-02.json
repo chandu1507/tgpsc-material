@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-02",
+  "cycle": 176,
+  "topic_id": "3-1-2",
+  "baseline_main": "a3c7f7f5b40afd7c9e524c3a5b5a805acba2bba7",
+  "original_topics_expected": 75,
+  "original_pdf_sha256_expected": "9d376a4784e8d040e41985788ddae677fa95363d816ec6a4694a4f9439360921",
+  "expanded_existing_concepts": [
+    20,
+    22
+  ],
+  "body_only_whitespace_words_before": {
+    "20": 207,
+    "22": 206
+  },
+  "body_only_whitespace_words_after": {
+    "20": 568,
+    "22": 636
+  },
+  "under_300_before_after": [
+    4,
+    2
+  ],
+  "remaining_short_concepts": [
+    21,
+    23
+  ],
+  "verified_structure": {
+    "concepts": 23,
+    "original_practice_mcqs": 25,
+    "mains": 6
+  },
+  "sources": [
+    {
+      "id": "E176-01",
+      "authority": "Ministry of External Affairs",
+      "url": "https://www.mea.gov.in/Images/pdf1/Part16.pdf",
+      "verification": "DIRECT_OFFICIAL_PDF",
+      "scope": "Articles 341 and 342 SC/ST notifications in relation to State/UT; no individual community-entry check"
+    },
+    {
+      "id": "E176-02",
+      "authority": "National Commission for Backward Classes",
+      "url": "https://ncbc.nic.in/user_panel/centralliststateview.aspx",
+      "verification": "OFFICIAL_SEARCH_INDEX_ONLY_DIRECT_FETCH_502",
+      "scope": "Existence of state-wise central OBC list; no entry-level Telangana verification"
+    },
+    {
+      "id": "E176-03",
+      "authority": "India Code",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/13684/1/a2016-49_act.pdf",
+      "verification": "DIRECT_OFFICIAL_PDF_REDIRECT_TO_CONSOLIDATED",
+      "scope": "RPwD sections 32,34,40-48: legal provisions, not implementation"
+    }
+  ],
+  "worked_examples": "EXPLICITLY_HYPOTHETICAL_NOT_TELANGANA_DATA",
+  "status": "AUTHOR_SIDE_PARTIAL_SOURCE_CHECK_ONLY",
+  "r1_to_r8_fully_ready": false,
+  "r9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "pdf_ci": "PENDING",
+  "downloaded_github_artifact_qa": "PENDING",
+  "limitations": [
+    "NCBC official page direct fetch returned 502; only search-index correspondence",
+    "No independent current-law, case-law, original PYQ, full textbook or district impact evaluation",
+    "No actual browser or screen-reader QA",
+    "The 300-word threshold is mechanical and does not establish qualitative R3 readiness"
+  ]
+}

@@ -51,3 +51,13 @@ Research safeguards: exact legal operative wording must be checked for amendment
 - **E175-04 — NSO/MoSPI, *Time Use Survey 2024* fact sheet, 25 February 2025:** https://www.mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf . Direct official PDF excerpt checked: age 6+ participation 81.5% female/27.1% male for unpaid domestic services, and conditional participant means 289/88 minutes. National reference-day estimates; no Telangana extrapolation.
 
 **Scope:** Concepts 6, 8, 9 and 10 expanded in place; 23 concepts, 25 original practice MCQs, six mains and all 75 original topic PDFs preserved. These bounded source checks do not establish full R4/R6, R5 or R9 approval.
+
+
+
+### Cycle176 bounded official-source correspondence — 2 November 2026 (author-side, not independent approval)
+
+- **E176-01 — Ministry of External Affairs, Constitution of India, Part XVI, Articles 341–342:** https://www.mea.gov.in/Images/pdf1/Part16.pdf . Official hosted constitutional text directly inspected for the state/UT-specific SC/ST notification structure. This does **not** authenticate a particular Telangana community entry or the complete current constitutional amendment history.
+- **E176-02 — National Commission for Backward Classes, Central List of OBCs:** https://ncbc.nic.in/user_panel/centralliststateview.aspx . Search-indexed official NCBC page shows state-wise central-list interface. Direct page retrieval returned HTTP 502 in this cycle; no individual Telangana entry, state list or certificate was inspected. Treat as **bounded indexed correspondence only**.
+- **E176-03 — India Code, Rights of Persons with Disabilities Act, 2016 (Act 49 of 2016):** https://www.indiacode.nic.in/bitstream/123456789/13684/1/a2016-49_act.pdf . Direct official PDF (redirected to consolidated version) inspected: section 32 specifies not less than 5% seats in government and government-aided higher education; section 34 specifies not less than 4% government-establishment vacancies. Sections 40–48 cover accessibility and social audit. These are statutory provisions, not evidence of implementation or Telangana-specific outcomes.
+
+**Scope:** Only existing concepts 20 and 22 expanded with distinct case comparisons and an explicitly hypothetical district service-flow audit. No source asserts an actual Telangana outcome, legal eligibility determination, verified PYQ, full R4/R6 or independent R9 approval. Existing 23 concepts, 25 original practice MCQs, six mains and 75 original PDFs must remain intact.
