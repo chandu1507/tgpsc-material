@@ -167,128 +167,33 @@ Self-help groups and their village, mandal and district federations are not iden
 
 For a 200–250-word mains answer, use six headed blocks: **Context (25–30 words); Historical or structural causes (45); Mechanism and consequences (45); Law and institutional response (45); Critical limitations (35); Way forward/conclusion (25)**. Include a named Telangana case and one precise legal distinction. Avoid invented statistics and unsupported official-PYQ labels.
 
-## 11. Dated evidence register and verification gaps (research-facing)
+## 11. Which statement best distinguishes fluorosis exposure from a clinical diagnosis?
+A. One elevated fluoride reading proves every resident has skeletal fluorosis.
+B. Prolonged excessive fluoride exposure can cause dental and skeletal fluorosis; individual diagnosis also needs clinical and exposure assessment.
+C. Fluorosis is caused by iodine deficiency and is prevented solely by iodised salt.
+D. Excess fluoride in groundwater necessarily proves bacterial contamination.
+**Answer: B.** DGHS NPPCF describes dental, skeletal and non-skeletal manifestations of excessive fluoride exposure. A confuses a water-quality hazard with individual diagnosis; C confuses fluoride toxicity with iodine-deficiency disorders; D conflates a chemical contaminant with microbiological testing. Sources C182-1 (DGHS NPPCF) and C182-2 (Nalgonda District Fluoride Monitoring). This is an original practice item, not an authenticated TGPSC PYQ.
 
-1. **Constitution of India (1950), Articles 17, 23 and 24:** primary constitutional framework; inspect current consolidated text before relying on amendments.
-2. **Bonded Labour System (Abolition) Act, 1976:** official India Code index, historical statutory foundation; current procedural notifications not audited.
-3. **Telangana Devadasis (Prohibition of Dedication) Act, 1988, adapted 28 April 2016:** official India Code PDF directly indexed; precise statutory definitions and section 3 verified. https://www.indiacode.nic.in/bitstream/123456789/8621/1/act_10_of_1988.pdf
-4. **Child and Adolescent Labour (Prohibition and Regulation) Act, 1986, as amended:** India Code official index; detailed state inspection rules not retrieved. https://www.indiacode.nic.in/indiacode/handle/123456789/18544?view_type=browse
-5. **Prohibition of Child Marriage Act, 2006 (enacted 2007):** India Code official index; local court orders not retrieved. https://www.indiacode.nic.in/indiacode/handle/123456789/15426?view_type=browse
-6. **Inter-State migrant-worker law transition (historical 1979 Act to current OSH Code):** The Ministry of Labour and Employment's 30 December 2025 year-end review confirms all four labour codes effective 21 November 2025. Its Gazette G.S.R. 934(E) dated 30 December 2025 cites S.O. 5321(E), section 143 repeal of the 1979 Act and draft Central rules; do not mistake the draft for final rules. Historic 1979 Act: https://clc.gov.in/clc/acts-rules/inter-state-migrant-workmen ; Ministry year-end review: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209767&lang=1&reg=6 ; Gazette: https://labour.gov.in/sites/default/files/268944.pdf ; Ministry migrant-worker explanation: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206144&lang=2&reg=3
-7. **National Programme for Prevention and Control of Fluorosis, DGHS:** government programme description updated 17 April 2025; reports 1.0 mg/L desirable fluoride threshold. https://dghs.mohfw.gov.in/nppcf.php
-8. **Nalgonda District Fluoride Monitoring Centre:** official district account, established 14 November 2013; historical risk estimates are not current prevalence. https://nalgonda.telangana.gov.in/floride-monitoring/
-9. **Khammam DRDA–SERP institutional account:** official Telangana district page; describes SHG and federation structure; live counts are administrative, not independent impact evaluation. https://khammam.telangana.gov.in/drda-serp/
-10. **Wanaparthy DRDA–SERP institutional account:** official Telangana district page; describes collective action and women's SHG livelihood goals. https://wanaparthy.telangana.gov.in/district-rural-development-agency-drda/
-11. **Anti-arrack historical analysis, Anveshi:** research commentary, not a signed government order; useful for contrasting Telangana and Nellore strands. https://www.anveshi.org.in/broadsheet-on-contemporary-politics/archives/broadsheet-on-contemporary-politics-vol-2-no-1011/anti-arrack-movement-prohibition-and-after-eenadus-strategic-support-and-silence/
-12. **Original archival gap:** no authenticated village-level Vetti obligation registers, Jogini rehabilitation cohort, district-specific child-marriage prosecution dataset or complete 1990s anti-arrack organisational minutes obtained. Do not convert secondary narratives into primary-source certainty.
+## 12. What can responsibly be concluded from Nalgonda district's official fluoride-monitoring account?
+A. Every groundwater source in Nalgonda remains above the fluoride limit in November 2026.
+B. The district monitoring centre regulates drinking-water standards throughout India.
+C. The district has documented historical groundwater-fluoride risk and a coordination response; current household exposure requires contemporary source-level testing.
+D. Any piped connection by itself establishes that fluorosis has been eliminated.
+**Answer: C.** The district administration documents affected habitations and its monitoring response, but those historical figures do not measure every present-day source. A generalises beyond the evidence and time period; B mistakes a district coordination centre for a national standards authority; D confuses infrastructure provision with water quality and actual household use. Source C182-2 (Nalgonda district government). No 2026 district-wide prevalence claim is made.
 
-**Academic gate:** This supplement is original explanatory material, not an independent academic audit. Any numerical claims, historical dates, statute transition rules and community-specific generalisations require specialist review before approval.
+## 13. What did Nalgonda district establish on 14 November 2013, according to its official account?
+A. A national statute abolishing fluorosis.
+B. The first national drinking-water quality standard.
+C. The state of Telangana.
+D. The District Fluoride Monitoring Centre for interdepartmental coordination.
+**Answer: D.** The Nalgonda district government dates the District Fluoride Monitoring Centre (DFMC) to 14 November 2013 and describes its coordination function. A invents a statute; B mistakes a district administrative action for national standard-setting; C confuses the 2013 centre with Telangana state formation in 2014. Source C182-2 (Nalgonda district government). The date identifies the centre's reported establishment, not proven subsequent programme effectiveness.
 
-
-
-## Part B — New original explained practice questions
-
-
-# 30 original explained practice MCQs
-**Original practice questions; NOT authenticated TGPSC PYQs.**
-
-## 1. Which constitutional provision directly prohibits begar and comparable forced labour?
-A. Article 23
-B. Article 356
-C. Article 30
-D. Article 19(1)(a)
-**Answer: A.** Article 23 prohibits forced labour; Article 24 separately addresses child employment in factories, mines and hazardous employment.
-
-## 2. What is the central feature distinguishing Vetti from merely low-paid work?
-A. Payment by the day
-B. Agricultural setting
-C. Absence of meaningful freedom to refuse imposed service
-D. Seasonal timing
-**Answer: C.** Vetti refers to coerced service embedded in local social power; not all low wages meet the same test.
-
-## 3. Which Telangana historical episode prominently challenged forced agrarian service?
-A. Quit India movement of 1942 alone
-B. The 1956 linguistic reorganisation alone
-C. The 2014 state election alone
-D. Telangana peasant mobilisation of 1946–51
-**Answer: D.** The peasant struggle challenged forced service, landlord levies and tenancy coercion, while later legal reforms are distinct events.
-
-## 4. Which statute provides a specific legal framework for abolishing bonded labour?
-A. Companies Act, 2013
-B. Bonded Labour System (Abolition) Act, 1976
-C. Indian Forest Act, 1927
-D. Official Languages Act, 1963
-**Answer: B.** The Act abolishes bonded labour (section 4) and expressly names Vetti in the explanation to section 2(b). Other options do not provide that framework; the statutory mention does not establish facts of any individual case.
-
-## 5. Why is rehabilitation needed after release from coercive labour?
-A. Dependence and threats can reproduce coercion
-B. Release cancels all poverty automatically
-C. Workers must return to recruiters
-D. Rehabilitation is only a police duty
-**Answer: A.** Safe livelihoods, wages and housing are needed to make legal freedom sustainable.
-
-## 6. Which regional practice is explicitly included in the 1988 Devadasis prohibition statute?
-A. PESA
-B. Panchayat Samiti
-C. Jogini
-D. Gram Sabha
-**Answer: C.** The official Telangana-adapted text lists Jogini among labels covered by the definition.
-
-## 7. What is the legal status of dedication under section 3 of the 1988 Act?
-A. Unlawful and void even when consent is alleged
-B. Valid with parental permission
-C. Only prohibited in cities
-D. Valid after adulthood
-**Answer: A.** Section 3 rejects dedication regardless of purported consent and protects the woman’s legal status.
-
-## 8. Which approach best protects a survivor of ritual dedication?
-A. Confidential protection, legal action and sustained livelihood support
-B. Punishment of the dedicated woman
-C. A ceremony without follow-up
-D. Public identification at a village meeting
-**Answer: A.** Survivor autonomy and safety are the outcomes; public exposure can create further harm.
-
-## 9. Why should Devadasi history not be treated as one uniform institution?
-A. Only one region used the term
-B. All participants had identical legal status
-C. Historical roles varied by place and period
-D. No historical performance tradition existed
-**Answer: C.** A rigorous account distinguishes historical performance traditions from contemporary coercive dedication.
-
-## 10. Which official document establishes the adaptation of the 1988 Act for Telangana?
-A. The 1973 Six-Point Formula
-B. The 2009 December statement
-C. G.O.Ms.No.14 dated 28 April 2016
-D. G.O.610 of 1985
-**Answer: C.** The Telangana-adapted India Code text identifies the 2016 adaptation under the Reorganisation Act.
-
-## 11. Which condition is most closely associated with prolonged excessive fluoride exposure?
-A. Fluorosis
-B. Malaria
-C. Tuberculosis
-D. Goitre from iodine deficiency
-**Answer: A.** Fluorosis affects teeth and bones; laboratory water testing and exposure history are central.
-
-## 12. Which Telangana district is a historically documented fluorosis case?
-A. All districts uniformly
-B. Nalgonda
-C. Only Medchal
-D. Only Hyderabad
-**Answer: B.** Nalgonda district government documents groundwater fluoride and its monitoring centre; not every borewell is equally affected.
-
-## 13. What was established in Nalgonda on 14 November 2013?
-A. Hyderabad Metropolitan Development Authority
-B. District Fluoride Monitoring Centre
-C. National Green Tribunal
-D. State Election Commission
-**Answer: B.** The district government dates its coordination centre to 14 November 2013.
-
-## 14. What does the DGHS NPPCF guidance identify as the desirable fluoride level?
-A. 0.001 mg/L
-B. 1.0 mg/L
-C. 10 mg/L
-D. 50 mg/L
-**Answer: B.** DGHS describes 1.0 mg/L as desirable; distinguish it from the BIS permissible value under specified conditions.
+## 14. Which comparison of drinking-water fluoride guidance is supported by the cited government sources?
+A. NPPCF's desirable level is 1.0 mg/L; Jal Jeevan Mission's BIS-based table lists 1.5 mg/L as permissible in the absence of an alternate source.
+B. NPPCF's desirable level is 1.5 mg/L and the permissible ceiling is 1.0 mg/L.
+C. A reading at 1.5 mg/L guarantees that no resident can develop fluorosis regardless of exposure history.
+D. The number of household taps is a substitute for fluoride concentration testing.
+**Answer: A.** DGHS cites the 2014 NPPCF desirable level of 1.0 mg/L; the Department of Drinking Water and Sanitation's Jal Jeevan Mission document lists a BIS-based 1.0 mg/L acceptable level and 1.5 mg/L permissible level in the absence of an alternate source. B reverses the levels; C converts a water-quality threshold into an individual clinical guarantee; D mistakes access infrastructure for water-quality evidence. Sources C182-1 (DGHS NPPCF) and C182-3 (Jal Jeevan Mission concept note). The two limits have different labels and must not be conflated.
 
 ## 15. What is the strongest evidence that a piped-water scheme reduces fluorosis exposure?
 A. Repeated testing of water actually consumed
