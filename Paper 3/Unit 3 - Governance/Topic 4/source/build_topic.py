@@ -104,7 +104,7 @@ for n in parser(md):
 # Keep each original practice MCQ, its four options and explanation on one PDF page.
 # The previous actual downloaded PDF split Q10 and Q20 answers across page breaks.
 def is_question(item):
- return isinstance(item, Paragraph) and re.match(r'^Q[0-9]+\\.', item.getPlainText()) is not None
+ return isinstance(item, Paragraph) and re.match(r'^Q[0-9]+\.', item.getPlainText()) is not None
 def is_answer(item):
  return isinstance(item, Paragraph) and item.getPlainText().startswith('Answer:')
 grouped=[];i=0;group_count=0
