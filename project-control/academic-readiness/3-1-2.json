@@ -32,9 +32,10 @@
     "project-control/academic-readiness/3-1-2-cycle101-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-2-cycle102-inclusion-depth-and-source-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-2-cycle102-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
-    "project-control/academic-readiness/3-1-2-cycle173-seeepc-epass-source-depth-audit-2026-11-02.json"
+    "project-control/academic-readiness/3-1-2-cycle173-seeepc-epass-source-depth-audit-2026-11-02.json",
+    "project-control/academic-readiness/3-1-2-cycle174-four-concepts-constitutional-sc-source-depth-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle173: Concepts 17/19 expanded with CGG, DES and Telangana government source boundaries; 12/23 Part C concepts still under300 (mechanical only). Full R1 original-syllabus, R4/R5/R6 claims, diagrams and R8 browser checks remain pending; no R9 promotion.",
+  "next_action": "Cycle174: Concepts 2/3/4/5 expanded with bounded NCERT, Constitution, and MoSJ scheme evidence; 8/23 Part C concepts under300 (mechanical only). Full R1 original syllabus, R4/R5/R6, diagram and R8 browser audits pending; no R9.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -149,5 +150,33 @@
     "evidence": "project-control/academic-readiness/3-1-2-cycle173-seeepc-epass-source-depth-audit-2026-11-02.json",
     "qualitative_R3_pass": false,
     "independent_academic_approval": false
+  },
+  "cycle174_2026_11_02": {
+    "concepts_expanded": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "before_under300": 12,
+    "after_under300": 8,
+    "body_counts": {
+      "2": 454,
+      "3": 480,
+      "4": 465,
+      "5": 473
+    },
+    "sources": [
+      "E174-01",
+      "E174-02",
+      "E174-03",
+      "E174-04"
+    ],
+    "local_candidate_pdf_pages": 40,
+    "local_candidate_pdf_sha256": "37757a955e5ba0bc9332bf53573707e256978952ccf305a0879e9043ba54cb58",
+    "local_unsupported_glyphs": 0,
+    "github_ci_pdf": "PENDING",
+    "actual_downloaded_artifact_qa": "PENDING",
+    "academic_approvals": 0
   }
 }
