@@ -38,7 +38,7 @@
     421,
     431
   ],
-  "manuscript_whitespace_words": 15728,
+  "manuscript_whitespace_words": 15804,
   "pdf_pages": 37,
   "source_register_entries": 28,
   "diagrams": 2,
@@ -48,16 +48,16 @@
   "file_sha256": {
     "README.md": "6b3fd49faac6ea9fb02fa763a2c35f561461846a624a9cc31144a55cec6e139a",
     "complete-notes.pdf": "d7ea1aca5e13e1d71283bb58d0de064e047064f03a6a60b26eb1501395d5bcfc",
-    "index.html": "e747150731b8093a95d08cddd1df4e2ab137ad35ef716da1afcf6d5ef70b5c9c",
+    "index.html": "6c039f499dfb2dfb2a6ecf309697bf7283e6f602f75e81bc532d3bd99fbdb5b9",
     "source/build_diagrams.py": "8c4929026ff9826bc086a8349f3601e099d52781ece922af5170731004e3e7a4",
     "source/build_topic.py": "0d4e556d7afab9cbf15d8c39a240a0017e603f0ae5963f91931223909cc52607",
-    "source/complete-notes.md": "bc845de8aaa0befdf6f1aed75d0a8100b309eec5a06ff559a909500eee9ad418",
-    "source/detailed-notes.md": "bace2f408b814965b1813ca8a256e171aea646cf9cf85497eff1b844479493ac",
-    "source/integrated-student-edition-2026-10-27.pdf": "bb9d3178b10996b4caafc7d39a64b1fb5d48d8fd84f5853363ce1d85418c01bb",
+    "source/complete-notes.md": "46db07a5aa10dad7f1b3786814ecca1ad7a6379db2e63b03de7dfb3a02ac665f",
+    "source/detailed-notes.md": "b8a204d02afe43784ed22a6e955f2b932778c29aafca97a8de38df92b4317493",
+    "source/integrated-student-edition-2026-10-27.pdf": "f6256e7ed753e7825c5180a64319f9ee9e98d3336305a449310c072a018ca1eb",
     "source/mains-model-answers.md": "3808767d25bcede81aaef404d019cb450c072e5dc2806e8500a9d19c87bc3a0f",
     "source/original-mcqs.md": "1949249b081bfcae56d873f65675090d7678bd7b547ba360e7577aa5430c07af",
-    "source/quick-revision.md": "f73a5c249091dd65dac2976d13d65cf13ede3b95a803665950ffd989e7d02cdd",
-    "source/sources-and-audit.md": "f80cfc0d8068ac466523fa2d6117ea2fc34238991aa6c81a2bbab79893a0792d",
+    "source/quick-revision.md": "a5b52126f35ceb6c3f9dd3622551b073681890abf0106f9dbecf7daf47c74f8f",
+    "source/sources-and-audit.md": "9a02f8633b4be9e22142fc23aca830376d9615d74b78cc51569488d558805470",
     "source/syllabus-and-summary.md": "db46dda23eafbb9803d5861cc816114b6e3a1a8c1d03dd89f19f406686d1a91d",
     "source/visual-learning.md": "4f86faca2dea2e3a1ce318c6f0735eebd7330251abd4015132db475706b390fa",
     "visuals/development-accountability.png": "b59c871d79b060cea853b42c391993b7eef7d8d3e4d0ec0e60f5942e260fd3ba",
@@ -72,7 +72,7 @@
   "current_topic_inventory_total": 75,
   "integrated_student_pdf": {
     "path": "source/integrated-student-edition-2026-10-27.pdf",
-    "sha256": "bb9d3178b10996b4caafc7d39a64b1fb5d48d8fd84f5853363ce1d85418c01bb",
+    "sha256": "f6256e7ed753e7825c5180a64319f9ee9e98d3336305a449310c072a018ca1eb",
     "legacy_pdf_preserved": true
   },
   "legacy_pdf_pages": 37
