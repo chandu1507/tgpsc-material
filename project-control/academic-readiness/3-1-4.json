@@ -31,9 +31,10 @@
     "project-control/academic-readiness/3-1-4-cycle110-deduplicated-master-vetti-primary-source-audit-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle110-actual-downloaded-postrender-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle111-legacy-statutory-synchronization-2026-10-30.json",
-    "project-control/academic-readiness/3-1-4-cycle111-actual-downloaded-artifact-qa-2026-10-30.json"
+    "project-control/academic-readiness/3-1-4-cycle111-actual-downloaded-artifact-qa-2026-10-30.json",
+    "project-control/academic-readiness/3-1-4-cycle179-migrant-worker-current-law-mcq23-audit-2026-11-02.json"
   ],
-  "next_action": "After merge, download latest packaging artifact and check SHA/CRC/75 originals/links; independent expert review of 30 keys/90 distractors and six mains, direct R1, browser accessibility. No R1-R8 promotion or R9.",
+  "next_action": "Cycle179: migrant-law currentness corrected in 5 editable files, existing original MCQ23 4 options author-side checked against Ministry/Gazette. R1 still IN_PROGRESS (2024 original syllabus not directly retrieved this cycle); R5/R8 and independent academic review incomplete. CI PDF and actual downloaded artifact SHA/CRC/75-topic/link QA required. Independent approvals0.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -90,5 +91,16 @@
     "packaging_run": 41058318972,
     "artifact_id": 12977761980,
     "artifact_sha256": "9603dd9a7c79d243a612e5e07fd06289e249603d65db0960d6aa052ec5e674a9"
+  },
+  "cycle179": {
+    "date": "2026-11-02",
+    "scope": "OSH Code 2020 effective 21 Nov 2025, section143 repeal of 1979 Act with savings, MCQ23 four-option current-law correction",
+    "original_mcq_count": 30,
+    "original_mains_count": 6,
+    "original_pdf_preserved_required": true,
+    "official_PYQ_claims": 0,
+    "independent_approvals": 0,
+    "CI_pdf": "PENDING",
+    "downloaded_artifact_QA": "PENDING"
   }
 }
