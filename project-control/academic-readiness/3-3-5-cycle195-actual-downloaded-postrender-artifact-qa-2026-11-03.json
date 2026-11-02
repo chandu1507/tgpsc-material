@@ -1,0 +1,61 @@
+{
+  "cycle": 195,
+  "date": "2026-11-03",
+  "topic_id": "3-3-5",
+  "merge_pr": 391,
+  "source_commit": "35ea7982cffca47e61d868d2fd886cd084d169e1",
+  "canonical_renderer_run": {
+    "id": 41541098393,
+    "conclusion": "success"
+  },
+  "packaging_run": {
+    "id": 41541165515,
+    "conclusion": "success",
+    "artifact_id": 13186961794
+  },
+  "actual_artifact": {
+    "downloaded": true,
+    "sha256": "3e4d425b34d8791e9af465d5ff35fa20b247381980412f594c060c522f2655a0",
+    "github_digest_match": true,
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "packaged_files": 2291,
+    "original_topic_pdfs": 75,
+    "original_topic_pdfs_byte_identical_to_cycle194": true,
+    "readiness_json_records": 75,
+    "html_pages": 92,
+    "local_file_links_checked": 634,
+    "broken_file_links": 0,
+    "dom_fragments_checked": 1585,
+    "broken_dom_fragments": 0,
+    "spa_routes_excluded": 42,
+    "topic_manifest_sha_checks": 19,
+    "topic_manifest_failures": 0
+  },
+  "actual_pdf": {
+    "pages": 41,
+    "sha256": "4ee11219f485981b66f855acc179ab7d0ec172747b99563c14b02c8554bdd12e",
+    "original_practice_mcqs": 30,
+    "mcq_options_and_answers_same_page": 30,
+    "mcq_same_page_failures": 0,
+    "pages_28_and_29_visually_inspected": true
+  },
+  "original_topic_3_1_1_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "readiness": {
+    "topics": 75,
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0,
+    "R1_PASS": 20,
+    "fully_R1_R8_ready": 0,
+    "R9": "NOT_STARTED",
+    "independent_academic_approvals": 0
+  },
+  "limitations": [
+    "Author-side source checks only",
+    "Official 2024 TGPSC hosted PDF not directly authenticated",
+    "Remaining 26 MCQs and six mains require independent claim-level audit",
+    "No browser/screen-reader certification",
+    "This QA evidence commit postdates the inspected artifact; download post-evidence package to verify inclusion"
+  ]
+}
