@@ -155,12 +155,12 @@ C. Every migrant is trafficked
 D. Migration is a crime
 **Answer: A.** Distinguish migration from coercive recruitment, wage theft and unsafe conditions.
 
-## 23. Which historical Act specifically addresses inter-state recruited migrant workmen?
-A. Municipalities Act alone
-B. Indian Evidence Act, 1872
-C. Inter-State Migrant Workmen Act, 1979
-D. Official Secrets Act, 1923
-**Answer: C.** The 1979 law specified contractor and employment duties; current transition to labour codes needs fresh verification.
+## 23. Which statement correctly describes the central legal transition for inter-State migrant workers as of November 2026?
+A. The 1979 Inter-State Migrant Workmen Act remains the sole operative central framework; the labour codes have not commenced.
+B. The 2020 OSH Code protects only contractor-recruited migrants and categorically excludes self-migrated workers.
+C. The 1979 Act is a historical framework replaced under the Occupational Safety, Health and Working Conditions Code, 2020, effective 21 November 2025; actual entitlements depend on statutory coverage and applicable rules.
+D. Every migrant worker receives every statutory benefit automatically, regardless of the Code's definitions and coverage conditions.
+**Answer: C.** The Ministry of Labour and Employment confirms 21 November 2025 commencement of the four codes. Section 143 of the OSH Code repeals the 1979 Act with savings, while the Code's inter-State migrant-worker provisions include defined categories of contractor-recruited and self-migrated workers. The applicable establishment threshold, Central or State rules, savings and facts of employment still matter. Sources: Ministry of Labour and Employment 30 December 2025 year-end review; Gazette G.S.R. 934(E), 30 December 2025 (a draft-rules notification recording the Code's commencement and repeal, not itself the final rules).
 
 ## 24. What is an important migrant-child education measure?
 A. Portable school records and bridge learning
