@@ -1,0 +1,60 @@
+{
+  "cycle": 179,
+  "date": "2026-11-02",
+  "topic_id": "3-1-4",
+  "github": {
+    "pr": 349,
+    "merge_commit": "9dda3aed7b208cd638c9eebe08a2506997a8678c",
+    "render_run": 41410895998,
+    "render_conclusion": "success",
+    "packaging_run": 41410946285,
+    "packaging_conclusion": "success",
+    "artifact_id": 13125387735,
+    "artifact_digest": "sha256:36ff1f658c93103d77477f267afffdf13a74c1032d20370da0e2d02143555627"
+  },
+  "download": {
+    "actually_downloaded": true,
+    "sha256": "36ff1f658c93103d77477f267afffdf13a74c1032d20370da0e2d02143555627",
+    "outer_crc": "PASS",
+    "inner_crc": "PASS",
+    "packaged_files": 2257,
+    "original_pdfs": 75,
+    "original_pdfs_changed_vs_cycle178": 0,
+    "readiness_json": 75,
+    "html": 92,
+    "local_file_links_checked": 592,
+    "local_file_links_broken": 0,
+    "dom_fragment_links_checked": 1581,
+    "dom_fragment_links_broken": 0,
+    "spa_hash_routes_excluded": 42,
+    "topic_3_1_1_original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+    "topic_3_1_4_original_pdf_sha256": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3",
+    "integrated_pdf_sha256": "e58838b8d598d94ed19607256ba741c393d39272f5e9154a1376f6cea5d46d2a",
+    "integrated_pdf_pages": 19,
+    "original_practice_mcqs": 30,
+    "original_mains": 6,
+    "blank_or_footer_only_pages": 0,
+    "unicode_replacement_glyphs": 0,
+    "text_blocks_out_of_bounds": 0,
+    "visually_inspected_page": 14
+  },
+  "academic": {
+    "corrected_question": 23,
+    "checked_correct_keys": 1,
+    "checked_distractors": 3,
+    "independent_expert_checks": 0,
+    "r1": "IN_PROGRESS",
+    "r5": "IN_PROGRESS",
+    "r8": "BLOCKED",
+    "fully_R1_R8_ready": 0,
+    "independent_approvals": 0,
+    "r9": "NOT_STARTED"
+  },
+  "method": "Static HTML parsing: relative href/src path resolution; fragment IDs validated on local HTML targets; SPA hash routes beginning #/ excluded. Source original PDFs compared bytewise to Cycle178 archive.",
+  "limitations": [
+    "Full browser/screen-reader accessibility not certified",
+    "Cross-environment local PDF18p vs GitHub PDF19p not byte-identical",
+    "No complete independent review of all 30 MCQs/90 distractors or six mains",
+    "This QA evidence commit postdates inspected artifact; a new packaging run and downloaded archive are needed to include it."
+  ]
+}
