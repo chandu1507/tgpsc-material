@@ -1,0 +1,83 @@
+{
+  "cycle": 190,
+  "date": "2026-11-03",
+  "topic_id": "3-2-5",
+  "source_pr": 375,
+  "layout_pr": 376,
+  "ci_renderer": {
+    "run_id": 41504968863,
+    "conclusion": "success"
+  },
+  "ci_package": {
+    "run_id": 41505084921,
+    "conclusion": "success"
+  },
+  "actual_downloaded_artifact": {
+    "id": 13169858354,
+    "sha256": "cc506e5d5eec773ae41057518078c8cd7c80bb41b289e1ca6270fde0b5c7a05c",
+    "digest_matches": true,
+    "outer_zip_crc": "PASS",
+    "inner_zip_crc": "PASS",
+    "files": 2280,
+    "original_pdfs": 75,
+    "all_original_pdfs_unchanged": true,
+    "readiness_json": 75,
+    "html_pages": 92,
+    "local_file_links_checked": 634,
+    "local_file_links_broken": 0,
+    "dom_fragments_checked": 1581,
+    "dom_fragments_broken": 0,
+    "spa_hash_route_occurrences_excluded": 42,
+    "topic_3_2_4_manifest_sha_checks": 18,
+    "topic_3_2_5_manifest_sha_checks": 15
+  },
+  "actual_integrated_pdf": {
+    "pages": 30,
+    "sha256": "44bc1c7f9e8fb67e4536ae2fc289c9da5e58e201431520104c2f9fa339db96f9",
+    "blank_pages": 0,
+    "rendered_q5_to_q8_options_on_separate_lines": true
+  },
+  "academic": {
+    "revised_original_mcqs": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "correct_keys": [
+      "A",
+      "B",
+      "B",
+      "A"
+    ],
+    "author_side_option_checks": 16,
+    "mcqs_total": 30,
+    "mains_total": 6,
+    "official_pyq_claim": false,
+    "independent_expert_approvals": 0,
+    "R1": "IN_PROGRESS",
+    "R1_pass_total": 20,
+    "fully_R1_R8_ready": 0,
+    "R9": "NOT_STARTED"
+  },
+  "topic_status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1_counts": {
+    "PASS": 20,
+    "IN_PROGRESS": 51,
+    "BLOCKED": 3,
+    "NOT_STARTED": 1
+  },
+  "original_topic_pdf_sha256": "44e41402667bb96f880611453f978efe097b8225601d8371ea8b1cb9889eea15",
+  "limitations": [
+    "2024 Commission notification PDF byte authenticity not verified",
+    "Author-side source correspondence only",
+    "No independent academic certification",
+    "No full browser/screen-reader accessibility QA",
+    "No complete 30-MCQ/90-distractor or six-mains claim audit"
+  ],
+  "post_evidence_package": "PENDING_AT_COMMIT_TIME"
+}
