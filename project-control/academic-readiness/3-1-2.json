@@ -34,9 +34,10 @@
     "project-control/academic-readiness/3-1-2-cycle102-actual-downloaded-post-render-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-2-cycle173-seeepc-epass-source-depth-audit-2026-11-02.json",
     "project-control/academic-readiness/3-1-2-cycle174-four-concepts-constitutional-sc-source-depth-audit-2026-11-02.json",
-    "project-control/academic-readiness/3-1-2-cycle174-actual-downloaded-postrender-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/3-1-2-cycle174-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/3-1-2-cycle175-four-concepts-identity-obc-minority-gender-source-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle174 actual GitHub 41-page PDF and post-render downloaded artifact SHA/CRC/75 original PDFs/75 readiness/634 local links/1581 fragments PASS. 8/23 concepts still under300, all independent MCQ/mains/diagram/browser/accessibility checks remain open; no R9.",
+  "next_action": "Cycle175 4/23 concepts under300 after four source-bounded expansions; CI artifact QA and all independent MCQ/mains/diagram/browser/accessibility reviews pending; approvals0.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -180,5 +181,27 @@
     "actual_downloaded_artifact_qa": "PASS_13113098109",
     "academic_approvals": 0,
     "actual_pdf_sha256": "7f23b8247fbb0d91da02a5cd702c5b82648e75d42e4e60a7912b29c15d94d96c"
+  },
+  "cycle175_2026_11_02": {
+    "base_main": "991a35a77fc54a4dd517c00af426b2b4b6c9c531",
+    "expanded_concepts": [
+      6,
+      8,
+      9,
+      10
+    ],
+    "under300_before_after": [
+      8,
+      4
+    ],
+    "body_words": [
+      449,
+      505,
+      479,
+      513
+    ],
+    "approvals": 0,
+    "source_audit": "project-control/academic-readiness/3-1-2-cycle175-four-concepts-identity-obc-minority-gender-source-audit-2026-11-02.json",
+    "ci": "PENDING"
   }
 }
