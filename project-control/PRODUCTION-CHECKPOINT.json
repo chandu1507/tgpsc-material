@@ -578,7 +578,15 @@
       "layout_fix_pr": 362,
       "post_fix_ci_pdf_sha256": "13adbd02cbb84d209d23de5d93318164cbfad6c6a691e9f4e201ad8ae7c03be3",
       "post_fix_ci_pdf_pages": 27,
-      "actual_postfix_artifact_qa": "PENDING"
+      "actual_postfix_artifact_qa": "PENDING",
+      "final_artifact_id": 13149124538,
+      "final_artifact_sha256": "d1ffa67dc197d4c7641b1e1d65086ada4cfc30a779e9eac37edb72444dd4024f",
+      "final_pdf_sha256": "13adbd02cbb84d209d23de5d93318164cbfad6c6a691e9f4e201ad8ae7c03be3",
+      "final_pdf_pages": 27,
+      "all_30_mcqs_kept_together": true,
+      "final_downloaded_artifact_qa": "PASS",
+      "library_delivery": "CONFIRMED",
+      "post_evidence_package": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
