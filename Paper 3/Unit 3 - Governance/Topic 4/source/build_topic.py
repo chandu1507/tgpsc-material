@@ -11,7 +11,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from PIL import Image as PILImage
 ROOT=Path(__file__).resolve().parent.parent;SRC=ROOT/'source'
 TITLE='Debates on Development and Development Processes; State and Market; Civil Society, CBOs, NGOs, SHGs, Charities, PPP and CSR'
-parts=['syllabus-and-summary.md','detailed-notes.md','cycle120-concept.md','visual-learning.md','quick-revision.md','original-mcqs.md','cycle120-mcqs.md','mains-model-answers.md','sources-and-audit.md','cycle120-source-audit.md']
+parts=['syllabus-and-summary.md','detailed-notes.md','cycle120-concept.md','visual-learning.md','quick-revision.md','original-mcqs.md','cycle120-mcqs.md','mains-model-answers.md','sources-and-audit.md','cycle120-source-audit.md','cycle194-primary-source-audit.md']
 header=f'''# {TITLE}\n\n**TGPSC Group I | Paper III | Unit III | Topic 4 | Expanded draft | 31 October 2026**\n\n**ACADEMIC STATUS: NOT APPROVED.** All 30 MCQs and six mains questions are original practice material. No verified official PYQ is claimed. This manuscript has undergone structural and internal source checks, not a full subject-expert audit.\n\n**Study route:** syllabus map → detailed concept chapters → diagrams and tables → standalone quick revision → explained MCQs → structured mains practice → evidence register.\n\n'''
 md=header+'\n\n'.join((SRC/p).read_text(encoding='utf-8') for p in parts)
 (SRC/'complete-notes.md').write_text(md,encoding='utf-8')
