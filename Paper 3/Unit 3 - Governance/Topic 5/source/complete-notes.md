@@ -487,41 +487,53 @@ D. Section 4, superintendence and administration.
 
 **Answer: C.** Section 6 addresses state consent; Section 5 concerns extension and must be read together with Section 6. Court-directed investigations raise a distinct constitutional exception, not a rewriting of Section 6.
 
-### MCQ 13. The national Lokpal is established under:
+### MCQ 13. Which statement correctly identifies the statutory source of the Union Lokpal, without confusing it with state ombudsman institutions?
 
-A. Lokpal and Lokayuktas Act, 2013
-B. CVC Act, 2003
-C. Telangana Lokayukta Act, 1983
-D. Consumer Protection Act, 1986
+A. The Central Vigilance Commission Act, 2003 establishes both the Union Lokpal and all state Lokayuktas.
 
-**Answer: A.** The national ombudsman framework derives from the 2013 Act, which commenced in January 2014.
+B. Section 3 of the Lokpal and Lokayuktas Act, 2013 establishes the Lokpal for the Union.
 
-### MCQ 14. Which body is correctly described as a Telangana state advisory vigilance body?
+C. The Telangana Lokayukta Act, 1983 establishes the Union Lokpal with nationwide jurisdiction.
 
-A. Telangana Vigilance Commission
-B. Central Information Commission
-C. NITI Aayog
-D. National Consumer Disputes Redressal Commission
+D. The Prevention of Corruption Act, 1988 itself constitutes the Lokpal as a criminal trial court.
 
-**Answer: A.** Telangana established its Vigilance Commission in March 2015 as an advisory body for integrity in state services.
+**Answer: B.** Section 3 of the Lokpal and Lokayuktas Act, 2013 expressly provides for establishment of the Union Lokpal. A concerns a distinct statutory vigilance commission, not the Lokpal's constituting provision; C concerns a state institution, not the Union body; D defines corruption offences and procedures but does not itself create the Lokpal or turn it into a criminal trial court. This is an institutional-source question, not a claim that every allegation against every public servant falls within Lokpal jurisdiction. [C195-01; S24]
 
-### MCQ 15. An allegation of a bribe demanded for a state certificate is most directly relevant to:
+### MCQ 14. A Telangana department receives a vigilance recommendation about suspected corruption. Which description of the Telangana Vigilance Commission's role is most accurate?
 
-A. Competent state anti-corruption investigation
-B. Only consumer product-liability proceedings
-C. Only Lok Sabha privileges
-D. Only CAG performance audit
+A. It is the Union Central Vigilance Commission exercising direct control over every Telangana police investigation.
 
-**Answer: A.** The state ACB or other competent investigator addresses criminal bribery allegations; service grievances may proceed separately.
+B. Its advice is equivalent to a final conviction by a special criminal court.
 
-### MCQ 16. The CCPA is associated with which statute?
+C. It is a state advisory vigilance body; its scheme permits scrutiny and recommendations, while criminal investigation and adjudication remain distinct functions.
 
-A. Consumer Protection Act, 2019
-B. RTI Act, 2005
-C. CVC Act, 2003
-D. DSPE Act, 1946
+D. It is the statutory Information Commission deciding appeals under RTI Section 19.
 
-**Answer: A.** The 2019 consumer statute established the Central Consumer Protection Authority.
+**Answer: C.** Telangana Vigilance Commission's official introduction and jurisdiction statements describe a state body established in March 2015 whose recommendations are advisory, even though its scheme permits calling for records and asking the ACB to register or investigate a case. A confuses Union and state institutions; B equates advice with judicial conviction; D confuses vigilance with the information-appeal jurisdiction. An advisory role is not the same as having no investigatory referral powers. [C195-02; S25]
+
+### MCQ 15. A Telangana official allegedly demands an illegal payment for issuing an otherwise valid certificate. Which routing statement correctly distinguishes the relevant institutions?
+
+A. The allegation can be referred to the competent state anti-corruption investigative agency; the Vigilance Commission's advisory role and any service grievance are separate processes.
+
+B. The Central Consumer Protection Authority must prosecute every public servant who demands a bribe.
+
+C. The State Information Commission must conduct the criminal investigation because the certificate is a public record.
+
+D. A departmental audit finding alone is a criminal conviction under the Prevention of Corruption Act.
+
+**Answer: A.** Section 7 of the Prevention of Corruption Act addresses a public servant seeking an undue advantage even where the underlying official duty would otherwise be performed properly. Telangana Vigilance Commission's jurisdiction page identifies referral to the ACB for investigation, while advice, investigation, prosecution and judicial findings are separate stages. B concerns consumer protection, not general bribery prosecution; C concerns RTI appeals, not police investigation; D wrongly treats audit evidence as a judicial verdict. The competent agency and procedural requirements depend on the facts. [C195-03; S25; S26]
+
+### MCQ 16. Which combination correctly states the Central Consumer Protection Authority's legal basis and the date of its establishment?
+
+A. RTI Act, 2005, Section 19; established in 2005 as an appellate Information Commission.
+
+B. Central Vigilance Commission Act, 2003; established in 2003 to investigate all misleading advertisements.
+
+C. Consumer Protection Act, 1986; established by the Telangana Government in 2014.
+
+D. Consumer Protection Act, 2019, Section 10; established by Central Government notification with effect from 24 July 2020.
+
+**Answer: D.** Section 10 of the Consumer Protection Act, 2019 authorises establishment of the CCPA. Central Government notification S.O. 2422(E), dated 23 July 2020, established it with effect from 24 July 2020. A is about RTI appeals, B is a different vigilance body, and C confuses the repealed consumer-law framework with the 2019 central authority and misstates the government and date. The CCPA's class-wide consumer-protection role should not be confused with an individual consumer dispute commission. [C195-04; S27]
 
 ### MCQ 17. Which RTI Act provision primarily imposes proactive publication and record-management obligations on public authorities?
 
@@ -781,6 +793,11 @@ D. A mandatory 90-day waiting period.
 | S21 | DARPG, Sevottam and grievance-redress workshop listings, 2025 | Continuing public-service standards activity | https://darpg.gov.in/whats-new |
 | S22 | Government of Telangana, Institute of Rural Development RTI guidance | Practical Telangana RTI request route | https://tgird.telangana.gov.in/rtiact.html |
 
+| S24 | India Code, Lokpal and Lokayuktas Act, 2013, Section 3 | Union Lokpal's constituting statutory provision; not the Telangana Lokayukta | https://www.indiacode.nic.in/bitstream/123456789/2122/1/201401.pdf |
+| S25 | Telangana Vigilance Commission, Introduction and Jurisdiction & Functions | 12–13 March 2015 establishment, advisory recommendations, ability to refer investigation to ACB | https://www.tvc.telangana.gov.in/jurisdiction_function.html |
+| S26 | India Code, Prevention of Corruption Act, 1988 (amended), Section 7 | Undue advantage for performing public duty, even if underlying decision would be proper | https://www.indiacode.nic.in/bitstream/123456789/12894/1/prevention_of_corruption_act_1988_49_of_1988.pdf |
+| S27 | Department of Consumer Affairs, S.O. 2422(E), 23 July 2020; Consumer Protection Act, 2019, Section 10 | CCPA legal basis and establishment effective 24 July 2020 | https://consumeraffairs.nic.in/sites/default/files/Estt%20of%20CCPA.pdf |
+
 ## Dated developments to integrate with static syllabus
 
 **13 November 2025 — privacy and transparency:** Gazette G.S.R. 843(E) brought Section 44(3) of the DPDP Act into force, amending the RTI Act's personal-information exemption. It did not commence the entire DPDP Act at once. Primary documents: S17–S18. The impact on public-interest disclosure remains a legal and policy debate; avoid claiming that all personal-information requests are necessarily rejected.
@@ -794,7 +811,7 @@ D. A mandatory 90-day waiting period.
 ## Provenance and quality flags
 
 1. The official TGPSC Notification 02/2024 full PDF could not be directly retrieved in this production run; exact syllabus item was checked against a published reproduction. **Primary-syllabus retrieval remains open.**
-2. No official TGPSC question paper with a verified question number was obtained. All 25 MCQs and six mains prompts are original practice; **zero official PYQs verified**.
+2. No official TGPSC question paper with a verified question number was obtained. All 30 MCQs and six mains prompts are original practice; **zero official PYQs verified**.
 3. The 2025 DPDP/RTI amendment is supported by the primary Gazette and MeitY text. The detailed effect of its interpretation requires current case-law review; no blanket claim about the legality of all disclosures is made.
 4. State service rules, commission membership and consumer pecuniary jurisdiction may change; the chapter avoids unsourced universal thresholds and treats the official current rules as controlling.
 5. Statutory text, institutional webpages and administrative guidance have been internally cross-checked for role and date. **No independent academic review or line-by-line legal peer audit has occurred.**
@@ -830,3 +847,16 @@ Verification boundary: item-level author-side comparisons to the listed governme
 | C121-05 | Q30 | C; Section 19(6) | A 48-hour rule is for life-or-liberty requests; B statutory period exists; D 90 days concerns second-appeal filing |
 
 **Verification boundary:** The five new keys and 15 new distractors were author-side correlated with the named primary statutory provisions; these are not independent examiner approvals. All 30 questions are original practice; verified official PYQs remain zero. The previous 25 keys/75 distractors and six mains answers still require independent claim-level audit. Direct Commission-hosted syllabus authentication, full browser accessibility, diagram review and named expert approval remain pending. R1–R8 are incomplete; R9 NOT_STARTED.
+
+## Cycle 195 — 3 November 2026: Four institutional-remedy MCQs revised in place
+
+Original practice Q13–Q16 were rewritten to distinguish the Union Lokpal, Telangana Vigilance Commission, state anti-corruption investigation and CCPA. The four correct answers and twelve distractors received **bounded author-side primary-document comparisons**; this is neither independent legal review nor official PYQ authentication.
+
+| Audit | Question | Key | Primary support | Distractor check |
+|---|---|---|---|---|
+| C195-01 | Q13 | B | S24, Lokpal Act s.3 | A CVC separate; C Telangana state ombudsman; D PC Act offences, not Lokpal constitution |
+| C195-02 | Q14 | C | S25, TVC establishment and jurisdiction | A Union/state confusion; B advisory ≠ conviction; D RTI forum separate |
+| C195-03 | Q15 | A | S25 TVC ACB referral; S26 PC Act s.7 | B consumer body; C RTI appeal; D audit ≠ criminal verdict |
+| C195-04 | Q16 | D | S27, CCPA notification; Consumer Act 2019 s.10 | A RTI; B CVC; C wrong Act, authority, date |
+
+**Boundary:** The institutional sources establish their described powers and dates, not that any particular complaint was registered, any prosecution succeeded or any 2026 administrative roster remains unchanged. All 30 practice questions and six mains answers are retained. Remaining questions, mains, official Commission PDF, diagram and accessibility review are not independently certified. R1–R8 incomplete; R9 NOT_STARTED; independent approvals ZERO.

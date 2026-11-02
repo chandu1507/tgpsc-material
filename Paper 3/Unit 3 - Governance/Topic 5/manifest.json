@@ -20,10 +20,10 @@
     246
   ],
   "detailed_concept_chapters": 19,
-  "total_manuscript_words": 15964,
+  "total_manuscript_words": 16785,
   "pdf_pages": 31,
   "original_diagrams": 3,
-  "primary_source_register": 23,
+  "primary_source_register": 27,
   "publication": {
     "github_published": true,
     "pdf_published": true,
@@ -66,7 +66,7 @@
     515
   ],
   "major_concept_chapters": 19,
-  "manuscript_whitespace_words": 15964,
+  "manuscript_whitespace_words": 16785,
   "legacy_pdf_pages": 31,
   "mains_answer_words_body_only": [
     204,
@@ -76,24 +76,24 @@
     222,
     237
   ],
-  "integrated_pdf_pages": 39,
+  "integrated_pdf_pages": 41,
   "integrated_student_pdf": {
     "path": "source/integrated-student-edition-2026-10-27.pdf",
-    "sha256": "38fd814d8ccb743ee977e49043bdd4383b2eea8b3661cbbd736773aecc9f05ee",
+    "sha256": "4ee11219f485981b66f855acc179ab7d0ec172747b99563c14b02c8554bdd12e",
     "legacy_pdf_preserved": true
   },
   "file_sha256": {
     "README.md": "94bf38df21026514f73bd488deff60a3fe1c5238b7edd73a29bfb7a13cc95a27",
     "complete-notes.pdf": "e9eef9691b39e293a8c030cefffba34650a4ddd9266abccb03e806008daa3825",
-    "index.html": "23738ba17321d7e21ed090f8a09c613c5fc8d5e03ce7377d67ccc2e7b9913200",
-    "source/build_topic.py": "1d383b94d50f523995d67b72b03d8b12279de62a58a039703a9a2a485b9cae68",
-    "source/complete-notes.md": "cefc8992635619158f19603d8c2e9d5dc6e772e9b7a4d9f0c6bdace03152ff5e",
+    "index.html": "7fd1b4ae64be43fd050a83b3410fc717508b0386a82a92a6209c3e7e341052dd",
+    "source/build_topic.py": "02a1b65aea67af357ecdd84fcd95d205297dca28a9235104d761d2100090c2b7",
+    "source/complete-notes.md": "6638e89ff87e4660fec64665e93374f9b437a90ac78c73434d05cb47771949e7",
     "source/detailed-notes.md": "03e3c8772cd34854fe3c891a007dd5f91adb2091498d1455501897c22ba040de",
-    "source/integrated-student-edition-2026-10-27.pdf": "38fd814d8ccb743ee977e49043bdd4383b2eea8b3661cbbd736773aecc9f05ee",
+    "source/integrated-student-edition-2026-10-27.pdf": "4ee11219f485981b66f855acc179ab7d0ec172747b99563c14b02c8554bdd12e",
     "source/mains-model-answers.md": "b3482b823b0492a6fe9f714b715e0368cdb29adcbe0c0cf03827a807d667f4bf",
-    "source/original-mcqs.md": "262d5fdfee6367150687e1811d6eb24070e8e03acd73e4efa5acd2e276d952a7",
+    "source/original-mcqs.md": "0daba4f10976b413753b290fdb96b7ca5382fdc2920827fcb50d08b1dc7efc22",
     "source/quick-revision.md": "a6a3037480c9f85b84fba831ec756621bb603774297147ed5c9851b6b84ddcfc",
-    "source/sources-and-audit.md": "9e93d6ba408afa546e58db6b038a06272e1138a86a2a1ff2bb543546a3303d57",
+    "source/sources-and-audit.md": "84c47c4a5a96a212ed633c5db441ff77b18f1805dd8cfa2cda48c5625f9c7618",
     "source/syllabus-and-summary.md": "87d68b81322b579c562894c229e32d71610296e477ade4e4d836034a00151421",
     "source/visual-learning.md": "62c9337b7f953b6b5e49bd4e5c6b6161688d26a53c5015158eb41c7185490ee7",
     "visuals/ethical-decision.png": "fd87331198ab8282eedf23fa9a858925a0f0642579b65d61b2a11854170c8a23",
