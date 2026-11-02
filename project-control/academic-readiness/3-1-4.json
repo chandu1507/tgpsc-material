@@ -17,7 +17,7 @@
     "supplement_md_count": 1
   },
   "gate_status": {
-    "R1": "IN_PROGRESS",
+    "R1": "PASS",
     "R2": "IN_PROGRESS",
     "R3": "IN_PROGRESS",
     "R4": "IN_PROGRESS",
@@ -33,9 +33,10 @@
     "project-control/academic-readiness/3-1-4-cycle111-legacy-statutory-synchronization-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle111-actual-downloaded-artifact-qa-2026-10-30.json",
     "project-control/academic-readiness/3-1-4-cycle179-migrant-worker-current-law-mcq23-audit-2026-11-02.json",
-    "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/3-1-4-cycle179-actual-downloaded-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/3-1-4-cycle180-original-2024-r1-mapping-2026-11-02.json"
   ],
-  "next_action": "Cycle179: MCQ23 current-law repair synced, actual GitHub 19-page PDF and artifact13125387735 downloaded SHA/CRC/75 originals/75 readiness/592 local links/1581 fragments PASS. QA evidence postdates artifact; final post-evidence packaging/download pending. R1 remains IN_PROGRESS; R5/R8 and independent review pending; approvals0.",
+  "next_action": "Cycle180 R1 8/8 syllabus clauses mapped PASS with source provenance caveat; no content master/PDF change. R2-R8 still incomplete, independent approvals0. Postmerge package and actual artifact QA pending.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap_2026_10_27": {
@@ -105,5 +106,13 @@
     "downloaded_artifact_QA": "VERIFIED_13125387735_SHA_CRC_75_ORIGINALS_75_READINESS_LINKS_PASS",
     "actual_pdf_sha256": "e58838b8d598d94ed19607256ba741c393d39272f5e9154a1376f6cea5d46d2a",
     "post_QA_packaging": "PENDING"
+  },
+  "cycle180": {
+    "date": "2026-11-02",
+    "scope": "Direct original 2024 Annexure-II printed p30 syllabus 4(a,b) mapped 8/8 to existing master sections 2-8; original source mirror and official-index access limits documented",
+    "R1": "PASS",
+    "all_other_gates_unchanged": true,
+    "independent_approvals": 0,
+    "post_merge_artifact_QA": "PENDING"
   }
 }
