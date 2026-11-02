@@ -87,7 +87,7 @@
     "min_concept_words": 421
   },
   "cycle193": {
-    "source_reference_repair": "Q26–Q30 S25→S26; preserved S25 ration-card reference",
+    "source_reference_repair": "Nine constitutional S25→S26 corrections: five MCQs, three detailed concepts, one quick revision; original S25 ration-card entry preserved",
     "original_mcqs_revised": [
       6,
       10
@@ -96,11 +96,13 @@
     "source_register_entries": 28,
     "source_integrity_guard": true,
     "local_preflight_pdf_pages": 42,
-    "github_actions_artifact_qa": "VERIFIED_DOWNLOADED_13178986598",
+    "github_actions_artifact_qa": "PRE_FOLLOWUP_VERIFIED_13178972443",
     "independent_approval": false,
     "actual_pdf_pages": 42,
     "actual_pdf_sha256": "bb9d3178b10996b4caafc7d39a64b1fb5d48d8fd84f5853363ce1d85418c01bb",
     "post_evidence_artifact_download": "PENDING",
-    "legacy_pdf_unchanged": true
+    "legacy_pdf_unchanged": true,
+    "additional_concept_citation_repairs": 4,
+    "followup_postrender_qa": "PENDING"
   }
 }
