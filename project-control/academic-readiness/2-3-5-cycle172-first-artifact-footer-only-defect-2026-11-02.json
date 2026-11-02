@@ -1,0 +1,20 @@
+{
+  "cycle": 172,
+  "date": "2026-11-02",
+  "topic": "2-3-5",
+  "first_package_run": 41369492763,
+  "first_artifact_id": 13108064686,
+  "first_artifact_sha256": "853b11945a274ce3c372aeea56fa31edefce2e0424672c3923ca1b831c73ac0a",
+  "first_actual_pdf_pages": 26,
+  "first_pdf_sha256": "7d3da16a0f5e5eb225a94ad7662b01213e4eee94707014914a6f7b8d77fe0b2c",
+  "observed_defect": "Page 26 contains only standard footer; old >60-character check incorrectly classified it as nonblank",
+  "first_archive_crc": "PASS",
+  "first_original_pdfs": 75,
+  "first_readiness_records": 75,
+  "static_links_broken": 0,
+  "renderer_fix_pr": 333,
+  "renderer_fix_ci_run": 41369693412,
+  "post_fix_downloaded_artifact_qa": "PENDING",
+  "independent_approvals": 0,
+  "not_academic_certification": true
+}

@@ -38,9 +38,10 @@
     "project-control/academic-readiness/2-3-5-cycle170-actual-downloaded-postrender-artifact-qa-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle171-eight-remaining-original-mcq-four-option-source-audit-2026-11-02.json",
     "project-control/academic-readiness/2-3-5-cycle171-precontrol-downloaded-artifact-qa-2026-11-02.json",
-    "project-control/academic-readiness/2-3-5-cycle171-final-downloaded-postcontrol-artifact-qa-2026-11-02.json"
+    "project-control/academic-readiness/2-3-5-cycle171-final-downloaded-postcontrol-artifact-qa-2026-11-02.json",
+    "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json"
   ],
-  "next_action": "Cycle171 all 25 MCQ keys author-side source-correlated; 8 remaining Qs revised with 32 option rationales. 25-page actual GitHub PDF and post-control artifact 13106134868 downloaded SHA/CRC/75 original PDFs/75 readiness/links PASS. Final QA commit postdates archive: subsequent package must be downloaded again. Independent 100-option audit, six mains claim audit, diagrams, accessibility and expert R9 outstanding.",
+  "next_action": "Cycle172: six mains answer claims mapped to bounded institutional sources; corrected 2031-vs-2025 HMDA boundary inference, wastewater reuse overstatement and UNESCO tentative-listing confusion. All six body-only answers 200-250 words. First downloaded CI artifact 13108064686 had footer-only page 26 missed by old QA; renderer fixed in PR333, CI run 41369693412 SUCCESS. New post-fix publication artifact download/independent QA PENDING. No R1-R8 or independent expert promotion.",
   "external_reviewer": null,
   "student_accepted": false,
   "objective_gap": {
@@ -257,5 +258,27 @@
     "actual_artifact_sha256": "1b765ae8924290a4ee02177518fb77596ddb33dda4ee913e1932df3d9d608e19",
     "qa_evidence": "project-control/academic-readiness/2-3-5-cycle171-final-downloaded-postcontrol-artifact-qa-2026-11-02.json",
     "post_control_packaging": "VERIFIED_PRE_FINAL_QA_COMMIT"
+  },
+  "cycle172_2026_11_02": {
+    "scope": "six mains source boundaries and PDF footer-only defect",
+    "mains_body_counts": [
+      247,
+      250,
+      242,
+      234,
+      222,
+      250
+    ],
+    "mains_claim_audit": "project-control/academic-readiness/2-3-5-cycle172-six-mains-claim-level-source-audit-2026-11-02.json",
+    "author_side_only": true,
+    "original_mcqs": 25,
+    "original_pdf_count": 75,
+    "renderer_fix_pr": 333,
+    "renderer_fix_ci_run": 41369693412,
+    "first_downloaded_artifact_id": 13108064686,
+    "first_artifact_footer_only_page": 26,
+    "post_fix_downloaded_artifact_qa": "PENDING",
+    "independent_academic_approvals": 0,
+    "R9": "NOT_STARTED"
   }
 }
