@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-02",
+  "cycle": 185,
+  "topic_id": "3-1-5",
+  "scope": "Independently downloaded final post-layout GitHub Actions artifact",
+  "packaging_run_id": 41464012615,
+  "artifact_id": 13149124538,
+  "artifact_actually_downloaded": true,
+  "github_digest": "d1ffa67dc197d4c7641b1e1d65086ada4cfc30a779e9eac37edb72444dd4024f",
+  "downloaded_outer_sha256": "d1ffa67dc197d4c7641b1e1d65086ada4cfc30a779e9eac37edb72444dd4024f",
+  "digest_match": true,
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "files": 2270,
+  "original_topic_pdfs": 75,
+  "original_topic_pdfs_unchanged_vs_cycle184": 75,
+  "readiness_json": 75,
+  "topic_ids": 75,
+  "status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "normalized_R1": {
+    "PASS": 17,
+    "IN_PROGRESS": 53,
+    "BLOCKED": 3,
+    "NOT_STARTED": 2
+  },
+  "fully_R1_R8_ready": 0,
+  "independent_approvals": 0,
+  "R9": "NOT_STARTED",
+  "html_pages": 92,
+  "local_file_links_checked": 634,
+  "broken_local_links": 0,
+  "dom_fragments_checked": 1581,
+  "broken_dom_fragments": 0,
+  "spa_routes_excluded": 42,
+  "integrated_pdf": {
+    "pages": 27,
+    "sha256": "13adbd02cbb84d209d23de5d93318164cbfad6c6a691e9f4e201ad8ae7c03be3",
+    "blank_or_footer_only_pages": 0,
+    "out_of_bounds_spans": 0,
+    "replacement_glyphs": 0,
+    "all_30_mcqs_contiguous_with_keys": true,
+    "mcq19_starts_page": 21,
+    "selected_pages_visually_inspected": [
+      19,
+      20
+    ]
+  },
+  "master_sha256": "e44fe05087e3fbbd50c4ab4a3122f3c33c05926cd69d971c5987901381747d2b",
+  "original_topic311_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "reviewed_original_practice_mcqs": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "keys": [
+    "C",
+    "B",
+    "A",
+    "D"
+  ],
+  "option_checks": 16,
+  "merged_prs": [
+    361,
+    362,
+    363
+  ],
+  "library_path": "/Mounika/TGPSC_ACADEMIC_READINESS_P3_U1_T5_CYCLE107_20261030",
+  "limitations": [
+    "Author-side source checking is not independent academic approval",
+    "Full browser and screen-reader accessibility unverified",
+    "This QA evidence commit postdates inspected artifact; final post-evidence package and download required",
+    "Other 26 MCQs, six mains, six shallow concepts and diagram academic accuracy remain pending"
+  ]
+}
