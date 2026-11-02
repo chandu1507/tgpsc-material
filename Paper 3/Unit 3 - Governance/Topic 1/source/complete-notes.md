@@ -618,33 +618,33 @@ C. The Finance Commission Act.
 D. The Representation of the People Act, 1950.  
 **Answer: B.** Internal/Local Committees under the 2013 Act have specified complaint-handling roles; NCW is not the exclusive adjudicatory forum.
 
-### Q22. The Estimates Committee of Parliament has:
-A. 22 members, all from Rajya Sabha.  
-B. 15 members, all ministers.  
-C. 30 members, all from Lok Sabha.  
-D. 30 members, all from state legislatures.  
-**Answer: C.** The Estimates Committee has 30 Lok Sabha members, elected annually, with ministers ineligible.
+### Q22. Which statement correctly identifies the Estimates Committee's composition and ministerial eligibility?
+A. It has 30 members elected from Lok Sabha, and a minister cannot be a member.  
+B. It has 22 members drawn from both Houses, and ministers may serve.  
+C. It has 30 members, including seven from Rajya Sabha.  
+D. It is a statutory audit authority that signs the Union's accounts.  
+**Answer: A.** The Estimates Committee is Lok Sabha-only with 30 members, and ministers are ineligible [S22]. B confuses its membership with the 22-member bicameral PAC/COPU and falsely permits ministers. C invents Rajya Sabha membership. D confuses parliamentary scrutiny with the CAG's separate audit mandate.
 
-### Q23. Which committee has up to 22 members (15 Lok Sabha and 7 Rajya Sabha) and examines appropriation accounts and CAG reports?
-A. Public Accounts Committee.  
-B. Estimates Committee.  
-C. Cabinet Committee on Security.  
-D. State Election Commission.  
-**Answer: A.** PAC performs ex-post financial scrutiny; its composition and mandate are documented by Lok Sabha.
+### Q23. Which statement correctly distinguishes the Public Accounts Committee (PAC) from the CAG?
+A. PAC is the constitutional auditor, while CAG is a Lok Sabha committee.  
+B. PAC has up to 22 members (15 Lok Sabha and up to 7 Rajya Sabha) and examines appropriation accounts and CAG reports.  
+C. PAC has 30 Lok Sabha members and primarily prepares next year's expenditure estimates.  
+D. PAC is a judicial tribunal empowered to impose criminal sentences for audit objections.  
+**Answer: B.** PAC membership and its ex-post scrutiny follow parliamentary rules and institutional history [S23]. A reverses the auditor and committee. C imports the Estimates Committee's 30-member composition and its estimates focus. D invents criminal adjudicatory power: PAC makes legislative scrutiny recommendations, not convictions.
 
-### Q24. Which body examines reports/accounts of selected public undertakings and their performance within parliamentary rules?
-A. PMO.  
-B. NCST.  
-C. UPSC.  
-D. Committee on Public Undertakings.  
-**Answer: D.** COPU focuses on selected public-sector enterprises and relevant audit material; it does not manage them daily.
+### Q24. The Committee on Public Undertakings (COPU) reviews a CAG report about a selected Union undertaking. Which action is within its mandate?
+A. Replace the undertaking's board and manage daily procurement.  
+B. Issue a binding criminal conviction against its officers.  
+C. Examine its reports, accounts and management principles and report recommendations to Parliament.  
+D. Supersede the CAG and issue the constitutional audit report itself.  
+**Answer: C.** COPU examines specified undertakings' reports/accounts, relevant CAG reports and management against sound business principles [S24]. A wrongly assigns executive management to legislative oversight. B wrongly assigns judicial criminal power. D wrongly substitutes COPU for the constitutionally distinct CAG.
 
-### Q25. Which statement correctly describes commencement under Rule 1 of the Digital Personal Data Protection Rules, 2025?
-A. All 23 rules came into force immediately upon Gazette publication.  
-B. Rules 3, 5–16, 22 and 23 came into force on publication; the rest are deferred.  
-C. Rule 4 takes effect after eighteen months, while Rules 17–21 take effect after one year.  
-D. Rules 1, 2 and 17–21 took effect on publication; Rule 4 is deferred one year, and Rules 3, 5–16, 22 and 23 eighteen months.  
-**Answer: D.** Gazette G.S.R. 846(E), dated 13 November 2025, Rule 1(2)–(4) specifies these three commencement groups [S20]. The Act's commencement notifications must be examined separately; the question concerns the Rules, not every obligation under the Act.
+### Q25. Under Rule 1 of the Digital Personal Data Protection Rules, 2025, which commencement sequence is correct?
+A. Rules 3 and 5–16 commenced on publication; Rules 1 and 2 are deferred eighteen months.  
+B. Rule 4 commenced on publication; Rules 17–21 commence after one year.  
+C. All 23 Rules commenced immediately because the Act and Rules have identical schedules.  
+D. Rules 1, 2 and 17–21 commenced on Gazette publication; Rule 4 follows after one year, and Rules 3, 5–16, 22 and 23 after eighteen months.  
+**Answer: D.** Gazette G.S.R. 846(E), Rule 1(2)–(4), specifies the three groups [S20]. A reverses the immediate and eighteen-month groups; B swaps Rule 4 with Rules 17–21; C wrongly conflates the Rules with separately notified commencement of the 2023 Act under G.S.R. 843(E) [S25]. The December 2025 corrigendum did not change these groups.
 
 ### Q26. Under Article 151(1), which sequence correctly describes submission of the CAG's Union audit reports?
 A. The CAG submits them to the President, who causes them to be laid before each House of Parliament.  
@@ -845,6 +845,10 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 | S18 | Lok Sabha Digital Sansad, Parliamentary Committees introduction | Estimates 30 LS; PAC/COPU 22; DRSC composition |
 | S19 | Lok Sabha Digital Sansad, Public Accounts Committee introduction | PAC ex-post role and opposition-chair convention |
 | S21 | Legislative Department, Ministry of Law and Justice, Constitution of India (as on 11 November 2025), Articles 151, 281, 321, 322 and 323 | Direct constitutional text for new original practice MCQs Q26-Q30; each key and three distractor explanations author-side checked, not independently certified. |
+| S22 | Parliament Digital Library, *Committee on Public Undertakings Golden Jubilee Souvenir (1964–2014)*, committee-system table | Estimates Committee 30 Lok Sabha members and minister ineligibility; PAC/COPU 22-member bicameral comparison. |
+| S23 | Parliament Digital Library, *Public Accounts Committee Centenary Souvenir 1921–2021*, Rule 308 membership history | PAC up to 22 members, 15 Lok Sabha and up to 7 Rajya Sabha; ex-post accounts/CAG scrutiny. |
+| S24 | Comptroller and Auditor General of India, *Legislative Committees*, COPU constitution and functions | COPU 15 Lok Sabha plus 7 Rajya Sabha, scrutiny of undertakings and CAG reports, not executive management. |
+| S25 | Government of India, Gazette G.S.R. 843(E) of 13 November 2025, DPDP Act commencement | Act sections commence separately from Rule 1 groups in Rules Gazette G.S.R. 846(E). |
 | S20 | Ministry of Electronics and Information Technology, Gazette G.S.R. 846(E), dated 13 November 2025, Digital Personal Data Protection Rules, 2025, Rule 1(2)–(4) | Three different commencement groups: immediate Rules 1, 2, 17–21; Rule 4 after one year; Rules 3, 5–16, 22–23 after eighteen months. Verified from Gazette text on 27 October 2026. Does not by itself establish separate commencement of Act sections. |
 
 ## Source links
@@ -869,6 +873,10 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 - [S18] https://sansad.in/ls/committee/introduction
 - [S20] https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf
 - [S21] https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf
+- [S22] https://eparlib.sansad.in/bitstream/123456789/782455/1/Committe_On_Public_Undertakings_Parliament_of_India_Golden_Jubile_Souvenir.pdf
+- [S23] https://eparlib.sansad.in/bitstream/123456789/829848/1/pac_centenary_2021.pdf
+- [S24] https://cag.gov.in/en/pages/single/7218
+- [S25] https://egazette.gov.in/WriteReadData/2025/267647.pdf
 - [S19] https://sansad.in/ls/committee/financial-committees/26-Public%20Accounts-nameH%3D%E0%A4%B2%E0%A5%8B%E0%A4%95%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%20%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF
 
 ## Internal fact-check notes and unresolved audit tasks
@@ -885,4 +893,8 @@ The Finance Commission is a constitutional forum for rules-based fiscal cooperat
 ## Cycle 117 bounded constitutional-text checks (31 October 2026)
 
 Original practice questions Q26-Q30 were added to the existing 25, without representing any as official PYQs. Their answers and 15 incorrect alternatives were checked by the author against [S21]: Q26 Article 151(1) (Union CAG audit-report route); Q27 Article 321 (legislative extension of Public Service Commission functions); Q28 Article 281 (Finance Commission recommendations and explanatory memorandum); Q29 Article 322 (charged expenditure for UPSC/State PSC); Q30 Article 323(1) (UPSC annual report and reasons for advice not accepted). Each question explains why each of its three distractors is incorrect. This is a **bounded text correspondence**, not an independent complete audit of the 30 questions, 90 distractors, six mains answers or every constitutional interpretation. Current syllabus reauthentication, visual/browser accessibility, and named expert review remain pending; R1–R8 are not fully PASS and R9 remains NOT_STARTED.
+
+## Cycle 191 bounded option-level review (3 November 2026)
+
+Original practice MCQs Q22–Q25 were revised in place to distinguish Estimates Committee, PAC, COPU and the three commencement groups of DPDP Rules 2025. Four keys and twelve distractors were checked by the author against S20 and S22–S25. No official PYQ, comprehensive 30-MCQ audit, six-mains verification, browser accessibility certification or independent expert approval is claimed. The Commission-hosted 2024 syllabus notification returned HTTP 403 on current revalidation; R1 remains IN_PROGRESS.
 
