@@ -6,7 +6,7 @@
   "academically_approved": 0,
   "reported_automation_checkpoint": {
     "sequential_drafts_indicated": 75,
-    "last_reported_topic": "Cycle190 Topic3-2-5 Q5–Q8 16 author-side option checks, PDF layout corrected, actual artifact13169858354 CRC/SHA/75 originals/links/manifest PASS; R1 IN_PROGRESS, R1 PASS20, approvals0.",
+    "last_reported_topic": "Cycle191 Topic3-3-1 Q22–Q25 author-side 16 option checks, readable 41-page CI PDF, downloaded artifact 13171726563 SHA/CRC/75 originals/links/manifest PASS; R1 PASS20, approvals0.",
     "remaining_without_first_draft": 0,
     "independently_verified_as_complete_master": false,
     "note": "Artifact 13108808062 actually downloaded, SHA/CRC/75 original PDFs/75 readiness/links PASS, no footer-only pages. QA evidence commit postdates archive, next package download required. R1-R8 ready0, approvals0.",
@@ -587,6 +587,28 @@
       "final_downloaded_artifact_qa": "PASS",
       "library_delivery": "CONFIRMED",
       "post_evidence_package": "PENDING"
+    },
+    "cycle191": {
+      "date": "2026-11-03",
+      "topic": "3-3-1",
+      "mcqs_revised": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "author_side_option_checks": 16,
+      "source_register_count": 25,
+      "ci_pdf_pages": 41,
+      "ci_pdf_sha256": "3a8c84ddf673b069ce35f5c0e4515adf86a5b70ae92daa2815b80eb57bb44cf1",
+      "downloaded_artifact_id": 13171726563,
+      "downloaded_artifact_sha256": "48d03b77f267ab5d5b3395ca569613d2118d2c42da4e6c301e803f3c3c0f3899",
+      "original_topic_pdf_count": 75,
+      "readiness_json_count": 75,
+      "normalized_R1_PASS": 20,
+      "fully_ready": 0,
+      "independent_approvals": 0,
+      "post_evidence_packaging": "PENDING"
     }
   },
   "recovery_report": "project-control/PAPER3-RECOVERY-REPORT.json",
