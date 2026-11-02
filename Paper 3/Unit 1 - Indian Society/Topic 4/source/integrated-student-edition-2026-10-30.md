@@ -275,33 +275,33 @@ C. G.O.Ms.No.14 dated 28 April 2016
 D. G.O.610 of 1985
 **Answer: C.** The Telangana-adapted India Code text identifies the 2016 adaptation under the Reorganisation Act.
 
-## 11. Which condition is most closely associated with prolonged excessive fluoride exposure?
-A. Fluorosis
-B. Malaria
-C. Tuberculosis
-D. Goitre from iodine deficiency
-**Answer: A.** Fluorosis affects teeth and bones; laboratory water testing and exposure history are central.
+## 11. Which statement best distinguishes fluorosis exposure from a clinical diagnosis?
+A. One elevated fluoride reading proves every resident has skeletal fluorosis.
+B. Prolonged excessive fluoride exposure can cause dental and skeletal fluorosis; individual diagnosis also needs clinical and exposure assessment.
+C. Fluorosis is caused by iodine deficiency and is prevented solely by iodised salt.
+D. Excess fluoride in groundwater necessarily proves bacterial contamination.
+**Answer: B.** DGHS NPPCF describes dental, skeletal and non-skeletal manifestations of excessive fluoride exposure. A confuses a water-quality hazard with individual diagnosis; C confuses fluoride toxicity with iodine-deficiency disorders; D conflates a chemical contaminant with microbiological testing. Sources C182-1 (DGHS NPPCF) and C182-2 (Nalgonda District Fluoride Monitoring). This is an original practice item, not an authenticated TGPSC PYQ.
 
-## 12. Which Telangana district is a historically documented fluorosis case?
-A. All districts uniformly
-B. Nalgonda
-C. Only Medchal
-D. Only Hyderabad
-**Answer: B.** Nalgonda district government documents groundwater fluoride and its monitoring centre; not every borewell is equally affected.
+## 12. What can responsibly be concluded from Nalgonda district's official fluoride-monitoring account?
+A. Every groundwater source in Nalgonda remains above the fluoride limit in November 2026.
+B. The district monitoring centre regulates drinking-water standards throughout India.
+C. The district has documented historical groundwater-fluoride risk and a coordination response; current household exposure requires contemporary source-level testing.
+D. Any piped connection by itself establishes that fluorosis has been eliminated.
+**Answer: C.** The district administration documents affected habitations and its monitoring response, but those historical figures do not measure every present-day source. A generalises beyond the evidence and time period; B mistakes a district coordination centre for a national standards authority; D confuses infrastructure provision with water quality and actual household use. Source C182-2 (Nalgonda district government). No 2026 district-wide prevalence claim is made.
 
-## 13. What was established in Nalgonda on 14 November 2013?
-A. Hyderabad Metropolitan Development Authority
-B. District Fluoride Monitoring Centre
-C. National Green Tribunal
-D. State Election Commission
-**Answer: B.** The district government dates its coordination centre to 14 November 2013.
+## 13. What did Nalgonda district establish on 14 November 2013, according to its official account?
+A. A national statute abolishing fluorosis.
+B. The first national drinking-water quality standard.
+C. The state of Telangana.
+D. The District Fluoride Monitoring Centre for interdepartmental coordination.
+**Answer: D.** The Nalgonda district government dates the District Fluoride Monitoring Centre (DFMC) to 14 November 2013 and describes its coordination function. A invents a statute; B mistakes a district administrative action for national standard-setting; C confuses the 2013 centre with Telangana state formation in 2014. Source C182-2 (Nalgonda district government). The date identifies the centre's reported establishment, not proven subsequent programme effectiveness.
 
-## 14. What does the DGHS NPPCF guidance identify as the desirable fluoride level?
-A. 0.001 mg/L
-B. 1.0 mg/L
-C. 10 mg/L
-D. 50 mg/L
-**Answer: B.** DGHS describes 1.0 mg/L as desirable; distinguish it from the BIS permissible value under specified conditions.
+## 14. Which comparison of drinking-water fluoride guidance is supported by the cited government sources?
+A. NPPCF's desirable level is 1.0 mg/L; Jal Jeevan Mission's BIS-based table lists 1.5 mg/L as permissible in the absence of an alternate source.
+B. NPPCF's desirable level is 1.5 mg/L and the permissible ceiling is 1.0 mg/L.
+C. A reading at 1.5 mg/L guarantees that no resident can develop fluorosis regardless of exposure history.
+D. The number of household taps is a substitute for fluoride concentration testing.
+**Answer: A.** DGHS cites the 2014 NPPCF desirable level of 1.0 mg/L; the Department of Drinking Water and Sanitation's Jal Jeevan Mission document lists a BIS-based 1.0 mg/L acceptable level and 1.5 mg/L permissible level in the absence of an alternate source. B reverses the levels; C converts a water-quality threshold into an individual clinical guarantee; D mistakes access infrastructure for water-quality evidence. Sources C182-1 (DGHS NPPCF) and C182-3 (Jal Jeevan Mission concept note). The two limits have different labels and must not be conflated.
 
 ## 15. What is the strongest evidence that a piped-water scheme reduces fluorosis exposure?
 A. Repeated testing of water actually consumed

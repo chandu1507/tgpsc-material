@@ -18,3 +18,11 @@ Official Group-I syllabus, Annexure II; Telangana Devadasis (Prohibition of Dedi
 - **C181-4, Q29:** India Code, PESA Act 1996, Act 40 of 1996, sections 2, 3 and 4(e)(i), consolidated as on 1 June 2026. The specified Gram Sabha approval precedes village-Panchayat implementation in Scheduled Areas. https://www.indiacode.nic.in/bitstream/123456789/1973/1/a199640.pdf
 
 **Method and limit:** Four pre-existing original practice MCQs (19, 27, 28, 29) rewritten **in place**; four keys and twelve distractors reviewed against bounded statute/constitutional text. Keys remain C/A/B/A; no official TGPSC PYQs, no independent academic reviewer, no full legislative-currentness audit, no certification of remaining MCQs or mains. State-level implementation and specific-case findings are not inferred from central statute alone.
+
+
+## Cycle 182 — Fluorosis original-MCQ primary-source register (2 November 2026)
+- **C182-1** — DGHS National Programme for Prevention and Control of Fluorosis. https://dghs.mohfw.gov.in/nppcf.php (checked 2026-11-02). Supports: excess fluoride exposure causes dental and skeletal fluorosis; 2014 NPPCF guideline desirable 1.0 mg/L. **Limit:** Not a diagnosis for any individual; programme page last updated 2025-04-17.
+- **C182-2** — Nalgonda district government fluoride monitoring. https://nalgonda.telangana.gov.in/floride-monitoring/ (checked 2026-11-02). Supports: district account of historic fluoride risk; DFMC established 2013-11-14 for coordination. **Limit:** Historical district narrative does not establish current source-level concentrations or 2026 prevalence.
+- **C182-3** — Department of Drinking Water and Sanitation Jal Jeevan Mission Concept Note. https://jalshakti-ddws.gov.in/sites/default/files/Jal_Jeevan_Mission_Concept_Note.pdf (checked 2026-11-02). Supports: BIS-based fluoride acceptable 1.0 mg/L; permissible 1.5 mg/L in absence alternate source. **Limit:** Water quality threshold is not a universal clinical guarantee; source-specific sampling required.
+
+All four questions (11–14) are **original practice MCQs, not authenticated official TGPSC PYQs**. Source checks are author-side only; independent academic approval remains zero.

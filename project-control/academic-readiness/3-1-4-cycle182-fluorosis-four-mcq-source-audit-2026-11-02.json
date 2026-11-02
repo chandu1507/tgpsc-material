@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-02",
+  "cycle": 182,
+  "topic_id": "3-1-4",
+  "scope": "Four existing original fluorosis MCQs 11-14 rewritten in place and source checked; 4 keys and 12 distractors",
+  "questions": [
+    {
+      "n": 11,
+      "key": "B",
+      "source_ids": [
+        "C182-1",
+        "C182-2"
+      ],
+      "option_checks": {
+        "A": "False: hazard sample is not individual diagnosis",
+        "B": "Supported: excessive exposure can cause dental/skeletal fluorosis",
+        "C": "False: iodine deficiency is different disorder",
+        "D": "False: fluoride concentration is not bacterial measurement"
+      }
+    },
+    {
+      "n": 12,
+      "key": "C",
+      "source_ids": [
+        "C182-2"
+      ],
+      "option_checks": {
+        "A": "Unsupported universal/current claim",
+        "B": "False: DFMC is district coordination not national regulator",
+        "C": "Supported bounded district-history inference",
+        "D": "False: connection count alone is not exposure measurement"
+      }
+    },
+    {
+      "n": 13,
+      "key": "D",
+      "source_ids": [
+        "C182-2"
+      ],
+      "option_checks": {
+        "A": "False: DFMC establishment not statute",
+        "B": "False: district centre not national BIS promulgation",
+        "C": "False: Telangana formed 2014 not 2013",
+        "D": "Supported official district date and function"
+      }
+    },
+    {
+      "n": 14,
+      "key": "A",
+      "source_ids": [
+        "C182-1",
+        "C182-3"
+      ],
+      "option_checks": {
+        "A": "Supported 1.0 desirable and 1.5 permissible absent alternative",
+        "B": "False reversal of thresholds",
+        "C": "False individual-health guarantee",
+        "D": "False proxy for chemical testing"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "C182-1",
+      "title": "DGHS National Programme for Prevention and Control of Fluorosis",
+      "url": "https://dghs.mohfw.gov.in/nppcf.php",
+      "verified": "2026-11-02",
+      "claims": [
+        "excess fluoride exposure causes dental and skeletal fluorosis",
+        "2014 NPPCF guideline desirable 1.0 mg/L"
+      ],
+      "limits": "Not a diagnosis for any individual; programme page last updated 2025-04-17"
+    },
+    {
+      "id": "C182-2",
+      "title": "Nalgonda district government fluoride monitoring",
+      "url": "https://nalgonda.telangana.gov.in/floride-monitoring/",
+      "verified": "2026-11-02",
+      "claims": [
+        "district account of historic fluoride risk",
+        "DFMC established 2013-11-14 for coordination"
+      ],
+      "limits": "Historical district narrative does not establish current source-level concentrations or 2026 prevalence"
+    },
+    {
+      "id": "C182-3",
+      "title": "Department of Drinking Water and Sanitation Jal Jeevan Mission Concept Note",
+      "url": "https://jalshakti-ddws.gov.in/sites/default/files/Jal_Jeevan_Mission_Concept_Note.pdf",
+      "verified": "2026-11-02",
+      "claims": [
+        "BIS-based fluoride acceptable 1.0 mg/L",
+        "permissible 1.5 mg/L in absence alternate source"
+      ],
+      "limits": "Water quality threshold is not a universal clinical guarantee; source-specific sampling required"
+    }
+  ],
+  "original_practice_mcq_count": 30,
+  "mains_preserved": 6,
+  "original_topic_pdf_must_remain_sha256": "50bae2572f83e27e5d4654c12347b70646f3f5e924512efa50d6231d056e05c3",
+  "source_synchronization": [
+    "integrated-student-edition-2026-10-30.md",
+    "complete-notes.md",
+    "original-explained-mcqs.md"
+  ],
+  "verified_current_github_base": "e7c0cb504d5d54788c2e5ee83b5d2d91aace554e",
+  "not_verified": [
+    "Remaining MCQs not comprehensively reviewed",
+    "Mains claim-level independent review",
+    "Browser/screen-reader accessibility",
+    "Cross-environment byte-deterministic PDF",
+    "R1-R8 full readiness"
+  ],
+  "independent_academic_approvals": 0,
+  "R9": "NOT_STARTED",
+  "publication": "PENDING_RENDER_AND_ACTUAL_DOWNLOADED_ARTIFACT_QA"
+}
