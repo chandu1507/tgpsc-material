@@ -13,7 +13,7 @@
   "not_assessed_count": 0,
   "ready_for_independent_audit_count": 0,
   "independently_academically_approved_count": 0,
-  "warning": "Cycle192 Topic3-3-2 Q5/Q6/Q9/Q13 source-checked 4 keys/12 distractors, corrected PDF options/metadata; actual packaging artifact 13174212274 DOWNLOADED SHA/digest/CRC PASS, 75 unchanged originals, 75 readiness, 92 HTML, 634 local links and 1581 DOM fragments zero broken, 17 manifest entries PASS, 43-page PDF all 30 MCQs same-page options/answer. R1 PASS20, fully ready0, approvals0. QA evidence commit postdates artifact; post-evidence package pending.",
+  "warning": "Cycle193 Topic3-3-3 repaired S25/S26 source-ID collision and checked 2 MCQ keys/6 distractors; actual artifact 13178986598 downloaded SHA/CRC/75 unchanged originals/75 readiness/92 HTML/634 file links/1582 fragments/16 manifest PASS; post-evidence artifact pending. R1 PASS20, fully ready0, approvals0.",
   "paths": [
     "project-control/academic-readiness/2-1-1.json",
     "project-control/academic-readiness/2-1-2.json",
@@ -161,7 +161,7 @@
     "6-3-4",
     "6-3-5"
   ],
-  "last_readiness_update": "Cycle192 Topic3-3-2 Q5/Q6/Q9/Q13 source-checked 4 keys/12 distractors, corrected PDF options/metadata; actual packaging artifact 13174212274 DOWNLOADED SHA/digest/CRC PASS, 75 unchanged originals, 75 readiness, 92 HTML, 634 local links and 1581 DOM fragments zero broken, 17 manifest entries PASS, 43-page PDF all 30 MCQs same-page options/answer. R1 PASS20, fully ready0, approvals0. QA evidence commit postdates artifact; post-evidence package pending.",
+  "last_readiness_update": "Cycle193 Topic3-3-3 repaired S25/S26 source-ID collision and checked 2 MCQ keys/6 distractors; actual artifact 13178986598 downloaded SHA/CRC/75 unchanged originals/75 readiness/92 HTML/634 file links/1582 fragments/16 manifest PASS; post-evidence artifact pending. R1 PASS20, fully ready0, approvals0.",
   "verified_R1_pass_topic_ids": [
     "2-1-3",
     "2-2-1",
@@ -186,6 +186,8 @@
   ],
   "verified_R1_pass_count": 20,
   "recent_evidence": [
+    "project-control/academic-readiness/3-3-3-cycle193-actual-downloaded-publication-qa-2026-11-03.json",
+    "project-control/academic-readiness/3-3-3-cycle193-source-id-and-two-mcq-primary-audit-2026-11-03.json",
     "project-control/academic-readiness/3-3-2-cycle192-actual-downloaded-postrender-artifact-qa-2026-11-03.json",
     "project-control/academic-readiness/3-3-1-cycle191-postlayout-downloaded-artifact-qa-2026-11-03.json",
     "project-control/academic-readiness/3-3-1-cycle191-four-mcq-parliament-gazette-option-audit-2026-11-03.json",
