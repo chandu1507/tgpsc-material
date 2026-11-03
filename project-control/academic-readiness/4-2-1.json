@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle40: direct inspection of source and preserved PDF found 16 concepts all >=300 words, 27 original MCQs with B18/D0 skew and implausible distractors, and mains body-only counts 193/199/212/208/229/183 (three <200). Local candidate ONLY: 17 concepts, 27 MCQs, revised Q16/21/24/27, six mains 235/239/212/208/229/232, three diagrams, 30-page synchronized local PDF SHA256 94b7bcb933c60b6e57ad3e4772bf06d5d3153967c9957e2a999473943a755e8b; original PDF SHA256 5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7 preserved. Local-only artifact is NOT a GitHub commit, CI run, actual downloaded artifact, or R8 pass. Official NITI MPI table directly checked for 13.18/5.88 and intensity 43.29/40.85; official TGPSC PDF direct retrieval 403; full SEO 2026 24.6 MB inaccessible. Zero academic approvals. Cycle41 REMOTE MERGED: one MPI worked concept integrated into canonical source, Q16/21/24/27 corrected, mains 1/2/6 evidence tests expanded. CI renderer 40535641301 SUCCESS; actual artifact 12747978502 from packaging run 40535641217 DOWNLOADED; 31-page PDF SHA256 7a6186c20c663d67b9a40b0f40f51887fd55070bb95190d919e016c613b19679; 75 original PDFs unchanged, 1620 files, CRC, links and manifest PASS. This remote edition differs from the earlier local-only 30-page candidate; no claim that its SHA matches that candidate. R8 IN_PROGRESS, not PASS. Zero independent academic approvals. Cycle127: eight existing MCQs Q3/4/5/6/14/23/24/25 received 32 bounded option rationales against SCCL, Kamareddy, India Code and NITI. No PDF/Actions artifact claim until CI/downloaded QA. 19 keys/57 distractors and six mains remain pending.",
-  "next_action": "Audit 19 remaining MCQ keys and 57 distractors, all six mains claims and three diagrams; authenticate official syllabus and full SEO 2026; verify CI PDF and actual downloaded artifact, then browser and named expert. R9 remains NOT_STARTED.",
+  "next_action": "Independently inspect primary sources for Q7-Q9 before applying Q8 date-bound wording; audit remaining 16 MCQ keys/48 distractors and all six mains and three diagrams; authenticate syllabus/SEO 2026; regenerate synchronized PDF and download/check actual artifact. No gate promotion or independent approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "5f6688d04b76f7eeb03e733c790737c4d216f95ef7eb8b9ca39093da331b19a7",
@@ -134,5 +134,53 @@
     "packaging_run_id": 41170353662,
     "artifact_id": 13030608109,
     "downloaded_artifact_sha256": "0b3ceb06d3cd6a980f1cfed81c64838012996eabd54c3626eb082a627b8f55e4"
+  },
+  "cycle197_author_side_reconciliation": {
+    "date": "2026-11-03",
+    "scope": "Reconcile separately stored /Mounika/.github-stage Q7-Q9 audit documents; no canonical MCQ edits and no independent source reinspection in this commit",
+    "library_evidence": [
+      "/Mounika/.github-stage/TOPIC_4_2_1_Q7_Q8_SOURCE_BOUNDED_AUDIT_20261103.json",
+      "/Mounika/.github-stage/TOPIC_4_2_1_Q9_PRIMARY_SOURCE_AUDIT_20261103.json"
+    ],
+    "previously_recorded_reviewed_ids": [
+      3,
+      4,
+      5,
+      6,
+      14,
+      23,
+      24,
+      25
+    ],
+    "additional_author_side_reviewed_ids": [
+      7,
+      8,
+      9
+    ],
+    "cumulative_distinct_author_side_reviewed_ids": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      14,
+      23,
+      24,
+      25
+    ],
+    "cumulative_author_side_reviewed_keys": 11,
+    "cumulative_author_side_reviewed_distractors": 33,
+    "remaining_unreviewed_keys": 16,
+    "remaining_unreviewed_distractors": 48,
+    "critical_evidence_caveat": "Q7/Q8 original audit objects explicitly say primary_source_verified_this_run=false and current_review=structural_and_internal_consistency_only. These reviews are NOT independently reproduced source inspections. Q9 is an author-side source assertion. No R4/R6 promotion.",
+    "q8_proposed_date_bounded_stem_not_applied": true,
+    "originals_modified": false,
+    "pdf_regenerated": false,
+    "downloaded_artifact_qa_this_cycle": false,
+    "gate_promotions": 0,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED"
   }
 }
