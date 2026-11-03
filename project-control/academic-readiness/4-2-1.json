@@ -182,5 +182,22 @@
     "gate_promotions": 0,
     "independent_approvals": 0,
     "R9": "NOT_STARTED"
+  },
+  "cycle201_government_q8_claim_evidence": {
+    "date": "2026-11-04",
+    "scope": "Reconcile Government of Telangana 2024-02-04 press-release claim audit stored in Library; source inspected in earlier run, not independently reopened in this commit",
+    "library_evidence": "/Mounika/.github-stage/TOPIC_4_2_1_Q8_GOVERNMENT_SOURCE_AUDIT_20261104.json",
+    "source_url": "https://www.telangana.gov.in/news/press-releases/2024/02/submit-a-comprehensive-report-on-the-revival-of-the-closed-nizam-sugar-factories-cm/",
+    "bounded_finding": "Chief Minister requested Cabinet Sub-Committee revival report; source does not demonstrate actual factory reopening in February 2024",
+    "q8_exact_stem_and_four_options_inspected": false,
+    "q8_option_level_verified": false,
+    "q8_canonical_text_modified": false,
+    "mcq_remaining_author_side_review_keys": 16,
+    "mcq_remaining_author_side_review_distractors": 48,
+    "gate_promotions": 0,
+    "academic_approvals": 0,
+    "R9": "NOT_STARTED",
+    "pdf_regenerated": false,
+    "publication_artifact_checked": false
   }
 }
