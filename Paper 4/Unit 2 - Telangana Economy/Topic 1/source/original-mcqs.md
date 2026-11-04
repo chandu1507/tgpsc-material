@@ -112,24 +112,24 @@ D. Always foreign aid
 **Answer: C. Explanation:** Administrative booking location differs from the ultimate location and beneficiaries of public services.
 
 
-### Q12. The distinction between irrigation potential and actual irrigation is:
+### Q12. Which statement most accurately distinguishes irrigation potential created (IPC) from irrigation potential utilised (IPU)?
 
-A. There is no difference  
-B. Engineering design versus dependable water reaching farms  
-C. Only canal length  
-D. Only monsoon forecasts
+A. IPC measures the area actually irrigated in a season, while IPU measures the planned command area.  
+B. IPC represents irrigation capacity developed through works; IPU measures the extent that capacity is put to use, which can be lower because of distribution, maintenance or farm-level constraints.  
+C. IPC and IPU are interchangeable whenever a reservoir reaches full storage.  
+D. IPU measures only groundwater irrigation, while IPC measures only canal irrigation.
 
-**Answer: B. Explanation:** Utilisation and farm-level delivery may differ from project design capacity.
+**Answer: B. Explanation:** IPC concerns created capacity, whereas IPU concerns utilisation. A reverses the measures. C wrongly treats reservoir storage as proof of field-level utilisation; conveyance and distribution still matter. D invents a source-based distinction: both terms are used for irrigation projects, not exclusively for groundwater versus canals. The difference should be assessed with project-specific command-area and utilisation records; neither measure alone proves dependable household-level water access. **Original practice MCQ; conceptual author-side review, not certified as an official PYQ.**
 
 
-### Q13. Which is a plausible reason for plateau irrigation costs being higher?
+### Q13. In comparing a lift-irrigation scheme on elevated terrain with a gravity-fed scheme serving similar acreage, which factor can increase recurring operating expenditure?
 
-A. Gravity always flows uphill  
-B. Lift irrigation may require pumping energy  
-C. Rainfall is identical everywhere  
-D. Tanks are prohibited
+A. The higher initial cost of constructing a gravity canal, recorded as annual pumping electricity expenditure.  
+B. Electricity and maintenance needed to pump water across an elevation difference, conditional on lift height, flow and pump efficiency.  
+C. A larger designed command area, which automatically makes energy expenditure per unit of delivered water zero.  
+D. Higher crop prices, which are necessarily an engineering operating cost of the pumping system.
 
-**Answer: B. Explanation:** Topography can necessitate energy-intensive lifts; cost-benefit analysis remains project-specific.
+**Answer: B. Explanation:** Raising water requires energy; the relevant pumping requirement depends on head, discharge and equipment efficiency, and electricity tariffs and maintenance affect recurring cost. A confuses capital construction cost with annual electricity expenditure. C incorrectly infers zero energy use from scale. D confuses a potential farm-revenue effect with the scheme's engineering operating expenditure. A fair appraisal must also consider conveyance losses, reliability, crop choices and economic benefits; lift irrigation is not automatically inferior. **Original practice MCQ; conceptual author-side review, not certified as an official PYQ.**
 
 
 ### Q14. Telangana state was formed on:
@@ -142,14 +142,14 @@ D. 1 January 2015
 **Answer: B. Explanation:** The state came into existence on 2 June 2014.
 
 
-### Q15. GSDP at market prices is approximately:
+### Q15. Under the production approach, GSDP at market prices equals:
 
-A. GSVA minus depreciation only  
-B. GSVA plus net product taxes  
-C. Household income divided by population  
-D. Exports plus imports
+A. Aggregate GSVA plus product taxes, without subtracting product subsidies  
+B. Aggregate GSVA plus product taxes less product subsidies  
+C. Aggregate GSVA less product taxes plus product subsidies  
+D. Aggregate GSVA less consumption of fixed capital plus net product taxes
 
-**Answer: B. Explanation:** GSDP at market prices equals aggregate GSVA plus product taxes less product subsidies.
+**Answer: B. Explanation:** GSDP at market prices = aggregate GSVA at basic prices + taxes on products − subsidies on products. A omits the subsidy deduction; C reverses the tax/subsidy signs; D incorrectly deducts consumption of fixed capital and would move from a gross to a net measure. All four options concern national-accounts adjustments rather than unrelated economic indicators. Source: Ministry of Statistics and Programme Implementation (MoSPI), FAQ 'What is Gross Domestic Product? How it differs from GVA?', https://mospi.gov.in/faq (directly checked 4 November 2026); MoSPI, Sarvekshan Supplement, production-measure and GVA definitions, https://mospi.gov.in/sites/default/files/publication_reports/Sarvekshan_Supplement_Final_10_11_2025.pdf. This is an original practice question, not an official TGPSC PYQ.
 
 
 ### Q16. The estimated current-price GSVA shares are primary 15.1%, secondary 16.3%, and tertiary 68.6%. By how many percentage points does tertiary exceed primary and secondary combined?
@@ -270,4 +270,3 @@ C. Only the party announcing the project
 D. Project locations, actual delivered water, beneficiary districts and comparable time periods  
 
 **Answer: D. Explanation:** Accounting location is not necessarily the place of water delivery or beneficiary incidence. Geocoded project and delivery records are needed; the other alternatives cannot establish regional benefits.
-
