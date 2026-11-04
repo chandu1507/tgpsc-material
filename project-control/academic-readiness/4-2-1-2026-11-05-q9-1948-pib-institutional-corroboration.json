@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-05",
+  "topic_id": "4-2-1",
+  "scope": "Q9 option A=1948; official institutional retrospective corroboration, NOT contemporaneous archival primary-source authentication",
+  "question": "Andhra Pradesh was formed by merger involving Telangana in:",
+  "option": "A",
+  "option_year": 1948,
+  "conclusion": "1948 relates to integration/liberation of Hyderabad State following Operation Polo, not the 1956 formation of Andhra Pradesh involving Telangana.",
+  "directly_accessed_official_sources": [
+    {
+      "publisher": "Government of India Ministry of Culture, Press Information Bureau",
+      "date": "2022-09-03",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1856556&lang=2&reg=48",
+      "finding": "States Hyderabad was liberated from Nizam rule on 17 September 1948 and describes Operation Polo and merger with Indian Union."
+    },
+    {
+      "publisher": "Government of India Ministry of Culture, Press Information Bureau",
+      "date": "2026-09-17",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2311398&lang=1&reg=3",
+      "finding": "Official commemoration explicitly associates integration of Hyderabad State into India with 17 September 1948."
+    }
+  ],
+  "prior_evidence": [
+    "project-control/academic-readiness/4-2-1-2026-11-05-q9-direct-mha-statute-audit.json",
+    "project-control/academic-readiness/4-2-1-2026-11-05-q9-1953-1975-official-index-distractor-audit.json"
+  ],
+  "evidence_class": "Official institutional retrospective; not original 1948 instrument, surrender record, gazette or contemporary archival record",
+  "limitations": [
+    "No original 1948 government archival instrument inspected",
+    "No independent expert assessment",
+    "No MCQ text or PDF changed",
+    "No R5/R8/R9 promotion",
+    "Other options B/D supported by indexed government PDFs, not direct full inspection"
+  ],
+  "topic_count": 75,
+  "academic_approvals": 0,
+  "R5": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "precommit_observed_main": "46e4f19a9f09898eca1623cd17b5394ae7e4bfed"
+}
