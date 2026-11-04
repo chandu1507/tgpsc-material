@@ -531,14 +531,14 @@ D. 1 January 2015
 **Answer: B. Explanation:** The state came into existence on 2 June 2014.
 
 
-### Q15. GSDP at market prices is approximately:
+### Q15. Under the production approach, GSDP at market prices equals:
 
-A. GSVA minus depreciation only  
-B. GSVA plus net product taxes  
-C. Household income divided by population  
-D. Exports plus imports
+A. Aggregate GSVA plus product taxes, without subtracting product subsidies  
+B. Aggregate GSVA plus product taxes less product subsidies  
+C. Aggregate GSVA less product taxes plus product subsidies  
+D. Aggregate GSVA less consumption of fixed capital plus net product taxes
 
-**Answer: B. Explanation:** GSDP at market prices equals aggregate GSVA plus product taxes less product subsidies.
+**Answer: B. Explanation:** GSDP at market prices = aggregate GSVA at basic prices + taxes on products − subsidies on products. A omits the subsidy deduction; C reverses the tax/subsidy signs; D incorrectly deducts consumption of fixed capital and would move from a gross to a net measure. All four options concern national-accounts adjustments rather than unrelated economic indicators. Source: Ministry of Statistics and Programme Implementation (MoSPI), FAQ 'What is Gross Domestic Product? How it differs from GVA?', https://mospi.gov.in/faq (directly checked 4 November 2026); MoSPI, Sarvekshan Supplement, production-measure and GVA definitions, https://mospi.gov.in/sites/default/files/publication_reports/Sarvekshan_Supplement_Final_10_11_2025.pdf. This is an original practice question, not an official TGPSC PYQ.
 
 
 ### Q16. The estimated current-price GSVA shares are primary 15.1%, secondary 16.3%, and tertiary 68.6%. By how many percentage points does tertiary exceed primary and secondary combined?
