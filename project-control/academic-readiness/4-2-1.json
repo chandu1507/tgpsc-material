@@ -199,5 +199,27 @@
     "R9": "NOT_STARTED",
     "pdf_regenerated": false,
     "publication_artifact_checked": false
+  },
+  "cycle202_canonical_q8_inspection": {
+    "date": "2026-11-04",
+    "canonical_path": "Paper 4/Unit 2 - Telangana Economy/Topic 1/source/complete-notes.md",
+    "canonical_blob_sha": "551f51a3a02ec11938506b8322940e8d346e40d4",
+    "question": "A claim that the 2024 government had already reopened Nizam Sugar Factory is unsupported because:",
+    "options": {
+      "A": "The state had no sugarcane",
+      "B": "The release directed a committee to study revival",
+      "C": "Bodhan was outside Telangana",
+      "D": "The factory never existed"
+    },
+    "recorded_key": "B",
+    "finding": "Direct canonical inspection confirms Q8 already differentiates revival committee study from actual reopening; no stem or key rewrite justified. Prior 2024-02-04 government press-release audit supports B, but primary page not independently reopened in this cycle; remaining distractors not independently source-certified.",
+    "q8_exact_stem_and_options_inspected": true,
+    "q8_key_bounded_consistency_check": "PASS",
+    "all_four_distractors_independently_verified": false,
+    "canonical_question_changed": false,
+    "readiness_gate_promotions": 0,
+    "independent_approvals": 0,
+    "integrated_pdf_rendered": false,
+    "downloaded_artifact_qa": false
   }
 }
