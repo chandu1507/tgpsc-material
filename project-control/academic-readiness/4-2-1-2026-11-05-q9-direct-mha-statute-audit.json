@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-05",
+  "topic_id": "4-2-1",
+  "scope": "Existing original-practice MCQ Q9; direct government-hosted statutory text audit; no content edits",
+  "precommit_main": "7fb92b050d1d95710e5d192382393cb94df6c192",
+  "readiness_blob": "0c066cfcb9e4b5815221345a674c403667242c96",
+  "question": "Andhra Pradesh was formed by merger involving Telangana in:",
+  "options": {
+    "A": "1948",
+    "B": "1953",
+    "C": "1956",
+    "D": "1975"
+  },
+  "recorded_key": "C",
+  "source": {
+    "publisher": "Ministry of Home Affairs, Government of India",
+    "title": "States Reorganisation Act, 1956",
+    "url": "https://www.mha.gov.in/sites/default/files/The%20State%20Reorganisation%20Act%201956_270614.pdf",
+    "access": "PDF directly opened and text inspected on 2026-11-05",
+    "sections": [
+      "2(a): appointed day 1 November 1956",
+      "3(1): transfer of Hyderabad territories to Andhra and name Andhra Pradesh",
+      "3(2): allocation of transferred territories"
+    ]
+  },
+  "assessment": {
+    "C": "PASS: statutory appointed day 1 November 1956 and section 3 transfer/renaming",
+    "A": "1948 is not appointed day; independent event-level historical audit pending",
+    "B": "1953 is not appointed day; independent Andhra State Act 1953 audit pending",
+    "D": "1975 is not appointed day; independent historical audit pending"
+  },
+  "limits": [
+    "Direct official PDF access resolves earlier PDF-open limitation for this question only.",
+    "No independent expert review; remaining distractor historical claims not primary-source audited.",
+    "No source question edit, PDF render, downloaded artifact QA, or gate promotion."
+  ],
+  "R5": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "topic_count": 75
+}
