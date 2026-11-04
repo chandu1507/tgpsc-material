@@ -501,24 +501,24 @@ D. Always foreign aid
 **Answer: C. Explanation:** Administrative booking location differs from the ultimate location and beneficiaries of public services.
 
 
-### Q12. The distinction between irrigation potential and actual irrigation is:
+### Q12. Which statement most accurately distinguishes irrigation potential created (IPC) from irrigation potential utilised (IPU)?
 
-A. There is no difference  
-B. Engineering design versus dependable water reaching farms  
-C. Only canal length  
-D. Only monsoon forecasts
+A. IPC measures the area actually irrigated in a season, while IPU measures the planned command area.  
+B. IPC represents irrigation capacity developed through works; IPU measures the extent that capacity is put to use, which can be lower because of distribution, maintenance or farm-level constraints.  
+C. IPC and IPU are interchangeable whenever a reservoir reaches full storage.  
+D. IPU measures only groundwater irrigation, while IPC measures only canal irrigation.
 
-**Answer: B. Explanation:** Utilisation and farm-level delivery may differ from project design capacity.
+**Answer: B. Explanation:** IPC concerns created capacity, whereas IPU concerns utilisation. A reverses the measures. C wrongly treats reservoir storage as proof of field-level utilisation; conveyance and distribution still matter. D invents a source-based distinction: both terms are used for irrigation projects, not exclusively for groundwater versus canals. The difference should be assessed with project-specific command-area and utilisation records; neither measure alone proves dependable household-level water access. **Original practice MCQ; conceptual author-side review, not certified as an official PYQ.**
 
 
-### Q13. Which is a plausible reason for plateau irrigation costs being higher?
+### Q13. In comparing a lift-irrigation scheme on elevated terrain with a gravity-fed scheme serving similar acreage, which factor can increase recurring operating expenditure?
 
-A. Gravity always flows uphill  
-B. Lift irrigation may require pumping energy  
-C. Rainfall is identical everywhere  
-D. Tanks are prohibited
+A. The higher initial cost of constructing a gravity canal, recorded as annual pumping electricity expenditure.  
+B. Electricity and maintenance needed to pump water across an elevation difference, conditional on lift height, flow and pump efficiency.  
+C. A larger designed command area, which automatically makes energy expenditure per unit of delivered water zero.  
+D. Higher crop prices, which are necessarily an engineering operating cost of the pumping system.
 
-**Answer: B. Explanation:** Topography can necessitate energy-intensive lifts; cost-benefit analysis remains project-specific.
+**Answer: B. Explanation:** Raising water requires energy; the relevant pumping requirement depends on head, discharge and equipment efficiency, and electricity tariffs and maintenance affect recurring cost. A confuses capital construction cost with annual electricity expenditure. C incorrectly infers zero energy use from scale. D confuses a potential farm-revenue effect with the scheme's engineering operating expenditure. A fair appraisal must also consider conveyance losses, reliability, crop choices and economic benefits; lift irrigation is not automatically inferior. **Original practice MCQ; conceptual author-side review, not certified as an official PYQ.**
 
 
 ### Q14. Telangana state was formed on:
