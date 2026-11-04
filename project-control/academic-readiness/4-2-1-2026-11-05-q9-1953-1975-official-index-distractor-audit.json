@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-05",
+  "topic_id": "4-2-1",
+  "scope": "Q9 distractors B=1953 and D=1975, bounded official-document source audit; no MCQ rewrite",
+  "precommit_main": "0925630003844001ff548d9853de3b79299325e6",
+  "question": "Andhra Pradesh was formed by merger involving Telangana in:",
+  "options": {
+    "A": "1948",
+    "B": "1953",
+    "C": "1956",
+    "D": "1975"
+  },
+  "recorded_key": "C",
+  "findings": {
+    "B": {
+      "finding": "Andhra State Act 1953 sections 2(a) and 3(1) establish 1 October 1953 as formation of Andhra State, not the Andhra Pradesh state arising from 1956 reorganisation.",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/2176/1/A1953-30.pdf",
+      "access": "Government-hosted indexed PDF text retrieved in web search; direct PDF page-by-page inspection not performed this run",
+      "confidence": "bounded official-index text corroboration"
+    },
+    "D": {
+      "finding": "1975 concerns the Andhra Pradesh Public Employment (Organisation of Local Cadres and Regulation of Direct Recruitment) Presidential Order, not formation of Andhra Pradesh.",
+      "source": "https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf",
+      "access": "Government-hosted indexed PDF excerpt retrieved in web search; direct full PDF inspection not performed",
+      "confidence": "bounded official-index text corroboration"
+    },
+    "A": {
+      "finding": "1948 remains not independently event-level primary-source audited in this run",
+      "confidence": "pending"
+    },
+    "C": {
+      "finding": "1956 statutory correct answer previously directly audited",
+      "prior_evidence": "project-control/academic-readiness/4-2-1-2026-11-05-q9-direct-mha-statute-audit.json"
+    }
+  },
+  "limits": [
+    "Not an independent academic expert review",
+    "Search-extracted official PDF text is not full direct document inspection",
+    "1948 event-specific primary-source verification remains outstanding",
+    "No canonical MCQ or PDF change, no artifact QA, no R5/R9 promotion"
+  ],
+  "R5": "IN_PROGRESS",
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "topic_count": 75
+}
