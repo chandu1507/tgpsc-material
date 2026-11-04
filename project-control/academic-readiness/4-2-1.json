@@ -221,5 +221,30 @@
     "independent_approvals": 0,
     "integrated_pdf_rendered": false,
     "downloaded_artifact_qa": false
+  },
+  "cycle203_canonical_q9_statutory_crosscheck": {
+    "date": "2026-11-04",
+    "canonical_path": "Paper 4/Unit 2 - Telangana Economy/Topic 1/source/complete-notes.md",
+    "canonical_blob_sha": "551f51a3a02ec11938506b8322940e8d346e40d4",
+    "question": "Andhra Pradesh was formed by merger involving Telangana in:",
+    "options": {
+      "A": "1948",
+      "B": "1953",
+      "C": "1956",
+      "D": "1975"
+    },
+    "recorded_key": "C",
+    "statutory_source": "States Reorganisation Act, 1956, sections 2(a) and 3(1)",
+    "government_pdf": "https://www.mha.gov.in/sites/default/files/The%20State%20Reorganisation%20Act%201956_270614.pdf",
+    "evidence_limit": "Government-hosted PDF indexed search excerpt of section 3 obtained; direct PDF open returned 404 this cycle. Independent secondary reproductions corroborate section 3. Section 2(a) appointed day 1 November 1956 corroborated by indexed legal text. Do not claim direct official PDF inspection.",
+    "finding": "1956 answer supported by statute wording in indexed official excerpt and independent transcriptions; 1953 corresponds to Andhra State rather than Andhra Pradesh. Distractors 1948 and 1975 not individually primary-source certified.",
+    "key_bounded_crosscheck": "PASS",
+    "all_options_primary_verified": false,
+    "canonical_text_changed": false,
+    "readiness_gate_promotions": 0,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED",
+    "pdf_regenerated": false,
+    "downloaded_artifact_qa": false
   }
 }
