@@ -79,6 +79,13 @@ jobs:
           assert sum(len(page.get_images()) for page in doc)>=3
           text='\n'.join(p.get_text() for p in doc)
           assert 'multidimensional poverty' in text.lower() and 'Model answer 6.' in text
+          # Publication regression guard: the immutable original PDF is not the integrated edition.
+          # Require both revised practice questions in the generated integrated PDF.
+          normalized=re.sub(r'\s+',' ',text).lower()
+          for phrase in ('common administrative expenses were to be shared proportionately',
+                         'statewide vaccination procurement programme',
+                         'district-level delivery and beneficiary data are needed'):
+              assert phrase in normalized, f'Integrated PDF missing revised MCQ wording: {phrase}'
           violations=[]
           for i,page in enumerate(doc):
               for block in page.get_text('dict')['blocks']:
