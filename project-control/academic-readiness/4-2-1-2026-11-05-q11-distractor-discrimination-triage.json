@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-05",
+  "topic_id": "4-2-1",
+  "question": "Q11",
+  "audit_type": "direct_canonical_question_read_and_distractor_quality_triage",
+  "repository_head_before": "b1ce9940d830cbb30e68d50cd0260c784f077411",
+  "canonical_path": "Paper 4/Unit 2 - Telangana Economy/Topic 1/source/complete-notes.md",
+  "canonical_blob_sha": "63e9863ec70ccd517a4d5cc43dbef361f6b12aad",
+  "question_stem": "For regional fiscal equity, expenditure booked at a capital-city office is:",
+  "recorded_answer": "C",
+  "finding": "Recorded C is conceptually defensible: accounting booking location alone does not establish geography of beneficiaries. However A ('Automatically a local benefit only'), B ('Automatically distributed equally'), and D ('Always foreign aid') are categorical or irrelevant, making the item guessable without understanding benefit incidence. This is an assessment-discrimination defect, not a demonstrated factual error.",
+  "verification_scope": "Canonical source directly inspected; no external primary document inspected for this question in this run. No claim of independent key/distractor certification.",
+  "recommended_revision": "Replace with an applied hypothetical using a Hyderabad-booked state expenditure item with benefits spanning districts, and four plausible interpretations separating booking location, project location, service catchment, and beneficiary incidence. Verify each alternative against a suitable official public-finance methodology before publishing.",
+  "changes_to_canonical_question": false,
+  "readiness_promotion": false,
+  "independent_approval": false,
+  "publication_qa": "NOT_PERFORMED",
+  "remaining": "Source-grounded four-option rewrite, cross-source synchronization, PDF render, downloaded artifact inspection, named expert review."
+}
