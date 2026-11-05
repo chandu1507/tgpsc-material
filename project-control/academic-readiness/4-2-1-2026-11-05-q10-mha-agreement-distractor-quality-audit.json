@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-05",
+  "topic": "4-2-1",
+  "scope": "Q10 bounded original-practice MCQ source and distractor-quality audit",
+  "pre_edit_main": "c07d15847a2357838b798857edf26703682bcc81",
+  "canonical_path": "Paper 4/Unit 2 - Telangana Economy/Topic 1/source/complete-notes.md",
+  "canonical_blob_sha": "63e9863ec70ccd517a4d5cc43dbef361f6b12aad",
+  "question": "Which statement about the Gentlemen’s Agreement is most accurate?",
+  "existing_options": {
+    "A": "It abolished all taxes",
+    "B": "It was intended to safeguard Telangana interests around merger",
+    "C": "It created Telangana in 2014",
+    "D": "It established the RBI"
+  },
+  "existing_key": "B",
+  "source": {
+    "institution": "Government of India Ministry of Home Affairs, Committee for Consultations on the Situation in Andhra Pradesh (Srikrishna Committee), 2010 report and Appendix XIV",
+    "report_url": "https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-REPORT-060111%5B1%5D.pdf",
+    "appendix_url": "https://www.mha.gov.in/sites/default/files/2022-08/CCSAP-Appendix-060111%5B1%5D.pdf",
+    "relevant_sections": "Report 5.4.01-5.4.02; Appendix XIV clauses 1,3,5,7,8,9",
+    "access": "Official MHA indexed document text inspected via search; not independently downloaded and page-rendered this cycle"
+  },
+  "finding": "B is supported by the government report; distractors A/C/D are weak and unrelated, so Q10 tests elimination rather than distinguishing specific merger safeguards.",
+  "suggested_replacement_not_applied": {
+    "stem": "Which safeguard was specifically included in the 1956 Gentlemen’s Agreement concerning Telangana?",
+    "A": "Telangana's remaining regional income after proportional common-administration expenditure would be reserved for its development",
+    "B": "All public employment in both regions would be reserved exclusively for Telangana residents",
+    "C": "A separate Telangana legislative assembly would replace the united state's legislature immediately",
+    "D": "All Telangana agricultural land sales would be prohibited without exception",
+    "key": "A",
+    "caveat": "Option A corresponds to Appendix XIV clause 1. Options B-D are counterfactual overstatements; check each against complete agreement text and assess plausible distractor quality before publication."
+  },
+  "originals_modified": false,
+  "academic_gate_promotions": 0,
+  "independent_approvals": 0,
+  "pdf_regenerated": false,
+  "artifact_downloaded": false,
+  "R9": "NOT_STARTED"
+}
