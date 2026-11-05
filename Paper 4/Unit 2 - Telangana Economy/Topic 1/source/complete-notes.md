@@ -491,14 +491,14 @@ D. Common administrative expenses were to be assigned solely by the location of 
 **Answer: B. Explanation:** Clause 1 of the 20 February 1956 Gentlemen’s Agreement, as reproduced in the Srikrishna Committee's 2010 report, provided for proportionate sharing of common administrative expenditure and reservation of Telangana's remaining income for the region's development. The clause is a historical safeguard, not proof that implementation always matched the promise. Source: Ministry of Home Affairs, Committee for Consultations on the Situation in Andhra Pradesh (2010), reproduction of the Gentlemen’s Agreement; consult the reproduced clause, not an unverified original signed instrument.
 
 
-### Q11. For regional fiscal equity, expenditure booked at a capital-city office is:
+### Q11. A state pays for a statewide vaccination procurement programme through its capital-city treasury. Which inference about the regional distribution of public benefits is most defensible?
 
-A. Automatically a local benefit only  
-B. Automatically distributed equally  
-C. Not necessarily identical to the geography of benefits  
-D. Always foreign aid
+A. The capital district receives the full benefit because the treasury records the payment there.  
+B. The expenditure must be divided equally among districts because the programme is statewide.  
+C. The treasury booking location alone cannot establish regional benefit; district-level delivery and beneficiary data are needed.  
+D. Benefits must be assigned to the district containing the supplier, irrespective of where vaccinations are delivered.
 
-**Answer: C. Explanation:** Administrative booking location differs from the ultimate location and beneficiaries of public services.
+**Answer: C. Explanation:** A payment's accounting location, the supplier's location, and the population receiving a service are different dimensions. A incorrectly equates the treasury entry with service incidence. B assumes equal district distribution without evidence about doses administered or beneficiaries. D substitutes the supplier's location for actual service delivery. C identifies the additional evidence needed: district-level administration, service coverage, and beneficiary records. This is an **original applied-practice question**, not a verified official PYQ. The scenario illustrates a general public-finance measurement distinction; it does not assert that any named historical Telangana expenditure programme followed this allocation.
 
 
 ### Q12. Which statement most accurately distinguishes irrigation potential created (IPC) from irrigation potential utilised (IPU)?
