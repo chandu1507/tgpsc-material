@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-05",
+  "topic": "4-2-1",
+  "question": "Q10",
+  "type": "direct_pdf_text_inspection_of_government_committee_report_reproduction",
+  "source": {
+    "title": "Committee for Consultations on the Situation in Andhra Pradesh, Report, December 2010",
+    "pdf": "https://www.oneindia.com/common/documents/srikrishna-committee-report-telangana-andhra.pdf",
+    "provenance": "Third-party hosted copy of government committee report; directly opened and text inspected; NOT original signed 1956 agreement or government-hosted PDF",
+    "sections": "Chapter 1 §1.1.11, reproduced 20 February 1956 agreement, printed pp 10-13",
+    "specific_evidence": [
+      {
+        "clause": 1,
+        "content": "Common administrative expenditure shared proportionately; remaining Telangana income reserved for Telangana development; five-year review."
+      },
+      {
+        "clause": 3,
+        "content": "Protect and improve Telangana education; Telangana colleges or one-third statewide admissions as advantageous."
+      },
+      {
+        "clause": 5,
+        "content": "Future service recruitment on population basis for both regions."
+      },
+      {
+        "clause": 8,
+        "content": "Agricultural land sales in Telangana subject to Regional Council control, not an absolute prohibition."
+      },
+      {
+        "clause": 9,
+        "content": "Regional Council intended for Telangana development."
+      },
+      {
+        "clause": 11,
+        "content": "Regional Council role included planning, irrigation, industry and recruitment."
+      }
+    ],
+    "historical_implementation_caveat": "Report §1.1.12 distinguishes the proposed statutory Regional Council from the subsequently constituted Regional Committee; avoid conflation."
+  },
+  "current_question": {
+    "stem": "Which statement about the Gentlemen’s Agreement is most accurate?",
+    "options": {
+      "A": "It abolished all taxes",
+      "B": "It was intended to safeguard Telangana interests around merger",
+      "C": "It created Telangana in 2014",
+      "D": "It established the RBI"
+    },
+    "key": "B",
+    "assessment_quality": "Correct key but three implausible unrelated distractors."
+  },
+  "proposed_question_not_published": {
+    "stem": "Under the 1956 Gentlemen’s Agreement, how was Telangana's remaining regional income to be treated after its proportional share of common administration costs?",
+    "options": {
+      "A": "Reserved for development of the Telangana area",
+      "B": "Transferred in full to the common administration budget",
+      "C": "Divided equally between Andhra and Telangana irrespective of regional receipts",
+      "D": "Permanently assigned to the proposed Regional Council as an unrestricted cash grant"
+    },
+    "key": "A",
+    "evidence": "Agreement clause 1 directly supports A; clause 1 contradicts B and C; clauses 1,9,11 do not establish an unrestricted cash grant to Council as D asserts.",
+    "limitation": "Distractors still need independent pedagogical review; question is original practice, not an official PYQ."
+  },
+  "status": "EVIDENCE_ONLY_NO_CANONICAL_EDIT",
+  "pdf_regenerated": false,
+  "artifact_downloaded": false,
+  "readiness_gate_promotions": 0,
+  "independent_approvals": 0,
+  "R9": "NOT_STARTED"
+}
