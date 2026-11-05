@@ -481,14 +481,14 @@ D. 1975
 **Answer: C. Explanation:** The united Andhra Pradesh arrangement began in 1956.
 
 
-### Q10. Which statement about the Gentlemen’s Agreement is most accurate?
+### Q10. Under the financial safeguard in the 20 February 1956 Gentlemen’s Agreement, how were common administrative expenses and Telangana’s remaining regional income to be treated?
 
-A. It abolished all taxes  
-B. It was intended to safeguard Telangana interests around merger  
-C. It created Telangana in 2014  
-D. It established the RBI
+A. Common administrative expenses were to be divided equally, with all remaining Telangana income transferred to the combined state's general fund.  
+B. Common administrative expenses were to be shared proportionately, with Telangana's remaining regional income reserved for development of the Telangana area.  
+C. Common administrative expenses were to be charged entirely to Telangana, with Andhra retaining its own remaining regional income.  
+D. Common administrative expenses were to be assigned solely by the location of the state secretariat, with no separate provision for Telangana's remaining income.
 
-**Answer: B. Explanation:** The 1956 political arrangements addressed regional safeguards and became contested in implementation.
+**Answer: B. Explanation:** Clause 1 of the 20 February 1956 Gentlemen’s Agreement, as reproduced in the Srikrishna Committee's 2010 report, provided for proportionate sharing of common administrative expenditure and reservation of Telangana's remaining income for the region's development. The clause is a historical safeguard, not proof that implementation always matched the promise. Source: Ministry of Home Affairs, Committee for Consultations on the Situation in Andhra Pradesh (2010), reproduction of the Gentlemen’s Agreement; consult the reproduced clause, not an unverified original signed instrument.
 
 
 ### Q11. For regional fiscal equity, expenditure booked at a capital-city office is:
