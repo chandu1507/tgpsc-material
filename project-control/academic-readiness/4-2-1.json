@@ -104,8 +104,8 @@
     "r8": "IN_PROGRESS",
     "academic_approvals": 0,
     "remote_integrated_edition_rendered": true,
-    "ci_integrated_pdf_sha256": "e997c566f63b1a5f44d337cfed20c2c91f52f73d8c928c5224c081bd2d14317e",
-    "ci_integrated_pdf_pages": 33
+    "ci_integrated_pdf_sha256": "3e438ce49a5bc7c85420d127a7f2e3a3e5ab6ccd61fd9178818089aff79dbac6",
+    "ci_integrated_pdf_pages": 34
   },
   "cycle127": {
     "date": "2026-10-31",

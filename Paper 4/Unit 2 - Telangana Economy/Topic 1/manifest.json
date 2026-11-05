@@ -7,9 +7,9 @@
   "syllabus": "Telangana economy in Hyderabad State (Agriculture, Industry and Trade); Telangana economy in United AP (1956-2014)- Deprivation and Under development; Structure and Growth of Telangana economy: Sectoral trends in GSDP ; Per capita income; Income inequalities and Poverty.",
   "production_status": "cycle41_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "academic_status": "not_approved",
-  "word_count_complete_markdown": 13542,
+  "word_count_complete_markdown": 13816,
   "word_count_detailed_notes": 7294,
-  "pdf_pages": 33,
+  "pdf_pages": 34,
   "original_explained_mcqs": 27,
   "original_mains_model_answers": 6,
   "mains_answer_word_counts": [
@@ -56,32 +56,32 @@
       "bytes": 246820
     },
     "index.html": {
-      "sha256": "64aad8418874b5347e3114aff20837fdad37e843ac908bd80bab1197d4301bbe",
-      "bytes": 137145
+      "sha256": "994ae24a0f4b7b29050df89bfebd186b509e46d4e635a1d2dabf322a54620e3c",
+      "bytes": 139881
     },
     "source/answer-blueprints.md": {
       "sha256": "ac357aeea8e897cf9fa90c906f0491e141c5bf6bb3dd8d0962605723fd53a10c",
       "bytes": 1542
     },
     "source/complete-notes.md": {
-      "sha256": "6f666226b44b9421fb18200a84d36aff7d0a5aac2f3c01f8e11f42e9c2705023",
-      "bytes": 101923
+      "sha256": "272843bdbbf81563814f92e2878d027ea46d17bf67b8abb2cacbe9007f14f2cd",
+      "bytes": 103997
     },
     "source/detailed-notes.md": {
       "sha256": "ca7ccecd93787e25ef343f9feb961929c1b00dd54ebc722e78b2911d3e9fd6e7",
       "bytes": 54409
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "e997c566f63b1a5f44d337cfed20c2c91f52f73d8c928c5224c081bd2d14317e",
-      "bytes": 333119
+      "sha256": "3e438ce49a5bc7c85420d127a7f2e3a3e5ab6ccd61fd9178818089aff79dbac6",
+      "bytes": 335436
     },
     "source/mains-model-answers.md": {
       "sha256": "983eae814083288bb945220f333cc5511b15f6209d1d3bf74602c0cea2674325",
       "bytes": 12105
     },
     "source/original-mcqs.md": {
-      "sha256": "d0e6e370ccc02159c8c245b9a03dbaa08d173d35a3dea631de37d5369661af54",
-      "bytes": 11889
+      "sha256": "f64401c12efa99b3654cda05bb0e9ba75d56325b4491d21f5cdf386219e2e87f",
+      "bytes": 13963
     },
     "source/quick-revision.md": {
       "sha256": "80d322010dbd14b76f9c2722b0c8f5423947ca3f15453d7022b9a298211ed31b",
