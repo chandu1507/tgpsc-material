@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "4-1-5",
+  "question": 21,
+  "provenance": "Newly authored practice; not official PYQ",
+  "canonical_source": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/original-mcqs.md",
+  "question_text": "Under Telangana Rising 2047, which regional description is correctly matched?",
+  "options": {
+    "A": "CURE — rural-agriculture economy beyond the Regional Ring Road",
+    "B": "PURE — peri-urban economy connecting the Outer Ring Road and Regional Ring Road",
+    "C": "RARE — high-density core urban economy within the Outer Ring Road",
+    "D": "CURE — a constitutional urban-government tier created by the Seventy-Fourth Amendment"
+  },
+  "existing_key": "B",
+  "decision": "KEEP_B_PRIMARY_VISION_DOCUMENT_CORRELATED",
+  "option_assessment": {
+    "A": "Incorrect. The government vision defines the rural/agriculture zone beyond RRR as RARE, not CURE.",
+    "B": "Correct. The government vision places PURE between ORR and RRR and describes its manufacturing focus.",
+    "C": "Incorrect. The area within ORR is CURE; RARE extends beyond RRR.",
+    "D": "Incorrect. CURE is an economic/planning region defined by state vision, not a constitutional tier created by the 74th Amendment. The 74th Amendment establishes a constitutional framework for municipalities, not CURE."
+  },
+  "primary_sources": [
+    {
+      "publisher": "Telangana government, Telangana State Warehousing Corporation hosted copy",
+      "title": "Telangana Rising 2047 Vision Document",
+      "url": "https://tgswc.telangana.gov.in/wp-content/uploads/2025/12/TelanganaRising-2047.pdf",
+      "verified_scope": "Direct PDF text inspected: introductory three-zone strategic model and ORR/RRR spatial boundary; document is a policy vision, not proof of completion."
+    },
+    {
+      "publisher": "Government of Telangana",
+      "title": "Chief Minister review of Telangana Rising 2047",
+      "url": "https://www.telangana.gov.in/news/press-releases/2025/11/honble-cm-sri-a-revanth-reddy-reviewed-preparations-for-the-telangana-rising-global-summit-2025-at-the-integrated-command-control-centre/",
+      "verified_scope": "Direct state portal text identifies CURE/PURE/RARE as development regions."
+    }
+  ],
+  "limitations": [
+    "No full line-by-line audit of entire vision document; only relevant passages directly checked.",
+    "Constitutional 74th Amendment text not independently opened this run; D rejected on clear category distinction and state policy description.",
+    "No independent named expert review; no official PYQ authentication.",
+    "No PDF render, Actions artifact download or accessibility QA after this evidence commit."
+  ],
+  "gate_changes": "NONE",
+  "r9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "baseline_repository_head": "2b7ee8b5e84278b2669c79ab3dba2462f4df6d89"
+}
