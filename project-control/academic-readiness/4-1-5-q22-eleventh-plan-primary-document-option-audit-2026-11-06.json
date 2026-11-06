@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "4-1-5",
+  "question_number": 22,
+  "kind": "author_side_original_practice_four_option_source_audit",
+  "pre_commit_main": "808e0b096a786aa379f679c165c917c413c998c2",
+  "question": "Which pair is correctly matched?",
+  "existing_key": "C",
+  "decision": "RETAIN_C",
+  "options": {
+    "A": {
+      "text": "Second Plan — Liberalised Exchange Rate Management System",
+      "assessment": "INCORRECT",
+      "reason": "Second Plan predates India's 1992 LERMS introduction; not a Second Plan programme.",
+      "verification_limit": "The LERMS introduction date was not independently verified against an RBI primary timeline in this audit; do not mark this distractor independently primary-source certified."
+    },
+    "B": {
+      "text": "Seventh Plan — Aspirational Blocks Programme",
+      "assessment": "INCORRECT",
+      "reason": "Aspirational Blocks Programme is a modern NITI Aayog initiative, not a Seventh Plan programme.",
+      "verification_limit": "A primary NITI launch document was not independently opened in this audit."
+    },
+    "C": {
+      "text": "Eleventh Plan — Faster and more inclusive growth",
+      "assessment": "CORRECT_PRIMARY_SOURCE_VERIFIED",
+      "reason": "Planning Commission's 2006 approach paper explicitly uses 'Towards Faster and More Inclusive Growth'; government-hosted Eleventh Plan Volume I (2007–12) is entitled 'Inclusive Growth'.",
+      "sources": [
+        "https://digitallibrary.niti.gov.in/items/299a1acc-31b4-4c72-bd52-3f4462da611d",
+        "https://digitallibrary.niti.gov.in/items/1c3ceaae-861c-4f63-8abb-56acc802b706",
+        "https://www.niti.gov.in/planning-commission-archive"
+      ]
+    },
+    "D": {
+      "text": "Twelfth Plan — Creation of the Planning Commission",
+      "assessment": "INCORRECT",
+      "reason": "The Twelfth Plan was 2012–17, while the Planning Commission was established decades earlier.",
+      "verification_limit": "The Planning Commission's founding government resolution was not directly opened in this audit."
+    }
+  },
+  "source_access": "NITI-hosted digital library catalogue records and government Planning Commission archive were inspected; the full 67 MB Eleventh Plan PDF was not independently page-by-page audited.",
+  "readiness_change": "NONE",
+  "independent_academic_approval": false,
+  "official_pyq_claim": false,
+  "remaining": "Q14 and Q23–Q25, Q4/Q6 chronology, six mains, original source crosschecks for Q22 distractors, browser and accessibility QA",
+  "artifact_post_commit_verified": false
+}
