@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "4-1-5",
+  "question": 18,
+  "classification": "ORIGINAL_PRACTICE_NOT_AUTHENTICATED_PYQ",
+  "question_text": "Which of the following is a limitation of a composite development index?",
+  "options": {
+    "A": "It can never contain data",
+    "B": "It is legally binding on states",
+    "C": "It may conceal district disparities and depend on indicator weights",
+    "D": "It always measures causal impact"
+  },
+  "existing_key": "C",
+  "decision": "KEEP_C",
+  "option_assessment": {
+    "A": "Incorrect: indices are calculated from indicators and datasets.",
+    "B": "Incorrect: a statistical index is not inherently legally binding; this is not a universal legal attribute.",
+    "C": "Correct: aggregation may obscure distribution; construction depends on indicator selection and weighting. UNDP's IHDI explicitly adjusts aggregate HDI for inequality.",
+    "D": "Incorrect: descriptive index values do not by themselves establish causal attribution."
+  },
+  "primary_sources": [
+    {
+      "publisher": "UNDP Human Development Reports",
+      "title": "Inequality-adjusted Human Development Index",
+      "url": "https://hdr.undp.org/inequality-adjusted-human-development-index",
+      "evidence": "HDI dimension averages do not reflect the full distribution; IHDI adjusts for inequality."
+    },
+    {
+      "publisher": "UNDP Human Development Reports",
+      "title": "Documentation and downloads",
+      "url": "https://hdr.undp.org/data-center/documentation-and-downloads",
+      "evidence": "Composite indices have published technical methodologies, inputs and calculation rules."
+    }
+  ],
+  "limitations": [
+    "UNDP documents demonstrate the general aggregation/inequality issue; they do not directly measure Telangana district disparities.",
+    "The question is generic, not an authenticated official TGPSC PYQ.",
+    "Author-side source correlation only; no independent academic expert review.",
+    "No canonical MCQ content changed; no new PDF or packaging QA is implied."
+  ],
+  "readiness_change": "NONE",
+  "independent_approvals": 0
+}
