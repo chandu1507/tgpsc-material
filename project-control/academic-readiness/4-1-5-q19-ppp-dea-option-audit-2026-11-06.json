@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "4-1-5",
+  "question": 19,
+  "classification": "ORIGINAL_PRACTICE_NOT_AUTHENTICATED_PYQ",
+  "canonical_source": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/original-mcqs.md",
+  "question_text": "In a public-private partnership, which statement is most defensible?",
+  "options": {
+    "A": "Ownership must always transfer to the private firm",
+    "B": "The state must surrender regulatory authority",
+    "C": "Every risk must be borne by taxpayers",
+    "D": "Contractual allocation of responsibilities and risks is central"
+  },
+  "existing_key": "D",
+  "decision": "KEEP_D",
+  "option_assessment": {
+    "A": "Incorrect: DEA descriptions encompass different PPP forms, including public ownership and time-limited concessions; universal private ownership transfer is not a requirement.",
+    "B": "Incorrect: DEA definition and model concession guidance describe contracts and performance standards, not a mandatory surrender of government regulatory authority.",
+    "C": "Incorrect: DEA explicitly defines risk allocation between public and private parties; taxpayer-only allocation contradicts that definition.",
+    "D": "Correct: DEA FAQ explicitly identifies contract-defined responsibilities and risk allocation as a characteristic of PPPs."
+  },
+  "primary_sources": [
+    {
+      "publisher": "Government of India, Department of Economic Affairs, PPP in India portal",
+      "title": "PPP FAQs, Q1 and Q2",
+      "url": "https://www.pppinindia.gov.in/faqs",
+      "verified_claim": "A PPP contract outlines responsibilities and allocates risk between public and private partners."
+    },
+    {
+      "publisher": "Government of India, Department of Economic Affairs, PPP in India portal",
+      "title": "Glossary: Public Private Partnership and BOT",
+      "url": "https://www.pppinindia.gov.in/glossary",
+      "verified_claim": "Fixed-term contractual arrangement with well-defined allocation of risk; BOT can transfer ownership back to the public sector."
+    },
+    {
+      "publisher": "Government of India, Department of Economic Affairs, PPP in India portal",
+      "title": "Model Concession Agreement",
+      "url": "https://www.pppinindia.gov.in/model_concession_agreement",
+      "verified_claim": "Model agreements define allocation of risks, contingent liabilities and performance standards."
+    }
+  ],
+  "limitations": [
+    "Author-side verification against public institutional guidance; no independent academic expert sign-off.",
+    "Does not assert any specific Telangana PPP contract's terms.",
+    "Not authenticated as an official TGPSC previous-year question.",
+    "No MCQ text change, PDF regeneration, new packaging QA, readiness promotion or R9 approval."
+  ],
+  "readiness_change": "NONE",
+  "independent_approvals": 0
+}
