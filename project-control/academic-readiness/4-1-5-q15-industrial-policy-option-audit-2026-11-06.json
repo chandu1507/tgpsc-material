@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "4-1-5",
+  "question_number": 15,
+  "question_type": "ORIGINAL_PRACTICE_NOT_OFFICIAL_PYQ",
+  "source_path": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/original-mcqs.md",
+  "source_blob_sha_before_audit": "30791b1a31223b34127dbe2922e234067e70b444",
+  "question": "The July 1991 industrial reforms are particularly associated with:",
+  "options": {
+    "A": "Reduction of industrial licensing and public-sector reservation",
+    "B": "Establishment of the First Plan",
+    "C": "Abolition of all financial regulation",
+    "D": "Creation of the Planning Commission"
+  },
+  "existing_key": "A",
+  "verdict": "KEY_SUPPORTED_NO_CORRECTION_REQUIRED",
+  "option_review": {
+    "A": "SUPPORTED: 24 July 1991 Statement on Industrial Policy para 23 and Decisions of Government A(i)-(ii) abolished industrial licensing for most industries while retaining specified exceptions and public-sector reservation in strategic areas; Public Sector D(i) envisaged selective opening.",
+    "B": "INCORRECT: First Five Year Plan dates to 1951-56, not July 1991; not a reform described in the 1991 policy statement.",
+    "C": "INCORRECT: Statement retains compulsory licensing exceptions, location/environment rules and other regulation; does not abolish all financial regulation.",
+    "D": "INCORRECT: Planning Commission was established in 1950, not created by the 1991 industrial policy."
+  },
+  "primary_evidence": [
+    {
+      "publisher": "Planning Commission digital library",
+      "title": "Statement on Industrial Policy 1991",
+      "url": "https://digitallibrary.niti.gov.in/items/cb7634e6-2477-4f1e-9016-ac76e746c46d/full",
+      "scope": "Official repository catalog entry, July 1991; PDF listed, direct PDF pages not independently inspected in this run."
+    },
+    {
+      "publisher": "Department for Promotion of Industry and Internal Trade",
+      "title": "Industrial Policy Highlights",
+      "url": "https://www.dpiit.gov.in/static/uploads/2025/07/53a882873fdbe34b35c594df096e43e6.pdf",
+      "scope": "Government-hosted PDF excerpt quoting 24 July 1991 Statement para 23, licensing abolished except 18 listed industries."
+    }
+  ],
+  "corroborating_transcription": {
+    "url": "https://the1991project.com/public-repository/1991-documents/july-24-1991-statement-industrial-policy-government-india-ministry",
+    "scope": "Non-government transcription of 1991 original statement, paras 23, 32-34, Decisions A and D; not equivalent to independent inspection of official original PDF."
+  },
+  "limits": [
+    "No independent named academic expert review.",
+    "Official full 1991 PDF not downloaded/page-by-page verified here.",
+    "This evidence record does not synchronize editable masters or PDFs and does not justify any R1-R8 gate promotion.",
+    "Question is an original practice item, not authenticated examination PYQ."
+  ],
+  "readiness_change": "NONE",
+  "academic_approvals": 0
+}
