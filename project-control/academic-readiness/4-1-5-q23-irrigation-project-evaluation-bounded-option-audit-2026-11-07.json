@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "question": 23,
+  "kind": "bounded_author_side_primary_source_option_audit",
+  "source_snapshot": "GitHub publication artifact 13543921065, commit 6a3bc1362becd2d9ff6ca21c17e7c9edc9525972; main inspected at 8ecfc64d57a016618afd36d454361c3265518350",
+  "stem": "A strong evaluation of an irrigation project should include:",
+  "options": {
+    "A": "Only kilometres of canal constructed",
+    "B": "Only sanctioned budget",
+    "C": "Only the number of public speeches",
+    "D": "Water reliability, farm incomes, ecological costs and distribution"
+  },
+  "retained_answer": "D",
+  "option_audit": {
+    "A": "Incorrect: infrastructure length alone omits water delivery, irrigation potential utilised, socio-economic and environmental impacts.",
+    "B": "Incorrect: sanctioned budget is an input, not evidence of benefits or project performance.",
+    "C": "Incorrect: speech counts are not a measure of irrigation performance or benefits.",
+    "D": "Correct: multidimensional evaluation includes water delivery and use efficiency, agro-economic and socio-economic effects, environmental impacts, and distribution among beneficiaries."
+  },
+  "primary_sources": [
+    {
+      "url": "https://www.jalshakti-dowr.gov.in/static/uploads/2024/05/2023022050.pdf",
+      "finding": "Central Water Commission post-project performance evaluation explicitly includes system performance, agro-economic, socio-economic and environmental impacts and economic analysis; water use efficiency studies cover delivery, application and irrigation potential created/utilised."
+    },
+    {
+      "url": "https://cgwb.gov.in/en/pmksy-hkkp-ground-water",
+      "finding": "PMKSY seeks expanded irrigation coverage and improved water use efficiency, with sustainability and groundwater extraction constraints."
+    },
+    {
+      "url": "https://cgwb.gov.in/en/participatory-ground-water-management",
+      "finding": "Community and stakeholder participation includes women, landless workers and marginalised groups, and evaluation and monitoring of sustainability."
+    }
+  ],
+  "limitations": [
+    "Primary sources support evaluation dimensions, not any quantified outcome of a specific irrigation project.",
+    "Farm-income measurement is a sensible agro-economic indicator but was not shown to be mandatory in every evaluation framework.",
+    "No independent reviewer or official PYQ authentication.",
+    "This is evidence-only; no master/PDF changes or R1-R8 gate promotion."
+  ],
+  "readiness_decision": "UNCHANGED",
+  "independent_approvals": 0
+}
