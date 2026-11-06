@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "4-1-5",
+  "question": 20,
+  "provenance": "original practice, not official PYQ",
+  "canonical_source": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/original-mcqs.md",
+  "question_text": "An announced investment at a summit should be treated as:",
+  "options": {
+    "A": "A policy or investor intention pending verification of actual deployment",
+    "B": "Proof that all proposed jobs exist",
+    "C": "Equivalent to realised FDI inflow",
+    "D": "A legally authorised budget expenditure"
+  },
+  "existing_key": "A",
+  "decision": "KEEP_A_BOUNDED_AUTHOR_SIDE_REVIEW",
+  "option_assessment": {
+    "A": "Best answer: announcement is not itself evidence of completed deployment; no particular summit's conversion rate was established.",
+    "B": "Incorrect: prospective employment does not establish filled jobs.",
+    "C": "Incorrect: DPIIT separately measures actual FDI inflows (equity, reinvested earnings, other capital), not summit pledges.",
+    "D": "Incorrect: a private investment announcement does not itself constitute a government budget appropriation."
+  },
+  "primary_sources": [
+    {
+      "publisher": "DPIIT, Government of India",
+      "title": "Quarterly FDI Fact Sheet to June 2025",
+      "url": "https://www.dpiit.gov.in/static/uploads/2025/11/4128971a6c7fd4a7653ca9e648a5f34b.pdf",
+      "verified_scope": "Published measurement of realised FDI inflows and components; does not directly audit summit announcements."
+    },
+    {
+      "publisher": "DPIIT",
+      "title": "Foreign Investment Facilitation Portal",
+      "url": "https://www.dpiit.gov.in/offerings/initiative/details/foreign-investment-facilitation-portal-YzM4EjNtQWa",
+      "verified_scope": "FDI proposal approvals are a separate administrative stage; does not establish deployment."
+    }
+  ],
+  "limitations": [
+    "No particular summit MoU or project implementation record directly inspected.",
+    "No original budget appropriation law or labour employment dataset inspected; B/D rejected on logical category mismatch.",
+    "No independent academic expert approval.",
+    "No PDF rendering or artifact verification performed after this evidence commit."
+  ],
+  "gate_changes": "NONE",
+  "r9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "baseline_repository_head": "1d531d751372884591a3a32946b3579e29d26a63"
+}
