@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "4-1-5",
+  "question": 17,
+  "scope": "Author-side original practice MCQ answer and four-option primary-source audit",
+  "source_file": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/original-mcqs.md",
+  "question_text": "The Foreign Exchange Management Act replaced which earlier law?",
+  "key": "B",
+  "options": {
+    "A": "Companies Act 1956 — incorrect: not the statute repealed by FEMA section 49.",
+    "B": "Foreign Exchange Regulation Act 1973 — correct: FEMA section 49(1) expressly repeals Act 46 of 1973.",
+    "C": "Competition Act 2002 — incorrect: distinct competition legislation, enacted after FEMA 1999.",
+    "D": "RBI Act 1934 — incorrect: RBI continues under its separate foundational legislation."
+  },
+  "commencement": "1 June 2000 (Department of Revenue)",
+  "sources": [
+    {
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf",
+      "claim": "FEMA 1999 section 49(1) repeals FERA 1973"
+    },
+    {
+      "url": "https://dor.gov.in/foreign-exchange-management-act-1999-42-1999",
+      "claim": "Official Department of Revenue confirms replacement and commencement 1 June 2000"
+    }
+  ],
+  "result": "Existing answer B retained; no change to question text or original PDF",
+  "limitations": [
+    "Not an authenticated official PYQ",
+    "Author-side documentary check, not named independent expert approval",
+    "Other questions and six mains remain pending",
+    "No R1–R8 promotion"
+  ],
+  "baseline_main": "66a9fc1b79f4b4b0caffb16e1216a1cf676357d1",
+  "academic_approvals": 0
+}
