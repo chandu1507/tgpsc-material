@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "scope": "Six original mains answers: claim-to-source desk crosswalk and unresolved evidence inventory",
+  "method": "Read six complete mains answers and source register S1–S22 from the actually downloaded artifact 13559368655; compared each answer's material assertions with the register. This is a source-coverage audit, NOT direct re-opening of all cited primary sources, not independent academic approval.",
+  "artifact_id": 13559368655,
+  "answer_reviews": [
+    {
+      "mains": 1,
+      "question": "Achievements and limitations of Five-Year Plans",
+      "supported_by_register": [
+        "S1",
+        "S2",
+        "S17"
+      ],
+      "coverage": "PARTIAL",
+      "unresolved": [
+        "Planning Commission established in 1950: original resolution not cited in this answer; use source referenced in Cycle126 register.",
+        "Claims that planning helped increase food production, services and infrastructure need dated official series; attribution must remain qualified.",
+        "Industrial licensing inefficiency, rent-seeking and displacement need distinct empirical sources, not inferred from Plan objectives."
+      ]
+    },
+    {
+      "mains": 2,
+      "question": "Twelfth Plan inclusive growth and Telangana",
+      "supported_by_register": [
+        "S1",
+        "S2",
+        "S9",
+        "S18"
+      ],
+      "coverage": "PARTIAL",
+      "unresolved": [
+        "The Twelfth Plan title and objectives are documentary claims; outcomes are not established by its title.",
+        "District and tribal service constraints require district-disaggregated official data.",
+        "Groundwater sustainability is a plausible policy risk, not evidence of a measured Telangana outcome."
+      ]
+    },
+    {
+      "mains": 3,
+      "question": "Planning Commission and NITI Aayog",
+      "supported_by_register": [
+        "S3",
+        "S4",
+        "S5",
+        "S7",
+        "S8",
+        "S19",
+        "S21"
+      ],
+      "coverage": "PARTIAL",
+      "unresolved": [
+        "Planning Commission original 15 March 1950 resolution should be tied to primary resolution rather than broad institutional description.",
+        "Verify exact legal wording and date for NITI formation and Governing Council independently from cited originals.",
+        "Distinguish programme descriptions from impact evidence; Telangana Rising 2047 is a proposal, not outcome."
+      ]
+    },
+    {
+      "mains": 4,
+      "question": "1991 liberalisation",
+      "supported_by_register": [
+        "S10"
+      ],
+      "coverage": "INSUFFICIENT",
+      "unresolved": [
+        "July 1991 Industrial Policy requires an explicit official policy document.",
+        "FERA-to-FEMA transition requires India Code statutory commencement and repeal verification.",
+        "1991, 1992 and March 1993 exchange-rate chronology is registered but RBI source URL should be directly checked.",
+        "Claims of employment, technology and competition gains need sectoral official evidence."
+      ]
+    },
+    {
+      "mains": 5,
+      "question": "Privatisation and disinvestment",
+      "supported_by_register": [
+        "S22"
+      ],
+      "coverage": "PARTIAL",
+      "unresolved": [
+        "Distinguish government share sale from actual transfer of management control using current DIPAM policy.",
+        "Claim that sale proceeds are one-time financing is analytically defensible, but fiscal treatment should cite budget documents.",
+        "Telangana utility service safeguards are normative recommendations, not verified implemented contracts."
+      ]
+    },
+    {
+      "mains": 6,
+      "question": "Globalisation and Telangana",
+      "supported_by_register": [
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S18"
+      ],
+      "coverage": "PARTIAL",
+      "unresolved": [
+        "Hyderabad IT/pharma contribution and jobs need dated state sector statistics.",
+        "FDI equity versus total FDI distinction must be preserved; do not infer realised employment from announcements.",
+        "CURE/PURE/RARE are vision categories, not proof of achieved regional diversification.",
+        "Wastewater and supply-chain recommendations are policy proposals, not evaluated results."
+      ]
+    }
+  ],
+  "conclusion": {
+    "mains_claim_level_fully_verified": 0,
+    "mains_with_partial_register_correspondence": 5,
+    "mains_with_insufficient_register_correspondence": 1,
+    "readiness_promotion": false,
+    "independent_approvals": 0,
+    "R9": "NOT_STARTED",
+    "next": "Fetch each primary text and verify claims individually; amend only claims demonstrably unsupported, then render synchronized PDF and verify a new downloaded artifact."
+  },
+  "integrity": "Original 75 topic PDFs and existing source files were not modified by this evidence-only record."
+}
