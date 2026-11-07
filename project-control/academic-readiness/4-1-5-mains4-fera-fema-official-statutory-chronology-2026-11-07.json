@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4 FERA/FEMA statutory chronology primary-government-source verification",
+  "sources": [
+    {
+      "issuer": "Government of India Department of Revenue",
+      "url": "https://dor.gov.in/foreign-exchange-management-act-1999-42-1999",
+      "directly_read": "Department states FEMA Act 42 of 1999 replaced FERA 1973 and commenced 1 June 2000.",
+      "assessment": "DIRECT_OFFICIAL_GOVERNMENT_PAGE"
+    },
+    {
+      "issuer": "India Code",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf",
+      "directly_read": "Official Act text located, including section 49 repeal and savings; text extraction of full statute not independently audited in this run.",
+      "assessment": "OFFICIAL_STATUTE_LOCATED_PARTIAL_REVIEW"
+    }
+  ],
+  "verified_claims": [
+    {
+      "claim": "FEMA is Act 42 of 1999",
+      "status": "PASS",
+      "source": "Department of Revenue"
+    },
+    {
+      "claim": "FEMA commenced on 1 June 2000, not in July 1991",
+      "status": "PASS",
+      "source": "Department of Revenue"
+    },
+    {
+      "claim": "FEMA replaced FERA 1973",
+      "status": "PASS",
+      "source": "Department of Revenue; India Code section 49"
+    }
+  ],
+  "qualification": "Do not present FEMA commencement as an immediate 1991 reform. Section 49 savings mean repeal does not erase all pre-existing proceedings. This record does not establish economic effects, full statutory interpretation, or 1991 Industrial Policy wording.",
+  "next": "Cross-check exact existing Mains 4 wording against verified chronology, then correct canonical editable master only if needed; regenerate synchronized PDF and independently inspect actual artifact.",
+  "gate_change": false,
+  "independent_approval": false,
+  "R9": "NOT_STARTED"
+}
