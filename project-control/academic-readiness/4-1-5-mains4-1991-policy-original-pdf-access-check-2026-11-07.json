@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4 original July 1991 Statement on Industrial Policy direct-file accessibility",
+  "repository_head_before": "829b4e02a82080974b9f0240790778f9a7a68257",
+  "source": {
+    "institution": "NITI Aayog Digital Library",
+    "item_url": "https://digitallibrary.niti.gov.in/items/cb7634e6-2477-4f1e-9016-ac76e746c46d",
+    "title": "Statement on Industrial Policy 1991",
+    "date": "1991-07",
+    "publisher": "Planning Commission",
+    "file": "Statement_Industrial_Policy_1991.pdf",
+    "file_size_displayed": "4.95 MB",
+    "file_link_destination": "https://digitallibrary.niti.gov.in/items/cb7634e6-2477-4f1e-9016-ac76e746c46d/request-a-copy?bitstream=d10857e6-c574-423f-abda-386ff5f4e5e1"
+  },
+  "direct_observation": "Clicking the PDF link opens 'Request a copy of the file' with name/email form and states 'All files (of this item) in restricted access'; original PDF bytes were not obtained.",
+  "verification_level": "OFFICIAL_CATALOGUE_METADATA_AND_RESTRICTED_ACCESS_CONFIRMED; ORIGINAL_PDF_NOT_EXAMINED",
+  "claim_audit": "No new sentence-level verification of Mains 4; do not claim original PDF inspected or treat an unverified transcription as identical to the restricted original.",
+  "next_actions": [
+    "Find a separately accessible authenticated official copy or obtain permission for archive file; record page-level evidence and document SHA.",
+    "Audit each Mains 4 sentence against verified primary evidence, especially licensing exceptions, 51-percent automatic approvals and FERA/FEMA statutory dates.",
+    "Correct editable master only after evidence; regenerate integrated PDF and verify actual packaging artifact."
+  ],
+  "readiness_change": "NONE",
+  "r1_r8_promotion": false,
+  "r9": "NOT_STARTED",
+  "independent_approvals": 0,
+  "topic_count_change": 0
+}
