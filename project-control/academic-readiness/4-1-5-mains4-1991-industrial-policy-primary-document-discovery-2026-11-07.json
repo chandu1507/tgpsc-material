@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4: source discovery and bounded verification, not full answer audit",
+  "primary_source_catalogue": {
+    "title": "Statement on Industrial Policy 1991",
+    "publisher": "Planning Commission / Government of India Ministry of Industry",
+    "issued": "1991-07",
+    "official_archive": "https://digitallibrary.niti.gov.in/items/cb7634e6-2477-4f1e-9016-ac76e746c46d",
+    "official_archive_full_metadata": "https://digitallibrary.niti.gov.in/items/cb7634e6-2477-4f1e-9016-ac76e746c46d/full",
+    "pdf_listed": "Statement_Industrial_Policy_1991.pdf",
+    "pdf_directly_downloaded_in_this_audit": false
+  },
+  "additional_document_transcription": "https://the1991project.com/public-repository/1991-documents/july-24-1991-statement-industrial-policy-government-india-ministry",
+  "bounded_findings": [
+    {
+      "claim": "July 1991 policy statement exists as a contemporaneous primary publication",
+      "result": "CORROBORATED by official archive catalogue"
+    },
+    {
+      "claim": "Industrial licensing generally abolished subject to exceptions",
+      "result": "SUPPORTED by publicly accessible transcription; official archive PDF not independently read"
+    },
+    {
+      "claim": "Foreign equity up to 51% approval in identified high-priority industries",
+      "result": "SUPPORTED by transcription; NOT a blanket 51% approval for all industries"
+    },
+    {
+      "claim": "All industry was deregulated without exceptions",
+      "result": "CONTRADICTED by stated strategic/safety/environmental exceptions"
+    },
+    {
+      "claim": "The policy itself proves subsequent economic or employment outcomes",
+      "result": "NOT ESTABLISHED; announcement is not impact evidence"
+    }
+  ],
+  "remaining": "Download and inspect the official archival PDF, map every Mains 4 sentence to its exact page, independently verify FERA/FEMA legal chronology and macroeconomic outcome data, then correct editable master and regenerate PDF. Do not promote R4/R6/R8 or claim independent approval.",
+  "readiness_change": "NONE",
+  "independent_approvals": 0
+}
