@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "scope": "Direct recount of Mains 4 in current editable source and bounded statutory wording audit; not independent full academic certification",
+  "source_path": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/mains-model-answers.md",
+  "source_blob_sha": "fd209425d99fb4b29273ca73cda985fb521b9a76",
+  "method": "Remove markdown bold delimiters, exclude ## Mains 4 heading, trim, split on whitespace; count only answer body.",
+  "direct_body_whitespace_words": 242,
+  "readiness_cycle39_reported_mains4_words": 230,
+  "discrepancy_words": 12,
+  "body_within_200_250": true,
+  "exact_current_text": "Banking regulation evolved, while foreign-exchange management later shifted from FERA to FEMA.",
+  "finding": "Current wording correctly says later; it does not claim FEMA was enacted in 1991. No unsupported manuscript change is warranted solely from this chronology check.",
+  "statutory_reference": {
+    "act": "Foreign Exchange Management Act, 1999 (Act 42 of 1999)",
+    "commencement": "2000-06-01",
+    "repeal": "FERA 1973 repealed subject to savings under section 49",
+    "official_sources": [
+      "https://dor.gov.in/foreign-exchange-management-act-1999-42-1999",
+      "https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf"
+    ],
+    "scope_limit": "References established in earlier official-source audit; this record does not claim a fresh download of restricted 1991 Industrial Policy PDF."
+  },
+  "remaining": "Claim-level audit of all Mains 4 sentences; primary 1991 Industrial Policy restricted; synchronize any future manuscript changes across editable masters and deterministic PDF; post-commit archive verification.",
+  "gate_promotion": false,
+  "independent_approvals": 0
+}
