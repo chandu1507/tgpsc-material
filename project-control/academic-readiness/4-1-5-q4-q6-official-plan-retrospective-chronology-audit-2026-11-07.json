@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "scope": "Original practice Q4 and Q6 chronology, source-bounded verification",
+  "pre_edit_main": "a2483db06dec1efe4dafd3da47a202277c5378ee",
+  "questions": [
+    {
+      "id": 4,
+      "key": "D",
+      "answer": "1966–69",
+      "source": "https://www.niti.gov.in/sites/default/files/2023-08/11th_vol3.pdf",
+      "evidence": "Eleventh Five-Year Plan Volume III Annexure 2.I explicitly labels Annual Plan 1966–69 between Third Plan 1961–66 and Fourth Plan 1969–74.",
+      "option_assessments": {
+        "A": "1956–59 lies in Second Plan 1956–61",
+        "B": "1974–77 lies in Fifth Plan 1974–78",
+        "C": "1985–88 lies in Seventh Plan 1985–90",
+        "D": "Supported by government plan retrospective table"
+      },
+      "limitation": "Original individual Annual Plan 1966–67, 1967–68, 1968–69 documents not directly inspected."
+    },
+    {
+      "id": 6,
+      "key": "C",
+      "answer": "Seventh 1985–90 → Annual Plans 1990–92 → Eighth 1992–97",
+      "sources": [
+        "https://www.niti.gov.in/sites/default/files/2023-08/11th_vol3.pdf",
+        "https://digitallibrary.niti.gov.in/items/5659380f-0904-48f8-afb2-26bce3ddf575",
+        "https://digitallibrary.niti.gov.in/items/653b4759-093e-4a65-b71c-e506b5a590dd"
+      ],
+      "evidence": "Government Eleventh Plan Volume III Annexure 2.I lists exact sequence; Planning Commission's published Eighth Plan 1992–97 confirms its final start; archival West Bengal proposals explicitly identify 1990–91 and 1991–92 Annual Plans.",
+      "option_assessments": {
+        "A": "Places Annual Plans after Eighth, contrary to official sequence",
+        "B": "Reverses Seventh and Eighth",
+        "C": "Supported by Planning Commission records",
+        "D": "Reverses Tenth and Eleventh"
+      },
+      "limitation": "The 1990 archival draft 'Eighth Plan 1990–95' is a proposal, not evidence that the implemented Eighth Plan began in 1990. Individual national Annual Plan originals not directly read."
+    }
+  ],
+  "source_quality": "Government-authored retrospective tables and Planning Commission archival metadata directly inspected via publicly indexed official records; individual original annual-plan PDFs not read",
+  "decision": "Retain both keys; upgrade chronology corroboration only, NOT original annual-plan primary-original certification; no R1–R8 promotion, R9 NOT_STARTED, independent approvals 0",
+  "publication": "Evidence-only commit; no synchronized PDF generated or downloaded artifact verified after commit"
+}
