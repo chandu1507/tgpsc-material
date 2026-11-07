@@ -27,7 +27,7 @@
     "R8": "IN_PROGRESS"
   },
   "evidence": "Cycle39 official TGPSC original PDF fresh retrieval 403, so R1 IN_PROGRESS. Fifteen concepts 362–634 words; Q21/Q25 revised; six mains body-only 235/239/233/230/233/227. Guarded CI produced 31-page integrated PDF SHA256 718b0fd2ec3ef12e136c03ef801fcb2094dc83fc1465b7d5c3ee0e69a3e96846; actual downloaded GitHub packaging run 40516112070 artifact 12739623188 independently verified: outer/inner CRC, SHA matching GitHub, 1614 files, 75 unchanged original PDFs, 75 readiness JSON, 78 HTML, 485 relative href/src links and 966 DOM fragments zero broken, 64 SPA route occurrences excluded, 17/17 manifest hashes. R8 IN_PROGRESS, no accessibility certification, zero approvals. Cycle126: Q1-Q10 option-level author-side reviews (40 options; Q4/Q6 chronology provisional); 35-page CI PDF SHA256 4287e86a...; actual artifact 13029007702 downloaded, CRC/SHA/75 originals/links PASS. No independent academic approval. Cycle196: Q11–Q13 3 keys/9 distractors author-side checked against NITI, Finance Commission and DIPAM primary sources; CI 41548604660 SUCCESS 37 pages, 25/25 same-page assertions; actual post-edit publication archive verification pending. Independent approvals0. Actual GitHub artifact 13190770002 downloaded SHA/CRC/75 unchanged originals/75 readiness/592 file links/1586 fragments/17 manifest hashes/25 same-page MCQs PASS; QA evidence commit postdates inspected artifact.",
-  "next_action": "Cycle196 artifact 13190770002 was already downloaded and checked (outer/inner CRC, SHA, 75 originals, 75 readiness JSON, 17/17 manifest, zero broken links); do NOT repeat this as pending. The QA evidence commit postdates that artifact: package fresh main, download the new artifact and independently verify CRC/SHA/75-topic inventory/links/manifest. Directly inspect original Annual Plans for provisional Q4/Q6; source-check remaining Q14-Q25 (12 keys, 36 distractors), audit six mains claims, diagrams and browser/screen-reader accessibility. No R1-R8 promotion or R9 approval.",
+  "next_action": "Post-Cycle196 evidence reconciliation (2026-11-07): Q4/Q6 chronology supported by official government retrospective table, but original Annual Plans not directly inspected; Q14/Q23 and other question-level audits exist, so Cycle196 remaining_unreviewed_questions is historical only, not current live backlog. Six mains underwent source-register crosswalk: five PARTIAL and Mains4 INSUFFICIENT, zero fully claim-verified. July 1991 Industrial Policy official catalogue located, original PDF restricted/request-copy; do not claim direct original consultation. Obtain accessible authenticated primary texts, finish all 25 key/distractor checks and six mains claim-level verification, update editable master only where justified, render synchronized PDF, download latest post-commit artifact and check SHA/CRC/75 originals/readiness/links/browser accessibility. No R1-R8 promotion or R9 approval.",
   "external_reviewer": null,
   "student_accepted": false,
   "original_pdf_sha256": "01f2cfa032761978ef783941b01b7085511ffda76dd4d77a616ee5f94d189ad4",
@@ -162,5 +162,24 @@
     "actual_artifact_links_broken": 0,
     "actual_artifact_manifest_checks": "17/17 PASS",
     "post_evidence_packaging": "PENDING"
+  },
+  "post_cycle196_evidence_reconciliation_2026_11_07": {
+    "scope": "Metadata reconciliation only; no manuscript, PDF or gate promotion",
+    "historical_cycle196_backlog_is_not_current": true,
+    "chronology_q4_q6": "Government retrospective corroboration; original Annual Plan documents not directly inspected",
+    "six_mains_register_crosswalk": {
+      "partial": 5,
+      "insufficient": 1,
+      "fully_claim_verified": 0
+    },
+    "industrial_policy_1991": "Official catalogue identified; original PDF restricted, not examined",
+    "latest_publication_pointer_artifact": 13571542030,
+    "latest_artifact_independent_download_qa": false,
+    "independent_academic_approvals": 0,
+    "R9": "NOT_STARTED",
+    "evidence_paths": [
+      "project-control/academic-readiness/4-1-5-six-mains-claim-source-coverage-gap-audit-2026-11-07.json",
+      "project-control/academic-readiness/4-1-5-mains4-1991-policy-original-pdf-access-check-2026-11-07.json"
+    ]
   }
 }
