@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "4-1-5",
+  "question": 14,
+  "kind": "bounded_author_side_primary_source_option_audit",
+  "source_snapshot": "Previously independently downloaded GitHub publication artifact 13549104965; original-mcqs.md inspected directly inside nested ZIP",
+  "stem": "Which is the best example of inclusive-growth evaluation?",
+  "options": {
+    "A": "Number of roads announced only",
+    "B": "Aggregate GDP growth alone",
+    "C": "District-disaggregated learning, health and quality-job outcomes",
+    "D": "Gross project outlay alone"
+  },
+  "retained_answer": "C",
+  "option_audit": {
+    "A": "Incorrect: announced infrastructure alone is not evidence of realized human-development outcomes or inclusion.",
+    "B": "Incorrect: aggregate growth alone cannot establish how benefits or capabilities are distributed; UNDP explicitly distinguishes human development from economic growth alone.",
+    "C": "Best answer: geographically disaggregated education, health and employment-quality outcomes better test inclusion; NITI monitors SDGs at sub-national level. Caveat: neither cited source prescribes this exact three-item composite or a particular job-quality metric.",
+    "D": "Incorrect: project outlay is a financing input, not measured outcomes or distribution."
+  },
+  "sources": [
+    {
+      "url": "https://hdr.undp.org/data-center/human-development-index",
+      "finding": "UNDP identifies health, knowledge and standard of living, explicitly warning against using growth alone; HDI by itself does not capture inequality."
+    },
+    {
+      "url": "https://www.niti.gov.in/divisions/division/sustainable-development-goal",
+      "finding": "NITI monitors SDGs at national and sub-national levels and emphasizes localization and leaving no one behind."
+    },
+    {
+      "url": "https://hdr.undp.org/data-center/composite-indices",
+      "finding": "IHDI and other measures address inequalities and deprivations omitted by headline HDI."
+    }
+  ],
+  "limitations": [
+    "The phrase quality-job outcomes is a reasonable evaluation component but not separately established as a mandatory measure by these sources.",
+    "No district-level dataset was calculated or verified.",
+    "This is an original practice question, not an authenticated official PYQ.",
+    "Author-side bounded evidence only; no independent reviewer, PDF change or R1-R8 promotion."
+  ],
+  "readiness_decision": "UNCHANGED",
+  "independent_approvals": 0
+}
