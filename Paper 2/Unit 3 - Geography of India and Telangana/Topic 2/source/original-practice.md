@@ -36,23 +36,23 @@ D. Migration is prohibited
 
 **Answer: B.** Age structure creates only potential; human capital and productive employment convert it into gains.
 
-## Q5. Command Area Development primarily seeks to:
+## Q5. Which intervention most directly addresses the gap between irrigation potential created and potential used?
 
-A. Create maritime EEZ
-B. Improve farm-level use of irrigation potential
-C. Build only airports
-D. Expand mineral reserves
+A. Increasing reservoir capacity without completing farm-level delivery channels
+B. Completing field channels, drainage, land levelling and participatory water management
+C. Increasing the designed main-canal discharge without correcting tail-end distribution
+D. Expanding crop procurement while leaving field channels and drainage incomplete
 
-**Answer: B.** Field channels, drainage, land development and water management convert stored/released water into productive irrigation.
+**Answer: B.** Completing on-farm delivery and water management addresses utilisation of irrigation potential already created; expanding upstream capacity alone does not resolve field-level bottlenecks.
 
-## Q6. Which mode is especially suited to high-volume long-distance bulk freight?
+## Q6. A producer must move a large, regular volume of bulk freight over a long inland distance. Which option most plausibly offers strong scale economies when a suitable network exists?
 
-A. Railways
-B. Only motorcycles
-C. Local footpaths
-D. None
+A. Rail freight
+B. Individual small road consignments without consolidation
+C. Repeated short-distance air freight
+D. Separate local motorcycle deliveries
 
-**Answer: A.** Rail has strong economies for bulk and long-distance movement.
+**Answer: A.** Rail freight can provide scale economies for regular high-volume inland bulk movements on a suitable network. The other options lack comparable consolidation or are mismatched to the stated freight requirement. Distractor quality still requires independent academic review.
 
 ## Q7. Industrial corridors are best understood as:
 
