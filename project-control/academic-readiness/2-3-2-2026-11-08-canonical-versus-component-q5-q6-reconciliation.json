@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-08",
+  "topic_id": "2-3-2",
+  "main_sha_at_inspection": "12c831b6c0485e04e396e3c58dea41512120d07d",
+  "scope": "Direct line-by-line comparison of published integrated editable master Q5-Q6 with prior audit of standalone original-practice.md",
+  "canonical_master": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/integrated-student-edition-2026-10-26.md",
+  "canonical_master_git_blob": "fe290014c7a23f1f36736d419158ad966717ad52",
+  "findings": [
+    {
+      "question": 5,
+      "canonical_stem": "Which intervention most directly addresses the gap between irrigation potential created and potential used?",
+      "canonical_options": [
+        "Increasing reservoir capacity without completing farm-level delivery channels",
+        "Completing field channels, drainage, land levelling and participatory water management",
+        "Increasing the designed main-canal discharge without correcting tail-end distribution",
+        "Expanding crop procurement while leaving field channels and drainage incomplete"
+      ],
+      "key": "B",
+      "conclusion": "The earlier audit's maritime-zone/airport/mineral-reserve distractor defect applies to the standalone original-practice component, NOT the current canonical integrated master. The canonical master already has irrigation-related distractors and a programme source anchor S10. Do not overwrite it with the earlier proposed replacements."
+    },
+    {
+      "question": 6,
+      "canonical_stem": "A producer must move a large, regular volume of bulk freight over a long inland distance. Which option most plausibly offers strong scale economies when a suitable network exists?",
+      "canonical_options": [
+        "Rail freight",
+        "Individual small road consignments without consolidation",
+        "Repeated short-distance air freight",
+        "Separate local motorcycle deliveries"
+      ],
+      "key": "A",
+      "conclusion": "The integrated master already narrows the question to long inland bulk freight, correcting part of the earlier ambiguity. Yet distractors C and D remain too implausible for good discrimination; no independent option-level validation completed."
+    }
+  ],
+  "reconciliation": "The November 8 standalone original-practice audit must not be treated as proof that canonical integrated Q5 retains its obsolete options. Divergence across source representations is a real synchronization defect. Canonical Q5 needs preservation; canonical Q6 needs improved plausible mutually exclusive alternatives only after source validation.",
+  "gate_changes": "NONE",
+  "pdf_rendered": false,
+  "artifact_downloaded_this_run": false,
+  "academic_approvals": 0,
+  "next_action": "Identify renderer's authoritative question source; synchronize component and integrated master without regressing Q5, design source-validated Q6 distractors, run deterministic PDF, download new Actions artifact and verify original 75 PDFs, readiness files, CRC, SHA, links and visual accessibility."
+}
