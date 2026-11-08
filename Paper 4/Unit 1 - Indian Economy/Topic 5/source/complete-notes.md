@@ -706,7 +706,7 @@ D. The vision automatically substitutes for audited expenditure accounts and ind
 
 ## Mains 1. Critically assess the achievements and limitations of India's Five-Year Plans.
 
-**Introduction and background.** India adopted planning after Independence to overcome food insecurity, low domestic savings, industrial backwardness and unequal access to basic services. The Planning Commission, established in 1950, coordinated Five-Year Plans from 1951 to 2017.
+**Introduction and background.** India adopted planning after Independence to overcome food insecurity, low domestic savings, industrial backwardness and unequal access to basic services. The Planning Commission, established in 1950, guided Five-Year Plans beginning in 1951 until its replacement in 2015; the Twelfth Plan period continued through 2017.
 
 **Objectives and strategy.** Early plans prioritised irrigation and agriculture, followed by heavy industry under the Mahalanobis approach. Later plans added poverty reduction, employment, human development and regional equity. The Eleventh and Twelfth Plans placed inclusion and sustainability more explicitly within development strategy.
 
