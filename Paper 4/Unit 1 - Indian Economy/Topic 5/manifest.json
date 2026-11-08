@@ -7,7 +7,7 @@
   "syllabus_provenance": "Official TGPSC PDF fresh retrieval 403: R1 IN_PROGRESS, not PASS",
   "production_status": "cycle39_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "academic_status": "not_approved",
-  "word_count_complete_markdown": 14724,
+  "word_count_complete_markdown": 14735,
   "word_count_detailed_notes": 6958,
   "pdf_pages": 37,
   "original_explained_mcqs": 25,
@@ -41,28 +41,28 @@
       "bytes": 381561
     },
     "index.html": {
-      "sha256": "a0abc2cbcc6e93634f80c3e70c2a724400be4008d60030dbb1bac6d9d4be1ffd",
-      "bytes": 152788
+      "sha256": "6a39a8d93e9e269cf3dfe79a710a1efb8eb61d146291ebf6c35d2157bf669e3b",
+      "bytes": 152861
     },
     "source/answer-blueprints.md": {
       "sha256": "4c3d07d8c54095d8e544f6c91687f14f26a05e397d911a917353228a45514087",
       "bytes": 1274
     },
     "source/complete-notes.md": {
-      "sha256": "dc987c7f140306cae7db82e83c12034cbea80d5b5c37e0f74f2cefe6db6669cc",
-      "bytes": 116627
+      "sha256": "7997bec0422aa4b760df5d178e8ae0555c1cf4dab240651fa4de45d1e1e8a488",
+      "bytes": 116700
     },
     "source/detailed-notes.md": {
       "sha256": "1e0136ac975115bf4c777948331f471c4cc9a35318e76c91c0a3656a4aa422f4",
       "bytes": 57840
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "6af78450b05ee3921cef3e0a5420a37aac9a00220a3a7fffc8a8c7cfed419c6e",
-      "bytes": 435675
+      "sha256": "07a4a024fd699c1bd3847ff1858baa29a68cfb7dd13268816f3637643d34c139",
+      "bytes": 435730
     },
     "source/mains-model-answers.md": {
-      "sha256": "b07d806c68d8b0c98d0fa678a06d18ae6873230d17c50d7c494c5790a039bd46",
-      "bytes": 12627
+      "sha256": "a3affd059a00321391e1870aea10badec1e2bc797566fd5eda277d6922ec3fe2",
+      "bytes": 12700
     },
     "source/original-mcqs.md": {
       "sha256": "d30992f69f6279684379d5d60e11e8f80200933185298f3f7282ffcd54e3f05b",
