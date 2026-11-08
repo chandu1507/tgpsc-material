@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-09",
+  "topic_id": "2-3-2",
+  "scope": "Narrow institutional-source corroboration of canonical original-practice Q6 rail bulk-freight answer; not a 25-MCQ audit",
+  "precommit_main": "2f62aae3d7a282854304a3d2ee8ab3a48ce59ff9",
+  "source": {
+    "institution": "NITI Aayog",
+    "title": "Improving Rail Efficiency and Share in India's Freight Transport",
+    "url": "https://www.niti.gov.in/sites/default/files/2025-03/Efficiency%20and%20competitiveness%20of%20Indian%20Railways.pdf",
+    "section": "5.1 The Product Matrix",
+    "observed": "Rail is used for bulk movement of raw materials, with coal, iron ore, cement and other industrial commodities prominent in railway freight; historical 2018–19 data, not current-year modal dominance."
+  },
+  "finding": "Supports intended railway answer for regular high-volume inland bulk movement, but does not demonstrate that all alternate modes are impossible or that weak distractors are academically discriminating.",
+  "outcome": "PARTIAL_CORROBORATION_ONLY",
+  "limitations": [
+    "No new option-level validation of all three Q6 distractors",
+    "No claim that rail is always optimal for all freight routes or commodities",
+    "No question or PDF text edited",
+    "No R5 gate promotion",
+    "No fresh downloaded postcommit artifact verified"
+  ],
+  "next_action": "Replace implausible distractors only after checking each against freight-mode conditions; preserve single correct answer, synchronize canonical integrated master and standalone question bank, rerender and verify actual publication artifact.",
+  "academic_approval": false
+}
