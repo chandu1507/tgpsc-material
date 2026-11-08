@@ -64,7 +64,7 @@ jobs:
           for body in re.split(r'(?m)^## Mains \d+\..*$',mains)[1:]:
               body=re.sub(r'(?m)^\*\*[^*]+\*\*\s*','',body)
               counts.append(len(re.findall(r"\b[\w]+(?:[-'][\w]+)*\b",body)))
-          assert counts==[235,239,233,230,233,227],counts
+          assert counts==[246,239,233,230,233,227],counts
           pdf=src/'integrated-student-edition-2026-10-27.pdf'
           subprocess.run([sys.executable,'scripts/render_topic_4_1_5_integrated.py','--input',str(src/'complete-notes.md'),'--output',str(pdf)],check=True)
           doc=fitz.open(pdf)
