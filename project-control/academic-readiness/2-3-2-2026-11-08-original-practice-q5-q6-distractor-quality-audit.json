@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-08",
+  "topic_id": "2-3-2",
+  "scope": "Original-practice.md Q5 and Q6 only; not a full 25-MCQ audit",
+  "main_sha_at_read": "1028a65944e01f83e088c23e5464f830a6f901d0",
+  "source_path": "Paper 2/Unit 3 - Geography of India and Telangana/Topic 2/source/original-practice.md",
+  "source_blob_sha": "3e73abd8f7302c2f584a2db6c7cd24970cdaeecc",
+  "findings": [
+    {
+      "question": "Q5",
+      "key": "B",
+      "defect": "A maritime EEZ, airports and mineral reserves are obviously unrelated to irrigation command areas; answer can be guessed without content knowledge.",
+      "proposed_distractors": [
+        "Increase the gross storage capacity of existing reservoirs without improving field distribution",
+        "Replace canal irrigation with exclusively rainfed cultivation",
+        "Expand irrigation potential on paper without field channels or on-farm water management"
+      ],
+      "verification": "Proposals are editorial candidates only; official command-area programme definitions and unambiguous option-level checks required before insertion."
+    },
+    {
+      "question": "Q6",
+      "key": "A",
+      "defect": "Only motorcycles, local footpaths and None are implausible alternatives to railways for high-volume long-distance bulk freight.",
+      "proposed_distractors": [
+        "Road haulage using heavy trucks on long-haul corridors",
+        "Coastal shipping for suitable port-connected bulk routes",
+        "Inland waterways on navigable river systems"
+      ],
+      "verification": "Question stem must be narrowed to inland, land-based bulk freight or rewritten as a context-dependent choice: coastal shipping and waterways can also efficiently carry bulk freight, so proposed alternatives cannot simply be treated as categorically wrong."
+    }
+  ],
+  "academic_gate_changes": "NONE",
+  "independent_primary_source_checks_completed": 0,
+  "approval_count": 0,
+  "manuscript_changed": false,
+  "pdf_rendered": false,
+  "publication_artifact_verified": false,
+  "next_step": "Rewrite Q5/Q6 with primary-source validation and unique correct keys, synchronize component plus generated complete-notes and PDF, verify actual downloaded artifact; audit remaining 23 integrated MCQs."
+}
