@@ -794,7 +794,7 @@ The ten additional questions were written as **original educational practice**, 
 
 **Freshly accessed source texts/metadata:** NCERT *Indian Society*, Chapter 3 (SATHEE indexed chapter: https://sathee.iitk.ac.in/ncert-books/class-12/sociology/indian-society/chapter-03-social-institutions-continuity-and-change/ ); NCERT Chapter 6 (SATHEE chapter text: https://sathee.iitk.ac.in/sathee-cuet/student-corner/ncert-books/class-12/sociology/indian-society/chapter-06-the-challenges-of-cultural-diversity/ ); ORGI C-16 metadata (https://censusindia.gov.in/nada/index.php/catalog/10191 ); CGG SEEEPC description (https://www.cgg.gov.in/it_project/socio-economic-education-employment-political-and-caste-seeepc-survey/ ). NCERT publisher-hosted PDF direct requests timed out; Chapter 3 SATHEE direct page open returned 403 but indexed text was accessible. No claim of original sociological monograph consultation. **Caution:** Chapter 6 contains historical population and state-count figures; its sociological concepts are used here, not its obsolete present-tense numbers.
 
-**Remaining gates:** all 25 MCQ keys and 100 distractors still require a separately logged complete audit; six mains claim sets require claim-level review; original diagrams and browser accessibility remain uncertified. No official PYQ provenance and no independent academic approval.
+**Remaining gates:** all 25 MCQ keys and 75 incorrect distractors (100 total answer options) still require a separately logged complete audit; six mains claim sets require claim-level review; original diagrams and browser accessibility remain uncertified. No official PYQ provenance and no independent academic approval.
 
 ## Cycle157 evidence-bounded SEEEPC comparability revision — 1 November 2026
 
