@@ -45,14 +45,14 @@ D. Expanding crop procurement while leaving field channels and drainage incomple
 
 **Answer: B.** Completing on-farm delivery and water management addresses utilisation of irrigation potential already created; expanding upstream capacity alone does not resolve field-level bottlenecks.
 
-## Q6. A producer must move a large, regular volume of bulk freight over a long inland distance. Which option most plausibly offers strong scale economies when a suitable network exists?
+## Q6. An inland iron-ore mine must send recurring trainload-scale volumes to a steel plant 900 km away. Both sites have functioning rail sidings; no new dedicated transport infrastructure is planned. Which arrangement best fits the stated conditions?
 
-A. Rail freight
-B. Individual small road consignments without consolidation
-C. Repeated short-distance air freight
-D. Separate local motorcycle deliveries
+A. Scheduled bulk rail rakes using the existing sidings
+B. Multiple full-truckload road movements over the entire route
+C. Coastal vessel movements requiring lengthy road transfers to and from ports
+D. A new dedicated ore-slurry pipeline and dewatering facilities
 
-**Answer: A.** Rail freight can provide scale economies for regular high-volume inland bulk movements on a suitable network. The other options lack comparable consolidation or are mismatched to the stated freight requirement. Distractor quality still requires independent academic review.
+**Answer: A.** Existing sidings and recurring trainload-scale solid ore flows favour scheduled bulk rail rakes without constructing a new transport system. Full-truckload road transport remains a feasible alternative but generally entails many vehicle movements for this volume and distance; coastal shipping requires a port detour and transfers; a slurry pipeline requires new specialised infrastructure and processing. This is a contextual best-fit judgment, not a claim that rail is cheapest on every route. **Evidence scope:** NITI Aayog's railway-freight efficiency analysis corroborates bulk mineral traffic by rail; comparative costs for this hypothetical route and independent distractor discrimination have not been measured.
 
 ## Q7. Industrial corridors are best understood as:
 
