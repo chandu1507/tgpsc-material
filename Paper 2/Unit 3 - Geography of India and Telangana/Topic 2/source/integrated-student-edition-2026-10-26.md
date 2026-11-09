@@ -631,14 +631,14 @@ D. Expanding crop procurement while leaving field channels and drainage incomple
 
 **Answer: B.** CADWM explicitly includes last-mile on-farm works and water-user participation; the other actions do not by themselves deliver water to fields. **Source anchors:** [S10]. Correct key checked against the official CADWM programme description; distractors still require discrimination testing.
 
-### Q6. A producer must move a large, regular volume of bulk freight over a long inland distance. Which option most plausibly offers strong scale economies when a suitable network exists?
+### Q6. An inland iron-ore mine must send recurring trainload-scale volumes to a steel plant 900 km away. Both sites have functioning rail sidings; no new dedicated transport infrastructure is planned. Which arrangement best fits the stated conditions?
 
-A. Rail freight  
-B. Individual small road consignments without consolidation  
-C. Repeated short-distance air freight  
-D. Separate local motorcycle deliveries  
+A. Scheduled bulk rail rakes using the existing sidings  
+B. Multiple full-truckload road movements over the entire route  
+C. Coastal vessel movements requiring lengthy road transfers to and from ports  
+D. A new dedicated ore-slurry pipeline and dewatering facilities  
 
-**Answer: A.** Rail can consolidate high-volume flows over long distances; suitability still depends on terminals, network access and last-mile connections. **Source anchors:** [S2,S5]. Key source-correlated; item discrimination pending.
+**Answer: A.** Existing rail sidings and recurring trainload-scale solid ore flows favour scheduled bulk rakes without constructing new dedicated transport infrastructure. Full-truckload road movements are possible but require many vehicle trips; coastal shipping introduces a port detour and transfers; an ore-slurry pipeline requires specialised new infrastructure and processing. This is a context-specific best-fit choice, not a universal claim that rail has the lowest cost. **Source anchors:** [S2,S5]; NITI Aayog, *Efficiency and Competitiveness of Indian Railways* (2025), section 5.1, supports rail's bulk mineral-freight role, not a route-specific cost ranking. Independent item-discrimination testing remains pending.
 
 ### Q7. Which feature most clearly distinguishes a planned industrial corridor from an isolated highway widening project?
 
