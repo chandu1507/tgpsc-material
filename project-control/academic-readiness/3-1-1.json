@@ -105,8 +105,10 @@
     "turn24_constitution_items_directly_checked": 7,
     "turn24_census_metadata_checked": 1,
     "turn24_ncert_items_index_correlated_only": 2,
-    "all_25_keys_and_100_distractors_independently_checked": false,
-    "remaining_to_25": 0
+    "remaining_to_25": 0,
+    "all_25_keys_and_75_distractors_independently_checked": false,
+    "option_count_definition": "25 four-option MCQs = 100 total answer options: 25 keyed correct options + 75 incorrect distractors; independent verification remains incomplete.",
+    "metadata_correction_2026_11_10": "Replaced incorrect historical 100-distractor denominator; no MCQ, answer key, source, gate, or approval changed."
   },
   "substantive_depth_progress": {
     "date": "2026-10-27",
