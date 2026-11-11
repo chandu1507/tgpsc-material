@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "audit": "Existing original practice MCQ17 FEMA versus FERA four-option direct government source check",
+  "repository_head_inspected": "7aa478feac15a775fe6b57fd86710a97610f47a3",
+  "manuscript": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/complete-notes.md",
+  "question": "The Foreign Exchange Management Act replaced which earlier law?",
+  "options": {
+    "A": "Companies Act 1956 — incorrect; not the foreign exchange statute repealed by FEMA section 49",
+    "B": "Foreign Exchange Regulation Act 1973 — correct; section 49(1) explicitly repeals FERA 1973",
+    "C": "Competition Act 2002 — incorrect; a later competition statute, not the repealed foreign exchange statute",
+    "D": "RBI Act 1934 — incorrect; not the statute repealed by section 49"
+  },
+  "key": "B",
+  "source_register": [
+    {
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf",
+      "institution": "India Code, Government of India",
+      "pinpoint": "Foreign Exchange Management Act 1999 section 49(1), repeal and savings"
+    },
+    {
+      "url": "https://dor.gov.in/foreign-exchange-management-act-1999-42-1999",
+      "institution": "Department of Revenue, Ministry of Finance",
+      "pinpoint": "FEMA replaced FERA 1973 and commenced 1 June 2000"
+    }
+  ],
+  "finding": "Existing answer B supported; no manuscript change justified. Repeal includes savings and transitional provisions; do not imply prior liabilities universally extinguished.",
+  "scope": "Bounded author-side one-question four-option audit; no other MCQ, mains or R1-R8 certified",
+  "readiness_change": "NONE",
+  "independent_approvals": 0,
+  "publication": "NOT_RENDERED_OR_DOWNLOADED_THIS_RUN",
+  "control_baseline": "3 November control files: 75 topics, 7 IN_PROGRESS, 68 ASSESSED_REBUILD_REQUIRED, 20 R1 PASS, 0 fully ready, 0 independent approvals"
+}
