@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "scope": "Original practice MCQ18 four-option bounded source crosswalk",
+  "repository_head_at_read": "f2f7d4afb4e40c42196e06cf7e5ceafa85bc22c4",
+  "manuscript": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/complete-notes.md",
+  "question": "Which of the following is a limitation of a composite development index?",
+  "options": {
+    "A": "It can never contain data",
+    "B": "It is legally binding on states",
+    "C": "It may conceal district disparities and depend on indicator weights",
+    "D": "It always measures causal impact"
+  },
+  "existing_key": "C",
+  "assessment": {
+    "A": "False universal assertion: composite indices are constructed from data; no primary-source basis for never.",
+    "B": "False: a statistical index is not inherently legally binding; distinguish index from any separately enacted policy.",
+    "C": "Supported by OECD/JRC 2008 handbook's weighting, aggregation, compensability and disaggregation cautions. District disparity is a logically bounded application, not a district-specific empirical claim.",
+    "D": "False universal assertion: composite rankings do not by themselves identify causal effects."
+  },
+  "source": {
+    "title": "OECD/European Commission JRC Handbook on Constructing Composite Indicators (2008)",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf",
+    "doi": "10.1787/9789264043466-en",
+    "scope": "methodological guidance, not direct Telangana district measurements"
+  },
+  "conclusion": "Existing C retained; no manuscript edit justified; author-side bounded crosswalk only.",
+  "limits": [
+    "Not an independent reviewer audit",
+    "No new integrated PDF or actual artifact download",
+    "R1-R8 not promoted",
+    "Original PDFs untouched",
+    "No official PYQ claim",
+    "Full mains and accessibility remain pending"
+  ],
+  "independent_approvals": 0
+}
