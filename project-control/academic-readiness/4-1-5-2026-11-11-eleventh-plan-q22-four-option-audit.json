@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "scope": "Existing original practice Q22, four-option author-side source crosswalk; no manuscript modification",
+  "manuscript_path": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/complete-notes.md",
+  "question": "Which pair is correctly matched?",
+  "options": {
+    "A": {
+      "text": "Second Plan — Liberalised Exchange Rate Management System",
+      "verdict": "INCORRECT",
+      "reason": "Second Plan was 1956–61; LERMS was introduced in 1992, not the Second Plan period.",
+      "source_status": "chronology based on manuscript and historical RBI crosswalk; RBI primary circular not re-examined in this audit"
+    },
+    "B": {
+      "text": "Seventh Plan — Aspirational Blocks Programme",
+      "verdict": "INCORRECT",
+      "reason": "Seventh Plan 1985–90 predates the Aspirational Blocks Programme.",
+      "source_status": "historical chronological distinction; original ABP launch notification not re-examined"
+    },
+    "C": {
+      "text": "Eleventh Plan — Faster and more inclusive growth",
+      "verdict": "SUPPORTED",
+      "reason": "Planning Commission Eleventh Plan 2007–12 Volume I is titled Inclusive Growth; the 2006 official approach document is titled Towards Faster and More Inclusive Growth.",
+      "sources": [
+        "https://www.niti.gov.in/sites/default/files/2023-08/11th_vol1.pdf",
+        "https://digitallibrary.niti.gov.in/items/299a1acc-31b4-4c72-bd52-3f4462da611d"
+      ]
+    },
+    "D": {
+      "text": "Twelfth Plan — Creation of the Planning Commission",
+      "verdict": "INCORRECT",
+      "reason": "Planning Commission was established in 1950; Twelfth Plan ran 2012–17.",
+      "source_status": "historical chronology, original 1950 resolution not re-examined"
+    }
+  },
+  "existing_key": "C",
+  "key_change_required": false,
+  "source_verification": "Official government-hosted plan PDF title and Planning Commission approach catalog examined via public search indexing; no claim of line-by-line PDF inspection",
+  "gate_promotion": false,
+  "independent_academic_approval": false,
+  "remaining": "Q22 source audit is bounded; direct primary source for each distractor, remaining MCQs, six mains, synchronized PDF, artifact QA and independent review outstanding."
+}
