@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "audit_scope": "Direct bounded comparison of 1956 Industrial Policy Resolution and 1991 Statement in DPIIT government-hosted Industrial Policy Highlights; no manuscript certification",
+  "source": {
+    "url": "https://www.dpiit.gov.in/static/uploads/2025/07/51cb252d5e39c9c2afd70515623b8ebb.pdf",
+    "document": "Industrial Policy Highlights",
+    "direct_access": "PDF opened 2026-11-11",
+    "original_signed_documents_authenticated": false
+  },
+  "findings": [
+    {
+      "claim": "1956 industrial policy divided industries into three categories with different public/private roles",
+      "result": "SUPPORTED",
+      "locator": "Exhibit 1, paragraph 6-10, printed pp 2-3, PDF pages 1-2",
+      "precision": "Schedule A exclusively state future development subject to specified exceptions; Schedule B progressively state-owned with private supplementation; other industries generally private initiative; state could still enter."
+    },
+    {
+      "claim": "1956 policy assigned every industry exclusively to the public sector",
+      "result": "CONTRADICTED",
+      "locator": "Exhibit 1 paragraphs 6-12, PDF pages 1-2"
+    },
+    {
+      "claim": "1956 Schedule A included iron and steel, coal/lignite, railway transport and electricity generation/distribution",
+      "result": "SUPPORTED",
+      "locator": "Exhibit 1 Schedule A, PDF page 4"
+    },
+    {
+      "claim": "1956 policy did not acknowledge private-sector cooperation in Schedule A industries",
+      "result": "CONTRADICTED",
+      "locator": "Exhibit 1 paragraph 8, PDF page 1",
+      "precision": "Conditional cooperation permitted where national interests required; monopoly carve-outs specifically enumerated."
+    }
+  ],
+  "publication_status": {
+    "master_edited": false,
+    "pdf_rendered": false,
+    "downloaded_artifact_verified": false,
+    "readiness_promoted": false,
+    "independent_approvals": 0
+  },
+  "next_action": "Compare these bounded source findings against exact manuscript MCQs and mains passages before changing any answer; no claim-level manuscript audit performed."
+}
