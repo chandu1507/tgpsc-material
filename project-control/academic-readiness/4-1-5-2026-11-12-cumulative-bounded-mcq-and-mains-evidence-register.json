@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "4-1-5",
+  "type": "cumulative_evidence_reconciliation_not_new_fact_audit",
+  "baseline_main": "a99934161538e1bac186dd758b75586ca9601de4",
+  "scope": "Reconcile verified repository audit records without conflating author-side checks with independent certification",
+  "historical_batches": [
+    {
+      "questions": "1-10",
+      "evidence": "project-control/academic-readiness/4-1-5.json#cycle126",
+      "qualification": "Q4/Q6 original Annual Plan texts not directly examined"
+    },
+    {
+      "questions": "11-13",
+      "evidence": "project-control/academic-readiness/4-1-5.json#cycle196",
+      "qualification": "author-side source checks; 3 keys and 9 distractors"
+    }
+  ],
+  "individually_fetched_audits": [
+    {
+      "question": 16,
+      "key": "D",
+      "path": "project-control/academic-readiness/4-1-5-2026-11-11-rbi-q16-exchange-rate-four-option-crosswalk.json",
+      "limit": "RBI retrospective, not original 1993 circular"
+    },
+    {
+      "question": 17,
+      "key": "B",
+      "path": "project-control/academic-readiness/4-1-5-2026-11-11-fema-q17-four-option-official-law-audit.json",
+      "limit": "repeal and savings must be distinguished"
+    },
+    {
+      "question": 18,
+      "key": "C",
+      "path": "project-control/academic-readiness/4-1-5-2026-11-11-oecd-composite-index-q18-four-option-audit.json",
+      "limit": "methodological inference, no district-level empirical certification"
+    },
+    {
+      "question": 19,
+      "key": "D",
+      "path": "project-control/academic-readiness/4-1-5-2026-11-11-dea-ppp-q19-four-option-audit.json",
+      "limit": "government FAQ, not signed PPP agreement"
+    },
+    {
+      "question": 20,
+      "key": "A",
+      "path": "project-control/academic-readiness/4-1-5-2026-11-11-iig-q20-investment-announcement-four-option-audit.json",
+      "limit": "project-stage inference, no summit-specific data"
+    },
+    {
+      "question": 22,
+      "key": "C",
+      "path": "project-control/academic-readiness/4-1-5-2026-11-11-eleventh-plan-q22-four-option-audit.json",
+      "limit": "distractor original notifications not re-examined"
+    }
+  ],
+  "confirmed_bounded_question_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22
+  ],
+  "confirmed_bounded_count": 19,
+  "not_established_by_this_register": [
+    14,
+    15,
+    21,
+    23,
+    24,
+    25
+  ],
+  "important": "Not established here does not mean unaudited: later audits may exist, and historical Q14/Q23 audits are mentioned in per-topic readiness; do not use this list as an authoritative backlog",
+  "mains": {
+    "source_coverage": "5 PARTIAL, 1 INSUFFICIENT, 0 FULLY_VERIFIED",
+    "evidence": "project-control/academic-readiness/4-1-5-six-mains-claim-source-coverage-gap-audit-2026-11-07.json"
+  },
+  "academic_status": "ASSESSED_REBUILD_REQUIRED",
+  "gate_promotion": false,
+  "independent_approvals": 0,
+  "originals_modified": false,
+  "manuscript_modified": false,
+  "pdf_regenerated": false,
+  "downloaded_artifact_verified_this_run": false,
+  "next": "Resolve six question IDs against all existing audit evidence; audit six mains claim by claim with directly inspected sources; change manuscript only for justified errors; synchronize PDF and independently inspect downloaded archive"
+}
