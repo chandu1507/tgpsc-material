@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-11",
+  "topic": "4-1-5",
+  "scope": "Existing original practice Q16, all four options; bounded author-side direct primary institutional source crosswalk",
+  "source_manuscript": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/complete-notes.md",
+  "question": "RBI's historical exchange-rate timeline places the unified market-determined exchange-rate system in:",
+  "options": {
+    "A": "1980",
+    "B": "1991",
+    "C": "2005",
+    "D": "March 1993"
+  },
+  "existing_key": "D",
+  "finding": "PRESERVE_KEY_D_NO_CORRECTION",
+  "evidence": [
+    {
+      "url": "https://www.rbi.org.in/SCRIPTs/chro_1991.aspx",
+      "support": "1991 two-stage rupee devaluation; March 1992 dual LERMS; 1993 unified exchange rate."
+    },
+    {
+      "url": "https://rbi.org.in/scripts/BS_SpeechesView.aspx?Id=319",
+      "support": "RBI historical retrospective states convergence of dual rates effective March 1, 1993."
+    }
+  ],
+  "option_checks": {
+    "A": "1980 predates 1992 dual regime and 1993 unification; incorrect",
+    "B": "1991 devaluation is distinct from unification; incorrect",
+    "C": "2005 postdates 1993 unification; incorrect",
+    "D": "March 1993 specifically supported by RBI retrospective; correct"
+  },
+  "limits": [
+    "Historical retrospective and RBI chronology examined, not original 1993 operational circular",
+    "Author-side bounded source check only, not independent external academic certification",
+    "No claim that other questions or six mains are verified",
+    "No PDF, artifact, or browser QA performed in this change",
+    "No gate promotion; independent approvals remain zero"
+  ],
+  "status": "BOUNDED_SOURCE_CROSSWALK_ONLY"
+}
