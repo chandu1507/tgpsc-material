@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "audit_type": "bounded_original_practice_Q20_four_option_source_crosswalk",
+  "baseline_main_sha": "260791238278066656f4926e5cd6550a08f2e175",
+  "manuscript_path": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/complete-notes.md",
+  "question": "An announced investment at a summit should be treated as:",
+  "options": {
+    "A": "A policy or investor intention pending verification of actual deployment",
+    "B": "Proof that all proposed jobs exist",
+    "C": "Equivalent to realised FDI inflow",
+    "D": "A legally authorised budget expenditure"
+  },
+  "existing_key": "A",
+  "source": [
+    {
+      "url": "https://indiainvestmentgrid.gov.in/opportunities/nip-project/611950",
+      "observation": "Government-linked India Investment Grid distinguishes project stage from actual financial and physical progress; lists completion certificate/COD and cautions project authority information needs investor due diligence."
+    },
+    {
+      "url": "https://indiainvestmentgrid.gov.in/opportunities/nip-project/704582",
+      "observation": "Project listing separately identifies Idea Stage and total estimated project cost, showing proposal-stage costs are not automatically realised spending."
+    }
+  ],
+  "option_assessments": {
+    "A": "SUPPORTED_AS_BEST_ANSWER: an announcement is evidence of intention, not completion; actual deployment requires subsequent records.",
+    "B": "INCORRECT: projected jobs are not employment realised.",
+    "C": "INCORRECT: proposed investment and actual FDI inflows are different measures; no assertion that the proposal is foreign investment.",
+    "D": "INCORRECT: investor announcements do not themselves enact a government appropriation."
+  },
+  "limitations": [
+    "Sources support stage/progress distinction, not a quantified summit-specific conversion rate.",
+    "No Telangana summit-specific announcement, MoU, expenditure, FDI transaction or employment register examined.",
+    "No independent expert signoff; no official PYQ claim."
+  ],
+  "manuscript_change": "NONE_WARRANTED",
+  "readiness_gate_change": "NONE",
+  "independent_approvals": 0,
+  "publication_artifact_qa": "NOT_PERFORMED_THIS_AUDIT"
+}
