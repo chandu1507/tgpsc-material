@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "base_main_commit": "e808f6c862504817e5fe20e3b59c9d1f588d24cc",
+  "scope": "Actual manuscript-to-government-source bounded audit: original practice MCQ15 and Mains4 industrial-policy sentence; not complete mains claim audit",
+  "manuscript": {
+    "path": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/complete-notes.md",
+    "observed_sections": [
+      "Q15",
+      "Mains 4"
+    ],
+    "access": "GitHub fetch_file directly returned content; prior path guesses were incorrect"
+  },
+  "source": {
+    "path": "project-control/academic-readiness/4-1-5-2026-11-11-1956-industrial-policy-three-category-source-audit.json",
+    "government_url": "https://www.dpiit.gov.in/static/uploads/2025/07/51cb252d5e39c9c2afd70515623b8ebb.pdf",
+    "source_character": "DPIIT-hosted reproduction of 1956 resolution and 1991 policy; original signed instrument not independently authenticated"
+  },
+  "checks": [
+    {
+      "item": "Original practice MCQ15",
+      "key": "A",
+      "question": "The July 1991 industrial reforms are particularly associated with",
+      "options": {
+        "A": "Reduction of industrial licensing and public-sector reservation",
+        "B": "Establishment of the First Plan",
+        "C": "Abolition of all financial regulation",
+        "D": "Creation of the Planning Commission"
+      },
+      "finding": "A supported by DPIIT reproduced 1991 policy; B and D are earlier planning institutions/chronology rather than 1991 industrial reforms; C contradicted by continuing regulation. No change justified.",
+      "review": "BOUNDED_AUTHOR_SIDE_FOUR_OPTION_REVIEW",
+      "independent_expert": false
+    },
+    {
+      "item": "Mains4 industrial-policy claim",
+      "text": "The July 1991 industrial policy reduced licensing and public-sector reservations.",
+      "finding": "SUPPORTED by DPIIT reproduced 1991 policy, provided 'reduced' is not exaggerated into total abolition. Remaining Mains4 assertions (balance of payments, RBI chronology, trade, social impacts) NOT verified by this document.",
+      "review": "ONE_CLAIM_ONLY",
+      "independent_expert": false
+    },
+    {
+      "item": "1956 industrial-policy claim",
+      "text": "The Industrial Policy Resolution of 1956 expanded the envisaged role of the public sector in strategic industries.",
+      "finding": "SUPPORTED_WITH_QUALIFICATION: three schedules with public/private distinctions and permitted cooperation; existing wording does not claim all industries were state-exclusive. No correction justified.",
+      "review": "ONE_CLAIM_ONLY",
+      "independent_expert": false
+    }
+  ],
+  "production": {
+    "manuscript_changed": false,
+    "pdf_rendered": false,
+    "artifact_downloaded": false,
+    "original_pdf_preservation_not_retested": true,
+    "topic_count_not_changed": true,
+    "R1_to_R8_promoted": false,
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "next": "Continue exact Q16-Q25 option-level and all six mains claim-by-claim source crosswalk; only correct demonstrable errors, synchronize editable sources and PDF, download and inspect Actions artifact."
+}
