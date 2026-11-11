@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "audit_type": "new_direct_official_hosted_document_text_review",
+  "base_head_before_write": "28001ad5fe4f5c7ed0dbd34584c72dd53ca3a407",
+  "source": {
+    "title": "Industrial Policy Highlights — Exhibit No. 5, Statement on Industrial Policy, July 24 1991",
+    "host": "Department for Promotion of Industry and Internal Trade, Government of India",
+    "url": "https://www.dpiit.gov.in/static/uploads/2025/07/51cb252d5e39c9c2afd70515623b8ebb.pdf",
+    "web_access": "PDF text directly opened and inspected through web document viewer",
+    "location": "Chapter I, printed pp. 9–11 onward; web extracted lines 171–231",
+    "source_classification": "Government-hosted reproduction of the 1991 policy text; NOT authenticated original signed 1991 PDF or full original NITI archive download"
+  },
+  "bounded_claim_checks": [
+    {
+      "claim": "1991 statement explicitly maintains self-reliance while supporting international competitiveness and foreign investment",
+      "finding": "SUPPORTED",
+      "locator": "Exhibit 5 paragraphs 10–13; extracted lines 197–203"
+    },
+    {
+      "claim": "1991 reform package includes industrial licensing, foreign investment, foreign technology agreements, public sector policy, and MRTP Act",
+      "finding": "SUPPORTED",
+      "locator": "Exhibit 5 paragraph 19; extracted lines 213–221"
+    },
+    {
+      "claim": "1991 policy entirely abolished industrial licensing without exceptions",
+      "finding": "CONTRADICTED",
+      "locator": "Exhibit 5 licensing discussion and exception for specified industries; source paragraph 23; government-hosted reproduction"
+    },
+    {
+      "claim": "1991 policy abandoned public-sector role and worker protections",
+      "finding": "CONTRADICTED",
+      "locator": "Exhibit 5 paragraphs 15–17; extracted lines 205–210"
+    }
+  ],
+  "independent_mains4_full_claim_audit": false,
+  "original_1991_signed_pdf_examined": false,
+  "source_sha256_verified": false,
+  "mcq_keys_or_distractors_independently_certified": 0,
+  "manuscript_changed": false,
+  "integrated_pdf_rendered": false,
+  "actual_new_artifact_verified": false,
+  "readiness_gate_promoted": false,
+  "independent_approvals": 0,
+  "next": "Crosswalk the six current mains answers claim-by-claim to this government-hosted reproduction and other original sources, correct manuscript only for demonstrable errors, render synchronized PDF and verify actual downloaded artifact. Do not mark R4/R6 PASS on this bounded source review alone."
+}
