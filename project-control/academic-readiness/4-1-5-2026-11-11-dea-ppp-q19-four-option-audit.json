@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "4-1-5",
+  "scope": "Existing original practice MCQ19; all four options; author-side source crosswalk",
+  "repository_head_before_write": "579470c01e2bde8467983d5a574a5ddc05861660",
+  "manuscript": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/complete-notes.md",
+  "question": "In a public-private partnership, which statement is most defensible?",
+  "existing_key": "D",
+  "options": [
+    {
+      "option": "A",
+      "text": "Ownership must always transfer to the private firm",
+      "assessment": "INCORRECT",
+      "reason": "DEA's PPP definition encompasses private investment and/or management of public assets/services; transfer of ownership is not universally required."
+    },
+    {
+      "option": "B",
+      "text": "The state must surrender regulatory authority",
+      "assessment": "INCORRECT",
+      "reason": "The DEA describes PPPs as government-private arrangements with measurable performance standards and public oversight; mandatory surrender of regulatory authority is not a PPP defining condition."
+    },
+    {
+      "option": "C",
+      "text": "Every risk must be borne by taxpayers",
+      "assessment": "INCORRECT",
+      "reason": "DEA explicitly defines PPP with well-defined allocation of risks between public and private parties; universal taxpayer risk contradicts that."
+    },
+    {
+      "option": "D",
+      "text": "Contractual allocation of responsibilities and risks is central",
+      "assessment": "SUPPORTED",
+      "reason": "DEA FAQ Q2 states PPP is generally memorialized in a contract/agreement outlining party responsibilities and allocating risks."
+    }
+  ],
+  "sources": [
+    {
+      "type": "Government of India Department of Economic Affairs PPP portal FAQ",
+      "url": "https://www.pppinindia.gov.in/faqs",
+      "section": "Q1 What is PPP?; Q2 different types of PPP",
+      "access": "direct page text reviewed 2026-11-11"
+    }
+  ],
+  "decision": "Existing D key supported; no manuscript correction warranted",
+  "limitations": [
+    "One original question only; not independent external academic review",
+    "FAQ is official government explanatory guidance, not signed project contract or statute",
+    "No other MCQ or mains claims certified",
+    "No PDF rendering or downloaded artifact QA in this change"
+  ],
+  "gate_changes": {
+    "R1_to_R8": "NONE",
+    "R9": "NOT_STARTED",
+    "independent_approvals": 0
+  },
+  "topic_count_change": 0
+}
