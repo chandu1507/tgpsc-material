@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4 FERA-to-FEMA statutory chronology primary-text check",
+  "baseline_main": "f8212f47963008e1bb046f234d3de11a0e46c9a1",
+  "primary_source": {
+    "publisher": "India Code, Government of India",
+    "title": "Foreign Exchange Management Act, 1999 (Act 42 of 1999)",
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf",
+    "access": "Direct official PDF text opened and read, not merely a search snippet",
+    "sections": [
+      "1(4) and commencement footnote",
+      "49(1) repeal and saving"
+    ]
+  },
+  "findings": [
+    {
+      "claim": "FEMA enacted in 1999",
+      "result": "SUPPORTED",
+      "basis": "Act 42 of 1999, dated 29 December 1999"
+    },
+    {
+      "claim": "FEMA replaced FERA 1973",
+      "result": "SUPPORTED",
+      "basis": "Section 49(1) repeals FERA 1973"
+    },
+    {
+      "claim": "FEMA took effect in 1991 alongside liberalisation",
+      "result": "FALSE",
+      "basis": "Section 1 commencement footnote identifies 1 June 2000, notification G.S.R.371(E) dated 1 May 2000"
+    },
+    {
+      "claim": "FEMA commenced 1 June 2000",
+      "result": "SUPPORTED",
+      "basis": "Official Act footnote to section 1(4)"
+    }
+  ],
+  "recommended_student_wording": "The 1991 liberalisation reforms preceded the later statutory transition from FERA 1973 to FEMA 1999, which commenced on 1 June 2000. Do not date FEMA's commencement to 1991.",
+  "limitations": [
+    "Only the statutory transition component of Mains 4 was checked; original 1991 Industrial Policy, RBI exchange-rate chronology and sectoral employment claims remain unverified",
+    "No independent expert reviewer; no claim that all Mains 4 assertions have been certified",
+    "No original manuscript or PDF changed"
+  ],
+  "gate_changes": false,
+  "independent_approvals": 0,
+  "R9": "NOT_STARTED"
+}
