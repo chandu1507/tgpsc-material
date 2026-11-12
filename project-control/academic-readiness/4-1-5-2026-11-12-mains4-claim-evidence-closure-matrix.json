@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "4-1-5",
+  "purpose": "Reconcile six-mains gap audit against subsequent FEMA statute and RBI chronology source examinations without implying full verification",
+  "baseline_main": "8f17b796187204dcd57f37c5e0d0af7e5dfc3529",
+  "source_evidence": [
+    "project-control/academic-readiness/4-1-5-six-mains-claim-source-coverage-gap-audit-2026-11-07.json",
+    "project-control/academic-readiness/4-1-5-2026-11-12-mains4-fema-primary-statute-chronology-audit.json",
+    "project-control/academic-readiness/4-1-5-2026-11-12-mains4-rbi-exchange-rate-reform-chronology-audit.json"
+  ],
+  "mains4_gap_matrix": [
+    {
+      "claim_group": "July 1991 Industrial Policy",
+      "state": "OPEN",
+      "basis": "Official catalogue identified, original 1991 policy text not directly read; no complete primary-text comparison"
+    },
+    {
+      "claim_group": "FERA repeal / FEMA commencement",
+      "state": "BOUNDED_SOURCE_CHECK_COMPLETED",
+      "basis": "India Code Act 42 of 1999 section 49(1) and section 1(4) commencement footnote; FEMA commenced 1 June 2000",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf",
+      "limitation": "Not yet compared line by line against the editable Mains 4 answer"
+    },
+    {
+      "claim_group": "Rupee devaluation, LERMS, exchange-rate unification and current-account convertibility",
+      "state": "BOUNDED_SOURCE_CHECK_COMPLETED",
+      "basis": "RBI retrospective institutional chronology: July 1991; March 1992; 1 March 1993; August 1994",
+      "urls": [
+        "https://www.rbi.org.in/SCRIPTs/chro_1991.aspx",
+        "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18086"
+      ],
+      "limitation": "Contemporaneous notifications not directly examined; no full answer line-by-line comparison"
+    },
+    {
+      "claim_group": "Employment, competition, technology and sectoral outcomes",
+      "state": "OPEN",
+      "basis": "No independently checked sectoral time series or causal attribution audit"
+    }
+  ],
+  "closure_summary": {
+    "groups": 4,
+    "bounded_supported": 2,
+    "open": 2,
+    "fully_claim_verified_mains": 0
+  },
+  "next_action": "Retrieve exact editable Mains 4 text and original 1991 Industrial Policy where legally accessible; create assertion-by-assertion comparison, correct only demonstrable inaccuracies, then synchronize PDF and verify post-commit downloaded artifact",
+  "preservation": {
+    "original_topics": 75,
+    "topic_count_change": 0,
+    "manuscript_changed": false,
+    "pdf_changed": false,
+    "academic_approvals": 0,
+    "R9": "NOT_STARTED",
+    "gate_promotion": false
+  },
+  "publication_qa": "NOT_PERFORMED_THIS_RUN"
+}
