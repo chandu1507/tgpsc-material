@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "4-1-5",
+  "kind": "cumulative_evidence_register_correction",
+  "baseline_main": "711c1721f90a01bc295e5db2eb00f1ef86fdc1ee",
+  "finding": "All six question IDs marked not established by the 2026-11-12 cumulative register have pre-existing bounded author-side audit files on main. The six-item unresolved-by-register list was a retrieval gap, not an actual unreviewed-question backlog.",
+  "newly_reconciled": [
+    {
+      "question": 14,
+      "key": "C",
+      "evidence": "4-1-5-q14-inclusive-growth-undp-niti-option-audit-2026-11-07.json",
+      "limit": "No district dataset; job-quality measure not prescribed by cited source"
+    },
+    {
+      "question": 15,
+      "key": "A",
+      "evidence": "4-1-5-q15-industrial-policy-option-audit-2026-11-06.json",
+      "limit": "Original full 1991 official PDF not directly inspected"
+    },
+    {
+      "question": 21,
+      "key": "B",
+      "evidence": "4-1-5-q21-telangana-rising-primary-vision-option-audit-2026-11-06.json",
+      "limit": "Bounded vision passages; constitutional text not directly opened in that audit"
+    },
+    {
+      "question": 23,
+      "key": "D",
+      "evidence": "4-1-5-q23-irrigation-project-evaluation-bounded-option-audit-2026-11-07.json",
+      "limit": "No project-specific empirical outcomes"
+    },
+    {
+      "question": 24,
+      "key": "A",
+      "evidence": "4-1-5-q24-q25-rbi-niti-bounded-option-audit-2026-11-07.json",
+      "limit": "Not all distractors independently primary-source certified"
+    },
+    {
+      "question": 25,
+      "key": "C",
+      "evidence": "4-1-5-q24-q25-rbi-niti-bounded-option-audit-2026-11-07.json",
+      "limit": "Some evaluation claims are methodological, not empirical"
+    }
+  ],
+  "previous_register": "4-1-5-2026-11-12-cumulative-bounded-mcq-and-mains-evidence-register.json",
+  "previous_register_documented": 19,
+  "now_documented_bounded_author_side": 25,
+  "fully_independently_certified": 0,
+  "mains_claim_verification": {
+    "partial": 5,
+    "insufficient": 1,
+    "fully_verified": 0
+  },
+  "gate_promotion": false,
+  "independent_approvals": 0,
+  "manuscript_modified": false,
+  "pdf_regenerated": false,
+  "artifact_downloaded_this_run": false,
+  "remaining": "Full direct-source claim and distractor audit, six mains, synced publication, browser accessibility, named independent review"
+}
