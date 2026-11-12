@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4: RBI primary-institutional exchange-rate reform chronology; bounded evidence audit",
+  "baseline_main": "d8d0f5a42ada64b2fdc41986d91845283c0f8a9e",
+  "sources": [
+    {
+      "publisher": "Reserve Bank of India",
+      "url": "https://www.rbi.org.in/SCRIPTs/chro_1991.aspx",
+      "type": "official historical chronology",
+      "finding": "1 and 3 July 1991 two-stage rupee devaluation; March 1992 LERMS dual exchange-rate system; 1993 unified exchange rate"
+    },
+    {
+      "publisher": "Reserve Bank of India",
+      "url": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18086",
+      "type": "official RBI publication",
+      "finding": "LERMS March 1992: 40 percent converted at official RBI rate and 60 percent at market rate; unified market-determined exchange rate effective 1 March 1993; current-account convertibility August 1994"
+    },
+    {
+      "publisher": "Reserve Bank of India",
+      "url": "https://www.rbi.org.in/scripts/FS_Overview.aspx?fn=5",
+      "type": "official RBI foreign exchange overview",
+      "finding": "FEMA 1999 replaced FERA and commenced 1 June 2000; unified exchange rate March 1993"
+    }
+  ],
+  "verified_claims": [
+    {
+      "claim": "Rupee adjusted downward in two stages on 1 and 3 July 1991",
+      "status": "SUPPORTED_BY_RBI"
+    },
+    {
+      "claim": "LERMS introduced in March 1992, not 1991",
+      "status": "SUPPORTED_BY_RBI"
+    },
+    {
+      "claim": "LERMS split conversion 40 percent official and 60 percent market",
+      "status": "SUPPORTED_BY_RBI"
+    },
+    {
+      "claim": "Unified market-determined exchange rate effective 1 March 1993",
+      "status": "SUPPORTED_BY_RBI"
+    },
+    {
+      "claim": "Current-account convertibility August 1994",
+      "status": "SUPPORTED_BY_RBI"
+    },
+    {
+      "claim": "FEMA became effective 1 June 2000, not during 1991 reform",
+      "status": "SUPPORTED_BY_RBI_AND_SEPARATE_INDIA_CODE_AUDIT"
+    }
+  ],
+  "student_wording": "The external-sector reform sequence was the two-stage rupee adjustment (July 1991), dual-rate LERMS (March 1992; 40% official/60% market conversion), unified market-determined exchange rate (1 March 1993), and current-account convertibility (August 1994). The separate FERA-to-FEMA legal transition took effect on 1 June 2000.",
+  "limitations": [
+    "RBI institutional historical material examined, not the original 1991/1992/1993 policy notifications or contemporaneous circulars",
+    "Not a line-by-line audit of the actual six mains answers; no claim that existing Mains 4 text contains an error",
+    "1991 original Industrial Policy PDF, sectoral employment outcomes and all other mains claims remain unchecked",
+    "No manuscript or PDF changes; no independent academic reviewer; no R1-R8 gate promotion"
+  ],
+  "original_topic_count_change": 0,
+  "academic_approvals": 0,
+  "R9": "NOT_STARTED"
+}
