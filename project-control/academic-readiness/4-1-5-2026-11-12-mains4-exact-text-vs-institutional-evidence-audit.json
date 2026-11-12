@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "4-1-5",
+  "scope": "Exact editable Mains 4 text comparison against previously recorded directly examined RBI and India Code evidence",
+  "baseline_main": "6ac19b5150beecaf7853f141ffa21f5e3138fc0a",
+  "editable_source": "Paper 4/Unit 1 - Indian Economy/Topic 5/source/mains-model-answers.md",
+  "question": "Mains 4. Analyse the causes, instruments and consequences of India's 1991 liberalisation.",
+  "checks": [
+    {
+      "verbatim": "The Reserve Bank records exchange-rate adjustment in 1991, a dual-rate system in 1992 and a unified market-determined rate in 1993.",
+      "finding": "Chronology agrees with bounded RBI retrospective evidence: July 1991 adjustment; March 1992 LERMS; 1 March 1993 unification.",
+      "status": "SUPPORTED_WITH_SCOPE_LIMIT",
+      "source": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18086"
+    },
+    {
+      "verbatim": "the 1991 adjustment, the 1992 dual-rate arrangement and the March 1993 unification were distinct policy steps",
+      "finding": "Chronological distinction is supported; exact contemporaneous notifications not directly consulted.",
+      "status": "SUPPORTED_WITH_SCOPE_LIMIT",
+      "source": "https://www.rbi.org.in/SCRIPTs/chro_1991.aspx"
+    },
+    {
+      "verbatim": "foreign-exchange management later shifted from FERA to FEMA.",
+      "finding": "The wording correctly places transition later, without asserting FEMA commenced in 1991. India Code records commencement 1 June 2000 and repeal of FERA under section 49(1).",
+      "status": "SUPPORTED_WITH_SCOPE_LIMIT",
+      "source": "https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf"
+    },
+    {
+      "verbatim": "The July 1991 industrial policy reduced licensing and public-sector reservations.",
+      "finding": "Original July 1991 policy text not directly inspected. Do not certify exact scope of exemptions/reservations from this run.",
+      "status": "OPEN_PRIMARY_POLICY_TEXT"
+    },
+    {
+      "verbatim": "Competition, technology access and export opportunities expanded, but gains varied across workers, firms and regions.",
+      "finding": "Broad outcome claim lacks directly inspected disaggregated time series and attribution; remains open.",
+      "status": "OPEN_OUTCOME_EVIDENCE"
+    },
+    {
+      "verbatim": "Telangana's pharmaceutical and IT industries illustrate global opportunities",
+      "finding": "Specific Telangana causal contribution not established by direct sectoral evidence.",
+      "status": "OPEN_LOCAL_CAUSAL_EVIDENCE"
+    }
+  ],
+  "decision": "NO_MANUSCRIPT_EDIT: no demonstrable factual contradiction in the bounded source-supported chronology; unsupported claims remain open rather than being rewritten without evidence.",
+  "limits": [
+    "Not a full six-mains claim-level audit",
+    "No new original policy consultation",
+    "No independent expert approval",
+    "No CI PDF or downloaded artifact verification"
+  ],
+  "gate_change": false,
+  "R9": "NOT_STARTED",
+  "independent_approvals": 0
+}
