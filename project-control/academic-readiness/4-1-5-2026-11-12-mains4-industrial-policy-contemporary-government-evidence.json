@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4 exact claim: July 1991 industrial policy reduced licensing and public-sector reservations",
+  "baseline_main": "fefd67ef6d0e550d8166d702c5b6edd4236cffe4",
+  "verbatim_claim": "The July 1991 industrial policy reduced licensing and public-sector reservations.",
+  "finding": "SUPPORTED by directly inspected Government of India Economic Survey 1991-92 retrospective: industrial policy announced 24 July 1991; licensing abolished except 18 industries; public-sector reserved areas reduced from 17 to 8. This is a government contemporary retrospective, not direct inspection of the original signed policy PDF. A NITI digital-library catalogue identifies a 4.95 MB original policy PDF but its bytes were not downloaded in this run.",
+  "sources": [
+    {
+      "url": "https://www.indiabudget.gov.in/budget_archive/es1991-92_A/2%20The%20Payments%20Crisis.pdf",
+      "type": "Government of India Economic Survey 1991-92",
+      "checked": "direct web extracted text",
+      "details": "Licensing abolished except 18 industries; public-sector reservations 17 to 8; MRTP prior approvals removed."
+    },
+    {
+      "url": "https://digitallibrary.niti.gov.in/items/cb7634e6-2477-4f1e-9016-ac76e746c46d",
+      "type": "NITI digital library metadata",
+      "checked": "catalogue only",
+      "details": "Statement on Industrial Policy 1991, Planning Commission, July 1991, PDF 4.95MB."
+    },
+    {
+      "url": "https://the1991project.com/public-repository/1991-documents/july-24-1991-statement-industrial-policy-government-india-ministry",
+      "type": "third-party transcription",
+      "checked": "secondary hosted policy text",
+      "details": "Policy transcription corroborates exceptions; not authenticated original file."
+    }
+  ],
+  "decision": "NO_MANUSCRIPT_EDIT: existing bounded sentence is supported. Move only this claim's source crosswalk from OPEN_PRIMARY_POLICY_TEXT to SUPPORTED_BY_CONTEMPORARY_OFFICIAL_RETROSPECTIVE; original policy PDF remains NOT_DIRECTLY_INSPECTED. Outcomes and Telangana causal claims remain OPEN.",
+  "independent_academic_approval": false,
+  "gate_change": false,
+  "R9": "NOT_STARTED",
+  "publication_artifact_verified_this_run": false
+}
