@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-14",
+  "artifact_id": 13922890611,
+  "workflow_run_id": 43171551242,
+  "artifact_head_sha": "71b76eefbef54fc76b6c8cede8747d8dc556ebe8",
+  "main_sha_at_audit": "86026f878c1cefceadf3b2af3c01be1dfd611f6e",
+  "outer_sha256": "e40fbba1c85500c5502f337bf44e6847b37c20fabc137c264047b6cfde8704de",
+  "inner_sha256": "d8860171ae566241835b0c155c82c7e1c3d9eaa2ea919472bc6509a6706bc5af",
+  "outer_crc": "PASS",
+  "inner_crc": "PASS",
+  "inner_file_count": 2337,
+  "original_topic_pdf_count": 75,
+  "readiness_json_count": 75,
+  "html_count": 92,
+  "local_links_checked": 634,
+  "broken_local_links": 0,
+  "dom_fragments_checked": 1586,
+  "broken_dom_fragments": 0,
+  "spa_routes_excluded": 42,
+  "original_3_1_1_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "academic_approval_count": 0,
+  "limits": [
+    "Archive predates main metadata pointer commit",
+    "No independent academic review",
+    "No browser accessibility audit",
+    "This QA evidence commit itself requires subsequent packaging verification"
+  ],
+  "library_evidence": "/Mounika/TGPSC_20261114_CURRENT_ARTIFACT_QA.json"
+}
