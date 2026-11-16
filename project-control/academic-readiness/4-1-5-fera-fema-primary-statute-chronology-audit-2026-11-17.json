@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-17",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4 statutory chronology: FERA-to-FEMA transition",
+  "audit_type": "bounded primary-source legal claim check",
+  "claims": [
+    {
+      "claim": "FEMA is Act 42 of 1999, enacted 29 December 1999",
+      "finding": "SUPPORTED",
+      "evidence": "Department of Economic Affairs full Act, heading",
+      "url": "https://dea.gov.in/files/acts_documents/FEMA_ACT_1999.pdf"
+    },
+    {
+      "claim": "FEMA replaced FERA 1973 with effect from 1 June 2000",
+      "finding": "SUPPORTED",
+      "evidence": "Department of Revenue official explanatory page, corroborated by FEMA section 49(1)",
+      "url": "https://www.dor.gov.in/foreign-exchange-management-act-1999-42-1999"
+    },
+    {
+      "claim": "FERA was repealed as part of the original July 1991 reforms",
+      "finding": "INCORRECT",
+      "evidence": "FEMA 1999 section 49 repeal and 1 June 2000 commencement",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_45_00004_199942_1517807323986&filename=a1999-42.pdf&type=actfile"
+    },
+    {
+      "claim": "FEMA's statutory purpose includes facilitating external trade and payments and orderly development and maintenance of the foreign exchange market",
+      "finding": "SUPPORTED",
+      "evidence": "Long title/preamble of FEMA 1999",
+      "url": "https://dea.gov.in/files/acts_documents/FEMA_ACT_1999.pdf"
+    }
+  ],
+  "recommended_student_wording": "The 1991 economic reforms initiated liberalisation, but the statutory replacement of the Foreign Exchange Regulation Act, 1973 by the Foreign Exchange Management Act, 1999 took effect only on 1 June 2000. FEMA's stated objective is to facilitate external trade and payments and promote orderly development and maintenance of India's foreign-exchange market.",
+  "limitations": [
+    "This is a bounded statutory chronology check, not verification of all Mains 4 claims.",
+    "No direct original July 1991 Industrial Policy consultation is claimed.",
+    "No editable manuscript or synchronized PDF changed in this evidence-only commit.",
+    "No independent academic approval, R1-R8 promotion, or downloaded current-head artifact QA."
+  ],
+  "gate_effect": "NONE",
+  "independent_approvals": 0
+}
