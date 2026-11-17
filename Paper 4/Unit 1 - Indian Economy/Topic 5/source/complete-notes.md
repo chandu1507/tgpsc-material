@@ -748,15 +748,13 @@ The Governing Council was constituted by a Cabinet Secretariat notification on 1
 
 ## Mains 4. Analyse the causes, instruments and consequences of India's 1991 liberalisation.
 
-**Introduction and background.** India's 1991 balance-of-payments crisis reflected accumulated fiscal and external imbalances, limited foreign exchange and adverse international conditions. Stabilisation addressed immediate financing stress; structural reforms aimed to improve longer-term efficiency.
+**Introduction and background.** India's 1991 balance-of-payments crisis reflected accumulated fiscal and external imbalances, limited foreign exchange and adverse international conditions. Stabilisation addressed immediate financing stress; structural reforms aimed to improve efficiency.
 
 **Root causes and objectives.** Industrial licensing, import controls and weak competition constrained firms' ability to respond to demand and technology. Reformers sought stronger productivity, exports, investment and financial resilience without abandoning public responsibility for social services.
 
 **Key measures.** The July 1991 industrial policy reduced licensing and public-sector reservations. Trade barriers were lowered in stages. The Reserve Bank records exchange-rate adjustment in 1991, a dual-rate system in 1992 and a unified market-determined rate in 1993. Banking regulation evolved. The later statutory transition must be dated separately: the Foreign Exchange Management Act (FEMA) was enacted on 29 December 1999 and came into force on 1 June 2000, replacing the Foreign Exchange Regulation Act (FERA), 1973; FEMA was not part of the July 1991 industrial-policy announcement.
 
 **Critical appraisal.** Competition, technology access and export opportunities expanded, but gains varied across workers, firms and regions. Import-competing enterprises faced adjustment costs, and financial integration increased exposure to external shocks. Liberalisation is not identical to unrestricted capital-account convertibility or elimination of all regulation. Effective competition policy and public-service investment remained necessary to protect citizens and sustain productivity.
-
-The sequence of exchange-rate changes illustrates why reform must be dated carefully: the 1991 adjustment, the 1992 dual-rate arrangement and the March 1993 unification were distinct policy steps, not a single overnight adoption of full convertibility.
 
 **Conclusion.** Reform benefits depend on capable institutions. Telangana's pharmaceutical and IT industries illustrate global opportunities; district-level skills, infrastructure, labour safeguards and environmental compliance are necessary to distribute those gains more widely.
 
