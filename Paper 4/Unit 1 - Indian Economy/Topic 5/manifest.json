@@ -41,28 +41,28 @@
       "bytes": 381561
     },
     "index.html": {
-      "sha256": "6a39a8d93e9e269cf3dfe79a710a1efb8eb61d146291ebf6c35d2157bf669e3b",
-      "bytes": 152861
+      "sha256": "a509423787fe46dec93e3fd1b7de8b01bba44ca6dcf2868287bd2e5930694ff8",
+      "bytes": 152817
     },
     "source/answer-blueprints.md": {
       "sha256": "4c3d07d8c54095d8e544f6c91687f14f26a05e397d911a917353228a45514087",
       "bytes": 1274
     },
     "source/complete-notes.md": {
-      "sha256": "7997bec0422aa4b760df5d178e8ae0555c1cf4dab240651fa4de45d1e1e8a488",
-      "bytes": 116700
+      "sha256": "850798b7171938950482cf7435b645000b6a839fd0b4309fc6f5a73a6a2e155f",
+      "bytes": 116662
     },
     "source/detailed-notes.md": {
       "sha256": "1e0136ac975115bf4c777948331f471c4cc9a35318e76c91c0a3656a4aa422f4",
       "bytes": 57840
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "07a4a024fd699c1bd3847ff1858baa29a68cfb7dd13268816f3637643d34c139",
-      "bytes": 435730
+      "sha256": "df9b6ca01f7b6fa55cf39da7e7ead28b20dc84dedacbbb5b8a3d5ae0d64ae916",
+      "bytes": 435723
     },
     "source/mains-model-answers.md": {
-      "sha256": "a3affd059a00321391e1870aea10badec1e2bc797566fd5eda277d6922ec3fe2",
-      "bytes": 12700
+      "sha256": "e49ff103aceed774fb8606d415f5510765b4be4f76280c3f399eabc6a0276e27",
+      "bytes": 12662
     },
     "source/original-mcqs.md": {
       "sha256": "d30992f69f6279684379d5d60e11e8f80200933185298f3f7282ffcd54e3f05b",
