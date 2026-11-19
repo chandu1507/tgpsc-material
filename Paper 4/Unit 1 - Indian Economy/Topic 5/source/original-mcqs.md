@@ -65,14 +65,14 @@ D. 1966–69
 **Answer: D.** Three Annual Plans followed the disrupted Third Plan, before the Fourth Plan began in 1969.
 
 
-**Cycle 126 option-level author-side review (31 October 2026; CHRONOLOGY PROVISIONAL — original Annual Plans not individually inspected):**
+**19 November 2026 chronology recheck (official Planning Commission archival catalogue and later official plan tables; underlying scanned annual-plan PDFs not inspected):**
 
 - **A:** Incorrect chronology: 1956–59 falls within the Second Plan (1956–61), not the post-Third-Plan annual-plan interval.
 - **B:** Incorrect chronology: 1974–77 falls within the Fifth Plan period.
 - **C:** Incorrect chronology: 1985–88 falls within the Seventh Plan period.
-- **D:** Provisional correct key: the conventional first plan holiday is 1966–69; a directly opened year-by-year original Annual Plan set has not yet been cross-checked.
+- **D:** Correct chronology supported by separately catalogued Planning Commission *Annual Plan 1966–67*, *Annual Plan 1967–68* and *Annual Plan 1968–69* (original publications, archive descriptions inspected), and the Tenth Plan's retrospective table identifying Annual Plans (1966–69). The term 'plan holiday' is a later conventional label; this check does not establish that the originals themselves used it.
 
-**Source record:** https://www.niti.gov.in/planning-commission-archive ; https://www.india.gov.in/category/governance-planning/subcategory/planning/details/annual-plans-by-planning-commission. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+**Source record (19 November):** Planning Commission original-publication catalogue records https://digitallibrary.niti.gov.in/items/1698ae65-7deb-4135-a6c8-737379f81a23 ; https://digitallibrary.niti.gov.in/items/5cfa64a8-35b0-489b-9b27-887295c87004/full ; https://digitallibrary.niti.gov.in/items/fe2c2214-ea07-4c6d-929e-77a79eaf4f40 ; Tenth Plan official retrospective table https://www.niti.gov.in/sites/default/files/2023-08/10th_vol2.pdf . **Evidence boundary:** archive metadata/abstracts and the official retrospective table were examined; original PDF page contents were not directly examined. Original practice, not official PYQ; no independent expert approval.
 
 ### Q5. The Fifth Plan is especially associated with which policy priority?
 A. Complete removal of state planning  
@@ -101,14 +101,14 @@ D. Eleventh Plan → Tenth Plan → Twelfth Plan
 **Answer: C.** The Seventh Plan ended in 1990, two Annual Plans followed, and the Eighth Plan began in 1992 after the reforms.
 
 
-**Cycle 126 option-level author-side review (31 October 2026; CHRONOLOGY PROVISIONAL — annual-plan primary originals pending):**
+**19 November 2026 chronology recheck (official Finance Commission retrospective table; original 1990–91 and 1991–92 Annual Plan volumes not inspected):**
 
 - **A:** Incorrect: Annual Plans 1990–92 intervene between the Seventh and Eighth Plans, not after the Eighth.
 - **B:** Incorrect: the Seventh Plan precedes the Eighth Plan.
-- **C:** Provisional correct key: Seventh (1985–90), Annual Plans (1990–92), Eighth (1992–97); exact Annual Plan 1990–91 and 1991–92 originals not opened in this cycle.
+- **C:** Correct sequence supported by the official Eleventh Finance Commission retrospective fiscal table, which explicitly separates the Seventh Five Year Plan (1985–90), Annual Plans 1990–91 and 1991–92, and the Eighth Five Year Plan beginning 1992–93. This is retrospective primary-government evidence, not direct inspection of both annual-plan volumes.
 - **D:** Incorrect: the Tenth Plan predates the Eleventh, which predates the Twelfth.
 
-**Source record:** https://www.niti.gov.in/planning-commission-archive ; https://www.india.gov.in/category/governance-planning/subcategory/planning/details/annual-plans-by-planning-commission. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+**Source record (19 November):** Government of India Eleventh Finance Commission retrospective plan-period table https://www.niti.gov.in/sites/default/files/2025-03/11th-Finance-Commision.pdf ; official NITI Planning Commission archive https://www.niti.gov.in/planning-commission-archive . **Evidence boundary:** retrospective government table consulted, not original 1990–92 annual-plan PDFs. Original practice, not official PYQ; no independent expert approval.
 
 ### Q7. Which was the final Five-Year Plan in India?
 A. Twelfth (2012–17)  
