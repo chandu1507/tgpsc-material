@@ -241,6 +241,15 @@ D. Gross project outlay alone
 
 **Answer: C.** Inclusion requires evidence of who benefits and whether capabilities improve, not only spending or aggregate production.
 
+**19 November 2026 Q14 author-side option audit (bounded policy-source correspondence):**
+
+- **A — Incorrect.** Road announcements count planned inputs, not delivered infrastructure, access, use or distribution of benefits.
+- **B — Incorrect.** Aggregate GDP growth can rise while regional, gender or household-level inequalities persist; it cannot alone measure inclusion.
+- **C — Correct as the best evaluation approach.** District-disaggregated education and health outcomes, alongside measures of employment quality, can test whether gains reach different populations. NITI Aayog's *Strategy for New India @ 75* explicitly addresses inclusion through school education, health, nutrition, gender and vulnerable groups, and discusses district-level performance monitoring. The exact composite phrase in option C is an original pedagogical synthesis, **not** a verbatim NITI-defined indicator or validated index.
+- **D — Incorrect.** Project outlay measures budgeted spending, not who receives services or whether welfare outcomes improve.
+
+**Primary policy correspondence:** NITI Aayog, *Strategy for New India @ 75* (2018), Inclusion chapters 23–34 and Governance chapters 35 and 41: https://www.niti.gov.in/sites/default/files/2023-03/Strategy-for-NewIndia.pdf ; NITI Aayog official overview: https://www.niti.gov.in/the-strategy-for-new-india . **Limits:** This is a conceptual best-answer audit, not proof that a particular district programme caused improvements; job-quality measurement requires separate operational definitions and datasets. No official PYQ or independent academic approval is claimed.
+
 ### Q15. The July 1991 industrial reforms are particularly associated with:
 A. Reduction of industrial licensing and public-sector reservation  
 B. Establishment of the First Plan  
