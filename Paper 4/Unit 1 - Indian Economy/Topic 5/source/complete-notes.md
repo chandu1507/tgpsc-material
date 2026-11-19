@@ -427,14 +427,14 @@ D. 1966–69
 **Answer: D.** Three Annual Plans followed the disrupted Third Plan, before the Fourth Plan began in 1969.
 
 
-**Cycle 126 option-level author-side review (31 October 2026; CHRONOLOGY PROVISIONAL — original Annual Plans not individually inspected):**
+**19 November 2026 chronology recheck (official Planning Commission archival catalogue and later official plan tables; underlying scanned annual-plan PDFs not inspected):**
 
 - **A:** Incorrect chronology: 1956–59 falls within the Second Plan (1956–61), not the post-Third-Plan annual-plan interval.
 - **B:** Incorrect chronology: 1974–77 falls within the Fifth Plan period.
 - **C:** Incorrect chronology: 1985–88 falls within the Seventh Plan period.
-- **D:** Provisional correct key: the conventional first plan holiday is 1966–69; a directly opened year-by-year original Annual Plan set has not yet been cross-checked.
+- **D:** Correct chronology supported by separately catalogued Planning Commission *Annual Plan 1966–67*, *Annual Plan 1967–68* and *Annual Plan 1968–69* (original publications, archive descriptions inspected), and the Tenth Plan's retrospective table identifying Annual Plans (1966–69). The term 'plan holiday' is a later conventional label; this check does not establish that the originals themselves used it.
 
-**Source record:** https://www.niti.gov.in/planning-commission-archive ; https://www.india.gov.in/category/governance-planning/subcategory/planning/details/annual-plans-by-planning-commission. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+**Source record (19 November):** Planning Commission original-publication catalogue records https://digitallibrary.niti.gov.in/items/1698ae65-7deb-4135-a6c8-737379f81a23 ; https://digitallibrary.niti.gov.in/items/5cfa64a8-35b0-489b-9b27-887295c87004/full ; https://digitallibrary.niti.gov.in/items/fe2c2214-ea07-4c6d-929e-77a79eaf4f40 ; Tenth Plan official retrospective table https://www.niti.gov.in/sites/default/files/2023-08/10th_vol2.pdf . **Evidence boundary:** archive metadata/abstracts and the official retrospective table were examined; original PDF page contents were not directly examined. Original practice, not official PYQ; no independent expert approval.
 
 ### Q5. The Fifth Plan is especially associated with which policy priority?
 A. Complete removal of state planning  
@@ -463,14 +463,14 @@ D. Eleventh Plan → Tenth Plan → Twelfth Plan
 **Answer: C.** The Seventh Plan ended in 1990, two Annual Plans followed, and the Eighth Plan began in 1992 after the reforms.
 
 
-**Cycle 126 option-level author-side review (31 October 2026; CHRONOLOGY PROVISIONAL — annual-plan primary originals pending):**
+**19 November 2026 chronology recheck (official Finance Commission retrospective table; original 1990–91 and 1991–92 Annual Plan volumes not inspected):**
 
 - **A:** Incorrect: Annual Plans 1990–92 intervene between the Seventh and Eighth Plans, not after the Eighth.
 - **B:** Incorrect: the Seventh Plan precedes the Eighth Plan.
-- **C:** Provisional correct key: Seventh (1985–90), Annual Plans (1990–92), Eighth (1992–97); exact Annual Plan 1990–91 and 1991–92 originals not opened in this cycle.
+- **C:** Correct sequence supported by the official Eleventh Finance Commission retrospective fiscal table, which explicitly separates the Seventh Five Year Plan (1985–90), Annual Plans 1990–91 and 1991–92, and the Eighth Five Year Plan beginning 1992–93. This is retrospective primary-government evidence, not direct inspection of both annual-plan volumes.
 - **D:** Incorrect: the Tenth Plan predates the Eleventh, which predates the Twelfth.
 
-**Source record:** https://www.niti.gov.in/planning-commission-archive ; https://www.india.gov.in/category/governance-planning/subcategory/planning/details/annual-plans-by-planning-commission. These are original practice questions, not official PYQs; a named independent expert has not reviewed these rationales.
+**Source record (19 November):** Government of India Eleventh Finance Commission retrospective plan-period table https://www.niti.gov.in/sites/default/files/2025-03/11th-Finance-Commision.pdf ; official NITI Planning Commission archive https://www.niti.gov.in/planning-commission-archive . **Evidence boundary:** retrospective government table consulted, not original 1990–92 annual-plan PDFs. Original practice, not official PYQ; no independent expert approval.
 
 ### Q7. Which was the final Five-Year Plan in India?
 A. Twelfth (2012–17)  
@@ -603,6 +603,15 @@ D. Gross project outlay alone
 
 **Answer: C.** Inclusion requires evidence of who benefits and whether capabilities improve, not only spending or aggregate production.
 
+**19 November 2026 Q14 author-side option audit (bounded policy-source correspondence):**
+
+- **A — Incorrect.** Road announcements count planned inputs, not delivered infrastructure, access, use or distribution of benefits.
+- **B — Incorrect.** Aggregate GDP growth can rise while regional, gender or household-level inequalities persist; it cannot alone measure inclusion.
+- **C — Correct as the best evaluation approach.** District-disaggregated education and health outcomes, alongside measures of employment quality, can test whether gains reach different populations. NITI Aayog's *Strategy for New India @ 75* explicitly addresses inclusion through school education, health, nutrition, gender and vulnerable groups, and discusses district-level performance monitoring. The exact composite phrase in option C is an original pedagogical synthesis, **not** a verbatim NITI-defined indicator or validated index.
+- **D — Incorrect.** Project outlay measures budgeted spending, not who receives services or whether welfare outcomes improve.
+
+**Primary policy correspondence:** NITI Aayog, *Strategy for New India @ 75* (2018), Inclusion chapters 23–34 and Governance chapters 35 and 41: https://www.niti.gov.in/sites/default/files/2023-03/Strategy-for-NewIndia.pdf ; NITI Aayog official overview: https://www.niti.gov.in/the-strategy-for-new-india . **Limits:** This is a conceptual best-answer audit, not proof that a particular district programme caused improvements; job-quality measurement requires separate operational definitions and datasets. No official PYQ or independent academic approval is claimed.
+
 ### Q15. The July 1991 industrial reforms are particularly associated with:
 A. Reduction of industrial licensing and public-sector reservation  
 B. Establishment of the First Plan  
@@ -625,7 +634,16 @@ B. Foreign Exchange Regulation Act 1973
 C. Competition Act 2002  
 D. RBI Act 1934
 
-**Answer: B.** FEMA 1999 replaced FERA's more control-oriented foreign-exchange framework when it came into force in 2000.
+**Answer: B.** Section 49(1) of the Foreign Exchange Management Act, 1999 (Act 42 of 1999) expressly repeals the Foreign Exchange Regulation Act, 1973 (Act 46 of 1973). FEMA commenced on 1 June 2000. Repeal is subject to section 49's saving and transitional provisions; it did not automatically extinguish every earlier proceeding or action.
+
+**19 November 2026 — option-level statutory cross-check (author-side, not independent expert certification):**
+
+- **A — Incorrect.** The Companies Act, 1956 concerns company law, not the statute expressly repealed by FEMA section 49(1).
+- **B — Correct.** Section 49(1) names the Foreign Exchange Regulation Act, 1973, Act 46 of 1973, as the repealed enactment. Section 49(4)–(5) preserves specified earlier matters, so “replaced” must not be interpreted as erasing all past liabilities or proceedings.
+- **C — Incorrect.** The Competition Act, 2002 is a separate competition-law enactment; it is not the Act named in FEMA's repeal clause.
+- **D — Incorrect.** The Reserve Bank of India Act, 1934 is a separate central-banking statute, not the statute repealed by FEMA section 49(1).
+
+**Direct statutory source:** India Code, *Foreign Exchange Management Act, 1999*, section 49(1), (4), (5): https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_45_00004_199942_1517807323986&filename=a1999-42.pdf&type=actfile . Corroboration: Supreme Court judgment quoting section 49: https://api.sci.gov.in/supremecourt/2007/7781/7781_2007_Judgement_29-Jan-2019.pdf . **Scope:** one original practice MCQ's key and three distractors checked against the statute; no claim of checking the other 24 items or obtaining external approval.
 
 ### Q18. Which of the following is a limitation of a composite development index?
 A. It can never contain data  
