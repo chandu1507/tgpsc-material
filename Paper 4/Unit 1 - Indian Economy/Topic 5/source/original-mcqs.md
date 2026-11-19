@@ -263,7 +263,16 @@ B. Foreign Exchange Regulation Act 1973
 C. Competition Act 2002  
 D. RBI Act 1934
 
-**Answer: B.** FEMA 1999 replaced FERA's more control-oriented foreign-exchange framework when it came into force in 2000.
+**Answer: B.** Section 49(1) of the Foreign Exchange Management Act, 1999 (Act 42 of 1999) expressly repeals the Foreign Exchange Regulation Act, 1973 (Act 46 of 1973). FEMA commenced on 1 June 2000. Repeal is subject to section 49's saving and transitional provisions; it did not automatically extinguish every earlier proceeding or action.
+
+**19 November 2026 — option-level statutory cross-check (author-side, not independent expert certification):**
+
+- **A — Incorrect.** The Companies Act, 1956 concerns company law, not the statute expressly repealed by FEMA section 49(1).
+- **B — Correct.** Section 49(1) names the Foreign Exchange Regulation Act, 1973, Act 46 of 1973, as the repealed enactment. Section 49(4)–(5) preserves specified earlier matters, so “replaced” must not be interpreted as erasing all past liabilities or proceedings.
+- **C — Incorrect.** The Competition Act, 2002 is a separate competition-law enactment; it is not the Act named in FEMA's repeal clause.
+- **D — Incorrect.** The Reserve Bank of India Act, 1934 is a separate central-banking statute, not the statute repealed by FEMA section 49(1).
+
+**Direct statutory source:** India Code, *Foreign Exchange Management Act, 1999*, section 49(1), (4), (5): https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_45_00004_199942_1517807323986&filename=a1999-42.pdf&type=actfile . Corroboration: Supreme Court judgment quoting section 49: https://api.sci.gov.in/supremecourt/2007/7781/7781_2007_Judgement_29-Jan-2019.pdf . **Scope:** one original practice MCQ's key and three distractors checked against the statute; no claim of checking the other 24 items or obtaining external approval.
 
 ### Q18. Which of the following is a limitation of a composite development index?
 A. It can never contain data  
