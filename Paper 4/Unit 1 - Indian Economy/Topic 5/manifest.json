@@ -7,9 +7,9 @@
   "syllabus_provenance": "Official TGPSC PDF fresh retrieval 403: R1 IN_PROGRESS, not PASS",
   "production_status": "cycle39_CI_integrated_pdf_and_offline_html; browser accessibility pending",
   "academic_status": "not_approved",
-  "word_count_complete_markdown": 14735,
+  "word_count_complete_markdown": 15261,
   "word_count_detailed_notes": 6958,
-  "pdf_pages": 37,
+  "pdf_pages": 39,
   "original_explained_mcqs": 25,
   "original_mains_model_answers": 6,
   "original_diagrams": 3,
@@ -41,40 +41,40 @@
       "bytes": 381561
     },
     "index.html": {
-      "sha256": "a509423787fe46dec93e3fd1b7de8b01bba44ca6dcf2868287bd2e5930694ff8",
-      "bytes": 152817
+      "sha256": "29afa7d17104cf91314e33b937305f33ba480f5662858c4f8934bfda7fa0b140",
+      "bytes": 157423
     },
     "source/answer-blueprints.md": {
       "sha256": "4c3d07d8c54095d8e544f6c91687f14f26a05e397d911a917353228a45514087",
       "bytes": 1274
     },
     "source/complete-notes.md": {
-      "sha256": "850798b7171938950482cf7435b645000b6a839fd0b4309fc6f5a73a6a2e155f",
-      "bytes": 116662
+      "sha256": "eb67d5f0d15184d63ab9a0c323dded1ce4d972f6fcdd744a6276538e4047a49c",
+      "bytes": 120897
     },
     "source/detailed-notes.md": {
       "sha256": "1e0136ac975115bf4c777948331f471c4cc9a35318e76c91c0a3656a4aa422f4",
       "bytes": 57840
     },
     "source/integrated-student-edition-2026-10-27.pdf": {
-      "sha256": "df9b6ca01f7b6fa55cf39da7e7ead28b20dc84dedacbbb5b8a3d5ae0d64ae916",
-      "bytes": 435723
+      "sha256": "73b0ea766eadbd58f92f533673ef4f646df0ef183b21a44a2a8a437db0b6d762",
+      "bytes": 439858
     },
     "source/mains-model-answers.md": {
       "sha256": "e49ff103aceed774fb8606d415f5510765b4be4f76280c3f399eabc6a0276e27",
       "bytes": 12662
     },
     "source/original-mcqs.md": {
-      "sha256": "d30992f69f6279684379d5d60e11e8f80200933185298f3f7282ffcd54e3f05b",
-      "bytes": 22170
+      "sha256": "175f990b2f8c97a909da81ae62bbefa78380ed6b2a32a7c00daa4820b5eb6fbe",
+      "bytes": 26355
     },
     "source/quick-revision.md": {
       "sha256": "88cb400f6924e479b51c07abfd4208bb1c81d350e7e16859c2f88bc498476a98",
       "bytes": 4431
     },
     "source/sources-and-audit.md": {
-      "sha256": "612def8ba35aed91c956a6fa55fdfbab2ec7b6e517442c82941ec77ec1b168c7",
-      "bytes": 13400
+      "sha256": "4b896238ead7107efcb4d8cbd21a3da828e16ef0076a6041668ee6ff9b7d481d",
+      "bytes": 13450
     },
     "source/syllabus-and-summary.md": {
       "sha256": "6e5de999b897163f1733e335f2dee49087a16d073818edf99b5acba24ff8ec68",
