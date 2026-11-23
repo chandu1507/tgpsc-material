@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-23",
+  "topic_id": "4-1-5",
+  "scope": "Mains 4 targeted primary-institution evidence retrieval; no manuscript or gate changes",
+  "baseline_commit": "9648ce8c818d74efaf193e120a62e759ec92d519",
+  "verified_claims": [
+    {
+      "claim": "The 1991 crisis involved rupee devaluation on 1 and 3 July 1991; RBI chronology describes cumulative about 18% in USD terms.",
+      "source": "https://rbi.org.in/scripts/chro_1991.aspx",
+      "authority": "Reserve Bank of India",
+      "review": "Direct official chronology web text"
+    },
+    {
+      "claim": "LERMS dual exchange rate introduced March 1992; unified exchange rate in 1993.",
+      "source": "https://www.rbi.org.in/History/Brief_Chro1991to2000.html",
+      "authority": "Reserve Bank of India",
+      "review": "Direct official chronology web text"
+    },
+    {
+      "claim": "Unification occurred in March 1993.",
+      "source": "https://www.rbi.org.in/upload/publicationreport/pdfs/14029.pdf",
+      "authority": "Reserve Bank of India",
+      "review": "Official publication indexed text; full PDF not independently downloaded"
+    },
+    {
+      "claim": "FEMA 1999 replaced FERA 1973 and came into force 1 June 2000; do not attribute this legal transition to 1991.",
+      "source": "https://www.dor.gov.in/foreign-exchange-management-act-1999-42-1999",
+      "authority": "Government of India Department of Revenue",
+      "review": "Direct official department web text"
+    }
+  ],
+  "unresolved": [
+    "Original July 1991 Industrial Policy signed/full policy PDF not directly accessed",
+    "Original FEMA Gazette commencement notification and India Code section 49 text not directly opened",
+    "Mains 4 complete answer not re-audited claim-by-claim against its editable master",
+    "Sectoral employment, competition, technology outcomes remain unverified",
+    "No regenerated PDF or post-commit downloaded artifact QA"
+  ],
+  "effect": "Evidence register only; Mains4 INSUFFICIENT remains, R1-R8 unchanged, R9 NOT_STARTED, independent approvals zero",
+  "preservation": "No original topic PDFs, editable masters, MCQs or readiness statuses modified"
+}
