@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-23",
+  "scope": "Downloaded GitHub publication snapshot integrity and structural audit; no academic certification",
+  "baseline_main_sha": "6e95539c0e348813201790af870c6d5395630f23",
+  "packaging_run_id": 45090922714,
+  "artifact_id": 14780583452,
+  "artifact_sha256": "714465dbf22c3c28bfb4e28a19b7132d3a35630692c45ae8c922739fdedcb5ec",
+  "outer_zip_crc": "PASS",
+  "inner_zip_crc": "PASS",
+  "inner_entries": 2341,
+  "original_complete_notes_pdfs": 75,
+  "individual_readiness_json": 75,
+  "html_pages": 92,
+  "local_file_links_checked": 634,
+  "broken_local_file_links": 0,
+  "static_dom_fragments_checked": 1586,
+  "broken_static_dom_fragments": 0,
+  "dynamic_template_fragments_excluded": 2,
+  "dynamic_fragment_examples": [
+    "Paper 3/Unit 3 - Governance/Topic 1/index.html: ${h.id}",
+    "Paper 3/Unit 3 - Governance/Topic 2/index.html: ${h.id}"
+  ],
+  "topic_3_1_1_original_pdf_sha256": "f42399719da004b71e2d04990c92e6b5d84f15ef5575656e504f9e882afaf42a",
+  "individual_status_counts": {
+    "IN_PROGRESS": 7,
+    "ASSESSED_REBUILD_REQUIRED": 68,
+    "NOT_ASSESSED": 0
+  },
+  "individual_academic_approved_true": 0,
+  "limitations": [
+    "No full browser or screen-reader test",
+    "No independent claim-level MCQ/mains academic audit",
+    "Only href/src local paths and literal static fragments tested; JS routes and generated links not certified",
+    "No synchronized academic manuscript or PDF edits",
+    "R1 per-topic field layout differs across records; do not infer global R1 PASS solely from one field"
+  ],
+  "readiness_effect": "None; R1-R8 fully ready zero, R9 not started, approvals zero"
+}
